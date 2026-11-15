@@ -306,3 +306,54 @@ document.addEventListener("DOMContentLoaded",()=>{
       :"Local storage is unavailable, so this overview cannot read your progress.";
   }
 });
+
+
+/* Resume support: remember only the most recently opened lesson on this device. */
+document.addEventListener("DOMContentLoaded",()=>{
+  const lessonMatch=window.location.pathname.match(/\/(?:en\/)?lessons\/((?:a1|a2|b1|b2|c1)-\d{3})\/?$/i);
+  if(lessonMatch){
+    const heading=document.querySelector("main h1")||document.querySelector("h1");
+    const record={
+      id:lessonMatch[1].toLowerCase(),
+      title:heading?.textContent?.trim()||lessonMatch[1].toUpperCase(),
+      url:window.location.pathname
+    };
+    try{localStorage.setItem("jg-last-lesson-v1",JSON.stringify(record));}catch(error){}
+  }
+
+  const dashboard=document.querySelector("[data-learning-dashboard]");
+  if(!dashboard)return;
+
+  const fr=document.documentElement.lang==="fr";
+  let record=null;
+  try{
+    const saved=JSON.parse(localStorage.getItem("jg-last-lesson-v1")||"null");
+    if(saved&&typeof saved==="object"&&typeof saved.url==="string"){
+      const target=new URL(saved.url,window.location.origin);
+      const validPath=/\/(?:en\/)?lessons\/(?:a1|a2|b1|b2|c1)-\d{3}\/?$/i.test(target.pathname);
+      if(target.origin===window.location.origin&&validPath)record={...saved,url:target.pathname};
+    }
+  }catch(error){}
+
+  const card=document.createElement("article");
+  card.className="card learning-resume";
+  const eyebrow=document.createElement("span");
+  eyebrow.className="eyebrow";
+  eyebrow.textContent=fr?"Reprendre":"Pick up where you left off";
+  const heading=document.createElement("h2");
+  heading.textContent=record
+    ?(fr?"Ta dernière leçon":"Your last lesson")
+    :(fr?"Commencer le parcours":"Start your learning path");
+  const description=document.createElement("p");
+  description.textContent=record
+    ?(fr?"Dernière leçon consultée : ":"Last lesson opened: ")+record.title
+    :(fr?"Aucune leçon n’a encore été ouverte depuis cet appareil. Choisis un niveau et commence à ton rythme.":"You have not opened a lesson on this device yet. Choose a level and begin at your own pace.");
+  const link=document.createElement("a");
+  link.className="text-link";
+  link.href=record?record.url:"../path/";
+  link.textContent=record
+    ?(fr?"Reprendre cette leçon →":"Continue this lesson →")
+    :(fr?"Explorer le parcours →":"Explore the learning path →");
+  card.append(eyebrow,heading,description,link);
+  dashboard.insertAdjacentElement("afterend",card);
+});
