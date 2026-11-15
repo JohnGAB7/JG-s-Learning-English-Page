@@ -379,3 +379,15 @@ document.addEventListener("DOMContentLoaded",()=>{
   card.append(copy,link);
   dashboard.insertAdjacentElement("afterend",card);
 });
+
+/* My Learning account preview: honest guest mode and an accessible future-account dialog. */
+document.addEventListener("DOMContentLoaded",()=>{
+  const dialog=document.querySelector("[data-account-dialog]");
+  const open=document.querySelector("[data-account-info]");
+  if(dialog&&open){
+    const closeButtons=dialog.querySelectorAll("[data-account-close]");
+    open.addEventListener("click",()=>{if(typeof dialog.showModal==="function")dialog.showModal();});
+    closeButtons.forEach(button=>button.addEventListener("click",()=>dialog.close()));
+    dialog.addEventListener("click",event=>{if(event.target===dialog)dialog.close();});
+  }
+});
