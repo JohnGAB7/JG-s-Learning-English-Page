@@ -1,57 +1,45 @@
 # Privacy notice — JG's Learning English
 
-> Implementation status: draft source for review. Do not publish as a legal notice until the controller identity, contact address, retention period, hosting region, processor terms and applicable legal obligations have been verified.
+> Draft for legal review. Do not publish until controller identity/contact details, retention and final processor/transfer information are confirmed.
 
 ## Français
 
-### Confidentialité et progression
+JG's Learning English permet d'apprendre sans compte obligatoire. Si l'apprenant crée volontairement un compte, les données traitées sont limitées à son adresse e-mail (authentification) et à sa progression : identifiants stables de contenus, état (« commencé » ou « terminé ») et date de mise à jour. La finalité est exclusivement de conserver et synchroniser cette progression entre appareils. Les brouillons d'écriture restent locaux par défaut.
 
-JG's Learning English est conçu pour permettre l'apprentissage sans création obligatoire de compte. La navigation, les leçons et les activités restent accessibles en mode invité.
+**Responsable du traitement :** John [nom légal complet et coordonnées à confirmer avant publication].
 
-Lorsqu'un apprenant choisit de créer un compte, le service pourra traiter :
-- son adresse e-mail, utilisée par le service d'authentification ;
-- des identifiants de leçons et d'activités, leur état (« commencé » ou « terminé ») et la date de dernière mise à jour.
+**Hébergement prévu :** Union européenne, région Supabase EU (Francfort), à vérifier dans la configuration réelle avant toute collecte.
 
-La finalité est de retrouver et synchroniser la progression pédagogique entre appareils. Les brouillons d'écriture ne sont pas inclus dans cette synchronisation par défaut. Aucune donnée de progression n'est nécessaire pour consulter les contenus en mode invité.
+**Sous-traitant :** Supabase, Inc. pour l'authentification et la base de données, sous réserve de vérifier l'entité contractante, les sous-traitants ultérieurs et les conditions applicables.
 
-La progression locale reste enregistrée dans le navigateur de l'appareil. Si le service distant est indisponible, l'apprenant doit pouvoir continuer à utiliser le site ; l'interface doit alors indiquer clairement que les données sont enregistrées uniquement sur cet appareil et ne sont pas synchronisées.
+**Conservation :** durée à définir et publier avant l'ouverture des comptes. La suppression du compte entraîne la suppression en cascade des lignes de progression.
 
-L'apprenant doit pouvoir demander la suppression de son compte et des données de progression associées. La durée de conservation, les coordonnées du responsable du traitement, les coordonnées de contact, les éventuels transferts, les sous-traitants et les modalités d'exercice des droits doivent être précisés avant l'ouverture des comptes.
+**Demandes relatives aux données et suppression :** [adresse de contact à renseigner]. La suppression du compte devra passer par un mécanisme serveur sécurisé, jamais par une clé service-role exposée au navigateur.
 
-**Responsable du traitement :** à confirmer avant publication (la proposition actuelle désigne John comme responsable, sous réserve de vérification de l'identité juridique et des coordonnées à afficher).
-
-**Durée de conservation :** à définir et publier avant l'activation des comptes.
-
-**Contact et demandes relatives aux données :** à renseigner avant publication.
+**Limite de réinitialisation V1 :** aucune tombstone n'est prévue. Une ligne supprimée peut être recréée par un autre appareil qui détient encore cette progression. Cette limite doit être expliquée dans l'interface ou résolue ultérieurement avec un mécanisme reset_at/tombstone.
 
 ## English
 
-### Privacy and learning progress
+JG's Learning English supports guest learning without a mandatory account. If a learner voluntarily creates an account, processing is limited to their email address (authentication) and learning progress: stable content IDs, status ("started" or "completed"), and update timestamp. The sole purpose is to retain and synchronise progress across devices. Writing drafts remain local by default.
 
-JG's Learning English is designed to support learning without requiring an account. Browsing, lessons and practice activities remain available to guests.
+**Data controller:** John [full legal name and contact details to be confirmed before publication].
 
-If a learner chooses to create an account, the service may process:
-- their email address, used by the authentication service;
-- lesson and activity identifiers, their state ("started" or "completed"), and the time of the latest update.
+**Planned hosting:** European Union, Supabase EU (Frankfurt) region, to be verified in the actual project configuration before collecting data.
 
-The purpose is to restore and synchronise learning progress across devices. Writing drafts are excluded from account synchronisation by default. Guest learners do not need to provide progress data to access learning content.
+**Processor:** Supabase, Inc. for authentication and database services, subject to verification of the contracting entity, subprocessors and applicable terms.
 
-Local progress remains stored in the browser on the learner's device. If the remote service is unavailable, learners should still be able to use the site; the interface must clearly state that progress is stored on this device only and is not synchronised.
+**Retention:** period to be defined and published before accounts are opened. Account deletion cascades to associated progress rows.
 
-Learners must be able to request deletion of their account and associated progress data. The retention period, controller identity and contact details, any transfers, processors, and data-rights procedures must be specified before accounts are opened.
+**Data requests and account deletion:** [contact address to be completed]. Account deletion must use a secure server-side mechanism; a service-role key must never be exposed in the browser.
 
-**Data controller:** to be confirmed before publication (the current proposal names John as controller, subject to verification of the legal identity and contact details to display).
-
-**Retention period:** to be defined and published before account activation.
-
-**Contact and data requests:** to be completed before publication.
+**V1 reset limitation:** there are no progress tombstones. A deleted row may be recreated by another device that still holds the progress. This must be explained in the reset UI or addressed later with reset_at/tombstones.
 
 ## Release checklist
 
-- [ ] Confirm controller identity and contact details.
-- [ ] Define a proportionate retention period and deletion procedure.
-- [ ] Verify Supabase processing terms, subprocessors and EU-region availability.
-- [ ] Verify the selected project is hosted in the EU region before storing learner data.
-- [ ] Add a clear account deletion flow and test cascading deletion.
-- [ ] Review the notice for GDPR transparency and legal completeness.
-- [ ] Publish the notice in both language editions before enabling account creation.
+- [ ] Confirm John's legal controller identity and public contact details.
+- [ ] Define and publish a proportionate retention period.
+- [ ] Verify actual Supabase EU (Frankfurt) region.
+- [ ] Verify Supabase contracting entity, DPA, subprocessors and transfer terms.
+- [ ] Implement account deletion through a secure server-side function/RPC.
+- [ ] Explain reset semantics or implement tombstones.
+- [ ] Complete legal review and publish both language versions before enabling accounts.
