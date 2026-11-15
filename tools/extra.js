@@ -118,9 +118,13 @@ document.addEventListener("DOMContentLoaded",()=>{
     const completeStudioActivity=id=>{
       if(!id||progress[id]?.completed)return;
       const record={completed:true,completedAt:new Date().toISOString(),persisted:true};
-      const next={...progress,[id]:record};
+      const next=Object.fromEntries(Object.entries(progress).map(([key,value])=>[
+        key,value?.completed?{...value,persisted:true}:value
+      ]));
+      next[id]=record;
       const saved=saveStore(progressKey,next);
-      progress[id]=saved?record:{...record,persisted:false};
+      if(saved)Object.assign(progress,next);
+      else progress[id]={...record,persisted:false};
       renderStudioProgress();
     };
     document.addEventListener('studio:complete',event=>completeStudioActivity(event.detail?.id));
