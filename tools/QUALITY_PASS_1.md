@@ -31,7 +31,7 @@ Commands executed from the repository root:
 | `python3 tools/validate_studios.py` | PASS — six activity contracts and source evidence |
 | `python3 tools/validate_lessons.py 1 30` | PASS — 30/30 |
 | `python3 tools/build.py` | PASS — French and English editions built, 144 lessons each |
-| `python3 tools/validate_site.py` | PASS — 306 HTML pages and 12,984 local references; no broken paths or fragments, no metadata/H1/ID/image-alt issues |
+| `python3 tools/validate_site.py` | PASS — 308 HTML pages and 13,668 local references; no broken paths or fragments, no metadata/H1/ID/image-alt issues |
 
 ### Important content-completeness finding
 
