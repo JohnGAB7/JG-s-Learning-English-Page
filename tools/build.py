@@ -67,7 +67,7 @@ def load(lang):
     WS = {a[0]: a[1] for a in ATELIERS}
     REFS = json.loads((ROOT / "data" / "references.json").read_text(encoding="utf-8"))
     NEWS = json.loads((d / "actualites.json").read_text(encoding="utf-8"))
-    NAV = [("path/", t("Path", "Parcours")), ("speak/", t("Speak", "Parler")), ("lessons/", t("Lessons", "Leçons")), ("studios/", "Studios"),
+    NAV = [("path/", t("Path", "Parcours")), ("speak/", t("Speak", "Parler")), ("lessons/", t("Lessons", "Leçons")), ("studios/", "Studios"), ("my-learning/", t("My learning", "Mon espace")),
            ("review/", t("Review", "Réviser")), ("news/", t("News", "Actualités")), ("about/", t("About", "À propos"))]
 
 
@@ -193,7 +193,7 @@ def page(title, body, depth, rel, current="", desc=""):
         f'<div class="site-search-results" data-site-search-results aria-live="polite"></div></div></details>'
         f'<script>window.SITE_SEARCH_INDEX={search_json};</script>'
     )
-    base = "https://johngab7.github.io/JG-s-Learning-English/docs/"
+    base = "https://johngab7.github.io/JG-s-Learning-English-Page/"
     default_desc = t("Learn English from A1 to C1, entirely in English: complete lessons, exercises with answers, a speaking lab about real life, review cards and world news.",
                      "Apprendre l’anglais de A1 à C1 : leçons complètes expliquées en français, exercices corrigés, laboratoire pour parler de sa vie, cartes de révision et actualités.")
     return f"""<!doctype html>
@@ -733,6 +733,37 @@ def build_studios():
             + f'<div class="quote-panel" style="margin-top:48px"><div><span class="eyebrow">{t("A learning loop", "Une boucle d’apprentissage")}</span><h2>{t("Learn it. Practise it. Retrieve it. Use it.", "Apprendre. S’entraîner. Retrouver. Utiliser.")}</h2><p>{t("A studio activity should never be an isolated click: it should send you back to a lesson, prepare you for a real conversation or strengthen your next review.", "Une activité de studio ne doit jamais être un clic isolé : elle doit te ramener vers une leçon, te préparer à une vraie conversation ou renforcer ta prochaine révision.")}</p></div><a class="button button-primary" href="../path/">{t("Explore the A1–C1 path", "Explorer le parcours A1–C1")} →</a></div></div></section>')
     write("studios/index.html", page(f"{t('Practice Studios', 'Studios d’entraînement')} — {SITE}", body, 1, "studios/", "studios/"))
 
+def build_my_learning():
+    """Build a transparent, browser-local overview of the progress the site already stores."""
+    studio_ids = [activity["activity_id"] for activity in ACTIVITIES]
+    speaking_keys = [
+        topic["id"] + "-" + level.lower()
+        for topic in SPEAKING["topics"]
+        for level in SPEAKING["levels"]
+        if topic["levels"][level]["status"] == "published"
+    ]
+    studio_json = e(json.dumps(studio_ids, ensure_ascii=False))
+    speaking_json = e(json.dumps(speaking_keys, ensure_ascii=False))
+    body = (
+        hero_page([t("My learning", "Mon espace")], t("Your personal overview", "Ton espace de progression"),
+                  t("See your progress. <em>Choose your next step.</em>", "Vois tes progrès. <em>Choisis la suite.</em>"),
+                  t("A simple overview of the practice you have completed and the work you have saved in this browser. No account is required.",
+                    "Un aperçu simple des activités terminées et du travail enregistré dans ce navigateur. Aucun compte n’est nécessaire."), 1)
+        + f'<section class="section"><div class="container"><div class="section-head"><div><span class="eyebrow">{t("Your activity", "Ton activité")}</span><h2>{t("Progress you can actually see.", "Une progression visible et concrète.")}</h2></div><p>{t("These figures come from the activities that currently save progress. They are local to this browser and are not synchronised across devices.", "Ces chiffres proviennent des activités qui enregistrent actuellement une progression. Ils restent dans ce navigateur et ne sont pas synchronisés entre appareils.")}</p></div>'
+        + f'<div class="grid-3 learning-stats" data-learning-dashboard data-studio-ids="{studio_json}" data-speaking-keys="{speaking_json}">'
+        + f'<article class="card learning-stat"><span class="eyebrow">{t("Practice Studios", "Studios d’entraînement")}</span><strong data-learning-value="studios">—</strong><progress max="{len(studio_ids)}" value="0" data-learning-progress="studios" aria-label="{t("Completed Studio activities", "Activités Studio terminées")}"></progress><p>{t("Activities completed", "Activités terminées")}</p></article>'
+        + f'<article class="card learning-stat"><span class="eyebrow">Speak English in Real Life</span><strong data-learning-value="speaking">—</strong><progress max="{max(1, len(speaking_keys))}" value="0" data-learning-progress="speaking" aria-label="{t("Completed conversation units", "Unités de conversation terminées")}"></progress><p>{t("Published conversation units completed", "Unités de conversation disponibles terminées")}</p></article>'
+        + f'<article class="card learning-stat"><span class="eyebrow">{t("Memory & Review", "Mémoire et révision")}</span><strong data-learning-value="review">—</strong><p>{t("Words with a saved review score", "Mots avec un score de révision enregistré")}</p><small data-learning-value="review-priority">—</small></article>'
+        + f'<article class="card learning-stat"><span class="eyebrow">{t("Writing", "Écriture")}</span><strong data-learning-value="drafts">—</strong><p>{t("Saved writing drafts", "Brouillons d’écriture enregistrés")}</p></article>'
+        + f'<article class="card learning-stat"><span class="eyebrow">{t("Conversation notes", "Notes de conversation")}</span><strong data-learning-value="notes">—</strong><p>{t("Topics with notes saved on this device", "Sujets avec des notes enregistrées sur cet appareil")}</p></article>'
+        + f'</div><p class="muted" data-learning-storage-status role="status" aria-live="polite">{t("Reading your local progress…", "Lecture de ta progression locale…")}</p>'
+        + f'<div class="quote-panel" style="margin-top:40px"><div><span class="eyebrow">{t("A useful next step", "Une prochaine étape utile")}</span><h2>{t("Keep the learning loop moving.", "Fais vivre la boucle d’apprentissage.")}</h2><p>{t("Study a lesson, practise one skill, then return to review. You can resume from any of the spaces below.", "Étudie une leçon, entraîne une compétence, puis reviens réviser. Tu peux reprendre depuis l’un des espaces ci-dessous.")}</p></div><div class="hero-actions"><a class="button button-primary" href="../path/">{t("Explore the path", "Explorer le parcours")}</a><a class="button button-outline" href="../studios/">{t("Open the Studios", "Ouvrir les Studios")}</a><a class="button button-outline" href="../speak/">{t("Practise speaking", "Pratiquer l’oral")}</a></div></div>'
+        + f'<p class="small muted" style="margin-top:28px">{t("Transparency note: lesson-page completion is not tracked yet. This overview reports only Studio activities, published Speak units, saved review scores, writing drafts and conversation notes.", "Transparence : la lecture des leçons n’est pas encore suivie comme une activité terminée. Cette page ne présente que les activités Studio, les unités Speak publiées, les scores de révision, les brouillons d’écriture et les notes de conversation.")}</p>'
+        + '</div></section>'
+    )
+    write("my-learning/index.html", page(f"{t('My learning', 'Mon espace')} — {SITE}", body, 1, "my-learning/", "my-learning/"))
+
+
 def build_review():
     cards = [{"en": w, "ex": s, "def": d, "n": n["n"], "lvl": n["niveau"], "url": f"../lessons/{lid(n)}/"} for n in NOTIONS for w, s, d in n["mots"]]
     data = json.dumps(cards, ensure_ascii=False).replace("</", "<\\/")
@@ -837,6 +868,7 @@ def build_language(lang):
     build_speak()
     build_library()
     build_studios()
+    build_my_learning()
     for i, n in enumerate(NOTIONS):
         build_lesson(i, n)
     build_review()
@@ -846,7 +878,7 @@ def build_language(lang):
 
 
 def main():
-    for d in ("path", "speak", "lessons", "studios", "review", "news", "about") + OLD_DIRS + ("assets",):
+    for d in ("path", "speak", "lessons", "studios", "my-learning", "review", "news", "about") + OLD_DIRS + ("assets",):
         shutil.rmtree(DOCS / d, ignore_errors=True)
     (DOCS / "index.html").unlink(missing_ok=True)
     load("fr")

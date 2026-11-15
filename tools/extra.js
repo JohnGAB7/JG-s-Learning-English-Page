@@ -258,3 +258,124 @@ document.addEventListener("DOMContentLoaded",()=>{
     });
   });
 });
+
+
+/* Browser-local learning overview. It reads existing stores; it creates no new profile. */
+document.addEventListener("DOMContentLoaded",()=>{
+  const dashboard=document.querySelector("[data-learning-dashboard]");
+  if(!dashboard)return;
+  const fr=document.documentElement.lang==="fr";
+  const readObject=key=>{
+    try{const value=JSON.parse(localStorage.getItem(key)||"{}");return value&&typeof value==="object"&&!Array.isArray(value)?value:{};}
+    catch(e){return {};}
+  };
+  const setValue=(name,value)=>{
+    const node=dashboard.querySelector('[data-learning-value="'+name+'"]');
+    if(node)node.textContent=String(value);
+  };
+  const setProgress=(name,value,max)=>{
+    const node=dashboard.querySelector('[data-learning-progress="'+name+'"]');
+    if(node){node.max=Math.max(1,max);node.value=Math.min(value,max);}
+  };
+  const status=dashboard.parentElement.querySelector("[data-learning-storage-status]");
+  try{
+    const studioIds=JSON.parse(dashboard.dataset.studioIds||"[]");
+    const speakingKeys=JSON.parse(dashboard.dataset.speakingKeys||"[]");
+    const studio=readObject("jg-studio-progress-v1");
+    const studioDone=studioIds.filter(id=>studio[id]?.completed).length;
+    const speakingDone=speakingKeys.filter(key=>localStorage.getItem("jg-speaking-complete-"+key)==="1").length;
+    const notes=speakingKeys.filter(key=>(localStorage.getItem("jg-speaking-"+key)||"").trim().length>0).length;
+    const review=readObject("jg-review");
+    const reviewCount=Object.keys(review).length;
+    const priorityCount=Object.values(review).filter(value=>Number(value)>=5).length;
+    const drafts=Object.keys(localStorage).filter(key=>key.startsWith("jg-writing-")&&(localStorage.getItem(key)||"").trim().length>0).length;
+    setValue("studios",studioDone+" / "+studioIds.length);
+    setValue("speaking",speakingDone+" / "+speakingKeys.length);
+    setValue("review",reviewCount);
+    setValue("review-priority",fr?priorityCount+" mot(s) à revoir en priorité":priorityCount+" word(s) marked for extra review");
+    setValue("drafts",drafts);
+    setValue("notes",notes);
+    setProgress("studios",studioDone,studioIds.length);
+    setProgress("speaking",speakingDone,speakingKeys.length);
+    if(status)status.textContent=fr
+      ?"Données lues sur cet appareil. Elles ne sont ni envoyées ni synchronisées."
+      :"Progress read on this device. It is not uploaded or synchronised.";
+  }catch(error){
+    if(status)status.textContent=fr
+      ?"Le stockage local est indisponible : cette vue ne peut pas lire ta progression."
+      :"Local storage is unavailable, so this overview cannot read your progress.";
+  }
+});
+
+
+/* Resume support: remember only the most recently opened lesson on this device. */
+document.addEventListener("DOMContentLoaded",()=>{
+  const lessonMatch=window.location.pathname.match(/\/(?:en\/)?lessons\/((?:a1|a2|b1|b2|c1)-\d{3})\/?$/i);
+  if(lessonMatch){
+    const heading=document.querySelector("main h1")||document.querySelector("h1");
+    const record={
+      id:lessonMatch[1].toLowerCase(),
+      title:(heading?.textContent?.trim()||lessonMatch[1].toUpperCase()).slice(0,160),
+      url:window.location.pathname,
+      visitedAt:Date.now()
+    };
+    try{localStorage.setItem("jg-last-lesson-v1",JSON.stringify(record));}catch(error){}
+  }
+
+  const dashboard=document.querySelector("[data-learning-dashboard]");
+  if(!dashboard)return;
+
+  const fr=document.documentElement.lang==="fr";
+  let record=null;
+  try{
+    const saved=JSON.parse(localStorage.getItem("jg-last-lesson-v1")||"null");
+    if(saved&&typeof saved==="object"&&typeof saved.url==="string"){
+      const target=new URL(saved.url,window.location.origin);
+      const match=target.pathname.match(/\/(?:en\/)?lessons\/((?:a1|a2|b1|b2|c1)-\d{3})\/?$/i);
+      if(target.origin===window.location.origin&&match){
+        record={
+          id:match[1].toLowerCase(),
+          title:typeof saved.title==="string"&&saved.title.trim()?saved.title.trim().slice(0,160):match[1].toUpperCase(),
+          url:target.pathname,
+          visitedAt:Number.isFinite(saved.visitedAt)&&saved.visitedAt>0&&saved.visitedAt<=8640000000000000?saved.visitedAt:null
+        };
+      }
+    }
+  }catch(error){}
+
+  const card=document.createElement("article");
+  card.className="card learning-resume";
+  card.setAttribute("aria-labelledby","learning-resume-title");
+  const copy=document.createElement("div");
+  copy.className="learning-resume-copy";
+  const eyebrow=document.createElement("span");
+  eyebrow.className="eyebrow";
+  eyebrow.textContent=fr?"Reprendre":"Pick up where you left off";
+  const heading=document.createElement("h2");
+  heading.id="learning-resume-title";
+  heading.textContent=record
+    ?(fr?"Ta dernière leçon":"Your last lesson")
+    :(fr?"Commencer le parcours":"Start your learning path");
+  const description=document.createElement("p");
+  description.textContent=record
+    ?(fr?"Dernière leçon consultée : ":"Last lesson opened: ")+record.title
+    :(fr?"Aucune leçon n’a encore été ouverte depuis cet appareil. Choisis un niveau et commence à ton rythme.":"You have not opened a lesson on this device yet. Choose a level and begin at your own pace.");
+  copy.append(eyebrow,heading,description);
+
+  if(record?.visitedAt){
+    const time=document.createElement("time");
+    time.className="learning-resume-time";
+    time.dateTime=new Date(record.visitedAt).toISOString();
+    time.textContent=(fr?"Consultée le ":"Opened on ")+new Intl.DateTimeFormat(fr?"fr-BE":"en-GB",{dateStyle:"medium"}).format(new Date(record.visitedAt));
+    copy.append(time);
+  }
+
+  const link=document.createElement("a");
+  link.className="button button-primary learning-resume-link";
+  link.href=record?record.url:"../path/";
+  link.textContent=record
+    ?(fr?"Reprendre cette leçon →":"Continue this lesson →")
+    :(fr?"Explorer le parcours →":"Explore the learning path →");
+  card.append(copy,link);
+  dashboard.insertAdjacentElement("afterend",card);
+});
