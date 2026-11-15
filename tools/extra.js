@@ -337,7 +337,7 @@ document.addEventListener("DOMContentLoaded",()=>{
           id:match[1].toLowerCase(),
           title:typeof saved.title==="string"&&saved.title.trim()?saved.title.trim().slice(0,160):match[1].toUpperCase(),
           url:target.pathname,
-          visitedAt:Number.isFinite(saved.visitedAt)&&saved.visitedAt>0?saved.visitedAt:null
+          visitedAt:Number.isFinite(saved.visitedAt)&&saved.visitedAt>0&&saved.visitedAt<=8640000000000000?saved.visitedAt:null
         };
       }
     }
