@@ -90,12 +90,26 @@ document.addEventListener("DOMContentLoaded",()=>{
     const completedCount=()=>studioCards.filter(card=>progress[card.dataset.activityId]?.completed).length;
     const renderStudioProgress=()=>{
       studioCards.forEach(card=>{
-        const done=!!progress[card.dataset.activityId]?.completed;
+        const record=progress[card.dataset.activityId];
+        const done=!!record?.completed;
+        const persisted=record?.persisted!==false;
         card.dataset.activityState=done?'completed':'incomplete';
         const status=card.querySelector('[data-activity-status]');
-        if(status){status.textContent=done?(document.documentElement.lang==='fr'?'Terminée sur cet appareil':'Completed on this device'):(document.documentElement.lang==='fr'?'Pas encore terminée':'Not completed yet');status.dataset.state=done?'completed':'incomplete';}
+        if(status){
+          status.textContent=done
+            ?(persisted
+              ?(document.documentElement.lang==='fr'?'Terminée sur cet appareil':'Completed on this device')
+              :(document.documentElement.lang==='fr'?'Terminée pour cette session uniquement':'Completed for this session only'))
+            :(document.documentElement.lang==='fr'?'Pas encore terminée':'Not completed yet');
+          status.dataset.state=done?'completed':'incomplete';
+        }
         const button=card.querySelector('[data-complete-activity]');
-        if(button&&done){button.disabled=true;button.textContent=document.documentElement.lang==='fr'?'Activité terminée':'Activity completed';}
+        if(button&&done){
+          button.disabled=true;
+          button.textContent=persisted
+            ?(document.documentElement.lang==='fr'?'Activité terminée':'Activity completed')
+            :(document.documentElement.lang==='fr'?'Terminée pour cette session':'Completed for this session');
+        }
       });
       const count=completedCount(),label=document.querySelector('[data-studio-progress-count]'),bar=document.querySelector('[data-studio-progress-bar]');
       if(label)label.textContent=count+' / '+studioCards.length;
@@ -103,8 +117,14 @@ document.addEventListener("DOMContentLoaded",()=>{
     };
     const completeStudioActivity=id=>{
       if(!id||progress[id]?.completed)return;
-      progress[id]={completed:true,completedAt:new Date().toISOString()};
-      saveStore(progressKey,progress);
+      const record={completed:true,completedAt:new Date().toISOString(),persisted:true};
+      const next=Object.fromEntries(Object.entries(progress).map(([key,value])=>[
+        key,value?.completed?{...value,persisted:true}:value
+      ]));
+      next[id]=record;
+      const saved=saveStore(progressKey,next);
+      if(saved)Object.assign(progress,next);
+      else progress[id]={...record,persisted:false};
       renderStudioProgress();
     };
     document.addEventListener('studio:complete',event=>completeStudioActivity(event.detail?.id));
