@@ -310,13 +310,14 @@ document.addEventListener("DOMContentLoaded",()=>{
 
 /* Resume support: remember only the most recently opened lesson on this device. */
 document.addEventListener("DOMContentLoaded",()=>{
-  const lessonMatch=window.location.pathname.match(/\/(?:en\/)?lessons\/((?:a1|a2|b1|b2|c1)-\d{3})\/?$/i);
+  const lessonMatch=window.location.pathname.match(/\\/(?:en\\/)?lessons\\/((?:a1|a2|b1|b2|c1)-\\d{3})\\/?$/i);
   if(lessonMatch){
     const heading=document.querySelector("main h1")||document.querySelector("h1");
     const record={
       id:lessonMatch[1].toLowerCase(),
-      title:heading?.textContent?.trim()||lessonMatch[1].toUpperCase(),
-      url:window.location.pathname
+      title:(heading?.textContent?.trim()||lessonMatch[1].toUpperCase()).slice(0,160),
+      url:window.location.pathname,
+      visitedAt:Date.now()
     };
     try{localStorage.setItem("jg-last-lesson-v1",JSON.stringify(record));}catch(error){}
   }
@@ -330,17 +331,28 @@ document.addEventListener("DOMContentLoaded",()=>{
     const saved=JSON.parse(localStorage.getItem("jg-last-lesson-v1")||"null");
     if(saved&&typeof saved==="object"&&typeof saved.url==="string"){
       const target=new URL(saved.url,window.location.origin);
-      const validPath=/\/(?:en\/)?lessons\/(?:a1|a2|b1|b2|c1)-\d{3}\/?$/i.test(target.pathname);
-      if(target.origin===window.location.origin&&validPath)record={...saved,url:target.pathname};
+      const match=target.pathname.match(/\\/(?:en\\/)?lessons\\/((?:a1|a2|b1|b2|c1)-\\d{3})\\/?$/i);
+      if(target.origin===window.location.origin&&match){
+        record={
+          id:match[1].toLowerCase(),
+          title:typeof saved.title==="string"&&saved.title.trim()?saved.title.trim().slice(0,160):match[1].toUpperCase(),
+          url:target.pathname,
+          visitedAt:Number.isFinite(saved.visitedAt)&&saved.visitedAt>0?saved.visitedAt:null
+        };
+      }
     }
   }catch(error){}
 
   const card=document.createElement("article");
   card.className="card learning-resume";
+  card.setAttribute("aria-labelledby","learning-resume-title");
+  const copy=document.createElement("div");
+  copy.className="learning-resume-copy";
   const eyebrow=document.createElement("span");
   eyebrow.className="eyebrow";
   eyebrow.textContent=fr?"Reprendre":"Pick up where you left off";
   const heading=document.createElement("h2");
+  heading.id="learning-resume-title";
   heading.textContent=record
     ?(fr?"Ta dernière leçon":"Your last lesson")
     :(fr?"Commencer le parcours":"Start your learning path");
@@ -348,12 +360,22 @@ document.addEventListener("DOMContentLoaded",()=>{
   description.textContent=record
     ?(fr?"Dernière leçon consultée : ":"Last lesson opened: ")+record.title
     :(fr?"Aucune leçon n’a encore été ouverte depuis cet appareil. Choisis un niveau et commence à ton rythme.":"You have not opened a lesson on this device yet. Choose a level and begin at your own pace.");
+  copy.append(eyebrow,heading,description);
+
+  if(record?.visitedAt){
+    const time=document.createElement("time");
+    time.className="learning-resume-time";
+    time.dateTime=new Date(record.visitedAt).toISOString();
+    time.textContent=(fr?"Consultée le ":"Opened on ")+new Intl.DateTimeFormat(fr?"fr-BE":"en-GB",{dateStyle:"medium"}).format(new Date(record.visitedAt));
+    copy.append(time);
+  }
+
   const link=document.createElement("a");
-  link.className="text-link";
+  link.className="button button-primary learning-resume-link";
   link.href=record?record.url:"../path/";
   link.textContent=record
     ?(fr?"Reprendre cette leçon →":"Continue this lesson →")
     :(fr?"Explorer le parcours →":"Explore the learning path →");
-  card.append(eyebrow,heading,description,link);
+  card.append(copy,link);
   dashboard.insertAdjacentElement("afterend",card);
 });
