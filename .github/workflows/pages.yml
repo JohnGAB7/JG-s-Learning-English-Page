@@ -1,6 +1,8 @@
-name: Build and deploy JG's Learning English
+name: Build generated JG's Learning English site
 
-# Requires Settings > Pages > Build and deployment > Source = GitHub Actions.
+# GitHub Pages is already configured to publish master /docs.
+# This workflow rebuilds that directory from the canonical tools/ sources.
+# The built-in GitHub Pages branch publisher deploys the committed output.
 on:
   push:
     branches: [master]
@@ -16,11 +18,9 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: github-pages
+  group: build-generated-site
   cancel-in-progress: false
 
 jobs:
@@ -37,9 +37,6 @@ jobs:
         run: python3 tools/build.py
       - name: Validate generated website
         run: python3 tools/validate_site.py
-      - name: Configure Pages
-        if: github.event_name != 'pull_request'
-        uses: actions/configure-pages@v5
       - name: Commit generated pages to master
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
         run: |
@@ -52,19 +49,3 @@ jobs:
             git commit -m "Build generated website"
             git push origin HEAD:master
           fi
-      - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: docs
-
-  deploy:
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
