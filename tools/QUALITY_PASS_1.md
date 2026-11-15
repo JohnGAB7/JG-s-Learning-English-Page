@@ -67,3 +67,12 @@ This is a content coverage gap, not a broken build: the generator successfully p
 - The stored path is checked to remain on the same origin and to match a valid A1–C1 lesson route before it is rendered as a link.
 - If no lesson has been opened yet, the dashboard directs the learner to the learning path.
 - Browser execution, storage-denied behaviour and real-device navigation have not yet been tested; this is a source-level implementation awaiting local build and browser verification.
+
+
+### Resume card refinement
+
+- The resume card now records the local date/time when the last lesson was opened and displays a localized date in the dashboard.
+- Stored lesson paths are revalidated against the same origin and supported lesson-route pattern before rendering.
+- Lesson titles are length-limited and inserted as text, not HTML.
+- The card has a responsive layout, a semantic heading relationship and a clear primary action.
+- Source-level review only: browser storage edge cases, screen-reader output, keyboard focus and narrow viewport rendering still require runtime verification.
