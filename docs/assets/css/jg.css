@@ -236,3 +236,12 @@
 @media(prefers-reduced-motion:reduce){
   .studio-card *{scroll-behavior:auto!important;transition:none!important}
 }
+
+
+/* Learner dashboard — make local progress figures easy to scan. */
+.learning-stats{grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));align-items:stretch}
+.learning-stat{display:flex;flex-direction:column;gap:12px;min-height:184px}
+.learning-stat strong{display:block;font:600 2.15rem/1.05 "Source Serif 4",Georgia,serif;color:var(--teal);font-variant-numeric:tabular-nums;letter-spacing:-.035em}
+.learning-stat progress{display:block;width:100%;height:8px;accent-color:var(--teal)}
+.learning-stat p{margin:0;line-height:1.55}
+.learning-stat small{margin-top:auto;color:var(--muted);line-height:1.5}
