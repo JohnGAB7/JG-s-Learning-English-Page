@@ -258,3 +258,51 @@ document.addEventListener("DOMContentLoaded",()=>{
     });
   });
 });
+
+
+/* Browser-local learning overview. It reads existing stores; it creates no new profile. */
+document.addEventListener("DOMContentLoaded",()=>{
+  const dashboard=document.querySelector("[data-learning-dashboard]");
+  if(!dashboard)return;
+  const fr=document.documentElement.lang==="fr";
+  const readObject=key=>{
+    try{const value=JSON.parse(localStorage.getItem(key)||"{}");return value&&typeof value==="object"&&!Array.isArray(value)?value:{};}
+    catch(e){return {};}
+  };
+  const setValue=(name,value)=>{
+    const node=dashboard.querySelector('[data-learning-value="'+name+'"]');
+    if(node)node.textContent=String(value);
+  };
+  const setProgress=(name,value,max)=>{
+    const node=dashboard.querySelector('[data-learning-progress="'+name+'"]');
+    if(node){node.max=Math.max(1,max);node.value=Math.min(value,max);}
+  };
+  const status=dashboard.parentElement.querySelector("[data-learning-storage-status]");
+  try{
+    const studioIds=JSON.parse(dashboard.dataset.studioIds||"[]");
+    const speakingKeys=JSON.parse(dashboard.dataset.speakingKeys||"[]");
+    const studio=readObject("jg-studio-progress-v1");
+    const studioDone=studioIds.filter(id=>studio[id]?.completed).length;
+    const speakingDone=speakingKeys.filter(key=>localStorage.getItem("jg-speaking-complete-"+key)==="1").length;
+    const notes=speakingKeys.filter(key=>(localStorage.getItem("jg-speaking-"+key)||"").trim().length>0).length;
+    const review=readObject("jg-review");
+    const reviewCount=Object.keys(review).length;
+    const priorityCount=Object.values(review).filter(value=>Number(value)>=5).length;
+    const drafts=Object.keys(localStorage).filter(key=>key.startsWith("jg-writing-")&&(localStorage.getItem(key)||"").trim().length>0).length;
+    setValue("studios",studioDone+" / "+studioIds.length);
+    setValue("speaking",speakingDone+" / "+speakingKeys.length);
+    setValue("review",reviewCount);
+    setValue("review-priority",fr?priorityCount+" mot(s) à revoir en priorité":priorityCount+" word(s) marked for extra review");
+    setValue("drafts",drafts);
+    setValue("notes",notes);
+    setProgress("studios",studioDone,studioIds.length);
+    setProgress("speaking",speakingDone,speakingKeys.length);
+    if(status)status.textContent=fr
+      ?"Données lues sur cet appareil. Elles ne sont ni envoyées ni synchronisées."
+      :"Progress read on this device. It is not uploaded or synchronised.";
+  }catch(error){
+    if(status)status.textContent=fr
+      ?"Le stockage local est indisponible : cette vue ne peut pas lire ta progression."
+      :"Local storage is unavailable, so this overview cannot read your progress.";
+  }
+});
