@@ -1,0 +1,203 @@
+{
+"n": 21,
+"niveau": "A1",
+"titre": "Telling the time",
+"intro": "Ask the time, give the time, and say when a class, a film or a train starts. You need this every day.",
+"objectifs": [
+ "Ask the time politely (What time is it? / What's the time?).",
+ "Give the time in two ways: with past and to (half past seven) and the digital way (seven thirty).",
+ "Show morning or evening with a.m., p.m., in the morning, in the evening.",
+ "Say when something happens with “at” (The film starts at eight)."
+],
+"sections": [
+ {
+  "titre": "Asking and giving the time",
+  "texte": [
+   "To ask the time, say “What time is it?” or “What's the time?” (very common in British English). With a stranger, be more polite: “Excuse me, do you have the time?” or “Have you got the time?”.",
+   "To answer, always start with “It's”. The subject “it” is necessary, like for the weather (lesson 1). Never say “It's seven hours”: we don't use “hours” to give the time.",
+   "Use “o'clock” only for exact hours: “It's seven o'clock.” Never use it with minutes."
+  ],
+  "exemples": [
+   ["What time is it? — It's three o'clock.", "Question and answer."],
+   ["Excuse me, have you got the time? — Yes, it's ten past four.", "Polite question to a stranger."],
+   ["It's nearly six.", "nearly = almost."]
+  ],
+  "note": "“Do you have the time?” (with the) = What time is it? Without “the”, “Do you have time?” means “Are you free? Can you do something?”."
+ },
+ {
+  "titre": "The traditional way: past and to",
+  "texte": [
+   "Say the minutes first, then the hour. From 1 to 30 minutes, use “past” (after the hour). From 31 to 59 minutes, count the minutes before the next hour and use “to”.",
+   "15 minutes = “a quarter”, 30 minutes = “half”. We say “a quarter past”, “a quarter to”, but “half past” (never “a half past”).",
+   "When the minutes are not 5, 10, 15 and so on, add the word “minutes”: “It's twenty-two minutes past six.”"
+  ],
+  "tableau": {
+   "entetes": ["Time", "In words", "Note"],
+   "lignes": [
+    ["7:00", "seven o'clock", "exact hour"],
+    ["7:05", "five past seven", "5 minutes after 7"],
+    ["7:15", "a quarter past seven", "15 minutes after 7"],
+    ["7:30", "half past seven", "30 minutes after 7"],
+    ["7:40", "twenty to eight", "20 minutes before 8"],
+    ["7:45", "a quarter to eight", "15 minutes before 8"],
+    ["7:55", "five to eight", "5 minutes before 8"]
+   ]
+  },
+  "note": "Careful: with “to”, you say the NEXT hour. 7:45 = a quarter to EIGHT. In American English you also hear “a quarter after seven” (7:15) and “a quarter of eight” (7:45)."
+ },
+ {
+  "titre": "The digital way: read the numbers",
+  "texte": [
+   "You can also say the hour and then the minutes, like on a screen. It is easy and very common. We always use it for train, plane and appointment times.",
+   "For 01 to 09 minutes, say “oh” for the zero: 9:05 = “nine oh five”.",
+   "In informal British English, people also say “half seven”. It means 7:30 (half past seven), never 6:30."
+  ],
+  "exemples": [
+   ["It's seven thirty.", "7:30."],
+   ["It's nine oh five.", "9:05 (oh = zero)."],
+   ["It's eleven forty-five.", "11:45."],
+   ["The train leaves at eighteen twenty.", "18:20: official timetables use the 24-hour clock."]
+  ]
+ },
+ {
+  "titre": "Morning, afternoon, evening",
+  "texte": [
+   "In conversation, English speakers mostly use the 12-hour clock. To be clear, they add “a.m.” (from midnight to midday) or “p.m.” (from midday to midnight), or “in the morning”, “in the afternoon”, “in the evening”, “at night”.",
+   "Don't say “It's 14 p.m.”: with a.m. and p.m., use only the numbers 1 to 12. Don't use “o'clock” with a.m. or p.m. either: say “2 p.m.” or “two o'clock in the afternoon”."
+  ],
+  "tableau": {
+   "entetes": ["24-hour clock", "Conversation", "Another way"],
+   "lignes": [
+    ["08:00", "eight a.m.", "eight o'clock in the morning"],
+    ["12:00", "twelve noon / midday", "twelve o'clock"],
+    ["14:00", "two p.m.", "two o'clock in the afternoon"],
+    ["19:30", "seven thirty p.m.", "half past seven in the evening"],
+    ["23:00", "eleven p.m.", "eleven o'clock at night"],
+    ["00:00", "midnight", "twelve o'clock at night"]
+   ]
+  },
+  "exemples": [
+   ["The shop opens at 9 a.m.", "9:00 in the morning."],
+   ["I finish work at six in the evening.", "18:00."]
+  ]
+ },
+ {
+  "titre": "When? at, from… to, about",
+  "texte": [
+   "To say when something happens, use “at” before the time (lesson 18): “at seven”, “at half past six”. The question is “What time…?”: “What time does the film start?”.",
+   "For a period: “from nine to five”. For a time that is not exact: “at about eight” or “around eight”.",
+   "Three useful expressions: “early” (before the right time), “late” (after the right time), “on time” (at the right time)."
+  ],
+  "exemples": [
+   ["What time does the film start? — At a quarter past eight.", "Question with “What time”, answer with “at”."],
+   ["I work from nine to five.", "A period of time."],
+   ["Let's meet at about seven.", "Not exactly seven."],
+   ["The bus is never on time.", "It is always late."]
+  ],
+  "note": "Don't say “At what hour…?”. Say “What time…?”."
+ }
+],
+"formule": "It's + time: seven o'clock · ten past seven · half past seven · a quarter to eight · seven forty-five",
+"prononciation": [
+ "“o'clock” is /əˈklɒk/: the first o is weak, the stress is on “clock”.",
+ "In “half” /hɑːf/, you don't say the l. The same in “calm” and “walk”.",
+ "“quarter” /ˈkwɔːtə/: there is a w sound after the k (kwo-). In British English you don't say the final r.",
+ "Stress: thirTEEN (13) but THIRty (30), fifTEEN but FIFty. A mistake here can make you miss a train!",
+ "“past” /pɑːst/ and “to” /tə/ are quick and weak: “ten past four” sounds like “ten pas four”."
+],
+"erreurs": [
+ ["It is seven hours.", "It's seven o'clock.", "Don't use “hours” to give the time; use “o'clock” for exact hours."],
+ ["It's seven and half.", "It's half past seven.", "30 minutes = “half past” + the hour."],
+ ["It's eight less ten.", "It's ten to eight.", "Minutes first, then “to” + the next hour."],
+ ["It's seven thirty o'clock.", "It's seven thirty.", "Use “o'clock” only with exact hours, never with minutes."],
+ ["At what hour does it start?", "What time does it start?", "The question is “What time…?”."],
+ ["The meeting is on 10 a.m.", "The meeting is at 10 a.m.", "Use “at” before a time."],
+ ["It's 14 p.m.", "It's 2 p.m.", "With a.m. / p.m., count from 1 to 12."]
+],
+"dialogue": {
+ "contexte": "At Brussels-South station, Lucie asks a traveller the time and looks for her train.",
+ "lignes": [
+  ["Lucie", "Excuse me, have you got the time?", "A polite way to ask the time."],
+  ["Tom", "Yes, it's twenty to five.", "4:40."],
+  ["Lucie", "Thanks. What time is the next train to Paris?", "“What time” = at what moment."],
+  ["Tom", "Let me see… at five fifteen, from platform 3.", "The digital way: 5:15."],
+  ["Lucie", "A quarter past five? Great, I'm early!", "The same time, the traditional way."],
+  ["Tom", "Yes, but this train is often late.", "late = after the right time."],
+  ["Lucie", "Oh no. My meeting is at eight p.m.", "p.m. = after midday."],
+  ["Tom", "Don't worry. It's only one hour and twenty minutes to Paris.", "“hour” for a length of time."]
+ ]
+},
+"mots": [
+ ["o'clock", "It's nine o'clock.", "used for exact hours only"],
+ ["quarter", "It's a quarter past six.", "fifteen minutes"],
+ ["half", "It's half past ten.", "thirty minutes; one of two equal parts"],
+ ["minute", "The bus comes in five minutes.", "sixty seconds"],
+ ["hour", "The film is two hours long.", "sixty minutes"],
+ ["early", "We're early. The shop isn't open.", "before the usual or right time"],
+ ["late", "Sorry, I'm late!", "after the usual or right time"],
+ ["on time", "The train is on time today.", "at the right time, not late"],
+ ["midday", "We have lunch at midday.", "12 o'clock in the day"],
+ ["midnight", "The party ends at midnight.", "12 o'clock at night"]
+],
+"exercices": [
+ {
+  "titre": "1. The traditional way",
+  "consigne": "Write the time in words with o'clock, past or to.",
+  "items": [
+   ["7:00", "It's seven o'clock."],
+   ["7:15", "It's a quarter past seven."],
+   ["7:30", "It's half past seven."],
+   ["7:45", "It's a quarter to eight."],
+   ["8:10", "It's ten past eight."],
+   ["8:35", "It's twenty-five to nine."]
+  ]
+ },
+ {
+  "titre": "2. The digital way",
+  "consigne": "Write the time like you read it on a screen.",
+  "items": [
+   ["6:20", "It's six twenty."],
+   ["9:45", "It's nine forty-five."],
+   ["11:05", "It's eleven oh five."],
+   ["3:30", "It's three thirty."]
+  ]
+ },
+ {
+  "titre": "3. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["It's eight and half.", "It's half past eight. (or: It's eight thirty.)"],
+   ["It's twelve hours.", "It's twelve o'clock. / It's midday."],
+   ["What hour is it?", "What time is it? / What's the time?"],
+   ["The class starts on nine o'clock.", "The class starts at nine o'clock."],
+   ["It's seven less a quarter.", "It's a quarter to seven."]
+  ]
+ },
+ {
+  "titre": "4. From 24 hours to 12 hours",
+  "consigne": "Write the time with a.m. or p.m., or with in the morning / afternoon / evening.",
+  "items": [
+   ["14:00", "2 p.m. / two o'clock in the afternoon"],
+   ["21:30", "9.30 p.m. / half past nine in the evening"],
+   ["08:15", "8.15 a.m. / a quarter past eight in the morning"],
+   ["00:00", "midnight / twelve o'clock at night"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Describe your day in four sentences with times: when you get up, when you start and finish work or classes, when you go to bed.",
+  "items": [
+   ["Model answer", "I get up at half past six. I start work at eight o'clock. I finish at a quarter to five. I go to bed at about eleven p.m."]
+  ]
+ }
+],
+"a_retenir": [
+ "Question: What time is it? / What's the time? Answer: It's… (you need the subject “it”).",
+ "Minutes first: ten past seven (7:05 to 7:30), twenty to eight (7:31 to 7:59); a quarter, half past.",
+ "Use “o'clock” only for exact hours; never “hours” to give the time.",
+ "Digital way: seven thirty, nine oh five; a.m. before midday, p.m. after midday (1 to 12).",
+ "When? → What time…? → at eight, at half past six."
+],
+"liens": [18, 20, 22, 6],
+"refs": ["bc-prep-time", "cam-using"]
+}

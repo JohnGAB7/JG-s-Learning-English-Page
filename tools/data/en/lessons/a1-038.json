@@ -1,0 +1,204 @@
+{
+"n": 38,
+"niveau": "A1",
+"titre": "Shopping",
+"intro": "In a shop, you need to answer the shop assistant, ask for a size or a colour, try clothes on, pay and sometimes take something back. This lesson gives you the names of shops and the key phrases for customers and shop assistants.",
+"objectifs": [
+ "Name the main shops (baker's, chemist's, supermarket…).",
+ "Answer the shop assistant and ask for a thing, a size, a colour.",
+ "Try things on, pay (by card, in cash) and understand the shop assistant at the till.",
+ "Return or change something with a receipt."
+],
+"sections": [
+ {
+  "titre": "Shops",
+  "texte": [
+   "In British English, we often name a shop after the person who works there + ’s: “the baker's”, “the butcher's”, “the chemist's”. You can also say “the bakery”, “the pharmacy”.",
+   "Careful: a “magazine” is something you read. A place where you buy things is “a shop” (UK) or “a store” (US)."
+  ],
+  "tableau": {
+   "entetes": ["British English", "American English", "You buy…", "Example"],
+   "lignes": [
+    ["the supermarket", "the supermarket / grocery store", "food, drinks", "I go to the supermarket on Fridays."],
+    ["the baker's / bakery", "the bakery", "bread, cakes", "The baker's opens at 6 a.m."],
+    ["the butcher's", "the butcher shop", "meat", "I buy chicken at the butcher's."],
+    ["the chemist's / pharmacy", "the drugstore / pharmacy", "medicine, soap", "Is there a chemist's near here?"],
+    ["the newsagent's", "the newsstand", "newspapers, magazines", "He buys a paper at the newsagent's."],
+    ["the bookshop", "the bookstore", "books", "I love this bookshop."],
+    ["the clothes shop", "the clothing store", "clothes", "She works in a clothes shop."],
+    ["the market", "the market", "fruit, vegetables, everything", "The market is cheap."],
+    ["the shopping centre", "the mall", "a lot of shops in one building", "Let's meet at the shopping centre."]
+   ]
+  },
+  "note": "A “library” is where you borrow books for free; a place where you buy books is “a bookshop”."
+ },
+ {
+  "titre": "Talking to the shop assistant",
+  "texte": [
+   "The shop assistant (US “salesclerk”) often says: “Can I help you?” or “Are you looking for anything in particular?”",
+   "If you only want to look: “No, thanks. I'm just looking.” If you want something: “Yes, I'm looking for a jacket.” or “Have you got any umbrellas?” / “Do you have any umbrellas?”",
+   "For a size or a colour: “Have you got this in a medium?”, “Do you have it in blue?”, “What size are you? — I'm a medium / a size 40.”"
+  ],
+  "tableau": {
+   "entetes": ["The assistant says…", "The customer answers…", "Situation"],
+   "lignes": [
+    ["Can I help you?", "No, thanks. I'm just looking.", "you only want to look"],
+    ["Can I help you?", "Yes, I'm looking for a black jacket.", "you want something"],
+    ["What size are you?", "I'm a medium. / I'm a size 38.", "clothes size"],
+    ["How about this one?", "Have you got it in a smaller size?", "it's the wrong size"],
+    ["The fitting rooms are over there.", "Thank you.", "where to try clothes on"]
+   ]
+  },
+  "exemples": [
+   ["Excuse me, have you got this shirt in white?", "Asking for a colour."],
+   ["Do you have these shoes in a size 42?", "Asking for a size."]
+  ]
+ },
+ {
+  "titre": "Trying on and choosing",
+  "texte": [
+   "To try clothes: “Can I try it on?” / “Can I try them on?” (for trousers, shoes). The rooms for this: “the fitting rooms” (US “dressing rooms”).",
+   "To give your opinion: “It's too big / too small / too long.”; “It fits.” (it's the right size); “It suits you.” or “It looks great on you.” (it looks good on you). Lesson 48 looks at “too” in more detail.",
+   "To decide: “I'll take it.” (I want to buy it) or “I'll leave it, thanks.” (I don't want it). These are fixed phrases."
+  ],
+  "exemples": [
+   ["Can I try these trousers on? — Of course. The fitting rooms are on the left.", "try on + them / these trousers."],
+   ["This jacket is too small. Have you got a large?", "too + adjective."],
+   ["That dress really suits you!", "It looks good on you."]
+  ]
+ },
+ {
+  "titre": "Paying",
+  "texte": [
+   "Ask the price with “How much is it?” / “How much are they?” (lesson 30). The assistant says: “That's 25 euros, please.” or “That's 40 dollars altogether.”",
+   "Pay “by card” or “in cash”. Useful questions: “Can I pay by card?”, “Do you take cards?”, “Can I pay contactless?”. You pay at “the till” / “the checkout” (UK) or “the register” (US).",
+   "The assistant gives you money back: “Here's your change.” and a paper: “Here's your receipt.” They may ask: “Would you like a bag?”. Low prices for a short time: “the sales”; a cheaper item is “in the sale” (UK) or “on sale” (US)."
+  ],
+  "exemples": [
+   ["Can I pay by card? — Yes, of course. Just tap here.", "tap = touch the machine with your card."],
+   ["That's 12 euros 50. — Here you are. — Thank you. Here's your change and your receipt.", "At the till."],
+   ["These shoes are in the sale: 30% off!", "30% off = 30% cheaper."]
+  ]
+ },
+ {
+  "titre": "Returning things and useful verbs",
+  "texte": [
+   "To take something back: “Can I return this, please?” / “Can I change this for a bigger size?”. Explain: “It doesn't work.”, “It's broken.”, “It's the wrong size.”. Show the receipt: “I've got the receipt.” To get your money back: “Can I have a refund?”",
+   "Verbs: “buy”, “sell”, “pay for something” (with “for”), “spend” (use money), “cost” (have a price).",
+   "“Do the shopping” = buy food and things for the home; “go shopping” = go to shops for pleasure, often for clothes."
+  ],
+  "exemples": [
+   ["Excuse me, I'd like to return this phone. It doesn't work.", "Returning something."],
+   ["I pay for my groceries by card.", "pay for + thing."],
+   ["I do the shopping on Saturday mornings, and sometimes I go shopping with friends in the afternoon.", "do the shopping vs go shopping."]
+  ]
+ }
+],
+"formule": "Can I help you? — I'm just looking / I'm looking for… · Have you got it in…? · Can I try it on? · Can I pay by card?",
+"prononciation": [
+ "“receipt” is /rɪˈsiːt/: don't say the p (“ri-seet”).",
+ "“Can I try it on?” is linked in one chain: /kən aɪ ˈtraɪ ɪt ˈɒn/ ≈ “kuh-nai-trai-yi-ton”.",
+ "“chemist's” /ˈkemɪsts/: “ch” sounds like /k/. The final -sts needs practice.",
+ "“size” /saɪz/ ends with /z/; “fit” /fɪt/ has a short i: don't confuse it with “feet” /fiːt/.",
+ "“I'm just looking”: stress LOOKing; “just” is quick."
+],
+"erreurs": [
+ ["I pay the shoes.", "I pay for the shoes.", "Say “pay for” + the thing you buy."],
+ ["Have you this in blue?", "Have you got this in blue? / Do you have this in blue?", "Question with “have got” or “do you have”."],
+ ["I'm going to the magazine.", "I'm going to the shop.", "A magazine is something you read."],
+ ["Can I pay with card?", "Can I pay by card?", "Say “by card” and “in cash”."],
+ ["I'm only watching.", "I'm just looking.", "Fixed phrase: “I'm just looking”."],
+ ["I make the shopping on Saturday.", "I do the shopping on Saturday.", "Use “do the shopping”."],
+ ["It's too much expensive.", "It's too expensive.", "Too + adjective, no “much”."],
+ ["Can I try it? (clothes)", "Can I try it on?", "For clothes: try on."]
+],
+"dialogue": {
+ "contexte": "In Montreal, in November, Fatima is looking for a winter coat in a clothes shop.",
+ "lignes": [
+  ["Assistant", "Hi there! Can I help you?", "The usual first question."],
+  ["Fatima", "Yes, please. I'm looking for a warm winter coat.", "Saying what you want."],
+  ["Assistant", "These coats are very warm. What size are you?", "Asking the size."],
+  ["Fatima", "I'm a medium. Have you got this one in dark green?", "Asking for a colour."],
+  ["Assistant", "Yes, here you are. The fitting rooms are over there.", "Where to try it on."],
+  ["Fatima", "Hmm, it's a bit too big. Can I try a small?", "too big = bigger than she needs."],
+  ["Assistant", "Sure. Oh, that looks great on you!", "A compliment."],
+  ["Fatima", "Thanks! How much is it?", "Asking the price."],
+  ["Assistant", "It's 180 dollars, but it's on sale today: 20% off.", "on sale (US/Canada) = cheaper."],
+  ["Fatima", "Perfect, I'll take it. Can I pay by card?", "Deciding and paying."]
+ ]
+},
+"mots": [
+ ["shop assistant", "The shop assistant is very helpful.", "a person who helps customers in a shop"],
+ ["size", "What size are you?", "how big clothes or shoes are"],
+ ["try on", "Can I try on these jeans?", "put on clothes to see if they fit"],
+ ["fitting room", "Where's the fitting room?", "a small room in a shop to try clothes on (US: dressing room)"],
+ ["receipt", "Keep the receipt.", "a paper that shows what you paid"],
+ ["cash", "Can I pay in cash?", "money in coins and notes"],
+ ["card", "Do you take cards?", "a bank card for paying"],
+ ["change", "Here's your change.", "the money you get back when you pay too much"],
+ ["sale", "Everything is in the sale.", "a time when prices are lower"],
+ ["refund", "Can I have a refund?", "money given back to you"]
+],
+"exercices": [
+ {
+  "titre": "1. Which shop?",
+  "consigne": "Where do you buy these things? Write the name of the shop (British English).",
+  "items": [
+   ["bread and croissants", "the baker's / the bakery"],
+   ["medicine", "the chemist's / the pharmacy"],
+   ["a novel", "the bookshop"],
+   ["meat", "the butcher's"],
+   ["a newspaper", "the newsagent's"],
+   ["a T-shirt", "a clothes shop"]
+  ]
+ },
+ {
+  "titre": "2. Customer or shop assistant?",
+  "consigne": "Who says this: the customer or the shop assistant?",
+  "items": [
+   ["Can I help you?", "shop assistant"],
+   ["I'm just looking.", "customer"],
+   ["What size are you?", "shop assistant"],
+   ["Can I pay by card?", "customer"]
+  ]
+ },
+ {
+  "titre": "3. Complete",
+  "consigne": "Complete with the missing word.",
+  "items": [
+   ["Can I try it ___?", "on"],
+   ["Can I pay ___ card?", "by"],
+   ["Have you got it ___ a medium?", "in"],
+   ["I'd like to pay ___ cash.", "in"],
+   ["Here's your ___. (the money you get back)", "change"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["No, thanks. I'm only watching.", "No, thanks. I'm just looking."],
+   ["Have you it in blue?", "Have you got it in blue? / Do you have it in blue?"],
+   ["Can I try it? (a jacket)", "Can I try it on?"],
+   ["It's too much expensive.", "It's too expensive."],
+   ["I'd like to return this jumper. Here's the ticket of the shop.", "I'd like to return this jumper. Here's the receipt."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write a six-line dialogue in a shoe shop: the assistant offers help, you ask for a size and a colour, you try them on, you ask the price and you pay.",
+  "items": [
+   ["Model answer", "Assistant: Can I help you? Me: Yes, I'm looking for trainers. Have you got these in a size 41? Assistant: Yes. What colour would you like? Me: White, please. Can I try them on? … They fit! How much are they? Assistant: They're 65 euros. Me: OK, I'll take them. Can I pay by card?"]
+  ]
+ }
+],
+"a_retenir": [
+ "Shops: the baker's, the butcher's, the chemist's, the bookshop, the supermarket; a shop / store, not a “magazine”.",
+ "Can I help you? — No, thanks. I'm just looking. / Yes, I'm looking for…",
+ "Have you got this in a medium / in blue? Can I try it on? It's too big. It suits you.",
+ "Paying: by card, in cash; Here's your change and your receipt; pay FOR something.",
+ "do the shopping (food, home) ≠ go shopping (for pleasure)."
+],
+"liens": [25, 30, 34, 48],
+"refs": ["bc-a1a2", "cam-using"]
+}

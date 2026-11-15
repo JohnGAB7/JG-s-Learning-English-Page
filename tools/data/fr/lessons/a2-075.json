@@ -1,0 +1,212 @@
+{
+"n": 75,
+"niveau": "A2",
+"titre": "Les connecteurs so, then, after that",
+"intro": "Pour raconter une histoire, expliquer une recette ou décrire une journée, il faut relier les étapes dans l’ordre (first, then, after that, finally) et montrer les conséquences (so). Ces petits mots rendent un récit clair et naturel.",
+"objectifs": [
+ "Ordonner les étapes d’un récit avec first, then, next, after that, later, finally.",
+ "Exprimer une conséquence avec so et la distinguer de because.",
+ "Utiliser before et after correctement (+ nom, + -ing, + proposition), sans dire « After, we… ».",
+ "Choisir entre finally, in the end, at the end et eventually."
+],
+"sections": [
+ {
+  "titre": "Ordonner les étapes",
+  "texte": [
+   "Les connecteurs de séquence se placent en général au début de la phrase, suivis d’une virgule à l’écrit (facultative après « then »).",
+   "On commence par « First » ou « First of all » (d’abord, tout d’abord), on continue avec « Then », « Next », « After that », « Later » (plus tard), et on termine par « Finally » (enfin, pour finir).",
+   "« Then » est le plus fréquent à l’oral ; on l’entend souvent dans « and then ». Variez : une suite de « then… then… then… » est lourde."
+  ],
+  "tableau": {
+   "entetes": ["Connecteur", "Sens", "Exemple"],
+   "lignes": [
+    ["First / First of all", "d’abord, tout d’abord", "First, I had a shower."],
+    ["Then / And then", "puis, ensuite", "Then I made breakfast."],
+    ["Next", "ensuite (étape suivante)", "Next, add the onions."],
+    ["After that / Afterwards", "après ça, ensuite", "After that, we went to the beach."],
+    ["Later / Later on", "plus tard", "Later, my cousins arrived."],
+    ["Finally", "enfin, pour finir (dernière étape)", "Finally, we had dinner."]
+   ]
+  },
+  "exemples": [
+   ["First, we visited the old town. Then we had lunch by the river.", "D’abord, nous avons visité la vieille ville. Ensuite, nous avons déjeuné au bord de la rivière."],
+   ["After that, we took the train back to Namur.", "Après ça, nous avons repris le train pour Namur."],
+   ["Finally, we got home at midnight.", "Enfin, nous sommes rentrés à minuit."]
+  ]
+ },
+ {
+  "titre": "So : la conséquence",
+  "texte": [
+   "« So » (donc, alors, c’est pourquoi) introduit le résultat d’une situation. On met souvent une virgule avant : « It was raining, so we stayed at home. »",
+   "« So » et « because » disent la même relation dans les deux sens : « because » introduit la cause, « so » la conséquence. « We stayed at home because it was raining. » = « It was raining, so we stayed at home. »",
+   "« So » ne se place pas en tête d’une phrase écrite soignée pour relier à la phrase précédente ; à l’oral, « So, … » au début sert aussi à introduire ou résumer : « So, how was your trip? »"
+  ],
+  "tableau": {
+   "entetes": ["Cause", "Conséquence avec so", "Même idée avec because"],
+   "lignes": [
+    ["I was tired.", "I was tired, so I went to bed early.", "I went to bed early because I was tired."],
+    ["The bus didn't come.", "The bus didn't come, so I took a taxi.", "I took a taxi because the bus didn't come."],
+    ["She's ill.", "She's ill, so she isn't coming.", "She isn't coming because she's ill."]
+   ]
+  },
+  "exemples": [
+   ["The shop was closed, so we went to the market.", "Le magasin était fermé, donc nous sommes allés au marché."],
+   ["I didn't have any cash, so I paid by card.", "Je n’avais pas d’espèces, alors j’ai payé par carte."]
+  ]
+ },
+ {
+  "titre": "Before et after : attention au piège",
+  "texte": [
+   "« Before » et « after » sont des prépositions ou des conjonctions : ils ont besoin d’un complément. On dit « after lunch » (+ nom), « after eating » (+ -ing) ou « after we ate » (+ proposition).",
+   "Seul, en début de phrase, « After, we went… » est une erreur typique des francophones (« Après, on est allés… »). Dites « After that, … » ou « Afterwards, … ».",
+   "« Before » seul en fin de phrase existe dans le sens de « avant, auparavant » : « I've never been there before. »"
+  ],
+  "tableau": {
+   "entetes": ["Faux", "Correct"],
+   "lignes": [
+    ["After, we watched a film.", "After that, we watched a film. / Afterwards, we watched a film."],
+    ["After to eat, we went out.", "After eating, we went out. / After we ate, we went out."],
+    ["Before to leave, close the window.", "Before leaving, close the window. / Before you leave, close the window."]
+   ]
+  },
+  "exemples": [
+   ["After dinner, we played cards.", "Après le dîner, nous avons joué aux cartes."],
+   ["Before going to bed, I always read a little.", "Avant d’aller me coucher, je lis toujours un peu."]
+  ]
+ },
+ {
+  "titre": "Finally, in the end, at the end, eventually",
+  "texte": [
+   "« Finally » marque la dernière étape d’une liste, ou une chose qui arrive après une longue attente : « Finally, the bus arrived. »",
+   "« In the end » (finalement, au bout du compte) donne le résultat après des changements ou des hésitations : « We wanted to go to the beach, but in the end we stayed at home. »",
+   "« At the end of » + nom = à la fin de (un lieu ou un moment précis) : « at the end of the film », « at the end of the street ». « Eventually » veut dire « finalement, après longtemps » — faux ami : il ne veut pas dire « éventuellement » (= « possibly, maybe »)."
+  ],
+  "exemples": [
+   ["We waited for two hours. Finally, the plane took off.", "Nous avons attendu deux heures. Enfin, l’avion a décollé."],
+   ["I wanted the red phone, but in the end I bought the black one.", "Je voulais le téléphone rouge, mais finalement j’ai acheté le noir."],
+   ["Everybody cried at the end of the film.", "Tout le monde a pleuré à la fin du film."]
+  ],
+  "note": "« Éventuellement » se dit « possibly » ou « maybe » : « I can possibly come on Friday. »"
+ },
+ {
+  "titre": "Un récit complet",
+  "texte": [
+   "Voici un petit récit au passé qui combine les connecteurs. Remarquez la variété et la ponctuation."
+  ],
+  "exemples": [
+   ["First of all, we drove to Kribi early in the morning.", "Tout d’abord, nous sommes allés en voiture à Kribi tôt le matin."],
+   ["Then we found a small hotel near the beach.", "Ensuite, nous avons trouvé un petit hôtel près de la plage."],
+   ["The sea was very calm, so we went swimming.", "La mer était très calme, alors nous sommes allés nager."],
+   ["After that, we had grilled fish for lunch.", "Après ça, nous avons mangé du poisson braisé à midi."],
+   ["In the end, we stayed three days instead of two!", "Finalement, nous sommes restés trois jours au lieu de deux !"]
+  ]
+ }
+],
+"formule": "First, … Then … After that, … Finally, … · cause, so + conséquence · after + nom / -ing / proposition",
+"prononciation": [
+ "« then » se prononce /ðen/ avec le th sonore (langue entre les dents) ; ne le confondez pas avec « than » /ðən/.",
+ "« afterwards » /ˈɑːftəwədz/ : accent au début, le r ne se prononce pas en anglais britannique (US : /ˈæftərwərdz/, souvent « afterward »).",
+ "« So » est souvent allongé à l’oral quand on réfléchit : « Sooo… what do we do now? »",
+ "Faites une petite pause après le connecteur en début de phrase : « First, | we went… », « After that, | we… ».",
+ "« eventually » /ɪˈventʃuəli/ : accent sur la deuxième syllabe (« i-VEN-tchou-e-li »)."
+],
+"erreurs": [
+ ["After, we went to the cinema.", "After that, we went to the cinema. / Afterwards, we went to the cinema.", "« After » seul en début de phrase ne s’utilise pas ainsi."],
+ ["After to eat, we left.", "After eating, we left. / After we ate, we left.", "Après « after » : nom, -ing ou proposition, jamais « to »."],
+ ["I was tired, because I went to bed.", "I was tired, so I went to bed.", "Conséquence = so ; because = cause."],
+ ["At the end, we decided to stay.", "In the end, we decided to stay.", "Résultat final après hésitation = in the end."],
+ ["I can eventually come tomorrow.", "I can possibly come tomorrow. / Maybe I can come tomorrow.", "Faux ami : eventually = finalement."],
+ ["Firstly we went to the beach, then, then we ate, then we slept.", "First, we went to the beach. Then we had lunch. After that, we had a rest.", "Variez les connecteurs et faites des phrases claires."],
+ ["In the end of the film, she dies.", "At the end of the film, she dies.", "« At the end of » + nom pour un moment précis."]
+],
+"dialogue": {
+ "contexte": "À Liège, Nora raconte à son collègue Samuel comment elle a préparé un repas pour l’anniversaire de sa mère.",
+ "lignes": [
+  ["Samuel", "So, how was your mum's birthday?", "Alors, comment s’est passé l’anniversaire de ta mère ?"],
+  ["Nora", "Great, but busy! First, I went to the market on Saturday morning.", "Super, mais chargé ! D’abord, je suis allée au marché samedi matin."],
+  ["Samuel", "What did you cook?", "Qu’est-ce que tu as cuisiné ?"],
+  ["Nora", "Chicken yassa. I cut the onions, then I put the chicken in a lemon sauce.", "Un poulet yassa. J’ai coupé les oignons, puis j’ai mis le poulet dans une sauce au citron."],
+  ["Samuel", "Sounds delicious. And after that?", "Ça a l’air délicieux. Et après ?"],
+  ["Nora", "After that, I made a cake, but the oven stopped working!", "Après ça, j’ai fait un gâteau, mais le four est tombé en panne !"],
+  ["Samuel", "Oh no! What did you do?", "Oh non ! Qu’est-ce que tu as fait ?"],
+  ["Nora", "I called my neighbour, so I baked it in her kitchen.", "J’ai appelé ma voisine, alors je l’ai fait cuire dans sa cuisine."],
+  ["Samuel", "Good idea! And in the end?", "Bonne idée ! Et finalement ?"],
+  ["Nora", "In the end, everything was perfect. Finally, at ten o'clock, we sang “Happy Birthday”.", "Finalement, tout était parfait. Et pour finir, à dix heures, nous avons chanté « Joyeux anniversaire »."]
+ ]
+},
+"mots": [
+ ["first", "First, read the instructions.", "d’abord, premièrement"],
+ ["then", "Then turn left.", "puis, ensuite"],
+ ["next", "Next, add some salt.", "ensuite (étape suivante)"],
+ ["after that", "After that, we had coffee.", "après ça, ensuite"],
+ ["afterwards", "We can talk afterwards.", "après, plus tard"],
+ ["later", "See you later!", "plus tard"],
+ ["finally", "Finally, the bus arrived.", "enfin, finalement (dernière étape)"],
+ ["in the end", "In the end, we stayed at home.", "finalement, au bout du compte"],
+ ["so", "It was late, so I took a taxi.", "donc, alors (conséquence)"],
+ ["eventually", "She eventually found a job.", "finalement, au bout d’un moment (≠ éventuellement)"]
+],
+"exercices": [
+ {
+  "titre": "1. Choisir le connecteur",
+  "consigne": "Choisis le bon mot.",
+  "items": [
+   ["(First / Finally), wash your hands. Then start cooking.", "First"],
+   ["It was cold, (so / because) I put on a jumper.", "so"],
+   ["(After / After that), we went home.", "After that"],
+   ["We wanted to fly, but (in the end / at the end) we took the train.", "in the end"],
+   ["I read the menu, and (then / before) I ordered.", "then"],
+   ["Everybody clapped (in the end / at the end) of the concert.", "at the end"]
+  ]
+ },
+ {
+  "titre": "2. So ou because ?",
+  "consigne": "Complète avec so ou because.",
+  "items": [
+   ["I missed the bus, ___ I was late for work.", "so"],
+   ["I was late for work ___ I missed the bus.", "because"],
+   ["The restaurant was full, ___ we ate at home.", "so"],
+   ["She stayed in bed ___ she had a fever.", "because"],
+   ["It was sunny, ___ we went to the beach.", "so"]
+  ]
+ },
+ {
+  "titre": "3. Compléter le récit",
+  "consigne": "Complète avec First, Then, After that, In the end ou Finally (chaque mot une fois).",
+  "items": [
+   ["___, we got up early and had breakfast.", "First"],
+   ["___ we took the bus to the city centre.", "Then"],
+   ["___, we visited the museum for two hours.", "After that"],
+   ["We wanted to eat in a restaurant, but ___ we bought sandwiches in the park.", "in the end"],
+   ["___, we came home at seven, very tired but happy.", "Finally"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Après, nous sommes allés au cinéma.", "After that, we went to the cinema. / Afterwards, we went to the cinema."],
+   ["Après avoir mangé, il est parti.", "After eating, he left. / After he ate, he left."],
+   ["Il pleuvait, donc nous sommes restés à la maison.", "It was raining, so we stayed at home."],
+   ["Finalement (après hésitation), j’ai choisi la robe bleue.", "In the end, I chose the blue dress."],
+   ["Je peux éventuellement venir lundi.", "I can possibly come on Monday. / Maybe I can come on Monday."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Raconte une journée récente (un voyage, une fête, une journée de travail) en cinq ou six phrases au passé. Utilise first, then, after that, so et finally ou in the end.",
+  "items": [
+   ["Exemple de réponse", "Last Saturday was my cousin's wedding. First, I went to the hairdresser's at eight. Then I put on my new dress and took a taxi to the church. The ceremony was very long, so the children were tired. After that, we all went to a big restaurant and danced for hours. In the end, I got home at three in the morning!"]
+  ]
+ }
+],
+"a_retenir": [
+ "Séquence : first (of all) → then / next → after that / afterwards → later → finally.",
+ "so = conséquence (It was late, so I left) ; because = cause (I left because it was late).",
+ "after + nom / -ing / proposition ; seul en début de phrase : After that ou Afterwards, jamais « After, … ».",
+ "finally = dernière étape ; in the end = résultat final ; at the end of + nom ; eventually = finalement (≠ éventuellement).",
+ "Une virgule après le connecteur en début de phrase : First, … After that, …"
+],
+"liens": [36, 41, 42, 76, 119],
+"refs": ["cam-sentences", "bc-a1a2"]
+}

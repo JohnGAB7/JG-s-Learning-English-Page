@@ -1,0 +1,217 @@
+{
+"n": 111,
+"niveau": "B1",
+"titre": "Separable phrasal verbs",
+"intro": "Many phrasal verbs (turn off, pick up, fill in…) allow their object to go in the middle: “turn the light off” or “turn off the light”. But with a pronoun there is no choice: “turn it off”. Mastering this word-order rule removes a very noticeable mistake.",
+"objectifs": [
+"Tell the difference between separable, inseparable and intransitive phrasal verbs.",
+"Place a noun object (two possible positions) and a pronoun object (only one position) correctly.",
+"Know about twenty very common separable phrasal verbs and their meanings.",
+"Use a dictionary to check whether a phrasal verb is separable."
+],
+"sections": [
+{
+"titre": "Three families of phrasal verbs",
+"texte": [
+"A phrasal verb combines a verb and a particle (up, off, on, out, down, back, away…). The meaning is often different from the verb alone: “give up” means “stop trying”, which has nothing to do with giving.",
+"For word order, there are three families. Intransitive verbs have no object: get up, break down, grow up. Separable verbs allow the object between the verb and the particle. Inseparable verbs always have the object after the particle."
+],
+"tableau": {
+"entetes": ["Family", "Examples", "Object position"],
+"lignes": [
+["no object (intransitive)", "get up, break down, go out, grow up, set off", "no object: The car broke down."],
+["separable", "turn off, pick up, fill in, put on, throw away", "turn off the TV / turn the TV off / turn it off"],
+["inseparable", "look after, get on (a bus), run into, come across, look for", "look after the kids / look after them (never “look them after”)"]
+]
+}
+},
+{
+"titre": "The golden rule: pronouns go in the middle",
+"texte": [
+"With a separable verb and a NOUN object, both positions are correct: “Can you pick up the kids?” = “Can you pick the kids up?”.",
+"With a PRONOUN object (it, them, him, her, me, us, you), the pronoun must go between the verb and the particle: “pick them up”, never “pick up them”. This is the most frequent mistake with phrasal verbs."
+],
+"tableau": {
+"entetes": ["Object", "Correct", "Wrong"],
+"lignes": [
+["noun", "Put on your coat. / Put your coat on.", "—"],
+["pronoun", "Put it on.", "Put on it."],
+["noun", "I threw away the old shoes. / I threw the old shoes away.", "—"],
+["pronoun", "I threw them away.", "I threw away them."]
+]
+},
+"exemples": [
+["Turn the music down, please. — OK, I'll turn it down.", "Noun in the middle, then pronoun in the middle."],
+["Could you fill in this form? — Sure, I'll fill it in now.", "Noun after the particle, pronoun in the middle."]
+]
+},
+{
+"titre": "Long objects",
+"texte": [
+"When the object is long (a noun with a lot of information, or a clause), put it after the particle. Putting it in the middle makes the sentence hard to follow, because the listener waits too long for the particle.",
+"In practice: short object → both positions; long object → after the particle; pronoun → in the middle."
+],
+"exemples": [
+["Please pick up the documents that I left on the reception desk.", "Long object → after up."],
+["We need to sort out the problem with the delivery to our client in Kinshasa.", "Long object → after out."],
+["She turned down the job offer from the bank in Abidjan.", "Long object → after down."]
+]
+},
+{
+"titre": "Twenty separable verbs to know",
+"texte": [
+"These verbs are very common in speech and writing. Many have a more formal equivalent of Latin origin: it helps you understand the meaning and choose the register (everyday English clearly prefers the phrasal verb)."
+],
+"tableau": {
+"entetes": ["Verb", "Meaning", "Formal equivalent", "Example with a pronoun"],
+"lignes": [
+["put on", "start wearing (clothes)", "—", "It's cold. Put it on."],
+["take off", "remove (clothes)", "remove", "Take them off at the door."],
+["turn on / off", "start / stop a machine or light", "switch on / off", "Turn it off, please."],
+["turn up / down", "make louder / quieter", "increase / reduce", "Turn it down!"],
+["turn down", "refuse (an offer)", "refuse, reject", "They offered me a job, but I turned it down."],
+["pick up", "lift from a surface; collect someone", "collect", "I'll pick you up at six."],
+["put away", "put back in its place", "—", "Put your toys away."],
+["throw away", "put in the bin", "discard", "Don't throw it away!"],
+["give back", "return something", "return", "Can you give it back tomorrow?"],
+["fill in (UK) / fill out (US)", "complete (a form)", "complete", "Please fill it in."],
+["look up", "find information (in a dictionary)", "consult", "I don't know this word. I'll look it up."],
+["write down", "write on paper", "note", "Write it down so you don't forget."],
+["call back / ring back (UK)", "phone again", "return a call", "I'll call you back."],
+["try on", "put on clothes to check them", "—", "Can I try it on?"],
+["put off", "move to a later time", "postpone", "Let's put it off until Friday."],
+["bring up", "start talking about; raise a child", "raise", "Don't bring it up at dinner."],
+["work out", "find the answer", "calculate, solve", "I can't work it out."],
+["sort out", "deal with a problem; organise", "resolve, organise", "Don't worry, I'll sort it out."],
+["set up", "start (a business); install", "establish, install", "She set it up in 2019."],
+["let down", "disappoint", "disappoint", "Please don't let me down."]
+]
+}
+},
+{
+"titre": "How do you know if a verb is separable?",
+"texte": [
+"There is no simple rule. The dictionary tells you: in the Cambridge Dictionary, “turn something off” (with something in the middle) shows a separable verb; “look after someone” (with someone at the end) shows an inseparable verb.",
+"The same verb can change family with its meaning: “take off” (remove clothes) is separable (take it off), but “take off” (a plane leaving the ground) has no object (The plane took off at 9)."
+],
+"exemples": [
+["Take your shoes off, please.", "Separable."],
+["Our plane took off two hours late.", "No object."],
+["I ran into Fatima at the market.", "Inseparable: I ran into her."]
+]
+}
+],
+"formule": "verb + particle + noun · verb + noun + particle · verb + PRONOUN + particle (turn it off)",
+"prononciation": [
+"In a phrasal verb, the main stress usually falls on the particle: turn OFF, pick UP, give BACK.",
+"When a pronoun is in the middle, it is weak and the stress stays on the particle: turn it OFF /ˌtɜːn ɪt ˈɒf/.",
+"Consonant + vowel linking is natural: pick it up /ˌpɪk ɪ ˈtʌp/, turn it off /ˌtɜː nɪ ˈtɒf/.",
+"When a noun follows the phrasal verb, the stress often moves to the noun: turn off the LIGHT."
+],
+"erreurs": [
+["Turn off it.", "Turn it off.", "Pronoun object: always between the verb and the particle."],
+["I'll pick up you at eight.", "I'll pick you up at eight.", "The same rule with you, me, him, her, us, them."],
+["Can you look the children after?", "Can you look after the children?", "look after is inseparable."],
+["She turned the job offer from the international bank down.", "She turned down the job offer from the international bank.", "Long object: after the particle."],
+["Please fill this form.", "Please fill in this form. (US: fill out)", "fill alone = make full (a glass); a form: fill in / out."],
+["I'll call back you later.", "I'll call you back later.", "Pronoun in the middle."],
+["We postponed it off.", "We put it off. / We postponed it.", "Don't mix the formal verb and the particle."]
+],
+"dialogue": {
+"contexte": "Saturday morning in a flat in Brussels. Thomas and his flatmate Aminata are tidying up before their friends arrive.",
+"lignes": [
+["Aminata", "Can you turn the music down? I can't hear myself think.", "Noun object in the middle."],
+["Thomas", "Sorry, I'll turn it down. What should I do with these old magazines?", "Pronoun in the middle."],
+["Aminata", "Throw them away. And put your shoes away too, please.", "throw them away; put your shoes away."],
+["Thomas", "OK. Oh, your mum called. She asked you to call her back.", "call her back."],
+["Aminata", "I'll call her back later. Did you pick up the cake?", "Noun after the particle."],
+["Thomas", "Not yet. I'll pick it up at eleven. The baker wanted to put it off until noon, but I said no.", "pick it up; put it off = postpone."],
+["Aminata", "Good. And I've set up the speaker on the balcony.", "set up = install."],
+["Thomas", "Great — but don't turn it up too much. The neighbours will complain!", "turn it up = make it louder."]
+]
+},
+"mots": [
+["phrasal verb", "“Give up” is a common phrasal verb.", "a verb + particle with a special meaning"],
+["particle", "In “turn off”, “off” is the particle.", "a small word like up, off, out in a phrasal verb"],
+["form", "Please fill in this form.", "an official paper with spaces for information"],
+["postpone", "They postponed the meeting.", "to move an event to a later time (formal for put off)"],
+["switch", "Where's the light switch?", "a button that turns electricity on or off"],
+["rubbish", "Throw the rubbish away.", "things you throw away (US: garbage, trash)"],
+["offer", "She turned down the offer.", "a proposal to give someone something, e.g. a job"],
+["object", "The object goes between the verb and the particle.", "the person or thing that a verb acts on"],
+["pronoun", "“It” is a pronoun.", "a word like it, them, her used instead of a noun"],
+["neighbour", "Our neighbours complained about the noise.", "a person who lives near you (US: neighbor)"]
+],
+"exercices": [
+{
+"titre": "1. Separable or not?",
+"consigne": "Is the verb in CAPITALS separable (S), inseparable (I) or without an object (0)?",
+"items": [
+["Please TURN OFF the lights when you leave.", "S"],
+["Who will LOOK AFTER your cat?", "I"],
+["My car BROKE DOWN on the way to Kribi.", "0"],
+["I need to PICK UP my sister from school.", "S"],
+["I CAME ACROSS an old photo of my grandparents.", "I"]
+]
+},
+{
+"titre": "2. Use a pronoun",
+"consigne": "Rewrite the sentence, replacing the object in brackets with a pronoun.",
+"items": [
+["Can you put on [your jacket]?", "Can you put it on?"],
+["I threw away [the old letters].", "I threw them away."],
+["She gave back [the money] last week.", "She gave it back last week."],
+["Could you write down [the address]?", "Could you write it down?"],
+["We'll pick up [you and your brother] at the station.", "We'll pick you up at the station."],
+["Please fill in [the form] in capital letters.", "Please fill it in in capital letters."]
+]
+},
+{
+"titre": "3. Choose the right verb",
+"consigne": "Complete with: turn down, look up, put off, sort out, try on, set up. Use the right form and place the pronoun if needed.",
+"items": [
+["These shoes look nice. Can I ___ them ___?", "try … on"],
+["I don't know what “bargain” means. I'll ___ it ___.", "look … up"],
+["The meeting is cancelled. They've ___ it ___ until next week.", "put … off"],
+["She got a job offer from Google, but she ___ it ___.", "turned … down"],
+["My brother ___ his own company in Douala in 2021.", "set up"],
+["There's a problem with your bill, but I'll ___ it ___ today.", "sort … out"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one word-order mistake. Write it correctly.",
+"items": [
+["My alarm went off but I turned off it.", "My alarm went off but I turned it off."],
+["Can you look my plants after while I'm away?", "Can you look after my plants while I'm away?"],
+["I'll call back you in ten minutes.", "I'll call you back in ten minutes."],
+["Don't let down me!", "Don't let me down!"]
+]
+},
+{
+"titre": "5. Replace the formal verb",
+"consigne": "Rewrite with a phrasal verb and a pronoun.",
+"items": [
+["Switch the TV off. (use “it”)", "Turn it off, please."],
+["I'll collect you at eight.", "I'll pick you up at eight."],
+["They postponed the wedding.", "They put the wedding off. / They put off the wedding. / They put it off."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Describe a busy day (tidying, moving house, work) in five or six sentences with at least six phrasal verbs, three of them with a pronoun.",
+"items": [
+["Model answer", "Last Saturday we moved to a new flat in Lyon. In the morning I picked up the van and my friends helped me. We took the old furniture apart and threw most of it away. My sister found some old letters, but I didn't want to throw them away, so I put them away in a box. In the evening I set up the internet, but it didn't work, so I called the company and they sorted it out."]
+]
+}
+],
+"a_retenir": [
+"Separable verb + noun: two positions (turn off the TV / turn the TV off).",
+"Separable verb + pronoun: always in the middle (turn it off, pick them up).",
+"Long object: after the particle.",
+"Inseparable verbs (look after, run into, come across): object always after the particle.",
+"The dictionary shows the position: turn something off (separable) / look after someone (inseparable)."
+],
+"liens": [72, 112, 123],
+"refs": ["bc-phrasal", "bc-phrasal-order"]
+}

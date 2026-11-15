@@ -1,0 +1,185 @@
+{
+"n": 79,
+"niveau": "A2",
+"titre": "Au restaurant",
+"intro": "Réserver, commander, demander quelque chose pendant le repas, signaler un problème et payer : au restaurant, tout se dit avec quelques formules polies. Cette leçon reprend « would like » (leçon 34) et va plus loin, avec les habitudes des pays anglophones (pourboire, cuisson, allergies).",
+"objectifs": [
+ "Réserver une table par téléphone et se présenter à l’arrivée.",
+ "Commander un repas complet poliment (I'll have…, Could I have…?) et préciser une cuisson ou une allergie.",
+ "Demander quelque chose pendant le repas et signaler un problème sans être impoli.",
+ "Demander l’addition, payer et comprendre les usages du pourboire."
+],
+"sections": [
+ {
+  "titre": "Réserver et arriver",
+  "texte": [
+   "Pour réserver : « I'd like to book a table for four for Saturday at eight, please. » Le restaurant demande : « What name is it, please? » / « Can I have a name for the booking? » Réponse : « It's under the name Diallo. »",
+   "En arrivant : « Hello, we have a reservation for eight o'clock. The name's Diallo. » ou, sans réservation : « Have you got a table for two? » / « A table for two, please. »",
+   "Attention : pour « nous sommes quatre », on ne dit pas « We are four ». On dit « There are four of us » ou simplement « A table for four, please »."
+  ],
+  "exemples": [
+   ["I'd like to book a table for six on Friday evening.", "Je voudrais réserver une table pour six vendredi soir."],
+   ["Good evening. Have you got a table for three? — Inside or on the terrace?", "Bonsoir. Vous avez une table pour trois ? — À l’intérieur ou en terrasse ?"],
+   ["There are five of us. Can we sit by the window?", "Nous sommes cinq. Pouvons-nous nous asseoir près de la fenêtre ?"]
+  ]
+ },
+ {
+  "titre": "Commander",
+  "texte": [
+   "Le serveur demande : « Are you ready to order? », « What would you like to drink? », « What can I get you? ». Si vous n’êtes pas prêt : « Could we have a few more minutes, please? »",
+   "Pour commander, les formules naturelles sont « I'll have… » (je vais prendre…), « Could I have…? » et « I'd like… ». On évite « I take… » et « I want… ».",
+   "Le repas : « a starter » (GB, US « appetizer ») = une entrée ; « a main course » (US « entrée » !) = le plat principal ; « a dessert » ; « a side dish » = un accompagnement ; « the dish of the day » = le plat du jour."
+  ],
+  "tableau": {
+   "entetes": ["Le serveur", "Le client"],
+   "lignes": [
+    ["Are you ready to order?", "Yes. For my starter, I'll have the soup."],
+    ["And for your main course?", "Could I have the grilled chicken, please?"],
+    ["How would you like your steak?", "Medium, please. (rare = saignant, medium = à point, well done = bien cuit)"],
+    ["Would you like any side dishes?", "Yes, some chips and a salad."],
+    ["Anything to drink?", "A bottle of still water, please. (still = plate, sparkling = gazeuse)"],
+    ["Would you like a dessert?", "No, thank you. Just a coffee."]
+   ]
+  },
+  "exemples": [
+   ["What do you recommend? — The fish is excellent today.", "Que nous conseillez-vous ? — Le poisson est excellent aujourd’hui."],
+   ["I'm allergic to nuts. Is there any peanut in this sauce?", "Je suis allergique aux fruits à coque. Y a-t-il de l’arachide dans cette sauce ?"],
+   ["I'm vegetarian. Have you got any dishes without meat?", "Je suis végétarien(ne). Vous avez des plats sans viande ?"]
+  ]
+ },
+ {
+  "titre": "Pendant le repas",
+  "texte": [
+   "Pour appeler le serveur discrètement : « Excuse me! » avec un petit signe de la main (ne claquez jamais des doigts). Pour demander : « Could we have some more bread, please? », « Could I have another glass of water? », « Could you bring me a spoon? »",
+   "Le serveur peut dire : « Enjoy your meal! » (Bon appétit ! — en anglais, « bon appétit » est rare) et passer demander : « Is everything OK? » / « How is everything? » Réponse : « It's delicious, thank you. »",
+   "Pour signaler un problème poliment : « Excuse me, I think there's a mistake. I ordered the fish, not the chicken. », « I'm sorry, but my soup is cold. »"
+  ],
+  "exemples": [
+   ["Excuse me, could we have some more napkins, please?", "Excusez-moi, pourrions-nous avoir d’autres serviettes ?"],
+   ["How is everything? — Lovely, thanks. The sauce is delicious.", "Tout se passe bien ? — Très bien, merci. La sauce est délicieuse."],
+   ["Sorry, but this isn't what I ordered. I asked for the vegetarian pasta.", "Désolé, mais ce n’est pas ce que j’ai commandé. J’ai demandé les pâtes végétariennes."]
+  ],
+  "note": "Couverts : a knife (couteau), a fork (fourchette), a spoon (cuillère), a teaspoon (petite cuillère), a napkin (GB aussi serviette) = serviette de table, a plate (assiette), a glass (verre)."
+ },
+ {
+  "titre": "Payer et laisser un pourboire",
+  "texte": [
+   "Pour l’addition : « Could we have the bill, please? » (GB) / « Could we have the check, please? » (US). Le mot « addition » ne s’emploie pas. Questions utiles : « Can we pay separately? » (séparément), « Can I pay by card? », « Is service included? » (le service est-il compris ?).",
+   "Le pourboire (« a tip ») varie selon les pays : au Royaume-Uni, environ 10 à 12,5 % si le service n’est pas inclus ; aux États-Unis et au Canada, on laisse 15 à 20 % (c’est presque obligatoire) ; en France, en Belgique et au Cameroun, il est facultatif.",
+   "« Keep the change » (gardez la monnaie) est une façon simple de laisser un pourboire en espèces."
+  ],
+  "exemples": [
+   ["Could we have the bill, please? — Of course. Together or separately?", "L’addition, s’il vous plaît. — Bien sûr. Ensemble ou séparément ?"],
+   ["Is service included? — No, it isn't.", "Le service est compris ? — Non."],
+   ["Here's 50 euros. Keep the change.", "Voici 50 euros. Gardez la monnaie."]
+  ]
+ }
+],
+"formule": "I'd like to book a table for… · A table for two, please. · I'll have… / Could I have…? · Could we have the bill, please?",
+"prononciation": [
+ "« I'll have » se dit /aɪl hæv/ ; à l’oral rapide, le h est souvent faible : « I'll 'ave the fish ».",
+ "« menu » /ˈmenjuː/ : accent sur la première syllabe, « MÈN-you ».",
+ "« dessert » /dɪˈzɜːt/ (accent à la fin, avec un /z/) ≠ « desert » /ˈdezət/ (désert).",
+ "« steak » /steɪk/ rime avec « make », pas avec « week ».",
+ "« Could we have… » : /kʊd wi hæv/ ; montez légèrement la voix à la fin pour rester poli : « …the BILL, please? ↗ »."
+],
+"erreurs": [
+ ["I take the chicken.", "I'll have the chicken. / Could I have the chicken?", "Pour commander : I'll have / Could I have."],
+ ["The addition, please.", "The bill, please. (US : The check, please.)", "« Addition » ne s’emploie pas pour l’addition."],
+ ["We are four.", "There are four of us. / A table for four, please.", "On ne dit pas « We are + nombre »."],
+ ["I'm allergic of nuts.", "I'm allergic to nuts.", "allergic to."],
+ ["I want my steak bloody.", "I'd like my steak rare, please.", "Saignant = rare."],
+ ["For entrée, I'll have the soup. (GB)", "For my starter, I'll have the soup.", "Au Royaume-Uni, entrée = starter ; aux États-Unis, entrée = plat principal."],
+ ["Good appetite!", "Enjoy your meal!", "Formule naturelle en anglais."],
+ ["Is the service comprised?", "Is service included?", "Compris = included."]
+],
+"dialogue": {
+ "contexte": "Dans un restaurant de Bruxelles, Grace (de Nairobi) et son collègue Thomas déjeunent pour le travail.",
+ "lignes": [
+  ["Waiter", "Good afternoon. Are you ready to order?", "Bonjour. Vous êtes prêts à commander ?"],
+  ["Grace", "Almost. What do you recommend?", "Presque. Que nous conseillez-vous ?"],
+  ["Waiter", "The dish of the day is mussels with chips. It's very popular.", "Le plat du jour, ce sont des moules-frites. C’est très demandé."],
+  ["Thomas", "Perfect, I'll have the mussels, please.", "Parfait, je vais prendre les moules, s’il vous plaît."],
+  ["Grace", "I'm allergic to shellfish. Could I have the vegetable lasagne?", "Je suis allergique aux fruits de mer. Pourrais-je avoir les lasagnes aux légumes ?"],
+  ["Waiter", "Of course. And to drink?", "Bien sûr. Et comme boisson ?"],
+  ["Thomas", "A bottle of sparkling water, please.", "Une bouteille d’eau gazeuse, s’il vous plaît."],
+  ["Waiter", "Here you are. Enjoy your meal!", "Voilà. Bon appétit !"],
+  ["Grace", "Excuse me, could we have the bill, please? Can I pay by card?", "Excusez-moi, pourrions-nous avoir l’addition ? Je peux payer par carte ?"],
+  ["Waiter", "Yes, of course. Service is included.", "Oui, bien sûr. Le service est compris."]
+ ]
+},
+"mots": [
+ ["book", "I'd like to book a table.", "réserver"],
+ ["reservation", "We have a reservation for eight.", "une réservation"],
+ ["starter", "Would you like a starter?", "une entrée (US : appetizer)"],
+ ["main course", "For my main course, I'll have the fish.", "le plat principal (US : entrée)"],
+ ["side dish", "Rice comes as a side dish.", "un accompagnement"],
+ ["rare", "I'd like my steak rare.", "saignant"],
+ ["recommend", "What do you recommend?", "recommander, conseiller"],
+ ["allergic", "My son is allergic to eggs.", "allergique (à : to)"],
+ ["bill", "Could we have the bill, please?", "l’addition (US : check)"],
+ ["tip", "We left a 15% tip.", "un pourboire"]
+],
+"exercices": [
+ {
+  "titre": "1. Serveur ou client ?",
+  "consigne": "Qui dit cette phrase : le serveur (waiter) ou le client (customer) ?",
+  "items": [
+   ["Are you ready to order?", "waiter"],
+   ["What do you recommend?", "customer"],
+   ["How would you like your steak?", "waiter"],
+   ["Could we have the bill, please?", "customer"],
+   ["Enjoy your meal!", "waiter"]
+  ]
+ },
+ {
+  "titre": "2. Compléter",
+  "consigne": "Complète avec un mot.",
+  "items": [
+   ["I'd like to ___ a table for two.", "book"],
+   ["For my ___, I'll have the soup. (entrée, GB)", "starter"],
+   ["I'm allergic ___ peanuts.", "to"],
+   ["I'll ___ the chicken, please.", "have"],
+   ["Is service ___?", "included"],
+   ["Here's 20 euros. Keep the ___.", "change"]
+  ]
+ },
+ {
+  "titre": "3. Être poli",
+  "consigne": "Rends la phrase polie et naturelle.",
+  "items": [
+   ["Give me the menu.", "Could I have the menu, please?"],
+   ["I want more bread.", "Could we have some more bread, please?"],
+   ["The addition!", "Could we have the bill, please?"],
+   ["We are three.", "A table for three, please. / There are three of us."]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je vais prendre le plat du jour.", "I'll have the dish of the day."],
+   ["Je voudrais mon steak à point.", "I'd like my steak medium, please."],
+   ["Pouvons-nous payer séparément ?", "Can we pay separately?"],
+   ["Excusez-moi, ce n’est pas ce que j’ai commandé.", "Excuse me, this isn't what I ordered."],
+   ["Bon appétit !", "Enjoy your meal!"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Écris un dialogue de huit répliques au restaurant : arrivée, commande (entrée, plat, boisson), un petit problème, l’addition.",
+  "items": [
+   ["Exemple de réponse", "Waiter: Good evening. Have you got a reservation? Me: Yes, it's under the name Mbarga, for two. Waiter: This way, please. Are you ready to order? Me: Yes. For my starter, I'll have the avocado salad, and then the grilled fish with plantain. Waiter: And to drink? Me: A bottle of still water, please. … Excuse me, I think there's a mistake: I ordered plantain, not rice. Waiter: I'm so sorry, I'll change it. Me: Thank you. Could we have the bill, please?"]
+  ]
+ }
+],
+"a_retenir": [
+ "Réserver : I'd like to book a table for four at eight. Arriver : A table for two, please. / We have a reservation.",
+ "Commander : I'll have… / Could I have…? ; starter (GB) = entrée, main course = plat (US entrée !).",
+ "Préciser : rare / medium / well done ; I'm allergic to… ; I'm vegetarian.",
+ "Pendant le repas : Excuse me, could we have…? ; Enjoy your meal! ; signaler poliment : I'm sorry, but…",
+ "Payer : Could we have the bill (US check), please? Is service included? Tip : 15–20 % aux États-Unis et au Canada."
+],
+"liens": [26, 31, 34, 57],
+"refs": ["cam-using", "bc-a1a2"]
+}

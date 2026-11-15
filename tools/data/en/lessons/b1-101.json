@@ -1,0 +1,196 @@
+{
+ "n": 101,
+ "niveau": "B1",
+ "titre": "Relative clauses (who, which, that)",
+ "intro": "Relative clauses tell us which person or thing we are talking about, joining two ideas in one sentence: “the woman who lives next door”, “the book that you lent me”. They make your English smoother and more precise.",
+ "objectifs": [
+  "Choose between who (people), which (things, animals) and that (both) in a defining relative clause.",
+  "Build subject and object relative clauses without repeating the pronoun (not “the man who I saw him”).",
+  "Place prepositions correctly in relative clauses (the house that I grew up in).",
+  "Recognise and punctuate a non-defining relative clause with commas, where that is not possible."
+ ],
+ "sections": [
+  {
+   "titre": "Who, which, that",
+   "texte": [
+    "A relative pronoun replaces a noun we have just mentioned and introduces a clause that describes it. Who is for people, which for things and (usually) animals, and that for people and things.",
+    "In defining relative clauses (no commas), that is very common, especially in speech, for things. For people, who is more common than that, but both are correct.",
+    "The choice depends on the noun (person or thing), not on whether the pronoun is the subject or the object: “the woman who helped me” and “the woman who I helped” both use who."
+   ],
+   "tableau": {
+    "entetes": ["Noun", "Pronoun", "Example"],
+    "lignes": [
+     ["person", "who / that", "The nurse who (that) helped me was very kind."],
+     ["thing", "which / that", "The bus which (that) goes to the airport leaves at six."],
+     ["animal", "which / that (who for a pet you see as a person)", "The dog which (that) lives next door barks all night."],
+     ["after all, everything, nothing, something, a superlative", "that (preferred)", "It's the best film that I've ever seen."]
+    ]
+   }
+  },
+  {
+   "titre": "Subject and object relative clauses",
+   "texte": [
+    "If the relative pronoun is the subject of the verb in the clause, the verb comes straight after it: “the man who lives here” (he lives here).",
+    "If the pronoun is the object, another subject follows it: “the man who I met” (I met the man). The pronoun replaces the object, so never repeat him, her or it in the clause.",
+    "Whom is the object form of who. It is very formal and mostly written (“the person whom I contacted”); in speech, we say who or that, or leave the pronoun out (next lesson)."
+   ],
+   "exemples": [
+    ["The girl who won the prize is from Bamenda.", "Subject: who + verb (she won)."],
+    ["The girl who I met at the party is from Bamenda.", "Object: who + subject + verb (I met her)."],
+    ["The phone that I bought last week has stopped working.", "Object: no “it” after bought."],
+    ["The phone that costs 300 euros is too expensive.", "Subject: that + verb."]
+   ]
+  },
+  {
+   "titre": "Prepositions in relative clauses",
+   "texte": [
+    "When the verb in the clause has a preposition (live in, talk to, look for, work with), the preposition usually stays at the end of the clause in everyday English: “the city that I live in”, “the person who I talked to”.",
+    "In formal English, the preposition goes before the pronoun, and then we use which or whom (never that or who): “the city in which I live”, “the person to whom I spoke”.",
+    "Where can replace in which / at which for a place: “the hotel where we stayed” = “the hotel that we stayed at”."
+   ],
+   "tableau": {
+    "entetes": ["Everyday", "Formal"],
+    "lignes": [
+     ["the house that I grew up in", "the house in which I grew up"],
+     ["the colleague who I work with", "the colleague with whom I work"],
+     ["the job that she applied for", "the job for which she applied"],
+     ["the hotel that we stayed at / where we stayed", "the hotel at which we stayed"]
+    ]
+   }
+  },
+  {
+   "titre": "Defining or non-defining?",
+   "texte": [
+    "Defining relative clause: necessary to know who or what we mean. No commas. “My brother who lives in Canada is a doctor” (I have several brothers; I mean the one in Canada).",
+    "Non-defining relative clause: it adds extra information about someone or something already identified. It goes between commas, and that is not allowed: use who or which. “My brother, who lives in Canada, is a doctor” (I have only one brother).",
+    "Which after a comma can also refer to a whole sentence: “He passed his driving test, which surprised everyone.”"
+   ],
+   "exemples": [
+    ["Paris, which is the capital of France, has twenty districts.", "Non-defining: extra information, between commas."],
+    ["My mother, who is 70, still works.", "No that in a non-defining clause."],
+    ["She didn't call me back, which was strange.", "Which refers to the whole sentence."]
+   ]
+  },
+  {
+   "titre": "Where, when, why",
+   "texte": [
+    "Use where after a place (the town where I was born), when after a time (the day when we met, the year when…), and why after reason (the reason why she left).",
+    "When and why are often left out or replaced by that: “the day (that) we met”, “the reason (that) she left”. Don't confuse where (a place where something happens) and which: “the city which I visited” (object of visit) / “the city where I live” (the place where I live)."
+   ],
+   "exemples": [
+    ["This is the café where we first met.", "Place."],
+    ["I remember the day when you arrived in Lille.", "Time."]
+   ]
+  }
+ ],
+ "formule": "person + who / that · thing + which / that · non-defining: , who / which , (never that)",
+ "prononciation": [
+  "who /huː/, which /wɪtʃ/ (like “witch”); relative that is weak /ðət/: “the book that I read” /ðə ˈbʊk ðət aɪ ˈred/.",
+  "Say a defining clause in one breath, with no pause: “the man who lives next door”.",
+  "A non-defining clause has small pauses around it and a slightly lower voice, like brackets: “My brother | who lives in Canada | is a doctor”.",
+  "where /weə/ and were /wɜː/ sound different: don't mix them up in writing either."
+ ],
+ "erreurs": [
+  ["The man which lives here is a doctor.", "The man who lives here is a doctor.", "For a person: who or that, not which."],
+  ["The book that I read it was boring.", "The book that I read was boring.", "The relative pronoun already replaces the object: no it."],
+  ["My father, that is a teacher, lives in Liège.", "My father, who is a teacher, lives in Liège.", "That is not possible in a non-defining clause (with commas)."],
+  ["The city where I visited was beautiful.", "The city that (which) I visited was beautiful.", "Visit takes a direct object: which / that, not where."],
+  ["The woman who she called me is my aunt.", "The woman who called me is my aunt.", "Subject clause: no second subject she."],
+  ["The house in that I grew up is old.", "The house in which I grew up is old. / The house that I grew up in is old.", "After a preposition: which (or whom), never that."],
+  ["He was late, what annoyed the boss.", "He was late, which annoyed the boss.", "To refer to a whole sentence: which, not what."]
+ ],
+ "dialogue": {
+  "contexte": "Toronto, at an evening event with colleagues. Sophie introduces people to Ahmed, who has just arrived from Algiers.",
+  "lignes": [
+   ["Sophie", "Do you see the woman who's talking to the manager?", "Subject clause: who + verb."],
+   ["Ahmed", "The one in the red dress?", "The one = the woman."],
+   ["Sophie", "Yes. That's Grace, who runs our office in Montreal.", "Non-defining: extra information about Grace."],
+   ["Ahmed", "Is she the person that I need to send my report to?", "Preposition at the end."],
+   ["Sophie", "Exactly. And the man who's standing next to her is Daniel. He's the one who organised this party.", "Two defining clauses."],
+   ["Ahmed", "The food that he chose is excellent.", "Object clause: that + subject + verb."],
+   ["Sophie", "He ordered it from a restaurant which belongs to his cousin, which is very convenient!", "The second which refers to the whole idea."],
+   ["Ahmed", "Can you introduce me to the people who work in marketing?", "Who for people."]
+  ]
+ },
+ "mots": [
+  ["colleague", "The colleague who sits next to me is from Dakar.", "a person you work with"],
+  ["neighbour", "Our neighbour, who is a nurse, works at night.", "a person who lives near you (US: neighbor)"],
+  ["belong to", "The car which belongs to my uncle is red.", "to be owned by"],
+  ["grow up", "This is the town where I grew up.", "to change from a child to an adult"],
+  ["apply for", "The job that she applied for is in Ottawa.", "to ask formally for a job, a place, etc."],
+  ["run", "She runs a small company that makes furniture.", "to manage a business or organisation"],
+  ["recommend", "The restaurant that you recommended was great.", "to say that something is good"],
+  ["reason", "That's the reason why I called you.", "the cause of something"],
+  ["the one", "He's the one who organised the trip.", "the person or thing (already mentioned)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Who or which?",
+   "consigne": "Complete with who or which.",
+   "items": [
+    ["The teacher ___ taught me English lives in Douala.", "who"],
+    ["The laptop ___ I bought is very fast.", "which"],
+    ["I have a friend ___ speaks five languages.", "who"],
+    ["The train ___ goes to Brussels is late.", "which"],
+    ["The people ___ live upstairs are noisy.", "who"]
+   ]
+  },
+  {
+   "titre": "2. Is that possible?",
+   "consigne": "Say if that can replace who or which in the sentence (yes / no).",
+   "items": [
+    ["The film which we watched was long.", "yes"],
+    ["My sister, who lives in Lyon, is a lawyer.", "no (non-defining clause with commas)"],
+    ["The man who repaired my car was very fast.", "yes"],
+    ["The Eiffel Tower, which was built in 1889, is in Paris.", "no (non-defining clause)"]
+   ]
+  },
+  {
+   "titre": "3. Join the sentences",
+   "consigne": "Join the two sentences with a relative pronoun.",
+   "items": [
+    ["A woman called you. She didn't leave her name.", "The woman who called you didn't leave her name."],
+    ["I lost a ring. My grandmother gave it to me.", "I lost the ring that (which) my grandmother gave me."],
+    ["This is the restaurant. We had dinner there last night.", "This is the restaurant where we had dinner last night. / This is the restaurant that we had dinner at last night."],
+    ["My uncle is 80. He still plays football.", "My uncle, who is 80, still plays football."],
+    ["She passed all her exams. This made her parents very proud.", "She passed all her exams, which made her parents very proud."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["The doctor which I saw was very kind.", "The doctor who (that) I saw was very kind."],
+    ["The shoes that I bought them are too small.", "The shoes that I bought are too small."],
+    ["My boss, that is from Quebec, speaks French.", "My boss, who is from Quebec, speaks French."],
+    ["The hotel where we booked was full.", "The hotel that (which) we booked was full."]
+   ]
+  },
+  {
+   "titre": "5. Define it",
+   "consigne": "Write one sentence with a relative clause from the information given.",
+   "items": [
+    ["a woman / live next door / a nurse", "The woman who lives next door is a nurse."],
+    ["a book / you lent me / fascinating", "The book that (which) you lent me is fascinating."],
+    ["this / the town / I was born there", "This is the town where I was born."],
+    ["He lost his keys. It made him angry. (use which)", "He lost his keys, which made him angry."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Describe 4 people, places or objects that are important to you, with a relative clause in each sentence (at least one non-defining clause).",
+   "items": [
+    ["Example answer", "My best friend is someone who always tells me the truth. Kribi is the place where I spent all my childhood holidays. The watch that I wear every day was a gift from my father. My grandmother, who is 85, still cooks for the whole family on Sundays."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "People: who / that; things and animals: which / that.",
+  "The relative pronoun replaces the subject or the object: never add him / it again.",
+  "Preposition at the end of the clause (everyday) or before which / whom (formal), never before that.",
+  "Non-defining clause between commas: who or which, never that.",
+  "Which after a comma can refer to a whole sentence."
+ ],
+ "liens": [29, 68, 102, 114],
+ "refs": ["bc-relative-def", "bc-relative-nondef"]
+}

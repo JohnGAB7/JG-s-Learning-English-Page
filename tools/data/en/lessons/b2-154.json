@@ -1,0 +1,229 @@
+{
+ "n": 154,
+ "niveau": "B2",
+ "titre": "Reported speech",
+ "intro": "Telling people what someone said, asked or ordered is essential in daily life and at work: meeting notes, passing on a message, telling a story. At B2 you need the whole system: tense changes, time and place words, questions and orders, and knowing when nothing needs to change.",
+ "objectifs": [
+  "Apply backshift (moving tenses back) to all tenses and modal verbs.",
+  "Know when backshift is not necessary (things that are still true, a reporting verb in the present).",
+  "Change pronouns and time and place words (the day before, the following week, there).",
+  "Report questions, requests and orders with the correct word order."
+ ],
+ "sections": [
+  {
+   "titre": "Say or tell?",
+   "texte": [
+    "“Say” and “tell” have similar meanings, but different patterns. “Tell” is always followed by the person you speak to: tell somebody (that)… “Say” is used without the person, or with “to”: say (to somebody) (that)…",
+    "“That” is optional after say and tell, especially in speech: “She said (that) she was tired.”",
+    "Fixed expressions with tell: tell the truth, tell a lie, tell a story, tell a joke, tell the time, tell the difference. With say: say hello, say goodbye, say sorry, say a few words."
+   ],
+   "exemples": [
+    ["She said (that) she was tired.", "say + clause."],
+    ["She told me (that) she was tired.", "tell + person + clause."],
+    ["He said to me that he was sorry.", "say to + person: correct but less common."],
+    ["He told us a funny story.", "tell a story: fixed expression."]
+   ]
+  },
+  {
+   "titre": "Backshift: moving the tense back",
+   "texte": [
+    "When the reporting verb is in the past (said, told, asked), we usually move the tense one step back into the past, because the words were spoken before the moment we report them.",
+    "The past perfect and would, could, should, might and ought to do not change: they cannot go further back.",
+    "“Must” can stay “must” or become “had to” when it expresses obligation."
+   ],
+   "tableau": {
+    "entetes": ["Direct speech", "Reported speech", "Reported example"],
+    "lignes": [
+     ["present simple: “I live in Lille.”", "past simple", "He said he lived in Lille."],
+     ["present continuous: “I'm working.”", "past continuous", "She said she was working."],
+     ["present perfect: “I've finished.”", "past perfect", "He said he had finished."],
+     ["past simple: “I saw her.”", "past perfect (or past simple)", "She said she had seen her."],
+     ["will: “I'll call you.”", "would", "He said he would call me."],
+     ["can: “I can swim.”", "could", "She said she could swim."],
+     ["may: “It may rain.”", "might", "He said it might rain."],
+     ["must: “I must go.”", "had to / must", "She said she had to go."],
+     ["would, could, should, might, past perfect", "no change", "He said he would love to come."]
+    ]
+   }
+  },
+  {
+   "titre": "When not to change the tense",
+   "texte": [
+    "If the reporting verb is in the present, the present perfect or the future, nothing changes: “She says she's tired”, “He's told me he's leaving”.",
+    "If what was said is still true when you report it (a general truth, a situation that continues), backshift is optional: “He said he lives in Lille” (he still does). Backshift if the situation has changed, or if you want to keep a distance.",
+    "When you repeat words that were just spoken, you often keep the original tense: “Sorry, what did you say?” – “I said I'm hungry!”",
+    "The past simple can stay in the past simple when the order of events is clear: “She said she arrived on Monday” is common in speech."
+   ],
+   "exemples": [
+    ["Ama says she can't come tonight.", "Reporting verb in the present: no change."],
+    ["Our teacher said the Earth goes round the Sun.", "General truth: “goes” is possible."],
+    ["Tom told me he lives near the station, so we can walk to his place.", "Still true and relevant now."],
+    ["Tom told me he lived near the station, but he's moved since then.", "No longer true: backshift."]
+   ]
+  },
+  {
+   "titre": "Pronouns, time and place",
+   "texte": [
+    "Pronouns and possessives change according to who is speaking: “I'll help you,” said Marie → Marie said she would help me.",
+    "Time and place words change only if the time or the place has changed. If you report something on the same day, “today” stays “today”."
+   ],
+   "tableau": {
+    "entetes": ["Direct speech", "Reported speech (different time / place)"],
+    "lignes": [
+     ["now", "then, at that time"],
+     ["today / tonight", "that day / that night"],
+     ["yesterday", "the day before, the previous day"],
+     ["tomorrow", "the next day, the following day"],
+     ["last week", "the week before, the previous week"],
+     ["next month", "the following month, the month after"],
+     ["two years ago", "two years before, two years earlier"],
+     ["here", "there"],
+     ["this / these", "that / those (or the)"]
+    ]
+   },
+   "exemples": [
+    ["“I'll see you tomorrow,” Paul said. → Paul said he would see me the next day.", "Reported several days later."],
+    ["“We arrived here two days ago,” they said. → They said they had arrived there two days before.", "Tense, place and time words all change."]
+   ]
+  },
+  {
+   "titre": "Reporting questions",
+   "texte": [
+    "A reported question is not a question any more: use statement word order (subject + verb), remove do / does / did and the question mark.",
+    "Yes / no questions: if or whether. Wh- questions: keep the question word (where, why, how much…).",
+    "Reporting verbs: ask, want to know, wonder. You saw this at B1 (lesson 105); at B2 you must apply it automatically, together with backshift."
+   ],
+   "exemples": [
+    ["“Where do you work?” → She asked me where I worked.", "No “did”; subject + verb."],
+    ["“Have you seen my keys?” → He asked if I had seen his keys.", "Yes / no question: if."],
+    ["“Will you be there?” → They wanted to know whether I would be there.", "whether: a little more formal."]
+   ]
+  },
+  {
+   "titre": "Reporting orders and requests",
+   "texte": [
+    "For an order: tell + person + to-infinitive. For a polite request: ask + person + to-infinitive.",
+    "In the negative, “not” goes before “to”: “He told me not to worry.” Avoid “He told me to not worry” in careful writing, and never say “He told me don't worry”.",
+    "Other verbs show the speaker's intention more precisely (advise, warn, remind, invite, suggest…): see lesson 155."
+   ],
+   "exemples": [
+    ["“Sit down, please.” → She asked us to sit down.", "Polite request: ask."],
+    ["“Don't touch the screen!” → He told the children not to touch the screen.", "Negative order: not to."],
+    ["“Could you send me the file?” → My manager asked me to send her the file.", "A polite question often becomes ask + to."]
+   ]
+  }
+ ],
+ "formule": "said (that) / told + person (that) + tense moved back; asked + if / wh- + subject + verb; told / asked + person + (not) to + infinitive",
+ "prononciation": [
+  "“said” is /sed/ and “says” is /sez/, not /seɪz/.",
+  "“that” is weak, /ðət/, and often left out in speech: “She said she'd come” /ʃi sed ʃiːd ˈkʌm/.",
+  "The contraction 'd (would / had) is very common: “He said he'd finished” (= had), “He said he'd call” (= would). The next verb tells you which: a past participle → had; a base form → would.",
+  "A reported question has the falling intonation of a statement: “She asked where I lived ↘”, with no rise at the end.",
+  "“whether” /ˈweðə/ sounds exactly like “weather”."
+ ],
+ "erreurs": [
+  ["She said me that she was busy.", "She told me (that) she was busy.", "“say” cannot take the person directly; use “tell me” or “said to me”."],
+  ["She told that she was busy.", "She said that she was busy.", "“tell” must be followed by the person."],
+  ["He asked me where did I work.", "He asked me where I worked.", "Reported question: subject + verb, no “did”."],
+  ["She asked if was I ready.", "She asked if I was ready.", "No inversion after if / whether."],
+  ["He told me don't touch it.", "He told me not to touch it.", "Negative order: not to + base form."],
+  ["Last month she said she will call me the next day.", "Last month she said she would call me the next day.", "The call is in the past now: will → would."],
+  ["They told to us to wait.", "They told us to wait.", "tell + person, with no “to”."]
+ ],
+ "dialogue": {
+  "contexte": "In Lyon, Inès tells her flatmate Chloé about her phone interview with a Canadian company.",
+  "lignes": [
+   ["Chloé", "So? What did they say?", "A direct question."],
+   ["Inès", "The recruiter said she had read my CV and that she was very impressed.", "Backshift: “I've read” → had read; “I'm” → was."],
+   ["Chloé", "That's great! Did she ask you anything difficult?", "A direct question."],
+   ["Inès", "She asked me why I wanted to leave France and whether I had ever worked in English.", "Two reported questions: wh- and whether."],
+   ["Chloé", "And what did you tell her?", "tell + person."],
+   ["Inès", "I told her I'd spent a year in Ottawa and that I loved the job market there.", "'d = had; here → there."],
+   ["Chloé", "So when will you know?", "A direct question."],
+   ["Inès", "She said they would call me back the following week, and she told me not to worry about the visa.", "will → would; next week → the following week; negative order."]
+  ]
+ },
+ "mots": [
+  ["message", "Can I leave a message for Mr Ndongo?", "information you send or leave for someone"],
+  ["mention", "She mentioned that she was moving.", "to talk about something briefly"],
+  ["reply", "He replied that he was too busy.", "to answer"],
+  ["repeat", "Could you repeat what she said?", "to say something again"],
+  ["whether", "I asked whether the shop was open.", "if (in an indirect question)"],
+  ["previous", "He said he had called the previous day.", "happening before"],
+  ["following", "They promised to come the following week.", "next, coming after"],
+  ["quote", "Can I quote you on that?", "to repeat someone's exact words"],
+  ["word for word", "She repeated the conversation word for word.", "using exactly the same words"],
+  ["gossip", "Don't believe all the office gossip.", "talk about other people's private lives, often unkind or untrue"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Move the tense back",
+   "consigne": "Give the verb form in reported speech (the reporting verb is “said”).",
+   "items": [
+    ["“I work in a bank.” → He said he ___ in a bank.", "worked"],
+    ["“I'm leaving.” → She said she ___.", "was leaving"],
+    ["“We've finished.” → They said they ___.", "had finished"],
+    ["“I'll call you.” → He said he ___ me.", "would call"]
+   ]
+  },
+  {
+   "titre": "2. Report statements",
+   "consigne": "Put into reported speech. You are reporting several days later, in a different place.",
+   "items": [
+    ["“I can't come to the party,” said Marc.", "Marc said (that) he couldn't come to the party."],
+    ["“We're moving to Montreal next month,” they told me.", "They told me (that) they were moving to Montreal the following month."],
+    ["“I saw your sister yesterday,” Awa said.", "Awa said (that) she had seen my sister the day before (the previous day)."],
+    ["“You must be on time tomorrow,” the manager told us.", "The manager told us (that) we had to (must) be on time the next day."],
+    ["“I've never been to Brussels,” she said.", "She said (that) she had never been to Brussels."],
+    ["“The meeting may be cancelled,” he said.", "He said (that) the meeting might be cancelled."]
+   ]
+  },
+  {
+   "titre": "3. Questions, requests and orders",
+   "consigne": "Put into reported speech.",
+   "items": [
+    ["“Where do you live?” she asked me.", "She asked me where I lived."],
+    ["“Are you coming tonight?” he asked me.", "He asked me if (whether) I was coming that night."],
+    ["“Why did you leave early?” my boss asked me.", "My boss asked me why I had left early."],
+    ["“Please close the window,” she said to me.", "She asked me to close the window."],
+    ["“Don't be late!” Mum told us.", "Mum told us not to be late."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["She said me that she was busy.", "She told me (that) she was busy. (or: She said (that) she was busy.)"],
+    ["He asked me where did I work.", "He asked me where I worked."],
+    ["They told to us to wait outside.", "They told us to wait outside."],
+    ["She asked if was I hungry.", "She asked if I was hungry."]
+   ]
+  },
+  {
+   "titre": "5. Change or no change?",
+   "consigne": "Report each sentence and say whether the tense must change.",
+   "items": [
+    ["Your friend says right now: “I'm tired.” Report it now, with “says”.", "She says (that) she's tired. No change: the reporting verb is in the present."],
+    ["Last year the teacher said: “The Earth goes round the Sun.”", "The teacher said (that) the Earth goes (went) round the Sun. Change optional: it is still true."],
+    ["Two years ago Tom said: “I live in Lille.” He lives in Liège now.", "Tom said (that) he lived in Lille. Change needed: it is no longer true."],
+    ["Yesterday Ana said: “I would love to visit Canada.”", "Ana said (that) she would love to visit Canada. No change: “would” does not move back."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Report a recent conversation (with a colleague, a friend, a shop assistant…) in 4–5 sentences: a statement, a question, a request and a promise.",
+   "items": [
+    ["Example answer", "Yesterday my colleague Samuel told me he was exhausted because he had worked all weekend. He asked me whether I could help him with a report. I said I was busy that afternoon but that I would help him the next morning. He asked me not to tell our manager, and I promised I wouldn't."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "say (that)… / tell + person (that)…: “She told me”, never “She said me”.",
+  "After a past reporting verb, move the tense one step back; would, could, should, might and the past perfect don't change.",
+  "No change if the reporting verb is in the present; optional change if the information is still true.",
+  "Reported questions: if / whether or a question word + subject + verb, with no do / did and no question mark.",
+  "Orders and requests: tell / ask + person + (not) to + infinitive."
+ ],
+ "liens": [104, 105, 114, 155],
+ "refs": ["bc-reported", "bc-reported-q"]
+}

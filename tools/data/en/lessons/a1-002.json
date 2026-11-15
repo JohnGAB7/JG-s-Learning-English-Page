@@ -1,0 +1,201 @@
+{
+ "n": 2,
+ "niveau": "A1",
+ "titre": "Introducing yourself",
+ "intro": "Say hello, give your name, country, city, job and age, then ask the other person the same questions. This is your first conversation in English, at work and when you travel.",
+ "objectifs": [
+  "Greet someone and answer a greeting, in a formal or relaxed way.",
+  "Give your name, nationality, country, city, job and age in simple sentences.",
+  "Ask the basic questions: What's your name? Where are you from? What do you do?",
+  "Answer politely when you meet someone (Nice to meet you) and introduce another person (This is…)."
+ ],
+ "sections": [
+  {
+   "titre": "Saying hello and goodbye",
+   "texte": [
+    "Your greeting depends on the time of day and on the situation. “Hello” is fine everywhere. “Hi” and “Hey” are relaxed: for friends, close colleagues and messages. Say “Good morning” until about 12 o'clock, “Good afternoon” until about 5 or 6 pm, and “Good evening” after that.",
+    "Be careful: “Good night” is never a greeting when you arrive. Say it only when you leave in the evening or before you go to bed. To leave, say “Goodbye” (neutral), “Bye” or “See you” (relaxed), or “See you tomorrow”."
+   ],
+   "tableau": {
+    "entetes": ["Situation", "Formal", "Relaxed", "Note"],
+    "lignes": [
+     ["Arriving (morning)", "Good morning.", "Morning! / Hi!", "Until about 12 pm."],
+     ["Arriving (afternoon)", "Good afternoon.", "Hi! / Hello!", "From 12 pm to about 6 pm."],
+     ["Arriving (evening)", "Good evening.", "Hi! / Hey!", "After about 6 pm."],
+     ["Leaving", "Goodbye.", "Bye! / See you!", "Any time of day."],
+     ["Leaving at night, going to bed", "Good night.", "Night!", "Only to leave, never to arrive."]
+    ]
+   },
+   "note": "“How are you?” is mostly a polite phrase. Give a short answer: “Fine, thanks. And you?” or “I'm good, thanks.” Don't tell all your problems."
+  },
+  {
+   "titre": "Giving your name",
+   "texte": [
+    "To give your name, say “I'm…” (the most natural) or “My name is…” (a little more formal). Your “first name” is your personal name. Your “surname” (British) or “last name” (American) is your family name.",
+    "To ask someone's name, say “What's your name?”. In official places (a hotel, an office), you also hear “Can I have your name, please?” or “What's your surname?”."
+   ],
+   "exemples": [
+    ["Hi, I'm Lucas.", "The most common way when you speak."],
+    ["My name is Aïcha Mbarga.", "A little more formal."],
+    ["My first name is Tom and my surname is Dupont.", "First name + surname."],
+    ["Please call me Kate.", "To give a short name that you prefer."]
+   ],
+   "note": "Don't say “I call myself Lucas”. Say “I'm Lucas” or “My name is Lucas”."
+  },
+  {
+   "titre": "Country, nationality and city",
+   "texte": [
+    "For where you come from, say “I'm from + country or city”. For your nationality, say “I'm + nationality adjective”. In English, nationalities and languages always start with a capital letter: French, Belgian, Canadian.",
+    "For the place where you live now, say “I live in + city or country”. This sentence is in the present simple (lesson 6). For now, learn it as a fixed phrase."
+   ],
+   "tableau": {
+    "entetes": ["Country", "Nationality", "Sentence"],
+    "lignes": [
+     ["France", "French", "I'm from France. I'm French."],
+     ["Belgium", "Belgian", "She's from Belgium. She's Belgian."],
+     ["Canada", "Canadian", "We're from Canada. We're Canadian."],
+     ["Cameroon", "Cameroonian", "He's from Cameroon. He's Cameroonian."],
+     ["Switzerland", "Swiss", "I'm from Switzerland. I'm Swiss."],
+     ["the United Kingdom (the UK)", "British", "They're from the UK. They're British."],
+     ["the United States (the USA)", "American", "Are you from the USA? Are you American?"]
+    ]
+   },
+   "exemples": [
+    ["I'm from Lyon, but I live in Brussels.", "Where you come from + where you live now."],
+    ["Where are you from? — I'm from Montréal.", "Question and answer about origin."]
+   ],
+   "note": "A few countries take “the”: the UK, the USA, the Netherlands, the Philippines. The others don't: say “I'm from France”, never “from the France”."
+  },
+  {
+   "titre": "Job and age",
+   "texte": [
+    "For your job, say “I'm a / an + job”. You need the article: a before a consonant sound, an before a vowel sound. You can also say “I work in + area” (I work in IT, I work in a bank) or “I'm a student”.",
+    "The natural question about someone's job is “What do you do?”. The answer is your job, not what you are doing today.",
+    "For age, say “I'm 25” or “I'm 25 years old”, never with “have”. The question is “How old are you?”. Between adults who don't know each other, this question can seem too personal."
+   ],
+   "exemples": [
+    ["I'm an engineer.", "an before the vowel sound of “engineer”."],
+    ["I'm a nurse. I work in a hospital.", "Job + place of work."],
+    ["What do you do? — I'm an accountant.", "The usual question about a job."],
+    ["How old are you? — I'm nineteen.", "Age with “to be”."]
+   ]
+  },
+  {
+   "titre": "Answering and introducing someone",
+   "texte": [
+    "When you meet a new person, say “Nice to meet you”. The other person answers “Nice to meet you too” or “You too”. In very formal situations, you hear “Pleased to meet you” and, rarely, “How do you do?”. The answer to “How do you do?” is also “How do you do?”.",
+    "To introduce another person, say “This is + name”, not “He is”: This is my colleague, Ana. On the phone, you also say “This is Paul” or “It's Paul”."
+   ],
+   "exemples": [
+    ["Sophie, this is Marc. Marc, this is Sophie.", "Introducing two people."],
+    ["Nice to meet you. — Nice to meet you too.", "The usual answer."],
+    ["Let me introduce myself: I'm Dr Nkemba.", "Formal way to start."]
+   ]
+  }
+ ],
+ "formule": "Hello, I'm + name. I'm from + country. I'm a / an + job. I'm + age. Nice to meet you.",
+ "prononciation": [
+  "Say “Nice to meet you” in one breath: “to” is weak /tə/, and “meet you” often joins as /miːtʃuː/.",
+  "“What's your name?”: the voice goes down at the end (Wh- question). “Are you French?” (yes / no question): the voice goes up.",
+  "Nationalities have fixed stress: CaNAdian /kəˈneɪdiən/, BELgian /ˈbeldʒən/, JapaNESE /ˌdʒæpəˈniːz/, CameROOnian /ˌkæməˈruːniən/.",
+  "“Hello” is /həˈləʊ/: breathe out the h, like when you breathe on a window. Don't drop it.",
+  "In “I'm from France”, “from” is weak: /frəm/, not /frɒm/."
+ ],
+ "erreurs": [
+  ["I call myself Lucas.", "I'm Lucas. / My name is Lucas.", "English uses “to be” or “my name is” for names."],
+  ["I'm french.", "I'm French.", "Nationalities start with a capital letter."],
+  ["I'm engineer.", "I'm an engineer.", "Use a / an before a job in the singular."],
+  ["I have 30 years.", "I'm 30.", "Age uses “to be”."],
+  ["Good night! (when you arrive in the evening)", "Good evening!", "“Good night” is only for leaving or going to bed."],
+  ["I'm from the France.", "I'm from France.", "Most country names have no article."],
+  ["He is my friend Paul. (to introduce him)", "This is my friend Paul.", "To introduce someone, say “This is…”."]
+ ],
+ "dialogue": {
+  "contexte": "At a conference in Montréal, two people meet during the coffee break.",
+  "lignes": [
+   ["Julie", "Hi! I'm Julie. Nice to meet you.", "A greeting + name + polite phrase."],
+   ["Samuel", "Nice to meet you too. I'm Samuel. Where are you from, Julie?", "“too” in the answer."],
+   ["Julie", "I'm from Belgium, from Liège. And you?", "Country, then city."],
+   ["Samuel", "I'm Cameroonian, but I live in Montréal now.", "Nationality + where he lives now."],
+   ["Julie", "Oh, nice! What do you do?", "The usual question about a job."],
+   ["Samuel", "I'm a software developer. And you?", "a before the job."],
+   ["Julie", "I'm an architect. Oh, this is my colleague, Tom.", "an before a vowel sound; “This is” to introduce."],
+   ["Tom", "Hello, Samuel. Pleased to meet you.", "A more formal answer."]
+  ]
+ },
+ "mots": [
+  ["name", "What's your name?", "the word people call you"],
+  ["surname", "My surname is Martin.", "your family name (American: last name)"],
+  ["nationality", "What's your nationality?", "the country you belong to officially"],
+  ["country", "Canada is a big country.", "an area of land with its own government"],
+  ["job", "I like my job.", "the work you do to get money"],
+  ["colleague", "This is my colleague, Ana.", "a person you work with"],
+  ["meet", "Nice to meet you.", "see and talk to someone for the first time"],
+  ["live", "I live in Douala.", "have your home in a place"],
+  ["introduce", "Let me introduce my friend Paul.", "tell people each other's names when they first meet"],
+  ["welcome", "Welcome to the team!", "a word to greet a new person happily"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choose the right greeting",
+   "consigne": "Choose the best phrase.",
+   "items": [
+    ["You arrive at the office at 9 am: Good morning / Good night?", "Good morning"],
+    ["You arrive at a dinner at 8 pm: Good evening / Good night?", "Good evening"],
+    ["You leave your friends at 11 pm to go to bed: Good evening / Good night?", "Good night"],
+    ["You meet someone for the first time: Nice to meet you / See you?", "Nice to meet you"],
+    ["Someone says “How are you?”: Fine, thanks. And you? / I'm 25.", "Fine, thanks. And you?"]
+   ]
+  },
+  {
+   "titre": "2. Complete the introduction",
+   "consigne": "Complete with: I'm, from, a, an, live, name.",
+   "items": [
+    ["My ___ is Inès.", "name"],
+    ["___ 22 years old.", "I'm"],
+    ["I'm ___ Belgium.", "from"],
+    ["I ___ in Namur.", "live"],
+    ["I'm ___ student.", "a"],
+    ["My brother is ___ architect.", "an"]
+   ]
+  },
+  {
+   "titre": "3. Find the question",
+   "consigne": "Write the question for each answer.",
+   "items": [
+    ["I'm Karim.", "What's your name?"],
+    ["I'm from Canada.", "Where are you from?"],
+    ["I'm a teacher.", "What do you do?"],
+    ["I'm 31.", "How old are you?"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["I call myself Paul and I'm french.", "My name is Paul and I'm French. / I'm Paul and I'm French."],
+    ["She's cameroonian; she lives in Yaoundé.", "She's Cameroonian; she lives in Yaoundé."],
+    ["He's engineer.", "He's an engineer."],
+    ["I have 40 years.", "I'm 40. / I'm 40 years old."],
+    ["She is my colleague, Léa. (introducing her to a friend)", "This is my colleague, Léa."]
+   ]
+  },
+  {
+   "titre": "5. Your turn",
+   "consigne": "Introduce yourself in five sentences: a greeting, your name, your country or city, your job or studies, your age (if you want), and a polite phrase.",
+   "items": [
+    ["Example answer", "Hello! My name is Fatou Diallo. I'm from Senegal, but I live in Brussels. I'm a nurse. I'm 29. Nice to meet you!"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Introduce yourself: I'm Lucas / My name is Lucas, never “I call myself”.",
+  "Origin: I'm from + country. Nationality with a capital letter: I'm French, I'm Canadian.",
+  "Job: I'm a / an + job. Question: What do you do?",
+  "Age: I'm 25. Question: How old are you?",
+  "Nice to meet you → Nice to meet you too. To introduce someone: This is…",
+  "Good evening when you arrive in the evening; Good night only when you leave."
+ ],
+ "liens": [1, 4, 19, 23],
+ "refs": ["bc-be", "bc-a1a2"]
+}

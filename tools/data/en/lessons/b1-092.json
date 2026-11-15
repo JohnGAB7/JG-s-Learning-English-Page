@@ -1,0 +1,197 @@
+{
+ "n": 92,
+ "niveau": "B1",
+ "titre": "The present perfect continuous",
+ "intro": "The present perfect continuous (I have been working) focuses on an activity that started in the past and is still going on, or has just stopped and left visible signs. It is the natural way to say how long you have been doing something.",
+ "objectifs": [
+  "Form the present perfect continuous in the affirmative, negative and question forms.",
+  "Talk about an activity continuing up to now with for, since and How long…?",
+  "Explain a visible result with a recent activity (“You're red: have you been running?”).",
+  "Choose between the present perfect simple (result, quantity) and continuous (duration, activity), and know which verbs don't take the continuous form."
+ ],
+ "sections": [
+  {
+   "titre": "Form: have / has been + -ing verb",
+   "texte": [
+    "We combine the present perfect of be (have been / has been) with the -ing form of the verb. Been never changes: I have been waiting, she has been waiting.",
+    "In speech: I've been, she's been, they've been. Negative: haven't been / hasn't been + -ing. Question: Have you been + -ing? Short answer: Yes, I have. / No, I haven't (we don't repeat been)."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Structure", "Example"],
+    "lignes": [
+     ["Affirmative", "subject + have / has been + -ing", "I've been learning English for two years."],
+     ["Negative", "subject + haven't / hasn't been + -ing", "She hasn't been sleeping well."],
+     ["Question", "Have / Has + subject + been + -ing?", "Have you been waiting long?"],
+     ["How long question", "How long + have / has + subject + been + -ing?", "How long has it been raining?"],
+     ["Short answer", "Yes, I have. / No, he hasn't.", "Have they been arguing? – Yes, they have."]
+    ]
+   },
+   "note": "-ing spelling: drop a silent final e (make → making), double the final consonant after a short stressed vowel (run → running, stop → stopping), change -ie to -y (lie → lying)."
+  },
+  {
+   "titre": "Use 1: an activity continuing up to now",
+   "texte": [
+    "This is the main use. The activity started in the past and is still happening when we speak (or has only just stopped). Many languages use a present tense here; English uses the present perfect continuous.",
+    "For gives the length of time, since gives the starting point, exactly as with the present perfect simple. We can also use it without for or since to talk about a recent period: “I've been working hard lately.”"
+   ],
+   "exemples": [
+    ["I've been waiting for you for forty minutes!", "Started 40 minutes ago, still waiting."],
+    ["They've been building that bridge since 2023.", "Since + starting point."],
+    ["How long have you been learning the guitar?", "The usual question about duration."],
+    ["It's been raining all day in Brussels.", "All day = from the morning until now."]
+   ]
+  },
+  {
+   "titre": "Use 2: explaining visible signs",
+   "texte": [
+    "The activity has just finished, but we can see its effects: someone is out of breath, has dirty hands or red eyes. The present perfect continuous explains what we see.",
+    "What matters is the activity that caused the signs, not a finished result. This use often carries curiosity or criticism: “What have you been doing?”"
+   ],
+   "exemples": [
+    ["You're out of breath. Have you been running?", "We see the effect and guess the activity."],
+    ["Her eyes are red. She's been crying.", "Visible sign of a recent activity."],
+    ["Sorry about my hands. I've been repairing the car.", "Explaining why the hands are dirty."]
+   ]
+  },
+  {
+   "titre": "Simple or continuous?",
+   "texte": [
+    "Present perfect simple = we look at the result, what is finished, how much or how many (how many times). Present perfect continuous = we look at the activity itself and its duration (how long), even if it is not finished.",
+    "If you give a number or a quantity, use the simple form: “I've written three emails” (not “I've been writing three emails”). If you stress the time spent, use the continuous: “I've been writing emails all morning.”",
+    "With live, work, teach and study, both forms are possible with almost the same meaning. The continuous can suggest a more temporary situation: “I've been living with my cousin since May” (until I find a flat)."
+   ],
+   "tableau": {
+    "entetes": ["Present perfect simple (result)", "Present perfect continuous (activity, duration)"],
+    "lignes": [
+     ["I've painted the kitchen. (it's finished)", "I've been painting the kitchen. (maybe not finished; I have paint on my hands)"],
+     ["She has read 200 pages.", "She has been reading since lunch."],
+     ["How many cups of coffee have you drunk?", "How long have you been drinking coffee?"],
+     ["I've lost my keys.", "I've been looking for my keys for an hour."]
+    ]
+   }
+  },
+  {
+   "titre": "State verbs don't like the continuous",
+   "texte": [
+    "Verbs that describe a state, not an action (know, like, love, hate, want, believe, understand, belong, own, mean, seem, prefer), use the present perfect simple, even for duration.",
+    "Have meaning “possess” follows the same rule: “I've had this car for ten years.” But have as an action (have a shower, have lunch, have a good time) can be continuous: “We've been having problems with the internet.”"
+   ],
+   "exemples": [
+    ["I've known Moussa since primary school.", "Not “I've been knowing”."],
+    ["She has wanted to visit Quebec for years.", "Want = state: simple form."],
+    ["We've been having a lot of meetings this week.", "Have = action: continuous is possible."]
+   ]
+  }
+ ],
+ "formule": "have / has been + verb-ing (I've been waiting for an hour · How long have you been working here?)",
+ "prononciation": [
+  "Been is weak in the sentence: /bɪn/, very short. “I've been waiting” sounds like /aɪv bɪn ˈweɪtɪŋ/.",
+  "-ing is /ɪŋ/: one nasal sound at the back of the mouth, with no separate “g”. In casual speech you may hear /ɪn/ (“waitin'”).",
+  "In “How long have you been…?”, have is weak /əv/ and links to long: /haʊ ˈlɒŋ əv jə bɪn/.",
+  "The main stress goes on the -ing verb and the time: “I've been WAITING for AGES!”",
+  "For criticism (“What have you been DOING?”), the voice falls clearly on doing."
+ ],
+ "erreurs": [
+  ["I'm waiting for you since 8 o'clock.", "I've been waiting for you since 8 o'clock.", "An activity continuing from a starting point: present perfect continuous, not present continuous."],
+  ["I've been knowing her for years.", "I've known her for years.", "Know is a state verb: no continuous form."],
+  ["I've been writing five emails this morning.", "I've written five emails this morning.", "A number or quantity: present perfect simple."],
+  ["She has being working all day.", "She has been working all day.", "After have / has, use been (participle of be), not being."],
+  ["How long are you learning English?", "How long have you been learning English?", "How long + duration up to now: present perfect (continuous)."],
+  ["It has been rain all day.", "It has been raining all day.", "After been, the verb takes -ing."],
+  ["I've been working here since three years.", "I've been working here for three years.", "A period = for; since is for a starting point."]
+ ],
+ "dialogue": {
+  "contexte": "A Saturday in Douala. Ngono comes home and finds her brother Eric in a very messy living room.",
+  "lignes": [
+   ["Ngono", "Eric! What have you been doing? There's paint everywhere!", "Visible signs → present perfect continuous."],
+   ["Eric", "I've been painting the living room. It's a surprise for Mum.", "The activity explains the mess."],
+   ["Ngono", "How long have you been working on it?", "Question about duration."],
+   ["Eric", "Since seven this morning. I've done two walls so far.", "Quantity (two walls) → simple form."],
+   ["Ngono", "No wonder you look tired. Have you eaten anything?", "Result (eaten or not) → simple form."],
+   ["Eric", "Not really. I've been drinking coffee all day.", "Activity + all day → continuous."],
+   ["Ngono", "OK, I'll help you. I've wanted to change this colour for years!", "Want is a state verb → simple form."],
+   ["Eric", "Great. Grab a brush!", "Grab = take quickly (informal)."]
+  ]
+ },
+ "mots": [
+  ["out of breath", "I'm out of breath because I've been running.", "breathing fast after physical effort"],
+  ["exhausted", "She's exhausted: she's been working nights.", "extremely tired"],
+  ["queue", "We've been standing in this queue for an hour.", "a line of people waiting (US: line)"],
+  ["practise", "He's been practising the piano every day.", "to do something regularly to get better (US: practice)"],
+  ["lately", "I've been feeling much better lately.", "recently"],
+  ["all day", "It's been raining all day.", "during the whole day"],
+  ["renovate", "They've been renovating their flat since spring.", "to repair and improve a building"],
+  ["revise", "I've been revising for my exam all week.", "to study again before an exam (US: review)"],
+  ["no wonder", "No wonder you're tired: you've been working since six!", "it is not surprising"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Recognise the use",
+   "consigne": "Say if the sentence describes an activity continuing up to now (A) or visible signs of a recent activity (B).",
+   "items": [
+    ["I've been living in Namur since 2021.", "A"],
+    ["Your shoes are muddy. Have you been playing football?", "B"],
+    ["We've been waiting for the bus for twenty minutes.", "A"],
+    ["The kitchen smells great. Have you been cooking?", "B"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb in the present perfect continuous.",
+   "items": [
+    ["She ___ (study) medicine for three years.", "has been studying"],
+    ["How long ___ you ___ (wait)?", "have … been waiting"],
+    ["It ___ (snow) since this morning in Quebec.", "has been snowing"],
+    ["I ___ (not / sleep) well lately.", "haven't been sleeping"],
+    ["They ___ (argue) all evening.", "have been arguing"]
+   ]
+  },
+  {
+   "titre": "3. Simple or continuous?",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["I (have read / have been reading) three books this month.", "have read"],
+    ["She (has known / has been knowing) him since 2010.", "has known"],
+    ["You look hot. (Have you run / Have you been running)?", "Have you been running"],
+    ["We (have painted / have been painting) the house all weekend, and it isn't finished.", "have been painting"],
+    ["How many emails (have you sent / have you been sending) today?", "have you sent"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["I'm learning English since 2019.", "I've been learning English since 2019."],
+    ["He has been owning this shop for ten years.", "He has owned this shop for ten years."],
+    ["They've been work here for a long time.", "They've been working here for a long time."],
+    ["How long time have you been driving?", "How long have you been driving?"]
+   ]
+  },
+  {
+   "titre": "5. Make sentences",
+   "consigne": "Write one sentence in the present perfect continuous from the information given.",
+   "items": [
+    ["I started waiting for you an hour ago. I'm still waiting.", "I've been waiting for you for an hour."],
+    ["You moved to Lille in 2022 and you still live there. Ask a friend the same question.", "How long have you been living in Lille? / How long have you lived in Lille?"],
+    ["It started raining on Monday. It's still raining.", "It has been raining since Monday."],
+    ["Your friend's hands are dirty. You think he was working in the garden.", "Have you been gardening? / Have you been working in the garden?"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write 4 sentences about activities you have been doing for some time (studies, sport, work, a hobby) with for, since or How long, and one sentence with a quantity in the present perfect simple.",
+   "items": [
+    ["Example answer", "I've been learning English for two years. I've been going to the gym since January. My sister has been working in Montreal since last summer. I've been reading a lot lately: I've read four novels this month."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Form: have / has been + -ing; been never changes.",
+  "An activity continuing up to now: I've been working here for two years.",
+  "Visible signs of a recent activity: You're wet. Have you been swimming?",
+  "Quantity, number, finished result → present perfect simple; duration, activity → continuous.",
+  "State verbs (know, like, want, own, believe…): present perfect simple only."
+ ],
+ "liens": [91, 8, 9, 93],
+ "refs": ["bc-pp-cont", "bc-stative"]
+}

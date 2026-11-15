@@ -1,0 +1,212 @@
+{
+"n": 115,
+"niveau": "B1",
+"titre": "Articles: special cases",
+"intro": "The basic rules (a, an, the) are not enough: many languages use an article where English uses none (“Life is beautiful”, not “The life…”) and the other way round. This lesson reviews the special cases that most often cause mistakes.",
+"objectifs": [
+"Use no article before a noun with a general meaning (life, people, music).",
+"Tell the difference between “go to school / hospital” (purpose) and “go to the school / the hospital” (the building).",
+"Use articles correctly with place names, meals, sports, languages and instruments.",
+"Use a / an in expressions of frequency, price and exclamation, and “the + adjective” for a group."
+],
+"sections": [
+{
+"titre": "General meaning: no article",
+"texte": [
+"To talk about something in general (all things of this type, the general idea), English uses no article with plural and uncountable nouns.",
+"When you talk about something specific, identified by the context or by extra information (of…, that…, in…), use “the”."
+],
+"tableau": {
+"entetes": ["General meaning (no article)", "Specific meaning (the)"],
+"lignes": [
+["Life is short.", "The life of my grandfather was difficult."],
+["I love music.", "I love the music in this film."],
+["People are friendly in Bafoussam.", "The people next door are very noisy."],
+["Coffee is expensive this year.", "The coffee you made is delicious."],
+["Children need sleep.", "The children are sleeping."]
+]
+},
+"exemples": [
+["Women earn less than men in many countries.", "Women and men in general."],
+["The women in my family are all teachers.", "A specific group."]
+]
+},
+{
+"titre": "Places as institutions: purpose or building?",
+"texte": [
+"With school, university, college, hospital, prison, church, court, bed, work and home, use no article when you talk about the purpose of the place (you go there to study, be treated, pray, sleep).",
+"Use “the” when you talk about the building itself, without using it for its purpose. Note UK / US differences: “in hospital” (UK) / “in the hospital” (US); “at university” (UK) / “in college” (US)."
+],
+"tableau": {
+"entetes": ["Purpose (no article)", "Building (the)"],
+"lignes": [
+["My son goes to school by bus.", "I went to the school to talk to his teacher."],
+["She's in hospital with a broken leg. (UK)", "The hospital is next to the station."],
+["I'm going to bed.", "The cat is sleeping on the bed."],
+["He's at work until six.", "The work is nearly finished. (= this particular work)"],
+["We stayed at home.", "The home of a famous writer. (rare: home = house)"]
+]
+}
+},
+{
+"titre": "Place names",
+"texte": [
+"Most proper names of places have no article: countries, cities, continents, streets, lakes and single mountains. But some take “the”, especially when the name contains an ordinary word (Republic, Kingdom, States) or is plural.",
+"Remember: the + seas, oceans, rivers, mountain ranges, deserts, groups of islands; no article + lakes, single mountains, single islands."
+],
+"tableau": {
+"entetes": ["No article", "With the"],
+"lignes": [
+["Cameroon, France, Canada, Belgium", "the United Kingdom, the USA, the Central African Republic, the Netherlands, the Philippines"],
+["Africa, Europe, Douala, Paris", "the Middle East, the West (regions)"],
+["Lake Chad, Lake Ontario", "the Atlantic (Ocean), the Mediterranean (Sea)"],
+["Mount Cameroon, Mount Kilimanjaro", "the Alps, the Rockies (ranges)"],
+["Oxford Street, Avenue Kennedy", "the Nile, the Congo, the Sahara"],
+["Madagascar, Sicily (single island)", "the Canary Islands, the Seychelles (groups)"]
+]
+}
+},
+{
+"titre": "Meals, sports, languages, subjects, transport, instruments",
+"texte": [
+"No article before meals (have breakfast / lunch / dinner), sports and games (play football, chess), languages (speak English), school subjects (study maths, history), and means of transport after by (by car, by bus, by plane; but on foot).",
+"With an adjective, or for a specific meal, the article comes back: “We had a lovely dinner”, “The dinner was excellent”. Before a musical instrument, we usually use “the”: play the guitar, the piano (American English sometimes drops it)."
+],
+"exemples": [
+["We have dinner at eight.", "Not “the dinner”."],
+["She speaks Ewondo, French and English.", "Languages: no article."],
+["My brother plays the guitar and basketball.", "the + instrument; no article + sport."],
+["I usually go to work by train.", "by + transport: no article."]
+]
+},
+{
+"titre": "A / an and the in fixed expressions",
+"texte": [
+"A / an means “each / per” in expressions of frequency, speed and price: twice a week, 100 km an hour, 3 euros a kilo. It is needed before a job (She's an engineer) and in exclamations with what + singular countable noun (What a beautiful day!).",
+"The + adjective means a group of people (plural verb): the rich, the poor, the elderly, the unemployed, the young. The same with some nationalities: the French, the British, the Dutch.",
+"The is used for unique things: the sun, the moon, the internet, the world, the government, the police."
+],
+"exemples": [
+["I go to the gym three times a week.", "a = per."],
+["What a nice surprise!", "What a + singular countable noun."],
+["The elderly need more support.", "the + adjective = a group; plural verb."],
+["I found the information on the internet.", "Unique thing: the internet."]
+]
+}
+],
+"formule": "general meaning = no article (Life, People, Music) · specific meaning = the · institutions: no article when you mean the purpose",
+"prononciation": [
+"“the” is /ðə/ before a consonant sound and /ði/ before a vowel sound: the USA /ðə juː es ˈeɪ/ (/j/ is a consonant sound), the elderly /ði ˈeldəli/.",
+"“a” becomes “an” before a vowel SOUND, not a vowel letter: an hour /ən ˈaʊə/, a university /ə ˌjuːnɪˈvɜːsəti/, an MBA /ən ˌem biː ˈeɪ/.",
+"For emphasis (“the only, the best”), say a strong, stressed /ðiː/: “It's THE place to be.”",
+"Articles are almost always weak and quick: /ə/, /ən/, /ðə/; don't pronounce them as full words."
+],
+"erreurs": [
+["The life is beautiful.", "Life is beautiful.", "General meaning: no article."],
+["I like the music and the sport.", "I like music and sport.", "General likes: no article."],
+["He's at the hospital since Monday. (meaning: he is a patient, UK)", "He's been in hospital since Monday.", "Purpose: in hospital (UK); and the present perfect with since."],
+["We visited the Cameroon and the Lake Chad.", "We visited Cameroon and Lake Chad.", "Countries and lakes: no article."],
+["I went to Netherlands.", "I went to the Netherlands.", "Plural country names: the."],
+["She speaks the English very well.", "She speaks English very well.", "Languages: no article."],
+["What beautiful day!", "What a beautiful day!", "What + a + singular countable noun."],
+["I play piano twice in the week.", "I play the piano twice a week.", "Instrument: the; frequency: a week."]
+],
+"dialogue": {
+"contexte": "Two students, Joëlle (from Yaoundé) and Liam (from Ottawa), meet during a university exchange in Louvain-la-Neuve.",
+"lignes": [
+["Liam", "So, what do you study?", "A common question."],
+["Joëlle", "Economics. And I take French literature as an option. What about you?", "Subjects: no article."],
+["Liam", "History. I love history, especially the history of Africa.", "General history vs the history of…"],
+["Joëlle", "Really? Have you ever been to Cameroon?", "Country: no article."],
+["Liam", "Not yet, but I've been to Ghana and the Ivory Coast. I'd love to climb Mount Cameroon one day.", "Single mountain: no article."],
+["Joëlle", "You should! Do you go home often?", "go home: no article."],
+["Liam", "Twice a year. The flight to Canada is expensive. And you?", "a = per; the flight = specific."],
+["Joëlle", "Only in summer. Life is expensive here, and students don't have much money!", "General meaning: no article."],
+["Liam", "What a surprise! Shall we have lunch together? The canteen is open.", "What a…!; meals: no article."]
+]
+},
+"mots": [
+["article", "“The” is the definite article.", "a word like a, an or the; a piece of writing in a newspaper"],
+["definite", "Use the definite article for specific things.", "clear and specific (the definite article = the)"],
+["general", "In general, people are kind.", "not specific; about most things or people"],
+["specific", "Can you give me a specific example?", "particular, exact"],
+["the elderly", "The elderly often live alone.", "old people as a group"],
+["unemployed", "The unemployed need training.", "without a paid job"],
+["coast", "We spent a week on the coast.", "the land next to the sea"],
+["island", "Madagascar is a large island.", "a piece of land with water all around it"],
+["continent", "Africa is a huge continent.", "one of the very large land areas of the world"],
+["option", "I took Spanish as an option.", "a subject you can choose to study"]
+],
+"exercices": [
+{
+"titre": "1. The or no article (—)?",
+"consigne": "Complete with the or — (no article).",
+"items": [
+["___ water is essential for ___ life.", "— … —"],
+["___ water in this bottle is cold.", "The"],
+["My grandmother is in ___ hospital. (she is a patient, UK)", "—"],
+["We went to ___ hospital to visit her.", "the"],
+["They live in ___ Netherlands, near ___ Amsterdam.", "the … —"],
+["___ Nile is the longest river in ___ Africa.", "The … —"],
+["I usually have ___ lunch at one.", "—"],
+["Can you play ___ piano?", "the"]
+]
+},
+{
+"titre": "2. A, an, the or nothing?",
+"consigne": "Complete with a, an, the or —.",
+"items": [
+["I go swimming twice ___ week.", "a"],
+["What ___ amazing view!", "an"],
+["___ unemployed need more help from ___ government.", "The … the"],
+["She's ___ engineer at a company in Douala.", "an"],
+["We travelled to Kribi by ___ car.", "—"],
+["Tomatoes are 2 euros ___ kilo.", "a"]
+]
+},
+{
+"titre": "3. General or specific?",
+"consigne": "Write the sentence with or without the, according to the meaning given.",
+"items": [
+["(people / general) ___ people in big cities are often stressed.", "People in big cities are often stressed."],
+["(people / specific) ___ people we met in Liège were very kind.", "The people we met in Liège were very kind."],
+["(money / general) ___ money doesn't make you happy.", "Money doesn't make you happy."]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["The love is more important than the money.", "Love is more important than money."],
+["We climbed the Mount Kilimanjaro.", "We climbed Mount Kilimanjaro."],
+["She lives in the United States since 2019.", "She has lived in the United States since 2019."],
+["My children go to the school at 7:30.", "My children go to school at 7:30."]
+]
+},
+{
+"titre": "5. Article or not?",
+"consigne": "Write the sentence correctly from the words. Add articles only where needed.",
+"items": [
+["I / like / chocolate / but / I / not like / coffee (in general)", "I like chocolate but I don't like coffee."],
+["he / be / in / bed / with / fever", "He's in bed with a fever."],
+["rich / pay / more / taxes (group of people)", "The rich pay more taxes / tax."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Present your country or region in five or six sentences with place names and at least two sentences with a general meaning (no article).",
+"items": [
+["Model answer", "I come from Belgium, a small country between France, Germany and the Netherlands. The capital is Brussels. The North Sea is about an hour from my town by train. People here love football and good food. Life is quite expensive, but public transport is excellent. In summer, many Belgians go to the south of France or to the Canary Islands."]
+]
+}
+],
+"a_retenir": [
+"General meaning (plural, uncountable): no article (Life is short, I love music).",
+"School, hospital, bed, work, church, prison: no article for the purpose, the for the building.",
+"Countries and lakes: no article (Cameroon, Lake Chad), except compound or plural names (the UK, the Netherlands); the + rivers, seas, oceans, mountain ranges.",
+"No article: meals, sports, languages, subjects, by car; the + instruments.",
+"a = per (twice a week, 3 euros a kilo); What a…!; the + adjective = a group (the rich)."
+],
+"liens": [11, 59, 116],
+"refs": ["bc-articles-zero", "bc-articles"]
+}

@@ -1,0 +1,192 @@
+{
+ "n": 96,
+ "niveau": "B1",
+ "titre": "Le deuxième conditionnel",
+ "intro": "Le deuxième conditionnel (If I had more time, I would travel) parle de situations imaginaires, improbables ou contraires à la réalité présente, et de leurs conséquences. C'est l'équivalent de « si + imparfait, conditionnel » en français, et il sert aussi à donner des conseils et à parler poliment.",
+ "objectifs": [
+  "Construire le deuxième conditionnel avec if + prétérit et would + base verbale.",
+  "Distinguer une situation réelle et probable (premier conditionnel) d'une situation imaginaire ou improbable (deuxième conditionnel).",
+  "Utiliser If I were you… pour conseiller, et were à toutes les personnes dans un registre soigné.",
+  "Nuancer le résultat avec could et might, et poser des questions hypothétiques (What would you do if…?)."
+ ],
+ "sections": [
+  {
+   "titre": "La structure",
+   "texte": [
+    "Condition : if + prétérit (simple ou continu). Résultat : would + base verbale. Contraction : 'd (I'd, she'd) ; négation : wouldn't. Même règle de virgule qu'au premier conditionnel.",
+    "Le prétérit ici ne parle pas du passé : il marque la distance avec la réalité. « If I had a car » = je n'ai pas de voiture (maintenant). C'est exactement comme l'imparfait français dans « si j'avais une voiture »."
+   ],
+   "tableau": {
+    "entetes": ["Condition (if + prétérit)", "Résultat (would + base verbale)", "Réalité"],
+    "lignes": [
+     ["If I had more money,", "I'd buy a house.", "Je n'ai pas assez d'argent."],
+     ["If she lived closer,", "we would see her more often.", "Elle habite loin."],
+     ["If they spoke English,", "they'd understand the film.", "Ils ne parlent pas anglais."],
+     ["If it wasn't raining,", "we'd go for a walk.", "Il pleut en ce moment."]
+    ]
+   },
+   "note": "Comme pour will, would ne va jamais dans la partie en if : « If I would have money » est faux."
+  },
+  {
+   "titre": "Réel ou imaginaire ? Premier ou deuxième conditionnel",
+   "texte": [
+    "Le choix dépend de la façon dont le locuteur voit la situation. Premier conditionnel : c'est possible, réaliste. Deuxième conditionnel : c'est imaginaire, peu probable ou impossible.",
+    "« If I win the match, I'll be happy » (je suis un bon joueur, c'est possible). « If I won the lottery, I'd stop working » (rêve, très improbable)."
+   ],
+   "exemples": [
+    ["If I get the job, I'll move to Lille.", "Possible : j'ai passé l'entretien."],
+    ["If I got a job in Japan, I'd learn Japanese.", "Hypothèse lointaine."],
+    ["If I were taller, I'd play basketball.", "Impossible à changer : situation contraire à la réalité."],
+    ["What would you do if you saw a lion in the street?", "Situation imaginaire."]
+   ]
+  },
+  {
+   "titre": "« If I were… » et les conseils",
+   "texte": [
+    "Avec be, on peut utiliser were à toutes les personnes : If I were, if he were, if it were. C'est la forme recommandée à l'écrit et à l'examen. Was (if I was, if she was) est courant à l'oral mais moins soigné.",
+    "« If I were you, I'd… » (à ta place, je…) est la façon classique de donner un conseil. Dans cette expression figée, on garde toujours were."
+   ],
+   "exemples": [
+    ["If I were you, I'd apologise.", "À ta place, je m'excuserais."],
+    ["If it were cheaper, more people would buy it.", "Were avec it : registre soigné."],
+    ["I wouldn't sign that contract if I were you.", "Conseil négatif."]
+   ]
+  },
+  {
+   "titre": "Could, might et les questions",
+   "texte": [
+    "Dans le résultat, could = would be able to (pourrait), might = would perhaps (pourrait peut-être). Dans la condition, could = was able to : « If I could drive, I'd help you move. »",
+    "Les questions hypothétiques sont très utiles en conversation et dans les entretiens : What would you do if…? Where would you live if…? Réponse courte : Yes, I would. / No, I wouldn't."
+   ],
+   "tableau": {
+    "entetes": ["Forme", "Exemple", "Sens"],
+    "lignes": [
+     ["would", "If I had time, I would help you.", "je t'aiderais"],
+     ["could (résultat)", "If I had a car, I could drive you home.", "je pourrais"],
+     ["might (résultat)", "If you asked him nicely, he might say yes.", "il dirait peut-être oui"],
+     ["could (condition)", "If I could speak Dutch, I'd apply for that job in Ghent.", "si je savais parler"]
+    ]
+   }
+  },
+  {
+   "titre": "La politesse et les situations délicates",
+   "texte": [
+    "Le deuxième conditionnel adoucit une demande ou une proposition : « Would it be OK if I left early today? », « It would be great if you could send me the file. » La distance grammaticale crée une distance polie.",
+    "Il sert aussi à refuser gentiment : « I'd love to come, but… » et à parler de principes : « I would never lie to a friend. »"
+   ],
+   "exemples": [
+    ["Would you mind if I opened the window?", "Demande polie (prétérit après if)."],
+    ["It would be helpful if you arrived ten minutes early.", "Consigne formulée poliment."]
+   ]
+  }
+ ],
+ "formule": "If + prétérit, would / could / might + base verbale (If I had time, I'd help you. · If I were you, I'd…)",
+ "prononciation": [
+  "'d est presque inaudible : « I'd go » /aɪd ɡəʊ/. Écoute le léger /d/ qui distingue « I go » de « I'd go ». Devant une voyelle il se lie : « I'd ask » /aɪˈdɑːsk/.",
+  "would est faible dans une question : « What would you do? » /ˈwɒt wəd jə ˈduː/ ; souvent « wouldja » /ˈwʊdʒə/ à l'oral rapide.",
+  "wouldn't /ˈwʊdnt/ : le l ne se prononce pas (comme dans could et should).",
+  "were est faible /wə/ dans « If I were you » : /ɪf aɪ wə ˈjuː/, avec l'accent sur you.",
+  "Intonation montante sur la condition, descendante sur le résultat, comme au premier conditionnel."
+ ],
+ "erreurs": [
+  ["If I would have more time, I would travel.", "If I had more time, I would travel.", "Pas de would dans la partie en if : prétérit."],
+  ["If I had money, I will buy a car.", "If I had money, I would buy a car.", "Prétérit dans la condition → would dans le résultat (pas will)."],
+  ["If I am you, I would accept.", "If I were you, I would accept.", "Expression figée : If I were you."],
+  ["If I would be rich, I would help my family.", "If I were rich, I would help my family.", "Be au prétérit (were) après if."],
+  ["What you would do if you lost your job?", "What would you do if you lost your job?", "Question : would avant le sujet."],
+  ["If I could, I would to help you.", "If I could, I would help you.", "Pas de to après would."]
+ ],
+ "dialogue": {
+  "contexte": "Abidjan, à la terrasse d'un café. Awa et son ami Pierre, en visite depuis Québec, imaginent une autre vie.",
+  "lignes": [
+   ["Pierre", "What would you do if you didn't have to work?", "Que ferais-tu si tu n'avais pas besoin de travailler ?"],
+   ["Awa", "I'd open a small restaurant by the sea. And you?", "J'ouvrirais un petit restaurant au bord de la mer. Et toi ?"],
+   ["Pierre", "If I had the money, I'd travel around Africa for a year.", "Si j'avais l'argent, je voyagerais en Afrique pendant un an."],
+   ["Awa", "You could start with Ghana. It isn't far from here.", "Tu pourrais commencer par le Ghana. Ce n'est pas loin d'ici."],
+   ["Pierre", "True. But if I left my job, my boss would be furious!", "C'est vrai. Mais si je quittais mon travail, mon patron serait furieux !"],
+   ["Awa", "If I were you, I'd ask for unpaid leave.", "À ta place, je demanderais un congé sans solde."],
+   ["Pierre", "That's a good idea. He might accept if I asked him early.", "Bonne idée. Il accepterait peut-être si je lui demandais tôt."],
+   ["Awa", "And if you came back next year, you could eat at my restaurant!", "Et si tu revenais l'année prochaine, tu pourrais manger dans mon restaurant !"]
+  ]
+ },
+ "mots": [
+  ["imagine", "Imagine you lived on an island.", "imaginer"],
+  ["afford", "If I could afford it, I'd buy a bigger flat.", "avoir les moyens de (s'offrir)"],
+  ["lottery", "What would you do if you won the lottery?", "la loterie"],
+  ["apologise", "If I were you, I'd apologise.", "s'excuser (US : apologize)"],
+  ["advice", "Can I give you some advice?", "le(s) conseil(s) (indénombrable)"],
+  ["unpaid leave", "She took unpaid leave to travel.", "le congé sans solde"],
+  ["rather", "I'd rather stay here.", "plutôt (would rather = préférer)"],
+  ["mind", "Would you mind if I sat here?", "voir un inconvénient"],
+  ["dream", "In my dream life, I'd live by the sea.", "le rêve ; de rêve"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Réel ou imaginaire ?",
+   "consigne": "Choisis la forme qui convient au sens indiqué.",
+   "items": [
+    ["(Possible) If it (rains / rained) tomorrow, we'll cancel the picnic.", "rains"],
+    ["(Imaginaire) If I (am / were) a bird, I'd fly to Cameroon.", "were"],
+    ["(Imaginaire) If she (has / had) wings, she would fly.", "had"],
+    ["(Possible) If you (call / called) me tonight, I'll explain.", "call"]
+   ]
+  },
+  {
+   "titre": "2. Conjuguer",
+   "consigne": "Mets les verbes à la bonne forme (deuxième conditionnel).",
+   "items": [
+    ["If I ___ (know) her number, I ___ (call) her.", "knew … would call ('d call)"],
+    ["We ___ (not / live) here if we ___ (have) a choice.", "wouldn't live … had"],
+    ["If he ___ (be) more patient, he ___ (be) a good teacher.", "were (was) … would be"],
+    ["What ___ you ___ (do) if you ___ (lose) your passport abroad?", "would … do … lost"],
+    ["If they ___ (can) speak French, they ___ (move) to Quebec.", "could … would move"]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Réécris la phrase au deuxième conditionnel pour imaginer le contraire.",
+   "items": [
+    ["I don't have a car, so I can't drive you home.", "If I had a car, I could drive you home."],
+    ["She's very busy, so she doesn't call her parents.", "If she weren't (wasn't) so busy, she would call her parents."],
+    ["We don't speak Dutch, so we don't understand the signs.", "If we spoke Dutch, we would understand the signs."],
+    ["It's raining, so we aren't going to the beach.", "If it weren't (wasn't) raining, we would go to the beach."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["If I would win the lottery, I would buy a house.", "If I won the lottery, I would buy a house."],
+    ["If I am you, I would talk to her.", "If I were you, I would talk to her."],
+    ["If she had time, she will help us.", "If she had time, she would help us."],
+    ["What you would say if he asked you?", "What would you say if he asked you?"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Si j'avais plus de temps, j'apprendrais le piano.", "If I had more time, I would learn the piano."],
+    ["À ta place, je ne dirais rien.", "If I were you, I wouldn't say anything."],
+    ["Que ferais-tu si tu habitais à Bruxelles ?", "What would you do if you lived in Brussels?"],
+    ["Ça vous dérangerait si je partais plus tôt ?", "Would you mind if I left earlier?"]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Réponds en 4 phrases à la question : « What would you do if you could live anywhere in the world? » Utilise would, could et might.",
+   "items": [
+    ["Exemple de réponse", "If I could live anywhere, I'd choose Vancouver. I would live near the mountains and go hiking every weekend. I could also work from home for a company in Europe. My family might visit me every summer."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "If + prétérit, would + base verbale : situation imaginaire ou improbable (présent ou futur).",
+  "Le prétérit marque la distance avec la réalité, pas le passé.",
+  "Jamais would dans la partie en if.",
+  "If I were you, I'd… pour conseiller ; were possible à toutes les personnes.",
+  "Could = pourrait ; might = pourrait peut-être."
+ ],
+ "liens": [95, 97, 98, 42, 158],
+ "refs": ["bc-cond-012"]
+}

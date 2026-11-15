@@ -1,0 +1,227 @@
+{
+ "n": 221,
+ "niveau": "C1",
+ "titre": "Les idiomes du monde professionnel",
+ "intro": "Les expressions imagées qu'on entend en réunion, dans les e-mails internes et en entretien : les comprendre évite les malentendus, les utiliser avec justesse rend votre anglais naturel et crédible.",
+ "objectifs": [
+  "Comprendre une trentaine d'idiomes courants du travail (réunions, projets, charge de travail, résultats).",
+  "Les utiliser avec leur forme exacte : préposition, article, possessif, temps du verbe.",
+  "Choisir le bon registre : idiome en réunion ou e-mail interne, équivalent neutre dans un écrit formel ou face à un client.",
+  "Repérer le jargon d'entreprise qui agace (circle back, synergy) et savoir le remplacer par une formulation simple."
+ ],
+ "sections": [
+  {
+   "titre": "Comment fonctionne un idiome professionnel",
+   "texte": [
+    "Un idiome est un bloc dont le sens ne se déduit pas des mots : « learn the ropes » ne parle pas de cordes mais d'apprendre les ficelles d'un métier. Beaucoup viennent de la marine (learn the ropes, on board), du sport (ballpark, touch base, the ball is in your court) ou de la comptabilité (the bottom line, in the red).",
+    "La forme est figée : on dit « on the same page » et jamais « in the same page », « pull your weight » et jamais « pull your weights ». Ce qui peut varier, c'est le temps du verbe (we touched base, I'll touch base) et le possessif, qui s'accorde avec le sujet (she pulls her weight, they pull their weight).",
+    "Au niveau C1, l'enjeu n'est pas d'en connaître beaucoup, mais d'en placer peu et juste : un ou deux idiomes bien choisis donnent un ton naturel ; une avalanche paraît récitée, voire ridicule."
+   ],
+   "exemples": [
+    ["I'm still learning the ropes, so bear with me.", "J'apprends encore les ficelles du métier, soyez indulgents."],
+    ["She really pulls her weight on this team.", "Elle fait vraiment sa part de travail dans cette équipe (possessif accordé)."],
+    ["We touched base last week, but nothing's been decided.", "Nous avons fait le point la semaine dernière (verbe au prétérit)."]
+   ]
+  },
+  {
+   "titre": "Réunions et communication",
+   "texte": [
+    "Ce sont les idiomes que vous entendrez le plus. Ils servent à organiser la discussion : lancer, faire le point, reporter, informer."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["touch base (with sb)", "reprendre contact, faire un point rapide", "Let's touch base on Friday."],
+     ["be on the same page", "être d'accord, avoir la même compréhension", "Before we start, are we all on the same page?"],
+     ["get the ball rolling", "lancer, démarrer", "Who wants to get the ball rolling?"],
+     ["keep sb in the loop", "tenir qqn informé", "Please keep me in the loop."],
+     ["keep sb posted", "tenir qqn au courant", "I'll keep you posted on the budget."],
+     ["run sth by sb", "soumettre qqch à qqn pour avis", "Can I run an idea by you?"],
+     ["take it offline", "en discuter à part, hors réunion", "This is getting detailed, let's take it offline."],
+     ["put a pin in it", "mettre de côté pour y revenir (familier, surtout US)", "Good point, let's put a pin in it for now."],
+     ["the ball is in your court", "c'est à vous de jouer, la décision vous revient", "We've sent our offer: the ball is in their court."]
+    ]
+   },
+   "note": "« Keep me in the loop » et « keep me posted » sont quasi synonymes ; « keep me updated » est la version neutre, valable partout."
+  },
+  {
+   "titre": "Projets, délais et charge de travail",
+   "texte": [
+    "Ces idiomes décrivent l'avancement d'un projet et la façon de travailler. Plusieurs ont une nuance critique : « cut corners » (bâcler pour gagner du temps) ou « drop the ball » (laisser tomber une tâche dont on était responsable) servent à reprocher, donc à manier avec tact."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["hit the ground running", "être opérationnel tout de suite", "We need someone who can hit the ground running."],
+     ["bring sb up to speed", "mettre qqn à jour, au niveau", "Can you bring Léa up to speed on the client?"],
+     ["back to the drawing board", "il faut tout reprendre depuis le début", "The client rejected it, so it's back to the drawing board."],
+     ["put sth on the back burner", "mettre en attente (moins prioritaire)", "The app redesign is on the back burner."],
+     ["cut corners", "bâcler, rogner sur la qualité", "We can't cut corners on safety."],
+     ["drop the ball", "commettre un oubli, laisser tomber une tâche", "I dropped the ball on that invoice, sorry."],
+     ["go the extra mile", "faire un effort supplémentaire", "Our support team always goes the extra mile."],
+     ["be snowed under (BrE) / swamped", "être débordé", "I'm snowed under this week."],
+     ["call it a day", "s'arrêter là pour aujourd'hui", "It's seven o'clock, let's call it a day."]
+    ]
+   },
+   "exemples": [
+    ["I'm afraid I dropped the ball on the shipping dates.", "Reconnaître une erreur avec un idiome : direct mais pas dramatique."],
+    ["We've put the merger on the back burner until the audit is finished.", "« On the back burner » : mis en attente, pas abandonné."]
+   ]
+  },
+  {
+   "titre": "Résultats, argent et décisions",
+   "texte": [
+    "Les idiomes de chiffres et de résultats sont très fréquents dans les rapports oraux et les présentations. « The bottom line » désigne à l'origine la dernière ligne du compte de résultat (le bénéfice ou la perte), puis, par extension, l'essentiel d'une situation."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["a ballpark figure", "un ordre de grandeur", "Can you give me a ballpark figure?"],
+     ["the bottom line", "l'essentiel ; le résultat financier", "The bottom line is that we're over budget."],
+     ["in the red / in the black", "en déficit / bénéficiaire", "The branch has been in the red for two years."],
+     ["break even", "atteindre le seuil de rentabilité", "We expect to break even next year."],
+     ["low-hanging fruit", "les gains faciles, rapides à obtenir", "Let's start with the low-hanging fruit."],
+     ["a win-win (situation)", "une situation gagnant-gagnant", "Flexible hours are a win-win."],
+     ["cut your losses", "limiter les pertes en abandonnant", "The project isn't working; it's time to cut our losses."],
+     ["a game changer", "une innovation qui change la donne", "Automation has been a game changer for us."]
+    ]
+   },
+   "exemples": [
+    ["Ballpark, we're looking at around fifty thousand euros.", "« Ballpark » seul, en tête de phrase : « en gros », très oral."],
+    ["The bottom line is that we can't afford a second office.", "Pour conclure une discussion en donnant le point clé."]
+   ]
+  },
+  {
+   "titre": "Registre : quand utiliser (ou éviter) un idiome",
+   "texte": [
+    "En réunion, en e-mail interne ou dans une conversation avec un collègue, les idiomes sont naturels. Dans une lettre officielle, un rapport, un contrat ou un premier e-mail à un client, on préfère l'équivalent neutre.",
+    "Certains idiomes sont devenus du jargon d'entreprise que beaucoup d'anglophones trouvent creux : « circle back », « move the needle », « leverage synergies », « think outside the box ». Les comprendre est indispensable ; les employer à répétition donne une image de langue de bois.",
+    "Différences britannique / américain : « snowed under » est surtout britannique, « swamped » se dit partout ; « put a pin in it » et « touch base » viennent des États-Unis mais sont désormais courants au Royaume-Uni."
+   ],
+   "tableau": {
+    "entetes": ["Idiome (oral, interne)", "Équivalent neutre ou formel"],
+    "lignes": [
+     ["Let's touch base next week.", "Shall we arrange a short follow-up meeting next week?"],
+     ["Can you give me a ballpark figure?", "Could you provide an approximate estimate?"],
+     ["Keep me in the loop.", "Please keep me informed."],
+     ["We're snowed under.", "We are currently dealing with a very high workload."],
+     ["It's back to the drawing board.", "We will need to revise the proposal entirely."],
+     ["Let's circle back to this.", "Let's return to this point later."]
+    ]
+   },
+   "exemples": [
+    ["Could you provide an approximate estimate by Friday?", "Version formelle de « a ballpark figure », pour un client."]
+   ]
+  }
+ ],
+ "formule": "Idiome = bloc figé (préposition, article et nom fixes) + verbe conjugué et possessif accordé, réservé à l'oral et à l'écrit interne",
+ "prononciation": [
+  "L'accent tombe sur le mot plein le plus important, souvent le dernier : on the same PAGE, back to the DRAWing board, the bottom LINE.",
+  "« ballpark » se prononce /ˈbɔːlpɑːk/ (BrE) avec l'accent sur la première syllabe ; « ropes » se dit /rəʊps/, avec une diphtongue, pas un o français.",
+  "Les mots grammaticaux sont réduits : « to the » /tə ðə/ dans « back to the drawing board », « in the » /ɪn ðə/ dans « in the loop ».",
+  "« touch base » : enchaînez /tʌtʃ beɪs/ sans pause ; « base » rime avec « face », jamais avec « baz ».",
+  "« posted » dans « keep you posted » : /ˈpəʊstɪd/, deux syllabes, le -ed se prononce /ɪd/ après un t."
+ ],
+ "erreurs": [
+  ["We are in the same page.", "We're on the same page.", "La préposition fait partie de l'idiome : « on » the same page."],
+  ["I'll keep you in the course.", "I'll keep you posted. / I'll keep you in the loop.", "Calque de « au courant » : l'expression anglaise est « keep sb posted / in the loop »."],
+  ["I'm overbooked this week.", "I'm snowed under / swamped this week.", "« Overbooked » se dit d'un vol ou d'un hôtel, pas d'une personne débordée."],
+  ["He doesn't pull his weights.", "He doesn't pull his weight.", "« Weight » reste au singulier dans l'idiome."],
+  ["Let's put it in the back burner.", "Let's put it on the back burner.", "On pose une casserole « on » le feu arrière."],
+  ["I'm still learning the strings.", "I'm still learning the ropes.", "« Les ficelles » se disent « the ropes » ; « pull strings » signifie faire jouer ses relations."],
+  ["Let's do a brainstorming.", "Let's brainstorm. / Let's have a brainstorming session.", "« Brainstorm » est un verbe ; « a brainstorming » isolé est un gallicisme."],
+  ["Dear Mr Lee, please give us a ballpark figure ASAP.", "Dear Mr Lee, could you provide an approximate estimate at your earliest convenience?", "Idiome et ASAP sont trop familiers pour un premier e-mail formel à un client."]
+ ],
+ "dialogue": {
+  "contexte": "Réunion d'équipe en visioconférence entre Montréal et Bruxelles, le lundi matin.",
+  "lignes": [
+   ["Nadia", "Morning, everyone. Let's get the ball rolling. Tom, can you bring us up to speed on the Lyon project?", "Bonjour à tous. Commençons. Tom, tu peux nous mettre à jour sur le projet de Lyon ?"],
+   ["Tom", "Sure. The bottom line is that the client didn't like the prototype, so it's back to the drawing board.", "Bien sûr. En résumé, le client n'a pas aimé le prototype, donc on repart de zéro."],
+   ["Nadia", "Oh dear. Do we have a ballpark figure for the extra cost?", "Aïe. On a un ordre de grandeur du surcoût ?"],
+   ["Tom", "Ballpark, around twelve thousand euros. But we can't cut corners on testing.", "En gros, autour de douze mille euros. Mais on ne peut pas rogner sur les tests."],
+   ["Awa", "Agreed. And honestly, I'm snowed under with the Douala launch, so I can't take on much more.", "D'accord. Et honnêtement, je suis débordée avec le lancement de Douala, je ne peux pas prendre beaucoup plus."],
+   ["Nadia", "Understood. Let's put the website update on the back burner, then.", "Compris. Mettons la mise à jour du site en attente, alors."],
+   ["Tom", "The pricing question is getting quite detailed. Shall we take it offline?", "La question des prix devient très détaillée. On en parle à part ?"],
+   ["Nadia", "Good idea. Tom and Awa, touch base this afternoon and keep me in the loop.", "Bonne idée. Tom et Awa, faites le point cet après-midi et tenez-moi informée."]
+  ]
+ },
+ "mots": [
+  ["touch base", "Let's touch base after the client call.", "faire le point, reprendre contact"],
+  ["ballpark", "We need a ballpark figure by Monday.", "approximatif ; un ordre de grandeur"],
+  ["learn the ropes", "New staff spend a month learning the ropes.", "apprendre les ficelles du métier"],
+  ["bottom line", "The bottom line is that sales are down.", "l'essentiel ; le résultat net"],
+  ["back burner", "The training plan is on the back burner.", "en attente, en second plan"],
+  ["cut corners", "Never cut corners on data security.", "bâcler, faire des économies sur la qualité"],
+  ["drop the ball", "Someone dropped the ball on the booking.", "commettre un oubli, faillir à une tâche"],
+  ["snowed under", "The accounts team is snowed under.", "débordé (de travail)"],
+  ["break even", "The shop should break even in its second year.", "atteindre le seuil de rentabilité"],
+  ["win-win", "The new schedule is a win-win for staff and clients.", "gagnant-gagnant"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Reconnaître le sens",
+   "consigne": "Explique en français le sens de l'idiome dans chaque phrase.",
+   "items": [
+    ["We need someone who can hit the ground running.", "être opérationnel immédiatement"],
+    ["The ball is in their court now.", "c'est à eux de décider / d'agir maintenant"],
+    ["Let's start with the low-hanging fruit.", "les gains faciles et rapides"],
+    ["The project isn't working; let's cut our losses.", "abandonner pour limiter les pertes"]
+   ]
+  },
+  {
+   "titre": "2. Compléter l'idiome",
+   "consigne": "Complète avec le mot manquant (préposition, nom ou verbe).",
+   "items": [
+    ["Are we all ___ the same page?", "on"],
+    ["I'm new here, so I'm still learning the ___.", "ropes"],
+    ["Please keep me in the ___.", "loop"],
+    ["The redesign has been put on the back ___.", "burner"],
+    ["Our team always goes the extra ___.", "mile"],
+    ["The client said no, so it's back to the drawing ___.", "board"]
+   ]
+  },
+  {
+   "titre": "3. Passer au registre formel",
+   "consigne": "Réécris la phrase pour un e-mail formel à un client, sans idiome.",
+   "items": [
+    ["Can you give us a ballpark figure?", "Could you provide an approximate estimate?"],
+    ["I'll keep you posted.", "I will keep you informed of any developments."],
+    ["We're snowed under right now.", "We are currently dealing with a very high volume of work."],
+    ["Let's touch base next week.", "I suggest we arrange a short follow-up call next week."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["She really pulls her weights.", "She really pulls her weight."],
+    ["I'm completely overbooked this week.", "I'm completely snowed under / swamped this week."],
+    ["Let's put this idea in the back burner.", "Let's put this idea on the back burner."],
+    ["I'm sorry, I let the ball drop on your invoice.", "I'm sorry, I dropped the ball on your invoice."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un idiome du cours.",
+   "items": [
+    ["Il est 19 h, arrêtons-nous là pour aujourd'hui.", "It's 7 p.m., let's call it a day."],
+    ["Nous espérons atteindre le seuil de rentabilité l'an prochain.", "We hope to break even next year."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court message interne (4 à 5 phrases) à ton équipe sur un projet en retard. Utilise trois idiomes du cours, correctement.",
+   "items": [
+    ["Exemple de réponse", "Hi all, quick update on the Kribi project. The bottom line is that we're two weeks behind schedule, mainly because the supplier dropped the ball on the delivery. I've put the marketing plan on the back burner so we can focus on the build. Let's touch base on Thursday, and please keep me in the loop if anything changes."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Un idiome est un bloc figé : préposition, article et nom ne bougent pas (on the same page, pull your weight) ; seuls le temps et le possessif s'adaptent.",
+  "Réunion et e-mail interne : idiomes bienvenus. Lettre formelle, rapport, premier contact client : équivalent neutre.",
+  "Peu mais juste : un ou deux idiomes par échange suffisent ; le jargon (circle back, synergy) est à comprendre plus qu'à imiter.",
+  "Pièges francophones : « au courant » = keep sb posted, « overbooké » = snowed under / swamped, « les ficelles » = the ropes."
+ ],
+ "liens": [177, 174, 223, 224, 207],
+ "refs": ["bc-c1", "cam-using"]
+}

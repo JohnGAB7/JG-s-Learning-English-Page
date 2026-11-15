@@ -1,0 +1,196 @@
+{
+"n": 32,
+"niveau": "A1",
+"titre": "The imperative (instructions)",
+"intro": "We use the imperative to give instructions, orders, advice or invitations: to follow a recipe, give directions or welcome a guest. In English it is very simple: the base verb, with no subject.",
+"objectifs": [
+ "Make the positive imperative (Open the door) and the negative imperative (Don't open the door).",
+ "Use the imperative for instructions, advice, warnings and invitations.",
+ "Make an order softer with please, and know when a polite question is better.",
+ "Make a suggestion with Let's (Let's go!)."
+],
+"sections": [
+ {
+  "titre": "The form",
+  "texte": [
+   "The positive imperative is just the base verb, with no subject: “Open the window.” The form is the same for one person or many people.",
+   "The negative imperative is “Don't” + base verb: “Don't open the window.” In very formal writing, or to make it stronger, you see “Do not”.",
+   "With an adjective, use “be”: “Be careful!”, “Don't be late!”."
+  ],
+  "tableau": {
+   "entetes": ["Form", "Structure", "Example", "Use"],
+   "lignes": [
+    ["Positive", "verb", "Sit down.", "an instruction"],
+    ["Negative", "Don't + verb", "Don't sit there.", "say not to do something"],
+    ["With an adjective", "Be + adjective", "Be quiet.", "about behaviour"],
+    ["Negative + adjective", "Don't be + adjective", "Don't be shy.", "about behaviour"],
+    ["Suggestion", "Let's + verb", "Let's go.", "for you and me"]
+   ]
+  },
+  "exemples": [
+   ["Close the door, please.", "Positive + please."],
+   ["Don't forget your keys!", "Negative."]
+  ]
+ },
+ {
+  "titre": "Uses",
+  "texte": [
+   "Instructions: recipes, exercise instructions, user guides. Order the steps with “first”, “then”, “next”, “finally”.",
+   "Directions: “Go straight on. Turn left at the bank.” (see lesson 37).",
+   "Advice and warnings: “Drink a lot of water.”, “Be careful!”, “Watch out!” (there's a danger), “Don't worry.”",
+   "Invitations and welcomes: “Come in!”, “Sit down.”, “Help yourself.” (take what you want), “Make yourself at home.” Here the imperative is warm and friendly, not bossy."
+  ],
+  "exemples": [
+   ["First, cut the onions. Then add the tomatoes.", "A recipe."],
+   ["Watch out! The floor is wet.", "A warning."],
+   ["Come in and sit down. Help yourself to some juice.", "A welcome."],
+   ["Don't worry, it's not a problem.", "Advice."]
+  ]
+ },
+ {
+  "titre": "Being polite",
+  "texte": [
+   "An imperative alone can sound rude, especially with a stranger or your boss. Add “please” at the start or at the end: “Please wait here.” / “Wait here, please.”",
+   "For a really polite request, English speakers often prefer a question: “Can you close the door?” (lesson 28), “Could you help me?” (lesson 57).",
+   "In speech, “Do” + imperative makes an invitation warmer: “Do sit down!”."
+  ],
+  "tableau": {
+   "entetes": ["Direct", "More polite", "Very polite"],
+   "lignes": [
+    ["Close the door.", "Close the door, please.", "Could you close the door, please?"],
+    ["Wait here.", "Please wait here.", "Could you wait here, please?"]
+   ]
+  }
+ },
+ {
+  "titre": "Let's: making a suggestion",
+  "texte": [
+   "“Let's” (= let us) + base verb suggests doing something together: “Let's go to the beach!”.",
+   "Negative: “Let's not…”: “Let's not take the car.” To answer: “Yes, let's!”, “Good idea!”, “OK.” or “Sorry, I can't.”",
+   "Don't confuse it with “Let me…” (I will do it for you): “Let me help you.”"
+  ],
+  "exemples": [
+   ["It's sunny. Let's have lunch outside! — Yes, let's!", "Suggestion and answer."],
+   ["Let's not watch TV tonight. Let's play a game.", "Negative suggestion."],
+   ["Let me carry your bag.", "An offer: I will carry it."]
+  ]
+ },
+ {
+  "titre": "Signs and written instructions",
+  "texte": [
+   "On signs, you see the imperative (“Keep left”, “Push”, “Pull”, “Mind the gap”) and also “No + -ing” for things that are not allowed: “No smoking”, “No parking”.",
+   "Careful: “No smoking” is a sign. In a sentence, say “Don't smoke here”, never “Don't smoking”.",
+   "“Always” and “never” go before the imperative: “Always lock the door.”, “Never give your password to anyone.”"
+  ],
+  "exemples": [
+   ["Never leave your bag alone at the airport.", "never + imperative."],
+   ["Please don't park in front of the garage.", "A polite negative instruction."]
+  ]
+ }
+],
+"formule": "Base verb (Open…) · Don't + verb (Don't open…) · Be / Don't be + adjective · Let's + verb",
+"prononciation": [
+ "An order goes down at the end: “Sit DOWN. ↘” A warm invitation goes up a little and is longer: “Come IN!”.",
+ "“Don't” is /dəʊnt/; in fast speech the t often disappears before a consonant: “Don't worry” ≈ /dəʊn ˈwʌri/.",
+ "“Let's” /lets/ is one syllable; “Let's go” = /lets ˈɡəʊ/.",
+ "“Please” /pliːz/ ends with a /z/ sound, not /s/.",
+ "Stress the verb and the important word: “DON'T TOUCH it!”, “CLOSE the DOOR”."
+],
+"erreurs": [
+ ["You open the door.", "Open the door, please.", "No subject in the imperative."],
+ ["No touch!", "Don't touch!", "Negative: “Don't” + verb."],
+ ["Not be late!", "Don't be late!", "With an adjective: “Don't be”."],
+ ["Don't to forget your passport.", "Don't forget your passport.", "No “to” after “Don't”."],
+ ["Let's to go to the park.", "Let's go to the park.", "After “Let's”, use the base verb with no “to”."],
+ ["Don't smoking here.", "Don't smoke here.", "“No smoking” is a sign; in a sentence: Don't + verb."],
+ ["Opens the window!", "Open the window!", "The imperative never takes an s."]
+],
+"dialogue": {
+ "contexte": "On a video call from Douala, Léa's grandmother teaches her to make fried plantain. Léa is in Paris.",
+ "lignes": [
+  ["Grandma", "OK, Léa. First, take two ripe plantains. Yellow and black, not green!", "ripe = ready to eat."],
+  ["Léa", "Got them. What next?", "“Got them” = I have them."],
+  ["Grandma", "Peel them and cut them into small pieces. Be careful with the knife!", "Two instructions and a warning."],
+  ["Léa", "Done. Do I add salt now?", "“Done” = I finished."],
+  ["Grandma", "Yes, add a little salt. Then heat some oil in a pan.", "then = the next step."],
+  ["Léa", "The oil is hot. Can I put the plantain in?", "Asking permission."],
+  ["Grandma", "Yes, but don't put all the pieces in at the same time. And don't touch the oil!", "Negative imperatives."],
+  ["Léa", "Mmm, they smell delicious!", "smell = have a smell."],
+  ["Grandma", "Turn them after three minutes. Finally, put them on some paper. Enjoy!", "finally = the last step."]
+ ]
+},
+"mots": [
+ ["open", "Open your books, please.", "make something not closed"],
+ ["close", "Close the window, it's cold.", "make something not open"],
+ ["turn", "Turn left at the lights.", "change direction"],
+ ["wait", "Wait for me!", "stay until someone comes or something happens"],
+ ["listen", "Listen to the audio.", "pay attention to a sound"],
+ ["careful", "Be careful on the stairs.", "giving attention to avoid danger"],
+ ["cut", "Cut the bread, please.", "make pieces with a knife"],
+ ["add", "Add some salt.", "put something with something else"],
+ ["mix", "Mix the flour and the eggs.", "put things together and turn them"],
+ ["worry", "Don't worry!", "think about problems and feel nervous"]
+],
+"exercices": [
+ {
+  "titre": "1. Make it negative",
+  "consigne": "Write the negative imperative.",
+  "items": [
+   ["Open the window.", "Don't open the window."],
+   ["Be late.", "Don't be late."],
+   ["Sit here.", "Don't sit here."],
+   ["Let's take the bus.", "Let's not take the bus."],
+   ["Touch the screen.", "Don't touch the screen."]
+  ]
+ },
+ {
+  "titre": "2. Complete",
+  "consigne": "Complete with Be, Wash, Turn, Don't, Come or Do.",
+  "items": [
+   ["___ quiet! The baby is sleeping.", "Be"],
+   ["___ your hands before dinner.", "Wash"],
+   ["___ left at the bank.", "Turn"],
+   ["___ touch the plate. It's hot!", "Don't"],
+   ["___ in and sit down.", "Come"],
+   ["___ your homework before you watch TV.", "Do"]
+  ]
+ },
+ {
+  "titre": "3. Make a suggestion with Let's",
+  "consigne": "Answer the situation with a suggestion that starts with Let's.",
+  "items": [
+   ["We're hungry.", "Let's eat something. / Let's have lunch."],
+   ["It's very hot today.", "Let's go to the beach. / Let's go swimming."],
+   ["The film starts in ten minutes.", "Let's go now. / Let's hurry."],
+   ["We're tired.", "Let's have a break. / Let's go home."]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["No worry!", "Don't worry!"],
+   ["You sit down, please.", "Sit down, please. / Please sit down."],
+   ["Not be late!", "Don't be late!"],
+   ["Let's going to the cinema tonight!", "Let's go to the cinema tonight! (US: Let's go to the movies tonight!)"],
+   ["Be care!", "Be careful! / Watch out!"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write a recipe for a simple dish you know in five steps with the imperative. Use first, then, next and finally, and at least one negative sentence.",
+  "items": [
+   ["Model answer", "First, boil some water in a big pan. Then add a little salt and put in the pasta. Next, cook it for ten minutes. Don't forget to stir it! Finally, add some tomato sauce and some cheese."]
+  ]
+ }
+],
+"a_retenir": [
+ "Imperative = base verb, no subject, no s: Open the door. The same for one or many people.",
+ "Negative: Don't + verb (Don't touch!); with an adjective: Be careful! Don't be late!",
+ "Add “please”; to be very polite, use a question: Could you…?",
+ "Let's + verb to suggest (Let's go!); Let's not…; Let me… = I will do it.",
+ "Signs: No smoking; in a sentence: Don't smoke."
+],
+"liens": [28, 34, 37, 57],
+"refs": ["cam-sentences", "bc-a1a2"]
+}

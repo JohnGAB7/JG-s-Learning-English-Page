@@ -1,0 +1,199 @@
+{
+ "n": 63,
+ "niveau": "A2",
+ "titre": "Possessive pronouns (mine, yours…)",
+ "intro": "Mine, yours, his, hers, ours, theirs replace a possessive + noun so you don't repeat the noun (This is my bag → This bag is mine). They are simple: no article, no gender, no plural.",
+ "objectifs": [
+  "Know the possessive pronouns and tell them apart from possessive adjectives (my / mine).",
+  "Use them with no article and no apostrophe: mine, yours, hers (never “the mine”, “your's”).",
+  "Answer “Whose…?” with a possessive pronoun or 's (It's mine / It's Paul's).",
+  "Use the structure “a friend of mine”."
+ ],
+ "sections": [
+  {
+   "titre": "Possessive adjective or possessive pronoun?",
+   "texte": [
+    "A possessive adjective (lesson 14) goes BEFORE a noun: my car, your keys. A possessive pronoun stands ALONE, in place of possessive + noun: This car is mine (= my car).",
+    "In English, the possessive pronoun never changes: “mine” can mean my car, my keys, my shoes… The choice depends only on the owner, like his / her."
+   ],
+   "tableau": {
+    "entetes": ["Subject", "Adjective + noun", "Pronoun", "Example"],
+    "lignes": [
+     ["I", "my bag", "mine", "The bag is mine."],
+     ["you", "your bag", "yours", "Is it yours?"],
+     ["he", "his bag", "his", "It's his."],
+     ["she", "her bag", "hers", "It's hers."],
+     ["it", "its bag", "(rare)", "—"],
+     ["we", "our bag", "ours", "It's ours."],
+     ["they", "their bag", "theirs", "It's theirs."]
+    ]
+   },
+   "note": "“His” is the same as an adjective and as a pronoun: It's his car. The car is his. “Its” is almost never used as a pronoun."
+  },
+  {
+   "titre": "No article, no apostrophe",
+   "texte": [
+    "Don't put “the” before a possessive pronoun: say “mine”, never “the mine” or “the yours”.",
+    "Pronouns ending in -s (yours, hers, ours, theirs) NEVER have an apostrophe. “Your's” and “her's” are common mistakes, even for native speakers.",
+    "The verb agrees with the thing: My shoes are black. Mine are black / Yours are brown. Her car is red. Hers is red."
+   ],
+   "exemples": [
+    ["Is this your pen or mine?", "mine = my pen."],
+    ["Your flat is bigger than ours.", "ours = our flat."],
+    ["My parents live in Lille. Where do yours live?", "yours = your parents (plural verb)."],
+    ["These seats aren't theirs.", "No apostrophe."]
+   ]
+  },
+  {
+   "titre": "Whose…? — It's mine / It's Anna's",
+   "texte": [
+    "To ask who something belongs to: “Whose is this?”, “Whose bag is this?”, “Whose are these?”. The natural answer uses a possessive pronoun or 's with no noun (lesson 15): It's mine. It's Anna's. They're my brother's.",
+    "The 's form works like a possessive pronoun: “It's Paul's” = it belongs to Paul."
+   ],
+   "exemples": [
+    ["Whose phone is ringing? — It's mine. Sorry!", "Answer with mine."],
+    ["Whose are these gloves? — They're Karim's.", "Answer with 's."],
+    ["Is this coffee yours or hers?", "Two pronouns."]
+   ]
+  },
+  {
+   "titre": "A friend of mine",
+   "texte": [
+    "To talk about one of your friends, say “a friend of mine” (or “one of my friends”). You can't say “a my friend”. The structure is: a / an / this / that + noun + of + possessive pronoun (or 's).",
+    "It works with many nouns: a colleague of hers, a cousin of ours, that car of yours (often informal or a little critical), a friend of Paul's."
+   ],
+   "exemples": [
+    ["A friend of mine lives in Kigali.", "= one of my friends."],
+    ["She's a colleague of my sister's.", "= one of my sister's colleagues."],
+    ["Is that old bike of yours still working?", "that + noun + of yours."]
+   ]
+  },
+  {
+   "titre": "Comparing and contrasting",
+   "texte": [
+    "Possessive pronouns are very useful to compare or contrast two owners, because you don't repeat the noun: My job is boring, but yours is exciting.",
+    "When we speak, we often stress them: It's not YOURS, it's MINE! With “too”: My phone is old. — Mine too!"
+   ],
+   "exemples": [
+    ["My English is OK, but yours is excellent.", "Contrast."],
+    ["Their garden is small; ours is huge.", "Contrast."],
+    ["My train is late. — Mine too!", "Mine too = my train is also late."]
+   ]
+  }
+ ],
+ "formule": "my → mine · your → yours · his → his · her → hers · our → ours · their → theirs (no article, no apostrophe) · a friend of mine",
+ "prononciation": [
+  "“mine” /maɪn/ rhymes with “fine”; “yours” /jɔːz/ sounds like “your” + z.",
+  "“hers” /hɜːz/, “ours” /ˈaʊəz/ (like “hours”), “theirs” /ðeəz/ (like “there's”).",
+  "Possessive pronouns are usually STRESSED, but possessive adjectives are often weak: It's MINE /maɪn/, but it's my bag.",
+  "The final -s sounds like /z/ in yours, hers, ours, theirs.",
+  "“Whose” /huːz/ sounds like “who's”."
+ ],
+ "erreurs": [
+  ["This is the mine.", "This is mine.", "No article before a possessive pronoun."],
+  ["Is this your's?", "Is this yours?", "No apostrophe in yours, hers, ours, theirs."],
+  ["This bag is my.", "This bag is mine.", "Alone, use the pronoun (mine), not the adjective (my)."],
+  ["It's mine book.", "It's my book.", "Before a noun: the adjective (my)."],
+  ["a my friend", "a friend of mine / one of my friends", "Use a friend of mine."],
+  ["The red car is her.", "The red car is hers.", "Female owner, pronoun: hers."],
+  ["Who is this jacket?", "Whose is this jacket? / Whose jacket is this?", "For the owner, use whose."],
+  ["My shoes are new. Your are old.", "My shoes are new. Yours are old.", "Alone: yours."]
+ ],
+ "dialogue": {
+  "contexte": "After a yoga class in Brussels, some people look for their things in the changing room.",
+  "lignes": [
+   ["Nora", "Whose water bottle is this? It's blue.", "Whose + noun."],
+   ["Tom", "It's not mine. Mine is green. Maybe it's Léa's.", "mine; Léa's."],
+   ["Léa", "Yes, it's mine, thanks! And is this towel yours, Tom?", "yours: no apostrophe."],
+   ["Tom", "No, mine is in my bag. I think it's Sami's. He always forgets his things.", "mine / my bag: pronoun and adjective."],
+   ["Nora", "Ha ha! Oh, and these shoes? Are they yours?", "Plural: they + yours."],
+   ["Léa", "No, they aren't. They're too big. They're probably the teacher's.", "the teacher's = the teacher's shoes."],
+   ["Tom", "By the way, a friend of mine wants to join the class. Is there a place?", "a friend of mine."],
+   ["Nora", "Yes, tell your friend to come next Monday. Our group is small, not like theirs on Saturday!", "our group / theirs."]
+  ]
+ },
+ "mots": [
+  ["mine", "That umbrella is mine.", "the one(s) that belong to me"],
+  ["yours", "Is this seat yours?", "the one(s) that belong to you"],
+  ["hers", "The idea was hers.", "the one(s) that belong to her"],
+  ["ours", "This house is ours.", "the one(s) that belong to us"],
+  ["theirs", "The black car is theirs.", "the one(s) that belong to them"],
+  ["whose", "Whose keys are these?", "used to ask who something belongs to"],
+  ["belong", "Does this belong to you?", "be the property of someone"],
+  ["towel", "Is this towel yours?", "a piece of cloth to dry your body"],
+  ["gloves", "Whose gloves are these?", "things you wear on your hands"],
+  ["lost property", "Ask at the lost property office.", "things people have lost (US: lost and found)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Adjective → pronoun",
+   "consigne": "Write the possessive pronoun.",
+   "items": [
+    ["my", "mine"],
+    ["your", "yours"],
+    ["her", "hers"],
+    ["our", "ours"],
+    ["their", "theirs"],
+    ["his", "his"]
+   ]
+  },
+  {
+   "titre": "2. Replace",
+   "consigne": "Replace the words in brackets with a possessive pronoun.",
+   "items": [
+    ["This is [my coat].", "This is mine."],
+    ["Is that [your car]?", "Is that yours?"],
+    ["The blue house is [their house].", "The blue house is theirs."],
+    ["These books are [her books].", "These books are hers."],
+    ["Our kitchen is bigger than [your kitchen].", "Our kitchen is bigger than yours."]
+   ]
+  },
+  {
+   "titre": "3. Adjective or pronoun?",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["Is this (your / yours) phone?", "your"],
+    ["No, it isn't (my / mine).", "mine"],
+    ["(Our / Ours) teacher is from Canada.", "Our"],
+    ["That bike is (her / hers).", "hers"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["Is this bag your's?", "Is this bag yours?"],
+    ["Your phone is new, but the mine is old.", "Your phone is new, but mine is old."],
+    ["She's a my colleague.", "She's a colleague of mine. / She's one of my colleagues."],
+    ["Who is this pen? — It's my.", "Whose is this pen? — It's mine."],
+    ["These seats are their.", "These seats are theirs."]
+   ]
+  },
+  {
+   "titre": "5. Rewrite the sentence",
+   "consigne": "Rewrite with a possessive pronoun or “of mine / of hers…”.",
+   "items": [
+    ["It isn't my bag, it's her bag.", "It isn't my bag, it's hers."],
+    ["One of my friends works in Geneva.", "A friend of mine works in Geneva."],
+    ["Whose keys are these? — They're our keys.", "Whose keys are these? — They're ours."],
+    ["Their house is bigger than our house.", "Their house is bigger than ours."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Compare three things you own with the things of a friend or family member. Use at least three different possessive pronouns.",
+   "items": [
+    ["Example answer", "My phone is quite old, but my sister's is brand new. Her car is red and mine is grey. Our flat is small, but my parents' house is big; theirs has a garden."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "mine, yours, his, hers, ours, theirs replace possessive + noun.",
+  "They never change, take no article and no apostrophe: This is mine (not “the mine”, not “your's”).",
+  "Before a noun: my, your…; alone: mine, yours…",
+  "Whose is this? — It's mine / It's Anna's.",
+  "a friend of mine = one of my friends."
+ ],
+ "liens": [10, 14, 15, 64],
+ "refs": ["cam-nouns", "bc-a1a2"]
+}

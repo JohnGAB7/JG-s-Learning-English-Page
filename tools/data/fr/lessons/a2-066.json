@@ -1,0 +1,204 @@
+{
+ "n": 66,
+ "niveau": "A2",
+ "titre": "As … as et la comparaison d’égalité",
+ "intro": "Après les comparatifs (leçon 46) et les superlatifs (leçon 47), voici la comparaison d'égalité : « aussi … que » se dit as … as. À la forme négative, not as … as signifie « pas aussi … que », c'est-à-dire « moins … que ». La leçon présente aussi the same as et as much / as many as, ainsi que les pièges typiques des francophones (« as … than », « same than »).",
+ "objectifs": [
+  "Former as + adjectif / adverbe + as pour dire « aussi … que ».",
+  "Utiliser not as … as (ou not so … as) pour dire « moins … que » de façon naturelle.",
+  "Employer the same (as), as much / as many … as et similar to / different from.",
+  "Choisir le bon pronom après as (as tall as me / as tall as I am)."
+ ],
+ "sections": [
+  {
+   "titre": "La forme : as + adjectif + as",
+   "texte": [
+    "Pour dire que deux choses sont égales, on met l'adjectif à sa forme simple entre deux as : Tom is as tall as his father. (Tom est aussi grand que son père.)",
+    "L'adjectif ne change jamais : pas de -er, pas de more. On dit « as big as », jamais « as bigger as » ni « as more interesting as ».",
+    "Le deuxième as remplace « que » : ne mets pas than. « As … than » est une erreur très fréquente."
+   ],
+   "tableau": {
+    "entetes": ["Sens", "Structure", "Exemple"],
+    "lignes": [
+     ["aussi … que", "as + adjectif + as", "Lyon is as busy as Marseille."],
+     ["aussi … que (adverbe)", "as + adverbe + as", "She runs as fast as her brother."],
+     ["pas aussi … que", "not as + adjectif + as", "My flat isn't as big as yours."],
+     ["presque aussi … que", "almost / nearly as … as", "It's nearly as hot as yesterday."],
+     ["deux fois plus … que", "twice as … as", "This bag is twice as heavy as mine."]
+    ]
+   },
+   "exemples": [
+    ["The film is as good as the book.", "Égalité."],
+    ["Kribi is as beautiful as I imagined.", "as + phrase complète."],
+    ["Can you speak as slowly as possible?", "as … as possible = le plus … possible."]
+   ]
+  },
+  {
+   "titre": "La forme négative : not as … as",
+   "texte": [
+    "Not as … as signifie « pas aussi … que », donc « moins … que ». C'est la façon la plus naturelle de dire « moins » en anglais : My car isn't as fast as yours est plus courant que « My car is less fast than yours ».",
+    "On entend aussi not so … as, avec le même sens, mais not as … as est plus fréquent.",
+    "Attention au sens : The test wasn't as difficult as last year = il était PLUS facile que l'année dernière."
+   ],
+   "exemples": [
+    ["Today isn't as cold as yesterday.", "= Today is warmer than yesterday."],
+    ["I'm not as good at maths as my sister.", "Elle est meilleure que moi."],
+    ["The bus isn't as expensive as the taxi.", "Le bus coûte moins cher."]
+   ]
+  },
+  {
+   "titre": "Après as : me ou I am ?",
+   "texte": [
+    "Après le deuxième as, on peut mettre un nom, un pronom complément ou une proposition : as tall as Paul / as tall as me / as tall as I am.",
+    "À l'oral, le pronom complément (me, him, her, us, them) est le plus courant : She's as old as me. « As old as I » seul est très formel et sonne étrange ; si on veut le pronom sujet, on ajoute le verbe : as old as I am.",
+    "On peut aussi comparer deux moments : The town is as quiet as it was ten years ago."
+   ],
+   "exemples": [
+    ["My brother is as tall as me.", "Pronom complément (courant)."],
+    ["My brother is as tall as I am.", "Pronom sujet + verbe (soigné)."],
+    ["He doesn't work as hard as he did before.", "Comparaison entre deux moments."]
+   ]
+  },
+  {
+   "titre": "As much / as many … as",
+   "texte": [
+    "Pour comparer des quantités : as much + indénombrable + as, as many + dénombrable pluriel + as (voir la leçon 58). I don't earn as much money as you. She has as many books as a library!",
+    "Sans nom, après un verbe : He eats as much as his father. (Il mange autant que son père.)",
+    "Attention : en français on dit « autant de … que », mais en anglais il n'y a pas de « of » : as many friends as, pas « as many of friends as »."
+   ],
+   "exemples": [
+    ["There aren't as many tourists as in August.", "many + dénombrable."],
+    ["I don't drink as much coffee as before.", "much + indénombrable."],
+    ["You can take as many photos as you want.", "Autant que tu veux."]
+   ]
+  },
+  {
+   "titre": "The same as, similar to, different from",
+   "texte": [
+    "The same (le même, la même) : My phone is the same as yours. Avec un nom : We're in the same class. Attention : toujours the devant same, et as après (jamais « same than » ni « same that »).",
+    "The same + nom + as : She has the same shoes as me.",
+    "Pour une ressemblance partielle : similar to (semblable à). Pour la différence : different from (en anglais britannique, on entend aussi different to)."
+   ],
+   "exemples": [
+    ["Your bag is the same as mine!", "Identique."],
+    ["We were born in the same year.", "the same + nom."],
+    ["Belgian French is a little different from French in France.", "different from."]
+   ]
+  }
+ ],
+ "formule": "as + adjectif / adverbe + as · not as … as = moins … que · as much / as many + nom + as · the same (+ nom) as · similar to · different from",
+ "prononciation": [
+  "as est faible dans la phrase : /əz/. On dit « əz TALL əz », avec l'accent sur l'adjectif.",
+  "Dans as … as, les deux as sont faibles et liés : « as good as » ≈ /əz ˈɡʊd əz/.",
+  "Après not as, l'accent tombe sur l'adjectif : It isn't as EXpensive as the taxi.",
+  "the same /ðə ˈseɪm/ : le « a » se prononce /eɪ/, comme dans « name ».",
+  "twice /twaɪs/ se termine par un /s/ sourd, pas par /z/."
+ ],
+ "erreurs": [
+  ["She is as tall than her mother.", "She is as tall as her mother.", "as … as, jamais as … than."],
+  ["This film is as more interesting as the first one.", "This film is as interesting as the first one.", "L'adjectif reste à la forme simple."],
+  ["My phone is the same than yours.", "My phone is the same as yours.", "the same as, jamais same than."],
+  ["We are in same class.", "We are in the same class.", "Toujours the devant same."],
+  ["I have as many of friends as you.", "I have as many friends as you.", "Pas de of après as many."],
+  ["He doesn't earn as many money as me.", "He doesn't earn as much money as me.", "Money est indénombrable : much."],
+  ["She is different of her sister.", "She is different from her sister.", "different from (ou to), pas of."],
+  ["My town is less big than Douala.", "My town isn't as big as Douala.", "Less big est possible mais peu naturel."]
+ ],
+ "dialogue": {
+  "contexte": "Deux colocataires à Ottawa comparent deux appartements avant de déménager.",
+  "lignes": [
+   ["Inès", "So, what do you think? The flat on King Street or the one near the park?", "Alors, qu'en penses-tu ? L'appartement de King Street ou celui près du parc ?"],
+   ["Samuel", "The King Street flat isn't as big as the other one, but it's nearer the university.", "Celui de King Street est moins grand que l'autre, mais il est plus près de l'université."],
+   ["Inès", "True. And the rent is the same as our rent now.", "C'est vrai. Et le loyer est le même que notre loyer actuel."],
+   ["Samuel", "The park flat is nearly twice as expensive! We can't pay that much.", "Celui du parc est presque deux fois plus cher ! On ne peut pas payer autant."],
+   ["Inès", "But it's as quiet as a village. I can sleep as long as I want!", "Mais il est aussi calme qu'un village. Je peux dormir aussi longtemps que je veux !"],
+   ["Samuel", "You don't sleep as much as you think, Inès.", "Tu ne dors pas autant que tu le crois, Inès."],
+   ["Inès", "Ha! OK. The bedrooms in King Street are similar to ours, right?", "Ha ! D'accord. Les chambres à King Street ressemblent aux nôtres, non ?"],
+   ["Samuel", "Yes, and the kitchen is as modern as the one in the park flat.", "Oui, et la cuisine est aussi moderne que celle de l'appartement du parc."],
+   ["Inès", "Then let's take King Street. It's not as nice, but it's cheaper.", "Alors prenons King Street. Il est moins joli, mais il est moins cher."]
+  ]
+ },
+ "mots": [
+  ["equal", "The two teams are equal.", "égal"],
+  ["the same", "We have the same teacher.", "le même, la même"],
+  ["similar", "Your idea is similar to mine.", "semblable, similaire"],
+  ["different", "This city is different from Paris.", "différent"],
+  ["twice", "It's twice as big as my room.", "deux fois"],
+  ["rent", "The rent is 800 dollars a month.", "le loyer"],
+  ["quiet", "The village is very quiet at night.", "calme, silencieux"],
+  ["nearly", "It's nearly as tall as the tower.", "presque"],
+  ["as … as possible", "Come as soon as possible.", "le plus … possible"],
+  ["compare", "Let's compare the two flats.", "comparer"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. As … as",
+   "consigne": "Complète avec as … as et l'adjectif ou l'adverbe entre parenthèses.",
+   "items": [
+    ["My sister is ___ my mother. (tall)", "as tall as"],
+    ["This exercise is ___ the first one. (easy)", "as easy as"],
+    ["He drives ___ a racing driver! (fast)", "as fast as"],
+    ["Please answer ___ possible. (quickly)", "as quickly as"],
+    ["Is Yaoundé ___ Douala? (hot)", "as hot as"]
+   ]
+  },
+  {
+   "titre": "2. Not as … as",
+   "consigne": "Réécris chaque phrase avec not as … as. Le sens doit rester le même.",
+   "items": [
+    ["Paris is bigger than Brussels.", "Brussels isn't as big as Paris."],
+    ["The train is faster than the bus.", "The bus isn't as fast as the train."],
+    ["My old job was more interesting than this one.", "This job isn't as interesting as my old one."],
+    ["Anna sings better than me.", "I don't sing as well as Anna."]
+   ]
+  },
+  {
+   "titre": "3. Much, many ou same ?",
+   "consigne": "Complète avec much, many, the same ou from.",
+   "items": [
+    ["I don't have as ___ free time as last year.", "much"],
+    ["There weren't as ___ people as at the last concert.", "many"],
+    ["Her dress is ___ as mine!", "the same"],
+    ["Life in Montréal is different ___ life in Dakar.", "from"],
+    ["You can eat as ___ cakes as you like.", "many"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["He is as old than me.", "He is as old as me."],
+    ["Our car is the same that yours.", "Our car is the same as yours."],
+    ["This book is as better as the film.", "This book is as good as the film."],
+    ["We live in same street.", "We live in the same street."],
+    ["I don't have as many money as you.", "I don't have as much money as you."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Mon frère est aussi grand que moi.", "My brother is as tall as me. / My brother is as tall as I am."],
+    ["Aujourd'hui, il fait moins froid qu'hier.", "Today isn't as cold as yesterday."],
+    ["Nous avons le même professeur.", "We have the same teacher."],
+    ["Viens dès que possible.", "Come as soon as possible."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Compare-toi à une personne de ta famille ou à un ami. Écris quatre phrases : une avec as … as, une avec not as … as, une avec the same (as) et une avec as much / as many … as.",
+   "items": [
+    ["Exemple de réponse", "My cousin Paul is as old as me: we were both born in 2001. He isn't as tall as me, but he's much stronger. We have the same favourite team. He doesn't read as many books as I do."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "as + adjectif / adverbe (forme simple) + as = aussi … que.",
+  "not as … as = moins … que (plus naturel que less … than).",
+  "as much + indénombrable + as · as many + pluriel + as (sans of).",
+  "the same (+ nom) as · similar to · different from : jamais « same than ».",
+  "Après as : me / him (courant) ou I am / he is (soigné)."
+ ],
+ "liens": [46, 47, 58, 190],
+ "refs": ["bc-comparatives", "bc-as-like"]
+}

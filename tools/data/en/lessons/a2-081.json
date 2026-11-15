@@ -1,0 +1,201 @@
+{
+"n": 81,
+"niveau": "A2",
+"titre": "At the doctor’s",
+"intro": "Making an appointment, saying where it hurts, describing your symptoms, understanding the doctor’s advice and buying medicine at the pharmacy: these situations need exact words. This lesson gives you the key structures (I’ve got a…, My… hurts, I feel…) and advice with “should” (lesson 56). Of course, it does not replace medical advice.",
+"objectifs": [
+ "Make an appointment with a doctor or a dentist.",
+ "Say where it hurts and describe symptoms with I’ve got, My… hurts, I feel.",
+ "Understand the doctor’s questions and advice (How long…?, You should…).",
+ "Manage at the pharmacy (prescription, how often to take medicine)."
+],
+"sections": [
+ {
+  "titre": "Making an appointment",
+  "texte": [
+   "On the phone: “I’d like to make an appointment with Dr Patel, please.” (for a doctor, always “an appointment”, never “a rendez-vous”). They may ask: “Is it urgent?” / “Can you come in at ten tomorrow?”",
+   "Places: in the UK you see “the doctor” or “the GP” (general practitioner, a family doctor) at the “surgery” or “health centre”; in the US you go to “the doctor’s office”. In an emergency: “A&E” (UK) / “the ER” (US) = the hospital emergency department.",
+   "We say “go to the doctor’s”, “go to the dentist’s”: the ’s means “the doctor’s place / surgery”."
+  ],
+  "exemples": [
+   ["I’d like to make an appointment with the doctor, please. — Is tomorrow morning OK?", "Booking by phone."],
+   ["I need to see a dentist. I’ve got terrible toothache.", "toothache = pain in a tooth."],
+   ["If it’s an emergency, call 999 in the UK or 911 in the US.", "Emergency numbers."]
+  ]
+ },
+ {
+  "titre": "Saying where it hurts",
+  "texte": [
+   "Three main structures. 1) “I’ve got a + -ache word”: “I’ve got a headache”, “a stomach ache”, “a backache”, “earache”, “toothache” (in the UK, earache and toothache often have no “a”).",
+   "2) “My + body part + hurts”: “My back hurts.” “My feet hurt.” (plural → hurt). You can also say “My leg is sore.” / “I’ve got a sore throat.”",
+   "3) “It hurts when…”: “It hurts when I walk.” Careful: English uses a possessive (“my arm”), not “the”: “My arm hurts”, not “The arm hurts me”."
+  ],
+  "tableau": {
+   "entetes": ["Situation", "English", "Structure"],
+   "lignes": [
+    ["pain in your head", "I’ve got a headache.", "I’ve got a + -ache"],
+    ["pain in your stomach", "I’ve got a stomach ache.", "I’ve got a + -ache"],
+    ["pain in your throat", "I’ve got a sore throat.", "I’ve got a sore + body part"],
+    ["pain in your knee", "My knee hurts.", "My + body part + hurts"],
+    ["pain in your feet", "My feet hurt.", "plural: hurt"],
+    ["pain when you cough", "It hurts when I cough.", "It hurts when…"]
+   ]
+  },
+  "exemples": [
+   ["I’ve got a headache and a sore throat.", "Two problems with I’ve got."],
+   ["My back hurts when I sit for a long time.", "My + body part + hurts."],
+   ["Where does it hurt? — Here, in my chest.", "The doctor’s question."]
+  ]
+ },
+ {
+  "titre": "Describing symptoms",
+  "texte": [
+   "With “I’ve got”: “I’ve got a cold”, “a cough”, “a temperature / a fever” (“a temperature” is common in the UK), “the flu”, “a rash” (red spots on the skin).",
+   "With “I feel” + adjective: “I feel sick” (UK: you want to vomit; US: “sick” = ill in general), “I feel dizzy” (the room seems to turn), “I feel tired”, “I don’t feel well”.",
+   "For how long, use the present perfect (lesson 51) with “for” or “since”: “I’ve had a cough for three days.” / “I’ve felt sick since yesterday.” Don’t say “I have a cough since three days”."
+  ],
+  "exemples": [
+   ["I don’t feel well. I think I’ve got the flu.", "the flu = influenza."],
+   ["I’ve had a temperature since Monday.", "since + starting point."],
+   ["I feel dizzy when I stand up.", "I feel + adjective."]
+  ]
+ },
+ {
+  "titre": "The doctor’s questions and advice",
+  "texte": [
+   "Common questions: “What’s the matter?” / “What seems to be the problem?”, “How long have you had it?”, “Are you taking any medicine?”, “Are you allergic to anything?”",
+   "The examination: “Can you open your mouth?”, “I’m going to take your temperature / your blood pressure.”",
+   "Advice with “should” / “shouldn’t” (lesson 56): “You should stay in bed for two days.” “You shouldn’t go to work.” “Drink plenty of water.” And the medicine: “I’ll give you a prescription.” (a paper from the doctor to get medicine)."
+  ],
+  "exemples": [
+   ["What seems to be the problem? — I’ve had a bad cough for a week.", "A polite opening question."],
+   ["You should rest and drink plenty of water.", "plenty of = a lot of."],
+   ["You shouldn’t do any sport for a few days.", "Negative advice."]
+  ]
+ },
+ {
+  "titre": "At the pharmacy",
+  "texte": [
+   "The shop: “the chemist’s” or “the pharmacy” (UK), “the drugstore” or “the pharmacy” (US). The person: “the pharmacist” (or “the chemist” in the UK).",
+   "Useful phrases: “Have you got anything for a cough?”, “I’ve got a prescription from my doctor.”, “How often should I take it?”",
+   "Instructions: “Take two tablets three times a day, after meals.” “medicine” is often uncountable: “some medicine”; “drugs” can also mean illegal drugs, so “medicine” is safer."
+  ],
+  "exemples": [
+   ["Have you got anything for a sore throat?", "anything for + problem."],
+   ["Take one tablet twice a day for five days.", "twice = two times."],
+   ["Can I take this medicine with food?", "A safety question."]
+  ],
+  "note": "To wish someone a quick recovery: “Get well soon!” or “I hope you feel better soon.”"
+ }
+],
+"formule": "I’ve got a headache / a sore throat / a cold. · My back hurts. · I feel sick / dizzy. · I’ve had it for three days. · You should rest.",
+"prononciation": [
+ "“ache” /eɪk/ sounds like “make”: headache /ˈhedeɪk/, stomach ache /ˈstʌmək eɪk/.",
+ "“stomach” /ˈstʌmək/: the ch is /k/, “STUM-uk”.",
+ "“cough” /kɒf/: the gh is /f/, “koff”.",
+ "“throat” /θrəʊt/: start with th (tongue between your teeth), then “rote”.",
+ "“medicine” /ˈmedsn/ or /ˈmedɪsn/: often two syllables in British English, “MED-sn”.",
+ "“appointment” /əˈpɔɪntmənt/: stress on “POINT”."
+],
+"erreurs": [
+ ["I have mal at the head.", "I’ve got a headache.", "Pain in your head = a headache."],
+ ["I have pain at the arm.", "My arm hurts.", "Use “my” and the verb “hurt”."],
+ ["My feet hurts.", "My feet hurt.", "“feet” is plural: hurt without s."],
+ ["I have a cough since three days.", "I’ve had a cough for three days.", "Present perfect + for + period."],
+ ["I'd like a rendez-vous with the doctor.", "I'd like an appointment with the doctor.", "With a doctor: an appointment."],
+ ["I have fever.", "I’ve got a temperature. / I’ve got a fever.", "Say “a temperature / a fever”."],
+ ["Can you give me an ordonnance?", "Could you give me a prescription?", "The English word is “prescription”."],
+ ["I go to the doctor.", "I’m going to the doctor’s.", "The place: the doctor’s."]
+],
+"dialogue": {
+ "contexte": "Kofi, a Ghanaian student in Bristol, goes to see a GP because he doesn’t feel well.",
+ "lignes": [
+  ["Doctor", "Good morning. What seems to be the problem?", "A polite opening question."],
+  ["Kofi", "I don’t feel well. I’ve got a sore throat and a headache.", "Two symptoms."],
+  ["Doctor", "How long have you had these symptoms?", "Present perfect question."],
+  ["Kofi", "For three days. And I’ve had a temperature since last night.", "for + period / since + starting point."],
+  ["Doctor", "Are you allergic to anything?", "An important question."],
+  ["Kofi", "Yes, I’m allergic to penicillin.", "allergic to."],
+  ["Doctor", "OK. Can you open your mouth? … It’s a throat infection. I’ll give you a prescription.", "The examination and the result."],
+  ["Kofi", "How often should I take the tablets?", "How often = how many times."],
+  ["Doctor", "Three times a day, after meals. And you should stay at home for two days.", "Instructions and advice."],
+  ["Kofi", "Thank you, doctor.", "“doctor” can be used to address the doctor."]
+ ]
+},
+"mots": [
+ ["appointment", "I’ve got an appointment at half past nine.", "a fixed time to see a doctor or someone at work"],
+ ["headache", "I’ve got a terrible headache.", "a pain in your head"],
+ ["hurt", "My back hurts.", "to give pain"],
+ ["sore", "I’ve got a sore throat.", "painful, often red"],
+ ["cough", "He’s had a cough for a week.", "the noise you make to push air out of your throat"],
+ ["temperature", "She’s got a high temperature.", "a body heat that is higher than normal (UK)"],
+ ["dizzy", "I feel dizzy when I stand up.", "feeling that everything is turning"],
+ ["prescription", "You need a prescription for this medicine.", "a doctor’s paper that lets you get medicine"],
+ ["tablet", "Take two tablets after dinner.", "a small, hard piece of medicine"],
+ ["rest", "You should rest for a few days.", "to relax and sleep to get better"]
+],
+"exercices": [
+ {
+  "titre": "1. Choose the structure",
+  "consigne": "Complete with “I’ve got a”, “My … hurts” or “I feel”.",
+  "items": [
+   ["___ headache.", "I’ve got a headache."],
+   ["(knee) ___.", "My knee hurts."],
+   ["___ dizzy.", "I feel dizzy."],
+   ["___ sore throat.", "I’ve got a sore throat."],
+   ["(feet) ___.", "My feet hurt."]
+  ]
+ },
+ {
+  "titre": "2. Complete",
+  "consigne": "Complete with one word.",
+  "items": [
+   ["I’d like to make an ___ with Dr Brown.", "appointment"],
+   ["I’ve had a cough ___ Monday.", "since"],
+   ["I’ve had a headache ___ two days.", "for"],
+   ["Take one tablet three times a ___.", "day"],
+   ["Have you got anything ___ a cold?", "for"],
+   ["You ___ stay in bed. (advice)", "should"]
+  ]
+ },
+ {
+  "titre": "3. Doctor or patient?",
+  "consigne": "Who says this: the doctor or the patient?",
+  "items": [
+   ["What seems to be the problem?", "doctor"],
+   ["It hurts when I swallow.", "patient"],
+   ["How long have you had it?", "doctor"],
+   ["How often should I take it?", "patient"],
+   ["I’ll give you a prescription.", "doctor"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I’ve got an ache of stomach.", "I’ve got a stomach ache."],
+   ["The arm hurts me.", "My arm hurts."],
+   ["I have a temperature since yesterday.", "I’ve had a temperature since yesterday."],
+   ["I’d like to make a rendez-vous.", "I’d like to make an appointment."],
+   ["You should to drink plenty of water.", "You should drink plenty of water."],
+   ["Get good soon!", "Get well soon!"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "You phone the doctor’s surgery, then describe your symptoms to the doctor (5 to 6 sentences): where it hurts, since when, how you feel.",
+  "items": [
+   ["Model answer", "Hello, I’d like to make an appointment with the doctor, please. It’s quite urgent. … Good morning, doctor. I don’t feel well. I’ve got a bad cough and a sore throat, and my chest hurts when I cough. I’ve had these symptoms for four days. I’ve also had a temperature since yesterday and I feel very tired. I’m not allergic to anything."]
+  ]
+ }
+],
+"a_retenir": [
+ "an appointment; at the doctor’s; emergency = A&E (UK) / the ER (US).",
+ "Pain: I’ve got a headache / stomach ache / sore throat · My back hurts · It hurts when I…",
+ "Symptoms: I’ve got a cold / a cough / a temperature · I feel sick / dizzy · I don’t feel well.",
+ "How long: I’ve had a cough for three days / since Monday (present perfect).",
+ "Advice: You should rest. You shouldn’t go to work. Pharmacy: Take two tablets three times a day."
+],
+"liens": [51, 56, 59, 80],
+"refs": ["bc-a1a2", "cam-using"]
+}

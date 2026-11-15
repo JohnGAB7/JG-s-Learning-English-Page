@@ -1,0 +1,192 @@
+{
+"n": 53,
+"niveau": "A2",
+"titre": "Just, already, yet",
+"intro": "“Just”, “already” and “yet” are mostly used with the present perfect to show how an action relates to now. They are essential when you check what is done and what is not done yet.",
+"objectifs": [
+"Say that something happened a very short time ago with “have just + past participle”.",
+"Use already in positive sentences and yet in negatives and questions.",
+"Put each word in the right place in the sentence.",
+"Know the American use with the past simple and the meaning of “still haven't”."
+],
+"sections": [
+{
+"titre": "Just: a very short time ago",
+"texte": [
+"“Just” shows that an action happened a very short time ago. It goes between have / has and the past participle.",
+"The news is fresh, and the result is often important now."
+],
+"exemples": [
+["I've just finished my report.", "A few minutes ago."],
+["She's just left the office.", "She isn't here now — you missed her."],
+["The bus has just arrived. Let's run!", "Result: we must hurry."]
+]
+},
+{
+"titre": "Already: sooner than expected",
+"texte": [
+"“Already” shows that an action is finished, often sooner than expected. In positive sentences it goes between have / has and the past participle; it can also go at the end for emphasis.",
+"In a question, “already” shows surprise: “Have you already finished?” (That was quick!)."
+],
+"exemples": [
+["I've already paid the bill.", "It's done; you don't need to pay."],
+["We've already seen this film.", "We don't want to see it again."],
+["Have you already eaten? It's only eleven!", "Surprise: it's early."]
+]
+},
+{
+"titre": "Yet: in questions and negatives",
+"texte": [
+"“Yet” goes at the end of the sentence. In a question, it asks if something expected has happened. In a negative, it means the action has not happened, but we expect it to happen.",
+"We do not use it in simple positive sentences with this meaning. A typical short answer is “Not yet.”"
+],
+"tableau": {
+"entetes": ["Type of sentence", "Example", "Meaning"],
+"lignes": [
+["question", "Have you done your homework yet?", "Is it done? I expect it."],
+["negative", "I haven't done it yet.", "Not done, but I will do it."],
+["short answer", "Not yet.", "No, but soon."],
+["question", "Has the parcel arrived yet?", "We are waiting for it."]
+]
+}
+},
+{
+"titre": "Positions: a summary",
+"texte": [
+"Just and already: between the helper verb and the past participle (middle of the sentence). Yet: at the end of the sentence.",
+"“Still” can be added to show impatience: “I still haven't received my visa” (I expected it before now). It goes before haven't / hasn't."
+],
+"tableau": {
+"entetes": ["Word", "Sentence", "Position"],
+"lignes": [
+["just", "He has just called.", "have + just + participle"],
+["already", "They've already left.", "have + already + participle"],
+["yet (question)", "Have they left yet?", "end of sentence"],
+["yet (negative)", "They haven't left yet.", "end of sentence"],
+["still", "They still haven't left.", "before haven't"]
+]
+}
+},
+{
+"titre": "American English: the past simple",
+"texte": [
+"In American English, people very often use the past simple with just, already and yet: “I just ate”, “Did you eat yet?”, “I already told him”. This is correct in the USA and in English-speaking Canada.",
+"In British English, the present perfect is still the norm: “I've just eaten”, “Have you eaten yet?”. This site uses the British form, but you should understand both."
+],
+"exemples": [
+["I just saw your message. (US)", "Past simple with just."],
+["I've just seen your message. (UK)", "Present perfect with just — same meaning."]
+]
+}
+],
+"formule": "have / has + just / already + past participle · haven't + past participle … yet · Have … + past participle … yet?",
+"prononciation": [
+"“just” is /dʒʌst/: j as in “jean”, u as in “cup”. Before a consonant, the final t often disappears: I've just seen /aɪv dʒʌs ˈsiːn/.",
+"“already” is /ɔːlˈredi/: stress on the second syllable.",
+"“yet” is /jet/, with the y sound of “yes”. Do not say “jet” /dʒet/.",
+"“Not yet” has a falling tone, often with the stress on yet: not YET."
+],
+"erreurs": [
+["I come from finishing my work.", "I've just finished my work.", "For a very recent action: have just + past participle."],
+["I've finished already my homework.", "I've already finished my homework.", "already goes between have and the participle (or at the end)."],
+["I haven't yet finished.", "I haven't finished yet.", "yet usually goes at the end (the middle position is very formal)."],
+["I've finished yet.", "I've already finished.", "Positive sentence: already, not yet."],
+["Have you already seen him yesterday?", "Did you see him yesterday?", "With yesterday: past simple."],
+["She has just leave.", "She has just left.", "After have / has: past participle."],
+["I still didn't receive it.", "I still haven't received it.", "British English: still + haven't + participle."]
+],
+"dialogue": {
+"contexte": "The day before moving house in Lyon, Awa and her partner Hugo check their to-do list.",
+"lignes": [
+["Awa", "Have you called the moving company yet?", "yet in a question."],
+["Hugo", "Yes, I've just called them. They're coming at eight tomorrow.", "just = a moment ago."],
+["Awa", "Great. I've already packed the kitchen.", "already = done, early."],
+["Hugo", "Already? That was fast! Have you packed the books yet?", "Surprise, then a yet question."],
+["Awa", "No, not yet. I haven't found enough boxes.", "Not yet."],
+["Hugo", "I've just bought ten more. They're in the car.", "Recent action with a result now."],
+["Awa", "Perfect. Oh, and we still haven't told the bank our new address.", "still haven't = impatience."],
+["Hugo", "Don't worry, I'll do it online tonight.", "will for an instant decision."]
+]
+},
+"mots": [
+["just", "I've just woken up.", "a very short time ago"],
+["already", "They've already left.", "before now, or sooner than expected"],
+["yet", "Has she replied yet?", "until now (in questions and negatives)"],
+["still", "I still haven't paid.", "continuing until now, often longer than expected"],
+["pack", "Have you packed your suitcase?", "to put things in a bag or box"],
+["reply", "He hasn't replied yet.", "to answer; an answer"],
+["receive", "I've just received your email.", "to get something that someone sends you"],
+["send", "Have you sent the invoice yet?", "to make something go to another person (send – sent – sent)"],
+["deliver", "They haven't delivered the parcel yet.", "to take something to a person or place"],
+["task", "I've already done three tasks today.", "a piece of work you must do"]
+],
+"exercices": [
+{
+"titre": "1. Just, already or yet?",
+"consigne": "Complete with just, already or yet.",
+"items": [
+["Have you finished ___?", "yet"],
+["I've ___ eaten, thanks. I'm not hungry.", "already"],
+["She's ___ gone out. You missed her by one minute.", "just"],
+["We haven't decided ___.", "yet"],
+["The film has ___ started — sit down quickly!", "just"]
+]
+},
+{
+"titre": "2. Put the word in",
+"consigne": "Rewrite the sentence with the word in brackets in the right place.",
+"items": [
+["I've sent the email. (just)", "I've just sent the email."],
+["Has the taxi arrived? (yet)", "Has the taxi arrived yet?"],
+["They've booked the hotel. (already)", "They've already booked the hotel."],
+["He hasn't called. (yet)", "He hasn't called yet."],
+["We haven't received the results. (still)", "We still haven't received the results."]
+]
+},
+{
+"titre": "3. Check the list",
+"consigne": "Write a present perfect sentence with the word given (✓ = done, ✗ = not done).",
+"items": [
+["buy the tickets ✓ (already)", "I've already bought the tickets."],
+["clean the flat ✗ (yet)", "I haven't cleaned the flat yet."],
+["call the doctor ✓ two minutes ago (just)", "I've just called the doctor."],
+["you / pay the rent? (yet)", "Have you paid the rent yet?"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["I've done yet my homework.", "I've already done my homework."],
+["She hasn't yet arrived.", "She hasn't arrived yet."],
+["We have just arrive.", "We have just arrived."],
+["Have you already met him last week?", "Did you meet him last week?"]
+]
+},
+{
+"titre": "5. American to British",
+"consigne": "Rewrite these American English sentences in British English (present perfect).",
+"items": [
+["I just got home.", "I've just got home."],
+["Did you book the tickets yet?", "Have you booked the tickets yet?"],
+["She didn't reply yet.", "She hasn't replied yet."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Check your day or week in five sentences with just, already, yet and still.",
+"items": [
+["Model answer", "It's Thursday evening. I've already finished my big project at work. I've just cooked dinner for my family. I haven't called my mother yet — I'll do it after dinner. And I still haven't started the book my friend gave me!"]
+]
+}
+],
+"a_retenir": [
+"have just + past participle = a very short time ago (I've just arrived).",
+"already (sooner than expected): between have and the participle, in positive sentences.",
+"yet at the end: questions and negatives; Not yet.",
+"still + haven't = not yet, and I'm impatient.",
+"American English often uses the past simple (I just ate, Did you eat yet?)."
+],
+"liens": [41, 51, 52, 91],
+"refs": ["bc-just-yet", "bc-present-perfect"]
+}

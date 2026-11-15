@@ -1,0 +1,189 @@
+{
+ "n": 109,
+ "niveau": "B1",
+ "titre": "The future continuous",
+ "intro": "The future continuous (will be + -ing) describes an action that will be in progress at a specific time in the future: “This time tomorrow, I'll be flying to Douala.” We also use it for actions that will happen as part of the normal course of events, and to ask politely about someone's plans.",
+ "objectifs": [
+  "Form the future continuous in the affirmative, negative and question forms.",
+  "Describe an action in progress at a specific future time (this time tomorrow, at 8 p.m. on Friday).",
+  "Talk about an action that will happen anyway, as part of the normal course of events.",
+  "Ask a polite question about someone's plans (Will you be using the car tonight?) and tell it apart from the future simple."
+ ],
+ "sections": [
+  {
+   "titre": "Form: will be + -ing",
+   "texte": [
+    "We make the future continuous with will be (the same for every subject) and the -ing form of the verb: I will be working, she will be working. In speech: I'll be, she'll be; negative: won't be + -ing.",
+    "Question: Will + subject + be + -ing? Short answer: Yes, I will. / No, I won't."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Structure", "Example"],
+    "lignes": [
+     ["Affirmative", "subject + will be + -ing", "At ten tomorrow, I'll be sitting my exam."],
+     ["Negative", "subject + won't be + -ing", "We won't be watching the match tonight."],
+     ["Question", "Will + subject + be + -ing?", "Will you be working on Saturday?"],
+     ["Short answer", "Yes, subject + will. / No, subject + won't.", "Will she be coming? – Yes, she will."]
+    ]
+   }
+  },
+  {
+   "titre": "Use 1: an action in progress at a future time",
+   "texte": [
+    "We imagine a specific moment in the future and describe what will be happening then: the action will start before that moment and continue after it. It's the same idea as the present continuous (now) or the past continuous (at a moment in the past), but in the future.",
+    "Common signals: this time tomorrow / next week, at + time + day, when + present simple, all day / all evening tomorrow."
+   ],
+   "exemples": [
+    ["This time next week, I'll be lying on a beach in Kribi.", "In progress at that moment next week."],
+    ["Don't call at eight. We'll be having dinner.", "Dinner will be in progress at eight."],
+    ["When you arrive, I'll be waiting for you at the station.", "When + present simple."],
+    ["Tomorrow afternoon, the team will be presenting the project to the client.", "An action in progress tomorrow afternoon."]
+   ]
+  },
+  {
+   "titre": "Use 2: what will happen anyway",
+   "texte": [
+    "The future continuous can also present a future action as a matter of course, part of the normal plan, with no idea of decision or intention: “I'll be seeing Paul at work tomorrow, so I can give him the book.” (I'll see him anyway; he's my colleague.)",
+    "This meaning is very common in announcements: “We'll be landing in Montreal in twenty minutes.” / “The shop will be closing in ten minutes.”"
+   ],
+   "exemples": [
+    ["I'll be passing the pharmacy on my way home. Do you need anything?", "I'm going past it anyway."],
+    ["Ladies and gentlemen, we'll be arriving in Brussels in fifteen minutes.", "An announcement on a train."]
+   ]
+  },
+  {
+   "titre": "Use 3: a polite question about plans",
+   "texte": [
+    "“Will you be + -ing…?” is a polite way to ask about someone's plans without sounding as if you are asking for a favour or putting pressure on them. It often prepares a request.",
+    "Compare: “Will you come to the meeting?” (a request or invitation) / “Will you be coming to the meeting?” (a simple question: is it planned?)."
+   ],
+   "tableau": {
+    "entetes": ["Future simple (will + verb)", "Future continuous (will be + -ing)"],
+    "lignes": [
+     ["Will you use the car tonight? (a request, maybe a complaint)", "Will you be using the car tonight? (neutral: could I borrow it?)"],
+     ["Will you help me? (asking for help)", "Will you be staying long? (just information)"],
+     ["I'll call you at six. (a promise, a decision)", "I'll be driving at six. (in progress at that time)"]
+    ]
+   },
+   "exemples": [
+    ["Will you be needing the meeting room this afternoon?", "A polite question before asking for the room."]
+   ]
+  },
+  {
+   "titre": "Limits and rules",
+   "texte": [
+    "As with all continuous tenses, state verbs (know, like, want, believe, own, belong) are not used in the future continuous: “I'll know the results tomorrow” (not “I'll be knowing”).",
+    "After when, if, as soon as and until, use a present tense (simple or continuous), never will be: “When I'm working in Toronto, I'll visit you” (not “When I'll be working”)."
+   ],
+   "exemples": [
+    ["I'll know the answer tomorrow.", "State verb: future simple."]
+   ]
+  }
+ ],
+ "formule": "will be + verb-ing (This time tomorrow, I'll be flying to Douala.)",
+ "prononciation": [
+  "I'll be sounds like /aɪl bi/: the 'll is light but must be heard. Without it, you would say “I be”, which is wrong.",
+  "won't be /wəʊnt bi/: the t joins the b and is almost silent.",
+  "In a polite question, the voice rises gently at the end: “Will you be using the car tonight ↗?”",
+  "The stress falls on the -ing verb and the time expression: “This time TOMORROW, I'll be FLYING.”"
+ ],
+ "erreurs": [
+  ["This time tomorrow I will flying to Paris.", "This time tomorrow I will be flying to Paris.", "You need be between will and the -ing verb."],
+  ["Tomorrow at nine I'll work.", "Tomorrow at nine I'll be working.", "An action in progress at a specific future time: future continuous."],
+  ["I'll be knowing the results next week.", "I'll know the results next week.", "State verb: no continuous form."],
+  ["When I'll be living in Ottawa, I'll learn to skate.", "When I'm living in Ottawa, I'll learn to skate.", "After when: present tense, not will."],
+  ["Will you be help me tomorrow?", "Will you help me tomorrow? / Will you be helping me tomorrow?", "Will be + -ing, or will + base verb."],
+  ["She will is working at six.", "She will be working at six.", "After will, use the base form be."]
+ ],
+ "dialogue": {
+  "contexte": "A Friday in Paris. Clémence is organising a video call with her colleague Joseph, who is from Douala and works in Montreal.",
+  "lignes": [
+   ["Clémence", "Joseph, will you be working on Monday morning? I'd like to set up a call.", "A polite question about plans."],
+   ["Joseph", "Yes, but at nine I'll be visiting a client in Laval.", "In progress at nine."],
+   ["Clémence", "What about eight, before your visit?", "What about…? = a suggestion."],
+   ["Joseph", "At eight I'll probably be driving to work. Could we say eleven, my time?", "Probably goes after will."],
+   ["Clémence", "Eleven in Montreal is five o'clock in Paris. I'll be finishing a meeting then, but it's fine.", "In progress at that time."],
+   ["Joseph", "Perfect. Will you be sending the documents before the call?", "Polite question."],
+   ["Clémence", "Yes, I'll be writing the report all weekend, so you'll have it on Sunday night.", "All weekend + future continuous."],
+   ["Joseph", "Great. I'll be waiting for it!", "A friendly ending."]
+  ]
+ },
+ "mots": [
+  ["this time tomorrow", "This time tomorrow, I'll be sitting on the plane.", "at the same time tomorrow"],
+  ["land", "We'll be landing in ten minutes.", "to arrive on the ground (a plane)"],
+  ["set up", "Can we set up a meeting for Monday?", "to organise or arrange"],
+  ["video call", "I'll be on a video call at ten.", "a call where people can see each other on a screen"],
+  ["on my way", "I'll be passing the bakery on my way home.", "while I am going somewhere"],
+  ["schedule", "Let me check my schedule for next week.", "a plan of times when things will happen"],
+  ["available", "Will you be available on Friday?", "free to do something"],
+  ["time zone", "Montreal and Paris are in different time zones.", "an area of the world with the same time"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Recognise the use",
+   "consigne": "Say if the sentence describes an action in progress at a future time (A), an action that will happen anyway (B) or a polite question (C).",
+   "items": [
+    ["At midnight, we'll be dancing at the party.", "A"],
+    ["Will you be using your laptop this evening?", "C"],
+    ["I'll be seeing Fatou at the meeting anyway.", "B"],
+    ["This time next year, she'll be studying in Montreal.", "A"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb in the future continuous.",
+   "items": [
+    ["At eight tomorrow, I ___ (travel) to Ghent.", "will be travelling ('ll be travelling)"],
+    ["Don't phone at six; the children ___ (have) their bath.", "will be having"],
+    ["___ you ___ (use) the car tomorrow?", "Will … be using"],
+    ["We ___ (not / work) on Monday; it's a holiday.", "won't be working"],
+    ["This time next month, they ___ (live) in their new house.", "will be living"]
+   ]
+  },
+  {
+   "titre": "3. Future simple or future continuous?",
+   "consigne": "Choose the most natural form.",
+   "items": [
+    ["I promise I (will call / will be calling) you tonight.", "will call"],
+    ["At 3 p.m. tomorrow, I (will take / will be taking) my driving test.", "will be taking"],
+    ["I (will know / will be knowing) the results on Friday.", "will know"],
+    ["It's heavy. – Don't worry, I (will carry / will be carrying) it.", "will carry"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["This time tomorrow I will sleeping.", "This time tomorrow I will be sleeping."],
+    ["When I will be travelling, I'll send you photos.", "When I'm travelling, I'll send you photos."],
+    ["Will you be come to the party?", "Will you be coming to the party?"],
+    ["She'll be wanting a coffee when she arrives.", "She'll want a coffee when she arrives."]
+   ]
+  },
+  {
+   "titre": "5. What will be happening?",
+   "consigne": "Write one sentence in the future continuous for each situation.",
+   "items": [
+    ["Your flight to Montreal leaves tomorrow at this time.", "This time tomorrow, I'll be flying to Montreal. / I'll be sitting on the plane to Montreal."],
+    ["Tell a friend not to call at noon because of your work with a client.", "Don't call at noon: I'll be working with a client. / I'll be having a meeting."],
+    ["Ask your flatmate politely about his bike plans for the weekend.", "Will you be using your bike this weekend?"],
+    ["You are a pilot. Announce the landing in Brussels in 20 minutes.", "We'll be landing in Brussels in twenty minutes."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "In 4–5 sentences, describe what you will be doing tomorrow at different times (8 a.m., noon, 3 p.m., 8 p.m.), then ask a friend a polite question with Will you be…?",
+   "items": [
+    ["Example answer", "At eight tomorrow, I'll be taking the bus to work. At noon, I'll be having lunch with my colleagues. At three, I'll be giving a presentation to our new clients. At eight in the evening, I'll be watching the match at home. Will you be watching it too?"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Form: will be + -ing; negative won't be + -ing.",
+  "An action in progress at a specific future time: This time tomorrow, I'll be flying.",
+  "An action that will happen anyway: I'll be seeing him at work anyway.",
+  "A polite question about plans: Will you be using the car tonight?",
+  "No state verbs in the future continuous, and no will after when / if."
+ ],
+ "liens": [8, 43, 94, 110],
+ "refs": ["bc-future-cont-perf", "bc-future-forms"]
+}

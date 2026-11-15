@@ -1,0 +1,190 @@
+{
+"n": 54,
+"niveau": "A2",
+"titre": "Must et have to",
+"intro": "« Must » et « have to » expriment tous les deux l'obligation (« devoir », « il faut »). Ils sont souvent interchangeables à l'affirmatif, mais ils n'ont pas exactement la même nuance ni la même grammaire : must est un modal invariable, have to se conjugue comme un verbe ordinaire.",
+"objectifs": [
+"Former correctement must + base verbale et have to / has to + base verbale.",
+"Distinguer l'obligation ressentie par celui qui parle (must) et l'obligation extérieure (have to).",
+"Exprimer l'obligation au passé (had to) et au futur (will have to).",
+"Poser des questions sur l'obligation avec « Do I have to…? »."
+],
+"sections": [
+{
+"titre": "La forme de must",
+"texte": [
+"« Must » est un modal : il ne change pas selon le sujet (pas de -s) et il est suivi directement de la base verbale, sans to.",
+"La question avec must (« Must I…? ») existe mais sonne formel ou un peu ancien ; on préfère presque toujours « Do I have to…? ». La forme négative mustn't a un sens particulier qui sera étudié dans la leçon 55."
+],
+"exemples": [
+["I must call my mother tonight.", "Je dois appeler ma mère ce soir (je le juge important)."],
+["You must wear a seatbelt.", "Tu dois mettre ta ceinture."],
+["Passengers must show their tickets.", "Les passagers doivent présenter leur billet (règlement écrit)."]
+]
+},
+{
+"titre": "La forme de have to",
+"texte": [
+"« Have to » se conjugue comme un verbe normal : has to à la 3e personne du singulier, et do / does / did pour les questions et les négations.",
+"À l'oral britannique, on entend aussi « have got to » (I've got to go) avec le même sens, surtout pour une obligation ponctuelle."
+],
+"tableau": {
+"entetes": ["Forme", "Structure", "Exemple"],
+"lignes": [
+["affirmative", "sujet + have to / has to + base", "She has to work on Saturdays."],
+["question", "Do / Does + sujet + have to + base ?", "Do we have to pay now?"],
+["réponse courte", "Yes, you do. / No, you don't.", "Does he have to come? — Yes, he does."],
+["passé", "sujet + had to + base", "I had to wait for an hour."],
+["futur", "sujet + will have to + base", "You'll have to take a taxi."]
+]
+}
+},
+{
+"titre": "La nuance : qui impose l'obligation ?",
+"texte": [
+"« Must » exprime souvent une obligation qui vient de celui qui parle : son avis, sa conviction, une décision personnelle, ou une règle qu'il impose. Il est aussi très utilisé dans les règlements écrits et les panneaux.",
+"« Have to » exprime plutôt une obligation extérieure : une loi, un règlement, un patron, un horaire, une situation qu'on ne contrôle pas. Dans la conversation de tous les jours, have to est beaucoup plus fréquent que must."
+],
+"tableau": {
+"entetes": ["must (obligation personnelle / règle écrite)", "have to (obligation extérieure)"],
+"lignes": [
+["I must stop eating so much sugar. (je l'ai décidé)", "I have to take my medicine twice a day. (le médecin l'a dit)"],
+["You must visit us in Dakar! (insistance amicale)", "You have to get a visa to visit Canada. (la loi)"],
+["I must study tonight. (je le sens nécessaire)", "I have to start work at 7. (mon contrat)"]
+]
+},
+"note": "Dans beaucoup de phrases, les deux sont possibles et la différence est faible. Si tu hésites, « have to » est presque toujours correct à l'oral."
+},
+{
+"titre": "Le passé et le futur : seulement have to",
+"texte": [
+"« Must » n'a ni passé ni futur. Pour parler d'une obligation passée, on utilise « had to » ; pour une obligation future, « will have to ».",
+"Ne jamais dire « I musted » ou « I will must »."
+],
+"exemples": [
+["We had to leave early because of the rain.", "Nous avons dû partir tôt à cause de la pluie."],
+["Did you have to show your passport?", "Tu as dû montrer ton passeport ?"],
+["You'll have to book in advance.", "Tu devras réserver à l'avance."]
+]
+},
+{
+"titre": "Must pour une recommandation forte",
+"texte": [
+"À l'oral, « must » sert souvent à recommander chaudement quelque chose : un film, un restaurant, une visite. Ce n'est pas une vraie obligation mais un conseil enthousiaste.",
+"Pour un conseil plus doux, on utilise « should » (leçon 56)."
+],
+"exemples": [
+["You must try the grilled fish in Kribi. It's delicious!", "Il faut absolument que tu goûtes le poisson braisé à Kribi !"],
+["You must see this film.", "Il faut que tu voies ce film (je te le recommande vivement)."]
+]
+}
+],
+"formule": "must + base (invariable) · have to / has to + base · had to (passé) · will have to (futur)",
+"prononciation": [
+"« must » est souvent faible : /məst/ ou même /məs/ devant une consonne (I must go /aɪ məs ˈɡəʊ/). Pour insister, on dit /mʌst/.",
+"« have to » se prononce /ˈhæf tə/ avec un f, pas un v ; « has to » /ˈhæs tə/ avec un s ; « had to » /ˈhæt tə/.",
+"« have got to » se réduit souvent en /ˈɡɒtə/ à l'oral : I've got to go /aɪv ˈɡɒtə ˈɡəʊ/ (parfois écrit « gotta » dans les textos, à éviter à l'écrit).",
+"Dans « mustn't » /ˈmʌsnt/, le premier t ne se prononce pas."
+],
+"erreurs": [
+["I must to go.", "I must go.", "Pas de to après must."],
+["She musts work.", "She must work.", "must ne prend jamais de -s."],
+["He have to leave.", "He has to leave.", "3e personne du singulier : has to."],
+["I musted wait.", "I had to wait.", "must n'a pas de passé : had to."],
+["Do I must pay?", "Do I have to pay?", "Question : Do I have to…?"],
+["You will must call him.", "You will have to call him.", "Futur : will have to."],
+["Did you had to work?", "Did you have to work?", "Après did : have to (base)."]
+],
+"dialogue": {
+"contexte": "Jean-Paul commence un nouveau travail dans un hôpital à Liège. Une collègue, Nathalie, lui explique les règles.",
+"lignes": [
+["Nathalie", "Welcome! First, you have to wear your badge at all times.", "Bienvenue ! D'abord, tu dois porter ton badge en permanence."],
+["Jean-Paul", "OK. Do I have to sign in when I arrive?", "D'accord. Je dois pointer en arrivant ?"],
+["Nathalie", "Yes, you do. And you have to wash your hands before you enter each room.", "Oui. Et tu dois te laver les mains avant d'entrer dans chaque chambre."],
+["Jean-Paul", "Of course. What time does my shift start?", "Bien sûr. À quelle heure commence mon service ?"],
+["Nathalie", "At seven. Yesterday the new nurse had to start at six because of an emergency.", "À sept heures. Hier, la nouvelle infirmière a dû commencer à six heures à cause d'une urgence."],
+["Jean-Paul", "I see. I must buy a good alarm clock!", "Je vois. Il faut que j'achète un bon réveil !"],
+["Nathalie", "Ha! And you must try the cafeteria's soup. It's the best in Liège.", "Ha ! Et tu dois absolument goûter la soupe de la cafétéria. C'est la meilleure de Liège."]
+]
+},
+"mots": [
+["rule", "You have to follow the rules.", "une règle"],
+["law", "It's the law: you must wear a helmet.", "la loi"],
+["allowed", "Dogs aren't allowed here.", "autorisé, permis"],
+["uniform", "The staff have to wear a uniform.", "un uniforme"],
+["shift", "My shift starts at seven.", "le service, le poste (horaire de travail)"],
+["sign", "You must sign the form.", "signer ; un panneau"],
+["seatbelt", "You must wear a seatbelt.", "la ceinture de sécurité"],
+["necessary", "Is it necessary to book?", "nécessaire"],
+["in advance", "You have to pay in advance.", "à l'avance"],
+["deadline", "The deadline is Friday.", "la date limite"]
+],
+"exercices": [
+{
+"titre": "1. Must, have to ou has to ?",
+"consigne": "Complète avec must, have to ou has to (parfois plusieurs réponses possibles).",
+"items": [
+["My sister ___ wear a uniform at school.", "has to"],
+["I ___ remember to buy bread.", "must (ou have to)"],
+["Students ___ arrive before 8:30.", "have to (ou must, dans un règlement)"],
+["He ___ take the bus because his car is broken.", "has to"],
+["You ___ come to our wedding! We'd love to see you.", "must"]
+]
+},
+{
+"titre": "2. Au passé et au futur",
+"consigne": "Mets l'obligation au temps demandé avec have to.",
+"items": [
+["I have to work late. (hier)", "I had to work late yesterday."],
+["She has to take an exam. (l'année prochaine)", "She'll have to take an exam next year."],
+["We have to wait. (la semaine dernière)", "We had to wait last week."],
+["Do you have to wear a tie? (hier, question)", "Did you have to wear a tie yesterday?"]
+]
+},
+{
+"titre": "3. Poser la question",
+"consigne": "Écris la question avec do / does / did + have to.",
+"items": [
+["you / pay / now", "Do you have to pay now?"],
+["she / work / on Sundays", "Does she have to work on Sundays?"],
+["they / show / their passports (passé)", "Did they have to show their passports?"],
+["I / bring / anything", "Do I have to bring anything?"]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["You must to be careful.", "You must be careful."],
+["She have to call the bank.", "She has to call the bank."],
+["Yesterday I must leave early.", "Yesterday I had to leave early."],
+["Does he has to come?", "Does he have to come?"]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["Il faut que je parte maintenant.", "I must go now. / I have to go now."],
+["Est-ce que je dois réserver ?", "Do I have to book?"],
+["Nous avons dû prendre un taxi.", "We had to take a taxi."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Décris en cinq phrases les obligations de ton travail ou de tes études (présent, passé et une recommandation avec must).",
+"items": [
+["Exemple de réponse", "I'm a bank clerk in Yaoundé. I have to start work at 7:30 and I have to wear a suit. I don't like it, but it's a rule. Last month I had to work every Saturday because a colleague was ill. If you visit Yaoundé, you must try the restaurants in Bastos!"]
+]
+}
+],
+"a_retenir": [
+"must + base : invariable, pas de to (I must go, she must go).",
+"have to / has to + base : se conjugue ; questions avec do / does (Do I have to…?).",
+"must = obligation ressentie ou règle écrite ; have to = obligation extérieure (loi, travail).",
+"Passé : had to ; futur : will have to (must n'a pas de passé).",
+"You must try / see… = recommandation enthousiaste."
+],
+"liens": [28, 55, 56, 57],
+"refs": ["bc-obligation", "cam-verbs"]
+}

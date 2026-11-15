@@ -1,0 +1,195 @@
+{
+"n": 31,
+"niveau": "A1",
+"titre": "Some and any",
+"intro": "“Some” and “any” talk about a quantity that is not exact. The basic rule is simple (some in positive sentences, any in negatives and questions), but you also need the exceptions for offers and polite requests.",
+"objectifs": [
+ "Use some in positive sentences and any in negative sentences and questions.",
+ "Choose between a / an and some, depending on whether the noun is singular, plural or uncountable.",
+ "Use some in questions to offer or ask for something (Would you like some tea?).",
+ "Use some and any alone, as pronouns (I haven't got any)."
+],
+"sections": [
+ {
+  "titre": "The basic rule",
+  "texte": [
+   "Use “some” and “any” before a plural countable noun (eggs, apples) or an uncountable noun (milk, money). They show a quantity that we don't say exactly.",
+   "Use “some” in positive sentences, and “any” in negative sentences and questions."
+  ],
+  "tableau": {
+   "entetes": ["Sentence type", "Plural countable", "Uncountable"],
+   "lignes": [
+    ["Positive", "There are some eggs.", "There's some milk."],
+    ["Negative", "There aren't any eggs.", "There isn't any milk."],
+    ["Question", "Are there any eggs?", "Is there any milk?"]
+   ]
+  },
+  "exemples": [
+   ["I've got some friends in Montreal.", "Positive: some."],
+   ["We haven't got any bread.", "Negative: any."],
+   ["Have you got any questions?", "Question: any."]
+  ]
+ },
+ {
+  "titre": "A / an or some? And when do we use nothing?",
+  "texte": [
+   "With a singular countable noun, use “a” or “an”: “an apple”, “a banana”. “Some” and “any” are for plurals and uncountable nouns: “some apples”, “some water”.",
+   "When you talk about something in general, use no word: “I like coffee” (coffee in general). When you talk about an amount, use “some”: “I'd like some coffee” (a cup, a quantity).",
+   "“Some” is not always necessary: “We need eggs” and “We need some eggs” are both correct."
+  ],
+  "tableau": {
+   "entetes": ["Noun", "Positive", "Negative / question"],
+   "lignes": [
+    ["singular countable", "a / an: an egg", "a / an: I haven't got an egg."],
+    ["plural countable", "some: some eggs", "any: any eggs"],
+    ["uncountable", "some: some rice", "any: any rice"]
+   ]
+  },
+  "exemples": [
+   ["There's an orange and some grapes on the table.", "an + singular; some + plural."],
+   ["I love chocolate. Can I have some?", "General: no word. An amount: some."]
+  ]
+ },
+ {
+  "titre": "Exceptions: some in questions",
+  "texte": [
+   "When you offer something or make a polite request, use “some” even in a question, because you expect the answer “yes”.",
+   "Compare: “Is there any coffee?” (a real question: is there coffee or not?) and “Would you like some coffee?” (an offer)."
+  ],
+  "exemples": [
+   ["Would you like some tea?", "An offer."],
+   ["Can I have some water, please?", "A request."],
+   ["Could you give me some information about the course?", "A polite request."]
+  ],
+  "note": "“Any” in a positive sentence has another meaning: “it doesn't matter which”. “Take any seat” = sit where you want."
+ },
+ {
+  "titre": "Not any = no",
+  "texte": [
+   "You can replace “not … any” with “no” + noun and a positive verb: “There isn't any milk” = “There's no milk”. “No” is a little stronger.",
+   "Never use two negatives: “I haven't got no money” is wrong in standard English. Say “I haven't got any money” or “I've got no money”."
+  ],
+  "exemples": [
+   ["There aren't any buses on Sunday. = There are no buses on Sunday.", "Two ways to say the same thing."],
+   ["I've got no time today.", "no + noun, positive verb."]
+  ]
+ },
+ {
+  "titre": "Some and any alone (pronouns)",
+  "texte": [
+   "When we already know the noun, we can use “some” and “any” alone: “I need eggs. Have you got any? — Yes, I've got some.”",
+   "Careful: don't put “of” between some / any and a noun: “some bread”, not “some of bread”. Use “some of” only before the, my, these…: “some of my friends”.",
+   "Words like something, anything, someone, nobody follow the same logic: see lesson 60."
+  ],
+  "exemples": [
+   ["I want some cake. Is there any left? — Sorry, there isn't any.", "any alone = any cake."],
+   ["Some of my friends speak Spanish.", "some of + my + noun."]
+  ]
+ }
+],
+"formule": "some + plural / uncountable (positive, offers, requests) · any + plural / uncountable (negatives, questions)",
+"prononciation": [
+ "Before a noun, “some” is weak: “some water” = /səm ˈwɔːtə/. Alone or at the end of a sentence, it is strong: “Yes, I've got some” = /sʌm/.",
+ "“any” is /ˈeni/ (“enny”). “many” and “any” rhyme.",
+ "Link before a vowel: “any eggs” = /ˌeni ˈeɡz/; “some apples” = /səm ˈæplz/.",
+ "In an offer, the voice goes up at the end: “Would you like some TEA? ↗”."
+],
+"erreurs": [
+ ["There is some milk?", "Is there any milk?", "Question: change the order and use “any”."],
+ ["I haven't got some money.", "I haven't got any money.", "Negative: “any”."],
+ ["I'd like a water.", "I'd like some water. / I'd like a glass of water.", "“Water” is uncountable."],
+ ["I don't have no time.", "I don't have any time. / I have no time.", "Only one negative in English."],
+ ["I want some of bread.", "I want some bread.", "No “of” directly before the noun."],
+ ["There are any apples.", "There are some apples. / There aren't any apples.", "Don't use “any” like this in a positive sentence."],
+ ["Can I have any water, please?", "Can I have some water, please?", "For a polite request: “some”."],
+ ["I've got a friends in Brussels.", "I've got some friends in Brussels.", "“A” only before a singular noun."]
+],
+"dialogue": {
+ "contexte": "In Liège, Thomas and his flatmate Aminata want to make pancakes for some friends.",
+ "lignes": [
+  ["Aminata", "Let's make pancakes! Have we got any flour?", "Question: any."],
+  ["Thomas", "Yes, there's some flour in the cupboard.", "Positive: some."],
+  ["Aminata", "Great. And are there any eggs?", "Plural countable: any."],
+  ["Thomas", "Hmm, no, there aren't any eggs. And there's no milk.", "not any = no."],
+  ["Aminata", "OK, let's write a shopping list: eggs, milk and some sugar.", "A list."],
+  ["Thomas", "We've got some sugar. But we haven't got any butter.", "Positive and negative."],
+  ["Aminata", "Right: eggs, milk, butter. Do we need any juice for our friends?", "A real question: any."],
+  ["Thomas", "Yes, let's get some orange juice. And would you like some coffee before we go?", "An offer: some."],
+  ["Aminata", "No, thanks. Let's go!", "Saying no politely."]
+ ]
+},
+"mots": [
+ ["fridge", "Is there any milk in the fridge?", "a cold cupboard for keeping food"],
+ ["shopping list", "Don't forget the shopping list.", "a list of things to buy"],
+ ["butter", "We haven't got any butter.", "a yellow fat made from milk"],
+ ["flour", "There's some flour in the cupboard.", "a white powder for making bread and cakes"],
+ ["sugar", "Do you take sugar in your coffee?", "a sweet white or brown powder"],
+ ["juice", "Would you like some orange juice?", "a drink made from fruit"],
+ ["onion", "I need some onions for the sauce.", "a round vegetable with a strong taste"],
+ ["cheese", "There isn't any cheese left.", "a food made from milk"],
+ ["empty", "The fridge is empty!", "with nothing inside"],
+ ["left", "Is there any cake left?", "still there after the rest is used"]
+],
+"exercices": [
+ {
+  "titre": "1. Some or any?",
+  "consigne": "Complete with some or any.",
+  "items": [
+   ["There are ___ apples on the table.", "some"],
+   ["I haven't got ___ brothers.", "any"],
+   ["Is there ___ coffee?", "any"],
+   ["We need ___ bread.", "some"],
+   ["Would you like ___ cake?", "some (an offer)"],
+   ["There isn't ___ sugar in my tea.", "any"]
+  ]
+ },
+ {
+  "titre": "2. A, an or some?",
+  "consigne": "Complete with a, an or some.",
+  "items": [
+   ["___ apple", "an"],
+   ["___ water", "some"],
+   ["___ bananas", "some"],
+   ["___ egg", "an"],
+   ["___ bread", "some"]
+  ]
+ },
+ {
+  "titre": "3. Change the sentence",
+  "consigne": "Write the sentence in the form given.",
+  "items": [
+   ["There's some milk. (negative)", "There isn't any milk. / There's no milk."],
+   ["There are some eggs. (question)", "Are there any eggs?"],
+   ["I've got some money. (negative)", "I haven't got any money. / I've got no money."],
+   ["She's got some friends here. (question)", "Has she got any friends here?"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["There isn't some butter.", "There isn't any butter. / There's no butter."],
+   ["Would you like any coffee? (an offer)", "Would you like some coffee?"],
+   ["There are any eggs?", "Are there any eggs?"],
+   ["I need some of flour.", "I need some flour. / I need flour."],
+   ["I haven't got none.", "I haven't got any. / I've got none."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Look at (or imagine) your fridge. Write four sentences: two things that are there (some) and two things that are not there (any). Then write your shopping list.",
+  "items": [
+   ["Model answer", "There's some cheese and there are some tomatoes. There isn't any milk and there aren't any eggs. Shopping list: milk, eggs, some bread and some fruit."]
+  ]
+ }
+],
+"a_retenir": [
+ "some + plural or uncountable in positive sentences; any in negatives and questions.",
+ "a / an before a singular countable noun; no word when you talk in general (I like coffee).",
+ "Offers and requests: some in the question (Would you like some tea? Can I have some water?).",
+ "not any = no; never two negatives (I haven't got any money / I've got no money).",
+ "some and any can stand alone (Have you got any? — Yes, I've got some)."
+],
+"liens": [26, 30, 34, 59, 60],
+"refs": ["bc-countable", "cam-nouns"]
+}

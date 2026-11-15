@@ -1,0 +1,217 @@
+{
+ "n": 162,
+ "niveau": "B2",
+ "titre": "Participle clauses",
+ "intro": "“Not knowing what to do, she called her sister”, “Built in 1880, the bridge is still in use”, “Having finished the report, he went home”: participle clauses pack an idea of time, reason or result into a few words. They make a text smoother and more elegant, especially in writing (articles, stories, reports).",
+ "objectifs": [
+  "Use the present participle (-ing) for an action at the same time, a reason or a result.",
+  "Use the past participle for a passive meaning (Built in 1880…) and “Having + past participle” for an earlier action.",
+  "Reduce relative clauses: the people living here, the cars parked outside.",
+  "Avoid dangling participles and the error “Arrived at the station, he…”."
+ ],
+ "sections": [
+  {
+   "titre": "The principle: one shared subject",
+   "texte": [
+    "A participle clause has no subject and no full verb. It replaces a clause with because, when, after, which… and makes the sentence shorter.",
+    "Golden rule: the hidden subject of the participle clause must be the same as the subject of the main clause. “Feeling tired, I went to bed”: “I” felt tired.",
+    "These structures are mainly written and formal. In speech, people often prefer the full clause: “Because I was tired, I went to bed.”"
+   ],
+   "tableau": {
+    "entetes": ["Form", "Meaning", "Example"],
+    "lignes": [
+     ["-ing", "active, same time or reason", "Feeling tired, I went to bed early."],
+     ["past participle", "passive", "Built in 1880, the bridge is still in use."],
+     ["Having + past participle", "active, earlier action", "Having finished the report, he went home."],
+     ["Having been + past participle", "passive, earlier action", "Having been warned, we took umbrellas."],
+     ["Not + participle", "negative", "Not knowing the way, we asked for help."]
+    ]
+   }
+  },
+  {
+   "titre": "The present participle (-ing)",
+   "texte": [
+    "It shows an active action by the subject and, depending on the context: an action at the same time (while), an action immediately followed by another, a reason (as, because) or a result after a comma (which caused…).",
+    "For a result, the participle clause comes at the end: “The storm hit the coast, destroying hundreds of houses.”",
+    "You can add a conjunction to make the meaning clearer: while waiting, when leaving, by working."
+   ],
+   "exemples": [
+    ["Opening the door, she saw a huge parcel on the floor.", "Almost at the same time."],
+    ["Knowing that he was tired, I didn't call him.", "Reason: because I knew."],
+    ["The train broke down near Charleroi, causing long delays.", "Result."],
+    ["Smiling, the teacher handed back our tests.", "Manner: how she did it."]
+   ]
+  },
+  {
+   "titre": "The past participle: passive meaning",
+   "texte": [
+    "The past participle alone has a passive meaning: the subject receives the action. “Built in 1880, the bridge…” = The bridge, which was built in 1880, …",
+    "It can also express a condition or a reason: “Used correctly, this tool can save you hours” (if it is used correctly). “Shocked by the news, she sat down” (because she was shocked).",
+    "It is very common in tourist guides, company presentations and the press: “Founded in 1998, the company now employs 500 people.”"
+   ],
+   "exemples": [
+    ["Written in 1958, Things Fall Apart is still widely read.", "Which was written in 1958."],
+    ["Located near the river, the hotel has beautiful views.", "Which is located near the river."],
+    ["Used correctly, this app can save you hours.", "Condition: if it is used correctly."],
+    ["Asked about the delay, the manager refused to comment.", "When he was asked."]
+   ]
+  },
+  {
+   "titre": "Having + past participle: the earlier action",
+   "texte": [
+    "“Having + past participle” shows clearly that the first action finished before the second (after doing…). It often expresses a reason too.",
+    "In the passive: “Having been + past participle”. “Having been told the news, he called his mother.”",
+    "A common error is to use the past participle of an intransitive verb alone: “Arrived at the station, he called me” is impossible, because “arrive” has no passive. Say “Having arrived at the station…”, “On arriving at the station…” or simply “When he arrived at the station…”."
+   ],
+   "exemples": [
+    ["Having finished her degree, she moved to Toronto.", "After she had finished."],
+    ["Having lived in Brussels for ten years, I know the city well.", "Reason: because I have lived there."],
+    ["Having been rejected twice, he decided to try another company.", "Passive, earlier action."],
+    ["On arriving in Yaoundé, we went straight to the hotel.", "As soon as we arrived."]
+   ]
+  },
+  {
+   "titre": "Reduced relative clauses",
+   "texte": [
+    "A relative clause can often be reduced: remove the relative pronoun and the auxiliary. Use the present participle for an active meaning and the past participle for a passive meaning.",
+    "Note: the -ing form does not only replace a continuous form. “People living near the airport” = people who live (not only “who are living”) near the airport.",
+    "You cannot reduce a single finished action with an active meaning in this way: “The man who called you yesterday” does not become “The man calling you yesterday”."
+   ],
+   "tableau": {
+    "entetes": ["Full relative clause", "Reduced relative clause"],
+    "lignes": [
+     ["The woman who is sitting next to me is from Kigali.", "The woman sitting next to me is from Kigali."],
+     ["People who live near the airport complain about the noise.", "People living near the airport complain about the noise."],
+     ["The cars that are parked outside belong to the hotel.", "The cars parked outside belong to the hotel."],
+     ["Most goods that are sold here are made locally.", "Most goods sold here are made locally."]
+    ]
+   }
+  },
+  {
+   "titre": "Conjunctions, negatives and dangling participles",
+   "texte": [
+    "You can keep a conjunction before the participle clause to make the meaning precise: after / before / since / while / when + -ing; when / once / if / unless / until + past participle. “After finishing work, I went to the gym.” “Once opened, the jar must be kept in the fridge.”",
+    "The negative goes before the participle: “Not knowing what to do…”, “Not having received an answer…”. Never “Knowing not…”.",
+    "The dangling participle is the most serious error: “Walking down the street, a car hit me” means that the car was walking! The two subjects must be the same: “Walking down the street, I was hit by a car” or “While I was walking down the street, a car hit me”."
+   ],
+   "exemples": [
+    ["While waiting for the bus, I read the news.", "Conjunction + -ing."],
+    ["Once opened, the milk must be used within three days.", "Conjunction + past participle."],
+    ["Not having heard from her, I started to worry.", "Negative with Having."]
+   ]
+  }
+ ],
+ "formule": "-ing (active) · past participle (passive) · Having + past participle (earlier) · Not + participle — same subject as the main clause",
+ "prononciation": [
+  "A participle clause at the start of a sentence ends with a slight rise and a pause (the comma): “Feeling tired ↗, | I went to bed ↘”.",
+  "“-ing” is /ɪŋ/: one nasal sound, with no audible /g/ at the end. Avoid /ɪn/ in formal style.",
+  "“Having” /ˈhævɪŋ/ is stressed on the first syllable and is never reduced.",
+  "-ed participles: /t/, /d/ or /ɪd/: located /ləʊˈkeɪtɪd/, surrounded /səˈraʊndɪd/, parked /pɑːkt/.",
+  "A result clause at the end of a sentence comes after a pause: “The train broke down, | causing long delays.”"
+ ],
+ "erreurs": [
+  ["Walking to work, the rain started.", "Walking to work, I was caught in the rain. / While I was walking to work, it started to rain.", "The subject of the participle clause must be the subject of the main clause."],
+  ["Arrived at the hotel, we had a shower.", "Having arrived at the hotel (When we arrived at the hotel), we had a shower.", "“arrive” has no passive: no past participle alone."],
+  ["After finish my homework, I watched TV.", "After finishing my homework, I watched TV.", "After a preposition / conjunction: -ing."],
+  ["Knowing not the answer, she stayed silent.", "Not knowing the answer, she stayed silent.", "“Not” goes before the participle."],
+  ["Having finish the report, she went home.", "Having finished the report, she went home.", "Having + past participle."],
+  ["The man stood at the door is my uncle.", "The man standing at the door is my uncle.", "Active meaning: -ing (“stood” here is informal and regional)."],
+  ["Made in Belgium, I love this chocolate.", "Made in Belgium, this chocolate is delicious.", "The chocolate is made, not “I”."]
+ ],
+ "dialogue": {
+  "contexte": "A guided tour of Old Quebec. The guide, Étienne, is showing the city to Kemi, a tourist from Lagos.",
+  "lignes": [
+   ["Étienne", "Founded in 1608, Quebec City is one of the oldest cities in North America.", "Past participle: passive meaning."],
+   ["Kemi", "Is that why it has walls all around it?", "A simple question."],
+   ["Étienne", "Exactly. Surrounded by stone walls, the old town was easy to defend.", "Past participle: reason."],
+   ["Kemi", "And that huge building on the hill?", "A simple question."],
+   ["Étienne", "That's the Château Frontenac. Built as a hotel in 1893, it overlooks the St Lawrence River.", "Past participle clause."],
+   ["Kemi", "It's beautiful. Having seen so many photos, I feel as if I already know it.", "Having + past participle: earlier action, reason."],
+   ["Étienne", "Most people visiting the city say that. Walking down these streets, you really feel the history.", "Reduced relative; -ing clause with the same subject."],
+   ["Kemi", "Not knowing much French, I was worried, but everyone has been so kind.", "Negative participle clause: reason."]
+  ]
+ },
+ "mots": [
+  ["located", "The hotel is located near the station.", "in a particular place"],
+  ["surrounded", "The village is surrounded by hills.", "with things all around it"],
+  ["overlook", "Our room overlooks the sea.", "to have a view of a place from above"],
+  ["landmark", "The Atomium is a famous Brussels landmark.", "a famous building or place that is easy to recognise"],
+  ["heritage", "The old town is a World Heritage Site.", "the history, buildings and traditions of a place"],
+  ["wander", "We wandered around the old streets.", "to walk slowly with no special purpose"],
+  ["settler", "The first settlers arrived in 1608.", "a person who goes to live in a new place"],
+  ["fortified", "It was a fortified city.", "protected by walls"],
+  ["stroll", "Let's take a stroll along the river.", "a slow, relaxed walk; to walk slowly"],
+  ["approximately", "The tour takes approximately two hours.", "about; not exactly"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. What does it mean?",
+   "consigne": "Explain the meaning of the participle clause (reason, passive, earlier action, result).",
+   "items": [
+    ["Feeling tired, I went to bed early.", "Reason: because I felt tired."],
+    ["Built in 1910, the station is a historic monument.", "Passive: the station, which was built in 1910."],
+    ["Having finished dinner, we went for a walk.", "Earlier action: after we had finished dinner."],
+    ["The storm hit the coast, destroying hundreds of houses.", "Result: and as a result it destroyed hundreds of houses."]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with the correct participle form of the verb in brackets.",
+   "items": [
+    ["___ (not / know) the way, we asked a police officer.", "Not knowing"],
+    ["___ (write) in 1958, the novel is still popular today.", "Written"],
+    ["___ (finish) her degree, she moved to Toronto.", "Having finished"],
+    ["The woman ___ (sit) next to me on the train was from Kigali.", "sitting"],
+    ["Most of the goods ___ (sell) in this shop are made locally.", "sold"],
+    ["___ (tell) the news, he immediately called his mother.", "Having been told (or: Told)"]
+   ]
+  },
+  {
+   "titre": "3. Combine",
+   "consigne": "Combine the two sentences with a participle clause.",
+   "items": [
+    ["She opened the letter. She found a cheque inside.", "Opening the letter, she found a cheque inside."],
+    ["I had lived in Brussels for years. I knew the city well.", "Having lived in Brussels for years, I knew the city well."],
+    ["The painting was stolen in 1990. It was found last week.", "Stolen in 1990, the painting was found last week."],
+    ["He was afraid of being late. He took a taxi.", "Being afraid of being late (or: Afraid of being late), he took a taxi."],
+    ["The train broke down. This caused long delays.", "The train broke down, causing long delays."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["Walking to work, the rain started.", "Walking to work, I was caught in the rain. (or: While I was walking to work, it started to rain.)"],
+    ["Arrived at the hotel, we had a shower.", "Having arrived at the hotel (On arriving at the hotel / When we arrived at the hotel), we had a shower."],
+    ["After finish my homework, I watched TV.", "After finishing my homework, I watched TV."],
+    ["Knowing not the answer, she stayed silent.", "Not knowing the answer, she stayed silent."]
+   ]
+  },
+  {
+   "titre": "5. Back to full clauses",
+   "consigne": "Rewrite each sentence with a full clause (when, after, because, which, who…).",
+   "items": [
+    ["Having arrived in Douala, she called her mother.", "After she had arrived (When she arrived) in Douala, she called her mother."],
+    ["Built in 1880, this bridge is the oldest in the city.", "This bridge, which was built in 1880, is the oldest in the city."],
+    ["Not knowing what to say, he remained silent.", "Because (As) he didn't know what to say, he remained silent."],
+    ["Students living on campus pay less.", "Students who live on campus pay less."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Present a place you know well (a city, a monument, a company) in 4 sentences, like a guide, with at least four participle clauses of different types.",
+   "items": [
+    ["Example answer", "Known as Cameroon's economic capital, Douala is the country's largest city. Located on the Wouri River, it has the busiest port in the region. Walking through the Akwa district, you can see colonial buildings next to modern towers. Having visited it many times, I still discover something new every trip."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Participle clause = a reduced clause with no subject and no full verb, mainly in writing.",
+  "-ing = active (same time, reason, result); past participle = passive; Having + past participle = earlier action.",
+  "Reduced relatives: people living here (who live), cars parked outside (that are parked).",
+  "Negative: Not knowing…, Not having heard…; conjunctions are possible: after finishing, once opened.",
+  "Same subject in both clauses; never “Arrived at the station, he…” → Having arrived / When he arrived."
+ ],
+ "liens": [101, 163, 151, 171],
+ "refs": ["bc-participle"]
+}

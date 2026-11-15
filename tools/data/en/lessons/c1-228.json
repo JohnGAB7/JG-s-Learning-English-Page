@@ -1,0 +1,516 @@
+{
+ "n": 228,
+ "niveau": "C1",
+ "titre": "Discourse markers in speech",
+ "intro": "Well, so, anyway, I mean, mind you, the thing is… These small words carry almost no meaning, but they organise conversation, show your attitude and give you time to think. Used well, they make the difference between correct English and truly fluent English.",
+ "objectifs": [
+  "Understand what discourse markers do: organise, rephrase, qualify and manage turns.",
+  "Use the essential markers with the right meaning: well, so, right, anyway, actually, I mean, mind you, then again.",
+  "React naturally as a listener (fair enough, I see, exactly, no way).",
+  "Replace fillers translated from your own language with real English equivalents."
+ ],
+ "sections": [
+  {
+   "titre": "What do markers do?",
+   "texte": [
+    "A discourse marker does not change the content of a sentence, but it tells the listener how to interpret it: “Well…” announces a qualified answer or a reservation, “Anyway…” brings the conversation back to the main topic, “Mind you…” adds a restriction.",
+    "They are not “mistakes” or hesitations to remove: native speakers use them all the time. The problem is overuse (“like” in every sentence) or misuse, when learners transfer the fillers of their first language.",
+    "They usually come at the start of an utterance, form their own short intonation group and are often followed by a tiny pause."
+   ],
+   "exemples": [
+    [
+     "Well, it's not quite that simple.",
+     "“Well”: an answer with a reservation, not a simple yes."
+    ],
+    [
+     "Anyway, where was I? Oh yes, the budget.",
+     "“Anyway”: back to the topic after a digression."
+    ]
+   ]
+  },
+  {
+   "titre": "Organising: opening, moving on, changing topic",
+   "texte": [
+    "These markers structure the conversation like road signs. “Right” and “OK” open or close a stage; “so” introduces a conclusion or a new question; “by the way” starts a digression; “anyway” ends it."
+   ],
+   "tableau": {
+    "entetes": [
+     "Marker",
+     "Function",
+     "Example"
+    ],
+    "lignes": [
+     [
+      "Right / OK / Now",
+      "open, move to the next stage",
+      "Right, let's get started."
+     ],
+     [
+      "So",
+      "restart, conclude, introduce a question",
+      "So, what did the doctor say?"
+     ],
+     [
+      "By the way / Incidentally",
+      "introduce a side topic",
+      "By the way, did you get my email?"
+     ],
+     [
+      "Speaking of which",
+      "build on what was just said",
+      "Speaking of which, how's your new flat?"
+     ],
+     [
+      "Anyway",
+      "end the digression, return to the topic",
+      "Anyway, as I was saying…"
+     ],
+     [
+      "As I was saying / Going back to…",
+      "pick up an interrupted thread",
+      "Going back to the timetable, …"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Right, I think we've covered everything. Shall we stop there?",
+     "“Right” to close a stage."
+    ]
+   ]
+  },
+  {
+   "titre": "Rephrasing, clarifying, correcting",
+   "texte": [
+    "When you are looking for words or want to be more exact, English uses “I mean”, “or rather”, “in other words”, “let me put it another way”.",
+    "“Actually” is mainly used to correct or politely contradict what was just said, or to give surprising information: “Actually, it was Tuesday, not Monday.” It is not a filler for every sentence.",
+    "“Sort of” and “kind of” soften a word (“it's sort of complicated”); very common in speech, best avoided in formal writing."
+   ],
+   "exemples": [
+    [
+     "It was a good meeting. I mean, nothing was decided, but people talked.",
+     "“I mean” clarifies or qualifies what came before."
+    ],
+    [
+     "“You're from Lyon, right?” “Actually, I'm from Grenoble.”",
+     "“Actually”: a polite correction."
+    ],
+    [
+     "It's kind of hard to explain.",
+     "“Kind of”: informal softening."
+    ]
+   ]
+  },
+  {
+   "titre": "Showing attitude, qualifying, contrasting",
+   "texte": [
+    "These markers show your position. “Mind you” (mainly BrE) adds a restriction to what you just said; “then again” gives the other side of the question; “still” keeps an idea in spite of everything; “after all” reminds people of an obvious reason.",
+    "“The thing is…” introduces the real problem; “to be honest / frankly” announces a direct opinion; “look” or “listen” at the start of a sentence signals firmness (even irritation), so use them carefully."
+   ],
+   "tableau": {
+    "entetes": [
+     "Marker",
+     "Function",
+     "Example"
+    ],
+    "lignes": [
+     [
+      "Mind you (BrE)",
+      "add a reservation",
+      "The hotel was great. Mind you, it was expensive."
+     ],
+     [
+      "Then again",
+      "give the other point of view",
+      "It's far. Then again, the trains are fast."
+     ],
+     [
+      "Still",
+      "maintain an idea despite something",
+      "It rained all week. Still, we had fun."
+     ],
+     [
+      "After all",
+      "remind of an obvious reason",
+      "Let him rest. After all, he's been ill."
+     ],
+     [
+      "The thing is",
+      "introduce the real problem",
+      "I'd love to come. The thing is, I'm working."
+     ],
+     [
+      "To be honest / Frankly",
+      "announce a frank opinion",
+      "To be honest, I didn't enjoy the film."
+     ],
+     [
+      "At the end of the day",
+      "what really matters in the end",
+      "At the end of the day, it's your decision."
+     ],
+     [
+      "Look / Listen",
+      "insist, take control (firm)",
+      "Look, I understand, but we can't change it now."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The salary isn't great. Then again, the team is lovely.",
+     "“Then again”: the opposite argument."
+    ]
+   ]
+  },
+  {
+   "titre": "Responding as a listener",
+   "texte": [
+    "In English, listeners show they are following with short responses (backchannelling). Staying silent can seem cold or uninterested, especially on the phone.",
+    "Agreement: “Exactly.”, “Absolutely.”, “Fair enough.” (= that's reasonable, I accept it). Understanding: “I see.”, “Right.”, “Mm-hm.”. Surprise: “Really?”, “No way!” (informal), “You're joking!”. Sympathy: “Oh no.”, “That's a shame.”, “I know.”"
+   ],
+   "exemples": [
+    [
+     "“I can't come because my daughter's ill.” “Oh, fair enough.”",
+     "“Fair enough”: you accept the reason."
+    ],
+    [
+     "“They've cancelled the trip.” “No way! Why?”",
+     "“No way!”: surprise, informal."
+    ]
+   ]
+  },
+  {
+   "titre": "Fillers that don't translate",
+   "texte": [
+    "Learners often translate the fillers of their first language word for word, which produces strange sentences. French speakers, for example, say “After, …” for “That said, …” or “Finally, …” for “I mean, …”. Learn the real English equivalents."
+   ],
+   "tableau": {
+    "entetes": [
+     "Idea",
+     "Translated (avoid)",
+     "Natural English"
+    ],
+    "lignes": [
+     [
+      "“in fact” in every sentence",
+      "In fact, … In fact, …",
+      "Actually (to correct), or nothing"
+     ],
+     [
+      "“as a result” (casual)",
+      "Of the blow…",
+      "So"
+     ],
+     [
+      "a sigh before changing stage",
+      "Good…",
+      "Well… / Right… / Anyway…"
+     ],
+     [
+      "“what I mean is”",
+      "Finally…",
+      "I mean… / Well…"
+     ],
+     [
+      "“that said”",
+      "After, it depends.",
+      "Then again / That said, it depends."
+     ],
+     [
+      "closing a story",
+      "Voilà.",
+      "So there you go. / That's it, really."
+     ],
+     [
+      "a tag at the end of a sentence",
+      "…what.",
+      "…you know."
+     ]
+    ]
+   }
+  }
+ ],
+ "formule": "Marker at the start + tiny pause: organise (right, so, anyway) · rephrase (I mean, actually) · qualify (mind you, then again, still) · respond (fair enough, I see)",
+ "prononciation": [
+  "Hesitant “Well” is often lengthened with a fall-rise: “We-ell…”; it signals a reservation.",
+  "“So” to restart is light and short; “So?” alone with a rise means “And what of it?”, which can sound rude.",
+  "“Actually” often reduces to /ˈæktʃli/ (three syllables instead of four) in fast speech.",
+  "Opening “Right” falls firmly; “…, right?” rising at the end asks for confirmation.",
+  "“Fair enough”: stress on “nough” /feər ɪˈnʌf/, falling tone."
+ ],
+ "erreurs": [
+  [
+   "After, it depends on the price.",
+   "Then again / That said, it depends on the price.",
+   "“After” is not a discourse marker for “that said”."
+  ],
+  [
+   "In fact, I went to the shop. In fact, it was closed.",
+   "I went to the shop, but it was actually closed.",
+   "“Actually” highlights unexpected information; don't repeat “in fact”."
+  ],
+  [
+   "Finally, I mean, it wasn't bad.",
+   "Well, I mean, it wasn't bad.",
+   "“Finally” means “at the end”, not “what I mean is”."
+  ],
+  [
+   "Good, let's start.",
+   "Right, let's start. / OK, let's start.",
+   "To organise, use right / OK."
+  ],
+  [
+   "It was expensive, voilà.",
+   "It was expensive, you know. / So there you go.",
+   "“Voilà” at the end is not natural in English."
+  ],
+  [
+   "Eventually, by the way, we need to finish the report.",
+   "Anyway, we need to finish the report.",
+   "To return to the main topic: anyway."
+  ],
+  [
+   "Like, I was, like, so tired, like.",
+   "I was so tired.",
+   "Repeated “like” is very informal and irritating outside casual chat."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Two colleagues chat during a coffee break at a company in Quebec City.",
+  "lignes": [
+   [
+    "Marc",
+    "So, how was the conference in Halifax?",
+    "“So” opens a new topic."
+   ],
+   [
+    "Leïla",
+    "Well, the talks were interesting. Mind you, the hotel was miles from the venue.",
+    "A positive answer with a reservation."
+   ],
+   [
+    "Marc",
+    "Oh no. Did you have to take taxis?",
+    "Sympathy."
+   ],
+   [
+    "Leïla",
+    "Actually, there was a shuttle. By the way, I met your old manager there.",
+    "A correction, then a digression."
+   ],
+   [
+    "Marc",
+    "No way! Speaking of which, is she still at the bank?",
+    "Surprise, then building on the topic."
+   ],
+   [
+    "Leïla",
+    "She's left, actually. Anyway, the thing is, they've offered me a job.",
+    "Back to the main news, and the real point."
+   ],
+   [
+    "Marc",
+    "Really? Are you going to take it?",
+    "Surprise and interest."
+   ],
+   [
+    "Leïla",
+    "I don't know. The salary's better. Then again, I'd have to move.",
+    "Both sides of the question."
+   ],
+   [
+    "Marc",
+    "Fair enough. At the end of the day, it's your call.",
+    "Acceptance and what matters in the end."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "anyway",
+   "Anyway, let's get back to the plan.",
+   "used to return to the main topic"
+  ],
+  [
+   "actually",
+   "Actually, I think you're right.",
+   "in fact (to correct or surprise)"
+  ],
+  [
+   "mind you",
+   "It's small. Mind you, it's cheap.",
+   "used to add a reservation"
+  ],
+  [
+   "then again",
+   "It's risky. Then again, it could pay off.",
+   "on the other hand"
+  ],
+  [
+   "fair enough",
+   "“I'm too tired.” “Fair enough.”",
+   "that's reasonable, I accept it"
+  ],
+  [
+   "by the way",
+   "By the way, Sam called.",
+   "used to introduce a new topic"
+  ],
+  [
+   "incidentally",
+   "Incidentally, the office is closed on Friday.",
+   "by the way (more formal)"
+  ],
+  [
+   "basically",
+   "Basically, we need more time.",
+   "in simple terms, in short"
+  ],
+  [
+   "frankly",
+   "Frankly, I don't care.",
+   "honestly and directly"
+  ],
+  [
+   "the thing is",
+   "The thing is, I don't have a car.",
+   "used to introduce the real problem"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. What is the function?",
+   "consigne": "Give the function of the marker: return to the topic, correct, add a reservation, give the other point of view.",
+   "items": [
+    [
+     "Anyway, as I was saying, the deadline is Friday.",
+     "return to the topic"
+    ],
+    [
+     "Actually, the meeting is at ten, not nine.",
+     "correct"
+    ],
+    [
+     "The flat is lovely. Mind you, it's noisy.",
+     "add a reservation"
+    ],
+    [
+     "It's a long trip. Then again, the scenery is amazing.",
+     "give the other point of view"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Choose the marker",
+   "consigne": "Complete with: by the way, after all, the thing is, still, fair enough, I mean.",
+   "items": [
+    [
+     "I'd love to help. ___, I'm away that weekend.",
+     "The thing is"
+    ],
+    [
+     "“I can't come, I'm ill.” “Oh, ___.”",
+     "fair enough"
+    ],
+    [
+     "Don't be too hard on him. ___, it's his first week.",
+     "After all"
+    ],
+    [
+     "It was a difficult year. ___, we finished the project.",
+     "Still"
+    ],
+    [
+     "___, have you seen my keys?",
+     "By the way"
+    ],
+    [
+     "The film was fine. ___, it wasn't brilliant, but I enjoyed it.",
+     "I mean"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Respond",
+   "consigne": "Suggest a natural listener response.",
+   "items": [
+    [
+     "“We've won the contract!”",
+     "Really? That's fantastic! / No way! Brilliant!"
+    ],
+    [
+     "“I can't stay late, I have to pick up my son.”",
+     "Fair enough. / Of course, no problem."
+    ],
+    [
+     "“My flight was cancelled.”",
+     "Oh no! That's a shame. / Oh no, what happened?"
+    ]
+   ]
+  },
+  {
+   "titre": "4. Correct the translated filler",
+   "consigne": "Replace the unnatural marker.",
+   "items": [
+    [
+     "After, it's your choice.",
+     "Then again / That said, it's your choice."
+    ],
+    [
+     "Good, let's begin the meeting.",
+     "Right / OK, let's begin the meeting."
+    ],
+    [
+     "The train was late, so of the blow I missed my interview.",
+     "The train was late, so I missed my interview."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Add the marker",
+   "consigne": "Rewrite the sentence, starting with a suitable marker.",
+   "items": [
+    [
+     "Let's stop talking about this; see you tomorrow.",
+     "Anyway, see you tomorrow."
+    ],
+    [
+     "The real problem is that I don't have time.",
+     "The thing is, I don't have time."
+    ],
+    [
+     "On the other hand, the price is reasonable. (use a spoken marker)",
+     "Then again, the price is reasonable."
+    ]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short exchange (5–6 lines) in which you tell a friend some news. Use at least five different markers.",
+   "items": [
+    [
+     "Example answer",
+     "A: So, guess what? I've been offered a place at the University of Montreal. B: No way! That's amazing! A: Well, it's not all good news. The thing is, there's no scholarship. B: Oh, I see. Then again, you could work part-time. A: True. Mind you, rent there isn't cheap. Anyway, I'll decide next week."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Markers organise (right, so, by the way, anyway), rephrase (I mean, actually), qualify (mind you, then again, still, after all) and show listening (fair enough, I see).",
+  "“Actually” corrects or surprises; it is not a filler for every sentence.",
+  "They come first, followed by a tiny pause; in formal writing, replace them with real linkers (however, in addition).",
+  "Don't translate your own fillers: “that said” = then again, not “after”; “I mean”, not “finally”."
+ ],
+ "liens": [
+  216,
+  171,
+  247,
+  278,
+  279
+ ],
+ "refs": [
+  "cam-using",
+  "bc-c1"
+ ]
+}

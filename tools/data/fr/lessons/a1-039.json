@@ -1,0 +1,211 @@
+{
+"n": 39,
+"niveau": "A1",
+"titre": "Le prétérit de « to be » (was / were)",
+"intro": "« Was » et « were » sont le passé de « to be » : ils servent à dire où on était, comment on se sentait, quel temps il faisait ou comment s’est passé un événement. C’est le premier pas pour parler du passé, avant les autres verbes (leçons 41 et 42).",
+"objectifs": [
+ "Conjuguer « to be » au passé : I was, you were, he was, we were, they were.",
+ "Former la négation (wasn't, weren't), les questions et les réponses courtes.",
+ "Utiliser les expressions de temps du passé : yesterday, last week, two days ago.",
+ "Dire « je suis né(e) » correctement : I was born, et utiliser there was / there were."
+],
+"sections": [
+ {
+  "titre": "Les formes",
+  "texte": [
+   "Au passé, « to be » n’a que deux formes : « was » avec I, he, she, it, et « were » avec you, we, they.",
+   "Le passé de « to be » traduit à la fois l’imparfait (j’étais) et le passé composé (j’ai été) français : « I was tired » = j’étais fatigué(e) ; « I was in Paris last week » = j’ai été / j’étais à Paris la semaine dernière."
+  ],
+  "tableau": {
+   "entetes": ["Sujet", "Présent", "Passé", "Négatif (forme courte)"],
+   "lignes": [
+    ["I", "am", "was", "wasn't"],
+    ["you", "are", "were", "weren't"],
+    ["he / she / it", "is", "was", "wasn't"],
+    ["we", "are", "were", "weren't"],
+    ["they", "are", "were", "weren't"]
+   ]
+  },
+  "exemples": [
+   ["I was at home yesterday.", "J’étais à la maison hier."],
+   ["We were very happy.", "Nous étions très heureux."],
+   ["It was cold last night.", "Il faisait froid hier soir."]
+  ],
+  "note": "« You were » s’emploie pour une seule personne comme pour plusieurs. « You was » est faux en anglais standard."
+ },
+ {
+  "titre": "Négation, questions et réponses courtes",
+  "texte": [
+   "Négation : on ajoute « not » : was not → wasn't, were not → weren't. On n’utilise jamais « did » avec « to be ».",
+   "Question : on inverse le verbe et le sujet : « Were you at work? », « Was the film good? ». Avec un mot interrogatif : « Where were you? », « Why was she late? »",
+   "Réponses courtes : « Yes, I was. / No, I wasn't. », « Yes, they were. / No, they weren't. »"
+  ],
+  "tableau": {
+   "entetes": ["Forme", "Exemple", "Français"],
+   "lignes": [
+    ["Négative", "She wasn't at the meeting.", "Elle n’était pas à la réunion."],
+    ["Question", "Were they in Brussels?", "Étaient-ils à Bruxelles ?"],
+    ["Réponse courte", "Yes, they were. / No, they weren't.", "Oui. / Non."],
+    ["Question en Wh-", "Where were you last night?", "Où étais-tu hier soir ?"],
+    ["« Comment c’était ? »", "How was your weekend? — It was great!", "Comment s’est passé ton week-end ? — Super !"]
+   ]
+  },
+  "exemples": [
+   ["Was the exam difficult? — No, it wasn't.", "L’examen était difficile ? — Non."],
+   ["Why were you late? — Because the bus was late.", "Pourquoi étais-tu en retard ? — Parce que le bus était en retard."]
+  ]
+ },
+ {
+  "titre": "Les usages",
+  "texte": [
+   "Comme au présent, « was / were » sert pour le lieu, l’état, les sentiments, l’âge, la météo, la description : « I was 18 in 2010 », « The hotel was very nice ».",
+   "« How was…? » (Comment était… ? Comment s’est passé… ?) est la question idéale pour demander l’avis de quelqu’un sur un événement passé : « How was the party? », « How was your trip? ».",
+   "Au passé, « there is / there are » devient « there was / there were » : « There was a problem. », « There were a lot of people. »"
+  ],
+  "exemples": [
+   ["My grandfather was a teacher.", "Mon grand-père était enseignant."],
+   ["There were twenty people at the party.", "Il y avait vingt personnes à la fête."],
+   ["How was your trip to Kribi? — It was wonderful, but the road was long.", "Comment s’est passé ton voyage à Kribi ? — C’était magnifique, mais la route était longue."]
+  ]
+ },
+ {
+  "titre": "« I was born » : je suis né(e)",
+  "texte": [
+   "En anglais, la naissance est toujours au passé : « I was born in 1995 », « She was born in Bafoussam ». Le français dit « je suis né » au présent apparent, mais en anglais « I am born » est faux.",
+   "Prépositions : « in » + année, mois ou lieu (I was born in May / in Liège) ; « on » + date précise (I was born on the 3rd of March)."
+  ],
+  "exemples": [
+   ["Where were you born? — I was born in Quebec City.", "Où es-tu né(e) ? — Je suis né(e) à Québec."],
+   ["My son was born on the 12th of June 2020.", "Mon fils est né le 12 juin 2020."]
+  ]
+ },
+ {
+  "titre": "Les expressions de temps du passé",
+  "texte": [
+   "« yesterday » (hier), « yesterday morning / afternoon / evening », « last night » (hier soir, cette nuit), « last week / month / year / Monday » (la semaine dernière…), « in 2015 », « when I was a child » (quand j’étais enfant).",
+   "« Ago » (il y a) se place APRÈS la durée : « two days ago » (il y a deux jours), « ten years ago ». Pas de préposition devant « last » et « yesterday » : « last week », pas « the last week » ni « in last week »."
+  ],
+  "tableau": {
+   "entetes": ["Anglais", "Français"],
+   "lignes": [
+    ["yesterday", "hier"],
+    ["the day before yesterday", "avant-hier"],
+    ["last night", "hier soir, la nuit dernière"],
+    ["last week / last year", "la semaine dernière / l’année dernière"],
+    ["three days ago", "il y a trois jours"],
+    ["when I was a child", "quand j’étais enfant"]
+   ]
+  },
+  "exemples": [
+   ["I was in Montreal three years ago.", "J’étais à Montréal il y a trois ans."],
+   ["When I was a child, I was very shy.", "Quand j’étais enfant, j’étais très timide."]
+  ]
+ }
+],
+"formule": "I / he / she / it was · you / we / they were · wasn't / weren't · Was…? Were…? · I was born in…",
+"prononciation": [
+ "Dans une phrase affirmative, « was » et « were » sont faibles : « I was tired » = /aɪ wəz ˈtaɪəd/ ; « we were late » = /wi wə ˈleɪt/.",
+ "Dans les réponses courtes et quand on insiste, ils sont forts : « Yes, I WAS » /wɒz/, « Yes, they WERE » /wɜː/.",
+ "« wasn't » /ˈwɒznt/ et « weren't » /wɜːnt/ : le t final est léger, mais le n s’entend bien.",
+ "Ne confondez pas « were » /wɜː/ et « where » /weə/ : « Where were you? » = /ˈweə wə ju/.",
+ "« born » /bɔːn/ : voyelle longue, le r ne se prononce pas en anglais britannique."
+],
+"erreurs": [
+ ["I am born in 1995.", "I was born in 1995.", "La naissance se dit toujours au passé."],
+ ["You was late.", "You were late.", "Avec you, we, they : « were »."],
+ ["They wasn't at home.", "They weren't at home.", "they + weren't."],
+ ["Did you be at home?", "Were you at home?", "Jamais « did » avec « to be »."],
+ ["Where you were?", "Where were you?", "Question : le verbe avant le sujet."],
+ ["I was tired the last week.", "I was tired last week.", "Pas d’article devant « last week »."],
+ ["I was in Paris since two years.", "I was in Paris two years ago.", "« Il y a » + durée = durée + ago."],
+ ["There was many people.", "There were a lot of people.", "Devant un pluriel : « there were »."]
+],
+"dialogue": {
+ "contexte": "Lundi matin, dans un bureau à Douala. Joël demande à sa collègue Rose comment s’est passé son week-end.",
+ "lignes": [
+  ["Joël", "Good morning, Rose! How was your weekend?", "Bonjour, Rose ! Comment s’est passé ton week-end ?"],
+  ["Rose", "It was great, thanks! I was in Limbe with my family.", "C’était super, merci ! J’étais à Limbe avec ma famille."],
+  ["Joël", "Lucky you! Was the weather good?", "Quelle chance ! Il faisait beau ?"],
+  ["Rose", "Yes, it was sunny and the beach was beautiful. But there were a lot of people.", "Oui, il faisait soleil et la plage était magnifique. Mais il y avait beaucoup de monde."],
+  ["Joël", "Were your children happy?", "Tes enfants étaient contents ?"],
+  ["Rose", "Oh yes, they were very happy. And you? Where were you on Saturday? You weren't at the football match.", "Oh oui, ils étaient très contents. Et toi ? Où étais-tu samedi ? Tu n’étais pas au match de foot."],
+  ["Joël", "No, I wasn't. I was at home. I was ill.", "Non. J’étais à la maison. J’étais malade."],
+  ["Rose", "Oh no! Are you OK now?", "Oh non ! Ça va mieux maintenant ?"],
+  ["Joël", "Yes, I'm fine now, thanks.", "Oui, ça va bien maintenant, merci."]
+ ]
+},
+"mots": [
+ ["yesterday", "I was at the doctor's yesterday.", "hier"],
+ ["last", "We were in Ghent last month.", "dernier (last week = la semaine dernière)"],
+ ["ago", "She was here ten minutes ago.", "il y a (après la durée)"],
+ ["born", "I was born in Douala.", "né (I was born = je suis né)"],
+ ["weekend", "How was your weekend?", "le week-end"],
+ ["trip", "The trip was long but fun.", "un voyage, une excursion"],
+ ["holiday", "Our holiday was fantastic.", "les vacances (US : vacation)"],
+ ["crowded", "The train was very crowded.", "bondé, plein de monde"],
+ ["boring", "The film was boring.", "ennuyeux"],
+ ["ill", "I was ill last week.", "malade (GB ; US : sick)"]
+],
+"exercices": [
+ {
+  "titre": "1. Was ou were ?",
+  "consigne": "Complète avec was ou were.",
+  "items": [
+   ["I ___ tired yesterday.", "was"],
+   ["They ___ at the cinema.", "were"],
+   ["The weather ___ very hot.", "was"],
+   ["You ___ right!", "were"],
+   ["My parents ___ teachers.", "were"],
+   ["There ___ a lot of cars on the road.", "were"]
+  ]
+ },
+ {
+  "titre": "2. Mettre au négatif",
+  "consigne": "Écris la phrase au négatif (forme courte).",
+  "items": [
+   ["She was at work.", "She wasn't at work."],
+   ["We were late.", "We weren't late."],
+   ["The film was interesting.", "The film wasn't interesting."],
+   ["They were in Canada.", "They weren't in Canada."]
+  ]
+ },
+ {
+  "titre": "3. Questions et réponses courtes",
+  "consigne": "Écris la question, puis la réponse courte indiquée.",
+  "items": [
+   ["you / at home last night? (oui)", "Were you at home last night? — Yes, I was."],
+   ["the hotel / expensive? (non)", "Was the hotel expensive? — No, it wasn't."],
+   ["your friends / at the party? (oui)", "Were your friends at the party? — Yes, they were."],
+   ["Paul / in the office yesterday? (non)", "Was Paul in the office yesterday? — No, he wasn't."],
+   ["Where / you / born?", "Where were you born?"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je suis né en 1998.", "I was born in 1998."],
+   ["Où étais-tu hier ?", "Where were you yesterday?"],
+   ["Il y a deux jours, il faisait très froid.", "Two days ago, it was very cold."],
+   ["Comment s’est passé ton voyage ?", "How was your trip?"],
+   ["Il y avait beaucoup de monde au marché.", "There were a lot of people at the market."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Raconte ton dernier week-end en quatre ou cinq phrases avec was, were, wasn't, weren't et there was / there were.",
+  "items": [
+   ["Exemple de réponse", "Last weekend I was in Brussels with my sister. The weather wasn't very good: it was cloudy and cold. On Saturday we were at a concert. There were a lot of people and the music was fantastic. We were very tired on Sunday!"]
+  ]
+ }
+],
+"a_retenir": [
+ "was avec I, he, she, it ; were avec you, we, they.",
+ "Négatif : wasn't / weren't ; question : Was she…? Were you…? ; jamais « did » avec « be ».",
+ "How was your weekend? — It was great! ; there was / there were.",
+ "Naissance au passé : I was born in 1995 / on the 3rd of March.",
+ "yesterday, last week (sans article), two days ago (ago après la durée)."
+],
+"liens": [1, 4, 16, 41, 42],
+"refs": ["cam-verbs", "bc-a1a2"]
+}

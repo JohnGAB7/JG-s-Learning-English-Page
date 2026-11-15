@@ -1,0 +1,227 @@
+{
+"n": 22,
+"niveau": "A1",
+"titre": "Days, months and dates",
+"intro": "Days, months and dates help you make appointments, talk about birthdays and fill in forms. In English they start with a capital letter, and we say dates with ordinal numbers (first, second, third…).",
+"objectifs": [
+ "Name the days of the week, the months and the seasons.",
+ "Use the right preposition: on Monday, in July, at the weekend.",
+ "Say and write a date in British and American English (the 14th of November / November 14th).",
+ "Ask and give the date: What's the date today? When's your birthday?"
+],
+"sections": [
+ {
+  "titre": "Days of the week",
+  "texte": [
+   "In English, days always start with a capital letter: Monday, Tuesday… In the UK the week starts on Monday; many American and Canadian calendars start on Sunday.",
+   "Use “on” before a day: “on Monday” (one Monday). For a habit, use the plural: “on Mondays” (every Monday), or say “every Monday”."
+  ],
+  "tableau": {
+   "entetes": ["Day", "Short form", "Example"],
+   "lignes": [
+    ["Monday", "Mon", "I start work on Monday."],
+    ["Tuesday", "Tue", "The gym is closed on Tuesdays."],
+    ["Wednesday", "Wed", "See you on Wednesday."],
+    ["Thursday", "Thu", "We have a meeting every Thursday."],
+    ["Friday", "Fri", "Friday is my favourite day."],
+    ["Saturday", "Sat", "I go to the market on Saturdays."],
+    ["Sunday", "Sun", "On Sunday I relax."]
+   ]
+  },
+  "exemples": [
+   ["I have an English class on Wednesday.", "One Wednesday: this week."],
+   ["The market is open on Saturdays.", "Every Saturday: a habit."],
+   ["What do you do at the weekend?", "British English; American English says “on the weekend”."]
+  ]
+ },
+ {
+  "titre": "Months and seasons",
+  "texte": [
+   "Months also start with a capital letter. Use “in” before a month, a season or a year: “in May”, “in summer”, “in 2026”.",
+   "Seasons use small letters. British English says “autumn”; American and Canadian English say “fall”."
+  ],
+  "tableau": {
+   "entetes": ["Month", "Short form", "Month", "Short form"],
+   "lignes": [
+    ["January", "Jan", "July", "Jul"],
+    ["February", "Feb", "August", "Aug"],
+    ["March", "Mar", "September", "Sep / Sept"],
+    ["April", "Apr", "October", "Oct"],
+    ["May", "May", "November", "Nov"],
+    ["June", "Jun", "December", "Dec"]
+   ]
+  },
+  "exemples": [
+   ["My birthday is in June.", "in + month."],
+   ["It's very cold in Montreal in winter.", "in + season."],
+   ["The leaves are red in autumn.", "American English: in the fall."]
+  ],
+  "note": "Seasons: spring, summer, autumn / fall, winter. In tropical countries people also talk about “the rainy season” and “the dry season”."
+ },
+ {
+  "titre": "Ordinal numbers for dates",
+  "texte": [
+   "For dates, English uses ordinal numbers: “the fourteenth”, not “the fourteen”. We often write them short: 1st, 2nd, 3rd, 4th…",
+   "Most ordinals end in -th: fourth, sixth, tenth. Learn the irregular ones: first, second, third, fifth, eighth, ninth, twelfth, and the tens in -ieth: twentieth, thirtieth.",
+   "After 20, only the last number changes: twenty-first (21st), twenty-second (22nd), thirty-first (31st). Lesson 89 looks at ordinals in more detail."
+  ],
+  "tableau": {
+   "entetes": ["Number", "Short", "In words"],
+   "lignes": [
+    ["1", "1st", "first"],
+    ["2", "2nd", "second"],
+    ["3", "3rd", "third"],
+    ["4", "4th", "fourth"],
+    ["5", "5th", "fifth"],
+    ["8", "8th", "eighth"],
+    ["9", "9th", "ninth"],
+    ["12", "12th", "twelfth"],
+    ["20", "20th", "twentieth"],
+    ["21", "21st", "twenty-first"],
+    ["22", "22nd", "twenty-second"],
+    ["23", "23rd", "twenty-third"],
+    ["30", "30th", "thirtieth"],
+    ["31", "31st", "thirty-first"]
+   ]
+  }
+ },
+ {
+  "titre": "Writing and saying a date",
+  "texte": [
+   "In British English, write the day and then the month: 14 November 2026 or 14/11/2026. Say: “the fourteenth of November” or “November the fourteenth”.",
+   "In American English, the month comes first: November 14, 2026 or 11/14/2026. Say: “November fourteenth”. Careful: 03/04 is 3 April in the UK but March 4 in the USA. In an international email, write the month in letters.",
+   "Say years in pairs: 1998 = “nineteen ninety-eight”. From 2000: 2005 = “two thousand and five”; 2026 = “twenty twenty-six” or “two thousand and twenty-six”."
+  ],
+  "tableau": {
+   "entetes": ["", "British English", "American English"],
+   "lignes": [
+    ["Write", "14 November 2026 · 14/11/2026", "November 14, 2026 · 11/14/2026"],
+    ["Say", "the fourteenth of November", "November fourteenth"],
+    ["1 May", "the first of May", "May first"]
+   ]
+  },
+  "exemples": [
+   ["I was born on the 3rd of May 1998.", "Say: the third of May, nineteen ninety-eight."],
+   ["The course starts on 2 February.", "Say: on the second of February."]
+  ]
+ },
+ {
+  "titre": "Asking the day and the date",
+  "texte": [
+   "“What day is it today?” asks for the day of the week: “It's Friday.” “What's the date today?” asks for the date: “It's the fourteenth of November.” Like the time, the answer starts with “It's”.",
+   "Use “on” before an exact date: “on the 25th of December”, “on my birthday”.",
+   "Use no preposition before today, tomorrow, yesterday, this, next, last, every: “See you next Monday”, “I was in Lyon last month”."
+  ],
+  "exemples": [
+   ["What day is it today? — It's Tuesday.", "The day of the week."],
+   ["What's the date today? — It's the first of March.", "The date."],
+   ["When's your birthday? — It's on the 9th of October.", "on + exact date."],
+   ["The shop is closed next Monday.", "No “on” before next."]
+  ]
+ }
+],
+"formule": "on + day / date (on Monday, on 5 May) · in + month / season / year (in May, in 2026) · at the weekend",
+"prononciation": [
+ "“Wednesday” is /ˈwenzdeɪ/: don't say the first d (“wenz-day”).",
+ "Don't mix up “Tuesday” /ˈtjuːzdeɪ/ (with a “tyoo” sound) and “Thursday” /ˈθɜːzdeɪ/ (tongue between the teeth).",
+ "The -th of ordinals is /θ/: fourth, fifth, sixth. In “fifth” and “twelfth” you hear /fθ/: push the air out and keep the th.",
+ "In “the fourteenth of November”, “the” and “of” are weak: /ðə ˌfɔːˈtiːnθ əv nəʊˈvembə/.",
+ "Stress: JANuary, FEBruary, AUgust /ˈɔːɡəst/ (stress at the start), but sepTEMber, ocTOber, noVEMber, deCEMber (stress on the second syllable)."
+],
+"erreurs": [
+ ["I see her on monday.", "I see her on Monday.", "Days and months need a capital letter."],
+ ["in Monday", "on Monday", "Use “on” before a day."],
+ ["on July", "in July", "Use “in” before a month, a season or a year."],
+ ["We are the 14th.", "It's the 14th.", "For the date, say “It's…”, never “We are…”."],
+ ["My birthday is the 2 May. (said “the two May”)", "My birthday is on the 2nd of May. (said “the second of May”)", "Say dates with ordinal numbers."],
+ ["See you on next Friday.", "See you next Friday.", "No preposition before next, last, this, every."],
+ ["the twenty-oneth of June", "the twenty-first of June", "After 20, only the last number changes, and it keeps its irregular form (first, second, third)."]
+],
+"dialogue": {
+ "contexte": "In Yaoundé, Ngono and Paul are planning a birthday party.",
+ "lignes": [
+  ["Ngono", "When's your sister's birthday?", "“When's” = when is."],
+  ["Paul", "It's on the twenty-second of December.", "on + date, said with an ordinal."],
+  ["Ngono", "What day is that?", "Which day of the week?"],
+  ["Paul", "Let me check the calendar… It's a Tuesday.", "“a Tuesday” = one Tuesday."],
+  ["Ngono", "A Tuesday? People work on Tuesdays. Let's have the party at the weekend.", "“on Tuesdays” = every Tuesday."],
+  ["Paul", "Good idea. Saturday the nineteenth?", "A short way to give a day and a date."],
+  ["Ngono", "Perfect. And it's the rainy season, so let's book a room.", "Season in a tropical country."],
+  ["Paul", "OK, so I need to call the restaurant tomorrow.", "No preposition before “tomorrow”."]
+ ]
+},
+"mots": [
+ ["weekday", "The bank is open on weekdays.", "any day from Monday to Friday"],
+ ["weekend", "We go to the beach at the weekend.", "Saturday and Sunday"],
+ ["date", "What's the date today?", "the number of the day and the month"],
+ ["birthday", "Happy birthday!", "the day you were born, every year"],
+ ["calendar", "Write it on the calendar.", "a page or app that shows days and months"],
+ ["month", "There are twelve months in a year.", "one of the twelve parts of a year"],
+ ["year", "See you next year!", "twelve months"],
+ ["today", "Today is Monday.", "this day"],
+ ["tomorrow", "The exam is tomorrow.", "the day after today"],
+ ["yesterday", "I was in Liège yesterday.", "the day before today"]
+],
+"exercices": [
+ {
+  "titre": "1. On, in or at?",
+  "consigne": "Complete with on, in or at.",
+  "items": [
+   ["I play football ___ Fridays.", "on"],
+   ["Her birthday is ___ March.", "in"],
+   ["We relax ___ the weekend.", "at (US: on)"],
+   ["They got married ___ 2019.", "in"],
+   ["The shops are closed ___ 25 December.", "on"],
+   ["It snows ___ winter in Quebec.", "in"]
+  ]
+ },
+ {
+  "titre": "2. Ordinal numbers",
+  "consigne": "Write the ordinal number in words.",
+  "items": [
+   ["1st", "first"],
+   ["2nd", "second"],
+   ["3rd", "third"],
+   ["12th", "twelfth"],
+   ["21st", "twenty-first"]
+  ]
+ },
+ {
+  "titre": "3. Say the date",
+  "consigne": "Write how you say these dates in British English (day/month).",
+  "items": [
+   ["14/11", "the fourteenth of November"],
+   ["3/5", "the third of May"],
+   ["31/1", "the thirty-first of January"],
+   ["22/8", "the twenty-second of August"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["We are the first of April.", "It's the first of April."],
+   ["My birthday is on August.", "My birthday is in August."],
+   ["I work in Saturdays.", "I work on Saturdays."],
+   ["See you on next Monday!", "See you next Monday!"],
+   ["She was born on 2001.", "She was born in 2001."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write three sentences: today's date, the date of your birthday, and what you do at the weekend.",
+  "items": [
+   ["Model answer", "Today is Saturday the fourteenth of November. My birthday is on the 30th of July. At the weekend, I visit my family and I go to the market."]
+  ]
+ }
+],
+"a_retenir": [
+ "Days and months: capital letter (Monday, July); seasons: small letter (summer, autumn / fall).",
+ "on Monday, on Mondays, on 5 May · in July, in summer, in 2026 · at the weekend (US: on the weekend).",
+ "Say dates with ordinals: the fourteenth of November (UK), November fourteenth (US).",
+ "UK: day / month; USA: month / day. If in doubt, write the month in letters.",
+ "What day is it? — It's Friday. What's the date? — It's the 1st of March. No preposition before next, last, this, every."
+],
+"liens": [18, 20, 21, 89],
+"refs": ["bc-prep-time", "cam-using"]
+}

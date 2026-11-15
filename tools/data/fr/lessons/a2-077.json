@@ -1,0 +1,197 @@
+{
+"n": 77,
+"niveau": "A2",
+"titre": "Écrire un e-mail simple",
+"intro": "Savoir écrire un e-mail clair en anglais sert à réserver, demander une information, remercier ou s’excuser. Un e-mail anglais suit un plan simple et utilise des formules fixes, différentes des formules françaises (« Cordialement », « Bonjour Madame »). Cette leçon vous les donne, du registre amical au registre formel.",
+"objectifs": [
+ "Organiser un e-mail : objet, salutation, introduction, message, conclusion, formule finale.",
+ "Choisir la salutation et la formule finale selon le registre (Hi Tom / Dear Ms Martin ; Best wishes / Kind regards).",
+ "Utiliser les phrases clés : I'm writing to…, Could you…?, I've attached…, I look forward to hearing from you.",
+ "Éviter les calques du français (« I write you », « in attachment », « Cordially »)."
+],
+"sections": [
+ {
+  "titre": "Le plan d’un e-mail",
+  "texte": [
+   "Un bon e-mail est court et organisé. Chaque partie a un rôle : l’objet dit le sujet en quelques mots, la première phrase donne la raison du message, puis viennent les détails et la demande, et enfin une phrase de conclusion.",
+   "À l’écrit anglais, on met une virgule après la salutation (« Dear Anna, ») et on commence la phrase suivante par une majuscule, sur une nouvelle ligne. On saute une ligne entre les paragraphes, sans retrait."
+  ],
+  "tableau": {
+   "entetes": ["Partie", "Exemple", "Rôle"],
+   "lignes": [
+    ["Subject (objet)", "Booking for 12 May", "le sujet en 2 à 5 mots"],
+    ["Greeting (salutation)", "Dear Mr Lambert, / Hi Sara,", "saluer selon le registre"],
+    ["Opening (ouverture)", "I'm writing to book a room.", "dire pourquoi on écrit"],
+    ["Body (corps)", "We'd like a double room for two nights. Could you…?", "détails et demande"],
+    ["Closing (conclusion)", "I look forward to hearing from you.", "terminer poliment"],
+    ["Sign-off + nom", "Kind regards, / Best wishes, + Amina Diallo", "formule finale et signature"]
+   ]
+  }
+ },
+ {
+  "titre": "Saluer et conclure selon le registre",
+  "texte": [
+   "Formel (une entreprise, une administration, quelqu’un qu’on ne connaît pas) : « Dear Mr Lambert, » (homme), « Dear Ms Lambert, » (femme, sans préjuger de son statut marital), « Dear Sir or Madam, » (nom inconnu). On termine par « Kind regards, » ou « Best regards, » ; dans une lettre très formelle, « Yours sincerely, » (nom connu) ou « Yours faithfully, » (GB, nom inconnu).",
+   "Neutre (un collègue, un client connu) : « Dear Anna, » ou « Hello Anna, » ; fin : « Best wishes, » ou « Kind regards, ».",
+   "Amical (un ami, la famille) : « Hi Tom, », « Hey Tom, » (très familier) ; fin : « See you soon, », « Love, » (famille, amis proches), « Cheers, » (GB, familier)."
+  ],
+  "tableau": {
+   "entetes": ["Registre", "Salutation", "Formule finale", "Équivalent français"],
+   "lignes": [
+    ["Formel, nom inconnu", "Dear Sir or Madam,", "Yours faithfully, (GB) / Kind regards,", "Madame, Monsieur, … Veuillez agréer…"],
+    ["Formel, nom connu", "Dear Ms Dubois,", "Kind regards, / Yours sincerely,", "Madame, … Cordialement"],
+    ["Neutre", "Dear Paul, / Hello Paul,", "Best wishes, / Best regards,", "Bonjour Paul, … Bien à vous"],
+    ["Amical", "Hi Paul,", "See you soon, / Love, / Cheers,", "Salut Paul, … Bises / À bientôt"]
+   ]
+  },
+  "note": "En anglais britannique, « Mr », « Ms », « Mrs », « Dr » s’écrivent sans point ; en anglais américain, avec un point (Mr., Ms.). On utilise le nom de famille, jamais le prénom seul après Mr / Ms : « Dear Ms Dubois », pas « Dear Ms Claire »."
+ },
+ {
+  "titre": "Les phrases d’ouverture",
+  "texte": [
+   "Pour dire pourquoi on écrit : « I'm writing to… » (+ verbe) ou « I'm writing about… » (+ nom). C’est le présent continu, jamais « I write you ».",
+   "Pour répondre : « Thank you for your email. », « Thanks for your message. » (plus familier). Pour un ami : « I hope you're well. » / « How are you? »"
+  ],
+  "exemples": [
+   ["I'm writing to ask about your English courses.", "Je vous écris pour me renseigner sur vos cours d’anglais."],
+   ["I'm writing about my order number 4521.", "Je vous écris au sujet de ma commande n° 4521."],
+   ["Thank you for your quick reply.", "Merci pour votre réponse rapide."],
+   ["Hi Léa, I hope you're well! Thanks for the photos.", "Salut Léa, j’espère que tu vas bien ! Merci pour les photos."]
+  ]
+ },
+ {
+  "titre": "Demander, informer, joindre un fichier",
+  "texte": [
+   "Pour demander poliment : « Could you send me…? », « Could you tell me…? », « I'd like to… » (leçons 34 et 57). Avec « please » : « Please let me know if… » (Merci de me dire si…).",
+   "Pour une pièce jointe : « I've attached… » ou « Please find attached… » (formel). L’expression française « en pièce jointe » ne se traduit pas par « in attachment ».",
+   "Pour s’excuser : « Sorry for the late reply. » / « I'm sorry, but I can't come on Friday. »"
+  ],
+  "exemples": [
+   ["Could you send me the price list, please?", "Pourriez-vous m’envoyer la liste des prix, s’il vous plaît ?"],
+   ["I've attached my CV.", "Vous trouverez mon CV en pièce jointe."],
+   ["Please let me know if you need more information.", "N’hésitez pas à me dire si vous avez besoin de plus d’informations."],
+   ["Sorry for the late reply. I was on holiday.", "Désolé(e) pour ma réponse tardive. J’étais en vacances."]
+  ]
+ },
+ {
+  "titre": "Conclure",
+  "texte": [
+   "Formel : « I look forward to hearing from you. » (Dans l’attente de votre réponse.) Attention : « look forward to » est suivi de -ing (« to hearing », pas « to hear »).",
+   "Neutre : « Thanks in advance. » (Merci d’avance.), « Let me know if you have any questions. »",
+   "Amical : « See you soon! », « Write soon! », « Speak soon! »"
+  ],
+  "exemples": [
+   ["I look forward to hearing from you.", "Dans l’attente de votre réponse."],
+   ["Thanks in advance for your help.", "Merci d’avance pour votre aide."],
+   ["Can't wait to see you! Love, Mariam", "J’ai hâte de te voir ! Bises, Mariam"]
+  ]
+ }
+],
+"formule": "Dear Ms… / Hi…, — I'm writing to… — Could you…? / I've attached… — I look forward to hearing from you. — Kind regards, / Best wishes,",
+"prononciation": [
+ "« email » /ˈiːmeɪl/ : accent sur la première syllabe (« I-meil »).",
+ "« attached » /əˈtætʃt/ : deux syllabes seulement, le -ed se prononce /t/.",
+ "« Ms » se prononce /mɪz/ ou /məz/ ; « Mrs » /ˈmɪsɪz/ ; « Mr » /ˈmɪstə/.",
+ "« sincerely » /sɪnˈsɪəli/ : accent sur la deuxième syllabe ; « regards » /rɪˈɡɑːdz/.",
+ "Pour dicter une adresse : @ = « at », . = « dot », - = « hyphen » ou « dash », _ = « underscore » : anna.diallo@mail.com = « anna dot diallo at mail dot com »."
+],
+"erreurs": [
+ ["I write you to ask a question.", "I'm writing to ask a question.", "Formule fixe au présent continu, sans « you »."],
+ ["Please find in attachment my CV.", "Please find attached my CV. / I've attached my CV.", "« En pièce jointe » = attached."],
+ ["I wait for your answer.", "I look forward to hearing from you.", "Formule de conclusion polie."],
+ ["I look forward to hear from you.", "I look forward to hearing from you.", "« Look forward to » + -ing."],
+ ["Dear Madam Smith,", "Dear Ms Smith,", "Avec un nom : Ms / Mrs / Mr + nom de famille."],
+ ["Cordially,", "Kind regards, / Best regards,", "« Cordialement » ne se traduit pas mot à mot."],
+ ["Hello Mister,", "Dear Sir or Madam, / Hello Mr Brown,", "« Mister » seul ne s’utilise pas ; Mr + nom."],
+ ["Dear John. I hope you are fine.", "Dear John, I hope you're well.", "Virgule après la salutation ; « I hope you're well » est plus naturel."]
+],
+"dialogue": {
+ "contexte": "Dans un bureau à Bruxelles, Ahmed aide sa collègue Julie à écrire un e-mail en anglais à un hôtel de Dublin.",
+ "lignes": [
+  ["Julie", "Ahmed, can you help me? I need to write to a hotel in Dublin.", "Ahmed, tu peux m’aider ? Je dois écrire à un hôtel à Dublin."],
+  ["Ahmed", "Sure. Do you know the manager's name?", "Bien sûr. Tu connais le nom du responsable ?"],
+  ["Julie", "No, I don't.", "Non."],
+  ["Ahmed", "Then start with “Dear Sir or Madam”. Then say why you're writing.", "Alors commence par « Dear Sir or Madam ». Puis dis pourquoi tu écris."],
+  ["Julie", "“I'm writing to book two single rooms for the 3rd and 4th of June.” Is that OK?", "« Je vous écris pour réserver deux chambres simples les 3 et 4 juin. » C’est bien ?"],
+  ["Ahmed", "Perfect. Now ask your question politely.", "Parfait. Maintenant, pose ta question poliment."],
+  ["Julie", "“Could you tell me if breakfast is included?”", "« Pourriez-vous me dire si le petit déjeuner est compris ? »"],
+  ["Ahmed", "Great. And finish with “I look forward to hearing from you. Kind regards.”", "Super. Et termine par « Dans l’attente de votre réponse. Cordialement. »"],
+  ["Julie", "Not “Cordially”?", "Pas « Cordially » ?"],
+  ["Ahmed", "No, nobody says that! “Kind regards” is perfect.", "Non, personne ne dit ça ! « Kind regards » est parfait."]
+ ]
+},
+"mots": [
+ ["subject", "Write a clear subject line.", "l’objet (d’un e-mail)"],
+ ["attach", "I've attached the document.", "joindre (un fichier)"],
+ ["attachment", "The attachment is too big.", "la pièce jointe"],
+ ["reply", "Thank you for your reply.", "une réponse ; répondre"],
+ ["forward", "Can you forward me the email?", "transférer (un e-mail)"],
+ ["regards", "Kind regards, Amina", "salutations (formule finale)"],
+ ["inbox", "My inbox is full.", "la boîte de réception"],
+ ["sincerely", "Yours sincerely, Paul Martin", "sincèrement (formule finale formelle)"],
+ ["look forward to", "I look forward to meeting you.", "avoir hâte de, attendre avec impatience (+ -ing)"],
+ ["in advance", "Thanks in advance.", "d’avance, à l’avance"]
+],
+"exercices": [
+ {
+  "titre": "1. Formel ou amical ?",
+  "consigne": "Écris F (formel) ou A (amical).",
+  "items": [
+   ["Dear Sir or Madam,", "F"],
+   ["Hi Sam,", "A"],
+   ["Kind regards,", "F"],
+   ["See you soon!", "A"],
+   ["I look forward to hearing from you.", "F"],
+   ["Love, Maya", "A"]
+  ]
+ },
+ {
+  "titre": "2. Compléter les formules",
+  "consigne": "Complète avec un mot.",
+  "items": [
+   ["I'm ___ to ask about your prices.", "writing"],
+   ["I've ___ my CV.", "attached"],
+   ["I look forward to ___ from you.", "hearing"],
+   ["Thanks in ___ for your help.", "advance"],
+   ["___ you send me the timetable, please?", "Could"]
+  ]
+ },
+ {
+  "titre": "3. Rendre plus formel",
+  "consigne": "Réécris la phrase dans un registre formel.",
+  "items": [
+   ["Hi Mr Brown,", "Dear Mr Brown,"],
+   ["Send me the price list.", "Could you send me the price list, please?"],
+   ["Write back soon!", "I look forward to hearing from you."],
+   ["Cheers, Tom", "Kind regards, Tom Mensah"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je vous écris pour réserver une table.", "I'm writing to book a table."],
+   ["Vous trouverez le document en pièce jointe.", "Please find attached the document. / I've attached the document."],
+   ["Dans l’attente de votre réponse.", "I look forward to hearing from you."],
+   ["Merci pour votre e-mail.", "Thank you for your email."],
+   ["Cordialement, Claire Dupont", "Kind regards, Claire Dupont"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Écris un e-mail formel (60 à 80 mots) à une école de langues de Toronto pour demander des informations sur les cours d’été : dates, prix, logement.",
+  "items": [
+   ["Exemple de réponse", "Subject: Summer English courses. Dear Sir or Madam, I'm writing to ask about your summer English courses. I'm a 24-year-old student from Cameroon and my level is A2. Could you tell me the dates and the price of the July course? I'd also like to know if you can help with accommodation. I've attached my last English test. I look forward to hearing from you. Kind regards, Brice Nkoulou"]
+  ]
+ }
+],
+"a_retenir": [
+ "Plan : objet → salutation → raison (I'm writing to…) → détails et demande → conclusion → formule finale.",
+ "Formel : Dear Mr / Ms + nom, ou Dear Sir or Madam ; Kind regards / Yours sincerely / Yours faithfully.",
+ "Amical : Hi + prénom ; See you soon / Love / Cheers.",
+ "Formules clés : Could you…? · I've attached… · Please let me know if… · I look forward to hearing from you (+ -ing).",
+ "Jamais : I write you, in attachment, Cordially, Dear Madam Smith."
+],
+"liens": [34, 57, 75, 78, 128],
+"refs": ["cam-using", "bc-capitals"]
+}

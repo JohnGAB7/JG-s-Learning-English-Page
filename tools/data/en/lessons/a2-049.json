@@ -1,0 +1,199 @@
+{
+"n": 49,
+"niveau": "A2",
+"titre": "The future with “will”",
+"intro": "“Will” is the best-known way to talk about the future, but it is not used for every future idea. We use it mainly for decisions made at the moment of speaking, offers, promises and predictions based on opinion.",
+"objectifs": [
+"Form will / won't + base verb with every subject, in all forms.",
+"Use will for an instant decision, an offer, a promise or a personal prediction.",
+"Put probably, definitely and I think / I don't think in the right place with will.",
+"Choose between will and be going to in common situations."
+],
+"sections": [
+{
+"titre": "The form",
+"texte": [
+"“Will” is a modal verb: it is the same for every subject and it is followed by the base verb, without to. In speech and messages we use the short form 'll (I'll, you'll, she'll, it'll, we'll, they'll).",
+"Negative: will not, short form “won't” (not “willn't”). Question: put will before the subject. Short answers: Yes, I will. / No, I won't. (Never use the short form in a positive short answer: “Yes, I will”, not “Yes, I'll”.)"
+],
+"tableau": {
+"entetes": ["Form", "Pattern", "Example"],
+"lignes": [
+["positive", "subject + will ('ll) + base", "I'll call you tonight."],
+["negative", "subject + won't + base", "She won't be late."],
+["question", "Will + subject + base?", "Will they come?"],
+["short answer", "Yes, subject + will. / No, subject + won't.", "Yes, they will. / No, they won't."],
+["Wh- question", "Wh- + will + subject + base?", "When will you know?"]
+]
+}
+},
+{
+"titre": "Use 1: instant decisions, offers, promises",
+"texte": [
+"Use “will” when you decide at the moment you are speaking, with no plan before. This is the big difference from “be going to” (a decision made before, lesson 45).",
+"We also use it to offer help, to promise, and to refuse (won't = doesn't want to / doesn't work)."
+],
+"exemples": [
+["It's cold in here. — I'll close the window.", "Instant decision."],
+["Your bags look heavy. I'll help you.", "An offer."],
+["I promise I won't tell anyone.", "A promise."],
+["The car won't start!", "A refusal: the car doesn't work."]
+]
+},
+{
+"titre": "Use 2: predictions and future facts",
+"texte": [
+"Use “will” for a prediction based on opinion, belief or experience, often with I think, I'm sure, I hope, probably, maybe, perhaps, definitely.",
+"We also use it for a future fact that is certain or official: “The shop will open at 9”, “I'll be 30 next year”."
+],
+"exemples": [
+["I think it will be a great party.", "Opinion."],
+["Don't worry, you'll pass your exam.", "Prediction to reassure someone."],
+["The new metro line will open in 2027.", "An announced fact."]
+]
+},
+{
+"titre": "Adverbs and “I don't think”",
+"texte": [
+"Probably, definitely and certainly go AFTER will in the positive, but BEFORE won't in the negative: “He'll probably come” / “He probably won't come”.",
+"For a negative opinion, English prefers “I don't think + will” to “I think + won't”: “I don't think it will rain” sounds more natural than “I think it won't rain”."
+],
+"exemples": [
+["We'll definitely visit you in Quebec.", "will + definitely."],
+["She probably won't come tonight.", "probably + won't."],
+["I don't think the bus will be on time.", "I don't think + will."]
+]
+},
+{
+"titre": "Shall I / Shall we? and will or going to",
+"texte": [
+"To offer help or make a suggestion as a question, British English uses “Shall I…?” and “Shall we…?”. American English usually says “Should I…?” or “Do you want me to…?”.",
+"Summary: decision made now, offer, promise, opinion → will; plan already decided or visible evidence → be going to."
+],
+"tableau": {
+"entetes": ["Situation", "will", "be going to"],
+"lignes": [
+["decision", "now: I'll have the fish, please.", "before: I'm going to cook fish tonight."],
+["prediction", "opinion: I think Senegal will win.", "evidence: Look, they're going to score!"],
+["offer / suggestion", "I'll carry it. / Shall we go?", "—"]
+]
+},
+"exemples": [
+["Shall I open the door for you?", "An offer."],
+["Shall we take a taxi?", "A suggestion."]
+]
+}
+],
+"formule": "subject + will ('ll) + base verb · won't + base · Will + subject + base …?",
+"prononciation": [
+"“I'll” is /aɪl/, “you'll” /juːl/, “we'll” /wiːl/: the final l is a “dark” l, with the tongue pulled back.",
+"“won't” /wəʊnt/ (UK) / /woʊnt/ (US) is different from “want” /wɒnt/: I won't go ≠ I want to go.",
+"“it'll” is /ˈɪtl/, two syllables joined closely.",
+"In short answers, “will” is strong and stressed: Yes, I WILL /wɪl/.",
+"In “Shall we…?”, “shall” is weak: /ʃəl wiː/."
+],
+"erreurs": [
+["I will to call you.", "I'll call you.", "No to after will."],
+["She wills come.", "She will come.", "will never takes -s."],
+["I willn't go.", "I won't go.", "The negative short form is won't."],
+["The phone is ringing. — I'm going to answer it.", "The phone is ringing. — I'll answer it.", "Decision made now: will."],
+["Yes, I'll.", "Yes, I will.", "No short form in a positive short answer."],
+["He will probably not come.", "He probably won't come.", "More natural: probably before won't."],
+["I think it won't rain.", "I don't think it will rain.", "English puts the negative on think."],
+["When I will arrive, I'll call you.", "When I arrive, I'll call you.", "After when (future meaning), use the present."]
+],
+"dialogue": {
+"contexte": "In a small company in Abidjan, Marc and his colleague Grace are getting ready for an important meeting.",
+"lignes": [
+["Grace", "The clients arrive at ten. The meeting room isn't ready!", "Present simple for a timetable."],
+["Marc", "Don't panic. I'll set up the chairs.", "Instant decision / offer."],
+["Grace", "Thanks. And the projector doesn't work.", "A new problem."],
+["Marc", "I'll call the technician. Shall I order some coffee too?", "Decision + offer with Shall I."],
+["Grace", "Yes, please. Do you think they'll like our proposal?", "Asking for a prediction."],
+["Marc", "I'm sure they will. It's a good offer.", "Short form: they will."],
+["Grace", "I hope so. I don't think they'll accept the first price, though.", "I don't think + will."],
+["Marc", "Then we'll negotiate. I promise it'll be fine.", "A promise."]
+]
+},
+"mots": [
+["promise", "I promise I'll be there.", "to say that you will certainly do something; a statement like this"],
+["offer", "He offered to help me.", "to say you are happy to do or give something; a suggestion like this"],
+["probably", "It'll probably rain tomorrow.", "very likely"],
+["definitely", "I'll definitely come to your wedding.", "certainly, with no doubt"],
+["hope", "I hope you'll like it.", "to want something to happen"],
+["future", "What will you do in the future?", "the time after now"],
+["sure", "Are you sure he'll come?", "certain"],
+["maybe", "Maybe I'll take the train.", "perhaps; possibly"],
+["worry", "Don't worry, it'll be OK.", "to think about problems and feel nervous"],
+["guess", "I guess they'll be late.", "to give an answer without being sure; to think something is probably true"]
+],
+"exercices": [
+{
+"titre": "1. Will or won't?",
+"consigne": "Complete with will or won't.",
+"items": [
+["Don't worry, I ___ forget your birthday.", "won't"],
+["It's late. I think I ___ go to bed.", "will"],
+["She's very ill, so she ___ come to work today.", "won't"],
+["Take an umbrella. It ___ probably rain.", "will"],
+["I promise I ___ be late again.", "won't"]
+]
+},
+{
+"titre": "2. React with will",
+"consigne": "Answer with I'll / Shall I…? (a decision or an offer).",
+"items": [
+["I'm thirsty.", "I'll get you a glass of water. / Shall I get you a glass of water?"],
+["This box is very heavy.", "I'll help you carry it."],
+["I don't understand this word.", "I'll explain it to you."],
+["It's dark in here.", "I'll turn on the light. / Shall I turn on the light?"]
+]
+},
+{
+"titre": "3. Put the adverb in",
+"consigne": "Rewrite with the adverb in the right place.",
+"items": [
+["He'll be late. (probably)", "He'll probably be late."],
+["They won't win. (probably)", "They probably won't win."],
+["I'll call you. (definitely)", "I'll definitely call you."],
+["I think it will snow. (make it negative)", "I don't think it will snow."]
+]
+},
+{
+"titre": "4. Will or going to?",
+"consigne": "Choose the correct form.",
+"items": [
+["Look at the clouds! It (will / is going to) rain.", "is going to"],
+["I've decided: I (will / am going to) study medicine.", "am going to"],
+["Oh, there's no milk. — I (will / am going to) buy some.", "will"],
+["I think the film (will / is going to) be good.", "will (both are possible; will is more natural for a simple opinion)"]
+]
+},
+{
+"titre": "5. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["She will to travel next year.", "She will travel next year."],
+["I willn't tell him.", "I won't tell him."],
+["Will you help me? — Yes, I'll.", "Will you help me? — Yes, I will."],
+["When she will arrive, we'll eat.", "When she arrives, we'll eat."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Write five predictions about your life or your country in ten years (with I think, probably, I don't think…).",
+"items": [
+["Model answer", "In ten years, I think I'll speak English fluently. I'll probably live in Canada. I don't think I'll have a car, because I'll use public transport. Cameroon will definitely have more fast trains. Maybe I'll start my own company."]
+]
+}
+],
+"a_retenir": [
+"will ('ll) + base verb, the same for every subject; negative: won't.",
+"Instant decision, offer, promise, refusal: will.",
+"Prediction from opinion (I think, I'm sure, probably): will; with visible evidence: going to.",
+"He'll probably… / He probably won't…; I don't think + will.",
+"Shall I / Shall we…? to offer or suggest (British English)."
+],
+"liens": [45, 50, 57, 87],
+"refs": ["bc-future-forms", "bc-future-certainty"]
+}

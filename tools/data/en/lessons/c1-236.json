@@ -1,0 +1,204 @@
+{
+ "n": 236,
+ "niveau": "C1",
+ "titre": "Reporting verbs and their nuance (claim, argue, concede)",
+ "intro": "Reporting what an author or witness said also means taking a position: “Diallo shows that…” (it is established), “Diallo claims that…” (I doubt it), “Diallo concedes that…” (he admits a weakness). At C1, choosing a reporting verb is a tool of critical analysis, in research and in the press.",
+ "objectifs": [
+  "Classify reporting verbs by the position of the source and of the writer (neutral, agreement, caution, distance, concession, disagreement).",
+  "Master their patterns: claim + to / that, deny + -ing, accuse sb of, dismiss sth as, argue for / against.",
+  "Choose the right tense and voice (Smith argues…; the minister claimed…; it has been argued that…).",
+  "Avoid false friends and misuses: pretend ≠ claim; refute ≠ simply reject."
+ ],
+ "sections": [
+  {
+   "titre": "Reporting is evaluating",
+   "texte": [
+    "Reporting verbs carry two pieces of information: what the source says, and what the writer thinks of that claim. “The report shows that unemployment fell” presents the fall as a fact; “The report claims that unemployment fell” invites the reader to doubt it.",
+    "In an essay, a literature review or a news article, varying the verbs is not just a way to avoid repeating “say”: each verb positions your text in relation to the source."
+   ],
+   "exemples": [
+    ["Ngo (2021) demonstrates that the treatment reduces pain.", "“Demonstrate”: the writer accepts the result."],
+    ["The company claims that its product is entirely natural.", "“Claim”: the writer keeps a distance."]
+   ]
+  },
+  {
+   "titre": "Families of verbs by nuance",
+   "texte": [
+    "Group the verbs by what they say about the source and about your view. The most important ones to master at C1 are claim, argue, maintain, suggest, acknowledge, concede, dispute and dismiss."
+   ],
+   "tableau": {
+    "entetes": ["Nuance", "Verbs", "Example"],
+    "lignes": [
+     ["Neutral", "state, report, note, observe, describe, mention", "The author notes that few women were interviewed."],
+     ["Writer agrees (established fact)", "show, demonstrate, establish, reveal, confirm, point out", "As Kamga points out, the data are incomplete."],
+     ["Source is cautious", "suggest, propose, hypothesise, speculate, imply", "The authors suggest that diet may play a role."],
+     ["Source takes a strong position", "argue, maintain, contend, assert, insist, emphasise", "Lee maintains that the reform has failed."],
+     ["Writer keeps a distance (doubt)", "claim, allege, purport (to)", "He claims to have invented the method."],
+     ["Concession", "concede, acknowledge, admit, grant, accept", "She concedes that the sample was small."],
+     ["Disagreement", "dispute, question, challenge, reject, deny, dismiss, refute", "Critics dismiss the study as biased."]
+    ]
+   },
+   "note": "“Point out” implies that what is said is true: don't use it for a claim you think is wrong."
+  },
+  {
+   "titre": "Argue, claim, maintain, contend: the nuances",
+   "texte": [
+    "“Argue” = defend a position with reasons; it is neutral or positive in academic writing (“Smith argues convincingly that…”). Patterns: argue that…, argue for / against sth.",
+    "“Claim” = state something without proof; it often signals the writer's doubt. Patterns: claim that…, claim to have done (“She claims to have met the president”).",
+    "“Maintain” and “contend” = keep defending a position, often against opposition (“He still maintains that he is innocent”). “Assert” = state firmly and confidently. “Allege” = accuse without proof (legal and journalistic register); the adverb “allegedly” is very common in the press."
+   ],
+   "exemples": [
+    ["Several economists argue for a higher minimum wage.", "“Argue for” = speak in favour of."],
+    ["The suspect allegedly entered the building at midnight.", "“Allegedly” = according to accusations, not proven."]
+   ]
+  },
+  {
+   "titre": "Conceding and disputing",
+   "texte": [
+    "Concession recognises a weakness or an opposing argument: “concede that…”, “acknowledge sth / that…”, “admit (to) doing / that…”, “grant that…” (“I grant that the plan is expensive, but…”). It often prepares a “but” or “however”.",
+    "Disagreement has several degrees: “question / challenge” (cast doubt on), “dispute” (contest), “reject”, “deny” (say a fact or accusation is untrue), “dismiss sth as…” (reject as not worth considering), “refute” (prove with evidence that something is false). Many native speakers use “refute” to mean “deny”, but in careful writing keep it for an actual demonstration."
+   ],
+   "tableau": {
+    "entetes": ["Verb", "Pattern", "Example"],
+    "lignes": [
+     ["deny", "deny + -ing / that / sth", "He denied taking the money."],
+     ["admit", "admit (to) + -ing / that", "She admitted (to) making a mistake."],
+     ["accuse", "accuse sb of + -ing", "They accused him of lying."],
+     ["dismiss", "dismiss sth as + adj / noun", "The minister dismissed the report as nonsense."],
+     ["concede", "concede that / concede a point", "He conceded that the timing was poor."],
+     ["acknowledge", "acknowledge sth / that", "The authors acknowledge the limits of their data."]
+    ]
+   },
+   "exemples": [
+    ["While acknowledging the risks, the board approved the project.", "Concession + decision."],
+    ["Her later study refutes the earlier findings.", "“Refute”: she proves they were wrong."]
+   ]
+  },
+  {
+   "titre": "Tense, voice and integration",
+   "texte": [
+    "In academic writing, the present is often used to report a published text (“Smith argues…”), because the text still “speaks”. The past is used for a study presented as a past event (“Smith found…”) and in the press for a statement (“The minister claimed on Tuesday that…”).",
+    "For a widespread idea with no specific author: “It has been argued that…”, “It is widely claimed that…”, “X is said / alleged to…” (lesson 152). The form “as X notes / argues” integrates the source in passing and shows that you agree."
+   ],
+   "exemples": [
+    ["It has been argued that social media increases political polarisation.", "Impersonal passive: a widespread idea, no specific author."],
+    ["As Diallo notes, rural users face higher costs.", "“As + subject + verb”: you adopt the idea."]
+   ]
+  },
+  {
+   "titre": "False friends and wrong patterns",
+   "texte": [
+    "“Pretend” means to act as if something were true, never “to claim”. For “reject an idea”, use “reject” or “dispute” rather than “refute”. To highlight an idea, use “stress”, “emphasise” or “point out” (if it is true). To mention a topic, use “raise” or “mention”.",
+    "Patterns: “suggest” is not followed by an infinitive (“She suggested postponing / that we postpone”); “explain” does not take a direct personal object (“He explained to us that…”)."
+   ]
+  }
+ ],
+ "formule": "Source + reporting verb chosen for its nuance (neutral / agreement / caution / position / distance / concession / disagreement) + that / to / -ing according to the verb's pattern",
+ "prononciation": [
+  "“allegedly” is /əˈledʒɪdli/: four syllables, stress on the second.",
+  "“concede” /kənˈsiːd/ and “contend” /kənˈtend/ are stressed on the second syllable.",
+  "“refute” /rɪˈfjuːt/ is stressed at the end; the verb “dispute” is /dɪˈspjuːt/, and the noun is also said /ˈdɪspjuːt/ in BrE.",
+  "“hypothesise” is /haɪˈpɒθəsaɪz/, stressed on “po”.",
+  "In broadcast news, “claims” is often slightly stressed to signal the journalist's distance."
+ ],
+ "erreurs": [
+  ["He pretends that the figures are wrong.", "He claims that the figures are wrong.", "“Pretend” = act as if; to state without proof = claim."],
+  ["She denied to have taken the documents.", "She denied taking / having taken the documents.", "“Deny” + -ing (or that…)."],
+  ["They accused him to lie.", "They accused him of lying.", "“Accuse sb of + -ing”."],
+  ["The author explains us that…", "The author explains (to us) that…", "“Explain” + to + person."],
+  ["The minister suggested to raise taxes.", "The minister suggested raising taxes / that taxes be raised.", "“Suggest” + -ing or that."],
+  ["I refute your opinion.", "I reject / disagree with your opinion.", "“Refute” = prove that a claim is false."],
+  ["As the company points out, its cream cures all skin diseases.", "The company claims that its cream cures all skin diseases.", "“Point out” implies truth: avoid it for a doubtful claim."]
+ ],
+ "dialogue": {
+  "contexte": "At Université Laval, two students prepare a literature review on remote work.",
+  "lignes": [
+   ["Zoé", "In my draft I wrote “Martin says that remote work boosts productivity.” It sounds flat.", "“Say” gives no position."],
+   ["Adama", "Do you agree with him? If his data are solid, use “shows” or “demonstrates”.", "Verbs of agreement."],
+   ["Zoé", "Not really. It's a survey of managers only. So maybe “Martin claims that…”?", "“Claim” shows doubt."],
+   ["Adama", "Yes, that shows your doubt. And he does concede that the sample is small.", "A concession by the author."],
+   ["Zoé", "Then: “Martin concedes that his sample is limited, but maintains that the trend is clear.”", "Concession + strong position."],
+   ["Adama", "Perfect. And Okafor?", "The opposing author."],
+   ["Zoé", "She disputes his conclusions and argues that isolation lowers performance.", "Disagreement + argument."],
+   ["Adama", "Good. Just don't say she “refutes” him unless her study really proves him wrong.", "Careful use of “refute”."]
+  ]
+ },
+ "mots": [
+  ["claim", "He claims to have seen the accident.", "say something is true without proof"],
+  ["argue", "She argues that the law is unfair.", "give reasons to support an opinion"],
+  ["maintain", "They maintain that they did nothing wrong.", "continue to say something is true"],
+  ["concede", "He conceded that he had been wrong.", "admit, often unwillingly, that something is true"],
+  ["acknowledge", "The report acknowledges several weaknesses.", "accept or admit that something exists or is true"],
+  ["dispute", "Nobody disputes the importance of education.", "say something is not correct"],
+  ["dismiss", "She dismissed the idea as unrealistic.", "refuse to consider something seriously"],
+  ["allege", "It is alleged that he accepted bribes.", "accuse without proof"],
+  ["point out", "He pointed out that the shop was closed.", "draw attention to a fact"],
+  ["refute", "New evidence refutes the theory.", "prove that something is wrong"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Which nuance?",
+   "consigne": "Say whether the writer presents the idea as established, doubtful, conceded or disputed.",
+   "items": [
+    ["The study demonstrates that the vaccine is effective.", "established"],
+    ["The firm claims that no jobs will be lost.", "doubtful"],
+    ["The author concedes that her model is simplified.", "conceded"],
+    ["Many experts dispute these figures.", "disputed"]
+   ]
+  },
+  {
+   "titre": "2. Choose the verb",
+   "consigne": "Choose the right verb: acknowledges, claims, points out, argues, dismissed.",
+   "items": [
+    ["The salesman ___ that the car has never had an accident, but I'm not sure.", "claims"],
+    ["As the author rightly ___, the data are ten years old.", "points out"],
+    ["Okafor ___ that smaller classes improve results, and she gives three reasons.", "argues"],
+    ["The government ___ the criticism as political.", "dismissed"],
+    ["The report ___ that some regions were not included.", "acknowledges"]
+   ]
+  },
+  {
+   "titre": "3. Pattern",
+   "consigne": "Rewrite the sentence with the verb in brackets and the correct pattern.",
+   "items": [
+    ["“I didn't take the money,” he said. (deny)", "He denied taking / having taken the money."],
+    ["“You lied to us,” they told him. (accuse)", "They accused him of lying (to them)."],
+    ["“I met the president,” she says, but it's not proven. (claim + to)", "She claims to have met the president."],
+    ["“OK, the plan is expensive,” he said. (concede)", "He conceded that the plan was / is expensive."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    ["He pretends that he has a PhD, but nobody believes him.", "He claims that he has / claims to have a PhD, but nobody believes him."],
+    ["The manager suggested to change the schedule.", "The manager suggested changing the schedule / that we change the schedule."],
+    ["She explained me the new rules.", "She explained the new rules to me."],
+    ["They accused the director to hide the losses.", "They accused the director of hiding the losses."]
+   ]
+  },
+  {
+   "titre": "5. Report it precisely",
+   "consigne": "Report the statement with a precise reporting verb.",
+   "items": [
+    ["The minister: “This report is absurd. It's not worth discussing.”", "The minister dismissed the report as absurd / nonsense."],
+    ["The author: “Yes, my study has some limitations.”", "The author acknowledges / concedes that her (his) study has limitations."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Summarise in 4 sentences a debate between two authors (real or imaginary), using at least four reporting verbs with different nuances.",
+   "items": [
+    ["Example answer", "Mbarga (2022) argues that mobile money has reduced poverty in rural Cameroon. He acknowledges that his data come from only two regions, but maintains that the effect is significant. Fotso (2023), however, disputes this conclusion. She suggests that higher crop prices, not mobile money, explain most of the change."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "The reporting verb reveals your position: show / demonstrate (agreement), claim / allege (doubt), suggest (caution), argue / maintain (strong position), concede / acknowledge (concession), dispute / dismiss (disagreement).",
+  "Patterns: claim that / to have done; deny + -ing; accuse sb of + -ing; dismiss sth as; argue for / against; suggest + -ing / that.",
+  "Present for a published text (Smith argues), past for a statement or a dated study; impersonal passive for a widespread idea.",
+  "Pretend ≠ claim; refute = prove wrong, not simply reject."
+ ],
+ "liens": [155, 152, 227, 222, 250],
+ "refs": ["bc-reporting-patterns", "bc-reporting-verbs", "bc-c1"]
+}

@@ -1,0 +1,192 @@
+{
+"n": 34,
+"niveau": "A1",
+"titre": "Would like (asking politely)",
+"intro": "“Would like” is the polite way to say what you want: “I'd like a coffee, please.” We also use it to offer and invite: “Would you like some tea?” You need it in restaurants, in shops and at work.",
+"objectifs": [
+ "Use would like + noun and would like + to + verb, with the short form I'd like.",
+ "Make a polite request instead of “I want”.",
+ "Offer and invite with Would you like…? and answer (Yes, please / I'd love to).",
+ "Know the difference between “like” (enjoy in general) and “would like” (want now)."
+],
+"sections": [
+ {
+  "titre": "The form",
+  "texte": [
+   "“Would like” is the same for every subject: I would like, she would like, they would like. No s on “like”! In speech, we almost always use the short form: I'd like, you'd like, she'd like, we'd like.",
+   "You can put a noun after it: “I'd like a sandwich.” For a verb, you need “to”: “I'd like to go home.”",
+   "Question: “Would you like…?” Short answers: “Yes, please.” / “No, thank you.” (for an offer) or “Yes, I would.” / “No, I wouldn't.”"
+  ],
+  "tableau": {
+   "entetes": ["Form", "Structure", "Example"],
+   "lignes": [
+    ["Positive + noun", "subject + 'd like + noun", "I'd like a glass of water."],
+    ["Positive + verb", "subject + 'd like + to + verb", "She'd like to study in Canada."],
+    ["Question", "Would + subject + like…?", "Would you like some cake?"],
+    ["Wh- question", "Wh- + would + subject + like…?", "What would you like to drink?"],
+    ["Answer to an offer", "Yes, please. / No, thank you.", "Would you like tea? — Yes, please."]
+   ]
+  },
+  "note": "The negative “I wouldn't like…” exists but is not common for saying no. To say no politely, say “No, thank you” or “I'd rather not”."
+ },
+ {
+  "titre": "Asking politely",
+  "texte": [
+   "“I want…” is correct, but it can sound direct, even rude, with a waiter, a shop assistant or a stranger. “I'd like…” is the normal polite form.",
+   "We often add “please”: “I'd like a ticket to Ghent, please.” In restaurants, you also hear “Can I have…?”, “Could I have…?” and “I'll have…”."
+  ],
+  "exemples": [
+   ["I'd like a return ticket to Lyon, please.", "At the station."],
+   ["We'd like to book a table for four.", "On the phone to a restaurant."],
+   ["Could I have the bill, please?", "At the end of a meal (US: the check)."]
+  ]
+ },
+ {
+  "titre": "Offering and inviting",
+  "texte": [
+   "“Would you like + noun?” offers something: “Would you like a biscuit?”. “Would you like to + verb?” invites someone: “Would you like to come to my party?”",
+   "To accept an invitation: “Yes, I'd love to!” (keep “to” at the end, but don't repeat the verb). To say no politely: “I'd love to, but I can't. I'm busy on Saturday.”",
+   "To accept an offer: “Yes, please.”; to say no: “No, thank you.” / “No, thanks.” Don't answer “Yes, I like”!"
+  ],
+  "exemples": [
+   ["Would you like some more rice? — No, thank you. I'm full.", "full = I have eaten enough."],
+   ["Would you like to have dinner with us on Friday? — I'd love to!", "Accepting an invitation."],
+   ["Would you like to come to the cinema? — I'd love to, but I'm working.", "Saying no politely."]
+  ]
+ },
+ {
+  "titre": "Like or would like?",
+  "texte": [
+   "“Like” (lesson 33) is about general, permanent tastes: “I like coffee” (I enjoy it). “Would like” is about a wish now: “I'd like a coffee” (I want one now).",
+   "The questions are very different: “Do you like tea?” asks about your taste; “Would you like a tea?” is an offer."
+  ],
+  "tableau": {
+   "entetes": ["Like (general taste)", "Would like (a wish now)"],
+   "lignes": [
+    ["I like dancing.", "I'd like to dance with you."],
+    ["Do you like coffee? — Yes, I do.", "Would you like a coffee? — Yes, please."],
+    ["She likes travelling.", "She'd like to travel to Japan."],
+    ["like + -ing / noun", "would like + to + verb / noun"]
+   ]
+  }
+ },
+ {
+  "titre": "Would like + someone + to",
+  "texte": [
+   "To say what you want another person to do, use “would like + person + to + verb”. Never use “that” here.",
+   "This is very useful at work and to introduce people."
+  ],
+  "exemples": [
+   ["I'd like you to meet my colleague, Ana.", "Introducing someone."],
+   ["We'd like you to check this document.", "A polite request at work."]
+  ]
+ }
+],
+"formule": "I'd like + noun · I'd like to + verb · Would you like…? — Yes, please. / I'd love to!",
+"prononciation": [
+ "“would” is /wʊd/: don't say the l. “Would” and “wood” sound the same.",
+ "In “I'd like”, you hardly hear the d: /aɪd ˈlaɪk/. Listen carefully: “I like” and “I'd like” sound very similar.",
+ "“Would you” is linked: /ˈwʊdʒu/ or /ˈwʊdʒə/ (“woodjoo”).",
+ "“to” is weak in “I'd like to go” /tə/, but strong at the end of a sentence: “I'd love to!” /tuː/.",
+ "An offer goes up at the end: “Would you like some TEA? ↗”."
+],
+"erreurs": [
+ ["I want a coffee. (to a waiter)", "I'd like a coffee, please.", "“I want” can sound rude; “I'd like” is polite."],
+ ["I would like go to Paris.", "I would like to go to Paris.", "Would like + to + verb."],
+ ["Do you like a coffee? (an offer)", "Would you like a coffee?", "To offer: “Would you like…?”."],
+ ["Would you like some tea? — Yes, I like.", "Would you like some tea? — Yes, please.", "To accept an offer: Yes, please."],
+ ["I'd like going to the beach.", "I'd like to go to the beach.", "After would like: to + verb, not -ing."],
+ ["She'd likes a new phone.", "She'd like a new phone.", "No s after “would”."],
+ ["Would you like to come? — Yes, I'd love.", "Would you like to come? — Yes, I'd love to.", "Keep “to” at the end."],
+ ["I would like that you come.", "I'd like you to come.", "would like + person + to + verb, never “that”."]
+],
+"dialogue": {
+ "contexte": "In a beach restaurant in Kribi, Cameroon. Nadia and her Belgian colleague Pieter order food.",
+ "lignes": [
+  ["Waiter", "Good evening. Would you like something to drink?", "An offer."],
+  ["Nadia", "Yes, please. I'd like a fresh pineapple juice.", "I'd like + noun."],
+  ["Pieter", "And I'd like a bottle of water, please.", "A polite request."],
+  ["Waiter", "Of course. And what would you like to eat?", "Wh- question."],
+  ["Nadia", "I'd like the grilled fish with plantain.", "Ordering food."],
+  ["Pieter", "The same for me. I'd like to try the local food.", "I'd like + to + verb."],
+  ["Waiter", "Would you like some chilli sauce?", "Another offer."],
+  ["Pieter", "Yes, please, but just a little!", "Accepting an offer."],
+  ["Nadia", "Pieter, would you like to visit the waterfalls tomorrow?", "An invitation."],
+  ["Pieter", "I'd love to!", "Accepting an invitation."]
+ ]
+},
+"mots": [
+ ["menu", "Can I see the menu, please?", "a list of the food in a restaurant"],
+ ["order", "Are you ready to order?", "ask for food or drink in a restaurant"],
+ ["waiter", "The waiter is very friendly.", "a person who brings food in a restaurant"],
+ ["bill", "Could I have the bill, please?", "a paper that shows how much to pay (US: check)"],
+ ["starter", "I'd like soup as a starter.", "a small dish at the start of a meal (US: appetizer)"],
+ ["main course", "What would you like for your main course?", "the biggest dish of a meal"],
+ ["dessert", "Would you like a dessert?", "sweet food at the end of a meal"],
+ ["invite", "I'd like to invite you to dinner.", "ask someone to come to an event"],
+ ["offer", "Thank you for the offer.", "the act of asking if someone wants something"],
+ ["tip", "We'd like to leave a tip.", "extra money for the waiter"]
+],
+"exercices": [
+ {
+  "titre": "1. Like or would like?",
+  "consigne": "Complete with like, likes or 'd like.",
+  "items": [
+   ["I ___ a cup of tea, please.", "'d like"],
+   ["I ___ tea. I drink it every morning.", "like"],
+   ["She ___ dancing. She goes every Saturday.", "likes"],
+   ["We ___ to book a table for two.", "'d like"],
+   ["Do you ___ jazz?", "like"],
+   ["Would you ___ some water?", "like"]
+  ]
+ },
+ {
+  "titre": "2. To or a?",
+  "consigne": "Complete with to or a.",
+  "items": [
+   ["I'd like ___ visit Canada.", "to"],
+   ["Would you like ___ sandwich?", "a"],
+   ["She'd like ___ new phone.", "a"],
+   ["We'd like ___ book a room.", "to"]
+  ]
+ },
+ {
+  "titre": "3. Be polite",
+  "consigne": "Make the request more polite with I'd like or Would you like.",
+  "items": [
+   ["I want a glass of water.", "I'd like a glass of water, please."],
+   ["I want to pay.", "I'd like to pay, please."],
+   ["Do you want a coffee?", "Would you like a coffee?"],
+   ["Do you want to come with us?", "Would you like to come with us?"],
+   ["We want the bill.", "We'd like the bill, please."]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I'd like have a tea, please.", "I'd like a tea, please. / I'd like to have a cup of tea, please."],
+   ["Would you like some cake? — Yes, I like.", "Would you like some cake? — Yes, please."],
+   ["She'd like studying in Montreal.", "She'd like to study in Montreal."],
+   ["Would you like to come to my party? — I'd love!", "Would you like to come to my party? — I'd love to!"],
+   ["I'd like that you meet my brother.", "I'd like you to meet my brother."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "You are in a restaurant. Write your order (drink, main course, dessert) in three sentences with I'd like, then invite a friend to do something this weekend with Would you like to…?",
+  "items": [
+   ["Model answer", "I'd like a glass of orange juice, please. For my main course, I'd like the chicken with rice. And I'd like a chocolate cake for dessert. Would you like to go to the beach with me on Saturday?"]
+  ]
+ }
+],
+"a_retenir": [
+ "I'd like + noun (I'd like a coffee); I'd like + to + verb (I'd like to go). No s, no -ing.",
+ "“I'd like” is more polite than “I want”.",
+ "Offer: Would you like…? — Yes, please. / No, thank you.",
+ "Invitation: Would you like to…? — I'd love to! / I'd love to, but I can't.",
+ "like = enjoy (in general); would like = want (now). I'd like you to meet… (no “that”)."
+],
+"liens": [26, 31, 33, 57, 79],
+"refs": ["bc-a1a2", "cam-using"]
+}

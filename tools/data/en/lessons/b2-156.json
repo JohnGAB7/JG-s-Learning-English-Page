@@ -1,0 +1,217 @@
+{
+ "n": 156,
+ "niveau": "B2",
+ "titre": "Modals of deduction in the past",
+ "intro": "“He must have forgotten”, “She can't have left without us”, “They might have got lost”: to draw a conclusion about the past from evidence, English uses modal + have + past participle. You need it to tell stories, explain problems, solve mysteries and react to news.",
+ "objectifs": [
+  "Express near-certainty (must have), impossibility (can't / couldn't have) and possibility (might / may / could have) about the past.",
+  "Distinguish deduction (must have done) from past obligation (had to do).",
+  "Use continuous and passive forms: must have been waiting, must have been stolen.",
+  "Pronounce must've, might've and can't have naturally."
+ ],
+ "sections": [
+  {
+   "titre": "From present to past",
+   "texte": [
+    "In the present (lesson 106), we say: “She must be at home” (I'm almost sure), “She can't be at home” (impossible), “She might be at home” (perhaps).",
+    "For a deduction about the past, keep the same modal and add “have + past participle”. It is “have” that places the action in the past, not the modal.",
+    "We always base the deduction on evidence: what we see, know or hear."
+   ],
+   "tableau": {
+    "entetes": ["How certain?", "Present", "Past"],
+    "lignes": [
+     ["almost sure it's true", "He must be tired.", "He must have been tired."],
+     ["possible", "He might / may / could be ill.", "He might / may / could have been ill."],
+     ["possibly not", "He might not / may not be at work.", "He might not / may not have gone to work."],
+     ["almost sure it's not true (impossible)", "He can't / couldn't be at work.", "He can't / couldn't have gone to work."]
+    ]
+   }
+  },
+  {
+   "titre": "Must have: near-certainty",
+   "texte": [
+    "“Must have + past participle” expresses a logical conclusion: the evidence leaves almost no other explanation.",
+    "Big trap: “must have done” is deduction; “had to do” is obligation. “He must have forgotten” (I'm sure he forgot) is very different from “He had to leave early” (he was obliged to). “He had to forget” makes no sense as a deduction.",
+    "“Must have” is only used for deduction. For a past obligation, always use “had to”."
+   ],
+   "exemples": [
+    ["The streets are wet. It must have rained during the night.", "Logical conclusion from evidence."],
+    ["You must have been so happy when you heard the news!", "A common reaction to news."],
+    ["He had to work late yesterday.", "Obligation, not deduction."],
+    ["The lights are off. They must have gone to bed.", "Conclusion from what we see."]
+   ]
+  },
+  {
+   "titre": "Can't have / couldn't have: impossibility",
+   "texte": [
+    "To say you are almost sure that something did not happen, use “can't have” or “couldn't have” + past participle. Both are common; “couldn't have” is a little more frequent in past narratives.",
+    "So the opposite of “must have” is not “mustn't have”. In standard British English, “mustn't” expresses prohibition, not deduction. Say “He can't have seen us”, not “He mustn't have seen us”.",
+    "These forms often show surprise or disbelief."
+   ],
+   "exemples": [
+    ["She can't have seen me. She was looking the other way.", "Impossible, given the evidence."],
+    ["They couldn't have walked 40 km in one day!", "Disbelief."],
+    ["You can't have finished already! You only started ten minutes ago.", "Surprise."]
+   ]
+  },
+  {
+   "titre": "Might / may / could have: possibility",
+   "texte": [
+    "When you are not sure, use “might have”, “may have” or “could have” + past participle. “May” is slightly more formal; “might” is the most common in speech.",
+    "Negative: “might not have” and “may not have” (perhaps not). Careful: “couldn't have” does not mean “perhaps not”; it means “impossible”!",
+    "“Can have” is not used for a past possibility: “She can have taken the bus” is wrong."
+   ],
+   "tableau": {
+    "entetes": ["Sentence", "Meaning"],
+    "lignes": [
+     ["She might not have received my email.", "Perhaps she didn't receive it."],
+     ["She couldn't have received my email.", "It's impossible that she received it (I never sent it, for example)."],
+     ["She may have taken the bus.", "It's possible that she took the bus."],
+     ["She could have taken the bus.", "It's one possibility among others."]
+    ]
+   },
+   "exemples": [
+    ["I can't find my keys. I might have left them at the office.", "A possible explanation."],
+    ["The parcel may have been delivered to a neighbour.", "More formal register."],
+    ["He didn't answer. He may not have heard the phone.", "Perhaps he didn't hear it."]
+   ]
+  },
+  {
+   "titre": "Continuous and passive forms",
+   "texte": [
+    "For an action in progress or one that lasted: modal + have been + -ing. “They must have been waiting for hours.”",
+    "In the passive: modal + have been + past participle. “My bike isn't here. It must have been stolen.”",
+    "These forms are very common in everyday conversation and in crime stories."
+   ],
+   "exemples": [
+    ["Your eyes are red. You must have been crying.", "An activity that lasted."],
+    ["She might have been sleeping when you called.", "An activity in progress at a past moment."],
+    ["The window can't have been broken from outside: the glass is on the street.", "Passive impossibility."]
+   ]
+  },
+  {
+   "titre": "Don't confuse: “could have” and “should have”",
+   "texte": [
+    "“Could have done” has another important meaning: it was possible, but it did not happen. “You could have called me!” (criticism); “I could have died!” (it nearly happened). The context shows which meaning is intended.",
+    "“Should have” expresses criticism or regret (“You should have told me”) or an expectation (“They should have arrived by now”: normally they would be here). These meanings are studied in lesson 205."
+   ],
+   "exemples": [
+    ["We could have won the match, but we missed a penalty.", "A possibility that did not happen."],
+    ["The train should have arrived at 6. It's late.", "An expectation that was not met."]
+   ]
+  }
+ ],
+ "formule": "must / might / may / could / can't / couldn't + have + past participle (have been + -ing; have been + past participle)",
+ "prononciation": [
+  "In speech, “have” is reduced to /əv/: must've /ˈmʌstəv/, might've /ˈmaɪtəv/, could've /ˈkʊdəv/, may have /ˈmeɪ əv/.",
+  "That is why some native speakers wrongly write “must of” or “could of”. In writing, always use “have” (or 've).",
+  "“can't have”: /ˈkɑːnt əv/ in British English, /ˈkænt əv/ in American English. The final t is often hard to hear, so make the vowel clear so that people don't hear “can”.",
+  "The stress falls on the past participle, or on the modal to insist on how certain you are: “He MUST have known!”",
+  "“been” is weak, /bɪn/: “She must've been sleeping” /ʃi ˈmʌstəv bɪn ˈsliːpɪŋ/."
+ ],
+ "erreurs": [
+  ["He must forgot the meeting.", "He must have forgotten the meeting.", "Past deduction: must + have + past participle."],
+  ["She must have went home.", "She must have gone home.", "After “have”, use the past participle (gone), not the past simple."],
+  ["He mustn't have seen us.", "He can't (couldn't) have seen us.", "Past impossibility: can't / couldn't have."],
+  ["They had to forget the meeting.", "They must have forgotten the meeting.", "Deduction is “must have”; “had to” is obligation."],
+  ["You can have dropped it in the taxi.", "You could (might, may) have dropped it in the taxi.", "“can have” does not express past possibility."],
+  ["They must of left early.", "They must have left early.", "“of” is a spelling mistake caused by the pronunciation /əv/."],
+  ["Maybe she couldn't have got my message.", "She might not (may not) have got my message.", "Negative possibility: might not have; couldn't have = impossible."]
+ ],
+ "dialogue": {
+  "contexte": "Montréal-Trudeau airport. Kofi and Martine are waiting for their friend Awa, who is arriving from Dakar. The passengers are coming out, but she isn't.",
+  "lignes": [
+   ["Martine", "Everyone from the Dakar flight has come out. Where is she?", "Present perfect: the situation now."],
+   ["Kofi", "She must have been stopped at customs. She was bringing a lot of food for her family.", "Passive deduction: must have been + participle."],
+   ["Martine", "Or she might have missed her connection in Paris.", "Possibility: might have."],
+   ["Kofi", "She can't have missed it. She sent me a photo from the plane two hours ago.", "Impossibility, based on evidence."],
+   ["Martine", "Then her suitcase may have been lost. That happened to me last year.", "Passive possibility."],
+   ["Kofi", "Look, there she is! Awa! We've been so worried!", "Relief."],
+   ["Awa", "Sorry! They checked every single bag. I must have been waiting for an hour!", "Continuous form: an activity that lasted."],
+   ["Martine", "You must be exhausted. Come on, the car's outside.", "Present deduction: must be."]
+  ]
+ },
+ "mots": [
+  ["evidence", "There's no evidence that he was there.", "facts or signs that show something is true (uncountable)"],
+  ["clue", "The police found an important clue.", "a piece of information that helps solve a problem or mystery"],
+  ["assume", "I assumed you had already left.", "to think something is true without proof"],
+  ["conclude", "We concluded that the letter had been lost.", "to decide something after thinking about the facts"],
+  ["explanation", "There must be a simple explanation.", "a reason that makes something clear"],
+  ["unlikely", "It's unlikely that she forgot.", "probably not true or not going to happen"],
+  ["obviously", "He was obviously tired.", "in a way that is easy to see"],
+  ["mystery", "His disappearance is still a mystery.", "something strange that nobody can explain"],
+  ["suspect", "I suspect he never read my email.", "to think something is probably true"],
+  ["connection", "I missed my connection in Paris.", "a plane, train or bus you take after another one; a link"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choose",
+   "consigne": "Choose the right modal.",
+   "items": [
+    ["The ground is wet. It (must have / can't have) rained.", "must have"],
+    ["She (can't have / must have) seen me. She was facing the other way.", "can't have"],
+    ["I'm not sure where my keys are. I (might have / must have) left them at work.", "might have"],
+    ["He passed the exam easily. He (must have / can't have) studied hard.", "must have"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with the modal given + have + past participle (simple, continuous or passive, depending on the meaning).",
+   "items": [
+    ["Jean's not answering. He ___ (must / go) out.", "must have gone"],
+    ["You ___ (can't / see) Marie in Liège yesterday. She's in Dakar this week.", "can't have seen"],
+    ["The plane ___ (might / land) already. Let's check the screen.", "might have landed"],
+    ["They look exhausted. They ___ (must / wait) for hours.", "must have been waiting"],
+    ["My bike isn't where I left it. It ___ (must / steal).", "must have been stolen"],
+    ["She didn't reply. She ___ (may not / get) my message.", "may not have got (US: gotten)"]
+   ]
+  },
+  {
+   "titre": "3. Rewrite",
+   "consigne": "Rewrite each sentence with a past modal of deduction.",
+   "items": [
+    ["I'm sure he forgot his keys.", "He must have forgotten his keys."],
+    ["It's impossible that they've finished already.", "They can't (couldn't) have finished already."],
+    ["Perhaps she missed the bus.", "She might (may, could) have missed the bus."],
+    ["I'm sure the thief came in through the window.", "The thief must have come in through the window."],
+    ["Maybe they didn't hear the alarm.", "They might not (may not) have heard the alarm."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["He must forgot about the meeting.", "He must have forgotten about the meeting."],
+    ["She mustn't have seen us.", "She can't (couldn't) have seen us."],
+    ["They must of left early.", "They must have left early."],
+    ["You can have dropped it in the taxi.", "You could (might, may) have dropped it in the taxi."]
+   ]
+  },
+  {
+   "titre": "5. React to the situation",
+   "consigne": "Make a deduction about the past for each situation.",
+   "items": [
+    ["Your friend says: “I worked fourteen hours yesterday.”", "Model answer: You must have been exhausted."],
+    ["The road is closed and there are police cars everywhere.", "Model answer: There must have been an accident."],
+    ["Your colleague's car is in the car park, but she isn't in the office.", "Model answer: She can't have gone far. She might have gone out for lunch."],
+    ["Your friend says he never got your invitation.", "Model answer: It may have gone to his spam folder, or I might have sent it to the wrong address."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Your colleague did not come to an important meeting this morning and isn't answering the phone. Write 4–5 hypotheses with must have, might have, can't have and one continuous or passive form.",
+   "items": [
+    ["Example answer", "He can't have forgotten the meeting, because he reminded me about it yesterday. He might have missed his train, or his car may have broken down. His phone must have died, because it goes straight to voicemail. Or he might have been called to see a client urgently."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Past deduction: modal + have + past participle.",
+  "must have = almost sure; might / may / could have = possible; can't / couldn't have = impossible.",
+  "No “mustn't have” for deduction; “couldn't have” is not “might not have”.",
+  "must have done = deduction; had to do = obligation.",
+  "Longer forms: must have been waiting (continuous), must have been stolen (passive)."
+ ],
+ "liens": [106, 205, 204, 97],
+ "refs": ["bc-deduction-past", "bc-probability"]
+}

@@ -1,0 +1,200 @@
+{
+"n": 25,
+"niveau": "A1",
+"titre": "Les couleurs et les vêtements",
+"intro": "Les couleurs et les vêtements servent à décrire une personne, faire des achats ou choisir une tenue. Deux points demandent de l’attention : l’adjectif de couleur se place devant le nom, et plusieurs vêtements sont toujours au pluriel (trousers, jeans).",
+"objectifs": [
+ "Nommer les couleurs et les nuancer (light blue, dark green, bright red).",
+ "Nommer les vêtements et accessoires courants, avec les différences entre anglais britannique et américain.",
+ "Utiliser correctement les noms toujours au pluriel : trousers, jeans, shorts, a pair of…",
+ "Choisir le bon verbe : wear, carry, put on, take off, try on."
+],
+"sections": [
+ {
+  "titre": "Les couleurs",
+  "texte": [
+   "L’adjectif de couleur se place devant le nom et ne prend jamais de s : « a red car », « red cars ». Après « be », il est seul : « The car is red. »",
+   "Pour nuancer : « light » (clair), « dark » (foncé), « bright » (vif) : « light blue », « dark green ». On peut aussi ajouter « -ish » à l’oral : « greenish » (verdâtre, plutôt vert).",
+   "La question est « What colour is it? » (« Quelle couleur… ? »), pas « Which colour ». Orthographe : « colour », « grey » en anglais britannique ; « color », « gray » en anglais américain."
+  ],
+  "tableau": {
+   "entetes": ["Anglais", "Français", "Anglais", "Français"],
+   "lignes": [
+    ["red", "rouge", "black", "noir"],
+    ["blue", "bleu", "white", "blanc"],
+    ["green", "vert", "grey (US gray)", "gris"],
+    ["yellow", "jaune", "brown", "marron, brun"],
+    ["orange", "orange", "pink", "rose"],
+    ["purple", "violet", "beige", "beige"]
+   ]
+  },
+  "exemples": [
+   ["What colour is your car? — It's dark blue.", "De quelle couleur est ta voiture ? — Elle est bleu foncé."],
+   ["I love bright colours.", "J’adore les couleurs vives."],
+   ["She's got a light grey coat.", "Elle a un manteau gris clair."]
+  ],
+  "note": "Piège : « marron » (la couleur) se dit « brown ». Le mot anglais « maroon » désigne un rouge très foncé (bordeaux)."
+ },
+ {
+  "titre": "Les vêtements et les accessoires",
+  "texte": [
+   "Le mot « clothes » (les vêtements) est toujours pluriel et n’a pas de singulier ; pour un seul vêtement, on dit « a piece of clothing » ou on nomme le vêtement. « Cloth » (sans e ni s) veut dire « le tissu » ou « un chiffon »."
+  ],
+  "tableau": {
+   "entetes": ["Catégorie", "Anglais", "Français"],
+   "lignes": [
+    ["Le haut", "a shirt · a T-shirt · a blouse · a jumper (US sweater) · a jacket · a coat", "une chemise · un t-shirt · un chemisier · un pull · une veste · un manteau"],
+    ["Le bas", "trousers (US pants) · jeans · shorts · a skirt", "un pantalon · un jean · un short · une jupe"],
+    ["Une pièce", "a dress · a suit", "une robe · un costume, un tailleur"],
+    ["Les pieds", "shoes · trainers (US sneakers) · boots · sandals · socks", "chaussures · baskets · bottes · sandales · chaussettes"],
+    ["Accessoires", "a hat · a cap · a scarf · a belt · a tie · a bag", "un chapeau · une casquette · une écharpe · une ceinture · une cravate · un sac"]
+   ]
+  },
+  "exemples": [
+   ["He's wearing a white shirt and a black tie.", "Il porte une chemise blanche et une cravate noire."],
+   ["Take a jumper. It's cold in the evening.", "Prends un pull. Il fait froid le soir."]
+  ],
+  "note": "En anglais britannique, « pants » veut dire « slip, culotte » ! Pour « pantalon », dites « trousers » au Royaume-Uni et « pants » aux États-Unis et au Canada."
+ },
+ {
+  "titre": "Les vêtements toujours au pluriel",
+  "texte": [
+   "Les vêtements formés de deux parties identiques (deux jambes) sont toujours au pluriel en anglais : trousers, jeans, shorts, pyjamas (US pajamas), tights (collants). Le verbe est au pluriel : « My jeans are new. »",
+   "Pour en compter un, on dit « a pair of » : « a pair of jeans » (un jean), « two pairs of trousers » (deux pantalons). On ne dit jamais « a jean » ni « a trouser ».",
+   "C’est pareil pour les lunettes (« glasses ») et les ciseaux (« scissors »). Les chaussures et les chaussettes se comptent aussi par paires : « a pair of shoes »."
+  ],
+  "exemples": [
+   ["My new jeans are too long.", "Mon nouveau jean est trop long (pluriel en anglais)."],
+   ["I need a pair of black trousers for work.", "J’ai besoin d’un pantalon noir pour le travail."],
+   ["These shorts are very comfortable.", "Ce short est très confortable."]
+  ]
+ },
+ {
+  "titre": "Wear, carry, put on, take off, try on",
+  "texte": [
+   "Le verbe français « porter » a deux traductions : « wear » pour un vêtement, des lunettes, un bijou (sur soi) ; « carry » pour un objet qu’on transporte (un sac, un enfant, une valise).",
+   "« Put on » = mettre (un vêtement) ; « take off » = enlever ; « try on » = essayer (dans un magasin) ; « get dressed » = s’habiller.",
+   "Pour parler de ce qu’on porte aujourd’hui, on utilise le présent continu ; pour une habitude, le présent simple (leçon 9) : « Today I'm wearing jeans, but I usually wear a suit. »"
+  ],
+  "tableau": {
+   "entetes": ["Verbe", "Sens", "Exemple"],
+   "lignes": [
+    ["wear", "porter (sur soi)", "She always wears a hat."],
+    ["carry", "porter (transporter)", "He's carrying a big suitcase."],
+    ["put on", "mettre", "Put on your coat!"],
+    ["take off", "enlever", "Please take off your shoes."],
+    ["try on", "essayer", "Can I try on this dress?"]
+   ]
+  },
+  "exemples": [
+   ["Today I'm wearing jeans, but I usually wear a suit.", "Aujourd’hui je porte un jean, mais d’habitude je porte un costume."],
+   ["Put on your boots, it's raining.", "Mets tes bottes, il pleut."]
+  ]
+ }
+],
+"formule": "couleur + vêtement (a red dress) · a pair of + jeans / trousers / shoes · wear (sur soi) ≠ carry (transporter)",
+"prononciation": [
+ "« colour » /ˈkʌlə/ : le premier o se prononce comme le u de « but ».",
+ "« clothes » /kləʊðz/ : une seule syllabe. Beaucoup d’anglophones disent simplement /kləʊz/, comme « close ».",
+ "« shirt » /ʃɜːt/ et « skirt » /skɜːt/ : même voyelle longue /ɜː/, différente du « è » français.",
+ "« suit » /suːt/ rime avec « boot » ; le i ne se prononce pas.",
+ "« purple » /ˈpɜːpl/ et « orange » /ˈɒrɪndʒ/ : accent sur la première syllabe ; la fin de « orange » est « -rinj »."
+],
+"erreurs": [
+ ["a shirt blue", "a blue shirt", "L’adjectif de couleur se place devant le nom."],
+ ["blues shoes", "blue shoes", "L’adjectif ne prend jamais de s."],
+ ["My trouser is black.", "My trousers are black.", "Trousers, jeans, shorts : toujours au pluriel."],
+ ["I want a jean.", "I want a pair of jeans. / I want some jeans.", "On compte avec « a pair of »."],
+ ["I carry a suit to work.", "I wear a suit to work.", "Un vêtement sur soi : « wear »."],
+ ["Which colour is your car?", "What colour is your car?", "La question normale est « What colour…? »."],
+ ["It's cold, wear your coat!", "It's cold, put on your coat!", "L’action de mettre un vêtement : « put on »."],
+ ["I need new cloths.", "I need new clothes.", "« Clothes » = vêtements ; « cloth » = tissu, chiffon."]
+],
+"dialogue": {
+ "contexte": "À Lyon, Chloé aide son ami Ibrahim à choisir une tenue pour un mariage.",
+ "lignes": [
+  ["Ibrahim", "What do I wear to the wedding on Saturday?", "Qu’est-ce que je porte au mariage samedi ?"],
+  ["Chloé", "What about your dark blue suit and a white shirt?", "Et ton costume bleu foncé avec une chemise blanche ?"],
+  ["Ibrahim", "Good idea. And a tie? I've got a red one and a green one.", "Bonne idée. Et une cravate ? J’en ai une rouge et une verte."],
+  ["Chloé", "The red one. Red and dark blue look great together.", "La rouge. Le rouge et le bleu foncé vont bien ensemble."],
+  ["Ibrahim", "And shoes? My black shoes are old.", "Et les chaussures ? Mes chaussures noires sont vieilles."],
+  ["Chloé", "Let's go to the shops. You need a new pair.", "Allons dans les magasins. Il te faut une nouvelle paire."],
+  ["Ibrahim", "OK. Can I wear my trainers to the party after?", "D’accord. Je peux mettre mes baskets pour la fête après ?"],
+  ["Chloé", "Ha! Maybe. But take off your tie first!", "Ha ! Peut-être. Mais enlève ta cravate d’abord !"]
+ ]
+},
+"mots": [
+ ["shirt", "He's wearing a white shirt.", "une chemise"],
+ ["trousers", "These trousers are too short.", "un pantalon (GB ; US : pants)"],
+ ["dress", "What a beautiful dress!", "une robe"],
+ ["skirt", "She's got a long black skirt.", "une jupe"],
+ ["jacket", "Take a jacket, it's windy.", "une veste, un blouson"],
+ ["shoes", "I need new shoes.", "des chaussures"],
+ ["coat", "Put on your coat.", "un manteau"],
+ ["wear", "I wear glasses.", "porter (un vêtement, des lunettes)"],
+ ["put on", "Put on your hat, it's sunny.", "mettre (un vêtement)"],
+ ["pair", "I need a new pair of jeans.", "une paire"]
+],
+"exercices": [
+ {
+  "titre": "1. Le mélange des couleurs",
+  "consigne": "Quelle couleur obtient-on ?",
+  "items": [
+   ["blue + yellow", "green"],
+   ["red + white", "pink"],
+   ["black + white", "grey (US gray)"],
+   ["red + yellow", "orange"],
+   ["blue + red", "purple"]
+  ]
+ },
+ {
+  "titre": "2. Is ou are ?",
+  "consigne": "Complète avec is ou are.",
+  "items": [
+   ["My jeans ___ new.", "are"],
+   ["This dress ___ beautiful.", "is"],
+   ["Your shoes ___ dirty.", "are"],
+   ["Her trousers ___ black.", "are"],
+   ["My jacket ___ warm.", "is"],
+   ["These shorts ___ comfortable.", "are"]
+  ]
+ },
+ {
+  "titre": "3. Le bon verbe",
+  "consigne": "Complète avec put on, wears, carries ou take off.",
+  "items": [
+   ["It's cold. ___ your coat!", "Put on"],
+   ["He always ___ a suit at work.", "wears"],
+   ["She ___ her bag in her hand.", "carries"],
+   ["___ your shoes, please. The floor is clean.", "Take off"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Elle porte une robe rouge.", "She's wearing a red dress. (habitude : She wears a red dress.)"],
+   ["Mon pantalon est gris.", "My trousers are grey. (US : My pants are gray.)"],
+   ["J’ai deux jeans.", "I've got two pairs of jeans."],
+   ["De quelle couleur est ton sac ?", "What colour is your bag?"],
+   ["Je peux essayer ces chaussures ?", "Can I try on these shoes?"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Décris en trois ou quatre phrases ce que tu portes aujourd’hui et ce que tu portes d’habitude au travail ou en cours. Donne les couleurs.",
+  "items": [
+   ["Exemple de réponse", "Today I'm wearing blue jeans, a grey jumper and white trainers. At work I usually wear black trousers, a shirt and a dark jacket. My favourite colour is green, so I often wear a green scarf."]
+  ]
+ }
+],
+"a_retenir": [
+ "La couleur se place devant le nom et reste invariable : a red car, red cars. Question : What colour is it?",
+ "trousers, jeans, shorts, pyjamas, glasses : toujours au pluriel ; pour compter : a pair of.",
+ "wear = porter sur soi ; carry = porter, transporter ; put on = mettre ; take off = enlever ; try on = essayer.",
+ "GB / US : trousers / pants, jumper / sweater, trainers / sneakers, colour / color, grey / gray.",
+ "clothes (vêtements) ≠ cloth (tissu)."
+],
+"liens": [8, 9, 24, 35, 38],
+"refs": ["cam-adj", "cam-nouns"]
+}

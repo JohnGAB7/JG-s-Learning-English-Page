@@ -1,0 +1,217 @@
+{
+ "n": 233,
+ "niveau": "C1",
+ "titre": "The subjunctive (I suggest he be…)",
+ "intro": "“The committee recommends that she be promoted”, “It is essential that every applicant sign the form”: English has a subjunctive. It is discreet but very present in formal, legal and American English, and much more limited than the subjunctive of languages like French or Spanish.",
+ "objectifs": [
+  "Form the mandative subjunctive: the base form for every person (he be, she sign, they not leave).",
+  "Use it after verbs, adjectives and nouns of demand or necessity (suggest, insist, essential, recommendation).",
+  "Know the alternatives: should + base form (British) and the indicative (informal British).",
+  "Recognise fixed subjunctive expressions (Be that as it may, If need be, Long live…) and avoid using a subjunctive where English has none (want, although, before)."
+ ],
+ "sections": [
+  {
+   "titre": "The form: the base verb, with no -s",
+   "texte": [
+    "The English present subjunctive is simply the base form of the verb (the infinitive without to), for every person. So you only notice it in the third person singular (he sign, not he signs) and with be (I be, he be, they be).",
+    "The negative uses “not” before the base form, with no do: “that he not be informed”, “that they not leave”. The passive: “be + past participle” (that she be promoted).",
+    "The tense of the main clause does not matter: “They insist / insisted that he leave.”"
+   ],
+   "tableau": {
+    "entetes": ["Indicative", "Subjunctive", "Example"],
+    "lignes": [
+     ["he signs", "he sign", "We ask that each member sign the register."],
+     ["she is", "she be", "They recommend that she be appointed."],
+     ["he doesn't attend", "he not attend", "The judge ordered that he not attend the hearing."],
+     ["it is approved", "it be approved", "The board requires that the budget be approved by March."]
+    ]
+   },
+   "exemples": [
+    ["The doctor recommended that he take a week off.", "“take” with no -s: subjunctive."],
+    ["It is vital that the data not be shared with third parties.", "Negative: not + be, no do."]
+   ]
+  },
+  {
+   "titre": "After which words?",
+   "texte": [
+    "The mandative subjunctive appears in a that-clause expressing a demand, a recommendation or a necessity. “That” can be left out in speech, but it is almost always present in formal writing."
+   ],
+   "tableau": {
+    "entetes": ["Category", "Trigger words", "Example"],
+    "lignes": [
+     ["Verbs", "suggest, recommend, propose, insist, demand, request, require, ask, urge, advise", "I propose that the meeting be postponed."],
+     ["Adjectives", "essential, vital, crucial, important, necessary, imperative, advisable", "It is imperative that she arrive on time."],
+     ["Nouns", "suggestion, recommendation, proposal, requirement, demand, insistence", "His suggestion that we hire more staff was rejected."]
+    ]
+   },
+   "exemples": [
+    ["The union demands that the decision be reversed.", "Verb of demand + be + past participle."],
+    ["It is essential that every passenger have a valid ticket.", "“have” with no -s after essential."]
+   ]
+  },
+  {
+   "titre": "The alternatives: should and the indicative",
+   "texte": [
+    "In British English, the subjunctive is often replaced by “should + base form”: “They recommended that she should be promoted.” It is slightly less formal, but perfectly correct.",
+    "In everyday British English you also hear the indicative: “I suggest he calls them tomorrow.” This is accepted in speech and informal writing, less so in legal or academic texts.",
+    "In American English, the subjunctive is the norm, even in fairly neutral register: “I suggest he call them.” That is why you meet it so often in the American press."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Register / variety", "Example"],
+    "lignes": [
+     ["Subjunctive", "formal (everywhere), everyday (US)", "I suggest that he call them."],
+     ["should + base", "formal or neutral (mainly BrE)", "I suggest that he should call them."],
+     ["Indicative", "informal (mainly BrE)", "I suggest he calls them."],
+     ["-ing", "neutral, no specific subject", "I suggest calling them."]
+    ]
+   }
+  },
+  {
+   "titre": "Watch the double meaning: insist, suggest",
+   "texte": [
+    "“Insist” and “suggest” have two meanings. With a subjunctive (or should), they express a demand; with an ordinary indicative tense, they report a claim.",
+    "“She insisted that he leave” = she demanded that he go. “She insisted that he left” = she firmly claimed that he had gone. Similarly: “The report suggests that the policy be changed” (recommends) / “The report suggests that the policy has failed” (indicates)."
+   ],
+   "exemples": [
+    ["The manager insisted that the invoice be paid immediately.", "A demand: subjunctive."],
+    ["The manager insisted that the invoice had been paid.", "A claim: indicative (past perfect)."]
+   ]
+  },
+  {
+   "titre": "Fixed subjunctives and “were”",
+   "texte": [
+    "A few expressions keep an old subjunctive; they are fixed and formal: “Be that as it may” (nevertheless), “If need be” (if necessary), “Come what may” (whatever happens), “Suffice it to say” (it is enough to say), “So be it”, “God save the King”, “Long live…”, “Heaven forbid”.",
+    "The past subjunctive “were” (If I were you, I wish it were, as if he were) belongs to unreal meaning (lessons 159 and 160). In spoken British English “was” is common (If I was you), but “were” is still recommended in writing and expected in “If I were you” in careful English."
+   ],
+   "exemples": [
+    ["Be that as it may, we still need a decision by Friday.", "= Even so: a fixed expression."],
+    ["We'll work through the weekend if need be.", "= if necessary; never “if need is”."]
+   ]
+  },
+  {
+   "titre": "Where English has no subjunctive",
+   "texte": [
+    "Many languages use a subjunctive after “want that”, “it is necessary that”, “although”, “before”, “so that”… English does not: it uses other structures, usually an infinitive or the indicative.",
+    "The English subjunctive is therefore much rarer: keep it for formal demands and necessities (suggest, require, essential…)."
+   ],
+   "tableau": {
+    "entetes": ["Meaning", "Wrong or heavy", "Correct English"],
+    "lignes": [
+     ["wish for someone to come", "I want that you come.", "I want you to come."],
+     ["obligation", "It's necessary that you leave. (heavy)", "You have to leave. / You need to leave."],
+     ["concession", "Although he be rich…", "Although he is rich…"],
+     ["time", "Before he leave…", "Before he leaves…"],
+     ["doubt", "I doubt that he come.", "I doubt (that) he will come."]
+    ]
+   }
+  }
+ ],
+ "formule": "Verb / adjective / noun of demand or necessity + that + subject + BASE FORM (be, sign, not leave), whatever the tense of the main clause",
+ "prononciation": [
+  "The third person with no -s must be heard clearly: “that he take” /teɪk/, not “takes” /teɪks/; pronounce the end of the verb carefully so it does not sound like a mistake.",
+  "In “that she be promoted”, “be” is unstressed /bi/; the stress falls on “promoted”.",
+  "“insist” /ɪnˈsɪst/ and “require” /rɪˈkwaɪə/ are stressed on the second syllable.",
+  "“imperative” /ɪmˈperətɪv/ is stressed on the second syllable.",
+  "“If need be” is said in one breath: /ɪf ˈniːd bi/."
+ ],
+ "erreurs": [
+  ["I suggest him to call the bank.", "I suggest (that) he call / should call the bank. / I suggest calling the bank.", "“Suggest” is not followed by object + to."],
+  ["The doctor recommended that she doesn't drive.", "The doctor recommended that she not drive / should not drive.", "Subjunctive negative: not + base form, no do."],
+  ["It is essential that every student signs. (legal text)", "It is essential that every student sign.", "In formal register, use the subjunctive (or should sign)."],
+  ["I want that you come with me.", "I want you to come with me.", "“Want” + object + to; never “want that”."],
+  ["Although he be tired, he works.", "Although he is tired, he works.", "No subjunctive after although."],
+  ["It's necessary that you will sign here.", "It's necessary that you sign here. / You need to sign here.", "No will in the subjunctive clause."],
+  ["We can stay longer if need is.", "We can stay longer if need be.", "Fixed expression: if need be."]
+ ],
+ "dialogue": {
+  "contexte": "In Ottawa, two board members draft the recommendations of an annual report.",
+  "lignes": [
+   ["Grace", "For point one, I'd write: “The board recommends that the director's contract be renewed.”", "Recommend + passive subjunctive."],
+   ["Paul", "Agreed. And for the audit, “It is essential that all accounts be checked by an external firm.”", "Essential + subjunctive."],
+   ["Grace", "Should we say “should be checked”? It sounds less American.", "The British alternative."],
+   ["Paul", "Both are fine, but let's be consistent. The rest of the report uses the subjunctive.", "Consistency matters."],
+   ["Grace", "Fine. Then point three: “We request that each member not discuss the results before publication.”", "Negative subjunctive: not + base."],
+   ["Paul", "Good. Some members insisted that the results had leaked last year, by the way.", "“Insisted” = claimed: indicative."],
+   ["Grace", "Be that as it may, the rule is clear. If need be, we'll add a confidentiality clause.", "Two fixed subjunctives."],
+   ["Paul", "Perfect. I'll propose that the clause be voted on in January.", "Propose + passive subjunctive."]
+  ]
+ },
+ "mots": [
+  ["subjunctive", "The subjunctive is common in American English.", "a verb form for demands, wishes and unreal ideas"],
+  ["recommend", "We recommend that he apply early.", "advise that something should be done"],
+  ["insist", "She insisted that we stay for dinner.", "demand firmly; or claim firmly"],
+  ["require", "The law requires that each driver be insured.", "make something necessary"],
+  ["imperative", "It is imperative that we act now.", "extremely important and urgent"],
+  ["urge", "Experts urge that the plan be revised.", "strongly advise"],
+  ["advisable", "It is advisable that you book in advance.", "sensible, recommended"],
+  ["requirement", "It's a requirement that all staff be trained.", "something that must be done"],
+  ["if need be", "We can work late if need be.", "if necessary"],
+  ["be that as it may", "Be that as it may, we must decide today.", "even so; nevertheless"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Spot the subjunctive",
+   "consigne": "Say whether the verb in brackets is subjunctive or indicative.",
+   "items": [
+    ["They demanded that he [resign].", "subjunctive"],
+    ["She insisted that he [was] innocent.", "indicative"],
+    ["It is vital that the patient [rest].", "subjunctive"],
+    ["The report suggests that sales [are] falling.", "indicative"]
+   ]
+  },
+  {
+   "titre": "2. Complete with the subjunctive",
+   "consigne": "Put the verb in brackets into the subjunctive.",
+   "items": [
+    ["The committee recommends that she ___ (be) promoted.", "be"],
+    ["It is essential that each candidate ___ (bring) an ID card.", "bring"],
+    ["We request that the payment ___ (not / be) delayed.", "not be"],
+    ["The judge ordered that he ___ (pay) a fine.", "pay"],
+    ["I propose that the meeting ___ (start) at nine.", "start"]
+   ]
+  },
+  {
+   "titre": "3. Transform",
+   "consigne": "Rewrite the sentence with the structure given.",
+   "items": [
+    ["“You should take a holiday,” the doctor told him. (recommended that)", "The doctor recommended that he take a holiday."],
+    ["Every visitor must wear a badge. (It is essential that)", "It is essential that every visitor wear a badge."],
+    ["I suggest that he should call them. (subjunctive without should)", "I suggest that he call them."],
+    ["They want the decision to be reversed. (demand that)", "They demand that the decision be reversed."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    ["I suggest her to apply for the job.", "I suggest (that) she apply / should apply for the job."],
+    ["I want that you call me tonight.", "I want you to call me tonight."],
+    ["Although she be young, she is very experienced.", "Although she is young, she is very experienced."],
+    ["The rules require that every member pays on time. (legal register)", "The rules require that every member pay on time."]
+   ]
+  },
+  {
+   "titre": "5. Make it formal",
+   "consigne": "Rewrite in formal English with the words in brackets.",
+   "items": [
+    ["Every employee really must complete the training. (essential that)", "It is essential that every employee complete / attend the training."],
+    ["Even so, we must decide today. (Be that…)", "Be that as it may, we must decide today."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write three formal recommendations for an association or company, using three different triggers (verb, adjective, noun).",
+   "items": [
+    ["Example answer", "The committee recommends that the annual fee be reduced for students. It is essential that every new member receive a welcome pack within a week. Our main proposal is that the general meeting be held online as well as in person."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Subjunctive = base form for every person (he be, she sign, they not leave), after a demand or a necessity.",
+  "Triggers: suggest, recommend, insist, demand, require; essential, vital, imperative; suggestion, requirement…",
+  "Alternatives: should + base (formal or neutral BrE), indicative (informal BrE), -ing after suggest / recommend.",
+  "No subjunctive after want, although, before: I want you to come; Although he is…; fixed expressions: if need be, be that as it may."
+ ],
+ "liens": [159, 160, 186, 225, 235],
+ "refs": ["bc-c1", "cam-verbs"]
+}

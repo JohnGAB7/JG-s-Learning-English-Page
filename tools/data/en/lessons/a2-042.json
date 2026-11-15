@@ -1,0 +1,207 @@
+{
+"n": 42,
+"niveau": "A2",
+"titre": "The past simple: irregular verbs",
+"intro": "The most common English verbs (go, have, make, see, take…) are irregular: their past simple does not end in -ed, so you must learn it. Good news: negatives and questions work exactly as with regular verbs.",
+"objectifs": [
+"Know the past simple of about forty very common irregular verbs.",
+"Learn irregular verbs in groups with similar forms, not as a long list.",
+"Use didn't and Did …? with the base verb, even for irregular verbs.",
+"Tell the story of a trip or a day with regular and irregular verbs."
+],
+"sections": [
+{
+"titre": "The idea",
+"texte": [
+"An irregular verb has a special past form: go → went, see → saw, buy → bought. As with regular verbs, the form is the same for every subject (I went, she went, they went).",
+"Lists of irregular verbs have three columns: base form, past simple, past participle (go – went – gone). In this lesson, only the second column matters. The past participle is for the present perfect (lesson 51)."
+],
+"exemples": [
+["I went to Kribi last weekend.", "go → went"],
+["She bought a new phone yesterday.", "buy → bought"],
+["We had a great time.", "have → had; “have a great time” = enjoy yourself"]
+]
+},
+{
+"titre": "Learn them in groups",
+"texte": [
+"There are about 150 common irregular verbs, but about fifty are enough for daily life. They are easier to remember in families with similar forms."
+],
+"tableau": {
+"entetes": ["Group", "Base → past", "Meaning"],
+"lignes": [
+["no change", "put → put, cut → cut, cost → cost, hit → hit, let → let", "place, cut, have a price, strike, allow"],
+["ending -ought / -aught", "buy → bought, bring → brought, think → thought, teach → taught, catch → caught", "pay for, carry to a place, have an idea, give lessons, take hold of"],
+["vowel change", "sit → sat, begin → began, drink → drank, swim → swam, run → ran, come → came", "be seated, start, take a liquid, move in water, move fast on foot, move towards"],
+["ending -ew", "know → knew, grow → grew, fly → flew, draw → drew, throw → threw", "have information, get bigger, travel by air, make a picture, send through the air"],
+["ending -t", "sleep → slept, feel → felt, leave → left, keep → kept, meet → met, send → sent, spend → spent", "rest at night, have a feeling, go away, continue to have, see someone, post, use money or time"],
+["-o- in the past", "get → got, write → wrote, speak → spoke, drive → drove, ride → rode, wake → woke, break → broke", "receive, put words on paper, talk, control a car, travel on a bike, stop sleeping, damage"],
+["very irregular", "go → went, be → was / were, have → had, do → did, make → made, say → said, see → saw, take → took, give → gave, eat → ate, find → found, tell → told, hear → heard, lose → lost", "the most frequent verbs in English: learn these first"]
+]
+},
+"note": "Tip: learn five verbs a day and say one true sentence with each (“Yesterday I drank three coffees”). Personal sentences help you remember the form."
+},
+{
+"titre": "Negatives and questions: back to the base",
+"texte": [
+"In negatives and questions, the irregular form disappears: did / didn't shows the past, and the main verb goes back to its base form. It is the same rule as for regular verbs (lesson 41).",
+"Be careful with “to be”: it never uses did. We say “I wasn't”, “Were you…?” (lesson 39)."
+],
+"tableau": {
+"entetes": ["Positive", "Negative", "Question"],
+"lignes": [
+["I went.", "I didn't go.", "Did you go?"],
+["She saw it.", "She didn't see it.", "Did she see it?"],
+["They ate fish.", "They didn't eat fish.", "Did they eat fish?"],
+["He had time.", "He didn't have time.", "Did he have time?"],
+["I was tired.", "I wasn't tired.", "Were you tired?"]
+]
+},
+"exemples": [
+["We didn't take the bus; we took a taxi.", "didn't take (base) / took (past)."],
+["What did you buy at the market?", "Wh- + did + subject + base."],
+["Did you hear the news? — Yes, I did.", "Short answer with did."]
+]
+},
+{
+"titre": "Did as a main verb",
+"texte": [
+"“Do” is both a helper verb and a main verb. In the past, the main verb “do” becomes “did”. So you can see did and do in the same sentence.",
+"This is not a mistake: the first one is the helper, the second one is the main verb."
+],
+"exemples": [
+["I did my homework.", "did = main verb (past of do)."],
+["I didn't do my homework.", "didn't = helper; do = main verb."],
+["What did you do on Sunday?", "did = helper; do = main verb."]
+]
+},
+{
+"titre": "Traps: spelling and meaning",
+"texte": [
+"Some past forms look like other words, so be careful.",
+"read → read: same spelling, but different sounds (/riːd/ now, /red/ in the past). The context and the time word tell you the tense.",
+"leave → left (go away) but live → lived (have your home); feel → felt (have a feeling) but fall → fell (go down to the ground); lose → lost (not find) but loose is an adjective (not tight)."
+],
+"exemples": [
+["I read that book last year.", "read /red/: past."],
+["She left Paris in 2018.", "leave → left."],
+["He fell and felt a pain in his knee.", "fall → fell; feel → felt."]
+]
+}
+],
+"formule": "subject + irregular past (went, saw, took…) · didn't + base · Did + subject + base …?",
+"prononciation": [
+"All -ought / -aught forms sound /ɔːt/: bought /bɔːt/, thought /θɔːt/, taught /tɔːt/, caught /kɔːt/. The gh is silent.",
+"“said” is /sed/, not /seɪd/; “says” is /sez/.",
+"Past “read” is /red/, like the colour “red”.",
+"“saw” /sɔː/ sounds like “sore” in British English; “ate” is /et/ (UK) or /eɪt/ (UK and US).",
+"“went” /went/ has a short e as in “pet”; do not confuse it with “wanted” /ˈwɒntɪd/ (from want)."
+],
+"erreurs": [
+["I goed to the market.", "I went to the market.", "go is irregular: went."],
+["Did you went to school?", "Did you go to school?", "After did, always use the base verb."],
+["She didn't saw me.", "She didn't see me.", "didn't + base, even with an irregular verb."],
+["I buyed a shirt.", "I bought a shirt.", "buy → bought (/bɔːt/)."],
+["Yesterday I take the train.", "Yesterday I took the train.", "With yesterday, use the past simple (took)."],
+["Did you were happy?", "Were you happy?", "“to be” does not use did."],
+["We drinked tea.", "We drank tea.", "drink → drank (vowel change)."]
+],
+"dialogue": {
+"contexte": "Fatou is back from a trip to Canada. Her friend Claire calls her from Lyon.",
+"lignes": [
+["Claire", "Welcome back! How was Canada?", "How was…? = a question with “to be”."],
+["Fatou", "Amazing! I flew to Montreal and then I took the train to Quebec City.", "fly → flew; take → took."],
+["Claire", "Did you see the snow?", "Did + base: see."],
+["Fatou", "Yes, I did! It was minus fifteen. I bought a big coat on the first day.", "buy → bought."],
+["Claire", "Ha! What did you eat?", "Wh- question with did."],
+["Fatou", "I ate poutine three times. And I met some very friendly people.", "eat → ate; meet → met."],
+["Claire", "Did you speak French or English?", "Did + base: speak."],
+["Fatou", "Both! But I didn't understand the Quebec accent at first.", "didn't + base: understand."]
+]
+},
+"mots": [
+["trip", "We had a short trip to Ghent.", "a journey to a place and back again"],
+["fly", "I flew to Montreal in May.", "to travel by plane"],
+["buy", "She bought some souvenirs.", "to get something by paying money"],
+["meet", "We met at the airport.", "to see and talk to someone, by plan or by chance"],
+["leave", "The bus left at seven.", "to go away from a place"],
+["spend", "I spent a week in Dakar.", "to use time or money"],
+["lose", "He lost his passport.", "to not be able to find something"],
+["forget", "I forgot my umbrella.", "to not remember"],
+["understand", "Did you understand the guide?", "to know the meaning of something"],
+["bring", "They brought a cake.", "to take something or someone with you to a place"]
+],
+"exercices": [
+{
+"titre": "1. Find the past form",
+"consigne": "Write the past simple of each irregular verb.",
+"items": [
+["go", "went"],
+["see", "saw"],
+["take", "took"],
+["buy", "bought"],
+["eat", "ate"],
+["write", "wrote"],
+["think", "thought"],
+["put", "put"]
+]
+},
+{
+"titre": "2. Complete the story",
+"consigne": "Put the verbs in the past simple.",
+"items": [
+["Last year I ___ (go) to Belgium for the first time.", "went"],
+["I ___ (leave) Douala on a Friday night.", "left"],
+["The flight ___ (be) long, so I ___ (sleep) a lot.", "was … slept"],
+["In Brussels I ___ (meet) my cousin at the station.", "met"],
+["We ___ (have) dinner and ___ (drink) some hot chocolate.", "had … drank"]
+]
+},
+{
+"titre": "3. Negative and question",
+"consigne": "Change the sentence as shown in brackets.",
+"items": [
+["She found her keys. (negative)", "She didn't find her keys."],
+["They came by car. (question)", "Did they come by car?"],
+["He told the truth. (negative)", "He didn't tell the truth."],
+["You did the shopping. (question)", "Did you do the shopping?"],
+["I was at home. (negative)", "I wasn't at home."]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["I catched the bus at 8.", "I caught the bus at 8."],
+["Did you saw the film?", "Did you see the film?"],
+["We didn't went out.", "We didn't go out."],
+["He teached maths in Yaoundé.", "He taught maths in Yaoundé."]
+]
+},
+{
+"titre": "5. Write the question",
+"consigne": "Write a question about the part in CAPITALS.",
+"items": [
+["I forgot MY PHONE at home.", "What did you forget at home?"],
+["They came to the party AT NINE.", "When did they come to the party?"],
+["She said “SEE YOU TOMORROW”.", "What did she say?"]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Write five or six sentences about a trip or a day out, with at least five different irregular verbs.",
+"items": [
+["Model answer", "Last month I went to Ghent with two friends. We took the train from Brussels and got there at ten. We saw the old castle and ate waffles in a small café. I bought a postcard for my mother. We didn't spend much money, but we had a wonderful day."]
+]
+}
+],
+"a_retenir": [
+"The most common verbs are irregular: went, had, did, made, saw, took, got, said…",
+"One past form for all subjects.",
+"Negatives and questions: didn't / Did + base (didn't go, Did you see…?).",
+"“to be” never uses did: wasn't, weren't, Was…? Were…?",
+"Learn verbs in groups (bought / thought / taught; slept / felt / kept…)."
+],
+"liens": [39, 41, 43, 51, 76],
+"refs": ["bc-a1a2", "cam-verbs"]
+}

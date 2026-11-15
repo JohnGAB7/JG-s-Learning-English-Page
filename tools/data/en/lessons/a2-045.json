@@ -1,0 +1,183 @@
+{
+"n": 45,
+"niveau": "A2",
+"titre": "“Be going to” (plans and predictions)",
+"intro": "We use “be going to” to talk about plans and intentions (“I'm going to change jobs”) and to predict something when we can already see the signs (“Look at those clouds — it's going to rain”).",
+"objectifs": [
+"Form “be going to” + base verb with every subject, in all forms.",
+"Talk about a plan or intention decided before speaking.",
+"Make a prediction based on something you can see now.",
+"Understand “gonna” in speech and know when not to write it."
+],
+"sections": [
+{
+"titre": "The form",
+"texte": [
+"Use the present of “to be” (am / is / are), then “going to” and the base verb. Only “be” changes with the subject; “going to” + base verb never changes.",
+"Negative: add not after be (I'm not going to, she isn't going to). Question: put be before the subject (Are you going to…?). Short answers: Yes, I am. / No, she isn't."
+],
+"tableau": {
+"entetes": ["Subject", "Positive", "Negative", "Question"],
+"lignes": [
+["I", "I'm going to call", "I'm not going to call", "Am I going to call?"],
+["you", "you're going to call", "you aren't going to call", "Are you going to call?"],
+["he / she / it", "she's going to call", "she isn't going to call", "Is she going to call?"],
+["we", "we're going to call", "we aren't going to call", "Are we going to call?"],
+["they", "they're going to call", "they aren't going to call", "Are they going to call?"]
+]
+},
+"exemples": [
+["What are you going to do this weekend?", "Wh- question about plans."],
+["Is it going to be expensive? — No, it isn't.", "Short answer with be."]
+]
+},
+{
+"titre": "Use 1: plans and intentions",
+"texte": [
+"Use “be going to” for a decision you made before the moment of speaking: a plan, an intention, a resolution. Nothing needs to be booked or organised, but the decision exists.",
+"Common time words: tomorrow, next week, next year, this summer, soon, one day."
+],
+"exemples": [
+["I'm going to learn Spanish next year.", "I have decided."],
+["We're going to paint the kitchen this weekend.", "A plan."],
+["She isn't going to accept the job in Ottawa.", "A negative intention."]
+]
+},
+{
+"titre": "Use 2: predictions with present evidence",
+"texte": [
+"We also use “be going to” to predict something when we can see now what makes it likely: a sign, some evidence, a situation that has already started.",
+"Ask yourself: “Can I see it coming?” If yes, going to is natural."
+],
+"exemples": [
+["Look at those dark clouds. It's going to rain.", "Evidence: the clouds."],
+["Be careful! You're going to fall!", "I can see it happening."],
+["The score is 3–0 with five minutes left. Cameroon are going to win.", "Evidence: the score. In British English, a team often takes a plural verb."]
+]
+},
+{
+"titre": "Special points",
+"texte": [
+"With the verb “go”, people often just say “I'm going to the market” (present continuous) instead of “I'm going to go to the market”. Both are correct; the second one is a bit heavy but common in speech.",
+"“Gonna” is the fast pronunciation of “going to” + verb. You hear it everywhere in films and songs, but do not write it in an email or careful text. Note: “gonna” only replaces “going to” before a verb, never “going to” + a place (not “I'm gonna the shop”).",
+"“Will” (lesson 49) is used, among other things, for decisions made at the moment of speaking, and the present continuous (lesson 50) for fixed arrangements. Here, remember: decision already made or visible evidence → going to."
+],
+"tableau": {
+"entetes": ["Situation", "Sentence", "Why"],
+"lignes": [
+["decided before", "I'm going to buy a new laptop.", "existing intention → going to"],
+["decided now", "The phone's ringing. — I'll answer it.", "instant decision → will (lesson 49)"],
+["arranged meeting", "I'm meeting Paul at six.", "arrangement → present continuous (lesson 50)"]
+]
+}
+}
+],
+"formule": "am / is / are + going to + base verb",
+"prononciation": [
+"In everyday speech, “going to” + verb often becomes /ˈɡʌnə/ (gonna) or /ˈɡəʊɪŋ tə/ with a weak to: I'm going to call /aɪm ˈɡʌnə kɔːl/.",
+"In very fast conversation, “I'm going to” can even sound like /ˈaɪmənə/. Learn to recognise it; you don't have to copy it.",
+"Contractions are normal in speech: I'm, you're, he's, we're, they're; and isn't / aren't in negatives.",
+"In “Are you going to…?”, the voice goes up at the end of a yes / no question and down in a Wh- question (What are you going to do?)."
+],
+"erreurs": [
+["I going to travel.", "I'm going to travel.", "You need the verb “be”."],
+["She's going to visits her aunt.", "She's going to visit her aunt.", "After going to: base verb, no -s."],
+["Are you going to working tomorrow?", "Are you going to work tomorrow?", "No -ing after going to."],
+["We go to move next month.", "We're going to move next month.", "The structure is be going to, not go to."],
+["Do you going to come?", "Are you going to come?", "Make the question with be, not do."],
+["I'm gonna the supermarket.", "I'm going to the supermarket.", "Gonna = going to + verb only."]
+],
+"dialogue": {
+"contexte": "Two friends, Ama and Lucas, talk about their summer plans in a café in Lille.",
+"lignes": [
+["Lucas", "So, what are you going to do this summer?", "Wh- question about plans."],
+["Ama", "I'm going to visit my family in Accra. I'm going to stay for a month.", "Two plans."],
+["Lucas", "Lucky you! Are you going to work there?", "Yes / no question."],
+["Ama", "No, I'm not. I'm going to relax. And you?", "Short answer: No, I'm not."],
+["Lucas", "I'm going to look for a new job. I'm not going to stay at the bank.", "An intention and a negative intention."],
+["Ama", "Good idea. Oh, look at the sky — it's going to rain.", "Prediction with evidence."],
+["Lucas", "Again? I'm going to buy a bigger umbrella!", "A joke: a new plan."]
+]
+},
+"mots": [
+["plan", "What are your plans for the weekend?", "something you have decided to do; to decide what to do"],
+["intend", "I intend to finish my degree.", "to want and plan to do something"],
+["next", "We're going to move next year.", "the one after this one"],
+["soon", "It's going to start soon.", "in a short time from now"],
+["tomorrow", "I'm going to call her tomorrow.", "the day after today"],
+["sky", "The sky is very dark.", "the space above the earth where you see clouds and the sun"],
+["cloud", "Look at that black cloud!", "a white or grey shape in the sky made of water"],
+["save", "I'm going to save money for a car.", "to keep money to use later; to keep a file on a computer"],
+["holiday", "We're going to have a holiday in Spain.", "a time when you do not work and often travel (US: vacation)"],
+["look for", "He's going to look for a flat.", "to try to find"]
+],
+"exercices": [
+{
+"titre": "1. Choose the form of be",
+"consigne": "Complete with am, is or are.",
+"items": [
+["I ___ going to cook tonight.", "am"],
+["My sister ___ going to study in Canada.", "is"],
+["They ___ not going to come.", "are"],
+["___ you going to call him?", "Are"],
+["It ___ going to be hot tomorrow.", "is"]
+]
+},
+{
+"titre": "2. Complete with going to",
+"consigne": "Complete with the right form of be going to and the verb in brackets.",
+"items": [
+["We ___ (buy) a new car.", "are going to buy"],
+["He ___ (not / take) the exam this year.", "isn't going to take"],
+["What ___ you ___ (wear) to the wedding?", "are … going to wear"],
+["I ___ (not / eat) meat this month.", "'m not going to eat"],
+["___ they ___ (sell) their house?", "Are … going to sell"]
+]
+},
+{
+"titre": "3. Prediction: what is going to happen?",
+"consigne": "Write a prediction with going to from the evidence.",
+"items": [
+["The sky is black. (rain)", "It's going to rain."],
+["He's running very fast to the bus stop and the bus is leaving. (miss the bus)", "He's going to miss the bus."],
+["She's very tired and her eyes are closing. (fall asleep)", "She's going to fall asleep."],
+["The glass is at the edge of the table. (fall)", "It's going to fall."]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["I'm going to visiting Rome.", "I'm going to visit Rome."],
+["Do you going to help me?", "Are you going to help me?"],
+["She going to start a new job.", "She's going to start a new job."],
+["They're going to buys a house.", "They're going to buy a house."]
+]
+},
+{
+"titre": "5. Plan or prediction?",
+"consigne": "Write the sentence with going to, then say if it is a plan or a prediction.",
+"items": [
+["I / call / my mother / tonight", "I'm going to call my mother tonight. (plan)"],
+["Be careful, you / fall!", "Be careful, you're going to fall! (prediction)"],
+["They / not / come / tomorrow", "They aren't going to come tomorrow. (plan / intention)"]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Write five sentences about your plans for next year (at least one negative and one question).",
+"items": [
+["Model answer", "Next year I'm going to take an English exam. I'm going to read one book in English every month. I'm not going to watch films with French subtitles anymore. My brother and I are going to visit our cousins in Montreal. What are you going to do?"]
+]
+}
+],
+"a_retenir": [
+"am / is / are + going to + base verb (never -s or -ing after going to).",
+"Plan or intention decided before speaking: I'm going to change jobs.",
+"Prediction with visible evidence: Look! It's going to rain.",
+"Negative: I'm not / isn't / aren't going to; question: Are you going to…?",
+"Gonna = fast pronunciation of going to + verb: understand it, don't write it."
+],
+"liens": [4, 8, 49, 50],
+"refs": ["bc-future-forms", "cam-verbs"]
+}

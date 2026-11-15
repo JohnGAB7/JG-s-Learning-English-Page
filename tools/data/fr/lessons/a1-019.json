@@ -1,0 +1,216 @@
+{
+ "n": 19,
+ "niveau": "A1",
+ "titre": "L’alphabet et épeler son nom",
+ "intro": "Les 26 lettres sont les mêmes qu'en français, mais leur nom se prononce autrement : E se dit « i », I se dit « aï », G et J sont inversés. Savoir épeler son nom, une adresse e-mail ou un mot est indispensable au téléphone, à l'hôtel ou dans une administration.",
+ "objectifs": [
+  "Dire les 26 lettres de l'alphabet anglais avec la bonne prononciation.",
+  "Éviter les confusions typiques des francophones : E / I, G / J, A / R, H, W, Y.",
+  "Épeler son nom, son adresse et son e-mail (double, capital, hyphen, dot, at).",
+  "Demander d'épeler et vérifier une information : How do you spell that?"
+ ],
+ "sections": [
+  {
+   "titre": "Les lettres classées par son",
+   "texte": [
+    "Le plus simple est d'apprendre les lettres par groupes de même voyelle. Chaque groupe rime : A, H, J, K riment avec « day » ; B, C, D, E… riment avec « see ».",
+    "La lettre Z se dit « zed » /zed/ en anglais britannique (et au Canada) et « zee » /ziː/ en anglais américain."
+   ],
+   "tableau": {
+    "entetes": ["Son", "Lettres", "Rime avec"],
+    "lignes": [
+     ["/eɪ/", "A /eɪ/, H /eɪtʃ/, J /dʒeɪ/, K /keɪ/", "day, say"],
+     ["/iː/", "B /biː/, C /siː/, D /diː/, E /iː/, G /dʒiː/, P /piː/, T /tiː/, V /viː/ (Z /ziː/ en US)", "see, tea"],
+     ["/e/", "F /ef/, L /el/, M /em/, N /en/, S /es/, X /eks/, Z /zed/ (GB)", "bed, ten"],
+     ["/aɪ/", "I /aɪ/, Y /waɪ/", "my, why"],
+     ["/əʊ/", "O /əʊ/", "no, go"],
+     ["/uː/", "Q /kjuː/, U /juː/, W /ˈdʌbljuː/", "you, two"],
+     ["/ɑː/", "R /ɑː/", "car, far"]
+    ]
+   }
+  },
+  {
+   "titre": "Les pièges des francophones",
+   "texte": [
+    "Certaines lettres ont un nom qui ressemble à une AUTRE lettre en français. C'est la source de la plupart des erreurs au téléphone.",
+    "E se dit /iː/ (comme le « i » français) et I se dit /aɪ/ (comme « aïe »). G se dit /dʒiː/ (« dji ») et J se dit /dʒeɪ/ (« djeï ») : c'est presque l'inverse du français. A se dit /eɪ/ (« eï ») et R se dit /ɑː/ (« ar »). U se dit /juː/ (« you »), et W « double u » (« deubeul you »), pas « double v »."
+   ],
+   "tableau": {
+    "entetes": ["Lettre", "Se dit en anglais", "Le francophone croit entendre"],
+    "lignes": [
+     ["E", "/iː/ « i »", "I"],
+     ["I", "/aɪ/ « aï »", "Y (aï)"],
+     ["G", "/dʒiː/ « dji »", "J"],
+     ["J", "/dʒeɪ/ « djeï »", "G"],
+     ["A", "/eɪ/ « eï »", "E (è)"],
+     ["R", "/ɑː/ « ar »", "A"],
+     ["H", "/eɪtʃ/ « eïtch »", "—"],
+     ["Y", "/waɪ/ « waï »", "—"]
+    ]
+   },
+   "exemples": [
+    ["My name is Gilles: G-I-double L-E-S.", "Se dit : dji, aï, double el, i, es."],
+    ["It's Jean: J-E-A-N.", "Se dit : djeï, i, eï, en."]
+   ]
+  },
+  {
+   "titre": "Épeler : les mots utiles",
+   "texte": [
+    "Pour deux lettres identiques qui se suivent, on dit « double » : double L, double S, double T (en anglais américain, on dit souvent les deux lettres : L-L).",
+    "Autres mots : capital (majuscule) ou upper case ; small letter ou lower case (minuscule) ; hyphen (trait d'union) ; apostrophe ; space (espace) ; accent : « e with an acute accent » (é), « e with a grave accent » (è). Pour un e-mail : at (@), dot (.), underscore (_), dash ou hyphen (-), slash (/)."
+   ],
+   "tableau": {
+    "entetes": ["Signe", "En anglais", "Exemple"],
+    "lignes": [
+     ["@", "at", "paul at gmail dot com"],
+     [".", "dot", "www dot jg dot org"],
+     ["_", "underscore", "anna underscore b"],
+     ["-", "hyphen / dash", "Jean hyphen Pierre (Jean-Pierre)"],
+     ["'", "apostrophe", "O apostrophe Brien (O'Brien)"],
+     ["A / a", "capital A / small a", "capital M, small a, r, c"],
+     ["é", "e acute / e with an acute accent", "Hélène: H, e acute, l, e grave, n, e"]
+    ]
+   },
+   "exemples": [
+    ["My email is m.diallo@mail.com: M dot Diallo, D-I-A-double L-O, at mail dot com.", "Mon e-mail est m.diallo@mail.com."],
+    ["It's Anne-Marie, with a hyphen.", "C'est Anne-Marie, avec un trait d'union."]
+   ]
+  },
+  {
+   "titre": "Demander et vérifier",
+   "texte": [
+    "Pour demander d'épeler : « How do you spell that? » / « How do you spell your surname? » / « Could you spell that, please? » (plus poli). Pour faire répéter : « Sorry, could you repeat that? » ; « Was that B or P? » ; « Is that M for mother or N for night? ».",
+    "Au téléphone, pour éviter les confusions, on associe souvent une lettre à un mot connu (« M for Mike, N for November »). Les professionnels utilisent l'alphabet international : Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu."
+   ],
+   "exemples": [
+    ["How do you spell your name? — K-A-M-G-A.", "Comment s'écrit ton nom ? — K-A-M-G-A."],
+    ["Is that B for Bravo or P for Papa?", "C'est B comme Bravo ou P comme Papa ?"],
+    ["Could you spell that again, please?", "Vous pourriez épeler encore une fois, s'il vous plaît ?"]
+   ]
+  },
+  {
+   "titre": "Les sigles",
+   "texte": [
+    "Beaucoup de sigles se lisent lettre par lettre, avec le nom anglais des lettres : the UK /ˌjuː ˈkeɪ/, the USA, the EU /ˌiː ˈjuː/, a CV /ˌsiː ˈviː/, the BBC, a PC, an ID card /ˌaɪ ˈdiː/. L'accent tombe sur la dernière lettre.",
+    "Rappel (leçon 11) : on choisit a / an selon le son de la première lettre : an MP /em/, an FBI agent /ef/, a UN report /juː/."
+   ],
+   "exemples": [
+    ["Please send me your CV.", "Envoyez-moi votre CV, s'il vous plaît (/siː viː/)."],
+    ["Have you got an ID card?", "Avez-vous une carte d'identité ? (« an » devant /aɪ/)"]
+   ]
+  }
+ ],
+ "formule": "A /eɪ/ · E /iː/ · I /aɪ/ · O /əʊ/ · U /juː/ · G /dʒiː/ · J /dʒeɪ/ · R /ɑː/ · double L · capital · hyphen · at · dot",
+ "prononciation": [
+  "Distingue bien E /iː/ (bouche étirée, « i » long) et I /aɪ/ (deux sons, « a » puis « i »).",
+  "G /dʒiː/ et J /dʒeɪ/ commencent tous les deux par /dʒ/ (comme « djinn ») ; seule la voyelle change : « i » pour G, « eï » pour J.",
+  "H se dit /eɪtʃ/ : n'oublie pas le « tch » final. Beaucoup d'anglophones disent aussi /heɪtʃ/.",
+  "W /ˈdʌbəljuː/ a trois syllabes : DOU-ble-you, accent sur la première.",
+  "Quand on épelle, on fait de petits groupes de 3 ou 4 lettres avec une pause, et la voix monte à la fin de chaque groupe sauf le dernier."
+ ],
+ "erreurs": [
+  ["E épelé « è » ou « eu »", "E = /iː/", "Le nom de la lettre E se prononce « i »."],
+  ["I épelé « i »", "I = /aɪ/", "Le nom de la lettre I se prononce « aï »."],
+  ["G épelé « jé »", "G = /dʒiː/", "G se dit « dji »."],
+  ["J épelé « ji »", "J = /dʒeɪ/", "J se dit « djeï »."],
+  ["W épelé « double v »", "W = double u /ˈdʌbljuː/", "En anglais, W est un « double u »."],
+  ["How do you write your name? (pour faire épeler)", "How do you spell your name?", "« Épeler » = spell."],
+  ["paul arobase mail point com", "paul at mail dot com", "@ = at ; . = dot."],
+  ["Z = zed (pour un Américain)", "Z = zee (US) / zed (GB, Canada)", "Prononciation différente selon le pays."]
+ ],
+ "dialogue": {
+  "contexte": "Une cliente appelle une agence de location de voitures à Toronto pour réserver.",
+  "lignes": [
+   ["Agent", "Good morning, City Car Rental. Can I have your name, please?", "Bonjour, City Car Rental. Puis-je avoir votre nom, s'il vous plaît ?"],
+   ["Hélène", "Yes, it's Hélène Ngassa.", "Oui, Hélène Ngassa."],
+   ["Agent", "Sorry, how do you spell your first name?", "Pardon, comment s'écrit votre prénom ?"],
+   ["Hélène", "H, E, L, E, N, E. With accents on the first two Es, but that's not important.", "H, E, L, E, N, E. Avec des accents sur les deux premiers E, mais ce n'est pas important."],
+   ["Agent", "OK. And your surname?", "D'accord. Et votre nom de famille ?"],
+   ["Hélène", "N, G, A, double S, A.", "N, G, A, deux S, A."],
+   ["Agent", "Is that G for Golf?", "C'est G comme Golf ?"],
+   ["Hélène", "Yes, G for Golf. And my email is helene underscore ngassa at mail dot com.", "Oui, G comme Golf. Et mon e-mail est helene_ngassa@mail.com."],
+   ["Agent", "Perfect, thank you. Your booking number is K7: K for Kilo, 7.", "Parfait, merci. Votre numéro de réservation est K7, K comme Kilo, 7."]
+  ]
+ },
+ "mots": [
+  ["letter", "There are 26 letters in the alphabet.", "la lettre"],
+  ["alphabet", "Can you say the alphabet in English?", "l'alphabet"],
+  ["spell", "How do you spell your name?", "épeler, écrire (un mot)"],
+  ["capital", "Write your name in capital letters.", "majuscule (capital letter)"],
+  ["hyphen", "Jean-Luc has a hyphen.", "le trait d'union"],
+  ["dot", "It's info dot jg at mail dot com.", "le point (dans une adresse)"],
+  ["email", "What's your email address?", "l'e-mail, le courriel"],
+  ["address", "Can you spell your address?", "l'adresse"],
+  ["surname", "Could you spell your surname, please?", "le nom de famille"],
+  ["again", "Can you say that again?", "encore, de nouveau"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quel son ?",
+   "consigne": "Écris le son de la lettre : /eɪ/, /iː/, /e/, /aɪ/, /əʊ/, /uː/ ou /ɑː/.",
+   "items": [
+    ["E", "/iː/"],
+    ["I", "/aɪ/"],
+    ["J", "/eɪ/ (dʒeɪ)"],
+    ["G", "/iː/ (dʒiː)"],
+    ["R", "/ɑː/"],
+    ["U", "/uː/ (juː)"]
+   ]
+  },
+  {
+   "titre": "2. L'intrus",
+   "consigne": "Trouve la lettre qui n'a pas le même son que les autres.",
+   "items": [
+    ["A – H – K – E", "E (/iː/ ; les autres ont /eɪ/)"],
+    ["B – D – F – T", "F (/ef/ ; les autres ont /iː/)"],
+    ["I – Y – R", "R (/ɑː/ ; les autres ont /aɪ/)"],
+    ["Q – U – W – O", "O (/əʊ/ ; les autres ont /uː/)"]
+   ]
+  },
+  {
+   "titre": "3. Lire à voix haute",
+   "consigne": "Écris comment on dit ces adresses et noms en anglais.",
+   "items": [
+    ["anna.b@mail.com", "anna dot b at mail dot com"],
+    ["Jean-Marc", "J, E, A, N, hyphen, M, A, R, C (capital J, capital M)"],
+    ["Bassey", "B, A, double S, E, Y"],
+    ["O'Neil", "capital O, apostrophe, N, E, I, L"]
+   ]
+  },
+  {
+   "titre": "4. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Comment ça s'écrit ?", "How do you spell that? / How is that spelt?"],
+    ["Pouvez-vous épeler votre nom, s'il vous plaît ?", "Could you spell your name, please? / Can you spell your name, please?"],
+    ["C'est M comme Mike ou N comme November ?", "Is that M for Mike or N for November?"],
+    ["Mon nom s'écrit avec deux L.", "My name is spelt with a double L. / My name has a double L."]
+   ]
+  },
+  {
+   "titre": "5. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur de vocabulaire. Corrige-la.",
+   "items": [
+    ["How do you write your surname? (pour faire épeler)", "How do you spell your surname?"],
+    ["My email is tom arobase mail point fr.", "My email is tom at mail dot fr."],
+    ["Write your name in big letters.", "Write your name in capital letters."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris comment tu épelles ton prénom, ton nom de famille et ton adresse e-mail (réelle ou inventée), comme au téléphone.",
+   "items": [
+    ["Exemple de réponse", "My first name is Joël: J, O, E with two dots, L. My surname is Mbappé: M, B, A, double P, E acute. My email is joel dot m at mail dot com."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "E = /iː/, I = /aɪ/, A = /eɪ/, R = /ɑː/, U = /juː/.",
+  "G = /dʒiː/ et J = /dʒeɪ/ : presque l'inverse du français.",
+  "double L, capital M, hyphen, apostrophe ; @ = at, . = dot, _ = underscore.",
+  "Pour demander : How do you spell that? Could you spell your name, please?",
+  "Z = zed (GB, Canada), zee (US)."
+ ],
+ "liens": [2, 3, 11, 20],
+ "refs": ["bc-a1a2", "cam-using"]
+}

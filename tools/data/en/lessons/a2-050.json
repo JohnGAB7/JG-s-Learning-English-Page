@@ -1,0 +1,192 @@
+{
+"n": 50,
+"niveau": "A2",
+"titre": "Present continuous for future arrangements",
+"intro": "The present continuous (I'm meeting, she's flying) is also used for the future when something is already organised: a meeting, a booking, an event with a fixed date. It is the most natural way to talk about your diary.",
+"objectifs": [
+"Use the present continuous with a future time word for a fixed arrangement.",
+"Tell the difference between an arrangement (present continuous), an intention (going to) and an instant decision (will).",
+"Use the present simple for timetables and official schedules.",
+"Ask and answer “What are you doing tonight / this weekend?”."
+],
+"sections": [
+{
+"titre": "The form: nothing new",
+"texte": [
+"The form is the present continuous (lesson 8): am / is / are + verb-ing. What changes is the meaning: with a future time word, the sentence is about the future.",
+"Without a time word, “I'm meeting Paul” can mean “now”. With “tomorrow”, “at six”, “on Friday”, “next week”, the future meaning is clear."
+],
+"tableau": {
+"entetes": ["Form", "Example", "Note"],
+"lignes": [
+["positive", "I'm seeing the dentist on Tuesday.", "an appointment"],
+["negative", "We aren't working next Monday.", "a day off"],
+["question", "Are you coming to the party on Saturday?", "asking about plans"],
+["Wh- question", "What time is she arriving?", "asking for details"],
+["short answer", "Yes, I am. / No, I'm not.", "use be"]
+]
+}
+},
+{
+"titre": "When to use it: the diary test",
+"texte": [
+"Use the present continuous for a future event that is arranged with other people or already booked: you could write it in your diary. There is often a time, a date, a place, a ticket or a booking.",
+"Ask yourself: “Is it organised?” If yes, the present continuous is natural."
+],
+"exemples": [
+["I'm having lunch with my boss tomorrow.", "It's arranged."],
+["They're getting married in June.", "The date is fixed."],
+["We're flying to Montreal on the 12th.", "The tickets are bought."],
+["What are you doing this weekend?", "A very common question about plans."]
+]
+},
+{
+"titre": "Present continuous, going to or will?",
+"texte": [
+"All three talk about the future, but in different ways. For a plan, the present continuous and going to are often both possible: the present continuous focuses on the arrangement, going to on the intention.",
+"Do not use the present continuous for predictions or for events nobody controls: not “It's raining tomorrow” but “It's going to rain / It will rain tomorrow”."
+],
+"tableau": {
+"entetes": ["Form", "Meaning", "Example"],
+"lignes": [
+["present continuous", "fixed arrangement (diary)", "I'm meeting Awa at the station at 5."],
+["be going to", "intention, decision already made", "I'm going to ask her about the job."],
+["will", "instant decision, offer, opinion", "I'll call her now. / I think she'll say yes."],
+["present simple", "timetable, official schedule", "Her train arrives at 4:55."]
+]
+}
+},
+{
+"titre": "Present simple for timetables",
+"texte": [
+"For a public timetable or a fixed programme (transport, classes, films, shops, official events), use the present simple, even for the future. An organisation fixes these times, not you.",
+"Compare: “The film starts at 8” (the cinema's timetable) and “We're seeing a film tonight” (our arrangement)."
+],
+"exemples": [
+["The train to Antwerp leaves at 7:15 tomorrow.", "Timetable."],
+["My English class starts next Monday.", "Official programme."],
+["What time does the museum open on Sunday?", "Question about a timetable."]
+]
+},
+{
+"titre": "Useful expressions and special cases",
+"texte": [
+"With go and come, we prefer “I'm going to Dakar next week” to “I'm going to go to Dakar”. “I'm coming!” also means “I'll be there in a second” when someone calls you.",
+"State verbs (be, have for possession, know, like…) do not go in the present continuous, even for the future: say “I'll be at home tomorrow” or “I'm going to be at home”, not “I'm being at home”."
+],
+"exemples": [
+["I'm going to the dentist after work.", "go + present continuous."],
+["Are you coming with us? — Yes, I'm coming!", "I'm coming = I'll be there soon."]
+]
+}
+],
+"formule": "am / is / are + verb-ing + future time word (tomorrow, on Friday, at 6, next week)",
+"prononciation": [
+"Contractions are natural: I'm /aɪm/, she's /ʃiːz/, we're /wɪə/ (UK), they're /ðeə/ (UK).",
+"In “What are you doing tonight?”, “are you” is often reduced to /ə jə/: /ˈwɒt ə jə ˈduːɪŋ təˈnaɪt/.",
+"Stress the verb and the time word: I'm MEETing her on FRIday.",
+"“tomorrow” is /təˈmɒrəʊ/: stress on the second syllable; the first o is weak."
+],
+"erreurs": [
+["I meet my friend tonight.", "I'm meeting my friend tonight.", "For a personal arrangement, use the present continuous."],
+["What do you do this weekend?", "What are you doing this weekend?", "“What do you do?” asks about your job; for plans: What are you doing…?"],
+["It's raining tomorrow.", "It's going to rain tomorrow. / It will rain tomorrow.", "No present continuous for predictions."],
+["The train is leaving at 7 tomorrow.", "The train leaves at 7 tomorrow.", "Official timetable: present simple (the continuous is possible but less common)."],
+["I'm being in Paris next week.", "I'll be in Paris next week.", "“be” does not go in the present continuous here."],
+["I'm going to go to Brussels tomorrow.", "I'm going to Brussels tomorrow.", "With go, the present continuous is more natural."],
+["She's come to dinner on Friday.", "She's coming to dinner on Friday.", "You need the -ing form (she's = she is)."]
+],
+"dialogue": {
+"contexte": "On the phone, Moussa tries to arrange a meeting with his friend Pierre in Ottawa.",
+"lignes": [
+["Moussa", "Hi Pierre! What are you doing on Friday evening?", "Asking about plans."],
+["Pierre", "I'm playing basketball with my colleagues at seven. Why?", "An arrangement."],
+["Moussa", "My sister is arriving from Dakar and we're having a small dinner.", "Two arrangements."],
+["Pierre", "Oh, nice! What time does her plane land?", "Timetable: present simple."],
+["Moussa", "It lands at 5:40. I'm picking her up at the airport.", "Timetable + arrangement."],
+["Pierre", "And Saturday? Are you doing anything?", "Yes / no question."],
+["Moussa", "No, we aren't doing anything yet.", "Negative."],
+["Pierre", "Then come to my place. I'm cooking jollof rice!", "Invitation + arrangement."]
+]
+},
+"mots": [
+["appointment", "I have a dentist appointment at 3.", "a fixed time to see a doctor, an official, etc."],
+["arrangement", "We made an arrangement to meet.", "a plan you make with someone"],
+["book", "I've booked a table for four.", "to reserve a seat, a room, a ticket"],
+["pick up", "I'm picking you up at 8.", "to go and collect someone, often by car"],
+["land", "The plane lands at noon.", "to arrive on the ground (a plane)"],
+["get married", "They're getting married in May.", "to become husband and wife"],
+["diary", "Let me check my diary.", "a book or app for your appointments (US: calendar)"],
+["free", "Are you free on Thursday?", "not busy; available"],
+["busy", "I'm busy all next week.", "having a lot to do"],
+["schedule", "What's your schedule for tomorrow?", "a plan of times and activities"]
+],
+"exercices": [
+{
+"titre": "1. Arrangement or now?",
+"consigne": "Is the sentence about the future (an arrangement) or about now?",
+"items": [
+["I'm meeting Sarah tomorrow.", "future (arrangement)"],
+["Shh! I'm watching the news.", "now"],
+["We're visiting my grandparents next weekend.", "future (arrangement)"],
+["She's cooking dinner — it smells good.", "now"]
+]
+},
+{
+"titre": "2. Complete the diary",
+"consigne": "Put the verb in the present continuous to talk about these arrangements.",
+"items": [
+["On Monday I ___ (see) the doctor.", "'m seeing"],
+["On Tuesday we ___ (have) a meeting with the clients.", "'re having"],
+["___ you ___ (come) to the concert on Friday?", "Are … coming"],
+["My parents ___ (not / travel) this summer.", "aren't travelling (US: aren't traveling)"],
+["What time ___ Paul ___ (arrive) tomorrow?", "is … arriving"]
+]
+},
+{
+"titre": "3. Present continuous or present simple?",
+"consigne": "Choose the correct form.",
+"items": [
+["The bus (leaves / is leaving) at 6:30 every morning.", "leaves"],
+["I (have / am having) dinner with Léa tonight.", "am having"],
+["The film (starts / is starting) at 9 p.m.", "starts"],
+["We (fly / are flying) to Lomé on Saturday — we bought the tickets.", "are flying"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["What do you do tonight?", "What are you doing tonight?"],
+["It's snowing tomorrow.", "It's going to snow tomorrow. / It will snow tomorrow."],
+["I play tennis with Max on Sunday at ten.", "I'm playing tennis with Max on Sunday at ten."],
+["We're meet the manager at 4.", "We're meeting the manager at 4."]
+]
+},
+{
+"titre": "5. Write the sentence",
+"consigne": "Write a natural future sentence from the words.",
+"items": [
+["I / have dinner / at my parents' / tonight (arranged)", "I'm having dinner at my parents' tonight."],
+["the shop / open / at 9 a.m. tomorrow (timetable)", "The shop opens at 9 a.m. tomorrow."],
+["you / do / anything / on Saturday? (question)", "Are you doing anything on Saturday?"]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Describe your diary for next week in five sentences (at least four arrangements in the present continuous and one timetable in the present simple).",
+"items": [
+["Model answer", "Next week is busy. On Monday I'm meeting my new manager at 9. On Wednesday evening I'm playing football with my friends. On Thursday my cousin is arriving from Lyon; her train gets in at 6:20. On Saturday we're having a barbecue in the garden."]
+]
+}
+],
+"a_retenir": [
+"Present continuous + future time word = fixed arrangement (it could go in your diary).",
+"What are you doing tonight? asks about plans; What do you do? asks about your job.",
+"Official timetables (trains, films, classes): present simple (The train leaves at 7).",
+"No present continuous for predictions (It's going to rain, not It's raining tomorrow).",
+"Going to = intention; will = instant decision or opinion."
+],
+"liens": [6, 8, 45, 49],
+"refs": ["bc-future-forms", "cam-verbs"]
+}

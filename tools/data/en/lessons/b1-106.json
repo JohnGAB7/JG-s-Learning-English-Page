@@ -1,0 +1,190 @@
+{
+ "n": 106,
+ "niveau": "B1",
+ "titre": "Modals of deduction in the present (must, might, can’t)",
+ "intro": "We use must, might, may, could and can't to make deductions: to say how sure we are about something, based on evidence. “She must be tired” (I'm almost sure), “He can't be at home” (it's impossible). This is very common in conversation.",
+ "objectifs": [
+  "Express near certainty with must (positive) and can't or couldn't (negative).",
+  "Express possibility with might, may and could, and negative possibility with might not / may not.",
+  "Use the continuous form (must be working) for an action in progress.",
+  "Avoid the big trap: using mustn't for a negative deduction."
+ ],
+ "sections": [
+  {
+   "titre": "A scale of certainty",
+   "texte": [
+    "These modals sit on a scale from “almost sure it's true” to “almost sure it's not true”. They are followed by the base verb, without to, and they never take -s.",
+    "We make a deduction from evidence: what we see, hear or know. If we are completely sure, we don't use a modal: “He's at home” (I can see him)."
+   ],
+   "tableau": {
+    "entetes": ["Certainty", "Modal", "Example", "Meaning"],
+    "lignes": [
+     ["≈ 95 % yes", "must", "She must be at work.", "I'm almost sure she is."],
+     ["≈ 50 %", "might / may / could", "She might be at work.", "Perhaps she is."],
+     ["≈ 50 % no", "might not / may not", "She might not be at work.", "Perhaps she isn't."],
+     ["≈ 95 % no", "can't / couldn't", "She can't be at work.", "I'm almost sure she isn't; it's impossible."]
+    ]
+   }
+  },
+  {
+   "titre": "Must: almost sure it's true",
+   "texte": [
+    "Must expresses a logical conclusion based on strong evidence. We use it a lot to react to what someone says: “You must be exhausted!” (after a long trip), “That must be difficult.”",
+    "Careful: must also expresses obligation (You must wear a helmet), studied in lesson 107. The context shows which meaning it has."
+   ],
+   "exemples": [
+    ["The lights are on. They must be at home.", "Evidence: the lights."],
+    ["You've been travelling for 20 hours. You must be tired.", "A reaction."],
+    ["She speaks four languages. She must be very good at languages.", "A logical conclusion."]
+   ]
+  },
+  {
+   "titre": "Can't: almost sure it's not true",
+   "texte": [
+    "The opposite of must (deduction) is not mustn't but can't. “He can't be hungry, he's just eaten.” Couldn't is possible with the same meaning.",
+    "Mustn't only means prohibition (You mustn't park here). This is the most common mistake: “He mustn't be at home” does not express a deduction."
+   ],
+   "exemples": [
+    ["That can't be Ahmed. He's in Toronto this week.", "Impossible: he's somewhere else."],
+    ["You can't be serious!", "I can't believe you mean it."],
+    ["It can't be far now. We've been walking for an hour.", "Logical conclusion."]
+   ]
+  },
+  {
+   "titre": "Might, may, could: perhaps",
+   "texte": [
+    "Might, may and could express possibility, without certainty. Might is the most common in speech; may is a little more formal; could is common for guesses.",
+    "In the negative, use might not or may not (perhaps not). Couldn't means impossibility (= can't): “He might not be at home” (perhaps he isn't) ≠ “He couldn't be at home” (it's impossible).",
+    "Instead of maybe + a normal verb, English often prefers a modal: “Maybe he's ill” = “He might be ill.” Both are correct, but don't use both together."
+   ],
+   "exemples": [
+    ["Where's Fatou? – I'm not sure. She might be in the library.", "Possible."],
+    ["Take an umbrella. It may rain later.", "Possible (a little more formal)."],
+    ["The noise could be the neighbours.", "A guess."],
+    ["He might not know about the meeting.", "Perhaps he doesn't know."]
+   ]
+  },
+  {
+   "titre": "Continuous form and questions",
+   "texte": [
+    "For a deduction about an action in progress, use modal + be + -ing: “He isn't answering. He must be driving.” / “She might be sleeping.”",
+    "In questions, use could or might (not may or must): “Could she be lost?”, “Who could that be?” We also often ask with “Do you think…?”: “Do you think she's lost?”"
+   ],
+   "exemples": [
+    ["They aren't answering. They must be having dinner.", "Action in progress."],
+    ["Someone's at the door. Who could it be?", "A deduction question."]
+   ]
+  }
+ ],
+ "formule": "must / might / may / could / can't + base verb (or + be + -ing) — must = sure it's true, can't = sure it's not",
+ "prononciation": [
+  "In neutral deductions, must is weak /məst/, often without t before a consonant: “She must be tired” /ʃi məs bi ˈtaɪəd/.",
+  "can't is /kɑːnt/ in British English and /kænt/ in American English. The final t is often hard to hear: the long vowel and the stress show the negative.",
+  "might /maɪt/: the gh is silent. may /meɪ/.",
+  "To stress the conclusion, stress the modal: “You MUST be joking!”, “It CAN'T be true!”",
+  "couldn't /ˈkʊdnt/: the l is silent."
+ ],
+ "erreurs": [
+  ["He mustn't be at home: his car isn't here.", "He can't be at home: his car isn't here.", "Negative deduction: can't, not mustn't (= prohibition)."],
+  ["She must to be tired.", "She must be tired.", "No to after a modal."],
+  ["He musts be rich.", "He must be rich.", "No -s on a modal."],
+  ["Maybe she might be ill.", "She might be ill. / Maybe she's ill.", "Maybe and might say the same thing: use one."],
+  ["He couldn't be at home, I'm not sure.", "He might not be at home, I'm not sure.", "Negative possibility: might not; couldn't = impossible."],
+  ["They must be work now.", "They must be working now.", "Action in progress: must be + -ing."],
+  ["May she be lost?", "Could she be lost? / Do you think she's lost?", "In deduction questions: could or might, not may."]
+ ],
+ "dialogue": {
+  "contexte": "A Saturday evening in Montreal. Marie and her husband Tchami are waiting for their daughter Inès, who was supposed to be home at 8 p.m.",
+  "lignes": [
+   ["Marie", "It's nine o'clock. Inès should be home by now.", "Should = expected."],
+   ["Tchami", "She must be with Léa. They always study together on Saturdays.", "Must: strong evidence (a habit)."],
+   ["Marie", "She can't be with Léa. Léa's family is in Quebec City this weekend.", "Can't: impossible."],
+   ["Tchami", "Then she might be at the library. It closes at ten.", "Might: possible."],
+   ["Marie", "I've called her three times. She isn't answering.", "Present perfect: three times so far."],
+   ["Tchami", "Her phone might be on silent. Or she could be on the bus.", "Two possibilities."],
+   ["Marie", "Listen! Someone's at the door. Who could it be?", "Could in a question."],
+   ["Tchami", "That must be her. Yes, it's Inès! You must be hungry, darling.", "Must for a reaction."]
+  ]
+ },
+ "mots": [
+  ["certain", "I'm not certain, but she might be ill.", "completely sure"],
+  ["possible", "It's possible that he's lost.", "able to happen or be true"],
+  ["obviously", "He's smiling: obviously he's happy.", "in a way that is easy to see"],
+  ["exhausted", "You must be exhausted after the trip.", "extremely tired"],
+  ["joke", "You must be joking!", "to say something that is not serious"],
+  ["evidence", "There's no evidence that he was here.", "facts or signs that show something is true (uncountable)"],
+  ["guess", "I guess he must be at work.", "to think something without being sure"],
+  ["clue", "Her wet umbrella is a clue: it must be raining.", "a sign that helps you find an answer"],
+  ["on silent", "My phone was on silent.", "set so that it makes no sound"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. How certain?",
+   "consigne": "Say if the sentence means: almost sure it's true (S), possible (P) or almost sure it's not true (N).",
+   "items": [
+    ["He can't be the thief.", "N"],
+    ["They might be in the garden.", "P"],
+    ["You must be Sophie's brother.", "S"],
+    ["It could be a mistake.", "P"],
+    ["She can't be 50! She looks 30.", "N"]
+   ]
+  },
+  {
+   "titre": "2. Must or can't?",
+   "consigne": "Complete with must or can't.",
+   "items": [
+    ["He's been working all night. He ___ be exhausted.", "must"],
+    ["That ___ be the right answer. It doesn't make sense.", "can't"],
+    ["She's wearing a wedding ring. She ___ be married.", "must"],
+    ["You ___ be hungry. You've just had a big lunch.", "can't"]
+   ]
+  },
+  {
+   "titre": "3. Rewrite with a modal",
+   "consigne": "Rewrite the sentence with must, might or can't.",
+   "items": [
+    ["I'm sure he's at work.", "He must be at work."],
+    ["Perhaps she's at the gym.", "She might (may / could) be at the gym."],
+    ["I'm sure this isn't your bag.", "This can't be your bag."],
+    ["Perhaps they don't know the address.", "They might not (may not) know the address."],
+    ["I'm sure she's sleeping now.", "She must be sleeping now."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["He mustn't be Canadian: he doesn't speak English or French.", "He can't be Canadian: he doesn't speak English or French."],
+    ["She might to be at home.", "She might be at home."],
+    ["They must be watch TV: I can hear it.", "They must be watching TV: I can hear it."],
+    ["Maybe he might come later.", "He might come later. / Maybe he'll come later."]
+   ]
+  },
+  {
+   "titre": "5. React with a modal",
+   "consigne": "Write one sentence with a modal of deduction for each situation.",
+   "items": [
+    ["Your friend has just arrived after a 15-hour trip.", "You must be tired after that trip."],
+    ["Someone says your 80-year-old grandmother has run a marathon. You don't believe it.", "That can't be true!"],
+    ["Your colleague isn't at work. Perhaps she's ill.", "She might (may / could) be ill."],
+    ["Your neighbours don't answer the door at 8 p.m. You think they're eating.", "They must be having dinner."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Your colleague didn't come to work this morning and isn't answering the phone. Write 4 guesses with must, might, could and can't, and give the evidence each time.",
+   "items": [
+    ["Example answer", "He can't be on holiday, because his holiday starts next month. He might be ill: he was coughing yesterday. He could be stuck in traffic, because there was an accident on the motorway. His phone must be switched off, because it goes straight to voicemail."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "must = almost sure it's true; can't = almost sure it's not true (never mustn't for deduction).",
+  "might / may / could = possible; might not / may not = perhaps not.",
+  "Modal + base verb, no to, no -s.",
+  "Action in progress: must / might / can't + be + -ing.",
+  "Deduction questions: Could / Might…? or Do you think…?"
+ ],
+ "liens": [28, 54, 107, 156],
+ "refs": ["bc-deduction-present"]
+}

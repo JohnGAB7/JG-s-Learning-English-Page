@@ -1,0 +1,200 @@
+{
+ "n": 131,
+ "niveau": "B1",
+ "titre": "Expliquer un problème et proposer une solution",
+ "intro": "Au travail, à l'école ou dans la vie quotidienne, il faut souvent signaler un problème clairement, en expliquer la cause et les conséquences, puis proposer une solution sans paraître agressif. Cette leçon te donne les expressions et les structures pour le faire avec naturel, à l'oral comme dans un e-mail.",
+ "objectifs": [
+  "Présenter un problème clairement et poliment (There's a problem with…, I'm afraid…).",
+  "Expliquer la cause et les conséquences (because of, due to, as a result, so).",
+  "Proposer une ou plusieurs solutions avec could, why don't we, how about, I suggest, if we…",
+  "Réagir à une proposition et se mettre d'accord sur la prochaine étape."
+ ],
+ "sections": [
+  {
+   "titre": "Annoncer le problème",
+   "texte": [
+    "En anglais, on « adoucit » souvent l'annonce d'un problème avec I'm afraid, unfortunately, it seems that ou I think we have a small problem. Cela montre qu'on reste calme et coopératif.",
+    "On décrit ensuite le problème avec des faits précis : quoi, quand, depuis quand. Le present perfect est très utile pour un problème qui dure (The printer hasn't worked since Monday) ou qui vient d'arriver (The client has cancelled the order)."
+   ],
+   "tableau": {
+    "entetes": ["Expression", "Registre", "Exemple"],
+    "lignes": [
+     ["There's a problem with…", "neutre", "There's a problem with the delivery."],
+     ["I'm afraid (that)…", "poli", "I'm afraid the report won't be ready on time."],
+     ["Unfortunately,…", "poli, écrit", "Unfortunately, the system crashed this morning."],
+     ["It seems that…", "prudent", "It seems that some emails haven't arrived."],
+     ["We've got a bit of a problem.", "familier, adouci", "We've got a bit of a problem with the budget."],
+     ["The thing is,…", "oral", "The thing is, the room is too small for 30 people."]
+    ]
+   }
+  },
+  {
+   "titre": "Expliquer la cause et les conséquences",
+   "texte": [
+    "Pour la cause : because + proposition (because the supplier is late), because of / due to + nom (because of the strike, due to bad weather). Due to est plus formel et fréquent dans les annonces et les e-mails.",
+    "Pour les conséquences : so (oral), as a result, this means that, which means that. « The train was cancelled, which means that I'll be two hours late. »"
+   ],
+   "exemples": [
+    ["The flight was delayed due to a technical problem.", "Cause formelle : due to + nom."],
+    ["We can't start the meeting because the projector isn't working.", "Because + sujet + verbe."],
+    ["The server was down all morning. As a result, we lost several orders.", "Conséquence."],
+    ["Two people are ill, which means that we'll need extra help on Saturday.", "Which means that = ce qui veut dire que."]
+   ]
+  },
+  {
+   "titre": "Proposer une solution",
+   "texte": [
+    "On propose une solution avec des formes polies qui laissent la place à la discussion : We could…, Why don't we…?, How about / What about + -ing?, I suggest (that) we…, One option would be to…, If we…, we could…",
+    "Attention à la construction de suggest : I suggest that we leave early / I suggest leaving early, mais jamais « I suggest us to leave ». Après how about / what about, on met -ing : How about calling the supplier?"
+   ],
+   "tableau": {
+    "entetes": ["Structure", "Exemple"],
+    "lignes": [
+     ["We could + base verbale", "We could ask another supplier."],
+     ["Why don't we + base verbale?", "Why don't we move the meeting to Thursday?"],
+     ["How about / What about + -ing?", "How about working from home tomorrow?"],
+     ["I suggest (that) we + base verbale", "I suggest (that) we call the client today."],
+     ["I suggest + -ing", "I suggest postponing the launch."],
+     ["One solution would be to + base verbale", "One solution would be to hire a temporary assistant."],
+     ["If we…, we could / we'd…", "If we started earlier, we'd finish on time."]
+    ]
+   },
+   "exemples": [
+    ["The room is too small. Why don't we book the conference hall instead?", "Proposition sous forme de question."],
+    ["If we send the documents by email, the client will get them today.", "Premier conditionnel pour une solution réaliste."]
+   ]
+  },
+  {
+   "titre": "Réagir et se mettre d'accord",
+   "texte": [
+    "Pour accepter : That's a good idea. / That sounds good. / That could work. / Let's do that. Pour exprimer une réserve : That might be difficult because… / I'm not sure that would work. / The only problem is…",
+    "Pour conclure, on résume la décision et la prochaine étape : So, to sum up, we'll… / OK, so I'll call them and you'll update the file. / Let's meet again on Friday to check."
+   ],
+   "exemples": [
+    ["That could work, but the only problem is the cost.", "Accord avec réserve."],
+    ["OK, so I'll contact the supplier and you'll inform the team.", "Répartition des tâches."]
+   ]
+  },
+  {
+   "titre": "Par écrit : structure d'un e-mail",
+   "texte": [
+    "Un e-mail qui signale un problème suit souvent quatre étapes : 1) le contexte (I'm writing about / regarding…), 2) le problème (Unfortunately…), 3) la solution proposée (I would suggest… / Would it be possible to…?), 4) la suite (Please let me know if this works for you).",
+    "Reste factuel, évite les reproches directs (You didn't send…) et préfère des formulations neutres ou passives (The documents haven't been received yet)."
+   ],
+   "exemples": [
+    ["I'm writing regarding order no. 4521. Unfortunately, two items were missing.", "Contexte puis problème."],
+    ["Would it be possible to send them by Friday? Please let me know if this works for you.", "Solution et suite."]
+   ]
+  }
+ ],
+ "formule": "I'm afraid there's a problem with… · because of / due to… · We could… / Why don't we…? / How about + -ing? / I suggest (that) we…",
+ "prononciation": [
+  "I'm afraid /aɪm əˈfreɪd/ : accent sur -fraid ; afraid se lie à I'm.",
+  "Dans « Why don't we…? », don't est souvent réduit : /waɪ dəʊn wi/. La voix descend à la fin, car c'est une suggestion, pas une vraie question.",
+  "suggest se prononce /səˈdʒest/ en anglais britannique (souvent /səɡˈdʒest/ en anglais américain) ; accent sur la deuxième syllabe.",
+  "due to /ˈdjuː tə/ (GB) ou /ˈduː tə/ (US).",
+  "Pour adoucir, on parle un peu plus lentement et on accentue les mots positifs : « That's a GOOD idea, but… »"
+ ],
+ "erreurs": [
+  ["I suggest you to call the client.", "I suggest (that) you call the client. / I suggest calling the client.", "Suggest + that + sujet + verbe ou suggest + -ing, jamais suggest + quelqu'un + to."],
+  ["How about to move the meeting?", "How about moving the meeting?", "How about / What about + -ing."],
+  ["The flight was cancelled due to the weather was bad.", "The flight was cancelled due to bad weather. / … because the weather was bad.", "Due to / because of + nom ; because + proposition."],
+  ["Why we don't take a taxi?", "Why don't we take a taxi?", "Ordre de la question : Why don't we…?"],
+  ["We have a problem of delivery.", "We have a problem with the delivery.", "A problem with + nom."],
+  ["The printer doesn't work since Monday.", "The printer hasn't worked since Monday.", "Problème qui dure depuis : present perfect."]
+ ],
+ "dialogue": {
+  "contexte": "Une petite agence de voyages à Dakar. Aïssatou, responsable, et son collègue Julien, venu de Lyon, découvrent un problème de réservation.",
+  "lignes": [
+   ["Julien", "Aïssatou, I'm afraid there's a problem with the group booking for Saint-Louis.", "Aïssatou, j'ai bien peur qu'il y ait un problème avec la réservation de groupe pour Saint-Louis."],
+   ["Aïssatou", "What's happened?", "Que s'est-il passé ?"],
+   ["Julien", "The hotel has cancelled ten rooms due to renovation work. So twenty people have nowhere to stay.", "L'hôtel a annulé dix chambres en raison de travaux. Donc vingt personnes n'ont pas d'hébergement."],
+   ["Aïssatou", "Oh no. The group arrives on Friday, which means we only have three days.", "Oh non. Le groupe arrive vendredi, ce qui veut dire qu'on n'a que trois jours."],
+   ["Julien", "We could book rooms in the guesthouse next door. It's small, but it's very nice.", "On pourrait réserver des chambres dans la maison d'hôtes d'à côté. C'est petit, mais très bien."],
+   ["Aïssatou", "That could work. Why don't we also ask the hotel for a discount on the other rooms?", "Ça pourrait marcher. Et si on demandait aussi à l'hôtel une réduction sur les autres chambres ?"],
+   ["Julien", "Good idea. I suggest we call them this morning.", "Bonne idée. Je propose qu'on les appelle ce matin."],
+   ["Aïssatou", "OK. So you'll call the guesthouse and I'll speak to the hotel manager. Let's check again at two.", "D'accord. Donc tu appelles la maison d'hôtes et moi je parle au directeur de l'hôtel. On refait le point à quatorze heures."]
+  ]
+ },
+ "mots": [
+  ["issue", "There's an issue with the payment system.", "le problème, la question (plus neutre que problem)"],
+  ["solve", "We need to solve this problem quickly.", "résoudre"],
+  ["solution", "One solution would be to hire more staff.", "la solution"],
+  ["due to", "The train was late due to snow.", "en raison de, à cause de"],
+  ["suggest", "I suggest that we wait until Monday.", "suggérer, proposer"],
+  ["option", "We have two options.", "l'option, la possibilité"],
+  ["fix", "Can you fix the printer?", "réparer, régler"],
+  ["postpone", "We'll have to postpone the meeting.", "reporter, repousser"],
+  ["workaround", "Until it's repaired, here's a workaround.", "la solution de contournement"],
+  ["sort out", "Don't worry, I'll sort it out.", "régler, arranger"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Problème, cause ou solution ?",
+   "consigne": "Indique si la phrase annonce un problème (P), explique une cause (C) ou propose une solution (S).",
+   "items": [
+    ["I'm afraid the delivery hasn't arrived.", "P"],
+    ["It's because of the strike at the port.", "C"],
+    ["How about asking another company?", "S"],
+    ["The meeting was cancelled due to illness.", "C"],
+    ["We could work on Saturday morning.", "S"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec because, because of, due to, so ou which means that.",
+   "items": [
+    ["The shop is closed ___ the public holiday.", "because of (due to)"],
+    ["I can't come ___ my car has broken down.", "because"],
+    ["The bus was late, ___ I missed the start of the class.", "so"],
+    ["Two drivers are ill, ___ some deliveries will be late.", "which means that (so)"]
+   ]
+  },
+  {
+   "titre": "3. Proposer une solution",
+   "consigne": "Réécris la proposition avec la structure entre parenthèses.",
+   "items": [
+    ["Let's change the date. (Why don't we…?)", "Why don't we change the date?"],
+    ["Let's take the train. (How about…?)", "How about taking the train?"],
+    ["We should call the technician. (I suggest that…)", "I suggest that we call the technician."],
+    ["Hire a temporary assistant. (One solution would be…)", "One solution would be to hire a temporary assistant."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I suggest you to send the file again.", "I suggest (that) you send the file again. / I suggest sending the file again."],
+    ["What about to meet on Thursday?", "What about meeting on Thursday?"],
+    ["The internet doesn't work since yesterday.", "The internet hasn't worked since yesterday."],
+    ["There's a problem of the heating.", "There's a problem with the heating."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["J'ai bien peur que le rapport ne soit pas prêt vendredi.", "I'm afraid the report won't be ready on Friday."],
+    ["Le vol a été annulé en raison du mauvais temps.", "The flight was cancelled due to (because of) bad weather."],
+    ["Et si on reportait la réunion à lundi ?", "Why don't we postpone the meeting until Monday? / How about postponing the meeting until Monday?"],
+    ["Je propose qu'on demande l'avis du client.", "I suggest (that) we ask the client's opinion. / I suggest asking the client."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court e-mail (5 à 6 phrases) à un collègue : le projecteur de la salle de réunion ne fonctionne pas et la présentation au client est demain. Annonce le problème, explique la conséquence, propose deux solutions et conclus.",
+   "items": [
+    ["Exemple de réponse", "Hi Marc, I'm afraid there's a problem with the projector in the meeting room: it hasn't worked since this morning. This means that we can't show our slides to the client tomorrow. We could book the small conference room, which has a screen. Another option would be to send the slides to the client in advance and present them on a laptop. Could you let me know which you prefer by 5 p.m.? Thanks, Awa"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Annoncer : I'm afraid… / Unfortunately… / There's a problem with…",
+  "Cause : because + proposition ; because of / due to + nom.",
+  "Conséquence : so, as a result, which means that…",
+  "Solution : We could… / Why don't we…? / How about + -ing? / I suggest (that) we… / I suggest + -ing.",
+  "Conclure : So, I'll… and you'll… / Let's check again on…"
+ ],
+ "liens": [95, 119, 127, 128, 132],
+ "refs": ["bc-b1b2", "cam-using"]
+}

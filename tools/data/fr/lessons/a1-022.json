@@ -1,0 +1,227 @@
+{
+"n": 22,
+"niveau": "A1",
+"titre": "Les jours, les mois et les dates",
+"intro": "Les jours de la semaine, les mois et les dates servent à fixer un rendez-vous, parler de son anniversaire ou remplir un formulaire. En anglais, ils prennent une majuscule et la date se dit avec un nombre ordinal.",
+"objectifs": [
+ "Nommer les jours de la semaine, les mois et les saisons.",
+ "Utiliser la bonne préposition : on Monday, in July, at the weekend.",
+ "Dire et écrire une date à la britannique et à l’américaine (the 14th of November / November 14th).",
+ "Demander et donner la date : What's the date today? When's your birthday?"
+],
+"sections": [
+ {
+  "titre": "Les jours de la semaine",
+  "texte": [
+   "En anglais, les jours prennent toujours une majuscule : Monday, Tuesday… La semaine commence le lundi au Royaume-Uni, mais le dimanche sur beaucoup de calendriers américains et canadiens.",
+   "Devant un jour, on met « on » : « on Monday » (lundi, ce lundi-là). Pour une habitude, on met le jour au pluriel : « on Mondays » (le lundi, tous les lundis), ou « every Monday »."
+  ],
+  "tableau": {
+   "entetes": ["Anglais", "Abréviation", "Français"],
+   "lignes": [
+    ["Monday", "Mon", "lundi"],
+    ["Tuesday", "Tue", "mardi"],
+    ["Wednesday", "Wed", "mercredi"],
+    ["Thursday", "Thu", "jeudi"],
+    ["Friday", "Fri", "vendredi"],
+    ["Saturday", "Sat", "samedi"],
+    ["Sunday", "Sun", "dimanche"]
+   ]
+  },
+  "exemples": [
+   ["I have an English class on Wednesday.", "J’ai un cours d’anglais mercredi."],
+   ["The market is open on Saturdays.", "Le marché est ouvert le samedi (chaque samedi)."],
+   ["What do you do at the weekend?", "Que fais-tu le week-end ? (en américain : on the weekend)"]
+  ]
+ },
+ {
+  "titre": "Les mois et les saisons",
+  "texte": [
+   "Les mois prennent aussi une majuscule. Devant un mois, une saison ou une année, on met « in » : « in May », « in summer », « in 2026 ».",
+   "Les saisons, elles, s’écrivent en minuscules. L’automne se dit « autumn » en anglais britannique et « fall » en anglais américain et canadien."
+  ],
+  "tableau": {
+   "entetes": ["Mois", "Abréviation", "Mois", "Abréviation"],
+   "lignes": [
+    ["January", "Jan", "July", "Jul"],
+    ["February", "Feb", "August", "Aug"],
+    ["March", "Mar", "September", "Sep / Sept"],
+    ["April", "Apr", "October", "Oct"],
+    ["May", "May", "November", "Nov"],
+    ["June", "Jun", "December", "Dec"]
+   ]
+  },
+  "exemples": [
+   ["My birthday is in June.", "Mon anniversaire est en juin."],
+   ["It's very cold in Montreal in winter.", "Il fait très froid à Montréal en hiver."],
+   ["The leaves are red in autumn.", "Les feuilles sont rouges en automne (US : in the fall)."]
+  ],
+  "note": "Saisons : spring (printemps), summer (été), autumn / fall (automne), winter (hiver). Dans les pays tropicaux, on parle aussi de « the rainy season » et « the dry season »."
+ },
+ {
+  "titre": "Les nombres ordinaux pour les dates",
+  "texte": [
+   "Le français dit « le 14 novembre » avec un nombre normal (sauf « le 1er »). L’anglais utilise un nombre ordinal : « the fourteenth » (le quatorzième). On l’écrit souvent en abrégé : 1st, 2nd, 3rd, 4th…",
+   "La plupart des ordinaux se forment avec -th : fourth, sixth, tenth. Retenez les irréguliers : first, second, third, fifth, eighth, ninth, twelfth, et les dizaines en -ieth : twentieth, thirtieth.",
+   "Après 20, seul le dernier chiffre devient ordinal : twenty-first (21st), twenty-second (22nd), thirty-first (31st). Les ordinaux sont repris en détail à la leçon 89."
+  ],
+  "tableau": {
+   "entetes": ["Chiffre", "Abrégé", "En lettres"],
+   "lignes": [
+    ["1", "1st", "first"],
+    ["2", "2nd", "second"],
+    ["3", "3rd", "third"],
+    ["4", "4th", "fourth"],
+    ["5", "5th", "fifth"],
+    ["8", "8th", "eighth"],
+    ["9", "9th", "ninth"],
+    ["12", "12th", "twelfth"],
+    ["20", "20th", "twentieth"],
+    ["21", "21st", "twenty-first"],
+    ["22", "22nd", "twenty-second"],
+    ["23", "23rd", "twenty-third"],
+    ["30", "30th", "thirtieth"],
+    ["31", "31st", "thirty-first"]
+   ]
+  }
+ },
+ {
+  "titre": "Écrire et dire une date",
+  "texte": [
+   "En anglais britannique, on écrit le jour puis le mois : 14 November 2026 ou 14/11/2026. On dit : « the fourteenth of November » ou « November the fourteenth ».",
+   "En anglais américain, le mois vient d’abord : November 14, 2026 ou 11/14/2026. On dit : « November fourteenth ». Attention : 03/04 veut dire le 3 avril au Royaume-Uni mais le 4 mars aux États-Unis. Dans un e-mail international, écrivez le mois en lettres.",
+   "Les années se lisent par paires : 1998 = « nineteen ninety-eight ». À partir de 2000 : 2005 = « two thousand and five » ; 2026 = « twenty twenty-six » ou « two thousand and twenty-six »."
+  ],
+  "tableau": {
+   "entetes": ["", "Anglais britannique", "Anglais américain"],
+   "lignes": [
+    ["On écrit", "14 November 2026 · 14/11/2026", "November 14, 2026 · 11/14/2026"],
+    ["On dit", "the fourteenth of November", "November fourteenth"],
+    ["Le 1er mai", "the first of May", "May first"]
+   ]
+  },
+  "exemples": [
+   ["I was born on the 3rd of May 1998.", "Je suis né(e) le 3 mai 1998 (dit : the third of May, nineteen ninety-eight)."],
+   ["The course starts on 2 February.", "Le cours commence le 2 février (dit : on the second of February)."]
+  ]
+ },
+ {
+  "titre": "Demander le jour et la date",
+  "texte": [
+   "« What day is it today? » demande le jour de la semaine : « It's Friday. » « What's the date today? » demande la date : « It's the fourteenth of November. » Comme pour l’heure, la réponse commence par « It's ». On ne traduit pas « Nous sommes le 14 » par « We are the 14th ».",
+   "Devant une date précise, on met « on » : « on the 25th of December », « on my birthday ».",
+   "Pas de préposition devant today, tomorrow, yesterday, this, next, last, every : « See you next Monday », « I was in Lyon last month »."
+  ],
+  "exemples": [
+   ["What day is it today? — It's Tuesday.", "Quel jour sommes-nous ? — Mardi."],
+   ["What's the date today? — It's the first of March.", "Le combien sommes-nous ? — Le 1er mars."],
+   ["When's your birthday? — It's on the 9th of October.", "C’est quand, ton anniversaire ? — Le 9 octobre."],
+   ["The shop is closed next Monday.", "Le magasin est fermé lundi prochain (pas de « on »)."]
+  ]
+ }
+],
+"formule": "on + jour / date (on Monday, on 5 May) · in + mois / saison / année (in May, in 2026) · at the weekend",
+"prononciation": [
+ "« Wednesday » se dit /ˈwenzdeɪ/ : le premier d ne se prononce pas (« wenz-day »).",
+ "Ne confondez pas « Tuesday » /ˈtjuːzdeɪ/ (avec un son « tiou ») et « Thursday » /ˈθɜːzdeɪ/ (langue entre les dents).",
+ "La terminaison -th des ordinaux est /θ/ : fourth, fifth, sixth. Dans « fifth » et « twelfth », on entend /fθ/ : poussez l’air sans oublier le th.",
+ "Dans « the fourteenth of November », « the » et « of » sont faibles : /ðə ˌfɔːˈtiːnθ əv nəʊˈvembə/.",
+ "Accent : JANuary, FEBruary, AUgust /ˈɔːɡəst/ (accent au début), mais sepTEMber, ocTOber, noVEMber, deCEMber (accent sur la deuxième syllabe)."
+],
+"erreurs": [
+ ["I see her on monday.", "I see her on Monday.", "Jours et mois prennent une majuscule en anglais."],
+ ["in Monday", "on Monday", "Devant un jour : « on »."],
+ ["on July", "in July", "Devant un mois, une saison ou une année : « in »."],
+ ["We are the 14th.", "It's the 14th.", "Pour la date, on dit « It's… », jamais « We are… »."],
+ ["My birthday is the 2 May. (dit « the two May »)", "My birthday is on the 2nd of May. (dit « the second of May »)", "À l’oral, la date se dit avec un ordinal."],
+ ["See you on next Friday.", "See you next Friday.", "Pas de préposition devant next, last, this, every."],
+ ["the twenty-oneth of June", "the twenty-first of June", "Après 20, seul le dernier chiffre devient ordinal, et il garde sa forme irrégulière (first, second, third)."]
+],
+"dialogue": {
+ "contexte": "À Yaoundé, Ngono et Paul préparent une fête d’anniversaire.",
+ "lignes": [
+  ["Ngono", "When's your sister's birthday?", "C’est quand, l’anniversaire de ta sœur ?"],
+  ["Paul", "It's on the twenty-second of December.", "C’est le 22 décembre."],
+  ["Ngono", "What day is that?", "Ça tombe quel jour ?"],
+  ["Paul", "Let me check the calendar… It's a Tuesday.", "Je regarde le calendrier… C’est un mardi."],
+  ["Ngono", "A Tuesday? People work on Tuesdays. Let's have the party at the weekend.", "Un mardi ? Les gens travaillent le mardi. Faisons la fête le week-end."],
+  ["Paul", "Good idea. Saturday the nineteenth?", "Bonne idée. Samedi 19 ?"],
+  ["Ngono", "Perfect. And it's the rainy season, so let's book a room.", "Parfait. Et c’est la saison des pluies, alors réservons une salle."],
+  ["Paul", "OK, so I need to call the restaurant tomorrow.", "D’accord, donc je dois appeler le restaurant demain."]
+ ]
+},
+"mots": [
+ ["weekday", "The bank is open on weekdays.", "jour de semaine (du lundi au vendredi)"],
+ ["weekend", "We go to the beach at the weekend.", "le week-end"],
+ ["date", "What's the date today?", "la date"],
+ ["birthday", "Happy birthday!", "l’anniversaire (de naissance)"],
+ ["calendar", "Write it on the calendar.", "le calendrier"],
+ ["month", "There are twelve months in a year.", "un mois"],
+ ["year", "See you next year!", "une année, un an"],
+ ["today", "Today is Monday.", "aujourd’hui"],
+ ["tomorrow", "The exam is tomorrow.", "demain"],
+ ["yesterday", "I was in Liège yesterday.", "hier"]
+],
+"exercices": [
+ {
+  "titre": "1. On, in ou at ?",
+  "consigne": "Complète avec on, in ou at.",
+  "items": [
+   ["I play football ___ Fridays.", "on"],
+   ["Her birthday is ___ March.", "in"],
+   ["We relax ___ the weekend.", "at (US : on)"],
+   ["They got married ___ 2019.", "in"],
+   ["The shops are closed ___ 25 December.", "on"],
+   ["It snows ___ winter in Quebec.", "in"]
+  ]
+ },
+ {
+  "titre": "2. Les ordinaux",
+  "consigne": "Écris le nombre ordinal en lettres.",
+  "items": [
+   ["1st", "first"],
+   ["2nd", "second"],
+   ["3rd", "third"],
+   ["12th", "twelfth"],
+   ["21st", "twenty-first"]
+  ]
+ },
+ {
+  "titre": "3. Dire la date",
+  "consigne": "Écris comment on dit ces dates à l’oral en anglais britannique.",
+  "items": [
+   ["14/11", "the fourteenth of November"],
+   ["3/5", "the third of May"],
+   ["31/1", "the thirty-first of January"],
+   ["22/8", "the twenty-second of August"]
+  ]
+ },
+ {
+  "titre": "4. Traduire",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Nous sommes le 1er avril.", "It's the first of April."],
+   ["Mon anniversaire est en août.", "My birthday is in August."],
+   ["Je travaille le samedi.", "I work on Saturdays."],
+   ["À lundi prochain !", "See you next Monday!"],
+   ["Elle est née en 2001.", "She was born in 2001. (dit : two thousand and one)"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Écris trois phrases : la date d’aujourd’hui, la date de ton anniversaire, et ce que tu fais le week-end.",
+  "items": [
+   ["Exemple de réponse", "Today is Saturday the fourteenth of November. My birthday is on the 30th of July. At the weekend, I visit my family and I go to the market."]
+  ]
+ }
+],
+"a_retenir": [
+ "Jours et mois : majuscule (Monday, July) ; saisons : minuscule (summer, autumn / fall).",
+ "on Monday, on Mondays, on 5 May · in July, in summer, in 2026 · at the weekend (US : on the weekend).",
+ "Les dates se disent avec un ordinal : the fourteenth of November (GB), November fourteenth (US).",
+ "Royaume-Uni : jour / mois ; États-Unis : mois / jour. En cas de doute, écrivez le mois en lettres.",
+ "What day is it? — It's Friday. What's the date? — It's the 1st of March. Pas de préposition devant next, last, this, every."
+],
+"liens": [18, 20, 21, 89],
+"refs": ["bc-prep-time", "cam-using"]
+}

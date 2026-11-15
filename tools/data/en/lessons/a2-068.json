@@ -1,0 +1,199 @@
+{
+ "n": 68,
+ "niveau": "A2",
+ "titre": "Subject questions (Who called?)",
+ "intro": "In lesson 67, you learnt to make questions with did: Who did you call? But when the question word (who, what, which…) is the SUBJECT of the verb, we do not use do, does or did: Who called? This small difference changes the meaning of the question completely, and it is a classic difficulty for learners.",
+ "objectifs": [
+  "Tell the difference between a subject question (Who called you?) and an object question (Who did you call?).",
+  "Make subject questions with no auxiliary and the normal verb form (Who lives here? What happened?).",
+  "Use who, what, which and how many as subjects.",
+  "Answer subject questions correctly (Anna did. / My brother does.)."
+ ],
+ "sections": [
+  {
+   "titre": "Subject or object?",
+   "texte": [
+    "Compare: Anna called Marc. If you don't know the person who called (the subject), you ask: Who called Marc? → Anna. If you don't know the person who received the call (the object), you ask: Who did Anna call? → Marc.",
+    "In a subject question, who simply takes the place of the subject: the word order is the same as in a statement. No change of order, no do / does / did.",
+    "Tip: ask yourself if the answer is the person who DOES the action (subject → no auxiliary) or the person the action happens TO (object → do / does / did)."
+   ],
+   "tableau": {
+    "entetes": ["Sentence", "Subject question", "Object question"],
+    "lignes": [
+     ["Anna called Marc.", "Who called Marc? → Anna.", "Who did Anna call? → Marc."],
+     ["Tom loves Léa.", "Who loves Léa? → Tom.", "Who does Tom love? → Léa."],
+     ["The dog ate my sandwich.", "What ate my sandwich? → The dog.", "What did the dog eat? → My sandwich."]
+    ]
+   },
+   "exemples": [
+    ["Who called you last night?", "Someone called you: who = subject."],
+    ["Who did you call last night?", "You called someone: who = object."]
+   ]
+  },
+  {
+   "titre": "The form: Who / What + verb",
+   "texte": [
+    "In the present, the verb takes the -s of he / she / it, because who and what work like “he / she / it”: Who lives here? Who wants coffee? What makes you happy?",
+    "In the past, use the past simple form directly: Who broke the window? What happened? Who won the match?",
+    "With be and modal verbs, it's the same idea: Who is at the door? Who was absent? Who can help me? Who will come?"
+   ],
+   "exemples": [
+    ["Who wants more rice?", "Present: wants with -s."],
+    ["What happened at the station?", "Past: happened, not “did happen”."],
+    ["Who broke my glasses?", "broke = past of break."],
+    ["Who can drive?", "Modal + base form."]
+   ]
+  },
+  {
+   "titre": "Which, whose, how many as subjects",
+   "texte": [
+    "Question words followed by a noun can also be subjects: Which team won? Whose phone is ringing? How many people came?",
+    "Compare: How many people came? (subject: people came) / How many people did you invite? (object: you invited people).",
+    "What + noun works in the same way: What music relaxes you? / What music do you listen to?"
+   ],
+   "exemples": [
+    ["Which bus goes to the airport?", "Which bus = subject of goes."],
+    ["Whose dog is barking?", "Whose dog = subject."],
+    ["How many students passed the exam?", "Subject: no did."]
+   ]
+  },
+  {
+   "titre": "Answering a subject question",
+   "texte": [
+    "The short answer uses the subject + the auxiliary for the tense: Who called? — Anna did. Who lives here? — My aunt does. Who is ready? — I am.",
+    "In speech, people often answer with just the name or an object pronoun: Who wants tea? — Me! (very common), or more carefully: I do.",
+    "Be careful: even if the answer is plural, the question stays singular: Who lives in that house? — The Mbarga family. / My cousins do."
+   ],
+   "exemples": [
+    ["Who made this cake? — My sister did.", "Answer: subject + did."],
+    ["Who speaks Spanish here? — Carlos does.", "Answer: subject + does."],
+    ["Who's hungry? — We are!", "Answer with be."]
+   ]
+  },
+  {
+   "titre": "The most common traps",
+   "texte": [
+    "Trap 1: adding did from habit. “Who did call you?” is not the normal question (a stressed did is only possible for strong emphasis). The normal form is Who called you?",
+    "Trap 2: forgetting the -s in the present. Who knows the answer? (not “Who know”).",
+    "Trap 3: “what happen” without an ending. In the past: What happened? In the present, for something general: What happens when…?"
+   ],
+   "exemples": [
+    ["What happened to your car?", "Not “What did happen”."],
+    ["Who knows the answer?", "-s for he / she / it."]
+   ]
+  }
+ ],
+ "formule": "Subject question: Who / What / Which + noun / How many + noun + verb (no auxiliary) · Who called? · Object question: Who + did + subject + base form? · Who did you call?",
+ "prononciation": [
+  "In a subject question, the stress often falls on the verb and the main information: Who CALLED? What HAPPENED?",
+  "who /huː/: breathe out the h clearly; don't say “oo”.",
+  "happened /ˈhæpənd/: the -ed ending is /d/, not /ɪd/.",
+  "Who's = Who is or Who has: Who's there? /huːz/.",
+  "In the short answer, the auxiliary is stressed: ANna DID. My SIster DOES."
+ ],
+ "erreurs": [
+  ["Who did call you?", "Who called you?", "Who is the subject: no did."],
+  ["What did happen?", "What happened?", "What is the subject: no did."],
+  ["Who know the answer?", "Who knows the answer?", "Who + he / she / it form of the verb."],
+  ["Who you called?", "Who did you call?", "If who is the object, you need did."],
+  ["How many people did come?", "How many people came?", "How many people is the subject."],
+  ["Who live in this house?", "Who lives in this house?", "Always -s, even if the answer is plural."],
+  ["Who broke the vase? — My brother broke.", "My brother did.", "Short answer: subject + did."]
+ ],
+ "dialogue": {
+  "contexte": "In a shared flat in Brussels, Yasmine comes home from work and finds the kitchen in a mess.",
+  "lignes": [
+   ["Yasmine", "What happened here? Who used all the plates?", "Two subject questions."],
+   ["Lucas", "Not me! Théo did. He cooked for his friends.", "Short answer: Théo did."],
+   ["Yasmine", "How many people came?", "How many people = subject."],
+   ["Lucas", "About ten. And who did he invite? Half of his football team!", "Object question: who did he invite."],
+   ["Yasmine", "Great… And who's going to wash all this?", "Subject question with be going to."],
+   ["Lucas", "Théo is. He promised.", "Short answer with be."],
+   ["Yasmine", "Hmm. Who ate my yoghurt? It was in the fridge.", "Subject question in the past."],
+   ["Lucas", "I don't know… Which yoghurt? The one with strawberries?", "which + noun."],
+   ["Yasmine", "Yes! Lucas… what did you eat for breakfast?", "Object question: what did you eat."],
+   ["Lucas", "Er… a strawberry yoghurt. Sorry!", "The mystery is solved."]
+  ]
+ },
+ "mots": [
+  ["happen", "What happened yesterday?", "take place (an event)"],
+  ["break", "Who broke the window?", "make something go into pieces or stop working"],
+  ["win", "Which team won?", "be the best in a game or competition"],
+  ["invite", "Who did you invite?", "ask someone to come to a party, a meal…"],
+  ["ring", "Whose phone is ringing?", "make a sound (a phone, a bell)"],
+  ["promise", "He promised to help.", "say that you will certainly do something"],
+  ["fridge", "The milk is in the fridge.", "a cold box in the kitchen for food"],
+  ["plate", "Put the plates on the table.", "a flat dish for food"],
+  ["absent", "Who was absent today?", "not present, not there"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Subject or object?",
+   "consigne": "Read the sentence, then ask two questions with who: one about the subject and one about the object.",
+   "items": [
+    ["Paul helped Awa.", "Who helped Awa? (Paul) / Who did Paul help? (Awa)"],
+    ["My mother phoned the doctor.", "Who phoned the doctor? / Who did your mother phone?"],
+    ["Sara loves Karim.", "Who loves Karim? / Who does Sara love?"],
+    ["The teacher saw Léo.", "Who saw Léo? / Who did the teacher see?"]
+   ]
+  },
+  {
+   "titre": "2. Subject questions",
+   "consigne": "Ask the subject question for the part in CAPITALS.",
+   "items": [
+    ["MY BROTHER lives in Toronto.", "Who lives in Toronto?"],
+    ["SOMETHING STRANGE happened last night.", "What happened last night?"],
+    ["CAMEROON won the match.", "Who won the match? / Which team won the match?"],
+    ["TWENTY PEOPLE came to the meeting.", "How many people came to the meeting?"],
+    ["AMÉLIE'S phone is ringing.", "Whose phone is ringing?"]
+   ]
+  },
+  {
+   "titre": "3. With or without did?",
+   "consigne": "Choose the right question.",
+   "items": [
+    ["You want to know the writer of this book. (Who wrote / Who did write) this book?", "Who wrote this book?"],
+    ["You want to know the thing your friend bought. (What bought you / What did you buy)?", "What did you buy?"],
+    ["You heard a noise. Something fell. (What fell / What did fall)?", "What fell?"],
+    ["Marc met someone. You want to know the person. (Who met Marc / Who did Marc meet)?", "Who did Marc meet?"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["Who did take my pen?", "Who took my pen?"],
+    ["What did happen to you?", "What happened to you?"],
+    ["Who want a coffee?", "Who wants a coffee?"],
+    ["Who you saw at the market?", "Who did you see at the market?"],
+    ["How many students did pass the test?", "How many students passed the test?"]
+   ]
+  },
+  {
+   "titre": "5. What do you say?",
+   "consigne": "Write one question for each situation.",
+   "items": [
+    ["Someone told your friend a secret. You want to know the person.", "Who told you that?"],
+    ["You see an accident in the street. You ask a person near you.", "What happened?"],
+    ["Your friend saw someone yesterday. You want to know the person.", "Who did you see yesterday?"],
+    ["You are making tea. You want to know the people who want some.", "Who wants (some) tea?"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Imagine a small mystery at work or at home (something disappeared or got broken). Write four subject questions (Who…? What…? How many…? Whose…?) and two object questions with did.",
+   "items": [
+    ["Example answer", "Who opened the window? What happened to the plant? How many people came in this morning? Whose bag is this? What did the cleaner see? Who did the manager call?"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Subject question: Who / What + verb, no do / does / did (Who called? What happened?).",
+  "Object question: Who / What + did + subject + base form (Who did you call?).",
+  "In the present: Who lives…? (singular verb with -s).",
+  "Which / Whose / How many + noun can be subjects: How many people came?",
+  "Short answers: Anna did. / My aunt does. / I am."
+ ],
+ "liens": [29, 67, 105, 114],
+ "refs": ["bc-questions", "cam-sentences"]
+}

@@ -1,0 +1,216 @@
+{
+"n": 76,
+"niveau": "A2",
+"titre": "Raconter un week-end",
+"intro": "« How was your weekend? » est la question incontournable du lundi matin dans le monde anglophone. Cette leçon vous apprend à raconter votre week-end au prétérit, à poser des questions à votre tour et à réagir naturellement à ce que les autres racontent.",
+"objectifs": [
+ "Raconter un week-end passé au prétérit avec les verbes irréguliers les plus fréquents.",
+ "Poser des questions : How was your weekend? What did you do? Did you go out?",
+ "Réagir à un récit : That sounds fun! Lucky you! Oh no!",
+ "Parler du week-end prochain avec le présent continu et be going to."
+],
+"sections": [
+ {
+  "titre": "Les questions du lundi",
+  "texte": [
+   "Les questions les plus fréquentes sont « How was your weekend? » (Comment s’est passé ton week-end ?), « Did you have a good weekend? » et « What did you do at the weekend? » (US : « on the weekend »).",
+   "On peut demander plus de détails : « Did you do anything nice / special? », « Did you go out? », « Where did you go? », « Who did you go with? ». Rappel : au prétérit, la question se fait avec « did » + verbe à la base (leçon 67).",
+   "La réponse courte attendue est souvent positive et brève, suivie d’un détail : « It was great, thanks. I went to the beach. » Ensuite, on renvoie la question : « What about you? » / « How was yours? »"
+  ],
+  "tableau": {
+   "entetes": ["Question", "Réponse possible"],
+   "lignes": [
+    ["How was your weekend?", "It was great / lovely / quiet / busy / awful."],
+    ["Did you have a good weekend?", "Yes, thanks. / Not really."],
+    ["What did you do?", "I visited my grandparents in Bafoussam."],
+    ["Did you go out?", "Yes, we went to a concert. / No, I stayed in."],
+    ["Did you do anything special?", "Not really. Nothing special."]
+   ]
+  },
+  "exemples": [
+   ["How was your weekend? — Really nice, thanks. I went hiking. How was yours?", "Comment s’est passé ton week-end ? — Très bien, merci. J’ai fait de la randonnée. Et le tien ?"],
+   ["Did you do anything special? — No, nothing special. I just relaxed.", "Tu as fait quelque chose de spécial ? — Non, rien de spécial. Je me suis juste reposé(e)."]
+  ]
+ },
+ {
+  "titre": "Les verbes du week-end au prétérit",
+  "texte": [
+   "Les activités du week-end utilisent beaucoup de verbes irréguliers (leçon 42). Apprenez-les dans des expressions complètes : « went shopping », « had a barbecue », « saw a film »."
+  ],
+  "tableau": {
+   "entetes": ["Base", "Prétérit", "Expression du week-end"],
+   "lignes": [
+    ["go", "went", "went to the market / went out / went swimming"],
+    ["have", "had", "had a party / had a lie-in / had friends over"],
+    ["see", "saw", "saw a film / saw my cousins"],
+    ["meet", "met", "met some friends in town"],
+    ["do", "did", "did the shopping / did some gardening"],
+    ["spend", "spent", "spent the day at the beach"],
+    ["eat", "ate", "ate out (au restaurant)"],
+    ["sleep", "slept", "slept until eleven"],
+    ["take", "took", "took the children to the zoo"],
+    ["stay / visit / watch / play", "stayed / visited / watched / played", "stayed in / visited my aunt / watched the match / played football"]
+   ]
+  },
+  "exemples": [
+   ["On Saturday I had a lie-in and then I did the shopping.", "Samedi, j’ai fait la grasse matinée, puis j’ai fait les courses."],
+   ["We spent Sunday at my in-laws' house.", "Nous avons passé dimanche chez mes beaux-parents."],
+   ["I met some friends and we ate out in a Lebanese restaurant.", "J’ai retrouvé des amis et nous avons mangé dans un restaurant libanais."]
+  ],
+  "note": "Attention : « organiser une fête » = « have a party » (pas « make a party »). « Passer du temps » = « spend time » (pas « pass time »)."
+ },
+ {
+  "titre": "Organiser son récit",
+  "texte": [
+   "Situez les moments : « on Saturday morning », « on Sunday afternoon », « in the evening », « all weekend » (tout le week-end, sans « the »).",
+   "Enchaînez avec les connecteurs de la leçon 75 : first, then, after that, in the end. Pour décrire le décor ou une action en cours interrompue, utilisez le passé continu (leçon 43) : « We were having lunch outside when it started to rain. »",
+   "Pour un week-end calme : « I stayed in » (je suis resté(e) chez moi), « I just relaxed », « I didn't do much », « I caught up on some sleep » (j’ai rattrapé du sommeil)."
+  ],
+  "exemples": [
+   ["On Saturday morning I went to the gym. In the afternoon I visited my sister.", "Samedi matin, je suis allé(e) à la salle de sport. L’après-midi, j’ai rendu visite à ma sœur."],
+   ["We were walking in the park when we saw an old friend.", "Nous nous promenions dans le parc quand nous avons vu un vieil ami."],
+   ["I was ill, so I stayed in bed all weekend.", "J’étais malade, alors je suis resté(e) au lit tout le week-end."]
+  ]
+ },
+ {
+  "titre": "Réagir à un récit",
+  "texte": [
+   "Dans une conversation, on ne se contente pas d’écouter : on réagit. Les anglophones utilisent beaucoup de petites expressions pour montrer leur intérêt.",
+   "« That sounds… » + adjectif est très courant : « That sounds fun / great / lovely / awful ». On peut aussi poser une question de suivi : « Really? Where did you go? »"
+  ],
+  "tableau": {
+   "entetes": ["Situation", "Réaction", "Français"],
+   "lignes": [
+    ["positive", "That sounds great! / How nice!", "Ça a l’air super ! / Comme c’est sympa !"],
+    ["chance", "Lucky you!", "Quelle chance !"],
+    ["négative", "Oh no! / That's a shame. / Poor you!", "Oh non ! / C’est dommage. / Mon (ma) pauvre !"],
+    ["surprise", "Really? / No way!", "Vraiment ? / Pas possible !"],
+    ["calme", "Sounds relaxing.", "Ça a l’air reposant."]
+   ]
+  },
+  "exemples": [
+   ["I went to the beach in Grand-Bassam. — Lucky you! Was it hot?", "Je suis allé(e) à la plage à Grand-Bassam. — Quelle chance ! Il faisait chaud ?"],
+   ["My car broke down on the motorway. — Oh no! That's awful.", "Ma voiture est tombée en panne sur l’autoroute. — Oh non ! C’est affreux."]
+  ]
+ },
+ {
+  "titre": "Et le week-end prochain ?",
+  "texte": [
+   "Le vendredi, la question change : « What are you doing this weekend? » ou « Have you got any plans for the weekend? ». Pour un projet organisé, on utilise le présent continu (leçon 50) ; pour une intention, « be going to » (leçon 45).",
+   "Pour souhaiter un bon week-end : « Have a nice / good weekend! » — réponse : « Thanks, you too! »"
+  ],
+  "exemples": [
+   ["What are you doing this weekend? — I'm meeting my cousins in Ghent on Saturday.", "Que fais-tu ce week-end ? — Je retrouve mes cousins à Gand samedi."],
+   ["I'm going to paint my bedroom.", "Je vais repeindre ma chambre."],
+   ["Have a good weekend! — Thanks, you too!", "Bon week-end ! — Merci, toi aussi !"]
+  ]
+ }
+],
+"formule": "How was your weekend? — It was… I went / had / saw… What about you? · That sounds great! · What are you doing this weekend?",
+"prononciation": [
+ "Le -ed des verbes réguliers : /t/ (watched, relaxed), /d/ (stayed, played), /ɪd/ seulement après t ou d (visited, rested).",
+ "« Did you » se lie à l’oral : /ˈdɪdʒə/ (« didja »). « What did you do? » ≈ /ˈwɒdɪdʒə ˈduː/.",
+ "Irréguliers à bien prononcer : saw /sɔː/, bought /bɔːt/, caught /kɔːt/ (même voyelle longue), ate /et/ (GB) ou /eɪt/, met /met/.",
+ "« That sounds great! » : l’intonation descend sur GREAT et montre l’enthousiasme ; une voix plate peut paraître ironique.",
+ "« weekend » : accent sur la première syllabe en anglais britannique (WEEKend), souvent sur la deuxième en américain (weekEND)."
+],
+"erreurs": [
+ ["What did you do the weekend?", "What did you do at the weekend? / What did you do last weekend?", "Il faut une préposition (at, US on) ou « last »."],
+ ["I goed to the beach.", "I went to the beach.", "« Go » est irrégulier : went."],
+ ["Did you went out?", "Did you go out?", "Après « did », verbe à la base."],
+ ["I have seen a film on Saturday.", "I saw a film on Saturday.", "Moment passé précis : prétérit, pas present perfect."],
+ ["I stayed at home all the weekend.", "I stayed at home all weekend.", "« All weekend », sans « the »."],
+ ["We made a party.", "We had a party.", "Organiser une fête = have a party."],
+ ["I rested myself.", "I rested. / I relaxed.", "« Rest » et « relax » ne sont pas pronominaux."],
+ ["Nothing of special.", "Nothing special.", "Pas de « of » après nothing / something."]
+],
+"dialogue": {
+ "contexte": "Lundi matin, à la machine à café d’une entreprise à Lyon. Inès et Kwame parlent de leur week-end.",
+ "lignes": [
+  ["Kwame", "Morning, Inès! How was your weekend?", "Salut, Inès ! Comment s’est passé ton week-end ?"],
+  ["Inès", "Lovely, thanks. My sister came from Brussels, so we went to Annecy.", "Très bien, merci. Ma sœur est venue de Bruxelles, alors nous sommes allées à Annecy."],
+  ["Kwame", "Lucky you! What did you do there?", "Quelle chance ! Qu’est-ce que vous avez fait là-bas ?"],
+  ["Inès", "We walked around the lake and had lunch in the old town. Then we rented a boat.", "Nous avons fait le tour du lac et déjeuné dans la vieille ville. Ensuite, nous avons loué un bateau."],
+  ["Kwame", "That sounds amazing.", "Ça a l’air génial."],
+  ["Inès", "It was! And you? Did you do anything special?", "C’était génial ! Et toi ? Tu as fait quelque chose de spécial ?"],
+  ["Kwame", "Not really. On Saturday I did the shopping and cleaned the flat.", "Pas vraiment. Samedi, j’ai fait les courses et le ménage."],
+  ["Kwame", "On Sunday I watched the Africa Cup final with some friends.", "Dimanche, j’ai regardé la finale de la Coupe d’Afrique avec des amis."],
+  ["Inès", "Oh, was it a good match?", "Ah, c’était un bon match ?"],
+  ["Kwame", "Fantastic! We were jumping and shouting all evening!", "Fantastique ! On a sauté et crié toute la soirée !"]
+ ]
+},
+"mots": [
+ ["lie-in", "I had a lie-in on Sunday.", "une grasse matinée (GB)"],
+ ["relax", "I just relaxed at home.", "se détendre, se reposer"],
+ ["spend", "We spent the day at the beach.", "passer (du temps) ; dépenser"],
+ ["go out", "Did you go out on Saturday night?", "sortir"],
+ ["stay in", "It was raining, so we stayed in.", "rester chez soi"],
+ ["nothing special", "What did you do? — Nothing special.", "rien de spécial"],
+ ["visit", "I visited my grandmother.", "rendre visite à ; visiter"],
+ ["catch up", "I caught up with an old friend.", "prendre des nouvelles ; rattraper (son retard)"],
+ ["exhausted", "I was exhausted after the party.", "épuisé"],
+ ["fun", "The party was really fun.", "amusant ; l’amusement"]
+],
+"exercices": [
+ {
+  "titre": "1. Les prétérits",
+  "consigne": "Écris le prétérit.",
+  "items": [
+   ["go", "went"],
+   ["have", "had"],
+   ["spend", "spent"],
+   ["meet", "met"],
+   ["stay", "stayed"],
+   ["buy", "bought"]
+  ]
+ },
+ {
+  "titre": "2. Poser les questions",
+  "consigne": "Écris la question au prétérit.",
+  "items": [
+   ["how / be / your weekend?", "How was your weekend?"],
+   ["what / you / do / on Saturday?", "What did you do on Saturday?"],
+   ["you / go out / on Friday night?", "Did you go out on Friday night?"],
+   ["where / you / have / lunch?", "Where did you have lunch?"],
+   ["who / you / go / with?", "Who did you go with?"]
+  ]
+ },
+ {
+  "titre": "3. Réagir",
+  "consigne": "Choisis une réaction adaptée : Lucky you! / Oh no! / That sounds relaxing. / Really?",
+  "items": [
+   ["I won 500 euros in a competition!", "Lucky you! (ou : Really?)"],
+   ["I lost my phone on the train.", "Oh no!"],
+   ["I read a book in the garden all afternoon.", "That sounds relaxing."],
+   ["I met the president of the football club in a café!", "Really?"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Qu’est-ce que tu as fait le week-end dernier ?", "What did you do last weekend?"],
+   ["Nous avons organisé une fête samedi soir.", "We had a party on Saturday night."],
+   ["J’ai passé le dimanche avec ma famille.", "I spent Sunday with my family."],
+   ["Je suis resté(e) chez moi tout le week-end.", "I stayed in all weekend. / I stayed at home all weekend."],
+   ["Rien de spécial. Je me suis reposé(e).", "Nothing special. I relaxed. / I just rested."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Un collègue te demande « How was your weekend? ». Réponds en cinq ou six phrases au prétérit, puis renvoie-lui la question et dis ce que tu fais le week-end prochain.",
+  "items": [
+   ["Exemple de réponse", "It was really nice, thanks. On Saturday morning I had a lie-in, and then I went to the market with my mum. In the afternoon some friends came over and we watched a film. On Sunday I visited my grandparents and we ate a big lunch together. What about you? Next weekend I'm going to a wedding in Douala."]
+  ]
+ }
+],
+"a_retenir": [
+ "How was your weekend? / Did you have a good weekend? / What did you do at (US on) the weekend?",
+ "Prétérit : went, had, saw, met, did, spent, ate, slept ; question avec did + base.",
+ "have a party, spend time, all weekend, stay in, go out, have a lie-in.",
+ "Réagir : That sounds great! Lucky you! Oh no! Really? — et renvoyer la question : What about you?",
+ "Le week-end prochain : What are you doing this weekend? — I'm meeting… / I'm going to…"
+],
+"liens": [41, 42, 43, 50, 75],
+"refs": ["bc-a1a2", "cam-verbs"]
+}

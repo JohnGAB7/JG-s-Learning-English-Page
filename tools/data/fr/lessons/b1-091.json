@@ -1,0 +1,229 @@
+{
+ "n": 91,
+ "niveau": "B1",
+ "titre": "Le present perfect",
+ "intro": "Le present perfect relie le passé au présent : il parle d'expériences, de résultats visibles maintenant et de situations qui durent encore. C'est le temps qui pose le plus de problèmes aux francophones, car il ressemble au passé composé sans en avoir les mêmes emplois.",
+ "objectifs": [
+  "Former le present perfect à toutes les formes (affirmative, négative, interrogative, réponses courtes) avec les participes réguliers et irréguliers.",
+  "Choisir entre present perfect et prétérit selon que la période est terminée ou non.",
+  "Utiliser for et since pour une situation qui dure jusqu'à maintenant, sans traduire mot à mot le présent français « depuis ».",
+  "Employer correctement ever, never, just, already, yet, so far, recently et this week / this year."
+ ],
+ "sections": [
+  {
+   "titre": "La forme : have / has + participe passé",
+   "texte": [
+    "Le present perfect se construit avec l'auxiliaire have (has à la 3e personne du singulier) suivi du participe passé. Pour les verbes réguliers, le participe se termine en -ed (worked, played, stopped). Pour les verbes irréguliers, c'est la 3e colonne de la liste (go – went – gone, see – saw – seen, write – wrote – written).",
+    "À l'oral, on contracte presque toujours : I've, you've, he's, she's, we've, they've ; à la négation haven't et hasn't. Attention : he's peut vouloir dire he is ou he has. C'est le participe qui permet de trancher : « He's gone » = he has gone ; « He's going » = he is going.",
+    "Dans les questions, l'auxiliaire passe devant le sujet. Les réponses courtes reprennent l'auxiliaire : Yes, I have. / No, she hasn't. On ne répond jamais « Yes, I did » à une question au present perfect."
+   ],
+   "tableau": {
+    "entetes": ["Forme", "Structure", "Exemple"],
+    "lignes": [
+     ["Affirmative", "sujet + have / has + participe", "She has finished the report."],
+     ["Négative", "sujet + haven't / hasn't + participe", "We haven't met the new manager."],
+     ["Question", "Have / Has + sujet + participe ?", "Have you ever been to Canada?"],
+     ["Question en Wh-", "Wh- + have / has + sujet + participe ?", "Where have you put my keys?"],
+     ["Réponse courte", "Yes, sujet + have / has. No, sujet + haven't / hasn't.", "Has he called? – No, he hasn't."]
+    ]
+   },
+   "note": "Been et gone : « She has gone to Douala » = elle y est partie et elle y est encore. « She has been to Douala » = elle y est allée (et elle est revenue). Been sert donc à parler d'une expérience."
+  },
+  {
+   "titre": "Usage 1 : l'expérience (ever, never, before)",
+   "texte": [
+    "On parle de ce qu'on a vécu (ou non) dans sa vie, sans dire quand. La période considérée est « ma vie jusqu'à maintenant », qui n'est pas terminée. Si on précise le moment, on bascule au prétérit.",
+    "Ever (déjà, un jour) s'emploie surtout dans les questions ; never (ne… jamais) se place entre l'auxiliaire et le participe. Avec un superlatif, on emploie souvent le present perfect : « the best film I've ever seen »."
+   ],
+   "exemples": [
+    ["Have you ever eaten ndolé?", "As-tu déjà mangé du ndolé ? (dans ta vie, n'importe quand)"],
+    ["I've never driven on the left.", "Je n'ai jamais conduit à gauche."],
+    ["It's the most beautiful city I've ever visited.", "C'est la plus belle ville que j'aie jamais visitée."],
+    ["Yes, I've been to Montreal. I went there in 2019.", "Expérience (present perfect), puis détail daté (prétérit)."]
+   ]
+  },
+  {
+   "titre": "Usage 2 : un résultat visible maintenant (just, already, yet)",
+   "texte": [
+    "L'action est passée, mais ce qui compte, c'est sa conséquence au moment où l'on parle : « I've lost my keys » = je ne peux pas entrer maintenant. On donne une information nouvelle, une nouvelle.",
+    "Just (à l'instant) et already (déjà) se placent entre l'auxiliaire et le participe. Yet (déjà, dans une question ; pas encore, dans une négation) se place en fin de phrase. Still… haven't insiste sur le retard : « I still haven't paid ».",
+    "En anglais américain, on entend souvent le prétérit avec just, already et yet (« Did you eat yet? »). En anglais britannique, le present perfect reste la norme, et c'est ce qu'on attend à l'examen."
+   ],
+   "exemples": [
+    ["I've just sent you the file.", "Je viens de t'envoyer le fichier. (« venir de » = have just + participe)"],
+    ["Have you finished yet? – Not yet.", "Tu as déjà fini ? – Pas encore."],
+    ["They've already booked the hotel.", "Ils ont déjà réservé l'hôtel."],
+    ["Oh no, I've broken my glasses!", "Résultat présent : je n'ai plus de lunettes."]
+   ]
+  },
+  {
+   "titre": "Usage 3 : une situation qui dure encore (for, since, how long)",
+   "texte": [
+    "C'est le grand piège : là où le français met le présent avec « depuis », l'anglais met le present perfect. « J'habite à Liège depuis 2018 » = I've lived in Liège since 2018, jamais « I live in Liège since 2018 ».",
+    "For + une durée (for three years, for a long time, for ages). Since + un point de départ (since 2018, since Monday, since I was a child). La question est How long have you…? (et non « Since when », qui sonne surpris ou agacé).",
+    "Ce troisième usage concerne surtout les verbes d'état (be, have, know, live, work, like). Pour une activité qui dure, on préfère souvent le present perfect continu, vu à la leçon suivante."
+   ],
+   "tableau": {
+    "entetes": ["For + durée", "Since + point de départ"],
+    "lignes": [
+     ["for ten minutes", "since nine o'clock"],
+     ["for two weeks", "since last Monday"],
+     ["for six months", "since January"],
+     ["for years / for ages", "since 2015"],
+     ["for a long time", "since I left school"]
+    ]
+   },
+   "exemples": [
+    ["We've known each other for twenty years.", "Nous nous connaissons depuis vingt ans."],
+    ["She has been a nurse since 2016.", "Elle est infirmière depuis 2016."],
+    ["How long have you had this car?", "Depuis combien de temps as-tu cette voiture ?"]
+   ]
+  },
+  {
+   "titre": "Present perfect ou prétérit ?",
+   "texte": [
+    "La règle d'or : prétérit = moment terminé et identifié (yesterday, last year, in 2010, when I was young, two days ago, ou un moment évident dans le contexte). Present perfect = période non terminée ou moment non précisé.",
+    "Avec today, this morning, this week, this year, la période peut être terminée ou non : « I've drunk three coffees this morning » (il est encore le matin) / « I drank three coffees this morning » (il est maintenant l'après-midi).",
+    "Une conversation commence souvent au present perfect (la nouvelle) et continue au prétérit (les détails) : « I've found a new job! – Great! Where did you find it? »"
+   ],
+   "tableau": {
+    "entetes": ["Present perfect (lien avec maintenant)", "Prétérit (passé coupé du présent)"],
+    "lignes": [
+     ["I've lost my phone. (je ne l'ai toujours pas)", "I lost my phone last week. (fait daté)"],
+     ["Have you seen Paul today? (journée en cours)", "Did you see Paul yesterday?"],
+     ["He has worked here for five years. (il y travaille encore)", "He worked here for five years. (il n'y travaille plus)"],
+     ["Signaux : ever, never, just, already, yet, so far, recently, since", "Signaux : yesterday, ago, last…, in 2010, when…?"]
+    ]
+   },
+   "exemples": [
+    ["I've seen that film. I saw it last month.", "Expérience, puis date précise."],
+    ["Shakespeare wrote many plays.", "Prétérit : l'auteur est mort, sa vie est terminée."]
+   ]
+  },
+  {
+   "titre": "Autres expressions utiles",
+   "texte": [
+    "So far (jusqu'ici), up to now, recently / lately (récemment), over the last few years : ces expressions désignent une période qui va jusqu'à maintenant et appellent le present perfect.",
+    "It's the first / second time + present perfect : « It's the first time I've flown » (c'est la première fois que je prends l'avion). Le français met le présent, l'anglais le present perfect."
+   ],
+   "exemples": [
+    ["So far, we've received forty applications.", "Jusqu'ici, nous avons reçu quarante candidatures."],
+    ["It's the first time she has visited Belgium.", "C'est la première fois qu'elle visite la Belgique."],
+    ["Prices have risen a lot recently.", "Les prix ont beaucoup augmenté récemment."]
+   ]
+  }
+ ],
+ "formule": "have / has + participe passé (I've finished · She hasn't called · Have you ever…?)",
+ "prononciation": [
+  "Les formes contractées sont la norme à l'oral : I've /aɪv/, we've /wiːv/, they've /ðeɪv/, she's /ʃiːz/. Le /v/ final est léger mais présent : « I've seen » ≠ « I seen ».",
+  "Dans une question, have est en forme faible /həv/ : « Have you seen it? » /həv juː ˈsiːn ɪt/. Il redevient fort /hæv/ dans la réponse courte : « Yes, I have. »",
+  "haven't /ˈhævnt/ et hasn't /ˈhæznt/ : deux syllabes, la seconde très réduite ; le t final est souvent à peine audible.",
+  "Participes à bien prononcer : been /biːn/ (en anglais américain souvent /bɪn/), gone /ɡɒn/, done /dʌn/, known /nəʊn/ (le k est muet).",
+  "L'accent de phrase tombe sur le participe et sur les mots de sens : « I've NEVER BEEN to ROME »."
+ ],
+ "erreurs": [
+  ["I live here since 2015.", "I've lived here since 2015.", "« Depuis » + situation qui dure : present perfect, pas présent simple."],
+  ["I've seen him yesterday.", "I saw him yesterday.", "Un moment passé précis (yesterday, ago, last…) impose le prétérit."],
+  ["I work here for three years.", "I've worked here for three years.", "For + durée jusqu'à maintenant : present perfect."],
+  ["Since how long are you in Canada?", "How long have you been in Canada?", "La question de durée se pose avec How long + present perfect."],
+  ["Did you ever go to London?", "Have you ever been to London?", "Expérience dans la vie : present perfect, et been (aller et revenir)."],
+  ["He has went home.", "He has gone home.", "Après have / has, il faut le participe (gone), pas le prétérit (went)."],
+  ["I have finished it yet.", "I have already finished it.", "Yet s'emploie dans les questions et les négations ; à l'affirmative, already."],
+  ["It's the first time I visit Paris.", "It's the first time I've visited Paris.", "It's the first time + present perfect."]
+ ],
+ "dialogue": {
+  "contexte": "Bruxelles, dans une agence de communication. Amina, arrivée de Yaoundé, discute avec son collègue Tom à la pause.",
+  "lignes": [
+   ["Tom", "So, how long have you been in Brussels now?", "Alors, ça fait combien de temps que tu es à Bruxelles ?"],
+   ["Amina", "I've been here for eight months. I arrived in March.", "Je suis ici depuis huit mois. Je suis arrivée en mars."],
+   ["Tom", "Have you visited Bruges yet?", "Tu as déjà visité Bruges ?"],
+   ["Amina", "No, not yet, but I've been to Ghent twice. I went there last weekend.", "Non, pas encore, mais je suis allée deux fois à Gand. J'y suis allée le week-end dernier."],
+   ["Tom", "Have you ever tried waterzooi?", "Tu as déjà goûté le waterzooi ?"],
+   ["Amina", "Never! What is it?", "Jamais ! Qu'est-ce que c'est ?"],
+   ["Tom", "It's a creamy stew from Ghent. Oh, I've just remembered: the meeting has moved to three.", "C'est un ragoût crémeux de Gand. Oh, ça me revient : la réunion a été déplacée à quinze heures."],
+   ["Amina", "Great, I haven't finished my slides yet. Thanks!", "Super, je n'ai pas encore fini mes diapos. Merci !"]
+  ]
+ },
+ "mots": [
+  ["experience", "She has a lot of experience in sales.", "l'expérience"],
+  ["recently", "Have you seen any good films recently?", "récemment"],
+  ["so far", "So far, everything has gone well.", "jusqu'ici, pour l'instant"],
+  ["achieve", "We have achieved our goals this year.", "atteindre, accomplir"],
+  ["abroad", "Have you ever lived abroad?", "à l'étranger"],
+  ["lately", "I haven't slept well lately.", "ces derniers temps"],
+  ["for ages", "I haven't seen her for ages.", "depuis une éternité, depuis longtemps"],
+  ["move", "They have just moved to Ottawa.", "déménager"],
+  ["improve", "Your English has improved a lot.", "s'améliorer, améliorer"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Present perfect ou prétérit ?",
+   "consigne": "Choisis la bonne forme.",
+   "items": [
+    ["I (have lost / lost) my wallet. Can you lend me some money?", "have lost"],
+    ["We (have visited / visited) Kribi two years ago.", "visited"],
+    ["(Have you ever met / Did you ever meet) a famous person?", "Have you ever met"],
+    ["She (has worked / worked) at the bank since 2020.", "has worked"],
+    ["When (have you arrived / did you arrive)?", "did you arrive"]
+   ]
+  },
+  {
+   "titre": "2. For ou since ?",
+   "consigne": "Complète avec for ou since.",
+   "items": [
+    ["I've had this phone ___ 2022.", "since"],
+    ["They've been married ___ fifteen years.", "for"],
+    ["He hasn't called ___ last Tuesday.", "since"],
+    ["We've waited ___ ages!", "for"],
+    ["She's lived in Lyon ___ she was ten.", "since"]
+   ]
+  },
+  {
+   "titre": "3. Compléter avec le bon temps",
+   "consigne": "Mets le verbe entre parenthèses au present perfect ou au prétérit.",
+   "items": [
+    ["I ___ (never / see) snow.", "have never seen"],
+    ["___ you ___ (finish) your homework yet?", "Have … finished"],
+    ["Paul ___ (go) to Canada in 2018.", "went"],
+    ["Look! Someone ___ (break) the window.", "has broken"],
+    ["How long ___ you ___ (know) Fatou?", "have … known"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I know him since we were children.", "I've known him since we were children."],
+    ["Have you seen the match last night?", "Did you see the match last night?"],
+    ["She has wrote three books.", "She has written three books."],
+    ["We didn't finish yet.", "We haven't finished yet."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Je travaille ici depuis six mois.", "I've worked here for six months. / I've been working here for six months."],
+    ["Elle vient de partir.", "She's just left."],
+    ["C'est la première fois que je mange des frites belges.", "It's the first time I've eaten Belgian fries."],
+    ["Tu as déjà fini ? – Non, pas encore.", "Have you finished yet? – No, not yet."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court paragraphe (4 à 5 phrases) sur toi : une expérience que tu as faite, une que tu n'as jamais faite, depuis combien de temps tu habites où tu vis, et une chose que tu as faite récemment (avec un détail au prétérit).",
+   "items": [
+    ["Exemple de réponse", "I've lived in Montreal since 2021. I've visited many cities in Canada, but I've never been to Vancouver. I've just started a new job in a bank. Last week I met my new team, and they were very friendly."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Forme : have / has + participe passé ; question : Have you…? ; réponse courte : Yes, I have / No, I haven't.",
+  "Trois usages : expérience (ever, never), résultat présent (just, already, yet), situation qui dure (for, since).",
+  "« Depuis » + situation qui dure encore = present perfect, jamais le présent simple.",
+  "Moment passé précis (yesterday, ago, last…, in 2010, when…?) = prétérit.",
+  "been = aller et revenir (expérience) ; gone = parti et pas revenu."
+ ],
+ "liens": [51, 52, 53, 92, 93],
+ "refs": ["bc-present-perfect", "bc-just-yet"]
+}

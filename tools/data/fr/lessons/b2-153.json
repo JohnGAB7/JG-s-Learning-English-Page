@@ -1,0 +1,205 @@
+{
+ "n": 153,
+ "niveau": "B2",
+ "titre": "Le causatif « have / get something done »",
+ "intro": "« Je me fais couper les cheveux », « J'ai fait réparer ma voiture », « Il s'est fait voler son portefeuille » : pour dire qu'un service est fait pour nous, ou que quelque chose nous est arrivé, l'anglais utilise « have / get + objet + participe passé ». C'est une structure de tous les jours que les francophones traduisent souvent mal.",
+ "objectifs": [
+  "Construire « have something done » à tous les temps, avec les questions et les négations.",
+  "Distinguer « I cut my hair » (je l'ai fait moi-même) et « I had my hair cut » (quelqu'un l'a fait pour moi).",
+  "Utiliser « get something done », plus familier, et comprendre son sens d'effort (« get the job done »).",
+  "Parler d'une mauvaise expérience : « I had my phone stolen »."
+ ],
+ "sections": [
+  {
+   "titre": "La forme : have + objet + participe passé",
+   "texte": [
+    "L'ordre des mots est fixe : have + la chose + le participe passé. On dit « I had my car repaired » (j'ai fait réparer ma voiture). L'objet se place toujours entre « have » et le participe.",
+    "« Have » est ici un verbe ordinaire : il se conjugue à tous les temps, prend « do / does / did » aux questions et aux négations, et ne se contracte pas. On ne dit pas « I'd my car repaired ».",
+    "Pour préciser qui fait le travail, on ajoute « by » : « We had the house painted by a local company. »"
+   ],
+   "tableau": {
+    "entetes": ["Temps", "Exemple", "Traduction"],
+    "lignes": [
+     ["Présent simple", "I have my hair cut every month.", "Je me fais couper les cheveux tous les mois."],
+     ["Présent en be + -ing", "We're having the kitchen painted.", "On fait repeindre la cuisine (en ce moment)."],
+     ["Prétérit", "She had her phone repaired.", "Elle a fait réparer son téléphone."],
+     ["Present perfect", "Have you had your eyes tested?", "Tu t'es fait contrôler la vue ?"],
+     ["Be going to", "I'm going to have my suit cleaned.", "Je vais faire nettoyer mon costume."],
+     ["Modal", "You should have your brakes checked.", "Tu devrais faire vérifier tes freins."],
+     ["Négation", "I didn't have the car washed.", "Je n'ai pas fait laver la voiture."]
+    ]
+   }
+  },
+  {
+   "titre": "Faire soi-même ou faire faire ?",
+   "texte": [
+    "C'est la différence essentielle. « I cut my hair » signifie que j'ai pris les ciseaux moi-même. « I had my hair cut » signifie que je suis allé chez le coiffeur.",
+    "Le français dit « faire + infinitif » (faire réparer) ou « se faire + infinitif » (se faire couper les cheveux). Le calque « I made repair my car » est impossible en anglais.",
+    "On emploie très souvent cette structure pour les services : coiffeur, garagiste, tailleur, pressing, plombier, médecin, opticien, photographe."
+   ],
+   "exemples": [
+    ["I repaired my bike. / I had my bike repaired.", "Je l'ai réparé moi-même. / Je l'ai fait réparer."],
+    ["She's having a dress made for the wedding.", "Elle se fait faire une robe pour le mariage."],
+    ["We had solar panels installed last year.", "Nous avons fait installer des panneaux solaires."],
+    ["Where do you have your suits dry-cleaned?", "Où fais-tu nettoyer tes costumes à sec ?"]
+   ]
+  },
+  {
+   "titre": "« Get something done » : plus familier",
+   "texte": [
+    "« Get + objet + participe » a le même sens que « have », mais il est plus courant à l'oral et dans les messages : « I need to get my phone fixed. »",
+    "« Get » ajoute souvent une idée d'effort, d'urgence ou de résultat à obtenir : « I must get this report finished by Friday » (il faut que j'arrive à finir ce rapport). Ici, c'est parfois la personne elle-même qui fait le travail.",
+    "À l'impératif, on préfère « get » : « Get your eyes tested! » (Va te faire contrôler la vue !).",
+    "Anglais américain : au present perfect, on dit « I've gotten my car fixed » ; en anglais britannique, « I've got my car fixed » ou plutôt « I've had my car fixed »."
+   ],
+   "exemples": [
+    ["I'll get the tickets printed this afternoon.", "Je vais faire imprimer les billets cet après-midi."],
+    ["Let's get this job done and go home.", "Finissons ce travail et rentrons."],
+    ["You should get that cough checked by a doctor.", "Tu devrais faire examiner cette toux."]
+   ]
+  },
+  {
+   "titre": "Une mauvaise expérience : « I had my wallet stolen »",
+   "texte": [
+    "La même structure sert à dire que quelque chose de désagréable nous est arrivé, sans que nous l'ayons demandé. C'est l'équivalent du français « se faire voler », « se faire cambrioler ».",
+    "On peut aussi utiliser le passif simple : « My wallet was stolen. » La structure avec « have » met l'accent sur la personne qui subit.",
+    "Avec « get », on rencontre aussi « He got his nose broken in a fight », registre familier."
+   ],
+   "exemples": [
+    ["I had my wallet stolen at the market.", "Je me suis fait voler mon portefeuille au marché."],
+    ["They had their house broken into while they were on holiday.", "Ils se sont fait cambrioler pendant leurs vacances."],
+    ["She had her flight cancelled at the last minute.", "On lui a annulé son vol à la dernière minute."]
+   ]
+  },
+  {
+   "titre": "Ne pas confondre avec les structures voisines",
+   "texte": [
+    "Quand on nomme la personne qui fait l'action, la structure change : « have + personne + base verbale » ou « get + personne + to + base verbale ». « I had the mechanic check the brakes. » « I got my brother to help me. » Ces structures sont étudiées dans la leçon 186.",
+    "Attention à l'ordre : « I had cut my hair » est un past perfect (je m'étais coupé les cheveux moi-même). « I had my hair cut » est le causatif (je me suis fait couper les cheveux)."
+   ],
+   "tableau": {
+    "entetes": ["Structure", "Exemple", "Sens"],
+    "lignes": [
+     ["have + chose + participe", "I had my laptop repaired.", "J'ai fait réparer mon ordinateur."],
+     ["get + chose + participe", "I got my laptop repaired.", "Même sens, plus familier."],
+     ["have + personne + base verbale", "I had a technician repair it.", "J'ai fait réparer par un technicien."],
+     ["get + personne + to + base verbale", "I got my cousin to repair it.", "J'ai persuadé mon cousin de le réparer."],
+     ["had + participe (past perfect)", "I had repaired it myself.", "Je l'avais réparé moi-même."]
+    ]
+   }
+  }
+ ],
+ "formule": "have / get + objet + participe passé (+ by + personne)",
+ "prononciation": [
+  "Ici « have » est un verbe plein : il ne se réduit pas en 'd ou 've. « I had my car washed » : /aɪ hæd maɪ ˈkɑː wɒʃt/.",
+  "L'accent principal tombe en général sur le dernier mot porteur d'information nouvelle : « I had my car SERviced », « I'm having my HAIR cut » quand « cut » va de soi.",
+  "Les participes en -ed suivent la règle habituelle : washed /wɒʃt/, cleaned /kliːnd/, painted /ˈpeɪntɪd/.",
+  "« cut », « done », « made » sont irréguliers : cut /kʌt/ (identique à la base), done /dʌn/, made /meɪd/.",
+  "« hairdresser's » se termine par /ˈheədresəz/ : on parle du salon (the hairdresser's shop)."
+ ],
+ "erreurs": [
+  ["I made repair my car.", "I had (got) my car repaired.", "« Faire réparer » ne se traduit pas par « make repair »."],
+  ["I cut my hair at the hairdresser's.", "I had my hair cut at the hairdresser's.", "Si quelqu'un d'autre le fait, il faut le causatif."],
+  ["She had cut her hair yesterday at the salon.", "She had her hair cut yesterday at the salon.", "L'objet se place entre « have » et le participe."],
+  ["Did you had your passport renewed?", "Did you have your passport renewed?", "Après « did », la base verbale « have »."],
+  ["I'd my nails done this morning.", "I had my nails done this morning.", "Le « have » causatif ne se contracte pas."],
+  ["I had stolen my wallet.", "I had my wallet stolen.", "« I had stolen my wallet » voudrait dire que j'avais volé mon propre portefeuille !"],
+  ["We're going to have cleaned the carpets.", "We're going to have the carpets cleaned.", "Toujours : have + objet + participe."]
+ ],
+ "dialogue": {
+  "contexte": "À Yaoundé, deux amies, Nadège et Clarisse, préparent le mariage du frère de Nadège, samedi.",
+  "lignes": [
+   ["Clarisse", "Are you ready for Saturday? Have you had your dress made yet?", "Tu es prête pour samedi ? Tu as fait faire ta robe ?"],
+   ["Nadège", "Almost. The tailor is finishing it today, but I need to have the sleeves shortened.", "Presque. La couturière la termine aujourd'hui, mais il faut que je fasse raccourcir les manches."],
+   ["Clarisse", "And your hair? Are you doing it yourself?", "Et tes cheveux ? Tu les fais toi-même ?"],
+   ["Nadège", "No way! I'm having it braided on Friday at a salon in Bastos.", "Pas question ! Je me fais faire des tresses vendredi dans un salon à Bastos."],
+   ["Clarisse", "Good idea. My brother wants to get his car washed and decorated for the couple.", "Bonne idée. Mon frère veut faire laver et décorer sa voiture pour les mariés."],
+   ["Nadège", "That's kind. Oh, and we're having the photos taken by a professional this time.", "C'est gentil. Ah, et cette fois on fait faire les photos par un professionnel."],
+   ["Clarisse", "Last time you had your camera stolen, didn't you?", "La dernière fois, tu t'étais fait voler ton appareil, non ?"],
+   ["Nadège", "Exactly. So this year, I'm just going to dance!", "Exactement. Alors cette année, je vais juste danser !"]
+  ]
+ },
+ "mots": [
+  ["hairdresser", "I'm going to the hairdresser's on Friday.", "coiffeur, coiffeuse (the hairdresser's = le salon)"],
+  ["tailor", "He had his suit made by a tailor.", "tailleur, couturier (sur mesure)"],
+  ["dry-clean", "This jacket must be dry-cleaned.", "nettoyer à sec"],
+  ["service", "I have my car serviced once a year.", "faire la révision (d'une voiture, d'une machine)"],
+  ["install", "We had a new boiler installed.", "installer"],
+  ["renovate", "They're having their flat renovated.", "rénover"],
+  ["deliver", "We had the sofa delivered on Monday.", "livrer"],
+  ["fix", "I need to get my phone screen fixed.", "réparer (familier)"],
+  ["alter", "I had my trousers altered.", "retoucher (un vêtement), modifier"],
+  ["plumber", "We had a plumber repair the leak.", "plombier, plombière"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Qui fait l'action ?",
+   "consigne": "Dis si la personne a fait l'action elle-même ou si quelqu'un l'a faite pour elle.",
+   "items": [
+    ["I cut my hair last night.", "Elle-même (je me suis coupé les cheveux)."],
+    ["I had my hair cut last night.", "Quelqu'un d'autre (un coiffeur)."],
+    ["She's having her kitchen painted.", "Quelqu'un d'autre (des peintres)."],
+    ["He had repaired his bike before the race.", "Lui-même (past perfect, pas un causatif)."]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec « have » au bon temps + objet + participe passé.",
+   "items": [
+    ["My car is making a strange noise. I need to ___ (it / check).", "have it checked (ou get it checked)"],
+    ["Last week we ___ (our house / paint).", "had our house painted"],
+    ["She ___ (her nails / do) every two weeks.", "has her nails done"],
+    ["I'm ___ (a suit / make) by a tailor in Douala at the moment.", "having a suit made"],
+    ["___ you ever ___ (your fortune / tell)?", "Have you ever had your fortune told?"],
+    ["We're going to ___ (solar panels / install) next month.", "have solar panels installed"]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Réécris avec « have something done », en commençant par le mot indiqué.",
+   "items": [
+    ["A mechanic services my car every year. (I…)", "I have my car serviced every year."],
+    ["The optician tested my eyes yesterday. (I…)", "I had my eyes tested yesterday."],
+    ["Someone stole Paul's phone on the bus. (Paul…)", "Paul had his phone stolen on the bus."],
+    ["A photographer is going to take our wedding photos. (We…)", "We're going to have our wedding photos taken."],
+    ["A plumber has repaired our shower. (We…)", "We've had our shower repaired."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["I made repair my laptop.", "I had (got) my laptop repaired."],
+    ["She had cut her hair yesterday at the salon.", "She had her hair cut yesterday at the salon."],
+    ["Did you had your passport renewed?", "Did you have your passport renewed?"],
+    ["I'd my car washed this morning.", "I had my car washed this morning."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec « have » ou « get something done ».",
+   "items": [
+    ["Je me fais couper les cheveux demain.", "I'm having (getting) my hair cut tomorrow."],
+    ["Nous nous sommes fait cambrioler la semaine dernière.", "We had our house broken into last week. (ou : Our house was broken into last week.)"],
+    ["Tu devrais faire vérifier tes freins.", "You should have (get) your brakes checked."],
+    ["Où fais-tu nettoyer tes costumes ?", "Where do you have (get) your suits cleaned?"]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Décris en 4 phrases ce que tu fais faire régulièrement, ce que tu as fait faire récemment et ce que tu vas faire faire bientôt.",
+   "items": [
+    ["Exemple de réponse", "I have my hair cut every three weeks at a small salon near my office. Last month I had my car serviced and the tyres changed. I'm going to have my glasses repaired because one arm is broken. I'd also like to get my flat painted before the summer."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "have / get + objet + participe passé = faire faire quelque chose par quelqu'un d'autre.",
+  "I cut my hair (moi-même) ≠ I had my hair cut (chez le coiffeur). Jamais « make repair ».",
+  "« have » se conjugue normalement, prend do / did et ne se contracte pas.",
+  "« get » est plus familier et peut ajouter une idée d'effort : get the job done.",
+  "« I had my phone stolen » = je me suis fait voler mon téléphone."
+ ],
+ "liens": [151, 103, 186, 152],
+ "refs": ["bc-b1b2", "cam-verbs"]
+}

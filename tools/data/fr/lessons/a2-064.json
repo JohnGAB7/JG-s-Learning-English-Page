@@ -1,0 +1,212 @@
+{
+ "n": 64,
+ "niveau": "A2",
+ "titre": "Les pronoms réfléchis (myself…)",
+ "intro": "Myself, yourself, themselves… correspondent souvent à « me, te, se » ou à « moi-même ». Mais l'anglais les utilise beaucoup moins que le français : « je me lève, je me souviens, ils se rencontrent » se disent sans pronom réfléchi. Cette leçon explique quand les employer… et surtout quand ne pas les employer.",
+ "objectifs": [
+  "Connaître les huit pronoms réfléchis et leur orthographe (-self au singulier, -selves au pluriel).",
+  "Les employer quand le sujet et le complément sont la même personne (hurt yourself, enjoy yourselves).",
+  "Utiliser myself pour insister (I made it myself) et by myself pour « seul ».",
+  "Éviter le réfléchi avec les verbes pronominaux français (get up, relax, remember, meet) et distinguer themselves / each other."
+ ],
+ "sections": [
+  {
+   "titre": "Les formes",
+   "texte": [
+    "Au singulier, on ajoute -self ; au pluriel, -selves. Attention : « yourself » s'adresse à une personne, « yourselves » à plusieurs.",
+    "Les formes reposent sur l'adjectif possessif (my, your, our) sauf pour him, it, them, qui utilisent le pronom complément : himself, itself, themselves. « Hisself » et « theirselves » n'existent pas en anglais standard."
+   ],
+   "tableau": {
+    "entetes": ["Sujet", "Réfléchi", "Exemple"],
+    "lignes": [
+     ["I", "myself", "I cut myself."],
+     ["you (une personne)", "yourself", "Help yourself!"],
+     ["he", "himself", "He hurt himself."],
+     ["she", "herself", "She taught herself Spanish."],
+     ["it", "itself", "The door closes by itself."],
+     ["we", "ourselves", "We enjoyed ourselves."],
+     ["you (plusieurs)", "yourselves", "Look after yourselves!"],
+     ["they", "themselves", "They introduced themselves."]
+    ]
+   }
+  },
+  {
+   "titre": "Usage 1 : le sujet agit sur lui-même",
+   "texte": [
+    "On utilise le pronom réfléchi quand le sujet et le complément sont la même personne : She looked at herself in the mirror. Sans réfléchi, le sens change : She looked at her (elle a regardé une autre femme).",
+    "Expressions très fréquentes : hurt yourself (se faire mal), cut yourself (se couper), burn yourself (se brûler), introduce yourself (se présenter), enjoy yourself (bien s'amuser), help yourself (se servir), look after yourself (prendre soin de soi), teach yourself (apprendre seul), behave yourself (bien se tenir).",
+    "« Enjoy » a besoin d'un complément : I enjoyed the party ou I enjoyed myself, mais jamais « I enjoyed » seul."
+   ],
+   "exemples": [
+    ["Be careful! Don't burn yourself.", "Attention ! Ne te brûle pas."],
+    ["Let me introduce myself: I'm Dr Ekotto.", "Permettez-moi de me présenter : je suis le docteur Ekotto."],
+    ["Did you enjoy yourselves at the wedding?", "Vous vous êtes bien amusés au mariage ?"],
+    ["Please help yourself to some cake.", "Sers-toi du gâteau, je t'en prie."]
+   ]
+  },
+  {
+   "titre": "Usage 2 : insister (moi-même) et by myself (seul)",
+   "texte": [
+    "Le réfléchi sert aussi à insister : « moi-même, toi-même, lui-même ». Il se place après le complément ou juste après le sujet : I painted the room myself. The manager himself called me.",
+    "« By + réfléchi » signifie « seul, sans aide, sans compagnie » : She lives by herself (elle vit seule). I did it by myself (je l'ai fait tout seul). Synonymes : on my own, alone."
+   ],
+   "exemples": [
+    ["Did you make this cake yourself? — Yes, I did!", "Tu as fait ce gâteau toi-même ? — Oui !"],
+    ["My grandmother still lives by herself.", "Ma grand-mère vit encore seule."],
+    ["The children went to school by themselves.", "Les enfants sont allés à l'école tout seuls."]
+   ]
+  },
+  {
+   "titre": "Le grand piège : les verbes pronominaux français",
+   "texte": [
+    "Beaucoup de verbes pronominaux en français (se lever, se laver, se souvenir…) ne sont PAS réfléchis en anglais. Ajouter « myself » est une erreur très fréquente chez les francophones.",
+    "Pour les gestes du quotidien (wash, shave, dress), on n'ajoute normalement rien : I wash and get dressed. Le réfléchi est possible seulement pour insister sur une difficulté : The baby can dress himself now (le bébé sait s'habiller tout seul)."
+   ],
+   "tableau": {
+    "entetes": ["Français (pronominal)", "Anglais (sans réfléchi)", "Faux"],
+    "lignes": [
+     ["se lever, se réveiller", "get up, wake up", "get up myself"],
+     ["s'habiller, se doucher", "get dressed, have a shower", "dress myself (sauf insistance)"],
+     ["se souvenir", "remember", "remember myself"],
+     ["se détendre, se reposer", "relax, rest", "relax myself"],
+     ["se sentir", "feel", "feel myself"],
+     ["se dépêcher, s'asseoir", "hurry (up), sit down", "hurry myself, sit myself"],
+     ["s'inquiéter, se plaindre", "worry, complain", "worry myself"],
+     ["se marier, se rencontrer", "get married, meet", "meet ourselves"],
+     ["se concentrer, s'intéresser à", "concentrate, be interested in", "concentrate myself"]
+    ]
+   },
+   "exemples": [
+    ["I usually get up at six and have a shower.", "Je me lève généralement à six heures et je me douche."],
+    ["Relax! Don't worry.", "Détends-toi ! Ne t'inquiète pas."],
+    ["I don't remember his name.", "Je ne me souviens pas de son nom."]
+   ]
+  },
+  {
+   "titre": "Themselves ou each other ?",
+   "texte": [
+    "Le français « se » peut être réfléchi (ils se regardent dans le miroir : chacun se regarde lui-même) ou réciproque (ils se regardent : l'un regarde l'autre). L'anglais distingue : themselves pour le réfléchi, each other (ou one another) pour le réciproque.",
+    "Comparer : They're looking at themselves (chacun dans le miroir) / They're looking at each other (l'un l'autre). We love each other (nous nous aimons, l'un l'autre)."
+   ],
+   "exemples": [
+    ["Anna and Marc met in 2019. They call each other every day.", "Anna et Marc se sont rencontrés en 2019. Ils s'appellent tous les jours."],
+    ["The players were proud of themselves.", "Les joueurs étaient fiers d'eux-mêmes."]
+   ]
+  }
+ ],
+ "formule": "myself · yourself · himself · herself · itself · ourselves · yourselves · themselves · by myself = seul · each other = l'un l'autre",
+ "prononciation": [
+  "L'accent tombe sur -SELF / -SELVES : mySELF /maɪˈself/, themSELVES /ðəmˈselvz/.",
+  "« -selves » se termine par /lvz/ : prononce bien le v.",
+  "« ourselves » /aʊəˈselvz/ ou /ɑːˈselvz/ ; « yourself » /jɔːˈself/.",
+  "Pour insister (I did it myself), le pronom réfléchi est fortement accentué en fin de phrase.",
+  "« each other » se lie : /iːtʃ ˈʌðə/, avec le son /ð/ de « the »."
+ ],
+ "erreurs": [
+  ["I get up myself at seven.", "I get up at seven.", "« Se lever » n'est pas réfléchi en anglais."],
+  ["I don't remember myself.", "I don't remember.", "« Se souvenir » = remember, sans réfléchi."],
+  ["Relax yourself!", "Relax!", "« Se détendre » = relax."],
+  ["We enjoyed a lot.", "We enjoyed ourselves a lot. / We had a great time.", "Enjoy a besoin d'un complément."],
+  ["He hurt hisself.", "He hurt himself.", "La forme correcte est himself."],
+  ["They love themselves. (l'un l'autre)", "They love each other.", "Sens réciproque : each other."],
+  ["She lives by her own.", "She lives by herself. / She lives on her own.", "By + réfléchi, ou on + possessif + own."],
+  ["You can help yourselves. (à une seule personne)", "You can help yourself.", "Une personne : yourself ; plusieurs : yourselves."]
+ ],
+ "dialogue": {
+  "contexte": "Lors d'une fête d'anniversaire dans un jardin à Lyon, l'hôte accueille ses invités.",
+  "lignes": [
+   ["Julien", "Welcome, everyone! Help yourselves to drinks and food.", "Bienvenue à tous ! Servez-vous à boire et à manger."],
+   ["Amélie", "Thanks, Julien. Wow, did you make all this yourself?", "Merci, Julien. Waouh, tu as fait tout ça toi-même ?"],
+   ["Julien", "Most of it. My sister made the cake. She taught herself to bake last year.", "La plupart. Ma sœur a fait le gâteau. Elle a appris toute seule à faire des gâteaux l'année dernière."],
+   ["Amélie", "Impressive! Oh, I don't know these people. Who are they?", "Impressionnant ! Oh, je ne connais pas ces gens. Qui est-ce ?"],
+   ["Julien", "Colleagues of mine. Go and introduce yourself, they're very nice.", "Des collègues. Va te présenter, ils sont très sympas."],
+   ["Amélie", "OK. Careful with the barbecue, by the way. Don't burn yourself!", "D'accord. Fais attention au barbecue, au fait. Ne te brûle pas !"],
+   ["Julien", "Don't worry. Just relax and enjoy yourself!", "Ne t'inquiète pas. Détends-toi et amuse-toi bien !"],
+   ["Amélie", "I will. Look, the kids are playing by themselves in the garden. So cute!", "Promis. Regarde, les enfants jouent tout seuls dans le jardin. Trop mignon !"]
+  ]
+ },
+ "mots": [
+  ["hurt", "Did you hurt yourself?", "blesser, faire mal"],
+  ["introduce", "Let me introduce myself.", "présenter"],
+  ["enjoy yourself", "Enjoy yourselves at the party!", "bien s'amuser"],
+  ["help yourself", "Help yourself to coffee.", "se servir"],
+  ["look after", "Look after yourself.", "prendre soin de, s'occuper de"],
+  ["by yourself", "Can you do it by yourself?", "tout seul, seul"],
+  ["each other", "We help each other.", "l'un l'autre, mutuellement"],
+  ["mirror", "She looked at herself in the mirror.", "le miroir"],
+  ["proud", "Be proud of yourself!", "fier, fière"],
+  ["get dressed", "I get dressed after breakfast.", "s'habiller"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Le bon pronom",
+   "consigne": "Complète avec le pronom réfléchi.",
+   "items": [
+    ["I cut ___ with a knife.", "myself"],
+    ["She bought ___ a new dress.", "herself"],
+    ["We really enjoyed ___ in Kribi.", "ourselves"],
+    ["Children, look after ___!", "yourselves"],
+    ["He lives by ___.", "himself"],
+    ["The light turns off by ___.", "itself"]
+   ]
+  },
+  {
+   "titre": "2. Réfléchi ou rien ?",
+   "consigne": "Complète avec un pronom réfléchi ou Ø (rien).",
+   "items": [
+    ["I get up ___ at seven every day.", "Ø"],
+    ["Be careful! Don't hurt ___.", "yourself"],
+    ["Sit down ___ and relax ___.", "Ø … Ø"],
+    ["Do you remember ___ her name?", "Ø"],
+    ["Let me introduce ___.", "myself"]
+   ]
+  },
+  {
+   "titre": "3. Themselves ou each other ?",
+   "consigne": "Choisis la bonne forme.",
+   "items": [
+    ["Marie and Paul write to (themselves / each other) every week.", "each other"],
+    ["The children dressed (themselves / each other) without help.", "themselves"],
+    ["My brother and I don't see (ourselves / each other) very often.", "each other"],
+    ["The team was proud of (itself / each other).", "itself"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I wake myself up at six.", "I wake up at six."],
+    ["They hurt theirselves.", "They hurt themselves."],
+    ["We enjoyed at the concert.", "We enjoyed ourselves at the concert. / We enjoyed the concert."],
+    ["Don't worry yourself.", "Don't worry."],
+    ["We met ourselves in Brussels.", "We met in Brussels."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Servez-vous !", "Help yourselves! / Help yourself!"],
+    ["Je l'ai fait moi-même.", "I did it myself. / I made it myself."],
+    ["Elle vit seule.", "She lives by herself. / She lives alone. / She lives on her own."],
+    ["Ils s'aiment beaucoup.", "They love each other very much."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris quatre phrases : une chose que tu as faite toi-même, une chose que tu fais seul(e), un conseil à un ami (look after / enjoy yourself), et une phrase avec each other.",
+   "items": [
+    ["Exemple de réponse", "I painted my living room myself last summer. I usually go running by myself. Look after yourself and don't work too much! My best friend and I call each other every Sunday."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves.",
+  "Sujet = complément : hurt yourself, introduce myself, enjoy yourselves, help yourself.",
+  "Insistance : I did it myself ; seul : by myself / on my own.",
+  "Pas de réfléchi : get up, wake up, relax, remember, feel, hurry, worry, meet, sit down.",
+  "Réciproque (l'un l'autre) : each other, pas themselves."
+ ],
+ "liens": [10, 14, 63, 72],
+ "refs": ["bc-reflexive", "cam-nouns"]
+}

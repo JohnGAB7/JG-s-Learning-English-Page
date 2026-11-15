@@ -1,0 +1,205 @@
+{
+ "n": 166,
+ "niveau": "B2",
+ "titre": "Nuances of the present perfect",
+ "intro": "The present perfect is one of the most difficult tenses for learners, because many languages use a past tense or a present tense where English uses it. At B2 you need its finer points: the link with now, experience, duration, result or activity, been / gone, and the differences between British and American English.",
+ "objectifs": [
+  "Choose between the present perfect and the past simple depending on whether the time period is finished.",
+  "Express duration with for / since and ask “How long have you…?”.",
+  "Distinguish the present perfect simple (result, quantity) from the continuous (activity, duration).",
+  "Use “It's the first time I've…”, “the best … I've ever…”, been / gone and the present perfect after when."
+ ],
+ "sections": [
+  {
+   "titre": "The key idea: a link with now",
+   "texte": [
+    "The present perfect connects the past to the present: a past action whose result matters now, an experience in a life that continues, a situation that is still going on.",
+    "The past simple places the action in a finished period, often stated (yesterday, in 2010, last week, when I was a child, ago). With a specific past time, the present perfect is impossible.",
+    "Watch the time period: “this morning” takes the present perfect if it is still morning (“I've had three coffees this morning”), and the past simple if it is already afternoon (“I had three coffees this morning”)."
+   ],
+   "tableau": {
+    "entetes": ["Present perfect (open period, link with now)", "Past simple (finished period)"],
+    "lignes": [
+     ["I've lost my keys. (I still don't have them)", "I lost my keys yesterday, but I found them."],
+     ["She has written three novels. (she is still writing)", "Chinua Achebe wrote several novels. (he is no longer alive)"],
+     ["Have you seen the news today?", "Did you see the news yesterday?"],
+     ["ever, never, already, yet, just, so far, recently, lately, since", "yesterday, last…, ago, in 2010, when…, at 5 o'clock"]
+    ]
+   },
+   "note": "In the news, a story is often announced in the present perfect, then the details are given in the past simple: “A fire has destroyed a market in Kumasi. It started at 3 a.m. and firefighters arrived an hour later.”"
+  },
+  {
+   "titre": "Experience: ever, never, the first time, the best…",
+   "texte": [
+    "To talk about what you have (or haven't) done in your life, without saying when: present perfect with ever (in questions), never, before, once, twice, three times.",
+    "After “It's / This is the first (second…) time”, use the present perfect: “It's the first time I've been here.” Many learners wrongly use the present simple.",
+    "After a superlative: “It's the best film I've ever seen.”"
+   ],
+   "exemples": [
+    ["Have you ever eaten ndolé?", "Experience question."],
+    ["I've been to Canada twice.", "Number of times."],
+    ["It's the first time I've driven on the left.", "first time + present perfect."],
+    ["That's the most beautiful beach I've ever seen.", "Superlative + ever."]
+   ]
+  },
+  {
+   "titre": "Duration: for and since",
+   "texte": [
+    "For a situation that started in the past and continues now, English needs the present perfect: “I've lived here since 2015”. “I live here since 2015” is one of the most common learner errors.",
+    "For + a period (for ten years, for ages); since + a starting point (since 2015, since Monday, since I was a child). After “since”, a clause is in the past simple: “since I moved to Liège”.",
+    "The duration question is “How long have you…?”. “Since when…?” exists, but often expresses surprise or irony.",
+    "Another structure: “It's (been) two years since I last saw her” = “I haven't seen her for two years”."
+   ],
+   "exemples": [
+    ["I've known Aïcha since primary school.", "since + starting point."],
+    ["How long have you been learning English?", "Duration question."],
+    ["We've been married for twelve years.", "for + period."],
+    ["It's been ages since we spoke.", "It's been + time + since."]
+   ]
+  },
+  {
+   "titre": "Simple or continuous: result or activity?",
+   "texte": [
+    "The present perfect simple focuses on the result or the quantity: “I've written three emails” (how many). The continuous focuses on the activity and how long it lasted: “I've been writing emails all morning.”",
+    "The continuous also explains a visible result: “You're all wet! – I've been running.”",
+    "With for / since, both are often possible with verbs like live, work, teach and study: “I've lived / I've been living here for ten years”. But state verbs (know, believe, own, love, understand) stay simple: “I've known her for years”, never “I've been knowing”."
+   ],
+   "tableau": {
+    "entetes": ["Simple: result / quantity", "Continuous: activity / duration"],
+    "lignes": [
+     ["I've painted two rooms.", "I've been painting all day."],
+     ["She has read the report.", "She has been reading reports since eight."],
+     ["How many kilometres have you run?", "How long have you been running?"],
+     ["I've known him for years. (state verb)", "Impossible: *I've been knowing him"]
+    ]
+   }
+  },
+  {
+   "titre": "Been or gone? And British / American differences",
+   "texte": [
+    "“He has gone to Paris”: he went and he is still there (or on the way). “He has been to Paris”: he went and came back (experience).",
+    "In American English, people often use the past simple with just, already and yet: “Did you eat yet?”, “I already did it”. In British English, the present perfect is still the norm: “Have you eaten yet?”, “I've already done it”.",
+    "After when, as soon as, after and until, you can use the present perfect for a future action that will be finished: “I'll call you when I've finished.”"
+   ],
+   "exemples": [
+    ["Where's Paul? – He's gone to the bank.", "He is at the bank now."],
+    ["Paul has been to the bank. Here's your money.", "He went and came back."],
+    ["British: Have you finished yet? / American: Did you finish yet?", "Both are correct in their variety."],
+    ["I'll send it as soon as I've checked it.", "Future, finished action."]
+   ]
+  }
+ ],
+ "formule": "have / has + past participle (+ ever, never, already, yet, for, since) · have / has been + -ing for the activity",
+ "prononciation": [
+  "Contractions: I've /aɪv/, you've /juːv/, he's /hiːz/ (= he has before a past participle), we've, they've. The final /v/ is light but must be heard.",
+  "“he's been”: 's = has; “he's going”: 's = is. The next word tells you which.",
+  "“been” is weak, /bɪn/: “I've been waiting” /aɪv bɪn ˈweɪtɪŋ/.",
+  "“for” is weak, /fə/: “for ten years” /fə ˈten ˈjɪəz/; “since” /sɪns/ is not reduced.",
+  "In “Have you ever…?” questions, the voice rises at the end: “Have you ever been to Dakar ↗?”"
+ ],
+ "erreurs": [
+  ["I live in Brussels since 2015.", "I've lived (been living) in Brussels since 2015.", "Situation that continues: present perfect."],
+  ["I have seen him yesterday.", "I saw him yesterday.", "Specific past time: past simple."],
+  ["It's the first time I visit Brussels.", "It's the first time I've visited (been to) Brussels.", "After “It's the first time”: present perfect."],
+  ["She has gone to Canada three times.", "She has been to Canada three times.", "Experience (there and back): been."],
+  ["I've been knowing her for years.", "I've known her for years.", "State verb: no continuous form."],
+  ["Since how long are you here?", "How long have you been here?", "Duration question: How long + present perfect."],
+  ["I'll call you when I will finish.", "I'll call you when I've finished.", "No will after when; present perfect for a finished action."]
+ ],
+ "dialogue": {
+  "contexte": "A job interview in Geneva. Mrs Keller, the HR manager, meets Ousmane, a candidate from Cameroon.",
+  "lignes": [
+   ["Mrs Keller", "Thank you for coming. Have you been to Geneva before?", "Experience: been to."],
+   ["Ousmane", "Yes, twice. But it's the first time I've visited your offices.", "first time + present perfect."],
+   ["Mrs Keller", "Tell me about your current job. How long have you worked there?", "Duration question."],
+   ["Ousmane", "I've been working for a logistics company in Lyon since 2021. Before that, I worked in Douala for three years.", "Present perfect continuous (still true) vs past simple (finished)."],
+   ["Mrs Keller", "And what have you achieved there?", "Results up to now."],
+   ["Ousmane", "I've reduced delivery times by 20%, and I've trained a team of twelve people.", "Present perfect simple: results."],
+   ["Mrs Keller", "Impressive. Have you ever managed a project in English?", "Experience question with ever."],
+   ["Ousmane", "Yes. Lately I've been leading a project with our partners in Toronto, so I use English every day.", "lately + continuous: recent activity."]
+  ]
+ },
+ "mots": [
+  ["experience", "She has a lot of experience in sales.", "knowledge or skill you get from doing something"],
+  ["achieve", "What have you achieved this year?", "to succeed in doing something after effort"],
+  ["recently", "I've recently changed jobs.", "not long ago"],
+  ["lately", "Have you been sleeping well lately?", "in the last few days or weeks"],
+  ["so far", "So far, everything has gone well.", "until now"],
+  ["ever", "Have you ever been to Dakar?", "at any time"],
+  ["already", "I've already sent the file.", "before now, sooner than expected"],
+  ["yet", "Has the parcel arrived yet?", "until now (in questions and negatives)"],
+  ["since", "I've lived here since 2015.", "from a time in the past until now"],
+  ["ages", "I haven't seen her for ages.", "a very long time (informal)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Present perfect or past simple?",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["I (lost / have lost) my keys. Can you help me look for them?", "have lost"],
+    ["We (went / have been) to Kribi last summer.", "went"],
+    ["(Did you ever eat / Have you ever eaten) cassava leaves?", "Have you ever eaten (in American English, Did you ever eat is also possible)"],
+    ["Picasso (painted / has painted) thousands of works.", "painted"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb in brackets into the present perfect simple or continuous.",
+   "items": [
+    ["I ___ (know) Aïcha since we were at school.", "have known"],
+    ["It's the first time I ___ (drive) on the right.", "have driven"],
+    ["She ___ (work) here for ten years, and she still loves it.", "has worked (or has been working)"],
+    ["Sorry, I'm covered in paint. I ___ (paint) the kitchen.", "have been painting"],
+    ["I ___ (write) three emails so far this morning.", "have written"],
+    ["He isn't here. He ___ (go) to the bank.", "has gone"]
+   ]
+  },
+  {
+   "titre": "3. Rewrite",
+   "consigne": "Rewrite each sentence starting with the words given.",
+   "items": [
+    ["I started working here in 2019. (I… since)", "I have worked (I have been working) here since 2019."],
+    ["The last time I saw Marc was in June. (I haven't…)", "I haven't seen Marc since June."],
+    ["This is my first visit to Quebec. (It's the first time…)", "It's the first time I've visited (been to) Quebec."],
+    ["I've never seen such a beautiful beach. (It's the most…)", "It's the most beautiful beach I've ever seen."],
+    ["It's ages since we spoke. (We haven't…)", "We haven't spoken for ages."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["I live in Brussels since 2015.", "I've lived (I've been living) in Brussels since 2015."],
+    ["I have seen him yesterday.", "I saw him yesterday."],
+    ["She has gone to Canada three times.", "She has been to Canada three times."],
+    ["I've been knowing her for years.", "I've known her for years."]
+   ]
+  },
+  {
+   "titre": "5. Ask the question",
+   "consigne": "Write a question with the words given (How long…? / Have you ever…? / …yet?).",
+   "items": [
+    ["you / know / your best friend (how long)", "How long have you known your best friend?"],
+    ["you / ever / be / to Africa", "Have you ever been to Africa?"],
+    ["she / wait / here (how long, activity)", "How long has she been waiting here?"],
+    ["they / finish / the project / yet", "Have they finished the project yet?"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Present your background in 4–5 sentences, as in an interview: an experience (ever / never), a duration (for / since), a result, a recent activity (been + -ing) and a finished fact in the past simple.",
+   "items": [
+    ["Example answer", "I've worked as an accountant for eight years. I joined my current company in 2020, and since then I've reorganised the whole invoicing system. I've never worked abroad, but I've been to Canada three times for conferences. Lately I've been studying for a finance certificate in English."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Present perfect = link with now; past simple = finished period (yesterday, ago, in 2010).",
+  "Situations that continue: I've lived here since 2015 / for ten years; How long have you…?",
+  "It's the first time I've…; the best … I've ever…",
+  "Simple = result, quantity; continuous = activity, duration; no continuous with state verbs.",
+  "gone (still there) is not been (there and back); “when I've finished” = a finished future action."
+ ],
+ "liens": [51, 52, 53, 91, 92],
+ "refs": ["bc-present-perfect", "bc-pp-cont", "bc-just-yet"]
+}

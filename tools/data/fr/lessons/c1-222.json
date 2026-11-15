@@ -1,0 +1,212 @@
+{
+ "n": 222,
+ "niveau": "C1",
+ "titre": "Hedging : le langage de la prudence",
+ "intro": "Doser exactement son degré de certitude : c'est ce qui distingue un rapport, un article ou un e-mail professionnel crédible d'un texte qui affirme trop ou qui n'ose rien dire. Cette leçon va au-delà du « may / might » du niveau B2.",
+ "objectifs": [
+  "Utiliser les six familles de hedges : modaux, verbes, adjectifs et adverbes, quantificateurs, approximateurs, structures impersonnelles.",
+  "Placer une affirmation sur une échelle de certitude précise (will, is likely to, may, could conceivably…).",
+  "Combiner prudence et assurance : nuancer ce qui est incertain, affirmer clairement ce qui est établi.",
+  "Éviter le sur-hedging (« It might possibly perhaps suggest… ») et les faux amis (eventually, according to me)."
+ ],
+ "sections": [
+  {
+   "titre": "Pourquoi nuancer : précision, pas faiblesse",
+   "texte": [
+    "En anglais professionnel et académique, une affirmation trop catégorique (« This proves that… ») paraît naïve ou arrogante si les preuves sont limitées. Le hedging n'est pas un manque de courage : c'est une façon d'être exact sur le degré de certitude, et de laisser une place au désaccord du lecteur.",
+    "Le principe : un énoncé = une proposition + un niveau de confiance. On choisit le hedge qui correspond aux données, ni plus, ni moins. Ce qui est établi s'affirme (« The survey was conducted in 2025 ») ; ce qui est interprété se nuance (« The results suggest that… »)."
+   ],
+   "exemples": [
+    ["The data prove that remote work increases productivity.", "Trop catégorique : une étude ne « prouve » presque jamais une relation générale."],
+    ["The data suggest that remote work may increase productivity in some sectors.", "Version nuancée : verbe prudent + modal + limitation du champ."]
+   ]
+  },
+  {
+   "titre": "Les six familles de hedges",
+   "texte": [
+    "On dispose de plusieurs outils, qu'on varie pour éviter la répétition. Dans un même paragraphe, alternez un verbe, un adjectif et un quantificateur plutôt que trois « may »."
+   ],
+   "tableau": {
+    "entetes": ["Famille", "Exemples", "Phrase type"],
+    "lignes": [
+     ["Modaux", "may, might, could, would", "This could explain the delay."],
+     ["Verbes lexicaux", "suggest, indicate, appear to, seem to, tend to", "Older clients tend to prefer phone contact."],
+     ["Adjectifs et adverbes", "likely, possible, probably, arguably, presumably, apparently", "This is arguably the most important factor."],
+     ["Quantificateurs et fréquence", "some, many, most, often, in some cases, generally", "In most cases, the treatment is effective."],
+     ["Approximateurs", "approximately, roughly, around, to some extent, somewhat", "Costs rose by roughly 8 %."],
+     ["Structures impersonnelles", "It is possible that…, There is some evidence that…, It has been suggested that…", "There is some evidence that the policy reduced waiting times."]
+    ]
+   },
+   "exemples": [
+    ["Rising interest rates appear to have slowed demand.", "« appear to » + infinitif passé (have slowed) : prudence sur un fait passé."],
+    ["To some extent, the problem is cultural rather than technical.", "« To some extent » : dans une certaine mesure."]
+   ]
+  },
+  {
+   "titre": "L'échelle de certitude",
+   "texte": [
+    "Les hedges ne sont pas interchangeables : chacun correspond à un degré de probabilité. Les rapports de risque et d'analyse utilisent cette échelle de façon presque chiffrée.",
+    "Attention à la construction : « likely » est un adjectif. On dit « Prices are likely to rise » ou « It is likely that prices will rise », « Prices will likely rise », avec likely employé comme adverbe, est très courant en anglais américain ; en anglais britannique soigné, on préfère « will probably » ou « are likely to »."
+   ],
+   "tableau": {
+    "entetes": ["Degré", "Formulation", "Exemple"],
+    "lignes": [
+     ["quasi certain", "will almost certainly, is bound to", "The merger will almost certainly be approved."],
+     ["très probable", "is highly likely to, in all likelihood", "In all likelihood, rates will stay high."],
+     ["probable", "is likely to, should, probably", "The new system should reduce errors."],
+     ["possible", "may, might, could, it is possible that", "Sales may recover in spring."],
+     ["peu probable", "is unlikely to, there is little chance that", "The bill is unlikely to pass this year."],
+     ["très peu probable", "could conceivably, it is highly unlikely that", "It is highly unlikely that the error was deliberate."]
+    ]
+   },
+   "note": "« Should » exprime ici une attente raisonnable (« ça devrait »), pas une obligation : « The parcel should arrive tomorrow »."
+  },
+  {
+   "titre": "Prendre de la distance et limiter la portée",
+   "texte": [
+    "Un second type de hedging consiste à préciser d'où vient l'affirmation ou jusqu'où elle s'applique. On attribue (« According to the 2024 census… », « As far as we know… ») ou on délimite (« Within the limits of this sample… », « at least in the short term »).",
+    "À l'oral et dans les e-mails, on adoucit aussi une opinion ou un désaccord : « I'd have thought… », « I'm not entirely sure that's the case », « It seems to me that… ». Le conditionnel « would » ajoute de la politesse : « I would argue that… », « I would suggest that… »."
+   ],
+   "exemples": [
+    ["As far as we can tell, no customer data was lost.", "« Pour autant que nous puissions en juger » : prudence honnête dans un communiqué."],
+    ["These findings apply, at least in the short term, to urban areas only.", "Limitation de la portée dans le temps et dans l'espace."],
+    ["I'd have thought the deadline was a bit tight.", "Désaccord adouci : « J'aurais pensé que… »."],
+    ["I would argue that the second option is more sustainable.", "« I would argue » : opinion ferme mais présentée poliment."]
+   ]
+  },
+  {
+   "titre": "Trop ou trop peu : trouver l'équilibre",
+   "texte": [
+    "Le sur-hedging affaiblit le texte et peut même paraître évasif : « It might possibly be suggested that this could perhaps indicate… ». Une ou deux marques par affirmation suffisent ; les doubles hedges du type « may possibly » ou « could perhaps » sont à éviter à l'écrit.",
+    "À l'inverse, on renforce (boosters) ce qui est solidement établi : clearly, undoubtedly, it is evident that, the evidence strongly indicates. Un bon texte alterne les deux : il affirme le fait, puis nuance l'interprétation."
+   ],
+   "tableau": {
+    "entetes": ["Sur-nuancé (à éviter)", "Équilibré"],
+    "lignes": [
+     ["It may possibly be the case that sales might fall.", "Sales may fall."],
+     ["This could perhaps seem to suggest a link.", "This suggests a possible link."],
+     ["I think that maybe it's probably too expensive.", "I think it's probably too expensive."]
+    ]
+   },
+   "exemples": [
+    ["Unemployment clearly fell in 2025; the reasons, however, are less certain.", "Booster pour le fait, hedge pour l'interprétation."]
+   ]
+  },
+  {
+   "titre": "Faux amis et pièges pour francophones",
+   "texte": [
+    "« Eventually » signifie « finalement, à la longue », jamais « éventuellement ». Pour « éventuellement », dites possibly, potentially ou if necessary.",
+    "« According to me » n'est pas idiomatique : on dit « In my view », « In my opinion », « As I see it ». « According to » s'utilise pour une source extérieure (according to the report).",
+    "« Arguably » ne signifie pas « de façon discutable » au sens négatif : il signifie « on peut soutenir que » et appuie généralement l'idée (« This is arguably her best novel » = on peut dire que c'est son meilleur)."
+   ]
+  }
+ ],
+ "formule": "Affirmation = proposition + hedge adapté (modal / verbe / adverbe / quantificateur / approximateur / structure impersonnelle), une ou deux marques maximum",
+ "prononciation": [
+  "Les hedges en tête de phrase forment un groupe à part, suivi d'une courte pause et d'une intonation montante ou neutre : « Arguably, | this is the key factor. »",
+  "« arguably » se prononce /ˈɑːɡjuəbli/, accent sur la première syllabe ; « presumably » /prɪˈzjuːməbli/, accent sur la deuxième.",
+  "« likely » /ˈlaɪkli/ : la diphtongue /aɪ/ comme dans « like ».",
+  "À l'oral, le modal prudent est souvent accentué pour marquer le doute : « It MIGHT work » (= mais je n'en suis pas sûr).",
+  "« I'd have thought » se réduit en /aɪd əv ˈθɔːt/ : « have » devient /əv/."
+ ],
+ "erreurs": [
+  ["We could eventually meet on Monday.", "We could possibly meet on Monday.", "« Eventually » = finalement, à la longue ; « éventuellement » = possibly / potentially."],
+  ["According to me, the plan is too risky.", "In my view, the plan is too risky.", "« According to » renvoie à une source extérieure, pas à soi."],
+  ["The results may possibly indicate a trend.", "The results may indicate a trend.", "Double hedge : un seul suffit."],
+  ["Prices are likely rise next year.", "Prices are likely to rise next year.", "« Be likely » se construit avec « to » + infinitif."],
+  ["It seems that sales to have dropped.", "Sales seem to have dropped. / It seems that sales have dropped.", "Deux structures distinctes à ne pas mélanger."],
+  ["This study proves that the drug works for everyone.", "This study suggests that the drug is effective for most patients.", "Affirmation trop générale et trop certaine pour une seule étude."],
+  ["It is not excluded that prices rise.", "Prices may well rise. / It cannot be ruled out that prices will rise.", "Calque de « il n'est pas exclu que » : l'anglais dit « cannot be ruled out » ou « may well »."]
+ ],
+ "dialogue": {
+  "contexte": "À Toronto, une analyste relit avec son responsable un rapport sur la baisse des ventes avant de l'envoyer à la direction.",
+  "lignes": [
+   ["Martin", "Your draft says “The new pricing caused the drop in sales.” Can we really say that?", "Ton brouillon dit « La nouvelle tarification a causé la baisse ». On peut vraiment l'affirmer ?"],
+   ["Priya", "Probably not. We only have three months of data. Maybe “appears to have contributed to”?", "Sans doute pas. On n'a que trois mois de données. Peut-être « semble avoir contribué à » ?"],
+   ["Martin", "Much better. And the figure of 15 %? That's from the regional teams.", "Bien mieux. Et le chiffre de 15 % ? Il vient des équipes régionales."],
+   ["Priya", "Then I'll write “roughly 15 %, according to regional estimates”.", "Alors j'écris « environ 15 %, selon les estimations régionales »."],
+   ["Martin", "Good. But don't hedge everything. The drop itself is clear in our own figures.", "Bien. Mais ne nuance pas tout. La baisse elle-même est nette dans nos chiffres."],
+   ["Priya", "True. So: “Sales clearly fell in the third quarter; the new pricing appears to have been one factor.”", "Exact. Donc : « Les ventes ont nettement baissé au troisième trimestre ; la tarification semble avoir été un des facteurs. »"],
+   ["Martin", "Perfect. And for the forecast?", "Parfait. Et pour la prévision ?"],
+   ["Priya", "“Sales are likely to recover in the spring, at least in the eastern region.”", "« Les ventes devraient probablement repartir au printemps, au moins dans la région est. »"]
+  ]
+ },
+ "mots": [
+  ["arguably", "This is arguably the best option we have.", "on peut soutenir que"],
+  ["presumably", "Presumably, the delay was caused by the strike.", "vraisemblablement, sans doute"],
+  ["likely", "Prices are likely to rise.", "probable"],
+  ["tend", "Younger users tend to buy online.", "avoir tendance (à)"],
+  ["indicate", "The figures indicate a slight improvement.", "indiquer, laisser penser"],
+  ["to some extent", "To some extent, the crisis was predictable.", "dans une certaine mesure"],
+  ["approximately", "Approximately 40 % of staff responded.", "environ, approximativement"],
+  ["evidence", "There is little evidence that the policy works.", "les preuves, les éléments (indénombrable)"],
+  ["tentative", "These are only tentative conclusions.", "provisoire, avancé avec prudence"],
+  ["conceivably", "The project could conceivably be finished by June.", "à la rigueur, dans l'absolu (c'est envisageable)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Classer par degré de certitude",
+   "consigne": "Indique le degré de certitude : quasi certain, probable, possible ou peu probable.",
+   "items": [
+    ["The scheme is bound to fail without funding.", "quasi certain"],
+    ["Inflation is likely to remain above 3 %.", "probable"],
+    ["The change might affect older users.", "possible"],
+    ["The board is unlikely to approve the plan.", "peu probable"]
+   ]
+  },
+  {
+   "titre": "2. Nuancer l'affirmation",
+   "consigne": "Réécris la phrase avec le hedge indiqué entre parenthèses.",
+   "items": [
+    ["The new policy reduced absences. (appear to)", "The new policy appears to have reduced absences."],
+    ["Small firms prefer short contracts. (tend to)", "Small firms tend to prefer short contracts."],
+    ["Demand will fall. (likely)", "Demand is likely to fall. / It is likely that demand will fall."],
+    ["The problem is technical. (to some extent)", "To some extent, the problem is technical."],
+    ["Costs rose by 12 %. (roughly)", "Costs rose by roughly 12 %."]
+   ]
+  },
+  {
+   "titre": "3. Supprimer le sur-hedging",
+   "consigne": "Réécris la phrase en gardant une seule marque de prudence.",
+   "items": [
+    ["It may possibly be the case that the market might slow down.", "The market may slow down."],
+    ["This could perhaps seem to suggest a link between the two.", "This suggests a possible link between the two."],
+    ["I think that maybe the price is probably too high.", "I think the price is probably too high."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur typique de francophone. Corrige-la.",
+   "items": [
+    ["According to me, we should wait.", "In my view, we should wait."],
+    ["We could eventually postpone the meeting if necessary.", "We could possibly postpone the meeting if necessary."],
+    ["Sales are likely increase in May.", "Sales are likely to increase in May."],
+    ["The survey proves that all customers are satisfied.", "The survey suggests that most customers are satisfied."]
+   ]
+  },
+  {
+   "titre": "5. Traduire avec prudence",
+   "consigne": "Traduis en anglais en utilisant un hedge adapté.",
+   "items": [
+    ["Les résultats semblent confirmer notre hypothèse.", "The results appear / seem to confirm our hypothesis."],
+    ["Il est peu probable que le projet soit terminé avant juin.", "The project is unlikely to be finished before June. / It is unlikely that the project will be finished before June."],
+    ["Dans une certaine mesure, la crise était prévisible.", "To some extent, the crisis was predictable."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court paragraphe (4 à 5 phrases) qui commente un chiffre de ton domaine. Affirme le fait clairement, puis nuance l'interprétation et la prévision.",
+   "items": [
+    ["Exemple de réponse", "Our customer complaints clearly fell by around 20 % last year. This appears to be linked to the new online help centre, although the change in staff training may also have played a role. Complaints are likely to stabilise this year, at least in the French-speaking market. However, these conclusions remain tentative, as the data cover only twelve months."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Hedger, c'est être précis sur son degré de certitude : affirmer les faits, nuancer les interprétations et les prévisions.",
+  "Six familles : modaux, verbes (suggest, appear to, tend to), adjectifs / adverbes (likely, arguably), quantificateurs (most, in some cases), approximateurs (roughly, to some extent), structures impersonnelles (There is some evidence that…).",
+  "Une ou deux marques par affirmation ; pas de doubles hedges (may possibly).",
+  "Pièges : eventually ≠ éventuellement, « In my view » et non « according to me », « be likely to + infinitif »."
+ ],
+ "liens": [170, 204, 169, 227, 235],
+ "refs": ["bc-probability", "bc-c1", "cam-using"]
+}

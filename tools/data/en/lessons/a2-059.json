@@ -1,0 +1,221 @@
+{
+ "n": 59,
+ "niveau": "A2",
+ "titre": "Uncountable nouns",
+ "intro": "Some English nouns can't be counted: water, money, advice, information, furniture… They have no plural and no “a / an”. In many other languages these words are countable, so they cause very common mistakes.",
+ "objectifs": [
+  "Recognise common uncountable nouns, especially the ones that are countable in other languages.",
+  "Use them correctly: no a / an, no -s, singular verb, with some / any / much / a little.",
+  "Count an uncountable noun with a piece of, a cup of, a slice of, a bottle of…",
+  "Know nouns with two uses (coffee / a coffee, time / a time) and countable alternatives (advice → a tip, work → a job)."
+ ],
+ "sections": [
+  {
+   "titre": "The grammar rules",
+   "texte": [
+    "An uncountable noun is a substance, a mass or an abstract idea that we don't count: water, rice, music, happiness. In English, it follows four rules.",
+    "1. No article a / an: “advice”, never “an advice”. 2. No plural: “information”, never “informations”. 3. Singular verb and pronoun: The news is good. Your luggage is here — it's heavy. 4. It goes with some, any, much, a little, a lot of, little, no, but not with many, a few, several, or a number."
+   ],
+   "tableau": {
+    "entetes": ["Possible", "Not possible"],
+    "lignes": [
+     ["some information, any information", "an information, two informations"],
+     ["much advice, a lot of advice, a little advice", "many advices, a few advices"],
+     ["The furniture is new.", "The furnitures are new."],
+     ["How much luggage have you got?", "How many luggages have you got?"]
+    ]
+   }
+  },
+  {
+   "titre": "The trap nouns",
+   "texte": [
+    "These nouns are uncountable in English, but countable in many other languages. Learn them one by one: no logical rule explains them."
+   ],
+   "tableau": {
+    "entetes": ["Uncountable noun", "Meaning", "Example"],
+    "lignes": [
+     ["information", "facts about something", "Thanks for the information."],
+     ["advice", "an opinion about what someone should do", "Can you give me some advice?"],
+     ["news", "new information about events", "The news is on at eight."],
+     ["furniture", "chairs, tables, beds…", "We need some new furniture."],
+     ["luggage / baggage", "bags and suitcases for a trip", "How much luggage do you have?"],
+     ["homework", "school work you do at home", "I've got a lot of homework."],
+     ["work", "the activity of working (but a job = a position)", "I've got too much work."],
+     ["travel", "travelling in general", "Travel is expensive."],
+     ["accommodation", "a place to live or stay", "We're looking for accommodation."],
+     ["equipment", "the things you need for an activity", "The equipment is new."],
+     ["progress", "improvement", "You're making good progress."],
+     ["weather", "sun, rain, wind, temperature", "What lovely weather!"],
+     ["hair", "what grows on your head", "Her hair is long."],
+     ["bread, toast", "food made from flour", "Two slices of toast, please."]
+    ]
+   },
+   "note": "Because “weather” is uncountable, don't say “a beautiful weather” or “What a beautiful weather!”. Say “beautiful weather” and “What beautiful weather!”. In the same way: “Good news!” (no a)."
+  },
+  {
+   "titre": "Counting an uncountable noun",
+   "texte": [
+    "To talk about one unit or an exact quantity, add a countable noun + of: a piece of advice, two pieces of furniture, a piece of information.",
+    "For food and drink, use the container or the shape: a cup of tea, a glass of water, a bottle of milk, a slice of bread, a loaf of bread (a whole one), a bar of chocolate, a kilo of rice, a bowl of soup, a can of cola (US) / a tin of tomatoes (UK)."
+   ],
+   "exemples": [
+    ["Let me give you a piece of advice.", "One unit of advice."],
+    ["Can I have a glass of water, please?", "Container + of."],
+    ["We bought two loaves of bread.", "loaf → loaves."],
+    ["That's a useful piece of information.", "One fact."]
+   ]
+  },
+  {
+   "titre": "Nouns with two uses",
+   "texte": [
+    "Some nouns are uncountable with one meaning and countable with another. The meaning changes, sometimes a lot.",
+    "In a café, people also say “a coffee, two teas, three beers” for cups or glasses."
+   ],
+   "tableau": {
+    "entetes": ["Uncountable", "Countable"],
+    "lignes": [
+     ["coffee (the drink)", "a coffee (a cup of coffee)"],
+     ["chicken (the meat)", "a chicken (the whole animal)"],
+     ["glass (the material)", "a glass (for drinking); glasses (for your eyes)"],
+     ["paper (the material)", "a paper (a newspaper; a scientific article)"],
+     ["time (minutes, hours)", "a time (an occasion): three times"],
+     ["room (space)", "a room (part of a building)"],
+     ["hair (all of it)", "a hair (one single hair)"],
+     ["experience (knowledge from doing things)", "an experience (something that happened to you)"]
+    ]
+   },
+   "exemples": [
+    ["Is there any room in your car?", "room = space."],
+    ["I've been to Kinshasa three times.", "times = occasions."],
+    ["She's got five years' experience.", "experience = knowledge."]
+   ]
+  },
+  {
+   "titre": "Countable alternatives",
+   "texte": [
+    "Often English has another, countable word for one unit. This is the most natural solution when you want to count.",
+    "work → a job, a task; travel → a trip, a journey; luggage → a suitcase, a bag; furniture → a chair, a table; advice → a tip, a suggestion; money → a coin, a note (US: a bill)."
+   ],
+   "exemples": [
+    ["I'm looking for a job. ✓ / I'm looking for a work. ✗", "job is countable."],
+    ["Have a good trip! ✓ / Have a good travel! ✗", "trip is countable."],
+    ["I've only got two suitcases.", "suitcase is countable."]
+   ]
+  }
+ ],
+ "formule": "uncountable: no a / an, no -s, singular verb · some / much / a little + noun · a piece of / a cup of / a slice of + noun",
+ "prononciation": [
+  "“advice” /ədˈvaɪs/ (noun, unvoiced s) and “advise” /ədˈvaɪz/ (verb, voiced z): the last sound changes the word.",
+  "“furniture” /ˈfɜːnɪtʃə/: stress on the first syllable; the t sounds like /tʃ/.",
+  "“luggage” /ˈlʌɡɪdʒ/: the end sounds like /ɪdʒ/ (as in “village”).",
+  "“a piece of” joins: /ə ˈpiːs əv/; “of” is very weak.",
+  "“news” /njuːz/ (UK) or /nuːz/ (US) ends in /z/, but it is singular."
+ ],
+ "erreurs": [
+  ["Thanks for the informations.", "Thanks for the information.", "Information is uncountable: no -s."],
+  ["Can you give me an advice?", "Can you give me some advice? / a piece of advice?", "Advice is uncountable: no an."],
+  ["The news are bad.", "The news is bad.", "News takes a singular verb."],
+  ["We bought new furnitures.", "We bought some new furniture.", "Furniture has no plural."],
+  ["What a nice weather!", "What nice weather!", "Weather is uncountable: no a."],
+  ["I'm looking for a work.", "I'm looking for a job. / I'm looking for work.", "A position = a job; work is uncountable."],
+  ["How many luggages do you have?", "How much luggage do you have? / How many bags do you have?", "Luggage is uncountable."],
+  ["Have a good travel!", "Have a good trip!", "One journey = a trip."]
+ ],
+ "dialogue": {
+  "contexte": "A Cameroonian student arrives at Brussels Airport and speaks to someone at the information desk.",
+  "lignes": [
+   ["Grace", "Excuse me, can you give me some information about buses to the city centre?", "some information: no -s."],
+   ["Employee", "Of course. The train is faster, but the bus is cheaper. How much luggage have you got?", "How much + luggage."],
+   ["Grace", "Two big suitcases and a backpack.", "Countable: suitcases."],
+   ["Employee", "Then my advice is to take the train. There isn't much room on the bus.", "room = space (uncountable)."],
+   ["Grace", "Thanks for the advice. Is there any accommodation for students near the university?", "accommodation: uncountable."],
+   ["Employee", "Yes, there's a student residence. Here's a leaflet with all the information.", "all the information."],
+   ["Grace", "Great news! And the weather? Is it always this cold?", "No a before news or weather."],
+   ["Employee", "Not always. But buy a warm coat. Welcome to Belgium, and good luck with your studies!", "A friendly ending."]
+  ]
+ },
+ "mots": [
+  ["information", "I need some information.", "facts about something"],
+  ["advice", "Can I give you some advice?", "an opinion about what someone should do"],
+  ["news", "I've got some good news!", "new information about something that happened"],
+  ["furniture", "This furniture is from IKEA.", "chairs, tables, beds and similar things"],
+  ["luggage", "Don't leave your luggage here.", "the bags you take on a trip"],
+  ["accommodation", "Accommodation is expensive in London.", "a place to live or stay"],
+  ["equipment", "The gym has modern equipment.", "the things you need for an activity"],
+  ["progress", "You're making progress!", "the process of getting better"],
+  ["piece", "a piece of cake", "a part of something; one unit (a piece of advice)"],
+  ["slice", "Two slices of bread, please.", "a thin, flat piece cut from something"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Countable or uncountable?",
+   "consigne": "Write C (countable) or U (uncountable).",
+   "items": [
+    ["advice", "U"],
+    ["suitcase", "C"],
+    ["furniture", "U"],
+    ["job", "C"],
+    ["news", "U"],
+    ["trip", "C"]
+   ]
+  },
+  {
+   "titre": "2. Choose the right form",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["The news (is / are) on TV at eight.", "is"],
+    ["I need (an / some) advice.", "some"],
+    ["How (much / many) furniture is there?", "much"],
+    ["Her hair (is / are) very long.", "is"],
+    ["We had (a terrible weather / terrible weather).", "terrible weather"]
+   ]
+  },
+  {
+   "titre": "3. Counting",
+   "consigne": "Complete with piece(s), cup, slice(s), glass or loaf.",
+   "items": [
+    ["a ___ of tea", "cup"],
+    ["two ___ of bread (cut thin)", "slices"],
+    ["a ___ of water", "glass"],
+    ["three ___ of furniture", "pieces"],
+    ["a ___ of bread (a whole one)", "loaf"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["She gave me a good advice.", "She gave me some good advice. / She gave me a good piece of advice."],
+    ["I've got two homeworks for tomorrow.", "I've got two pieces of homework for tomorrow. / I've got some homework for tomorrow."],
+    ["Are these informations correct?", "Is this information correct?"],
+    ["My brother is looking for a work in Lyon.", "My brother is looking for a job in Lyon. / My brother is looking for work in Lyon."]
+   ]
+  },
+  {
+   "titre": "5. What do you say?",
+   "consigne": "Write one sentence for each situation, with an uncountable noun.",
+   "items": [
+    ["You want to tell a friend something good has happened.", "I've got some good news! / I have good news!"],
+    ["Your student's English is getting better and better.", "You're making a lot of progress."],
+    ["Your old chairs and tables are broken.", "We need some new furniture."],
+    ["Your friend is leaving for a holiday abroad.", "Have a good trip! / Have a nice trip!"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write four sentences with trap uncountable nouns: some advice for a traveller, a useful piece of information about your town, and a sentence about your luggage or your furniture.",
+   "items": [
+    ["Example answer", "My advice is to visit Yaoundé in the dry season. A useful piece of information: taxis are cheap. Don't bring too much luggage. My flat is small, so I haven't got much furniture."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Uncountable: no a / an, no -s, singular verb (The news is…).",
+  "Traps: information, advice, news, furniture, luggage, homework, work, travel, accommodation, progress, weather, hair.",
+  "To count: a piece of advice, a cup of tea, a slice of bread, a loaf of bread.",
+  "Two uses: coffee / a coffee, time / three times, room / a room.",
+  "Countable alternatives: a job, a trip, a suitcase, a tip."
+ ],
+ "liens": [11, 12, 31, 58],
+ "refs": ["bc-countable", "cam-nouns"]
+}

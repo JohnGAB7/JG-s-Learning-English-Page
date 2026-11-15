@@ -1,0 +1,188 @@
+{
+"n": 36,
+"niveau": "A1",
+"titre": "Les mots de liaison and, but, because",
+"intro": "Les mots de liaison relient les idées et transforment une suite de petites phrases en un vrai discours. « And » ajoute, « but » oppose, « because » explique, et « or » propose un choix. Bien les utiliser rend votre anglais plus fluide et plus naturel.",
+"objectifs": [
+ "Relier deux idées avec and (addition), but (opposition) et because (cause).",
+ "Utiliser or pour un choix et dans les phrases négatives.",
+ "Faire une liste correcte (A, B and C) et ponctuer avec les virgules.",
+ "Distinguer because (+ sujet + verbe) et because of (+ nom)."
+],
+"sections": [
+ {
+  "titre": "And : ajouter",
+  "texte": [
+   "« And » (et) ajoute une information. Il relie deux mots, deux groupes ou deux phrases : « bread and butter », « I get up and I have a shower ».",
+   "Quand le sujet est le même, on ne le répète pas forcément : « I get up and have a shower. »",
+   "Dans une liste, on sépare les éléments par des virgules et on met « and » avant le dernier : « I speak French, English and Ewondo. » En anglais américain, on met souvent une virgule avant « and » (« French, English, and Ewondo ») : c’est la « virgule d’Oxford »."
+  ],
+  "exemples": [
+   ["My sister is a nurse and my brother is a teacher.", "Ma sœur est infirmière et mon frère est enseignant."],
+   ["I buy tomatoes, onions and rice.", "J’achète des tomates, des oignons et du riz."],
+   ["She finishes work and goes to the gym.", "Elle finit le travail et va à la salle de sport (sujet non répété)."]
+  ]
+ },
+ {
+  "titre": "But : opposer",
+  "texte": [
+   "« But » (mais) introduit une opposition ou une surprise. On met souvent une virgule avant « but » quand il relie deux phrases complètes : « The hotel is small, but it's very nice. »",
+   "N’utilisez pas « but » s’il n’y a pas d’opposition : « I like cats and I like dogs too. » (pas « but »).",
+   "Pour un registre plus soutenu, on utilisera plus tard « however » et « although » (leçon 118)."
+  ],
+  "exemples": [
+   ["I like my job, but it's very tiring.", "J’aime mon travail, mais c’est très fatigant."],
+   ["The flat is small but bright.", "L’appartement est petit mais lumineux."],
+   ["He can speak English, but he can't write it.", "Il sait parler anglais, mais il ne sait pas l’écrire."]
+  ]
+ },
+ {
+  "titre": "Because : expliquer",
+  "texte": [
+   "« Because » (parce que) donne une raison. Il est suivi d’un sujet et d’un verbe : « I'm tired because I work at night. » C’est la réponse naturelle à « Why? ».",
+   "« Because of » (à cause de) est suivi d’un nom : « The train is late because of the snow. » Comparez : « because it's snowing » / « because of the snow ».",
+   "À l’oral, on peut répondre « Because I'm tired. » seul. À l’écrit, évitez une phrase qui commence par « Because » sans proposition principale ; écrivez plutôt « I'm staying at home because I'm tired. » ou « Because I'm tired, I'm staying at home. »"
+  ],
+  "tableau": {
+   "entetes": ["Structure", "Exemple", "Français"],
+   "lignes": [
+    ["because + sujet + verbe", "because it's raining", "parce qu’il pleut"],
+    ["because of + nom", "because of the rain", "à cause de la pluie"],
+    ["Why…? — Because…", "Why are you late? — Because the bus is late.", "Pourquoi… ? — Parce que…"]
+   ]
+  },
+  "exemples": [
+   ["I'm learning English because I want to work in Canada.", "J’apprends l’anglais parce que je veux travailler au Canada."],
+   ["We're staying at home because of the storm.", "Nous restons à la maison à cause de la tempête."]
+  ],
+  "note": "À l’oral familier, « because » devient souvent « 'cause » ou « cos » /kəz/. Ne l’écrivez pas dans un texte formel."
+ },
+ {
+  "titre": "Or : choisir… et nier",
+  "texte": [
+   "« Or » (ou) propose un choix : « Tea or coffee? », « We can walk or take a taxi. »",
+   "Dans une phrase négative, l’anglais utilise « or » là où le français dit « ni… ni » ou parfois « et » : « I don't like tea or coffee. » (Je n’aime ni le thé ni le café.) Dire « I don't like tea and coffee » sonne faux ou change le sens.",
+   "Pour l’opposé de « because » (la conséquence), on utilise « so » (donc, alors) : « It's raining, so I'm taking an umbrella. » La leçon 75 développe so, then, after that."
+  ],
+  "exemples": [
+   ["Do you want to stay here or go out?", "Tu veux rester ici ou sortir ?"],
+   ["She doesn't eat meat or fish.", "Elle ne mange ni viande ni poisson."],
+   ["I'm hungry, so let's eat.", "J’ai faim, alors mangeons (so = conséquence)."]
+  ]
+ },
+ {
+  "titre": "Construire des phrases plus longues",
+  "texte": [
+   "En combinant ces mots, vous passez de phrases très courtes (« I live in Liège. I like it. It's rainy. ») à un discours plus naturel : « I live in Liège and I like it, but it's often rainy. »",
+   "Évitez quand même les phrases trop longues avec cinq « and » : à l’écrit, mieux vaut deux phrases claires."
+  ],
+  "exemples": [
+   ["I love Brussels because it's international, but the weather isn't great.", "J’adore Bruxelles parce que c’est international, mais la météo n’est pas terrible."],
+   ["We can go to the beach or visit the museum, and then have dinner.", "On peut aller à la plage ou visiter le musée, et ensuite dîner."]
+  ]
+ }
+],
+"formule": "A and B (addition) · A, but B (opposition) · A because B (cause) · A or B (choix ; négation)",
+"prononciation": [
+ "« and » est presque toujours faible : /ən/ ou même /n/. « fish and chips » = /ˌfɪʃ n ˈtʃɪps/, « rock and roll » = « rock'n'roll ».",
+ "« but » est faible au milieu d’une phrase : /bət/. Il devient fort /bʌt/ quand on insiste.",
+ "« because » se prononce /bɪˈkɒz/ (GB) ou /bɪˈkʌz/ (US), avec l’accent sur la deuxième syllabe. À l’oral rapide : /kəz/.",
+ "Dans une liste, la voix monte sur chaque élément et descend sur le dernier : « tomatoes ↗, onions ↗ and rice ↘ ».",
+ "Dans une question à choix, la voix monte sur le premier choix et descend sur le second : « Tea ↗ or coffee ↘? »."
+],
+"erreurs": [
+ ["I don't like tea and coffee.", "I don't like tea or coffee.", "Dans une phrase négative : « or »."],
+ ["I'm late because the traffic.", "I'm late because of the traffic.", "Devant un nom : « because of »."],
+ ["I'm tired because of I work a lot.", "I'm tired because I work a lot.", "Devant sujet + verbe : « because »."],
+ ["I like cats but I like dogs too.", "I like cats and I like dogs too.", "Pas d’opposition : « and »."],
+ ["Do you want tea and coffee? (choix)", "Do you want tea or coffee?", "Pour un choix : « or »."],
+ ["She speaks English, French, Spanish.", "She speaks English, French and Spanish.", "« and » avant le dernier élément de la liste."],
+ ["Because I'm ill. (seul, dans un e-mail)", "I can't come to work today because I'm ill.", "À l’écrit, « because » a besoin d’une proposition principale."]
+],
+"dialogue": {
+ "contexte": "À Abidjan, Koffi appelle son amie Mariam pour organiser le week-end.",
+ "lignes": [
+  ["Koffi", "Hi Mariam! Are you free on Saturday?", "Salut Mariam ! Tu es libre samedi ?"],
+  ["Mariam", "In the morning, no, because I work. But I'm free in the afternoon.", "Le matin, non, parce que je travaille. Mais je suis libre l’après-midi."],
+  ["Koffi", "Great! We can go to the beach or watch a film.", "Super ! On peut aller à la plage ou regarder un film."],
+  ["Mariam", "The beach! I love the sea and it's very hot this week.", "La plage ! J’adore la mer et il fait très chaud cette semaine."],
+  ["Koffi", "OK. Let's take the bus, because my car is at the garage.", "D’accord. Prenons le bus, parce que ma voiture est au garage."],
+  ["Mariam", "No problem. Can I bring my sister? She's on holiday and she's bored.", "Pas de problème. Je peux amener ma sœur ? Elle est en vacances et elle s’ennuie."],
+  ["Koffi", "Of course! But she doesn't swim, right?", "Bien sûr ! Mais elle ne nage pas, c’est ça ?"],
+  ["Mariam", "No, she can't swim, but she loves sitting in the sun and reading.", "Non, elle ne sait pas nager, mais elle adore rester au soleil et lire."]
+ ]
+},
+"mots": [
+ ["and", "I like tea and coffee.", "et"],
+ ["but", "It's small but nice.", "mais"],
+ ["because", "I'm happy because it's Friday.", "parce que"],
+ ["or", "Tea or coffee?", "ou ; ni (au négatif)"],
+ ["so", "It's late, so I'm going home.", "donc, alors"],
+ ["reason", "What's the reason?", "une raison"],
+ ["also", "She also speaks German.", "aussi (avant le verbe principal)"],
+ ["too", "I'm hungry too.", "aussi (en fin de phrase)"],
+ ["explain", "Can you explain why?", "expliquer"]
+],
+"exercices": [
+ {
+  "titre": "1. And, but ou because ?",
+  "consigne": "Complète avec and, but ou because.",
+  "items": [
+   ["I'm hungry ___ I want a sandwich.", "and"],
+   ["The film is long ___ it's very good.", "but"],
+   ["She's tired ___ she works at night.", "because"],
+   ["I've got a brother ___ two sisters.", "and"],
+   ["I can't come ___ I'm ill.", "because"],
+   ["He's rich ___ he isn't happy.", "but"]
+  ]
+ },
+ {
+  "titre": "2. And ou or ?",
+  "consigne": "Complète avec and ou or.",
+  "items": [
+   ["Do you want rice ___ pasta? (choix)", "or"],
+   ["I don't like tea ___ coffee.", "or"],
+   ["I buy bread, eggs ___ milk.", "and"],
+   ["We can walk ___ take a taxi.", "or"]
+  ]
+ },
+ {
+  "titre": "3. Relier les phrases",
+  "consigne": "Fais une seule phrase avec and, but ou because.",
+  "items": [
+   ["I'm hungry. I want a sandwich.", "I'm hungry and I want a sandwich."],
+   ["I like Lyon. It's expensive.", "I like Lyon, but it's expensive."],
+   ["She's tired. She works at night.", "She's tired because she works at night."],
+   ["He speaks French. He speaks English.", "He speaks French and English."],
+   ["The shop is closed. It's Sunday.", "The shop is closed because it's Sunday."]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je n’aime ni le thé ni le café.", "I don't like tea or coffee."],
+   ["Le train est en retard à cause de la neige.", "The train is late because of the snow."],
+   ["J’apprends l’anglais parce que je veux voyager.", "I'm learning English because I want to travel."],
+   ["L’hôtel est petit mais confortable.", "The hotel is small but comfortable."],
+   ["Tu veux du jus ou de l’eau ?", "Do you want juice or water? / Would you like juice or water?"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Écris quatre ou cinq phrases sur ta ville ou ton travail. Utilise au moins une fois and, but, because et or.",
+  "items": [
+   ["Exemple de réponse", "I live in Douala and I work in a bank. I like my job because my colleagues are friendly, but the days are long. After work I go to the gym or I visit my parents. I'm learning English because I want a job in Canada."]
+  ]
+ }
+],
+"a_retenir": [
+ "and = addition ; dans une liste : A, B and C.",
+ "but = opposition (souvent avec une virgule avant) ; pas de « but » sans contraste.",
+ "because + sujet + verbe (because it's raining) ; because of + nom (because of the rain).",
+ "or = choix ; dans une phrase négative : I don't like tea or coffee.",
+ "so = conséquence (It's late, so I'm going home)."
+],
+"liens": [29, 75, 118, 119],
+"refs": ["cam-sentences", "bc-a1a2"]
+}

@@ -1,0 +1,221 @@
+{
+ "n": 157,
+ "niveau": "B2",
+ "titre": "L’inversion après une expression négative",
+ "intro": "« Never have I seen… », « Not only did she… », « No sooner had we arrived than… » : quand une expression négative ou restrictive ouvre la phrase, l'anglais inverse le sujet et l'auxiliaire, comme dans une question. C'est un procédé d'insistance typique des discours, des articles et des écrits soignés, très apprécié aux examens (FCE, IELTS, TOEIC).",
+ "objectifs": [
+  "Reconnaître les expressions qui entraînent l'inversion (never, rarely, little, not only, under no circumstances, not until, only when…).",
+  "Construire l'inversion avec le bon auxiliaire, y compris do / does / did.",
+  "Maîtriser les structures à deux parties : no sooner… than, hardly… when, not only… but also.",
+  "Savoir quand ne pas inverser et choisir le bon registre."
+ ],
+ "sections": [
+  {
+   "titre": "Le principe",
+   "texte": [
+    "Dans une phrase normale, l'adverbe négatif se place près du verbe : « I have never seen such a mess. » Pour insister, on peut le placer en tête de phrase. Il faut alors l'ordre d'une question : auxiliaire + sujet + verbe. « Never have I seen such a mess. »",
+    "L'effet est solennel, dramatique ou très écrit. À l'oral courant, on l'entend dans les discours, les commentaires sportifs, les publicités, ou pour plaisanter en exagérant.",
+    "Le français connaît un phénomène proche : « À peine était-il arrivé que… », « Jamais je n'aurais cru… ». Mais en anglais, l'inversion est obligatoire après ces expressions placées en tête."
+   ],
+   "exemples": [
+    ["I have never felt so proud. → Never have I felt so proud.", "Neutre → emphatique."],
+    ["She rarely makes mistakes. → Rarely does she make mistakes.", "Pas d'auxiliaire : on ajoute « does »."],
+    ["We had seldom seen such enthusiasm. → Seldom had we seen such enthusiasm.", "Past perfect : « had » passe devant."]
+   ]
+  },
+  {
+   "titre": "Les expressions qui déclenchent l'inversion",
+   "texte": [
+    "Ce sont des adverbes ou groupes négatifs (never, at no time, under no circumstances), de fréquence très faible (rarely, seldom, hardly ever), ou restrictifs commençant par « only » ou « not »."
+   ],
+   "tableau": {
+    "entetes": ["Expression", "Sens", "Exemple"],
+    "lignes": [
+     ["Never (before)", "jamais (auparavant)", "Never before had the city been so quiet."],
+     ["Rarely / Seldom", "rarement", "Seldom do we receive such kind letters."],
+     ["Hardly ever", "presque jamais", "Hardly ever does he take a day off."],
+     ["Little", "guère, pas du tout (avec know, realise, imagine, suspect)", "Little did she know what was waiting for her."],
+     ["At no time", "à aucun moment", "At no time was the public in danger."],
+     ["Under no circumstances / On no account", "en aucun cas", "On no account should you sign this."],
+     ["In no way", "en rien, nullement", "In no way is this your fault."],
+     ["Nowhere", "nulle part", "Nowhere else will you find such good coffee."],
+     ["Not once", "pas une seule fois", "Not once did he say thank you."],
+     ["Only then / Only later", "c'est seulement alors / plus tard", "Only then did I understand."]
+    ]
+   }
+  },
+  {
+   "titre": "Choisir l'auxiliaire",
+   "texte": [
+    "On reprend les règles de la question : s'il y a déjà un auxiliaire (be, have, un modal), il passe devant le sujet. Sinon, on ajoute do / does / did et le verbe revient à la base verbale.",
+    "Avec « be » verbe principal, c'est « be » lui-même qui passe devant : « Rarely is he late. »",
+    "Attention : l'expression contient déjà la négation, on n'ajoute donc pas « not » ni de « ne » à la française : « Never have I seen… », et non « Never haven't I seen… »."
+   ],
+   "tableau": {
+    "entetes": ["Temps", "Phrase neutre", "Inversion"],
+    "lignes": [
+     ["Présent simple", "He seldom calls me.", "Seldom does he call me."],
+     ["Prétérit", "I didn't once see her smile.", "Not once did I see her smile."],
+     ["Be", "He is rarely late.", "Rarely is he late."],
+     ["Present perfect", "I have never been so tired.", "Never have I been so tired."],
+     ["Modal", "You should not open it in any circumstances.", "Under no circumstances should you open it."],
+     ["Futur", "You won't find a better price anywhere.", "Nowhere will you find a better price."]
+    ]
+   }
+  },
+  {
+   "titre": "Not until, only when, only after, only by",
+   "texte": [
+    "Avec « Not until… » et « Only + expression de temps ou de moyen », l'inversion se fait dans la proposition principale, pas dans la subordonnée qui suit « until / when / after ».",
+    "La subordonnée garde donc l'ordre normal : « Not until I got home did I realise I had lost my wallet. » (et non « did I get home »).",
+    "« Only » suivi directement d'un sujet n'entraîne pas d'inversion : « Only John knows the code » (seul John connaît le code)."
+   ],
+   "exemples": [
+    ["Not until the end of the film did we understand the title.", "Ce n'est qu'à la fin du film que nous avons compris le titre."],
+    ["Only when the rain stopped did we leave the shelter.", "Inversion dans la principale seulement."],
+    ["Only after three interviews was she offered the job.", "Passif : « was » passe devant."],
+    ["Only by working together can we solve this problem.", "Moyen : only by + -ing."]
+   ]
+  },
+  {
+   "titre": "Les structures à deux parties",
+   "texte": [
+    "« Not only… but (also)… » : l'inversion porte sur la première partie seulement. « Not only did she write the report, but she also presented it. »",
+    "« No sooner… than » et « Hardly / Scarcely / Barely… when » expriment qu'une chose s'est produite juste après une autre (à peine… que). On les emploie presque toujours avec le past perfect dans la première partie et le prétérit dans la seconde.",
+    "Piège : « no sooner » va avec « than » (c'est un comparatif), « hardly / scarcely » vont avec « when » (parfois « before »). On ne mélange pas."
+   ],
+   "exemples": [
+    ["Not only is the hotel cheap, but it's also right next to the beach.", "Non seulement… mais aussi."],
+    ["No sooner had I sat down than the phone rang.", "À peine m'étais-je assis que le téléphone a sonné."],
+    ["Hardly had we left the house when it started to pour.", "À peine étions-nous sortis qu'il s'est mis à pleuvoir à verse."],
+    ["Scarcely had the match begun when the lights went out.", "scarcely : plus littéraire."]
+   ]
+  },
+  {
+   "titre": "Registre et alternatives neutres",
+   "texte": [
+    "L'inversion est un choix de style. Dans un courriel ordinaire ou une conversation, la version neutre est plus naturelle : « I've never seen anything like it. » Utilisée trop souvent, l'inversion paraît pompeuse.",
+    "Elle est en revanche très efficace dans un discours, une conclusion d'essai, une consigne officielle (« On no account should passengers leave their luggage unattended »), ou pour un effet humoristique.",
+    "Ne pas confondre avec l'inversion conditionnelle (Had I known…, Should you need…), étudiée dans la leçon 160, et avec l'insistance par do / does / did (leçon 168)."
+   ],
+   "exemples": [
+    ["Neutral: I didn't realise until later. / Emphatic: Only later did I realise.", "Même sens, registres différents."],
+    ["On no account should passengers leave their luggage unattended.", "Consigne officielle."],
+    ["Never again will I eat seven doughnuts in one go!", "Effet humoristique."]
+   ]
+  }
+ ],
+ "formule": "Expression négative / restrictive en tête + auxiliaire + sujet + verbe (Never have I… / Rarely does she… / Not until X did we…)",
+ "prononciation": [
+  "L'accent principal tombe sur l'expression négative en tête : « NEVer have I… », « NOT ONCE did he… ». Elle porte l'emphase.",
+  "L'auxiliaire inversé est en général faible : « Never have I seen » /ˈnevə həv aɪ ˈsiːn/, « Rarely does she » /ˈreəli dəz ʃi/.",
+  "Pas de virgule ni de pause après l'expression : elle forme un seul bloc avec l'auxiliaire et le sujet.",
+  "« seldom » /ˈseldəm/, « scarcely » /ˈskeəsli/, « circumstances » /ˈsɜːkəmstænsɪz/ ou /ˈsɜːkəmstɑːnsɪz/.",
+  "Dans « No sooner… than », « than » est faible : /ðən/."
+ ],
+ "erreurs": [
+  ["Never I have seen such a mess.", "Never have I seen such a mess.", "Après « never » en tête : auxiliaire + sujet."],
+  ["Rarely he goes out.", "Rarely does he go out.", "Sans auxiliaire, on ajoute does, et le verbe revient à la base."],
+  ["Not only she speaks Arabic, but she also speaks Wolof.", "Not only does she speak Arabic, but she also speaks Wolof.", "Inversion dans la première partie."],
+  ["No sooner had I arrived when the show began.", "No sooner had I arrived than the show began.", "no sooner… than ; hardly… when."],
+  ["Not until I got home I realised.", "Not until I got home did I realise.", "Inversion dans la proposition principale."],
+  ["Only when did the manager arrive, we started.", "Only when the manager arrived did we start.", "La subordonnée garde l'ordre normal ; l'inversion est dans la principale."],
+  ["Little he knew about the plan.", "Little did he know about the plan.", "« Little » en tête (sens négatif) : inversion avec did."]
+ ],
+ "dialogue": {
+  "contexte": "À Douala, lors d'une soirée d'adieu, Mme Mbarga, directrice qui part à la retraite, fait un discours. Ensuite, deux employés, Serge et Laure, en parlent.",
+  "lignes": [
+   ["Mme Mbarga", "When I joined this company in 1992, little did I know that I would stay for thirty years.", "Quand je suis entrée dans cette entreprise en 1992, j'étais loin d'imaginer que j'y resterais trente ans."],
+   ["Mme Mbarga", "Not only have you been wonderful colleagues, but you have also become my second family.", "Non seulement vous avez été des collègues formidables, mais vous êtes aussi devenus ma deuxième famille."],
+   ["Mme Mbarga", "Never have I worked with people so generous. Thank you, all of you.", "Jamais je n'ai travaillé avec des gens aussi généreux. Merci à vous tous."],
+   ["Serge", "What a speech! Hardly had she started when people began to cry.", "Quel discours ! À peine avait-elle commencé que les gens se sont mis à pleurer."],
+   ["Laure", "I know. Only when she mentioned the 1998 floods did I realise how much she had done for us.", "Je sais. Ce n'est que quand elle a parlé des inondations de 1998 que j'ai compris tout ce qu'elle avait fait pour nous."],
+   ["Serge", "She never complained, did she? Not once did I hear her raise her voice.", "Elle ne se plaignait jamais, hein ? Pas une seule fois je ne l'ai entendue hausser le ton."],
+   ["Laure", "True. Seldom do you find a boss like that.", "C'est vrai. On trouve rarement une patronne comme ça."],
+   ["Serge", "And under no circumstances will I let the new director change her coffee machine!", "Et en aucun cas je ne laisserai le nouveau directeur changer sa machine à café !"]
+  ]
+ },
+ "mots": [
+  ["seldom", "We seldom go to the cinema these days.", "rarement (soutenu)"],
+  ["rarely", "Rarely have I tasted such good food.", "rarement"],
+  ["scarcely", "Scarcely had we arrived when it began to snow.", "à peine"],
+  ["barely", "I could barely hear her.", "à peine, tout juste"],
+  ["circumstances", "Under no circumstances should you share your password.", "les circonstances"],
+  ["on no account", "On no account must you open this door.", "en aucun cas, sous aucun prétexte"],
+  ["realise", "Only later did I realise my mistake.", "se rendre compte (US : realize)"],
+  ["no sooner", "No sooner had he left than she called.", "à peine… que (avec than)"],
+  ["emphasis", "Inversion adds emphasis to a sentence.", "l'insistance, l'emphase"],
+  ["formal", "Inversion is typical of formal writing.", "soutenu, formel"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choisir",
+   "consigne": "Choisis l'ordre correct.",
+   "items": [
+    ["Never (I have / have I) eaten such spicy food.", "have I"],
+    ["Rarely (does she / she does) arrive late.", "does she"],
+    ["Not until I saw the photos (I understood / did I understand).", "did I understand"],
+    ["Only John (knows / does John know) the password.", "knows (« only » + sujet : pas d'inversion)"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec l'auxiliaire + le sujet + le verbe entre parenthèses.",
+   "items": [
+    ["Rarely ___ (she / complain) about her job.", "does she complain"],
+    ["Never ___ (I / see) such a beautiful sunset.", "have I seen"],
+    ["Under no circumstances ___ (you / should / open) this door.", "should you open"],
+    ["Not until the next morning ___ (we / discover) the truth.", "did we discover"],
+    ["No sooner ___ (he / leave) than it started to rain.", "had he left"],
+    ["Only by working together ___ (we / can / solve) this problem.", "can we solve"]
+   ]
+  },
+  {
+   "titre": "3. Réécrire",
+   "consigne": "Réécris la phrase en commençant par le mot ou l'expression entre parenthèses.",
+   "items": [
+    ["I have never been so embarrassed. (Never)", "Never have I been so embarrassed."],
+    ["He had no idea that he was being followed. (Little)", "Little did he know that he was being followed."],
+    ["We had just started the meeting when the power went off. (Hardly)", "Hardly had we started the meeting when the power went off."],
+    ["She wrote the report and she also presented it. (Not only)", "Not only did she write the report, but she also presented it."],
+    ["You must not leave your bag unattended in any circumstances. (Under no circumstances)", "Under no circumstances must (should) you leave your bag unattended."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["Rarely he goes to the cinema.", "Rarely does he go to the cinema."],
+    ["No sooner had we arrived when the show began.", "No sooner had we arrived than the show began. (ou : Hardly had we arrived when the show began.)"],
+    ["Not until I read the letter I understood.", "Not until I read the letter did I understand."],
+    ["Only when did the manager arrive, we started.", "Only when the manager arrived did we start."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec une inversion.",
+   "items": [
+    ["Jamais je n'ai vu autant de monde.", "Never have I seen so many people."],
+    ["À peine était-il arrivé que le téléphone a sonné.", "Hardly (Scarcely) had he arrived when the phone rang. (ou : No sooner had he arrived than the phone rang.)"],
+    ["Ce n'est qu'après l'appel que j'ai compris.", "Only after the call did I understand."],
+    ["En aucun cas vous ne devez partager votre mot de passe.", "Under no circumstances should (must) you share your password."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court discours (4 ou 5 phrases) pour remercier une équipe, un professeur ou un ami, avec au moins quatre inversions différentes.",
+   "items": [
+    ["Exemple de réponse", "When I started this course, little did I imagine how much I would learn. Never have I had such a patient teacher. Not only did you explain grammar clearly, but you also gave us confidence. Only now do I realise how far we have come. Seldom does a class end with so many smiles."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Expression négative ou restrictive en tête de phrase → auxiliaire + sujet (ordre de la question).",
+  "Sans auxiliaire, on ajoute do / does / did : Rarely does she…, Not once did he…",
+  "Not until / Only when / Only after : l'inversion est dans la proposition principale.",
+  "No sooner… than ; Hardly / Scarcely… when, avec le past perfect dans la première partie.",
+  "Registre soutenu ou emphatique : à doser ; « Only John knows » n'a pas d'inversion."
+ ],
+ "liens": [160, 161, 168, 215],
+ "refs": ["bc-inversion-neg", "bc-emphasis"]
+}

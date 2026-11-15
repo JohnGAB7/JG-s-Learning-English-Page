@@ -1,0 +1,500 @@
+{
+ "n": 238,
+ "niveau": "C1",
+ "titre": "La nominalisation dans l’écrit académique",
+ "intro": "« Because prices rose sharply, people bought less » devient « The sharp rise in prices led to a fall in consumption ». La nominalisation transforme des actions en noms : elle condense l'information, rend le texte plus objectif et permet de relier les idées. Bien dosée, c'est la signature de l'anglais académique ; mal dosée, elle produit un texte lourd et opaque.",
+ "objectifs": [
+  "Former les noms à partir de verbes et d'adjectifs (increase, implementation, reliability) et choisir la bonne préposition (a rise in, the failure to, the impact of… on).",
+  "Transformer une phrase verbale en groupe nominal : adverbe → adjectif, sujet → of / génitif, conjonction → verbe de relation (lead to, result in).",
+  "Utiliser les noms de reprise (this trend, these findings, such an approach) pour la cohésion.",
+  "Éviter l'excès de nominalisation et les faux noms calqués du français (augmentation, realisation, formation)."
+ ],
+ "sections": [
+  {
+   "titre": "Pourquoi nominaliser ?",
+   "texte": [
+    "L'écrit académique préfère présenter des phénomènes plutôt que des actions de personnes. « Researchers analysed the data and found that… » devient « Analysis of the data revealed that… ». Le texte gagne en densité (plus d'information par phrase), en objectivité (moins d'acteurs) et en cohésion (un nom peut être repris et qualifié).",
+    "La nominalisation permet aussi de placer une idée complexe en position de sujet, puis de la relier à une autre par un verbe de relation : « The closure of the factory resulted in the loss of 300 jobs. »"
+   ],
+   "tableau": {
+    "entetes": [
+     "Style verbal (oral, neutre)",
+     "Style nominal (académique)"
+    ],
+    "lignes": [
+     [
+      "Prices rose sharply, so people bought less.",
+      "The sharp rise in prices led to a fall in consumption."
+     ],
+     [
+      "The government decided to close the mine, and many people protested.",
+      "The government's decision to close the mine provoked widespread protests."
+     ],
+     [
+      "If we invest more in schools, children will learn better.",
+      "Greater investment in schools would improve learning outcomes."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The introduction of the new tax caused a sharp decline in sales.",
+     "Deux nominalisations reliées par « caused »."
+    ]
+   ]
+  },
+  {
+   "titre": "Former les noms : suffixes et conversion",
+   "texte": [
+    "Beaucoup de verbes ont un nom suffixé : -tion / -sion (reduce → reduction, decide → decision), -ment (develop → development), -ance / -ence (perform → performance, depend → dependence), -al (approve → approval, refuse → refusal), -ure (fail → failure), -sis (analyse → analysis).",
+    "D'autres ont la même forme pour le verbe et le nom (conversion) : increase, decrease, rise, fall, decline, change, growth (grow), loss (lose). Les adjectifs donnent des noms en -ity (reliable → reliability), -ness (aware → awareness), -ance / -ence (important → importance), -cy (efficient → efficiency).",
+    "Attention à l'accent qui se déplace parfois : to inCREASE (verbe) / an INcrease (nom) ; to reCORD / a REcord."
+   ],
+   "tableau": {
+    "entetes": [
+     "Base",
+     "Nom",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "implement (v.)",
+      "implementation",
+      "the implementation of the policy"
+     ],
+     [
+      "fail (v.)",
+      "failure",
+      "the failure to meet targets"
+     ],
+     [
+      "grow (v.)",
+      "growth",
+      "rapid growth in demand"
+     ],
+     [
+      "refuse (v.)",
+      "refusal",
+      "their refusal to negotiate"
+     ],
+     [
+      "available (adj.)",
+      "availability",
+      "the availability of clean water"
+     ],
+     [
+      "aware (adj.)",
+      "awareness",
+      "public awareness of the risks"
+     ],
+     [
+      "efficient (adj.)",
+      "efficiency",
+      "improvements in energy efficiency"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The availability of cheap credit encouraged borrowing.",
+     "Adjectif « available » → nom « availability »."
+    ]
+   ]
+  },
+  {
+   "titre": "Transformer une phrase : la méthode",
+   "texte": [
+    "1) Le verbe devient un nom (rise → a rise). 2) L'adverbe devient un adjectif (sharply → sharp). 3) Le sujet devient un complément en « of » ou un génitif (the government decided → the government's decision / the decision of the government). 4) L'objet devient un complément en « of » (they built the bridge → the construction of the bridge). 5) La conjonction (because, so, if) devient un verbe ou une préposition de relation.",
+    "Verbes de relation utiles : lead to, result in, cause, contribute to, give rise to (cause → effet) ; result from, be due to, stem from, be attributable to (effet ← cause) ; be associated with, be linked to, reflect, account for (lien ou explication). Prépositions : because of, due to, following, despite, as a result of."
+   ],
+   "exemples": [
+    [
+     "Because the population is ageing rapidly, health costs are rising.",
+     "Phrase verbale de départ."
+    ],
+    [
+     "The rapid ageing of the population is driving up health costs.",
+     "ageing (nom) + rapid (adjectif) + of the population + verbe de relation."
+    ],
+    [
+     "The rise in unemployment stems largely from the closure of two factories.",
+     "« stem from » : effet ← cause."
+    ]
+   ]
+  },
+  {
+   "titre": "Les noms de reprise et la cohésion",
+   "texte": [
+    "Un nom abstrait peut résumer une idée de la phrase précédente et la relier à la suivante : « Unemployment fell by 2 %. This decline was mainly due to… ». Ces noms « coquilles » (shell nouns) sont essentiels à la cohésion : this trend, this increase, this approach, these findings, such a policy, the problem, the issue, this view.",
+    "Choisissez un nom précis plutôt qu'un simple « this » : « This shows… » est vague ; « This decline shows… » est clair."
+   ],
+   "exemples": [
+    [
+     "Several regions reported a drop in tourism. This trend is likely to continue.",
+     "« This trend » reprend toute la phrase précédente."
+    ],
+    [
+     "Some authors favour stricter rules. Such an approach, however, may discourage investment.",
+     "« Such an approach » : reprise + évaluation."
+    ]
+   ]
+  },
+  {
+   "titre": "Les excès à éviter",
+   "texte": [
+    "Trop de noms à la suite rendent le texte illisible (« zombie nouns ») : « The implementation of the evaluation of the reduction of costs… ». Gardez au moins un verbe actif fort par phrase et limitez les chaînes de « of ».",
+    "Ne nominalisez pas tout : un verbe précis est souvent meilleur qu'un nom + verbe vide (« make a decision » → « decide » si la phrase s'alourdit ; « carry out an investigation of » → « investigate »).",
+    "Les guides d'écriture (Plain English, revues scientifiques) recommandent un équilibre : nominaliser pour résumer et relier, garder des verbes pour les actions principales."
+   ],
+   "tableau": {
+    "entetes": [
+     "Trop nominalisé",
+     "Équilibré"
+    ],
+    "lignes": [
+     [
+      "The undertaking of an evaluation of the effectiveness of the programme took place.",
+      "We evaluated how effective the programme was. / The programme's effectiveness was evaluated."
+     ],
+     [
+      "There was a reduction in the number of accidents as a result of the introduction of speed cameras.",
+      "The introduction of speed cameras reduced the number of accidents."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The committee investigated the complaints and rejected most of them.",
+     "Plus clair que « The committee carried out an investigation of the complaints and made a rejection of most of them »."
+    ],
+    [
+     "The closure of the line has made commuting much harder.",
+     "Équilibre : un nom (closure) + un verbe fort (has made)."
+    ]
+   ]
+  },
+  {
+   "titre": "Faux noms et pièges des francophones",
+   "texte": [
+    "Le français nominalise aussi beaucoup, mais certains noms n'existent pas ou n'ont pas le même sens en anglais. Vérifiez toujours le nom et sa préposition."
+   ],
+   "tableau": {
+    "entetes": [
+     "Calque",
+     "Anglais correct",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "the augmentation of prices",
+      "the increase / rise in prices",
+      "a 5 % increase in prices"
+     ],
+     [
+      "the diminution of costs",
+      "the reduction in / of costs, the decrease in costs",
+      "a sharp reduction in costs"
+     ],
+     [
+      "the realisation of the project",
+      "the completion / implementation of the project",
+      "the completion of the bridge"
+     ],
+     [
+      "a formation",
+      "training (indénombrable), a training course",
+      "staff training"
+     ],
+     [
+      "the mise en place of a system",
+      "the introduction / implementation of a system",
+      "the introduction of a new system"
+     ],
+     [
+      "the evolution of prices",
+      "the change / trend in prices, price trends",
+      "recent trends in prices"
+     ]
+    ]
+   }
+  }
+ ],
+ "formule": "Verbe → nom, adverbe → adjectif, sujet / objet → of / génitif, conjonction → verbe de relation (lead to, result from) ; puis reprise par un nom coquille (this trend)",
+ "prononciation": [
+  "Les noms en -tion portent l'accent sur la syllabe qui précède le suffixe : implemenTAtion, reDUCtion, deCIsion /dɪˈsɪʒn/.",
+  "En -ity, l'accent tombe sur l'avant-dernière syllabe avant -ity : reliaBIlity /rɪˌlaɪəˈbɪləti/, availaBIlity.",
+  "Paires à accent mobile : to inCREASE / an INcrease ; to deCREASE / a DEcrease ; to reCORD / a REcord.",
+  "« analysis » /əˈnæləsɪs/, pluriel « analyses » /əˈnæləsiːz/.",
+  "« growth » /ɡrəʊθ/ : le th final se prononce, langue entre les dents."
+ ],
+ "erreurs": [
+  [
+   "The augmentation of salaries was small.",
+   "The increase in salaries was small.",
+   "« Augmentation » n'est pas le nom courant ; increase / rise + in."
+  ],
+  [
+   "The realisation of the new hospital took three years.",
+   "The construction / completion of the new hospital took three years.",
+   "« Realisation » = prise de conscience."
+  ],
+  [
+   "All employees will follow a formation.",
+   "All employees will receive training / attend a training course.",
+   "« Formation » ≠ training."
+  ],
+  [
+   "There was an increase of unemployment.",
+   "There was an increase in unemployment.",
+   "« Increase in » + ce qui augmente."
+  ],
+  [
+   "The government decision of closing the mine…",
+   "The government's decision to close the mine…",
+   "« Decision to + infinitif »."
+  ],
+  [
+   "This shows that the policy worked. (après un long paragraphe)",
+   "This improvement shows that the policy worked.",
+   "Préciser le nom de reprise."
+  ],
+  [
+   "The making of a reduction of the costs was decided.",
+   "It was decided to reduce costs. / Management decided to cut costs.",
+   "Sur-nominalisation : texte opaque."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "À Yaoundé, une étudiante en master et son tuteur réécrivent un paragraphe de mémoire.",
+  "lignes": [
+   [
+    "Mme Etoundi",
+    "Your paragraph says “Because farmers used more fertiliser, they produced more maize.” Try to nominalise it.",
+    "Ton paragraphe dit « Parce que les agriculteurs ont utilisé plus d'engrais… ». Essaie de nominaliser."
+   ],
+   [
+    "Brice",
+    "“The increased use of fertiliser led to higher maize production”?",
+    "« L'utilisation accrue d'engrais a entraîné une hausse de la production de maïs » ?"
+   ],
+   [
+    "Mme Etoundi",
+    "Very good. Then you wrote “This is important.” What does “this” refer to?",
+    "Très bien. Ensuite, tu as écrit « This is important ». À quoi renvoie « this » ?"
+   ],
+   [
+    "Brice",
+    "The increase in production. So: “This rise in output is significant for food security.”",
+    "À la hausse de la production. Donc : « Cette hausse de la production est importante pour la sécurité alimentaire. »"
+   ],
+   [
+    "Mme Etoundi",
+    "Exactly. And here, “the augmentation of prices”?",
+    "Exactement. Et ici, « the augmentation of prices » ?"
+   ],
+   [
+    "Brice",
+    "Oh, “the rise in prices”. And “the realisation of the irrigation project” should be “the completion”.",
+    "Ah, « the rise in prices ». Et « the realisation of the irrigation project » devrait être « the completion »."
+   ],
+   [
+    "Mme Etoundi",
+    "Right. But your last sentence has five nouns in a row. Keep a verb or two.",
+    "Oui. Mais ta dernière phrase a cinq noms à la suite. Garde un verbe ou deux."
+   ],
+   [
+    "Brice",
+    "OK: “The project improved access to water and reduced crop losses.”",
+    "D'accord : « Le projet a amélioré l'accès à l'eau et réduit les pertes de récoltes. »"
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "nominalisation",
+   "Nominalisation makes writing more concise.",
+   "nominalisation"
+  ],
+  [
+   "implementation",
+   "The implementation of the plan was delayed.",
+   "mise en œuvre"
+  ],
+  [
+   "decline",
+   "There was a steady decline in birth rates.",
+   "baisse, déclin"
+  ],
+  [
+   "growth",
+   "Economic growth slowed in 2024.",
+   "croissance"
+  ],
+  [
+   "failure",
+   "The failure to act led to a crisis.",
+   "échec, fait de ne pas faire"
+  ],
+  [
+   "awareness",
+   "Awareness of the disease has improved.",
+   "sensibilisation, conscience"
+  ],
+  [
+   "stem from",
+   "The problem stems from poor planning.",
+   "provenir de, découler de"
+  ],
+  [
+   "give rise to",
+   "The decision gave rise to protests.",
+   "donner lieu à, provoquer"
+  ],
+  [
+   "trend",
+   "This trend is likely to continue.",
+   "tendance"
+  ],
+  [
+   "outcome",
+   "Learning outcomes improved significantly.",
+   "résultat, aboutissement"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Trouver le nom",
+   "consigne": "Donne le nom correspondant.",
+   "items": [
+    [
+     "reduce",
+     "reduction"
+    ],
+    [
+     "fail",
+     "failure"
+    ],
+    [
+     "reliable",
+     "reliability"
+    ],
+    [
+     "approve",
+     "approval"
+    ],
+    [
+     "grow",
+     "growth"
+    ]
+   ]
+  },
+  {
+   "titre": "2. La bonne préposition",
+   "consigne": "Complète avec in, of, to ou on.",
+   "items": [
+    [
+     "a sharp rise ___ house prices",
+     "in"
+    ],
+    [
+     "the government's decision ___ raise taxes",
+     "to"
+    ],
+    [
+     "the impact of the reform ___ small firms",
+     "on"
+    ],
+    [
+     "the construction ___ a new bridge",
+     "of"
+    ],
+    [
+     "the government's failure ___ act",
+     "to"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Nominaliser",
+   "consigne": "Réécris la phrase en style nominal, avec le verbe de relation indiqué.",
+   "items": [
+    [
+     "Prices rose sharply, so demand fell. (led to)",
+     "The sharp rise in prices led to a fall in demand."
+    ],
+    [
+     "The factory closed, and 400 people lost their jobs. (resulted in)",
+     "The closure of the factory resulted in the loss of 400 jobs."
+    ],
+    [
+     "Because the population is growing rapidly, there is more pressure on housing. (rapid growth… has increased)",
+     "The rapid growth of the population has increased pressure on housing."
+    ],
+    [
+     "Crime has fallen because more police officers patrol the streets. (is due to)",
+     "The fall in crime is due to the increased presence of police officers on the streets."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger le calque",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "The augmentation of taxes was unpopular.",
+     "The increase / rise in taxes was unpopular."
+    ],
+    [
+     "Staff will follow a formation in May.",
+     "Staff will receive training / attend a training course in May."
+    ],
+    [
+     "The realisation of the stadium cost 50 million.",
+     "The construction of the stadium cost 50 million."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Alléger",
+   "consigne": "Réécris la phrase sur-nominalisée avec au moins un verbe fort.",
+   "items": [
+    [
+     "The carrying out of an investigation into the causes of the fire was undertaken by the police.",
+     "The police investigated the causes of the fire."
+    ],
+    [
+     "There was a reduction in waiting times following the introduction of online booking.",
+     "The introduction of online booking reduced waiting times."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Réécris ce passage en style académique (3 phrases), avec au moins trois nominalisations et un nom de reprise : « Lots of young people moved to the cities because they couldn't find jobs in villages. So cities grew very fast. This was a problem because there weren't enough houses. »",
+   "items": [
+    [
+     "Exemple de réponse",
+     "The lack of employment in rural areas has led to the large-scale migration of young people to cities. This movement has resulted in rapid urban growth. Such growth has, in turn, created a serious shortage of affordable housing."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Nominaliser = transformer des actions en noms pour condenser, objectiver et relier (The rise in prices led to…).",
+  "Méthode : verbe → nom, adverbe → adjectif, sujet / objet → of ou génitif, because / so → verbe de relation (lead to, result from, be due to).",
+  "Prépositions : a rise in, a decision to, the impact of X on Y, the failure to ; noms de reprise précis : this trend, these findings.",
+  "Équilibre : pas de chaînes de noms ; calques à éviter : augmentation, realisation, formation, mise en place."
+ ],
+ "liens": [
+  179,
+  226,
+  225,
+  227,
+  247
+ ],
+ "refs": [
+  "bc-c1",
+  "bc-noun-modifiers",
+  "cam-nouns"
+ ]
+}

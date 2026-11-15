@@ -1,0 +1,211 @@
+{
+ "n": 165,
+ "niveau": "B2",
+ "titre": "Future in the past (was going to, would)",
+ "intro": "“I was going to call you, but I forgot”, “I knew he would come”, “We were about to leave”: to talk about the future as seen from a moment in the past, English uses was going to, would, was about to, was + -ing and was to. You need these forms to tell stories, apologise for plans that didn't happen and report what people said.",
+ "objectifs": [
+  "Express a past intention or prediction with was / were going to, often one that did not happen.",
+  "Use would for the future seen from the past in stories and reported speech.",
+  "Use was about to, was + -ing, was due to and was to according to the meaning.",
+  "Avoid “would” after when / as soon as."
+ ],
+ "sections": [
+  {
+   "titre": "The principle: move the point of view into the past",
+   "texte": [
+    "Each way of talking about the future has a “past” equivalent: you simply move the auxiliary back. will → would; am going to → was going to; am meeting → was meeting; am about to → was about to.",
+    "The point of reference is a past moment; the action is in the future compared with that moment. It may or may not have happened: the context tells you."
+   ],
+   "tableau": {
+    "entetes": ["Future (from now)", "Future in the past", "Example"],
+    "lignes": [
+     ["will", "would", "I knew she would win."],
+     ["be going to", "was / were going to", "I was going to call you, but I forgot."],
+     ["present continuous (arrangement)", "was / were + -ing", "We were leaving the next day, so we packed."],
+     ["be about to", "was / were about to", "The train was about to leave."],
+     ["be due to", "was / were due to", "The meeting was due to start at nine."],
+     ["be to (formal)", "was / were to", "He was to become president ten years later."]
+    ]
+   }
+  },
+  {
+   "titre": "Was / were going to: past intention or prediction",
+   "texte": [
+    "“Was going to” expresses an intention you had in the past. Very often it did not happen, and we add “but…”: “I was going to call you, but I forgot.”",
+    "It also expresses a prediction based on evidence in the past: “The sky was black. It was obviously going to rain.”",
+    "In speech, “was going to” often sounds like “was gonna”; only write it like that in very informal messages."
+   ],
+   "exemples": [
+    ["I was going to buy a new phone, but the price went up.", "A plan that changed."],
+    ["We were going to visit Kribi, but it rained all week.", "A plan that didn't happen."],
+    ["I could see she was going to cry.", "A prediction from evidence."],
+    ["Sorry, I wasn't going to say anything, but…", "I didn't intend to speak."]
+   ]
+  },
+  {
+   "titre": "Would: the future seen from the past",
+   "texte": [
+    "“Would” is “will” moved into the past. It appears in reported speech (“She said she would call”) and in stories, to announce what was going to happen: “In 1995, she met the man she would marry two years later.”",
+    "Careful: you cannot use “would” for a personal intention that didn't happen. “I would call you yesterday” is wrong; say “I was going to call you yesterday”."
+   ],
+   "exemples": [
+    ["I knew she would win.", "Future from a past point of view."],
+    ["He promised he would help us the next day.", "Reported promise."],
+    ["Nobody thought the project would succeed.", "A past opinion about the future."],
+    ["Little by little, the village would become a town.", "Narrative: what was going to happen."]
+   ]
+  },
+  {
+   "titre": "Was about to, was + -ing, was due to",
+   "texte": [
+    "“Was about to + base form”: an action that was going to happen immediately. We often add “when” for an interruption: “We were about to leave when the phone rang.” Add “just” for emphasis: “I was just about to call you!”",
+    "“Was + -ing”: an arrangement planned in the past, like the present continuous for the future: “I was flying to Montreal the next morning, so I went to bed early.”",
+    "“Was due to + base form”: an official time or scheduled event: “The flight was due to land at 6, but it was delayed.”"
+   ],
+   "exemples": [
+    ["The film was about to start when she arrived.", "Immediate future in the past."],
+    ["I was just about to call you!", "Common phrase."],
+    ["She was meeting her parents that evening, so she couldn't stay.", "A past arrangement."],
+    ["The new bridge was due to open in May.", "A scheduled event."]
+   ]
+  },
+  {
+   "titre": "Was to: destiny and formal arrangements",
+   "texte": [
+    "“Was / were to + base form” is more literary. It announces something that really happened later (destiny): “He was to become one of the greatest writers of his generation.”",
+    "“Was to have + past participle” means that the planned arrangement did not happen: “The wedding was to have taken place in June.” This form is formal and rare in speech.",
+    "“Was supposed to” is the everyday equivalent for a plan or duty that was not carried out: “We were supposed to meet at eight, but he never came.”"
+   ],
+   "exemples": [
+    ["Nelson Mandela was to spend 27 years in prison.", "A historical fact, seen from an earlier point."],
+    ["The concert was to have taken place in Liège.", "It was planned, but it didn't happen."],
+    ["We were supposed to meet at eight.", "Everyday English."]
+   ]
+  },
+  {
+   "titre": "Time clauses and common errors",
+   "texte": [
+    "As with “will”, do not use “would” after when, as soon as, before, after or until. Use the past simple: “He said he would phone when he arrived” (not “when he would arrive”).",
+    "In a past narrative, don't switch to the present: “I thought it is going to rain” is wrong; say “I thought it was going to rain”.",
+    "After “going to” and “about to”, always use the base form: “I was going to go”, not “I was going to went”."
+   ],
+   "exemples": [
+    ["She told me she would call as soon as she got home.", "“got”, not “would get”."],
+    ["I thought it was going to rain, so I took an umbrella.", "Keep the past."]
+   ]
+  }
+ ],
+ "formule": "was / were going to · would · was / were + -ing · was / were about to · was / were due to · was / were to + base form",
+ "prononciation": [
+  "“was going to” is often reduced to /wəz ˈɡʌnə/ (“was gonna”) in fast speech.",
+  "“would” contracts to 'd: “I knew she'd win” /aɪ njuː ʃiːd ˈwɪn/.",
+  "“were about to”: /wər əˈbaʊt tə/, with a linking r in British English.",
+  "In “I was going to call you, but…”, the voice rises on “call” and then falls: the intonation tells the listener the plan didn't happen.",
+  "“due” is /djuː/ in British English and /duː/ in American English."
+ ],
+ "erreurs": [
+  ["I knew she will be late.", "I knew she would be late.", "Future seen from the past: would."],
+  ["I would call you yesterday, but I forgot.", "I was going to call you yesterday, but I forgot.", "Past intention that didn't happen: was going to."],
+  ["He said he would phone when he would arrive.", "He said he would phone when he arrived.", "No “would” after when."],
+  ["We were about leaving when it started to rain.", "We were about to leave when it started to rain.", "be about to + base form."],
+  ["She was to became famous.", "She was to become famous.", "was to + base form."],
+  ["I thought it is going to rain.", "I thought it was going to rain.", "Past narrative: was going to."],
+  ["I was going to went to the gym.", "I was going to go to the gym.", "going to + base form."]
+ ],
+ "dialogue": {
+  "contexte": "In Nairobi, Wanjiru and her Belgian colleague Thomas are back at the office after a long weekend.",
+  "lignes": [
+   ["Wanjiru", "So, did you go to the Maasai Mara in the end?", "in the end = finally."],
+   ["Thomas", "No! We were going to leave on Friday morning, but the car broke down.", "Plan that didn't happen."],
+   ["Wanjiru", "Oh no. I knew that old car would cause problems one day.", "would: future seen from the past."],
+   ["Thomas", "We were just about to get on the road when the engine started smoking.", "about to + when: interruption."],
+   ["Wanjiru", "And the mechanic?", "A short question."],
+   ["Thomas", "He promised he would fix it by Saturday, but he didn't have the part.", "Reported promise: would."],
+   ["Wanjiru", "Too bad. Our flight to Mombasa was due to leave on Sunday, so we had the same stress!", "was due to: scheduled time."],
+   ["Thomas", "Well, I was going to call you to ask for a lift, but I didn't want to ruin your weekend.", "Intention not carried out."]
+  ]
+ },
+ "mots": [
+  ["intend", "I intended to call you, but I forgot.", "to plan to do something"],
+  ["originally", "We originally planned to leave on Friday.", "at the beginning; first"],
+  ["eventually", "We eventually arrived at midnight.", "in the end, after a long time"],
+  ["turn out", "The trip turned out to be a disaster.", "to happen or be in a way you didn't expect"],
+  ["last-minute", "There was a last-minute change of plan.", "happening just before it is too late"],
+  ["due", "The train is due at 6.15.", "expected to happen or arrive at a certain time"],
+  ["fate", "Fate brought them together again.", "a power that seems to decide what happens"],
+  ["expect", "I didn't expect him to come.", "to think something will happen"],
+  ["promise", "She promised she would write.", "to say that you will certainly do something; a statement like this"],
+  ["lift", "Can you give me a lift to the airport?", "a free ride in someone's car (US: ride)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. What does it mean?",
+   "consigne": "Explain the meaning of each sentence.",
+   "items": [
+    ["I was going to call you, but I forgot.", "A past intention that didn't happen."],
+    ["She knew she would never see him again.", "Future seen from the past (and it happened)."],
+    ["We were leaving the next morning, so we packed our bags.", "An arrangement planned in the past."],
+    ["The train was about to leave when I arrived.", "Immediate future in the past."]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with the right form (was going to, would, was about to, was due to).",
+   "items": [
+    ["I ___ (go) to the gym yesterday, but it was closed.", "was going to go"],
+    ["When I met Paul in 2015, I didn't know he ___ (become) my husband.", "would become"],
+    ["We ___ (just / leave) when the phone rang. (immediately)", "were just about to leave"],
+    ["He promised he ___ (help) us the next day.", "would help"],
+    ["The meeting ___ (start) at nine, but it began at ten. (scheduled)", "was due to start"],
+    ["Look at those clouds! I knew it ___ (rain).", "was going to rain (or would rain)"]
+   ]
+  },
+  {
+   "titre": "3. Rewrite",
+   "consigne": "Rewrite each sentence with the form given.",
+   "items": [
+    ["I planned to visit my aunt, but I didn't have time. (was going to)", "I was going to visit my aunt, but I didn't have time."],
+    ["She said: “I will send the report tomorrow.” (reported speech)", "She said (that) she would send the report the next day."],
+    ["We had arranged to meet at eight. (was / were + -ing)", "We were meeting at eight."],
+    ["The plane was going to take off in a few seconds. (about to)", "The plane was about to take off."],
+    ["Later he became a famous writer. (was to)", "He was (later) to become a famous writer."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["I knew she will be late.", "I knew she would be late."],
+    ["I would call you yesterday, but I forgot.", "I was going to call you yesterday, but I forgot."],
+    ["He said he would phone when he would arrive.", "He said he would phone when he arrived."],
+    ["We were about leaving when it started to rain.", "We were about to leave when it started to rain."]
+   ]
+  },
+  {
+   "titre": "5. Choose",
+   "consigne": "Choose the best option.",
+   "items": [
+    ["I ___ call you, but I forgot. (was going to / would)", "was going to"],
+    ["She knew she ___ never forget that day. (would / was about to)", "would"],
+    ["We ___ leave when she arrived. (were about to / would)", "were about to"],
+    ["He didn't know yet that he ___ become president. (was to / was about to)", "was to (or would)"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Tell the story of a plan that didn't go as expected (4–5 sentences), with at least four future-in-the-past forms.",
+   "items": [
+    ["Example answer", "Last summer, I was going to spend two weeks in Canada with my cousin. My flight was due to leave Brussels on 2 July. I was just about to go to the airport when I realised my passport had expired. I had promised my cousin I would arrive on time, so I felt terrible. In the end, I flew a week later, and it turned out to be the best holiday of my life."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Future in the past = move the auxiliary back: will → would, am going to → was going to, am about to → was about to.",
+  "was going to = a past intention, often not carried out. Never “I would call you yesterday”.",
+  "would = future seen from the past in stories and reported speech (I knew he would come).",
+  "was about to (immediate), was + -ing (arrangement), was due to (schedule), was to (destiny, formal).",
+  "No “would” after when / as soon as: “when he arrived”."
+ ],
+ "liens": [45, 49, 154, 94, 109],
+ "refs": ["bc-future-forms", "cam-verbs"]
+}

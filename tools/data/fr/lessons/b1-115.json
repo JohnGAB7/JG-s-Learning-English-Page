@@ -1,0 +1,212 @@
+{
+"n": 115,
+"niveau": "B1",
+"titre": "Les articles : cas particuliers",
+"intro": "Les règles de base (a, an, the) ne suffisent pas : le français met souvent un article là où l'anglais n'en met pas (« La vie est belle » = « Life is beautiful ») et inversement. Cette leçon passe en revue les cas particuliers qui trahissent le plus souvent un francophone.",
+"objectifs": [
+"Ne pas mettre d'article devant un nom pris dans un sens général (life, people, music).",
+"Distinguer « go to school / hospital » (fonction) et « go to the school / the hospital » (le bâtiment).",
+"Maîtriser les articles avec les noms géographiques, les repas, les sports, les langues et les instruments.",
+"Utiliser a / an dans les expressions de fréquence, de prix et d'exclamation, et « the + adjectif » pour un groupe."
+],
+"sections": [
+{
+"titre": "Le sens général : pas d'article",
+"texte": [
+"Pour parler d'une chose en général (toutes les choses de ce type, l'idée en général), l'anglais n'utilise pas d'article avec les noms pluriels et indénombrables. Le français, lui, met « le, la, les ».",
+"Dès qu'on parle d'une chose précise, identifiée par le contexte ou par un complément (of…, that…, in…), on utilise « the »."
+],
+"tableau": {
+"entetes": ["Sens général (pas d'article)", "Sens précis (the)"],
+"lignes": [
+["Life is short.", "The life of my grandfather was difficult."],
+["I love music.", "I love the music in this film."],
+["People are friendly in Bafoussam.", "The people next door are very noisy."],
+["Coffee is expensive this year.", "The coffee you made is delicious."],
+["Children need sleep.", "The children are sleeping."]
+]
+},
+"exemples": [
+["Women earn less than men in many countries.", "Les femmes gagnent moins que les hommes dans beaucoup de pays (en général)."],
+["The women in my family are all teachers.", "Les femmes de ma famille sont toutes enseignantes (groupe précis)."]
+]
+},
+{
+"titre": "Les lieux-institutions : la fonction ou le bâtiment ?",
+"texte": [
+"Avec school, university, college, hospital, prison, church, court, bed, work et home, on ne met pas d'article quand on parle de la fonction du lieu (on y va pour étudier, être soigné, prier, dormir).",
+"On met « the » quand on parle du bâtiment lui-même, sans en être usager. Attention aux différences GB / US : « in hospital » (GB) / « in the hospital » (US) ; « at university » (GB) / « in college » (US)."
+],
+"tableau": {
+"entetes": ["Fonction (pas d'article)", "Bâtiment (the)"],
+"lignes": [
+["My son goes to school by bus.", "I went to the school to talk to his teacher."],
+["She's in hospital with a broken leg. (GB)", "The hospital is next to the station."],
+["I'm going to bed.", "The cat is sleeping on the bed."],
+["He's at work until six.", "The work is nearly finished. (= le travail précis)"],
+["We stayed at home.", "The home of a famous writer. (rare : home = maison)"]
+]
+}
+},
+{
+"titre": "Les noms géographiques",
+"texte": [
+"La plupart des noms propres de lieux n'ont pas d'article : pays, villes, continents, rues, lacs et montagnes isolées. Mais certains en prennent un, surtout quand le nom contient un mot ordinaire (Republic, Kingdom, States) ou un pluriel.",
+"Retenir : the + mers, océans, fleuves, chaînes de montagnes, déserts, groupes d'îles ; pas d'article + lac, montagne isolée, île seule."
+],
+"tableau": {
+"entetes": ["Pas d'article", "Avec the"],
+"lignes": [
+["Cameroon, France, Canada, Belgium", "the United Kingdom, the USA, the Central African Republic, the Netherlands, the Philippines"],
+["Africa, Europe, Douala, Paris", "the Middle East, the West (régions)"],
+["Lake Chad, Lake Ontario", "the Atlantic (Ocean), the Mediterranean (Sea)"],
+["Mount Cameroon, Mount Kilimanjaro", "the Alps, the Rockies (chaînes)"],
+["Oxford Street, Avenue Kennedy", "the Nile, the Congo, the Sahara"],
+["Madagascar, Sicily (île seule)", "the Canary Islands, the Seychelles (archipels)"]
+]
+}
+},
+{
+"titre": "Repas, sports, langues, matières, transports, instruments",
+"texte": [
+"Pas d'article devant les repas (have breakfast / lunch / dinner), les sports et jeux (play football, chess), les langues (speak English), les matières (study maths, history), et les moyens de transport après by (by car, by bus, by plane ; mais on foot).",
+"Avec un adjectif ou quand on parle d'un repas précis, l'article revient : « We had a lovely dinner », « The dinner was excellent ». Devant un instrument de musique, on met généralement « the » : play the guitar, the piano (l'anglais américain omet parfois l'article)."
+],
+"exemples": [
+["We have dinner at eight.", "Nous dînons à 20 h (pas « the dinner »)."],
+["She speaks Ewondo, French and English.", "Elle parle éwondo, français et anglais (pas « the English »)."],
+["My brother plays the guitar and basketball.", "Mon frère joue de la guitare et au basket."],
+["I usually go to work by train.", "Je vais généralement au travail en train."]
+]
+},
+{
+"titre": "A / an et the dans des expressions fixes",
+"texte": [
+"A / an signifie « par » dans les expressions de fréquence, de vitesse et de prix : twice a week, 100 km an hour, 3 euros a kilo. Il est obligatoire devant un métier (She's an engineer) et dans les exclamations avec what + nom dénombrable singulier (What a beautiful day!).",
+"The + adjectif désigne un groupe de personnes (verbe au pluriel) : the rich, the poor, the elderly, the unemployed, the young. Même chose pour certaines nationalités : the French, the British, the Dutch.",
+"The s'utilise pour les choses uniques : the sun, the moon, the internet, the world, the government, the police."
+],
+"exemples": [
+["I go to the gym three times a week.", "Je vais à la salle trois fois par semaine."],
+["What a nice surprise!", "Quelle belle surprise ! (What a… avec un nom dénombrable singulier)"],
+["The elderly need more support.", "Les personnes âgées ont besoin de plus de soutien."],
+["I found the information on the internet.", "J'ai trouvé l'information sur internet."]
+]
+}
+],
+"formule": "sens général = pas d'article (Life, People, Music) · sens précis = the · institutions sans article quand on parle de la fonction",
+"prononciation": [
+"« the » se prononce /ðə/ devant un son consonne et /ði/ devant un son voyelle : the USA /ðə juː es ˈeɪ/ (son /j/ = consonne), the elderly /ði ˈeldəli/.",
+"« a » devient « an » devant un SON voyelle, pas une lettre : an hour /ən ˈaʊə/, a university /ə ˌjuːnɪˈvɜːsəti/, an MBA /ən ˌem biː ˈeɪ/.",
+"Pour insister (« le seul, le vrai »), on prononce « the » /ðiː/ accentué : « It's THE place to be ».",
+"Les articles sont presque toujours faibles et rapides : /ə/, /ən/, /ðə/ ; ne pas les prononcer comme des mots pleins."
+],
+"erreurs": [
+["The life is beautiful.", "Life is beautiful.", "Sens général : pas d'article."],
+["I like the music and the sport.", "I like music and sport.", "Goûts en général : pas d'article."],
+["He's at the hospital since Monday. (= il est hospitalisé, GB)", "He's been in hospital since Monday.", "Fonction : in hospital (GB) ; et present perfect avec since."],
+["We visited the Cameroon and the Lake Chad.", "We visited Cameroon and Lake Chad.", "Pays et lacs : pas d'article."],
+["I went to Netherlands.", "I went to the Netherlands.", "Noms pluriels de pays : the."],
+["She speaks the English very well.", "She speaks English very well.", "Langues : pas d'article."],
+["What beautiful day!", "What a beautiful day!", "What + a + nom dénombrable singulier."],
+["I play piano twice in the week.", "I play the piano twice a week.", "Instrument : the ; fréquence : a week."]
+],
+"dialogue": {
+"contexte": "Deux étudiants, Joëlle (de Yaoundé) et Liam (d'Ottawa), font connaissance pendant un échange universitaire à Louvain-la-Neuve.",
+"lignes": [
+["Liam", "So, what do you study?", "Alors, qu'est-ce que tu étudies ?"],
+["Joëlle", "Economics. And I take French literature as an option. What about you?", "L'économie. Et je prends la littérature française en option. Et toi ?"],
+["Liam", "History. I love history, especially the history of Africa.", "L'histoire. J'adore l'histoire, surtout l'histoire de l'Afrique."],
+["Joëlle", "Really? Have you ever been to Cameroon?", "C'est vrai ? Tu es déjà allé au Cameroun ?"],
+["Liam", "Not yet, but I've been to Ghana and the Ivory Coast. I'd love to climb Mount Cameroon one day.", "Pas encore, mais je suis allé au Ghana et en Côte d'Ivoire. J'aimerais gravir le mont Cameroun un jour."],
+["Joëlle", "You should! Do you go home often?", "Tu devrais ! Tu rentres souvent chez toi ?"],
+["Liam", "Twice a year. The flight to Canada is expensive. And you?", "Deux fois par an. Le vol pour le Canada coûte cher. Et toi ?"],
+["Joëlle", "Only in summer. Life is expensive here, and students don't have much money!", "Seulement l'été. La vie coûte cher ici, et les étudiants n'ont pas beaucoup d'argent !"],
+["Liam", "What a surprise! Shall we have lunch together? The canteen is open.", "Quelle surprise ! On déjeune ensemble ? La cantine est ouverte."]
+]
+},
+"mots": [
+["article", "“The” is the definite article.", "un article (grammaire) ; un article (presse)"],
+["definite", "Use the definite article for specific things.", "défini"],
+["general", "In general, people are kind.", "général"],
+["specific", "Can you give me a specific example?", "précis, particulier"],
+["the elderly", "The elderly often live alone.", "les personnes âgées"],
+["unemployed", "The unemployed need training.", "au chômage, sans emploi"],
+["coast", "We spent a week on the coast.", "la côte, le littoral"],
+["island", "Madagascar is a large island.", "une île"],
+["continent", "Africa is a huge continent.", "un continent"],
+["option", "I took Spanish as an option.", "une option"]
+],
+"exercices": [
+{
+"titre": "1. The ou pas d'article (—) ?",
+"consigne": "Complète avec the ou — (pas d'article).",
+"items": [
+["___ water is essential for ___ life.", "— … —"],
+["___ water in this bottle is cold.", "The"],
+["My grandmother is in ___ hospital. (elle est soignée, GB)", "—"],
+["We went to ___ hospital to visit her.", "the"],
+["They live in ___ Netherlands, near ___ Amsterdam.", "the … —"],
+["___ Nile is the longest river in ___ Africa.", "The … —"],
+["I usually have ___ lunch at one.", "—"],
+["Can you play ___ piano?", "the"]
+]
+},
+{
+"titre": "2. A, an, the ou rien ?",
+"consigne": "Complète avec a, an, the ou —.",
+"items": [
+["I go swimming twice ___ week.", "a"],
+["What ___ amazing view!", "an"],
+["___ unemployed need more help from ___ government.", "The … the"],
+["She's ___ engineer at a company in Douala.", "an"],
+["We travelled to Kribi by ___ car.", "—"],
+["Tomatoes are 2 euros ___ kilo.", "a"]
+]
+},
+{
+"titre": "3. Sens général ou précis ?",
+"consigne": "Réécris la phrase avec ou sans the selon le sens indiqué.",
+"items": [
+["(people / en général) ___ people in big cities are often stressed.", "People in big cities are often stressed."],
+["(people / précis) ___ people we met in Liège were very kind.", "The people we met in Liège were very kind."],
+["(money / en général) ___ money doesn't make you happy.", "Money doesn't make you happy."]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur d'article. Réécris-la correctement.",
+"items": [
+["The love is more important than the money.", "Love is more important than money."],
+["We climbed the Mount Kilimanjaro.", "We climbed Mount Kilimanjaro."],
+["She lives in the United States since 2019.", "She has lived in the United States since 2019."],
+["My children go to the school at 7:30.", "My children go to school at 7:30."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais (attention aux articles).",
+"items": [
+["J'aime le chocolat mais je n'aime pas le café.", "I like chocolate but I don't like coffee."],
+["Il est au lit avec de la fièvre.", "He's in bed with a fever."],
+["Les riches paient plus d'impôts.", "The rich pay more taxes / tax."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Présente ton pays ou ta région en cinq ou six phrases avec des noms géographiques et au moins deux phrases au sens général (sans article).",
+"items": [
+["Exemple de réponse", "I come from Belgium, a small country between France, Germany and the Netherlands. The capital is Brussels. The North Sea is about an hour from my town by train. People here love football and good food. Life is quite expensive, but public transport is excellent. In summer, many Belgians go to the south of France or to the Canary Islands."]
+]
+}
+],
+"a_retenir": [
+"Sens général (pluriel, indénombrable) : pas d'article (Life is short, I love music).",
+"School, hospital, bed, work, church, prison : pas d'article pour la fonction, the pour le bâtiment.",
+"Pays et lacs sans article (Cameroon, Lake Chad), sauf noms composés ou pluriels (the UK, the Netherlands) ; the + fleuves, mers, océans, chaînes de montagnes.",
+"Pas d'article : repas, sports, langues, matières, by car ; the + instruments.",
+"a = par (twice a week, 3 euros a kilo) ; What a…! ; the + adjectif = un groupe (the rich)."
+],
+"liens": [11, 59, 116],
+"refs": ["bc-articles-zero", "bc-articles"]
+}

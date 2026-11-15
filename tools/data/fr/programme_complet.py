@@ -1,0 +1,101 @@
+# Programme complet : un titre par notion, de 1 à 290.
+# Les notions déjà rédigées (notions_*.py) gardent leur titre ici ; les autres sont « à venir ».
+# Ordre pensé pour la progression ; il peut être ajusté avant rédaction.
+
+A1 = [  # 1-40 : les bases
+ "Le verbe « to be » (être)", "Se présenter", "Les nombres de 0 à 20", "« To be » : la négation et les questions",
+ "« Have got » (avoir, posséder)", "Le présent simple", "Les adverbes de fréquence", "Le présent continu",
+ "Présent simple ou présent continu ?", "Les pronoms personnels sujets et compléments", "Les articles a, an, the",
+ "Le pluriel des noms", "This, that, these, those", "Les adjectifs possessifs (my, your…)", "Le génitif ’s (Paul’s car)",
+ "There is / there are", "Les prépositions de lieu (in, on, under…)", "Les prépositions de temps (at, on, in)",
+ "L’alphabet et épeler son nom", "Les nombres de 20 à 1 000", "Dire l’heure", "Les jours, les mois et les dates",
+ "La famille", "Décrire une personne", "Les couleurs et les vêtements", "La nourriture et les repas",
+ "La maison et les pièces", "Can / can’t (capacité, permission)", "Les questions en Wh- (what, where, who…)",
+ "How much / how many", "Some et any", "L’impératif (consignes)", "Like / love / hate + -ing",
+ "Would like (demander poliment)", "Les adjectifs : place et ordre", "Les mots de liaison and, but, because",
+ "Demander son chemin", "Faire des achats", "Le prétérit de « to be » (was / were)", "Révision A1 et bilan",
+]
+A2 = [  # 41-90 : devenir autonome au quotidien
+ "Le prétérit des verbes réguliers", "Le prétérit des verbes irréguliers", "Le passé continu", "« Used to » (avant, autrefois)",
+ "« Be going to » (le futur proche, les projets)", "Les comparatifs", "Les superlatifs", "« Too » et « enough »",
+ "Le futur avec « will »", "Le présent continu pour un rendez-vous futur", "Le present perfect : première approche",
+ "Ever / never", "Just, already, yet", "Must et have to", "Mustn’t ou don’t have to ?", "Should (conseiller)",
+ "Could / would you…? (demandes polies)", "Much, many, a lot of, a few, a little", "Les indénombrables",
+ "Something, anything, nothing, someone…", "Les adverbes de manière (-ly)", "Les verbes + -ing ou + to",
+ "Les pronoms possessifs (mine, yours…)", "Les pronoms réfléchis (myself…)", "Both, either, neither",
+ "As … as et la comparaison d’égalité", "Les questions au passé (did…?)", "Les questions sujet (Who called?)",
+ "Les tags (isn’t it?, don’t you?)", "So / neither do I", "Les prépositions de mouvement", "Les verbes à particule courants (get up, turn on…)",
+ "Make ou do ?", "Say ou tell ?", "Les connecteurs so, then, after that", "Raconter un week-end",
+ "Écrire un e-mail simple", "Téléphoner et laisser un message", "Au restaurant", "À l’hôtel et en voyage",
+ "Chez le médecin", "La météo", "Le travail et les métiers", "Les études", "Les transports",
+ "Exprimer son accord et son désaccord", "Proposer, accepter, refuser", "Les adjectifs en -ed et en -ing",
+ "Les nombres ordinaux et les dates", "Révision A2 et bilan",
+]
+B1 = [  # 91-150 : parler avec assurance
+ "Le present perfect", "Le present perfect continu", "Le past perfect", "« Will » ou « be going to » ?",
+ "Le premier conditionnel", "Le deuxième conditionnel", "Le troisième conditionnel", "I wish / if only",
+ "Le zéro conditionnel (vérités générales)", "Unless, as long as, provided that", "Les propositions relatives (who, which, that)",
+ "Les relatives sans pronom et whose", "La voix passive : présent et prétérit", "Le discours indirect : affirmations",
+ "Le discours indirect : questions", "Les modaux de déduction au présent (must, might, can’t)", "Les modaux d’obligation et d’interdiction",
+ "Be able to et les autres temps de can", "Le futur continu", "Le futur antérieur (will have done)",
+ "Les verbes à particule séparables", "Les verbes à particule du travail", "Gérondif ou infinitif : changement de sens (stop, remember…)",
+ "Les questions indirectes (Could you tell me where…?)", "Les articles : cas particuliers", "Les quantifieurs : each, every, all, whole",
+ "So et such", "Although, however, despite", "Les connecteurs de cause et de conséquence", "Les connecteurs de but (to, in order to, so that)",
+ "Les adjectifs composés (well-known, two-hour)", "Les préfixes et suffixes", "Les collocations avec make, do, take, have",
+ "Les faux amis courants", "Raconter une expérience", "Donner son avis et le justifier", "Participer à une réunion",
+ "Écrire un e-mail professionnel", "Se présenter en entretien", "Parler de ses projets de carrière",
+ "Expliquer un problème et proposer une solution", "Comparer des options", "Décrire un graphique simple",
+ "Faire une réclamation polie", "Le small talk", "Les expressions de temps (by, until, during, while)",
+ "Used to, be used to, get used to", "Had better et would rather", "Les verbes de perception (see someone do / doing)",
+ "Les adverbes de degré (quite, rather, fairly)", "Il faut que… : need, have to, it’s necessary", "Les questions de confirmation et de clarification",
+ "Reformuler : in other words, I mean", "Les nombres, pourcentages et fractions", "Les accents britannique, américain et canadien",
+ "L’intonation des questions", "Les formes faibles (to, of, can)", "Lire un article de presse", "Écrire un court texte d’opinion",
+ "Révision B1 et bilan",
+]
+B2 = [  # 151-220 : nuancer et argumenter
+ "La voix passive", "Le passif des verbes de rapport", "Le causatif « have / get something done »", "Le discours indirect",
+ "Les verbes introducteurs du discours indirect", "Les modaux de déduction au passé", "L’inversion après une expression négative",
+ "Les conditionnels mixtes", "Wish + would / past perfect", "Les inversions conditionnelles (Should you…, Had I known…)",
+ "Les phrases clivées (What I need is…, It was … that)", "Les propositions participiales", "Les relatives non déterminatives",
+ "Le passif avec les modaux et les temps parfaits", "Les temps du futur dans le passé (was going to, would)", "Les nuances du present perfect",
+ "Les verbes d’état et d’action", "Les structures emphatiques (do / does / did)", "Les adverbes de commentaire (clearly, apparently)",
+ "Hedging : nuancer une affirmation", "Les connecteurs du discours écrit", "Les connecteurs de concession (even though, whereas)",
+ "Les verbes à particule à trois mots", "Les verbes à particule figurés", "Les collocations adjectif + nom", "Les collocations verbe + nom",
+ "Les expressions idiomatiques courantes", "Les noms composés", "La nominalisation", "Les prépositions dépendantes (depend on, interested in)",
+ "Les articles avec les noms abstraits", "Les déterminants : few / a few, little / a little", "L’ellipse et la substitution (so, do so, one)",
+ "It et there comme sujets", "Les structures impersonnelles (It is said, There seems to be)", "Les verbes + objet + infinitif",
+ "Les adjectifs + préposition", "Les formes en -ever (whatever, whoever)", "Les intensifieurs (absolutely, utterly)",
+ "Les structures de comparaison avancées (the more…, the more…)", "Présenter des chiffres", "Commenter un graphique",
+ "Faire une présentation", "Argumenter dans un débat", "Négocier", "Conduire une réunion", "Réussir un entretien d’embauche",
+ "Écrire une lettre de motivation", "Rédiger un rapport", "Rédiger un compte rendu", "Écrire un essai argumentatif",
+ "Résumer un texte", "La correspondance formelle", "Exprimer la certitude et le doute", "Exprimer le regret et la critique",
+ "Exprimer la cause et l’effet avec nuance", "Le registre : formel, neutre, familier", "Le langage diplomatique",
+ "Le vocabulaire de la finance et de l’économie", "Le vocabulaire des sciences et des données", "Le vocabulaire du droit et de l’administration",
+ "Le vocabulaire de la santé", "Le vocabulaire de l’environnement", "Comprendre les accents", "L’accent de phrase et la mise en relief",
+ "Les liaisons et l’anglais parlé rapide", "Comprendre un podcast", "Comprendre une conférence", "Lire un texte long", "Révision B2 et bilan",
+]
+C1 = [  # 221-290 : précision et souplesse
+ "Les idiomes du monde professionnel", "Hedging : le langage de la prudence", "Les idiomes de la négociation", "Les idiomes du quotidien",
+ "Le registre formel à l’écrit", "Les collocations académiques", "La phraséologie des articles scientifiques", "Les marqueurs discursifs de l’oral",
+ "L’inversion stylistique", "Les phrases clivées avancées", "Le fronting (mise en tête)", "L’ellipse avancée", "La subjonctive (I suggest he be…)",
+ "Les temps et l’aspect : nuances fines", "La modalité : nuances fines", "Les verbes de rapport et leur nuance (claim, argue, concede)",
+ "Les participes et absolus (Weather permitting…)", "La nominalisation dans l’écrit académique", "Les connotations et le choix des mots",
+ "Les métaphores courantes", "L’euphémisme et la litote", "L’ironie et l’understatement britannique", "Les verbes à particule soutenus et leurs équivalents latins",
+ "Les mots souvent confondus", "Les préfixes et suffixes savants", "La ponctuation anglaise", "La cohésion d’un texte", "La structure d’un paragraphe",
+ "Écrire une synthèse", "Écrire une analyse critique", "Écrire une proposition (proposal)", "Écrire un e-mail délicat",
+ "Rédiger un CV à l’anglo-saxonne", "Rédiger un résumé de recherche (abstract)", "Faire une présentation persuasive", "Animer un atelier",
+ "Gérer les questions difficiles", "Désaccord poli et diplomatie", "Négociation avancée", "Donner un retour (feedback)",
+ "Le storytelling", "L’humour et les jeux de mots", "Les expressions familières et l’argot courant", "Les expressions canadiennes",
+ "Les expressions britanniques et américaines", "Comprendre les sous-entendus", "Comprendre un débat rapide", "Comprendre la presse d’opinion",
+ "Lire la littérature contemporaine", "Le vocabulaire de l’actuariat et du risque", "Le vocabulaire de la gestion et du management",
+ "Le vocabulaire de la technologie et de l’IA", "Le vocabulaire de la politique et de la société", "Le vocabulaire de l’immigration",
+ "La prononciation : intonation discursive", "La prononciation : rythme et fluidité", "Le shadowing avancé", "Parler sans préparation",
+ "Reformuler avec finesse", "Résumer à l’oral", "Les entretiens en panel", "Les appels et visioconférences", "Le réseautage (networking)",
+ "Préparer un examen (IELTS, CELPIP)", "La tâche d’écriture de l’IELTS", "La tâche orale de l’IELTS", "Le vocabulaire des examens",
+ "Les erreurs persistantes des francophones", "Construire son anglais en autonomie", "Révision C1 et bilan",
+]
+
+PROGRAMME = {}
+for start, lst in ((1, A1), (41, A2), (91, B1), (151, B2), (221, C1)):
+    for i, t in enumerate(lst):
+        PROGRAMME[start + i] = t

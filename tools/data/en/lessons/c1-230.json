@@ -1,0 +1,214 @@
+{
+ "n": 230,
+ "niveau": "C1",
+ "titre": "Advanced cleft sentences",
+ "intro": "At B2 you met “What I need is…” and “It was … that”. At C1 we go further: negative and contrastive clefts, cleft questions, “All I want is…”, “What happened was…”, reversed clefts (“That's what I mean”), and above all knowing when English does not need a cleft at all.",
+ "objectifs": [
+  "Build it-clefts with a noun, an adverbial or a clause (It was only when…, It's because… that…).",
+  "Use extended wh-clefts: What happened was…, What we did was (to)…, All I…, The reason why… is that…",
+  "Handle contrastive and negative clefts (It's not that…, it's that…; It wasn't X but Y who…) and cleft questions (What is it that…?).",
+  "Know when not to use a cleft: English often uses sentence stress instead."
+ ],
+ "sections": [
+  {
+   "titre": "Review: what a cleft sentence does",
+   "texte": [
+    "A cleft sentence splits a simple sentence into two parts to highlight one element. “Amina found the error” can become “It was Amina who found the error” (Amina, not someone else) or “What Amina found was an error” (the focus is on what she found).",
+    "An it-cleft highlights a specific element, often in contrast. A wh-cleft first presents the known topic (What I need…) and puts the new information at the end, after “is / was”."
+   ],
+   "exemples": [
+    ["It was the finance team that spotted the problem, not the auditors.", "A contrastive it-cleft correcting an assumption."],
+    ["What surprised me most was the silence.", "A wh-cleft: the new information (the silence) comes last."]
+   ]
+  },
+  {
+   "titre": "Advanced it-clefts: adverbials, clauses, negation",
+   "texte": [
+    "You can highlight much more than a noun: a time or place phrase, a because-clause, or an expression with only or not until.",
+    "“It's not until… that” and “It was only when… that” are very idiomatic ways to say “only at that moment”.",
+    "The contrastive structure “It's not (that)…, it's (that)…” corrects an interpretation: “It's not that I don't like him; it's that I don't trust him.”"
+   ],
+   "tableau": {
+    "entetes": ["Element highlighted", "Example"],
+    "lignes": [
+     ["Time", "It was in 2019 that the company moved to Douala."],
+     ["Place", "It's in the details that the problems appear."],
+     ["Cause", "It's because of the strike that the flights were cancelled."],
+     ["Only / not until", "It wasn't until I moved abroad that I understood my parents."],
+     ["Contrast", "It wasn't the price but the service that annoyed customers."],
+     ["Correction", "It's not that she's lazy; it's that she's overwhelmed."]
+    ]
+   },
+   "exemples": [
+    ["It was only when the lights went out that we realised how late it was.", "“Only when… that”: very natural in English."],
+    ["It's not that I don't want to help. It's that I genuinely can't this week.", "Correcting a misunderstanding."]
+   ]
+  },
+  {
+   "titre": "Extended wh-clefts",
+   "texte": [
+    "Wh-clefts go beyond “What I need is…”. You can highlight a whole action with “What + subject + did was (to) + base verb”: “What we did was (to) call the police”. The “to” is optional.",
+    "“What happened was (that)…” introduces a story; “All (that) I want is…” means “the only thing I want is…”; “The reason (why)… is that…”, “The thing (that)… is…”, “The place where…”, “The person who…”, “The last thing…” work in the same way.",
+    "Agreement: “be” is usually singular (What we need is more nurses). With a plural complement, the plural is possible in careful writing (What they sell are spare parts), but the singular is common."
+   ],
+   "tableau": {
+    "entetes": ["Structure", "Example"],
+    "lignes": [
+     ["What + subject + do / did + is / was + (to) verb", "What she did was (to) rewrite the whole report."],
+     ["What happened was (that)…", "What happened was that the server crashed during the update."],
+     ["All (that) + subject + verb + is…", "All I want is a quiet weekend."],
+     ["The reason (why)… is that…", "The reason why I'm calling is that your parcel has arrived."],
+     ["The last thing… is…", "The last thing we need is another delay."],
+     ["The person who / The place where…", "The person who helped me most was my aunt."]
+    ]
+   },
+   "exemples": [
+    ["What I'd suggest is that we postpone the launch.", "A wh-cleft for a cautious proposal in a meeting."],
+    ["All we can do now is wait.", "“All … is” + base verb: only wait."]
+   ]
+  },
+  {
+   "titre": "Reversed clefts and cleft questions",
+   "texte": [
+    "A reversed wh-cleft puts the reference word first: “That's what I mean”, “This is where we disagree”, “That's why she left”, “Here's what we'll do”. Very frequent in speech, they summarise or announce.",
+    "Cleft questions add insistence to a question: “Was it you who called?”, “Who was it that called?”, “What is it that you want?”, “Why is it that prices keep rising?”."
+   ],
+   "exemples": [
+    ["That's exactly what I was trying to say.", "Reversed cleft: it refers back to the previous idea."],
+    ["What is it that you find so difficult?", "Cleft question: what exactly do you find difficult?"],
+    ["This is where the plan starts to fail.", "Reversed cleft with where."]
+   ]
+  },
+  {
+   "titre": "Register, pronouns and agreement",
+   "texte": [
+    "In “It is I who am responsible”, the subject pronoun and verb agreement are very formal. Everyday English says “It's me who's responsible” (or “It was me who…”).",
+    "In it-clefts, “who” is preferred for people and “that” for everything else; “that” is possible for people in speech. Do not use “which” when the highlighted element is an adverbial: “It was in May that…”, never “in May which”."
+   ]
+  },
+  {
+   "titre": "When not to cleft: English and sentence stress",
+   "texte": [
+    "Some languages, such as French, use “it is… who / that” structures constantly because their sentence stress is fixed. English can move the stress instead: “I called” (with stress on I) is often enough. Too many clefts make English heavy and translated.",
+    "Keep clefts for writing (where there is no intonation) and for real contrasts. In speech, try stress first: “JOHN broke it, not me”."
+   ],
+   "tableau": {
+    "entetes": ["Meaning", "Heavy or wrong", "Natural English"],
+    "lignes": [
+     ["I am the one who called.", "It's me who has called.", "I called. (stress on I) / It was me who called."],
+     ["I have lived here since 2019.", "It's since 2019 that I live here.", "I've lived here since 2019."],
+     ["The thing I need is a break.", "What I need, it's a break.", "What I need is a break."],
+     ["This is the reason I left.", "It's for that that I left.", "That's why I left."]
+    ]
+   }
+  }
+ ],
+ "formule": "It + be + element (noun, adverbial, clause) + that / who… · What / All / The reason why + clause + be + new information · That's what / where / why…",
+ "prononciation": [
+  "In an it-cleft, the main stress falls on the highlighted element: “It was AMINA who found it.”",
+  "In a wh-cleft, the first part has a fall-rise (topic) and the main stress comes at the end: “What I need | is a BREAK.”",
+  "“It's not that…”: stress “not”, then a strong contrast on the second part: “it's that I'm TIRED.”",
+  "“That's why” /ðæts ˈwaɪ/ is said as one block; in “What happened was” /wɒt ˈhæpənd wəz/, “was” is reduced.",
+  "“It wasn't until”: /ɪt ˈwɒzənt ənˈtɪl/, with “until” stressed on the second syllable."
+ ],
+ "erreurs": [
+  ["What I need, it's a holiday.", "What I need is a holiday.", "No extra “it”: the verb be follows the wh-clause directly."],
+  ["It's since 2019 that I live in Montreal.", "I've lived in Montreal since 2019.", "Use the present perfect, with no cleft."],
+  ["It's for that that she resigned.", "That's why she resigned.", "The English structure is “That's why”."],
+  ["What we did is to called the bank.", "What we did was (to) call the bank.", "Consistent tense (was) and the base verb after (to)."],
+  ["It was in May which the shop opened.", "It was in May that the shop opened.", "With a highlighted adverbial, only “that”."],
+  ["This is the reason why that I came.", "This is the reason (why) I came.", "No “that” after why."],
+  ["It's not that I don't like it, but that it's expensive.", "It's not that I don't like it; it's that it's expensive.", "The structure is “It's not that…; it's that…”."]
+ ],
+ "dialogue": {
+  "contexte": "In Dakar, two partners in a small travel agency discuss a fall in bookings.",
+  "lignes": [
+   ["Ousmane", "Bookings are down 20 %. Is it the new website that's putting people off?", "A cleft question."],
+   ["Claire", "I don't think so. It's not that the site is bad; it's that nobody can find it on Google.", "A corrective cleft."],
+   ["Ousmane", "So what happened was that we lost our old links when we moved?", "“What happened was” introduces the explanation."],
+   ["Claire", "Exactly. It was only when I checked the statistics that I saw the problem.", "“It was only when… that”."],
+   ["Ousmane", "Then the last thing we need is to spend more on advertising.", "“The last thing… is”."],
+   ["Claire", "Right. What I'd suggest is that we hire someone to fix the search settings.", "A cautious proposal with a wh-cleft."],
+   ["Ousmane", "That's exactly what I was going to say. How much would it cost?", "A reversed cleft."],
+   ["Claire", "All we'd need is about a week of work. That's why it's worth doing now.", "“All… is” and “That's why”."]
+  ]
+ },
+ "mots": [
+  ["focus", "The cleft puts the focus on the time.", "the main point of attention"],
+  ["highlight", "This structure highlights the cause.", "make something stand out"],
+  ["contrast", "Use stress to show contrast.", "a clear difference between two things"],
+  ["emphasise", "She emphasised the word “never”.", "give special importance to"],
+  ["spot", "It was a customer who spotted the mistake.", "notice, see"],
+  ["put off", "The price is what puts people off.", "make people not want something"],
+  ["overwhelmed", "It's not that he's lazy; he's overwhelmed.", "having too much to deal with"],
+  ["genuinely", "I genuinely can't come this week.", "really, honestly"],
+  ["the last thing", "The last thing I want is an argument.", "something you really do not want"],
+  ["the reason why", "The reason why we're late is the traffic.", "the cause of something"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. It-cleft or wh-cleft?",
+   "consigne": "Say what type of cleft sentence it is.",
+   "items": [
+    ["It was my brother who told me.", "it-cleft"],
+    ["What annoys me is the noise.", "wh-cleft"],
+    ["That's where we met.", "reversed wh-cleft"],
+    ["Who was it that left the door open?", "it-cleft question"]
+   ]
+  },
+  {
+   "titre": "2. Highlight it",
+   "consigne": "Rewrite the sentence, highlighting the words in brackets with “It … that / who”.",
+   "items": [
+    ["The company moved to Kigali [in 2021].", "It was in 2021 that the company moved to Kigali."],
+    ["[The manager] cancelled the meeting.", "It was the manager who cancelled the meeting."],
+    ["We understood the risk [only when we read the report].", "It was only when we read the report that we understood the risk."],
+    ["I realised how tired I was [not until I sat down].", "It wasn't until I sat down that I realised how tired I was."]
+   ]
+  },
+  {
+   "titre": "3. Wh-clefts",
+   "consigne": "Rewrite with the beginning given.",
+   "items": [
+    ["We called a plumber. (What we did…)", "What we did was (to) call a plumber."],
+    ["I only want some peace. (All…)", "All I want is some peace."],
+    ["The server crashed during the update. (What happened…)", "What happened was that the server crashed during the update."],
+    ["I'm calling because I've lost my card. (The reason why…)", "The reason why I'm calling is that I've lost my card."],
+    ["We really don't need another meeting. (The last thing…)", "The last thing we need is another meeting."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    ["What I want, it's a new job.", "What I want is a new job."],
+    ["It's since March that she works here.", "She has worked / has been working here since March."],
+    ["It was in Paris which they met.", "It was in Paris that they met."],
+    ["This is the reason why that I left.", "This is the reason (why) I left."]
+   ]
+  },
+  {
+   "titre": "5. Natural or heavy?",
+   "consigne": "Rewrite in the most natural way (use a cleft only if it helps).",
+   "items": [
+    ["It's for that reason that he left.", "That's why he left."],
+    ["I'm not refusing. The problem is I don't have time. (It's not that…)", "It's not that I'm refusing; it's that I don't have time."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short paragraph (4 sentences) explaining a misunderstanding at work. Use three clefts of different types.",
+   "items": [
+    ["Example answer", "It wasn't the client who changed the deadline; it was our own sales team. What happened was that they promised a date without checking with us. It was only when the client called on Monday that we found out. That's why I'd like us to agree on a clear procedure."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "It-clefts: a noun, an adverbial or a clause (It was only when… that…, It's because… that…, It wasn't until… that…).",
+  "Wh-clefts: What happened was…, What we did was (to) + verb, All I want is…, The reason why… is that…, The last thing… is…",
+  "Reversed clefts (That's why / what / where…) and cleft questions (What is it that…?) are very common in speech.",
+  "Don't overuse clefts: no “What I need, it's…”, no “It's since… that”; in speech, stress is often enough."
+ ],
+ "liens": [161, 215, 229, 231, 168],
+ "refs": ["bc-emphasis", "bc-c1"]
+}

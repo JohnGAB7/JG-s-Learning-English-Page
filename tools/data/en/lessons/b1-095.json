@@ -1,0 +1,195 @@
+{
+ "n": 95,
+ "niveau": "B1",
+ "titre": "The first conditional",
+ "intro": "The first conditional (If it rains, I'll stay at home) talks about a possible, realistic future situation and its likely result. We use it all the time to warn, negotiate, promise and make plans.",
+ "objectifs": [
+  "Build a first conditional sentence with if + present simple and will + base verb.",
+  "Never put will in the if-clause.",
+  "Vary the result with may, might, can, should, be going to or an imperative.",
+  "Tell the difference between if and when, and use unless in simple cases."
+ ],
+ "sections": [
+  {
+   "titre": "The structure",
+   "texte": [
+    "There are two parts: the condition (if + present simple) and the result (will / won't + base verb). The order is free. If the sentence starts with if, put a comma between the two parts; if it starts with the result, no comma.",
+    "The present simple in the if-clause really talks about the future. Learners often add will “to match”, but it is wrong."
+   ],
+   "tableau": {
+    "entetes": ["Condition (if + present)", "Result (will + base verb)"],
+    "lignes": [
+     ["If it rains tomorrow,", "we'll stay at home."],
+     ["If you don't hurry,", "you'll miss the bus."],
+     ["If she gets the job,", "she'll move to Toronto."],
+     ["If they don't call,", "I won't wait for them."]
+    ]
+   },
+   "exemples": [
+    ["We'll stay at home if it rains tomorrow.", "Result first: no comma."],
+    ["If you study regularly, you'll pass the exam.", "A realistic situation and a likely result."]
+   ]
+  },
+  {
+   "titre": "Questions and negatives",
+   "texte": [
+    "The question is usually about the result: What will you do if…? / Will you come if…? A negative can be in either part, or in both.",
+    "After if, we often use any, anyone, anything in an affirmative sentence: “If anyone calls, take a message.”"
+   ],
+   "exemples": [
+    ["What will you do if you don't get a visa?", "Question about the result."],
+    ["Will you come if I invite Paul?", "Yes/no question."],
+    ["If you don't call me, I won't know where you are.", "Negatives in both parts."]
+   ]
+  },
+  {
+   "titre": "Varying the result",
+   "texte": [
+    "The result isn't always will. Use a modal to change the meaning: may / might (perhaps), can (possibility, permission), should (advice), must (obligation), be going to.",
+    "The result can also be an imperative, very common for instructions: “If you see Anna, tell her to call me.”"
+   ],
+   "tableau": {
+    "entetes": ["Result", "Example", "Meaning"],
+    "lignes": [
+     ["might / may", "If we leave now, we might catch the train.", "possible, not sure"],
+     ["can", "If you finish early, you can go home.", "permission / possibility"],
+     ["should", "If you feel ill, you should see a doctor.", "advice"],
+     ["must", "If you want to apply, you must register first.", "obligation"],
+     ["imperative", "If it's too hot, open the window.", "instruction"]
+    ]
+   }
+  },
+  {
+   "titre": "If or when? Unless?",
+   "texte": [
+    "If = it isn't certain that it will happen. When = we know it will happen; only the time is open. “If I see him, I'll tell him” (I may not see him) / “When I see him, I'll tell him” (I'm seeing him tomorrow at work). In both cases: present simple, not will.",
+    "Unless = if… not: “You won't pass unless you study” = “You won't pass if you don't study.” Unless is followed by an affirmative verb. Lesson 100 looks at unless, as long as and provided that in detail."
+   ],
+   "exemples": [
+    ["When I get to Yaoundé, I'll call you.", "I'm sure I'll get there."],
+    ["If I get the scholarship, I'll study in Montreal.", "Not sure I'll get it."],
+    ["We'll go to the beach unless it rains.", "Except if it rains."]
+   ]
+  },
+  {
+   "titre": "Real-life uses",
+   "texte": [
+    "We use the first conditional to warn (If you touch that, you'll burn yourself), threaten (If you're late again, you'll lose your job), promise or negotiate (If you help me, I'll buy you lunch) and persuade (If you buy two, you'll get one free).",
+    "In very polite or formal English, you may meet “If you will…” (if you are willing to) or “If you should need anything…”: these are special cases, not exceptions to the main rule."
+   ],
+   "exemples": [
+    ["If you help me move, I'll cook you dinner.", "Negotiating."],
+    ["If you press this button, the machine will stop.", "Instructions for a machine."]
+   ]
+  }
+ ],
+ "formule": "If + present simple, will / won't + base verb (If it rains, I'll stay at home.)",
+ "prononciation": [
+  "The voice rises at the end of the if-clause and falls at the end of the result: “If it RAINS ↗, we'll stay at HOME ↘.” The pause matches the comma.",
+  "'ll is very light but must be heard: “I'll call” /aɪl kɔːl/, “we'll go” /wiːl ɡəʊ/. Without it, the sentence is wrong.",
+  "won't /wəʊnt/ is often stressed: “I WON'T wait.”",
+  "if is /ɪf/ with a short i, as in “it”, never /iːf/.",
+  "unless /ənˈles/: stress on the second syllable."
+ ],
+ "erreurs": [
+  ["If it will rain, we'll stay at home.", "If it rains, we'll stay at home.", "No will in the if-clause."],
+  ["When I will arrive, I'll call you.", "When I arrive, I'll call you.", "Same rule after when, as soon as, before, until."],
+  ["If you will study, you pass.", "If you study, you'll pass.", "The tenses are swapped: present after if, will in the result."],
+  ["Unless you don't hurry, you'll be late.", "Unless you hurry, you'll be late.", "Unless already contains the negative (= if not)."],
+  ["If I see him I tell him.", "If I see him, I'll tell him.", "A future result needs will (and a comma after the if-clause)."],
+  ["If she'll come, we'll start.", "If she comes, we'll start.", "'ll = will: not allowed in the condition."]
+ ],
+ "dialogue": {
+  "contexte": "Namur, in a small bakery. Lucie, the owner, prepares for a busy weekend with Youssef, her new employee.",
+  "lignes": [
+   ["Lucie", "If it's sunny on Saturday, we'll have a lot of customers.", "If + present, will + verb."],
+   ["Youssef", "What will we do if we run out of bread?", "Question about the result."],
+   ["Lucie", "If that happens, call me and I'll bake more.", "Imperative + will in the result."],
+   ["Youssef", "OK. And if I finish early, can I leave at four?", "Result with can (permission)."],
+   ["Lucie", "Yes, unless the shop is still full.", "Unless = if… not."],
+   ["Youssef", "Fair enough. If you show me the new oven, I'll start it myself next time.", "A small deal."],
+   ["Lucie", "Good idea. When we close tonight, I'll show you.", "When: it will certainly happen."],
+   ["Youssef", "Perfect. If it goes well, you might get a day off!", "Might = maybe."]
+  ]
+ },
+ "mots": [
+  ["run out of", "If we run out of milk, I'll buy some.", "to use all of something so there is none left"],
+  ["miss", "If you don't hurry, you'll miss the train.", "to be too late for something"],
+  ["warn", "I'm warning you: if you do that again, you'll be sorry.", "to tell someone about a danger or a bad result"],
+  ["unless", "I'll come unless it rains.", "except if"],
+  ["in case", "Take an umbrella in case it rains.", "because something might happen"],
+  ["deal", "OK, it's a deal: if you cook, I'll wash up.", "an agreement between people"],
+  ["scholarship", "If she gets the scholarship, she'll study abroad.", "money given to a student to pay for studies"],
+  ["get lost", "If you don't take a map, you'll get lost.", "to not know where you are"],
+  ["on time", "If we leave now, we'll arrive on time.", "at the correct time, not late"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Match",
+   "consigne": "Choose the logical ending: a) you'll get wet. b) I'll lend you some. c) she'll be angry. d) we'll miss the start.",
+   "items": [
+    ["If you need money, …", "b) I'll lend you some."],
+    ["If we don't leave now, …", "d) we'll miss the start."],
+    ["If you go out without an umbrella, …", "a) you'll get wet."],
+    ["If you forget her birthday, …", "c) she'll be angry."]
+   ]
+  },
+  {
+   "titre": "2. Put the verbs in the right form",
+   "consigne": "Complete with the correct forms (first conditional).",
+   "items": [
+    ["If you ___ (leave) the ice cream in the sun, it ___ (melt).", "leave … 'll melt (will melt)"],
+    ["If she ___ (not / come), we ___ (start) without her.", "doesn't come … 'll start (will start)"],
+    ["What ___ you ___ (do) if the flight is cancelled?", "will … do"],
+    ["I ___ (not / go) if Marc ___ (be) there.", "won't go … is"],
+    ["If they ___ (offer) me the job, I ___ (accept) it.", "offer … 'll accept (will accept)"]
+   ]
+  },
+  {
+   "titre": "3. If, when or unless?",
+   "consigne": "Complete with if, when or unless.",
+   "items": [
+    ["I'll phone you ___ I get to the hotel tonight.", "when"],
+    ["You'll fail the test ___ you revise.", "unless"],
+    ["___ it's too expensive, we won't buy it.", "If"],
+    ["We'll eat outside ___ it's cold.", "unless"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["If I will see her, I'll give her the book.", "If I see her, I'll give her the book."],
+    ["Unless you don't stop, I'll call the police.", "Unless you stop, I'll call the police. / If you don't stop, I'll call the police."],
+    ["If you'll be late, call me.", "If you're late, call me."],
+    ["We go to the park if it's sunny tomorrow.", "We'll go to the park if it's sunny tomorrow."]
+   ]
+  },
+  {
+   "titre": "5. Make conditional sentences",
+   "consigne": "Write one first conditional sentence from the prompts.",
+   "items": [
+    ["rain tomorrow / we / stay at home", "If it rains tomorrow, we'll stay at home."],
+    ["you / need help / call me (imperative)", "If you need help, call me."],
+    ["when / I / arrive in Montreal / send you a message", "When I arrive in Montreal, I'll send you a message."],
+    ["we / leave now / might / arrive on time", "If we leave now, we might arrive on time."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write 4 first conditional sentences about next week: one with will, one with might, one with an imperative and one with unless.",
+   "items": [
+    ["Example answer", "If I finish work early on Friday, I'll go to the cinema. If the weather is good, we might have a barbecue. If you're free on Sunday, come and have lunch with us. I won't go to the gym unless my friend comes with me."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "If + present simple, will + base verb: a possible, realistic future situation.",
+  "Never will in the if-clause (or after when, as soon as, until, before).",
+  "Comma when the sentence starts with if; no comma in the other order.",
+  "The result can use might, can, should, must or an imperative.",
+  "If = not sure; when = sure; unless = if… not."
+ ],
+ "liens": [94, 96, 99, 100, 49],
+ "refs": ["bc-cond-012"]
+}

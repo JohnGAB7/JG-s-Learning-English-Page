@@ -1,0 +1,216 @@
+{
+ "n": 163,
+ "niveau": "B2",
+ "titre": "Les relatives non déterminatives",
+ "intro": "« My brother, who lives in Toronto, is an engineer » ; « He lost his passport, which meant he couldn't fly » ; « I have two sisters, both of whom are doctors » : la relative non déterminative ajoute une information supplémentaire, entre virgules. Elle obéit à des règles précises (pas de « that », pronom obligatoire) et permet des structures élégantes très fréquentes à l'écrit.",
+ "objectifs": [
+  "Distinguer relative déterminative (sans virgules) et non déterminative (entre virgules), et le changement de sens qui en résulte.",
+  "Employer who, which, whose, where, when et whom, sans « that » et sans omettre le pronom.",
+  "Utiliser « which » pour reprendre toute une proposition (= ce qui).",
+  "Construire des relatives avec quantifieur (some of whom, most of which) et préposition (to whom, in which)."
+ ],
+ "sections": [
+  {
+   "titre": "Déterminative ou non déterminative ?",
+   "texte": [
+    "Une relative déterminative (defining) identifie la personne ou la chose dont on parle : sans elle, on ne sait pas de qui il s'agit. Elle n'a pas de virgules : « The students who failed the test must take it again » (seulement ceux qui ont échoué).",
+    "Une relative non déterminative (non-defining) ajoute une information en plus sur quelque chose de déjà identifié. Elle est entre virgules et pourrait être supprimée : « Yaoundé, which has seven hills, is the capital of Cameroon. »",
+    "Les virgules changent le sens : « My brother who lives in Paris is a chef » suggère que j'ai plusieurs frères (celui qui vit à Paris) ; « My brother, who lives in Paris, is a chef » indique que j'ai un seul frère, et je précise qu'il vit à Paris."
+   ],
+   "tableau": {
+    "entetes": ["", "Déterminative", "Non déterminative"],
+    "lignes": [
+     ["Rôle", "identifie", "ajoute une information"],
+     ["Virgules", "non", "oui (ou tirets, parenthèses)"],
+     ["« that »", "possible", "impossible"],
+     ["Omission du pronom objet", "possible (the book I read)", "impossible"],
+     ["Avec un nom propre", "rare", "très fréquent (Paris, which…)"],
+     ["Registre", "oral et écrit", "surtout écrit ; à l'oral, avec des pauses"]
+    ]
+   }
+  },
+  {
+   "titre": "Les pronoms : who, which, whose, where, when, whom",
+   "texte": [
+    "Who pour les personnes, which pour les choses et les animaux, whose pour la possession (= dont le / la / les), where pour les lieux, when pour les moments.",
+    "« Whom » est la forme objet de « who », dans un style soutenu : « The director, whom I met in Dakar, offered me a job. » À l'oral, on dit « who ».",
+    "Deux règles strictes : jamais « that » dans une non déterminative, et on ne supprime jamais le pronom, même s'il est complément. On n'ajoute pas non plus de pronom personnel en plus (« which I visited it » est faux)."
+   ],
+   "exemples": [
+    ["Marie Curie, who was born in Warsaw, won two Nobel Prizes.", "who : une personne."],
+    ["The Atomium, which was built in 1958, is now a museum.", "which : une chose."],
+    ["Mr Diallo, whose son is in my class, is a pilot.", "whose : dont le fils."],
+    ["We visited Ghent, where my grandparents used to live.", "where : un lieu."],
+    ["I'll never forget 2020, when we all stayed at home.", "when : un moment."]
+   ]
+  },
+  {
+   "titre": "« Which » qui reprend toute la phrase",
+   "texte": [
+    "« Which » peut reprendre toute la proposition qui précède, et non un seul nom. Il traduit alors le français « ce qui » ou « ce que ».",
+    "Piège très fréquent : utiliser « what ». « She passed the exam, what surprised everyone » est faux ; il faut « which surprised everyone ».",
+    "On le place toujours après une virgule, en fin de phrase."
+   ],
+   "exemples": [
+    ["He arrived two hours late, which annoyed everyone.", "…ce qui a agacé tout le monde."],
+    ["She speaks five languages, which is very useful in her job.", "…ce qui est très utile."],
+    ["They cancelled the concert, which I found disappointing.", "…ce que j'ai trouvé décevant."]
+   ]
+  },
+  {
+   "titre": "Quantifieur + of whom / of which",
+   "texte": [
+    "Après un nom pluriel ou un groupe, on peut préciser une partie : quantifieur + of + whom (personnes) / which (choses). Quantifieurs : some, many, most, all, none, both, neither, a few, several, one, two, half, the majority.",
+    "C'est la traduction naturelle du français « dont la plupart », « dont l'un », « qui tous… ».",
+    "Après une préposition, on emploie toujours « whom », jamais « who » : « most of whom », pas « most of who ». Et on ne remplace pas « whom » par « them » : « both of them live in Canada » après une virgule crée une phrase incorrecte (deux propositions sans liaison)."
+   ],
+   "exemples": [
+    ["She has three children, all of whom speak four languages.", "…qui parlent tous quatre langues."],
+    ["I have two sisters, one of whom lives in Liège.", "…dont l'une habite à Liège."],
+    ["We received 200 applications, most of which were excellent.", "…dont la plupart étaient excellentes."],
+    ["He wrote two novels, neither of which was successful.", "…dont aucun n'a eu de succès."]
+   ]
+  },
+  {
+   "titre": "Les prépositions : formel et familier",
+   "texte": [
+    "Quand le pronom relatif est complément d'un verbe à préposition, deux ordres sont possibles. Formel : préposition + whom / which. Courant : préposition rejetée en fin de proposition, avec who / which.",
+    "« Whose » peut aussi suivre une préposition : « The writer, in whose house the museum is located, … »"
+   ],
+   "tableau": {
+    "entetes": ["Style soutenu", "Style courant"],
+    "lignes": [
+     ["My manager, to whom I spoke yesterday, agreed.", "My manager, who I spoke to yesterday, agreed."],
+     ["The hotel, at which we stayed, was excellent.", "The hotel, which we stayed at, was excellent."],
+     ["Dr Ngono, with whom I work, is brilliant.", "Dr Ngono, who I work with, is brilliant."],
+     ["The project, on which we spent two years, is finished.", "The project, which we spent two years on, is finished."]
+    ]
+   }
+  },
+  {
+   "titre": "Ponctuation et oral",
+   "texte": [
+    "La relative non déterminative est encadrée de deux virgules si elle est au milieu de la phrase, d'une seule si elle est à la fin. N'oubliez pas la seconde virgule : « My mother, who lives in Lille, is 70. »",
+    "À l'oral, elle se signale par de petites pauses et une voix un peu plus basse, comme une parenthèse. Dans la conversation, on préfère souvent deux phrases simples : « My mother lives in Lille. She's 70. »",
+    "En français, la virgule a souvent le même effet (« Mon frère, qui vit à Paris, … »), ce qui aide ; mais les pronoms changent : qui / que → who / which selon l'antécédent, jamais « that »."
+   ],
+   "exemples": [
+    ["My mother, who lives in Lille, is 70.", "Deux virgules."],
+    ["I called Aminata, who gave me some great advice.", "Une seule virgule en fin de phrase."]
+   ]
+  }
+ ],
+ "formule": "nom, who / which / whose / where / when + proposition, … · …, which (= ce qui) · quantifieur + of whom / of which",
+ "prononciation": [
+  "La relative non déterminative se dit comme une parenthèse : courte pause avant et après, voix un peu plus basse et plus rapide.",
+  "« whose » /huːz/ se prononce exactement comme « who's » (who is) : attention à l'orthographe.",
+  "« whom » /huːm/ : la voyelle est longue, comme dans « room ».",
+  "« which » /wɪtʃ/ et « witch » se prononcent de la même façon ; pas de son /h/ en anglais britannique standard.",
+  "Dans « most of whom », « of » est faible : /ˈməʊst əv huːm/."
+ ],
+ "erreurs": [
+  ["My father, that is a doctor, works in Douala.", "My father, who is a doctor, works in Douala.", "Jamais « that » dans une non déterminative."],
+  ["She passed the exam, what surprised everyone.", "She passed the exam, which surprised everyone.", "« ce qui » reprenant une phrase = which."],
+  ["I have two brothers, both of them live in Canada.", "I have two brothers, both of whom live in Canada.", "Quantifieur + of whom."],
+  ["Mr Diallo, who his son is in my class, is a pilot.", "Mr Diallo, whose son is in my class, is a pilot.", "Possession : whose."],
+  ["The Louvre, which I visited it last year, was crowded.", "The Louvre, which I visited last year, was crowded.", "Pas de pronom en plus après le relatif."],
+  ["My mother who lives in Lille is 70.", "My mother, who lives in Lille, is 70.", "On n'a qu'une mère : relative non déterminative, avec virgules."],
+  ["The students, most of who passed, were happy.", "The students, most of whom passed, were happy.", "Après une préposition : whom."]
+ ],
+ "dialogue": {
+  "contexte": "À Bruxelles, Grace montre à sa collègue Ingrid les photos du mariage de sa cousine à Bamenda, au Cameroun.",
+  "lignes": [
+   ["Grace", "This is my cousin Brenda, who got married last month.", "Voici ma cousine Brenda, qui s'est mariée le mois dernier."],
+   ["Ingrid", "She looks wonderful! And who's the man next to her?", "Elle est magnifique ! Et qui est l'homme à côté d'elle ?"],
+   ["Grace", "That's her husband, Joseph, whose family comes from Buea.", "C'est son mari, Joseph, dont la famille vient de Buea."],
+   ["Ingrid", "And all these people in yellow?", "Et tous ces gens en jaune ?"],
+   ["Grace", "Her friends from university, most of whom flew in from abroad.", "Ses amies de la fac, dont la plupart sont venues de l'étranger en avion."],
+   ["Ingrid", "Where was the ceremony?", "Où a eu lieu la cérémonie ?"],
+   ["Grace", "In the church in Bamenda, where my grandparents got married in 1965.", "Dans l'église de Bamenda, où mes grands-parents se sont mariés en 1965."],
+   ["Ingrid", "That's lovely. And the party lasted until six in the morning, which doesn't surprise me at all!", "C'est adorable. Et la fête a duré jusqu'à six heures du matin, ce qui ne m'étonne pas du tout !"]
+  ]
+ },
+ "mots": [
+  ["relative", "All our relatives came to the wedding.", "un parent, un membre de la famille"],
+  ["cousin", "My cousin lives in Bamenda.", "un cousin, une cousine"],
+  ["in-laws", "We're having dinner with my in-laws.", "la belle-famille"],
+  ["nephew", "My nephew, who is ten, loves football.", "un neveu"],
+  ["niece", "My niece has just started school.", "une nièce"],
+  ["godmother", "My godmother gave me this ring.", "une marraine"],
+  ["sibling", "Do you have any siblings?", "un frère ou une sœur"],
+  ["ceremony", "The ceremony took place in a small church.", "une cérémonie"],
+  ["attend", "Over 300 guests attended the wedding.", "assister à"],
+  ["guest", "Each guest received a small gift.", "un invité, une invitée"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Virgules ou pas ?",
+   "consigne": "Ajoute des virgules si la relative est non déterminative. Sinon, écris « pas de virgules ».",
+   "items": [
+    ["My sister who lives in Ghent is a nurse. (J'ai une seule sœur.)", "My sister, who lives in Ghent, is a nurse."],
+    ["The students who failed the test must take it again.", "Pas de virgules (déterminative : seulement ceux qui ont échoué)."],
+    ["Yaoundé which is the capital of Cameroon has seven hills.", "Yaoundé, which is the capital of Cameroon, has seven hills."],
+    ["The book that you lent me was excellent.", "Pas de virgules (déterminative, avec « that »)."]
+   ]
+  },
+  {
+   "titre": "2. Choisir le pronom",
+   "consigne": "Complète avec who, which, whose, where, when ou whom.",
+   "items": [
+    ["Marie Curie, ___ was born in Warsaw, won two Nobel Prizes.", "who"],
+    ["The meeting, ___ lasted three hours, was very productive.", "which"],
+    ["Mr Diallo, ___ son is in my class, is a pilot.", "whose"],
+    ["We visited Ghent, ___ my grandparents used to live.", "where"],
+    ["I'll never forget 2020, ___ we all stayed at home.", "when"],
+    ["The director, to ___ I sent my CV, never replied.", "whom"]
+   ]
+  },
+  {
+   "titre": "3. Combiner",
+   "consigne": "Combine les deux phrases avec une relative non déterminative.",
+   "items": [
+    ["My neighbour is a chef. He cooks for us every Sunday.", "My neighbour, who is a chef, cooks for us every Sunday."],
+    ["The Atomium was built for the 1958 World Fair. It is now a museum.", "The Atomium, which was built for the 1958 World Fair, is now a museum."],
+    ["She has three children. All of them speak four languages.", "She has three children, all of whom speak four languages."],
+    ["He arrived two hours late. This annoyed everyone.", "He arrived two hours late, which annoyed everyone."],
+    ["I met Ama. Her brother plays for the national team.", "I met Ama, whose brother plays for the national team."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["My father, that is a doctor, works in Douala.", "My father, who is a doctor, works in Douala."],
+    ["She passed the exam, what surprised everyone.", "She passed the exam, which surprised everyone."],
+    ["I have two brothers, both of them live in Canada.", "I have two brothers, both of whom live in Canada."],
+    ["The Louvre, which I visited it last year, was crowded.", "The Louvre, which I visited last year, was crowded."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec une relative non déterminative.",
+   "items": [
+    ["Mon frère, qui vit à Toronto, est ingénieur.", "My brother, who lives in Toronto, is an engineer."],
+    ["Il a perdu son passeport, ce qui l'a obligé à rester.", "He lost his passport, which meant he had to stay (which forced him to stay)."],
+    ["J'ai deux sœurs, dont l'une habite à Liège.", "I have two sisters, one of whom lives in Liège."],
+    ["Le directeur, dont la fille est mon amie, m'a invité.", "The director, whose daughter is my friend, invited me."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Présente quatre membres de ta famille ou quatre amis en une phrase chacun, avec une relative non déterminative différente (who, whose, where / which reprenant la phrase, of whom).",
+   "items": [
+    ["Exemple de réponse", "My grandmother, who is 88, still walks to the market every day. My uncle Paul, whose restaurant is in Kribi, makes the best grilled fish in Cameroon. My best friend moved to Montreal, which made me very sad. I have four cousins, two of whom study medicine in Brussels."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Non déterminative = information en plus, entre virgules ; déterminative = identification, sans virgules.",
+  "who, which, whose, where, when, whom ; jamais « that », jamais d'omission du pronom.",
+  "…, which… reprend toute une phrase (= ce qui / ce que) ; jamais « what ».",
+  "Quantifieur + of whom / of which : some of whom, most of which, both of whom.",
+  "Préposition + whom / which (soutenu) ou préposition en fin de proposition (courant)."
+ ],
+ "liens": [101, 102, 162, 171],
+ "refs": ["bc-relative-nondef", "bc-relative-def"]
+}

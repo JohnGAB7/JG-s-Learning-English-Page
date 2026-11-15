@@ -1,0 +1,225 @@
+{
+ "n": 224,
+ "niveau": "C1",
+ "titre": "Les idiomes du quotidien",
+ "intro": "Les idiomes de la vie courante (humeurs, relations, argent, imprévus, conversation) sont partout dans les séries, les podcasts et les conversations entre amis. Au niveau C1, il faut les comprendre immédiatement et en utiliser quelques-uns sans faute de forme.",
+ "objectifs": [
+  "Comprendre une quarantaine d'idiomes du quotidien, classés par thème.",
+  "Connaître leur équivalent français quand il existe, et surtout éviter les traductions mot à mot.",
+  "Maîtriser leur grammaire : ce qui peut varier (temps, possessif), ce qui ne bouge pas, et pourquoi le passif est presque impossible.",
+  "Reconnaître les proverbes tronqués (« Speak of the devil… », « When in Rome… ») et les variantes britanniques et américaines."
+ ],
+ "sections": [
+  {
+   "titre": "Humeurs et émotions",
+   "texte": [
+    "Beaucoup d'idiomes d'émotion utilisent des images du corps ou du ciel. Ils sont très fréquents à l'oral et dans les messages ; à l'écrit formel, on emploie plutôt l'adjectif simple (delighted, nervous, exhausted)."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Équivalent français proche"],
+    "lignes": [
+     ["be over the moon", "être ravi", "être aux anges"],
+     ["be on cloud nine", "être sur un petit nuage", "être au septième ciel"],
+     ["be down in the dumps", "avoir le moral à zéro", "avoir le cafard"],
+     ["have butterflies in your stomach", "avoir le trac, être nerveux", "avoir l'estomac noué"],
+     ["be at the end of your tether (BrE) / rope (AmE)", "être à bout", "être à bout de nerfs"],
+     ["get cold feet", "se dégonfler au dernier moment", "avoir la frousse, faire marche arrière"],
+     ["let off steam", "se défouler", "décompresser, se défouler"],
+     ["a weight off your shoulders", "un grand soulagement", "un poids en moins"]
+    ]
+   },
+   "exemples": [
+    ["She was over the moon when she got the scholarship.", "Elle était aux anges quand elle a obtenu la bourse."],
+    ["He got cold feet a week before the wedding.", "Il s'est dégonflé une semaine avant le mariage."]
+   ]
+  },
+  {
+   "titre": "Relations entre les personnes",
+   "texte": [
+    "Ces idiomes décrivent l'entente, les conflits et les réconciliations. Plusieurs ont un équivalent français proche, mais l'image change : « get on like a house on fire » (s'entendre à merveille) n'a rien de dangereux."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["get on like a house on fire", "s'entendre à merveille", "My mum and my wife get on like a house on fire."],
+     ["see eye to eye (with sb)", "être d'accord (souvent au négatif)", "We don't always see eye to eye on money."],
+     ["give sb the cold shoulder", "battre froid à qqn", "After the argument, she gave me the cold shoulder."],
+     ["rub sb up the wrong way (BrE) / rub sb the wrong way (AmE)", "agacer, prendre à rebrousse-poil", "His tone really rubs me up the wrong way."],
+     ["clear the air", "dissiper un malaise en parlant", "We had a long talk to clear the air."],
+     ["bury the hatchet", "enterrer la hache de guerre", "The two brothers finally buried the hatchet."]
+    ]
+   },
+   "exemples": [
+    ["We don't see eye to eye on politics, but we're still close.", "« See eye to eye » s'emploie surtout à la forme négative."]
+   ]
+  },
+  {
+   "titre": "Argent, temps et imprévus",
+   "texte": [
+    "Les idiomes d'argent sont indispensables pour parler du coût de la vie ; ceux du temps et de l'imprévu reviennent dans tous les récits."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["cost an arm and a leg", "coûter les yeux de la tête", "Rent in Vancouver costs an arm and a leg."],
+     ["make ends meet", "joindre les deux bouts", "They work two jobs to make ends meet."],
+     ["tighten your belt", "se serrer la ceinture", "We'll have to tighten our belts this year."],
+     ["splash out (on sth) (BrE)", "faire une folie, dépenser sans compter", "We splashed out on a new sofa."],
+     ["on a shoestring", "avec très peu d'argent", "They travelled around Asia on a shoestring."],
+     ["out of the blue", "sans prévenir, tout à coup", "He called me out of the blue after ten years."],
+     ["once in a blue moon", "très rarement", "I only eat meat once in a blue moon."],
+     ["in the nick of time", "juste à temps", "We got to the station in the nick of time."],
+     ["a blessing in disguise", "un mal pour un bien", "Losing that job was a blessing in disguise."],
+     ["the last straw", "la goutte d'eau qui fait déborder le vase", "The noise at 3 a.m. was the last straw."]
+    ]
+   },
+   "exemples": [
+    ["With two children and one salary, it's hard to make ends meet.", "« Make ends meet » : verbe make conjugable, le reste est figé."],
+    ["Missing the bus turned out to be a blessing in disguise.", "Un mal pour un bien : l'imprévu a eu une conséquence positive."]
+   ]
+  },
+  {
+   "titre": "Parler, révéler, se taire",
+   "texte": [
+    "Ces idiomes commentent la conversation elle-même : dire un secret, aller droit au but, gaffer, deviner juste. Attention aux différences d'usage : « beat about the bush » (BrE) / « beat around the bush » (AmE), « put your foot in it » (BrE) / « put your foot in your mouth » (AmE), « take sth with a pinch of salt » (BrE) / « with a grain of salt » (AmE)."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["spill the beans / let the cat out of the bag", "vendre la mèche", "Who spilled the beans about the party?"],
+     ["beat about the bush", "tourner autour du pot", "Stop beating about the bush and tell me."],
+     ["cut to the chase", "aller droit au but", "Let me cut to the chase: I'm leaving."],
+     ["hit the nail on the head", "mettre le doigt dessus, viser juste", "You've hit the nail on the head."],
+     ["put your foot in it", "faire une gaffe", "I put my foot in it by mentioning his ex."],
+     ["bite your tongue", "se retenir de parler", "I wanted to argue, but I bit my tongue."],
+     ["take sth with a pinch of salt", "prendre avec des pincettes", "Take online reviews with a pinch of salt."]
+    ]
+   },
+   "exemples": [
+    ["I really put my foot in it when I asked about her job.", "« Put my foot in it » : possessif accordé au sujet (my, his, her…)."]
+   ]
+  },
+  {
+   "titre": "La grammaire des idiomes et les proverbes tronqués",
+   "texte": [
+    "Ce qui varie : le temps du verbe (spill / spilled / has spilled the beans) et le possessif, qui s'accorde au sujet (I bit my tongue, she bit her tongue). Ce qui ne varie pas : les noms, les articles, les prépositions et l'ordre des mots. On ne dit pas « spill the bean » ni « a house in fire ».",
+    "Le passif est presque toujours impossible : « The beans were spilled by Tom » perd le sens idiomatique et sonne comme une plaisanterie. Gardez la voix active.",
+    "Les anglophones raccourcissent souvent un proverbe connu : « Speak of the devil! » (Quand on parle du loup !), « When in Rome… » (À Rome, fais comme les Romains), « Too many cooks… » (Trop de cuisiniers gâtent la sauce). Reconnaître le début suffit pour comprendre l'allusion."
+   ],
+   "exemples": [
+    ["Speak of the devil! We were just talking about you.", "Quand on parle du loup ! (proverbe abrégé, sans « and he shall appear »)."],
+    ["I don't usually eat insects, but when in Rome…", "Allusion à « When in Rome, do as the Romans do »."]
+   ],
+   "note": "Prétérit de « spill » : spilled (partout) ou spilt (surtout britannique)."
+  }
+ ],
+ "formule": "Verbe conjugué + bloc figé (noms, articles, prépositions inchangés) + possessif accordé ; voix active ; registre familier ou courant",
+ "prononciation": [
+  "L'accent porte sur les mots porteurs de l'image : over the MOON, a BLESSing in disGUISE, the last STRAW.",
+  "« tether » se prononce /ˈteðə/ (BrE) avec le /ð/ voisé, comme dans « the ».",
+  "« hatchet » /ˈhætʃɪt/ : le /æ/ ouvert, comme dans « cat ».",
+  "« an arm and a leg » se lie : /ən ˈɑːm ən ə ˈleɡ/ — « and » réduit à /ən/.",
+  "Pour les proverbes tronqués, la voix reste suspendue (intonation montante ou plate) sur le dernier mot : « When in ROME… »"
+ ],
+ "erreurs": [
+  ["It costs the eyes of the head.", "It costs an arm and a leg.", "Calque de « les yeux de la tête » : en anglais, c'est un bras et une jambe."],
+  ["Stop turning around the pot.", "Stop beating about / around the bush.", "« Tourner autour du pot » = beat about the bush."],
+  ["That was the drop that overflowed the vase.", "That was the last straw.", "La « dernière paille » (qui brise le dos du chameau)."],
+  ["Talk of the wolf!", "Speak / Talk of the devil!", "Le loup français devient le diable en anglais."],
+  ["They get on like a house in fire.", "They get on like a house on fire.", "Préposition figée : « on fire »."],
+  ["I have butterflies in the stomach.", "I have butterflies in my stomach.", "Avec les parties du corps, l'anglais utilise le possessif."],
+  ["The beans were spilled by my sister.", "My sister spilled the beans.", "Un idiome se met très rarement au passif."],
+  ["She's in the seventh sky.", "She's on cloud nine. / She's over the moon.", "« Septième ciel » = cloud nine (nuage numéro neuf)."]
+ ],
+ "dialogue": {
+  "contexte": "Deux amies prennent un café à Liège ; l'une raconte une semaine mouvementée.",
+  "lignes": [
+   ["Chloé", "You look exhausted. What's up?", "Tu as l'air épuisée. Qu'est-ce qui se passe ?"],
+   ["Fatou", "Honestly, I'm at the end of my tether. My landlord put the rent up out of the blue.", "Franchement, je suis à bout. Mon propriétaire a augmenté le loyer sans prévenir."],
+   ["Chloé", "Again? Rent here costs an arm and a leg already.", "Encore ? Les loyers coûtent déjà les yeux de la tête ici."],
+   ["Fatou", "I know. And then my boss gave me the cold shoulder all week. That was the last straw.", "Je sais. Et puis mon patron m'a battu froid toute la semaine. Ça a été la goutte d'eau."],
+   ["Chloé", "Did you talk to him? Sometimes you need to clear the air.", "Tu lui as parlé ? Parfois il faut crever l'abcès."],
+   ["Fatou", "I did. I didn't beat about the bush. And guess what? He offered me a transfer to the Namur office.", "Oui. Je n'ai pas tourné autour du pot. Et devine quoi ? Il m'a proposé une mutation au bureau de Namur."],
+   ["Chloé", "So the whole thing was a blessing in disguise!", "Donc c'était un mal pour un bien !"],
+   ["Fatou", "Exactly. Cheaper rent, and a team I get on with like a house on fire. It's a weight off my shoulders.", "Exactement. Un loyer moins cher et une équipe avec qui je m'entends à merveille. Ça m'enlève un poids."]
+  ]
+ },
+ "mots": [
+  ["over the moon", "They were over the moon with the news.", "ravi, aux anges"],
+  ["cold feet", "She got cold feet before the interview.", "la frousse de dernière minute"],
+  ["see eye to eye", "We rarely see eye to eye on music.", "être du même avis"],
+  ["cold shoulder", "He gave his neighbour the cold shoulder.", "froideur, indifférence voulue"],
+  ["make ends meet", "Many students struggle to make ends meet.", "joindre les deux bouts"],
+  ["shoestring", "They started the business on a shoestring.", "petit budget (on a shoestring)"],
+  ["out of the blue", "The offer came out of the blue.", "sans prévenir, à l'improviste"],
+  ["last straw", "The delay was the last straw.", "la goutte d'eau qui fait déborder le vase"],
+  ["spill the beans", "Don't spill the beans about the surprise.", "vendre la mèche"],
+  ["pinch of salt", "Take his promises with a pinch of salt.", "avec réserve, avec des pincettes"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Associer idiome et sens",
+   "consigne": "Donne le sens de l'idiome en français.",
+   "items": [
+    ["once in a blue moon", "très rarement"],
+    ["in the nick of time", "juste à temps"],
+    ["bury the hatchet", "se réconcilier, enterrer la hache de guerre"],
+    ["let off steam", "se défouler"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète l'idiome avec le mot manquant.",
+   "items": [
+    ["Let me cut to the ___: we can't afford it.", "chase"],
+    ["You've hit the nail on the ___.", "head"],
+    ["I wanted to answer back, but I bit my ___.", "tongue"],
+    ["With prices rising, we all have to tighten our ___.", "belts"],
+    ["They get on like a house ___ fire.", "on"],
+    ["My brother put his foot ___ it at dinner.", "in"]
+   ]
+  },
+  {
+   "titre": "3. Choisir l'idiome",
+   "consigne": "Réécris la phrase en remplaçant la partie entre crochets par un idiome de la leçon.",
+   "items": [
+    ["She was [extremely happy] with her results.", "She was over the moon with her results."],
+    ["He [suddenly decided not to do it] the day before the race.", "He got cold feet the day before the race."],
+    ["Who [revealed the secret]?", "Who spilled the beans? / Who let the cat out of the bag?"],
+    ["We [never agree] with our neighbours.", "We never see eye to eye with our neighbours."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige la faute (souvent un calque ou une forme modifiée).",
+   "items": [
+    ["This phone costs the eyes of the head.", "This phone costs an arm and a leg."],
+    ["Talk of the wolf, here's Sam!", "Speak of the devil, here's Sam!"],
+    ["I always have butterflies in the stomach before exams.", "I always have butterflies in my stomach before exams."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un idiome.",
+   "items": [
+    ["Arrête de tourner autour du pot.", "Stop beating about the bush. (AmE: around the bush)"],
+    ["Avec un seul salaire, c'est difficile de joindre les deux bouts.", "With one salary, it's hard to make ends meet."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Raconte en 4 à 5 phrases un imprévu qui t'est arrivé. Utilise au moins trois idiomes de la leçon.",
+   "items": [
+    ["Exemple de réponse", "Last year, my company closed its Yaoundé office out of the blue, and I was down in the dumps for weeks. Money was tight, so we had to tighten our belts and live on a shoestring. Then a former colleague called me and offered me a job in a start-up. Looking back, losing that job was a blessing in disguise."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Classez les idiomes par thème (émotions, relations, argent, temps, conversation) et apprenez-les en phrase complète.",
+  "Seuls le temps du verbe et le possessif changent ; noms, articles et prépositions sont figés ; pas de passif.",
+  "Méfiez-vous des calques : cost an arm and a leg, beat about the bush, the last straw, speak of the devil.",
+  "Notez les variantes : beat about (BrE) / around (AmE) the bush ; a pinch (BrE) / a grain (AmE) of salt ; end of your tether (BrE) / rope (AmE)."
+ ],
+ "liens": [177, 221, 240, 263, 265],
+ "refs": ["bc-c1", "cam-using"]
+}

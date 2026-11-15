@@ -1,0 +1,197 @@
+{
+"n": 28,
+"niveau": "A1",
+"titre": "Can / can’t (ability, permission)",
+"intro": "“Can” is a very common modal verb. We use it to say what we are able to do, to ask for or give permission, and to ask for help. Its form is very simple, but learners often add “to”, “do” or an s that are not there.",
+"objectifs": [
+ "Make sentences with can and can't for every subject, with no “to” and no “-s”.",
+ "Ask questions with Can…? and answer them (Yes, I can / No, I can't).",
+ "Talk about your abilities (I can swim) and say how well (well, a little, not at all).",
+ "Ask for, give or refuse permission (Can I…? You can't…)."
+],
+"sections": [
+ {
+  "titre": "The form: can + base verb",
+  "texte": [
+   "“Can” is a modal verb: it never changes. No s with he, she, it (“she can”, never “she cans”), and the next verb is in the base form, with no “to”: “I can swim”, never “I can to swim”.",
+   "Negative: “cannot” (one word in careful writing) or “can't” (short form, the most common). Question: put “can” before the subject, with no “do”: “Can you swim?”",
+   "Short answers: “Yes, I can.” / “No, I can't.” Don't repeat the main verb."
+  ],
+  "tableau": {
+   "entetes": ["Form", "Structure", "Example"],
+   "lignes": [
+    ["Positive", "subject + can + verb", "She can drive."],
+    ["Negative", "subject + can't / cannot + verb", "She can't drive."],
+    ["Question", "Can + subject + verb…?", "Can she drive?"],
+    ["Short answer", "Yes, subject + can. / No, subject + can't.", "Yes, she can. / No, she can't."],
+    ["Wh- question", "Wh- + can + subject + verb…?", "What can she do?"]
+   ]
+  },
+  "exemples": [
+   ["My son can read and write.", "Ability."],
+   ["I can't find my keys!", "can't = I try but it's not possible."],
+   ["Can you speak Spanish? — No, I can't.", "Question and short answer."]
+  ]
+ },
+ {
+  "titre": "Ability: what you are able to do",
+  "texte": [
+   "“Can” is for skills you learn (swim, drive, read) and for things you are physically able to do. Say “I can swim”, not “I know swim” or “I know to swim”.",
+   "To say how well: “very well”, “well”, “a little”, “not very well”, “can't… at all” (= not in any way). Careful: say “well” (adverb), not “good”.",
+   "For languages, say “I can speak English” or simply “I speak English”."
+  ],
+  "exemples": [
+   ["I can swim, but not very well.", "How well: not very well."],
+   ["My grandmother can't use a computer at all.", "not at all = zero."],
+   ["Can you play the piano? — Yes, a little.", "a little = not much."]
+  ],
+  "note": "In the past, “can” becomes “could” (I could swim when I was five). For other tenses, use “be able to” (lesson 108)."
+ },
+ {
+  "titre": "Permission: Can I…? You can / can't",
+  "texte": [
+   "To ask for permission: “Can I…?”. To be more polite, say “Could I…?” (lesson 57), and in formal English “May I…?”.",
+   "To give or refuse permission, or talk about a rule: “You can…” (it's allowed), “You can't…” (it's not allowed).",
+   "Natural answers: “Yes, of course.”, “Sure.”, “Go ahead.”; to say no politely: “Sorry, you can't.” or “I'm afraid not.”"
+  ],
+  "exemples": [
+   ["Can I open the window? — Yes, of course.", "Asking for permission."],
+   ["You can't park here. It's for buses.", "A rule."],
+   ["You can use my phone.", "Giving permission."]
+  ]
+ },
+ {
+  "titre": "Requests, offers and possibility",
+  "texte": [
+   "“Can you…?” asks someone to do something for you: “Can you help me?”. “Can I…?” can also offer help: “Can I help you?”.",
+   "“Can” also says what is possible: “You can buy tickets online.” Here “you” means “people in general”."
+  ],
+  "exemples": [
+   ["Can you close the door, please?", "A request."],
+   ["Can I help you? — Yes, I'm looking for the station.", "An offer (in a shop, in the street)."],
+   ["You can see the sea from my window.", "Possibility."]
+  ]
+ },
+ {
+  "titre": "Common traps",
+  "texte": [
+   "Never add “do”: “Do you can…?” and “I don't can…” are wrong. “Can” makes questions and negatives on its own.",
+   "In speech, “can” and “can't” sound similar. The difference is mostly the vowel and the stress (see pronunciation). If you are not sure, listen to the short answer, which is always clear: “Yes, I can” / “No, I can't”."
+  ],
+  "tableau": {
+   "entetes": ["Wrong", "Right", "Why"],
+   "lignes": [
+    ["I can to swim.", "I can swim.", "no “to” after can"],
+    ["He cans swim.", "He can swim.", "no s"],
+    ["Do you can swim?", "Can you swim?", "no “do”"],
+    ["I don't can swim.", "I can't swim.", "no “do”"]
+   ]
+  }
+ }
+],
+"formule": "subject + can / can't + verb (no to) · Can + subject + verb…? · Yes, I can. / No, I can't.",
+"prononciation": [
+ "In a positive sentence, “can” is weak and quick: “I can swim” = /aɪ kən ˈswɪm/. Stress the main verb.",
+ "“can't” is never weak: /kɑːnt/ in British English (like “aunt” with a k), /kænt/ in American English. Stress can't AND the verb: “I CAN'T SWIM”.",
+ "In a short answer, “can” is strong: “Yes, I CAN” /kæn/.",
+ "In American English, you hardly hear the t in “can't”; listen to the length and strength of the vowel.",
+ "“Can I…?” is linked: /kənaɪ/. The question goes up at the end."
+],
+"erreurs": [
+ ["I can to swim.", "I can swim.", "After a modal, use the base verb with no “to”."],
+ ["She cans drive.", "She can drive.", "A modal never takes an s."],
+ ["Do you can help me?", "Can you help me?", "No “do”: put can before the subject."],
+ ["I don't can come tomorrow.", "I can't come tomorrow.", "Negative: can't / cannot."],
+ ["I know swim.", "I can swim.", "For skills, use can."],
+ ["She can speak English very good.", "She can speak English very well.", "After a verb, use the adverb “well”."],
+ ["Can I to open the window?", "Can I open the window?", "No “to” in questions either."]
+],
+"dialogue": {
+ "contexte": "In Quebec City, Moussa has an interview for a summer job in a hotel. Mrs Tremblay asks him questions.",
+ "lignes": [
+  ["Mrs Tremblay", "So, Moussa, can you speak English and French?", "A question about ability."],
+  ["Moussa", "Yes, I can. And I can speak a little Spanish too.", "Short answer; “a little”."],
+  ["Mrs Tremblay", "Very good. Can you drive?", "Can + subject + verb."],
+  ["Moussa", "No, I can't. But I can ride a bike!", "can't is strong; ride a bike."],
+  ["Mrs Tremblay", "That's OK. Can you work at the weekend?", "Possibility."],
+  ["Moussa", "Yes, I can work on Saturdays and Sundays. Can I ask a question?", "Asking for permission."],
+  ["Mrs Tremblay", "Of course. Go ahead.", "Giving permission."],
+  ["Moussa", "Can staff eat at the hotel restaurant?", "staff = the people who work there."],
+  ["Mrs Tremblay", "Yes, you can have lunch there for free. But you can't use your phone at reception.", "A permission and a rule."]
+ ]
+},
+"mots": [
+ ["swim", "Can you swim?", "move through water using your arms and legs"],
+ ["drive", "My sister can drive a bus.", "make a car, bus or lorry move"],
+ ["speak", "I can speak three languages.", "use a language; say words"],
+ ["play", "He can play the guitar.", "make music with an instrument; do a sport"],
+ ["help", "Can you help me, please?", "make something easier for someone"],
+ ["borrow", "Can I borrow your pen?", "take something and give it back later"],
+ ["use", "You can use my computer.", "do something with a thing"],
+ ["park", "You can't park here.", "leave your car in a place"],
+ ["well", "She can sing very well.", "in a good way"],
+ ["at all", "I can't cook at all.", "in any way (used with a negative)"]
+],
+"exercices": [
+ {
+  "titre": "1. Can or can't?",
+  "consigne": "Complete with can or can't.",
+  "items": [
+   ["Fish ___ swim.", "can"],
+   ["A baby ___ drive a car.", "can't"],
+   ["Birds ___ fly.", "can"],
+   ["I'm sorry, I ___ come to your party. I'm at work.", "can't"],
+   ["You ___ smoke in the hospital. It's not allowed.", "can't"],
+   ["You ___ pay by card here. We accept all cards.", "can"]
+  ]
+ },
+ {
+  "titre": "2. Questions and short answers",
+  "consigne": "Write the question with can and the short answer.",
+  "items": [
+   ["you / swim? (yes)", "Can you swim? — Yes, I can."],
+   ["she / cook? (no)", "Can she cook? — No, she can't."],
+   ["they / speak French? (yes)", "Can they speak French? — Yes, they can."],
+   ["I / sit here? (yes)", "Can I sit here? — Yes, you can."],
+   ["he / play the piano? (no)", "Can he play the piano? — No, he can't."]
+  ]
+ },
+ {
+  "titre": "3. Ability or permission?",
+  "consigne": "Does “can” show ability or permission?",
+  "items": [
+   ["Can I sit here?", "permission"],
+   ["She can speak four languages.", "ability"],
+   ["You can't take photos in the museum.", "permission (a rule: it's not allowed)"],
+   ["Can you play the guitar?", "ability"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I know to swim.", "I can swim."],
+   ["Do you can help me?", "Can you help me?"],
+   ["He don't can cook at all.", "He can't cook at all."],
+   ["Can I to borrow your pen?", "Can I borrow your pen?"],
+   ["She cans park here.", "She can park here."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write four sentences: two things you can do (with well or a little) and two things you can't do.",
+  "items": [
+   ["Model answer", "I can speak French very well and I can speak a little English. I can cook a good ndolé. I can't drive, and I can't play any musical instrument at all."]
+  ]
+ }
+],
+"a_retenir": [
+ "can + base verb, no “to”, no s, no “do”: She can swim. Can she swim? She can't swim.",
+ "Short answers: Yes, I can. / No, I can't.",
+ "Ability: I can swim; say how well with well, a little, not at all.",
+ "Permission and rules: Can I…? You can / You can't…; more polite: Could I…?",
+ "Pronunciation: weak can /kən/, strong can't /kɑːnt/."
+],
+"liens": [6, 32, 34, 57, 108],
+"refs": ["cam-verbs", "bc-a1a2"]
+}

@@ -1,0 +1,210 @@
+{
+ "n": 7,
+ "niveau": "A1",
+ "titre": "Adverbs of frequency",
+ "intro": "Always, usually, often, sometimes, never… These small words say how often you do something. They go with the present simple very often, and their position in the sentence is important.",
+ "objectifs": [
+  "Know the adverbs of frequency and put them in order from 100% to 0%.",
+  "Put them in the right place: before the main verb, but after “to be”.",
+  "Use frequency expressions (every day, twice a week, once a month) at the end of the sentence.",
+  "Ask and answer questions with “How often…?” and “Do you ever…?”."
+ ],
+ "sections": [
+  {
+   "titre": "From “always” to “never”",
+   "texte": [
+    "Adverbs of frequency say how many times an action happens. The percentages in the table are not exact: they help you compare the words.",
+    "“Never” is already negative: don't use it with “don't”. “Hardly ever” (almost never) is more common in speaking than “rarely” or “seldom”, which are more formal."
+   ],
+   "tableau": {
+    "entetes": ["Adverb", "How often", "Meaning", "Example"],
+    "lignes": [
+     ["always", "100%", "every time", "I always have breakfast."],
+     ["usually", "≈ 90%", "almost every time", "She usually walks to work."],
+     ["often", "≈ 70%", "many times", "We often eat rice."],
+     ["sometimes", "≈ 50%", "some of the time", "They sometimes go to the cinema."],
+     ["rarely / seldom", "≈ 10%", "not often", "He rarely drinks coffee."],
+     ["hardly ever", "≈ 5%", "almost never", "I hardly ever watch TV."],
+     ["never", "0%", "not at any time", "My father never smokes."]
+    ]
+   },
+   "note": "“Normally” and “generally” mean the same as “usually” and go in the same place."
+  },
+  {
+   "titre": "Position: before the main verb",
+   "texte": [
+    "In many languages the adverb goes after the verb. In English, it goes BEFORE the main verb: I often eat. This is the most common mistake.",
+    "With he / she / it, the verb keeps its -s: She often eats. The adverb doesn't change the verb.",
+    "In a negative sentence with don't / doesn't, the adverb goes after the auxiliary: I don't often go out."
+   ],
+   "exemples": [
+    ["I usually get up at seven.", "usually before get up."],
+    ["She never eats meat.", "never before eats; no doesn't."],
+    ["We sometimes play football on Sundays.", "sometimes before play."],
+    ["He doesn't usually work late.", "doesn't + adverb + verb."]
+   ]
+  },
+  {
+   "titre": "After “to be” and between two verbs",
+   "texte": [
+    "With the verb “to be”, it is the opposite: the adverb goes AFTER am / is / are. She is always late. They are never tired.",
+    "When there is an auxiliary or a modal (have got, can, will…), the adverb goes between it and the main verb: I can never remember his name. I've always got my phone with me.",
+    "Summary: subject + be + adverb; subject + adverb + verb; subject + auxiliary + adverb + verb."
+   ],
+   "tableau": {
+    "entetes": ["Pattern", "Example", "Note"],
+    "lignes": [
+     ["subject + be + adverb", "He is often tired.", "after be"],
+     ["subject + adverb + verb", "He often feels tired.", "before the main verb"],
+     ["subject + auxiliary + adverb + verb", "He doesn't often go out.", "after doesn't"],
+     ["subject + modal + adverb + verb", "I can never find my keys.", "after can"]
+    ]
+   },
+   "exemples": [
+    ["The bus is usually on time.", "after is."],
+    ["I'm never sure about the answer.", "after 'm (am)."]
+   ]
+  },
+  {
+   "titre": "Usually, sometimes, often at the start or end",
+   "texte": [
+    "To make them stronger, “sometimes”, “usually”, “normally” and “often” can also go at the start of the sentence, and “sometimes” can go at the end. “Always”, “never”, “rarely” and “hardly ever” don't go at the start in normal style.",
+    "So don't say “Always I go…” or “Never I eat…”."
+   ],
+   "exemples": [
+    ["Sometimes I work from home.", "sometimes at the start."],
+    ["Usually, the shop is quiet in the morning.", "usually at the start."],
+    ["I go to the gym sometimes.", "sometimes at the end."]
+   ]
+  },
+  {
+   "titre": "Frequency expressions and questions",
+   "texte": [
+    "For an exact frequency, use an expression with several words: every day, every week, once a week, twice a month, three times a year. These go at the end of the sentence (sometimes at the start), never between the subject and the verb.",
+    "Say “twice a week”: “a” means “in each”. “Per week” is more formal or technical. For two times, say “twice”; from three, say “three times, four times”.",
+    "To ask about frequency: “How often do you…?”. To ask if something happens at all: “Do you ever…?” (ever = at any time, in questions)."
+   ],
+   "exemples": [
+    ["How often do you go swimming? — Twice a week.", "Question and answer."],
+    ["I visit my grandparents once a month.", "Expression at the end."],
+    ["Do you ever cook? — Yes, sometimes. / No, never.", "ever in a question."],
+    ["We go to Kribi every summer.", "every + season."]
+   ]
+  }
+ ],
+ "formule": "subject + always / usually / often / sometimes / never + verb · subject + be + adverb · How often…? — once / twice / three times a week",
+ "prononciation": [
+  "“often” is /ˈɒfn/ (silent t) or /ˈɒftən/: both are correct. American: /ˈɔːfn/.",
+  "“usually” /ˈjuːʒuəli/: stress on the first syllable, with the /ʒ/ sound of “television”. In fast speech: /ˈjuːʒli/.",
+  "“always” /ˈɔːlweɪz/: stress on AL-, and say the l lightly.",
+  "“twice” /twaɪs/ rhymes with “nice”. “once” is /wʌns/, with a w sound at the start, like “one”.",
+  "In “How often…?”, your voice goes down at the end, because it is a Wh- question."
+ ],
+ "erreurs": [
+  ["I go always to work by bus.", "I always go to work by bus.", "The adverb goes before the main verb."],
+  ["She always is late.", "She is always late.", "With “to be”, the adverb goes after the verb."],
+  ["I don't never eat fish.", "I never eat fish.", "“Never” is already negative: no don't."],
+  ["He never eat meat.", "He never eats meat.", "Keep the -s for he / she / it after the adverb."],
+  ["I play tennis two times by week.", "I play tennis twice a week.", "Two times = twice; in each week = a week."],
+  ["I eat every day rice.", "I eat rice every day.", "A frequency expression doesn't go between the verb and its object: put it at the end."],
+  ["Always I drink tea.", "I always drink tea.", "“Always” doesn't go at the start of the sentence."]
+ ],
+ "dialogue": {
+  "contexte": "A fitness coach in Ottawa asks a new client about her habits.",
+  "lignes": [
+   ["Coach", "So, Émilie, how often do you do sport?", "A question about frequency."],
+   ["Émilie", "Not very often. I go swimming once a week, usually on Saturday.", "once a week; usually."],
+   ["Coach", "OK. Do you ever walk to work?", "ever in a question."],
+   ["Émilie", "Sometimes, in summer. But in winter I always take the bus. It's too cold!", "always before take."],
+   ["Coach", "And what about food? Do you often eat fast food?", "often between subject and verb."],
+   ["Émilie", "No, I hardly ever eat fast food. But I'm often hungry at night.", "hardly ever; often after 'm."],
+   ["Coach", "Do you sleep well?", "A simple question."],
+   ["Émilie", "Not really. I never go to bed before midnight.", "never: no don't."],
+   ["Coach", "OK. Let's start with three short walks a week.", "three … a week."]
+  ]
+ },
+ "mots": [
+  ["always", "I always lock the door.", "every time"],
+  ["usually", "We usually eat at seven.", "in most cases"],
+  ["often", "Do you often travel?", "many times"],
+  ["sometimes", "She sometimes works at night.", "on some occasions, not always"],
+  ["rarely", "It rarely snows in Douala.", "not often"],
+  ["never", "He never forgets my birthday.", "not at any time"],
+  ["once", "I call my mother once a week.", "one time"],
+  ["twice", "We go to the market twice a week.", "two times"],
+  ["ever", "Do you ever go to the theatre?", "at any time (in questions)"],
+  ["routine", "My morning routine is very simple.", "the things you usually do, in the same order"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Put them in order",
+   "consigne": "Write the right adverb for each percentage: always, usually, often, sometimes, hardly ever, never.",
+   "items": [
+    ["100%", "always"],
+    ["0%", "never"],
+    ["≈ 50%", "sometimes"],
+    ["≈ 90%", "usually"],
+    ["≈ 5%", "hardly ever"],
+    ["≈ 70%", "often"]
+   ]
+  },
+  {
+   "titre": "2. Put the adverb in the right place",
+   "consigne": "Rewrite the sentence with the adverb in brackets in the right place.",
+   "items": [
+    ["I drink tea in the morning. (usually)", "I usually drink tea in the morning."],
+    ["She is happy. (always)", "She is always happy."],
+    ["They go to the cinema. (rarely)", "They rarely go to the cinema."],
+    ["We are late for class. (never)", "We are never late for class."],
+    ["He doesn't work on Fridays. (usually)", "He doesn't usually work on Fridays."]
+   ]
+  },
+  {
+   "titre": "3. Frequency expressions",
+   "consigne": "Write the expression.",
+   "items": [
+    ["1 time in each week", "once a week"],
+    ["2 times in each month", "twice a month"],
+    ["3 times in each year", "three times a year"],
+    ["on all days", "every day"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I go often to the market.", "I often go to the market."],
+    ["He always is busy.", "He is always busy."],
+    ["She doesn't never cook.", "She never cooks."],
+    ["My brother usually play football on Sundays.", "My brother usually plays football on Sundays."],
+    ["How many often do you visit them?", "How often do you visit them?"]
+   ]
+  },
+  {
+   "titre": "5. Write the sentence",
+   "consigne": "Use the words to write a correct sentence or question.",
+   "items": [
+    ["I / rarely / take / a taxi", "I rarely take a taxi."],
+    ["they / often / be / late", "They are often late. / They're often late."],
+    ["how often / you / do sport? — 3 times a week", "How often do you do sport? — Three times a week."],
+    ["she / hardly ever / drink / coffee", "She hardly ever drinks coffee."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write five true sentences about your habits with five different adverbs or expressions of frequency (one sentence with “to be”).",
+   "items": [
+    ["Example answer", "I always have coffee at breakfast. I usually walk to work. I'm often tired on Friday evenings. I go to the cinema once a month. I never watch TV in the morning."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "always > usually > often > sometimes > rarely > hardly ever > never.",
+  "Before the main verb (I often eat), but after “to be” (I'm often late).",
+  "Never is already negative: I never eat meat, not “I don't never”.",
+  "Exact frequency at the end: once a week, twice a month, three times a year, every day.",
+  "Questions: How often do you…? / Do you ever…?"
+ ],
+ "liens": [1, 6, 8, 9, 21],
+ "refs": ["bc-presentsimple", "cam-adj"]
+}

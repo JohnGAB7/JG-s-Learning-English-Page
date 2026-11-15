@@ -1,0 +1,223 @@
+{
+ "n": 151,
+ "niveau": "B2",
+ "titre": "The passive voice",
+ "intro": "The passive puts the action, or the thing affected by it, at the centre of the sentence instead of the person who does it. It is everywhere in news reports, business writing, instructions and science, so a B2 speaker needs to use it accurately in every tense.",
+ "objectifs": [
+  "Form the passive in all the common tenses, including the continuous forms with “being” (is being done, was being done).",
+  "Decide when the passive is better than the active, and when to include or leave out “by”.",
+  "Make passives with two-object verbs (give, send, offer) and prepositional verbs (look after, laugh at).",
+  "Avoid the classic traps: “I was born”, “it happened”, “the house is being built”."
+ ],
+ "sections": [
+  {
+   "titre": "Form: be + past participle",
+   "texte": [
+    "Every passive has the same structure: the verb “be” carries the tense, and the main verb is a past participle (the third form: written, taken, built; -ed for regular verbs).",
+    "The object of the active sentence becomes the subject of the passive sentence. The tense does not change: if the active verb is in the past simple, “be” is in the past simple (was / were).",
+    "Continuous passives add “being”: is being repaired, was being interviewed. Learners often forget it and say “the road is repairing”, which means the road is doing the repairs."
+   ],
+   "tableau": {
+    "entetes": ["Tense", "Active", "Passive"],
+    "lignes": [
+     ["Present simple", "They clean the offices every day.", "The offices are cleaned every day."],
+     ["Present continuous", "They are repairing the road.", "The road is being repaired."],
+     ["Past simple", "Someone stole my phone.", "My phone was stolen."],
+     ["Past continuous", "They were interviewing her.", "She was being interviewed."],
+     ["Present perfect", "They have cancelled the flight.", "The flight has been cancelled."],
+     ["Future with will", "They will announce the results.", "The results will be announced."],
+     ["Be going to", "They are going to close the factory.", "The factory is going to be closed."],
+     ["Modal", "You must sign the form.", "The form must be signed."]
+    ]
+   },
+   "note": "The past perfect passive (had been done), the future perfect passive and modal perfect passives (should have been done) are studied in depth in lesson 164."
+  },
+  {
+   "titre": "Why choose the passive?",
+   "texte": [
+    "Use the passive when the doer (the agent) is unknown, obvious or unimportant. What matters is what happens.",
+    "The passive also helps to organise information. English likes to start a sentence with known information (the topic) and to finish with new information. The passive lets you keep the same subject from one sentence to the next.",
+    "It is very common in formal writing: reports, scientific papers, official notices and journalism. In casual speech, people often prefer “they” or “someone”: “They've closed the bridge.”",
+    "Finally, the passive can hide responsibility. The famous sentence “Mistakes were made” avoids saying who made them."
+   ],
+   "exemples": [
+    ["My car was stolen last night.", "Unknown agent: we don't know who stole it."],
+    ["The suspect was arrested at the airport.", "Obvious agent: the police."],
+    ["Rice is grown in many parts of Cameroon.", "Unimportant agent: the topic is rice."],
+    ["The Eiffel Tower was completed in 1889. It was designed by Gustave Eiffel's company.", "Same subject in both sentences; the new information comes at the end."],
+    ["Visitors are requested not to touch the paintings.", "Official notice, formal register."]
+   ]
+  },
+  {
+   "titre": "With or without “by”?",
+   "texte": [
+    "Most passive sentences do not mention the agent. Add “by + agent” only when it gives new or important information.",
+    "Sentences like “The letter was written by someone” or “English is spoken by people in Canada” add nothing, so leave the agent out.",
+    "For an instrument or a material, use “with”, not “by”: “The door was opened with a key.” Compare: “The door was opened by the caretaker” (a person)."
+   ],
+   "exemples": [
+    ["Things Fall Apart was written by Chinua Achebe.", "The writer is the key information, so “by” is useful."],
+    ["The bridge was built in 1932.", "No need to say “by workers”."],
+    ["The cake was decorated with fresh fruit.", "Material or instrument: with."]
+   ]
+  },
+  {
+   "titre": "Verbs with two objects",
+   "texte": [
+    "Verbs like give, send, offer, show, lend, pay, promise, award and teach have two objects, so they can have two passives. The more natural one usually starts with the person: “I was given a laptop.”",
+    "The other one starts with the thing and keeps “to”: “A laptop was given to me.” It is correct but less common, unless the thing is the topic of the sentence.",
+    "Trap: explain, describe, suggest, say and report do not work like this. You cannot say “I was explained the rule”. Say: “The rule was explained to me.”"
+   ],
+   "tableau": {
+    "entetes": ["Active", "Passive: person as subject", "Passive: thing as subject"],
+    "lignes": [
+     ["They offered Ama a job.", "Ama was offered a job.", "A job was offered to Ama."],
+     ["The bank sent me a new card.", "I was sent a new card.", "A new card was sent to me."],
+     ["They explained the procedure to us.", "Not possible: *We were explained…", "The procedure was explained to us."]
+    ]
+   }
+  },
+  {
+   "titre": "Prepositional verbs, “be born” and intransitive verbs",
+   "texte": [
+    "With a verb + preposition or particle (look after, laugh at, deal with, put off, turn down), the preposition stays with the verb in the passive, even at the end of the sentence.",
+    "“Be born” is always passive, and we use the past for a fact about birth: “I was born in Liège in 1994.” “I am born” is wrong.",
+    "Verbs with no object (happen, arrive, die, seem, occur, disappear) can never be passive. Say “The accident happened at 8”, not “was happened”."
+   ],
+   "exemples": [
+    ["The children are looked after by their grandmother.", "“after” stays with the verb."],
+    ["Your complaint will be dealt with this week.", "deal with → be dealt with."],
+    ["The match has been put off until Sunday.", "put off = postpone."],
+    ["She was born in Yaoundé.", "Always “was / were born”."],
+    ["What happened? Nothing happened.", "happen: never passive."]
+   ]
+  },
+  {
+   "titre": "Questions, negatives and the “get” passive",
+   "texte": [
+    "In questions and negatives, the auxiliary moves or takes “not”: “Was the parcel delivered?”, “The decision hasn't been made yet”, “When will the results be published?”",
+    "In speech, “get” often replaces “be” for a sudden event, often unpleasant or unexpected: get hurt, get fired, get stolen, get paid, get invited. “He got injured during the match.” The get-passive is informal and is not used with state verbs (we say “She is known”, not “She gets known” for a permanent state).",
+    "Many languages use an impersonal subject (French “on”, for example) where English uses the passive: “English is spoken here”, “I was told to wait”."
+   ],
+   "exemples": [
+    ["Were you invited to the wedding?", "Question: the auxiliary comes first."],
+    ["The email hasn't been sent yet.", "Negative in the present perfect."],
+    ["He got fired after two weeks.", "Informal: get + past participle."],
+    ["We get paid at the end of the month.", "Very common in everyday speech."]
+   ]
+  }
+ ],
+ "formule": "subject + be (in the right tense) + past participle (+ by + agent, only when useful)",
+ "prononciation": [
+  "Inside a sentence, “was” and “were” are weak: /wəz/ and /wə/. “It was stolen” sounds like /ɪt wəz ˈstəʊlən/.",
+  "In fast British speech, “been” is often reduced to /bɪn/: “It's been done” /ɪts bɪn ˈdʌn/.",
+  "The main stress falls on the past participle, which carries the meaning: “The flight's been CANcelled.”",
+  "Watch the -ed endings: /t/ after a voiceless sound (asked, fixed), /d/ after a voiced sound (cleaned, delivered), /ɪd/ after t or d (invited, decided).",
+  "“being” has two syllables: /ˈbiːɪŋ/. Do not confuse it with “been” /biːn/: “It's being built” (in progress) is not “It's been built” (finished)."
+ ],
+ "erreurs": [
+  ["I am born in 1995.", "I was born in 1995.", "For a date of birth, “be born” is always in the past."],
+  ["The accident was happened at night.", "The accident happened at night.", "“happen” has no object, so it is never passive."],
+  ["The new hospital is building.", "The new hospital is being built.", "Action in progress in the passive: is being + past participle."],
+  ["I was explained the problem.", "The problem was explained to me.", "“explain” cannot have the person as the passive subject."],
+  ["English is spoken by people in many countries.", "English is spoken in many countries.", "“by people” gives no information, so leave it out."],
+  ["The baby was looked by her aunt.", "The baby was looked after by her aunt.", "The preposition stays with the verb."],
+  ["I was stolen my bike.", "My bike was stolen.", "The bike is stolen, not the person."]
+ ],
+ "dialogue": {
+  "contexte": "Monday morning at a small start-up in Montreal. Sophie arrives and finds her colleague Daniel at reception.",
+  "lignes": [
+   ["Sophie", "Why are the police here? What happened?", "“happened”: active, never passive."],
+   ["Daniel", "The office was broken into over the weekend. Three laptops were stolen.", "Past simple passive; agent unknown."],
+   ["Sophie", "Oh no! Was anything else taken?", "Passive question: was + subject + participle."],
+   ["Daniel", "Not as far as we know. The back door was forced open, and the alarm was switched off.", "Phrasal verb: switch off → be switched off."],
+   ["Sophie", "And our client files? Were they on those laptops?", "A simple past question with “be”."],
+   ["Daniel", "Don't worry, everything is backed up every night. The data is being restored right now.", "Present simple passive (routine) and present continuous passive (now)."],
+   ["Sophie", "Have the clients been told?", "Present perfect passive question."],
+   ["Daniel", "Not yet. An email will be sent this afternoon, once the police report has been written.", "Future passive and present perfect passive after “once”."]
+  ]
+ },
+ "mots": [
+  ["steal", "My wallet was stolen on the bus.", "to take something that is not yours (steal – stole – stolen)"],
+  ["break into", "Their house was broken into last year.", "to enter a building illegally, usually to steal"],
+  ["arrest", "Two men were arrested near the station.", "(of the police) to take someone away because they may have committed a crime"],
+  ["injure", "Nobody was injured in the fire.", "to hurt someone, for example in an accident"],
+  ["cancel", "The concert has been cancelled.", "to decide that a planned event will not happen"],
+  ["postpone", "The meeting was postponed until Friday.", "to move an event to a later time"],
+  ["found", "The company was founded in 1998.", "to start an organisation (found – founded – founded; not the past of find)"],
+  ["award", "She was awarded a scholarship.", "to officially give someone a prize or money"],
+  ["launch", "The new app will be launched in May.", "to start or introduce a new product or project"],
+  ["back up", "All files are backed up every night.", "to make a copy of computer data"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Active or passive?",
+   "consigne": "Say if the sentence is active or passive. If it is passive, name the tense.",
+   "items": [
+    ["The results are being checked.", "Passive, present continuous (is / are being + past participle)."],
+    ["They have opened a new branch in Douala.", "Active (present perfect)."],
+    ["The windows were cleaned yesterday.", "Passive, past simple."],
+    ["The contract will be signed on Monday.", "Passive, future with will."]
+   ]
+  },
+  {
+   "titre": "2. Complete with the passive",
+   "consigne": "Put the verb in brackets into the passive, in the right tense.",
+   "items": [
+    ["Coffee ___ (grow) in the west of Cameroon.", "is grown"],
+    ["The museum ___ (build) in 1905.", "was built"],
+    ["Sorry, the room isn't ready. It ___ (clean) at the moment.", "is being cleaned"],
+    ["The flight to Brussels ___ just ___ (cancel).", "has just been cancelled"],
+    ["The winners ___ (announce) tomorrow at noon.", "will be announced"],
+    ["When I arrived, the patient ___ (examine) by a doctor.", "was being examined"]
+   ]
+  },
+  {
+   "titre": "3. Transform",
+   "consigne": "Rewrite these sentences in the passive. Only add “by” if the agent is useful information.",
+   "items": [
+    ["Someone has stolen my bike.", "My bike has been stolen."],
+    ["They are going to close the factory next year.", "The factory is going to be closed next year."],
+    ["The manager offered Paul a promotion.", "Paul was offered a promotion (by the manager)."],
+    ["Chimamanda Ngozi Adichie wrote this novel.", "This novel was written by Chimamanda Ngozi Adichie."],
+    ["Her grandparents brought her up.", "She was brought up by her grandparents."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["My sister is born in 2001.", "My sister was born in 2001."],
+    ["The meeting was happened in the main room.", "The meeting happened (took place) in the main room."],
+    ["The road is repairing this week.", "The road is being repaired this week."],
+    ["We were explained the new rules.", "The new rules were explained to us."]
+   ]
+  },
+  {
+   "titre": "5. From informal to formal",
+   "consigne": "These sentences come from a conversation. Rewrite them in the passive for a formal report.",
+   "items": [
+    ["Someone took my phone from my desk.", "My phone was taken from my desk."],
+    ["People speak French and English in Cameroon.", "French and English are spoken in Cameroon."],
+    ["They offered me a job in Brussels.", "I was offered a job in Brussels."],
+    ["They've put off the meeting until Thursday.", "The meeting has been put off (postponed) until Thursday."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short news report (4–5 sentences) about a real or invented event in your town (a theft, a new building, a cancelled festival…). Use at least four passives in different tenses.",
+   "items": [
+    ["Example answer", "A new bridge was opened in our city last week. It was built in only eighteen months and it has already been used by thousands of drivers. However, part of the road is still being repaired, so some streets have been closed. The final works will be completed in June."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Passive = be in the right tense + past participle: is done, was done, is being done, has been done, will be done.",
+  "Use it when the agent is unknown, obvious or unimportant, and to keep the same topic; add “by” only when the agent is useful information.",
+  "Two-object verbs: “I was given / offered / sent…”; but “It was explained to me”.",
+  "The preposition stays: be looked after, be dealt with. Say “I was born”; happen, arrive and die are never passive.",
+  "In speech, “get” + past participle is common for sudden events: get hurt, get paid, get fired."
+ ],
+ "liens": [103, 152, 153, 164],
+ "refs": ["bc-passives", "cam-verbs"]
+}

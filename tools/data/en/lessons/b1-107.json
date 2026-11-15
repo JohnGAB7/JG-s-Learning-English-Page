@@ -1,0 +1,206 @@
+{
+ "n": 107,
+ "niveau": "B1",
+ "titre": "Modals of obligation and prohibition",
+ "intro": "Must, have to, mustn't, don't have to, be allowed to, be supposed to… These forms express obligation, prohibition, lack of obligation and permission. At B1, you need to use them with the right shade of meaning and in every tense, because must only exists in the present.",
+ "objectifs": [
+  "Tell the difference between must (obligation felt by the speaker, written rules) and have to (external obligation, facts).",
+  "Tell the difference between mustn't (prohibition) and don't have to / needn't (no obligation).",
+  "Express obligation in the past and future with had to and will have to.",
+  "Use be allowed to, can / can't, be supposed to and should for permission, rules and advice."
+ ],
+ "sections": [
+  {
+   "titre": "Must or have to?",
+   "texte": [
+    "Must often expresses an obligation that comes from the speaker: their decision, opinion or feeling of urgency. “I must call my mother” (I'm telling myself). It is also used in written rules and official instructions: “Passengers must wear a seatbelt.”",
+    "Have to usually expresses an external obligation, a fact, a rule made by someone else: “I have to wear a uniform at work” (it's the rule). In speech, have to is much more common than must.",
+    "Have got to (I've got to go) means the same as have to; it is common in spoken British English. In questions, we mostly say “Do I have to…?” rather than “Must I…?”, which sounds old-fashioned."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Where the obligation comes from", "Example"],
+    "lignes": [
+     ["must", "the speaker / written rules", "I must stop eating so much sugar."],
+     ["have to", "outside (law, boss, situation)", "We have to be at the airport two hours before."],
+     ["have got to", "= have to (spoken, UK)", "I've got to finish this tonight."],
+     ["Do you have to…?", "the usual question", "Do you have to work on Saturdays?"]
+    ]
+   }
+  },
+  {
+   "titre": "Mustn't or don't have to? The big trap",
+   "texte": [
+    "Mustn't = prohibition: it is not allowed, don't do it. Don't have to = no obligation: it isn't necessary, you can choose. These two forms have opposite meanings.",
+    "Needn't and don't need to mean the same as don't have to: “You needn't come” (it isn't necessary for you to come)."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Meaning", "Example"],
+    "lignes": [
+     ["mustn't", "prohibited", "You mustn't smoke in the hospital."],
+     ["can't / aren't allowed to", "prohibited (a rule)", "You can't park here. / You aren't allowed to park here."],
+     ["don't have to", "not obligatory", "You don't have to come if you're tired."],
+     ["needn't / don't need to", "not necessary", "You needn't bring anything. We have everything."]
+    ]
+   },
+   "exemples": [
+    ["You mustn't tell anyone. It's a secret.", "Prohibition."],
+    ["You don't have to tell me if you don't want to.", "No obligation: it's your choice."]
+   ]
+  },
+  {
+   "titre": "Obligation in the past and future",
+   "texte": [
+    "Must has no past or future form. For a past obligation, use had to (for both must and have to): “I had to wait two hours.” The negative is didn't have to: “We didn't have to pay” (it wasn't necessary).",
+    "For the future, use will have to: “You'll have to show your passport.” Or be going to have to for an obligation you can predict.",
+    "For a past prohibition, use wasn't allowed to / couldn't: “When I was a child, I wasn't allowed to go out alone.”"
+   ],
+   "tableau": {
+    "entetes": ["Tense", "Obligation", "No obligation", "Prohibition"],
+    "lignes": [
+     ["Present", "must / have to", "don't have to", "mustn't / can't"],
+     ["Past", "had to", "didn't have to", "couldn't / wasn't allowed to"],
+     ["Future", "will have to", "won't have to", "won't be allowed to"],
+     ["Present perfect", "have had to", "haven't had to", "haven't been allowed to"]
+    ]
+   },
+   "exemples": [
+    ["My flight was cancelled, so I had to sleep at the airport in Brussels.", "Past obligation."],
+    ["From next year, students will have to wear a uniform.", "Future obligation."]
+   ]
+  },
+  {
+   "titre": "Permission and rules: be allowed to, can",
+   "texte": [
+    "Can / can't and be allowed to express what a rule permits or not. Be allowed to stresses that an authority gives or refuses permission, and it exists in every tense.",
+    "Be supposed to expresses what a rule or agreement expects, often when it doesn't happen: “You're supposed to switch off your phone in class” (that's the rule, but not everyone does it). “The train was supposed to leave at nine” (it was planned, but it didn't)."
+   ],
+   "exemples": [
+    ["Are we allowed to take photos in the museum?", "Asking for permission."],
+    ["You're supposed to be at work by eight.", "That's what is expected (but you're late)."],
+    ["We weren't allowed to use our phones during the exam.", "Past prohibition."]
+   ]
+  },
+  {
+   "titre": "Should and ought to: advice",
+   "texte": [
+    "Should and ought to (a little more formal and less common) don't express obligation but advice or a recommendation: it would be good, it's the right thing to do. “You should see a doctor” is weaker than “You must see a doctor”.",
+    "Had better (You'd better leave now) is stronger than should: it suggests something bad will happen if you don't. It is studied in lesson 138."
+   ],
+   "exemples": [
+    ["You should try the poulet DG in that restaurant.", "Advice."],
+    ["You ought to apologise to her.", "A moral recommendation."]
+   ]
+  }
+ ],
+ "formule": "must / have to = obligation · mustn't = prohibition · don't have to / needn't = not necessary · had to = past · will have to = future",
+ "prononciation": [
+  "have to sounds like /ˈhæftə/ (with an f!), has to /ˈhæstə/, had to /ˈhættə/. The v becomes f before to.",
+  "mustn't /ˈmʌsnt/: the first t is silent. Listen for the /nt/ syllable to tell it apart from must.",
+  "must for strong obligation is stressed /mʌst/: “You MUST be on time.”",
+  "supposed to sounds like /səˈpəʊstə/: the d is silent before to.",
+  "allowed /əˈlaʊd/ sounds the same as aloud."
+ ],
+ "erreurs": [
+  ["You mustn't come if you don't want to.", "You don't have to come if you don't want to.", "Not necessary = don't have to; mustn't = prohibited."],
+  ["I must to go now.", "I must go now.", "No to after must."],
+  ["Yesterday I must work late.", "Yesterday I had to work late.", "Must has no past form: had to."],
+  ["She has to wears a uniform.", "She has to wear a uniform.", "After have to, use the base verb."],
+  ["Do you must work on Sunday?", "Do you have to work on Sunday?", "Question: Do you have to…?"],
+  ["We don't must pay.", "We don't have to pay. / We mustn't pay.", "Must has no form with don't; choose the meaning you want."],
+  ["You will must show your ticket.", "You will have to show your ticket.", "Future: will have to."]
+ ],
+ "dialogue": {
+  "contexte": "Sandrine, from Bordeaux, starts her first day at a hospital in Winnipeg. Her colleague Tunde explains the rules.",
+  "lignes": [
+   ["Tunde", "Welcome! First, you have to wear your badge at all times.", "External rule: have to."],
+   ["Sandrine", "OK. Do I have to wear a uniform too?", "The usual question form."],
+   ["Tunde", "Yes, but you don't have to buy it. The hospital gives you two.", "No obligation."],
+   ["Sandrine", "Great. Am I allowed to use my phone on the ward?", "Asking for permission."],
+   ["Tunde", "Only in emergencies. And you mustn't take photos of patients. Never.", "Prohibition."],
+   ["Sandrine", "Of course. In my last job, we had to do twelve-hour shifts. Is it the same here?", "Past obligation: had to."],
+   ["Tunde", "Usually eight hours. You're supposed to take a break every four hours, but it's not always possible.", "Be supposed to: the rule isn't always followed."],
+   ["Sandrine", "I see. I must remember all this!", "Must: obligation she feels herself."]
+  ]
+ },
+ "mots": [
+  ["obligation", "There's no obligation to buy anything.", "something you must do"],
+  ["compulsory", "Wearing a seatbelt is compulsory.", "required by a rule or law"],
+  ["forbidden", "Smoking is forbidden in this building.", "not allowed"],
+  ["allowed", "Dogs aren't allowed in the shop.", "permitted"],
+  ["supposed to", "We're supposed to arrive at nine.", "expected or planned to"],
+  ["rule", "You have to follow the rules.", "an official instruction about what you can or can't do"],
+  ["badge", "You must wear your badge.", "a small card or sign with your name, worn on clothes"],
+  ["shift", "I had to work a night shift.", "a period of work, e.g. 10 p.m. to 6 a.m."],
+  ["optional", "The evening activity is optional: you don't have to come.", "that you can choose to do or not"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. What does it mean?",
+   "consigne": "Say if the sentence expresses obligation (O), prohibition (P) or no obligation (N).",
+   "items": [
+    ["You mustn't touch the paintings.", "P"],
+    ["We don't have to wear a tie.", "N"],
+    ["Drivers must stop at a red light.", "O"],
+    ["You needn't call me. I'll call you.", "N"],
+    ["You aren't allowed to swim here.", "P"]
+   ]
+  },
+  {
+   "titre": "2. Mustn't or don't / doesn't have to?",
+   "consigne": "Complete with mustn't or don't / doesn't have to.",
+   "items": [
+    ["You ___ drive so fast. It's dangerous.", "mustn't"],
+    ["She ___ work tomorrow. It's a holiday.", "doesn't have to"],
+    ["We ___ forget Grandma's birthday.", "mustn't"],
+    ["You ___ pay. The concert is free.", "don't have to"]
+   ]
+  },
+  {
+   "titre": "3. Past and future",
+   "consigne": "Put the verb in the correct form (had to, didn't have to, will have to…).",
+   "items": [
+    ["Last week I ___ (have to) take the bus because my car was broken.", "had to"],
+    ["When I was at school, we ___ (not / be allowed to) use phones.", "weren't allowed to"],
+    ["Next year you ___ (have to) pay for parking.", "will have to"],
+    ["It was a holiday, so we ___ (not / have to) get up early.", "didn't have to"],
+    ["If you lose your passport, you ___ (have to) go to the embassy.", "will have to"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["Yesterday I must wait for an hour.", "Yesterday I had to wait for an hour."],
+    ["Do we must bring our own food?", "Do we have to bring our own food?"],
+    ["You mustn't come if you're busy. It's not important.", "You don't have to come if you're busy. It's not important."],
+    ["He have to finish the report today.", "He has to finish the report today."]
+   ]
+  },
+  {
+   "titre": "5. Say it another way",
+   "consigne": "Rewrite each sentence with the words in brackets.",
+   "items": [
+    ["It isn't necessary for you to come. (have to)", "You don't have to come. / You needn't come."],
+    ["Smoking is forbidden here. (allowed)", "You aren't allowed to smoke here. / Smoking is not allowed here."],
+    ["Yesterday it was necessary for me to work until midnight. (had)", "Yesterday I had to work until midnight."],
+    ["The plan was for the train to leave at eight, but it didn't. (supposed)", "The train was supposed to leave at eight."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "In 5 sentences, describe the rules at your workplace, your school, or your home when you were a child: an obligation, a prohibition, no obligation, a permission and a rule in the past.",
+   "items": [
+    ["Example answer", "At my office in Abidjan, we have to arrive before eight thirty. We mustn't eat at our desks. We don't have to wear a suit, except when we meet clients. We're allowed to work from home on Fridays. When I started, I had to share a desk with a colleague."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "must = obligation from the speaker or written rules; have to = external obligation (more common in speech).",
+  "mustn't = prohibited; don't have to / needn't = not necessary: opposite meanings!",
+  "Past: had to / didn't have to; future: will have to.",
+  "Permission: can, be allowed to; what is expected: be supposed to.",
+  "Advice: should / ought to (weaker than must)."
+ ],
+ "liens": [54, 55, 56, 106, 138],
+ "refs": ["bc-obligation"]
+}

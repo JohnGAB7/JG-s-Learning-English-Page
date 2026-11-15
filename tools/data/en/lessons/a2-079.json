@@ -1,0 +1,185 @@
+{
+"n": 79,
+"niveau": "A2",
+"titre": "At the restaurant",
+"intro": "Booking, ordering, asking for things during the meal, mentioning a problem and paying: in a restaurant, everything is said with a few polite phrases. This lesson builds on “would like” (lesson 34) and adds the customs of English-speaking countries (tips, cooking a steak, allergies).",
+"objectifs": [
+ "Book a table on the phone and say who you are when you arrive.",
+ "Order a full meal politely (I'll have…, Could I have…?) and mention how you want food cooked or an allergy.",
+ "Ask for things during the meal and mention a problem without being rude.",
+ "Ask for the bill, pay and understand tipping customs."
+],
+"sections": [
+ {
+  "titre": "Booking and arriving",
+  "texte": [
+   "To book: “I'd like to book a table for four for Saturday at eight, please.” The restaurant asks: “What name is it, please?” / “Can I have a name for the booking?” Answer: “It's under the name Diallo.”",
+   "When you arrive: “Hello, we have a reservation for eight o'clock. The name's Diallo.” or, with no booking: “Have you got a table for two?” / “A table for two, please.”",
+   "Careful: don't say “We are four”. Say “There are four of us” or simply “A table for four, please”."
+  ],
+  "exemples": [
+   ["I'd like to book a table for six on Friday evening.", "Booking by phone."],
+   ["Good evening. Have you got a table for three? — Inside or on the terrace?", "Arriving with no booking."],
+   ["There are five of us. Can we sit by the window?", "There are + number + of us."]
+  ]
+ },
+ {
+  "titre": "Ordering",
+  "texte": [
+   "The waiter asks: “Are you ready to order?”, “What would you like to drink?”, “What can I get you?”. If you are not ready: “Could we have a few more minutes, please?”",
+   "To order, the natural phrases are “I'll have…”, “Could I have…?” and “I'd like…”. Avoid “I take…” and “I want…”.",
+   "The meal: “a starter” (UK; US “appetizer”) = the first, small dish; “a main course” (US “entrée”!) = the main dish; “a dessert”; “a side dish” = extra food with the main dish; “the dish of the day” = the special dish today."
+  ],
+  "tableau": {
+   "entetes": ["Waiter", "Customer"],
+   "lignes": [
+    ["Are you ready to order?", "Yes. For my starter, I'll have the soup."],
+    ["And for your main course?", "Could I have the grilled chicken, please?"],
+    ["How would you like your steak?", "Medium, please. (rare = red inside, medium = pink inside, well done = cooked all through)"],
+    ["Would you like any side dishes?", "Yes, some chips and a salad."],
+    ["Anything to drink?", "A bottle of still water, please. (still = without bubbles, sparkling = with bubbles)"],
+    ["Would you like a dessert?", "No, thank you. Just a coffee."]
+   ]
+  },
+  "exemples": [
+   ["What do you recommend? — The fish is excellent today.", "Asking for advice."],
+   ["I'm allergic to nuts. Is there any peanut in this sauce?", "An allergy."],
+   ["I'm vegetarian. Have you got any dishes without meat?", "A diet."]
+  ]
+ },
+ {
+  "titre": "During the meal",
+  "texte": [
+   "To call the waiter politely: “Excuse me!” with a small hand sign (never click your fingers). To ask for things: “Could we have some more bread, please?”, “Could I have another glass of water?”, “Could you bring me a spoon?”",
+   "The waiter may say: “Enjoy your meal!” and come back to ask: “Is everything OK?” / “How is everything?” Answer: “It's delicious, thank you.”",
+   "To mention a problem politely: “Excuse me, I think there's a mistake. I ordered the fish, not the chicken.”, “I'm sorry, but my soup is cold.”"
+  ],
+  "exemples": [
+   ["Excuse me, could we have some more napkins, please?", "Asking for something."],
+   ["How is everything? — Lovely, thanks. The sauce is delicious.", "The waiter checks."],
+   ["Sorry, but this isn't what I ordered. I asked for the vegetarian pasta.", "A polite complaint."]
+  ],
+  "note": "On the table: a knife, a fork, a spoon, a teaspoon, a napkin (UK also serviette), a plate, a glass."
+ },
+ {
+  "titre": "Paying and tipping",
+  "texte": [
+   "For the bill: “Could we have the bill, please?” (UK) / “Could we have the check, please?” (US). Useful questions: “Can we pay separately?”, “Can I pay by card?”, “Is service included?”.",
+   "Tipping (“a tip”) is different in each country: in the UK, about 10 to 12.5% if service is not included; in the USA and Canada, people leave 15 to 20% (it is almost expected); in France, Belgium and Cameroon, it is optional.",
+   "“Keep the change” is an easy way to leave a tip in cash."
+  ],
+  "exemples": [
+   ["Could we have the bill, please? — Of course. Together or separately?", "Asking for the bill."],
+   ["Is service included? — No, it isn't.", "Checking before you tip."],
+   ["Here's 50 euros. Keep the change.", "A tip in cash."]
+  ]
+ }
+],
+"formule": "I'd like to book a table for… · A table for two, please. · I'll have… / Could I have…? · Could we have the bill, please?",
+"prononciation": [
+ "“I'll have” is /aɪl hæv/; in fast speech the h is often weak: “I'll 'ave the fish”.",
+ "“menu” /ˈmenjuː/: stress on the first syllable, “MEN-yoo”.",
+ "“dessert” /dɪˈzɜːt/ (stress at the end, with /z/) ≠ “desert” /ˈdezət/ (a dry, sandy place).",
+ "“steak” /steɪk/ rhymes with “make”, not with “week”.",
+ "“Could we have…”: /kʊd wi hæv/; let your voice go up a little at the end to sound polite: “…the BILL, please? ↗”."
+],
+"erreurs": [
+ ["I take the chicken.", "I'll have the chicken. / Could I have the chicken?", "To order: I'll have / Could I have."],
+ ["The addition, please.", "The bill, please. (US: The check, please.)", "Use “bill” or “check”."],
+ ["We are four.", "There are four of us. / A table for four, please.", "Don't say “We are + number”."],
+ ["I'm allergic of nuts.", "I'm allergic to nuts.", "allergic to."],
+ ["I want my steak bloody.", "I'd like my steak rare, please.", "Red inside = rare."],
+ ["For entrée, I'll have the soup. (UK)", "For my starter, I'll have the soup.", "In the UK the first dish is a starter; in the US “entrée” is the main course."],
+ ["Good appetite!", "Enjoy your meal!", "The natural English phrase."],
+ ["Is the service comprised?", "Is service included?", "Use “included”."]
+],
+"dialogue": {
+ "contexte": "In a restaurant in Brussels, Grace (from Nairobi) and her colleague Thomas have a business lunch.",
+ "lignes": [
+  ["Waiter", "Good afternoon. Are you ready to order?", "The usual question."],
+  ["Grace", "Almost. What do you recommend?", "Asking for advice."],
+  ["Waiter", "The dish of the day is mussels with chips. It's very popular.", "The special dish today."],
+  ["Thomas", "Perfect, I'll have the mussels, please.", "Ordering with I'll have."],
+  ["Grace", "I'm allergic to shellfish. Could I have the vegetable lasagne?", "An allergy + a polite order."],
+  ["Waiter", "Of course. And to drink?", "Asking about drinks."],
+  ["Thomas", "A bottle of sparkling water, please.", "sparkling = with bubbles."],
+  ["Waiter", "Here you are. Enjoy your meal!", "Serving the food."],
+  ["Grace", "Excuse me, could we have the bill, please? Can I pay by card?", "Asking for the bill."],
+  ["Waiter", "Yes, of course. Service is included.", "No need for a big tip."]
+ ]
+},
+"mots": [
+ ["book", "I'd like to book a table.", "ask for a table or room for a later time"],
+ ["reservation", "We have a reservation for eight.", "a table or room that is kept for you"],
+ ["starter", "Would you like a starter?", "a small first dish (US: appetizer)"],
+ ["main course", "For my main course, I'll have the fish.", "the biggest dish of a meal (US: entrée)"],
+ ["side dish", "Rice comes as a side dish.", "extra food served with the main dish"],
+ ["rare", "I'd like my steak rare.", "cooked only a little, red inside"],
+ ["recommend", "What do you recommend?", "say that something is good"],
+ ["allergic", "My son is allergic to eggs.", "becoming ill when you eat or touch something"],
+ ["bill", "Could we have the bill, please?", "a paper that shows how much to pay (US: check)"],
+ ["tip", "We left a 15% tip.", "extra money for the waiter"]
+],
+"exercices": [
+ {
+  "titre": "1. Waiter or customer?",
+  "consigne": "Who says this: the waiter or the customer?",
+  "items": [
+   ["Are you ready to order?", "waiter"],
+   ["What do you recommend?", "customer"],
+   ["How would you like your steak?", "waiter"],
+   ["Could we have the bill, please?", "customer"],
+   ["Enjoy your meal!", "waiter"]
+  ]
+ },
+ {
+  "titre": "2. Complete",
+  "consigne": "Complete with one word.",
+  "items": [
+   ["I'd like to ___ a table for two.", "book"],
+   ["For my ___, I'll have the soup. (the first dish, UK)", "starter"],
+   ["I'm allergic ___ peanuts.", "to"],
+   ["I'll ___ the chicken, please.", "have"],
+   ["Is service ___?", "included"],
+   ["Here's 20 euros. Keep the ___.", "change"]
+  ]
+ },
+ {
+  "titre": "3. Be polite",
+  "consigne": "Make the sentence polite and natural.",
+  "items": [
+   ["Give me the menu.", "Could I have the menu, please?"],
+   ["I want more bread.", "Could we have some more bread, please?"],
+   ["The addition!", "Could we have the bill, please?"],
+   ["We are three.", "A table for three, please. / There are three of us."]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I take the dish of the day.", "I'll have the dish of the day."],
+   ["I'd like my steak at point.", "I'd like my steak medium, please."],
+   ["Can we pay separated?", "Can we pay separately?"],
+   ["Excuse me, this isn't what I commanded.", "Excuse me, this isn't what I ordered."],
+   ["Good appetite!", "Enjoy your meal!"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write an eight-line dialogue in a restaurant: arriving, ordering (starter, main course, drink), a small problem, the bill.",
+  "items": [
+   ["Model answer", "Waiter: Good evening. Have you got a reservation? Me: Yes, it's under the name Mbarga, for two. Waiter: This way, please. Are you ready to order? Me: Yes. For my starter, I'll have the avocado salad, and then the grilled fish with plantain. Waiter: And to drink? Me: A bottle of still water, please. … Excuse me, I think there's a mistake: I ordered plantain, not rice. Waiter: I'm so sorry, I'll change it. Me: Thank you. Could we have the bill, please?"]
+  ]
+ }
+],
+"a_retenir": [
+ "Book: I'd like to book a table for four at eight. Arrive: A table for two, please. / We have a reservation.",
+ "Order: I'll have… / Could I have…?; starter (UK) = first dish, main course (US entrée!).",
+ "Be exact: rare / medium / well done; I'm allergic to…; I'm vegetarian.",
+ "During the meal: Excuse me, could we have…?; Enjoy your meal!; complain politely: I'm sorry, but…",
+ "Pay: Could we have the bill (US check), please? Is service included? Tip 15–20% in the USA and Canada."
+],
+"liens": [26, 31, 34, 57],
+"refs": ["cam-using", "bc-a1a2"]
+}

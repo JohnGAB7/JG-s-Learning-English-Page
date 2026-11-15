@@ -1,0 +1,196 @@
+{
+ "n": 101,
+ "niveau": "B1",
+ "titre": "Les propositions relatives (who, which, that)",
+ "intro": "Les propositions relatives permettent de préciser de qui ou de quoi on parle, en reliant deux idées dans une seule phrase : « the woman who lives next door », « the book that you lent me ». Elles rendent ton anglais plus fluide et plus précis.",
+ "objectifs": [
+  "Choisir entre who (personnes), which (choses, animaux) et that (les deux) dans une relative déterminative.",
+  "Construire une relative sujet et une relative complément sans répéter le pronom (pas de « the man who I saw him »).",
+  "Placer correctement les prépositions dans une relative (the house that I grew up in).",
+  "Reconnaître et ponctuer une relative explicative (non-defining) entre virgules, où that est impossible."
+ ],
+ "sections": [
+  {
+   "titre": "Who, which, that",
+   "texte": [
+    "Le pronom relatif remplace un nom déjà cité (l'antécédent) et introduit une proposition qui le décrit. Who s'emploie pour les personnes, which pour les choses et les animaux (en général), that pour les personnes et les choses.",
+    "Dans une relative déterminative (sans virgules), that est très courant, surtout à l'oral, pour les choses. Pour les personnes, who est plus fréquent que that, mais les deux sont corrects.",
+    "Le français utilise « qui » et « que » selon la fonction (sujet / complément) ; l'anglais choisit selon l'antécédent (personne / chose). « La femme qui… » et « la femme que… » donnent toutes les deux « the woman who… »."
+   ],
+   "tableau": {
+    "entetes": ["Antécédent", "Pronom", "Exemple"],
+    "lignes": [
+     ["personne", "who / that", "The nurse who (that) helped me was very kind."],
+     ["chose", "which / that", "The bus which (that) goes to the airport leaves at six."],
+     ["animal", "which / that (who si on parle de son animal comme d'une personne)", "The dog which (that) lives next door barks all night."],
+     ["après all, everything, nothing, something, un superlatif", "that (de préférence)", "It's the best film that I've ever seen."]
+    ]
+   }
+  },
+  {
+   "titre": "Relative sujet et relative complément",
+   "texte": [
+    "Si le pronom relatif est sujet du verbe de la relative, il est suivi directement du verbe : « the man who lives here » (c'est lui qui habite ici).",
+    "Si le pronom est complément, il est suivi d'un autre sujet : « the man who I met » (j'ai rencontré l'homme). Dans ce cas, le pronom remplace le complément : on ne répète jamais him, her, it dans la relative.",
+    "Whom est la forme complément de who. Elle est très formelle et surtout écrite (« the person whom I contacted ») ; à l'oral, on dit who ou that, ou on supprime le pronom (leçon suivante)."
+   ],
+   "exemples": [
+    ["The girl who won the prize is from Bamenda.", "Sujet : who + verbe (c'est elle qui a gagné)."],
+    ["The girl who I met at the party is from Bamenda.", "Complément : who + sujet + verbe (j'ai rencontré la fille)."],
+    ["The phone that I bought last week has stopped working.", "Complément : pas de « it » après bought."],
+    ["The phone that costs 300 euros is too expensive.", "Sujet : that + verbe."]
+   ]
+  },
+  {
+   "titre": "Les prépositions dans les relatives",
+   "texte": [
+    "Quand le verbe de la relative est suivi d'une préposition (live in, talk to, look for, work with), la préposition reste en général à la fin de la relative en anglais courant : « the city that I live in », « the person who I talked to ».",
+    "Dans un registre formel, la préposition passe devant le pronom, et on utilise alors which ou whom (jamais that ni who) : « the city in which I live », « the person to whom I spoke ».",
+    "Where peut remplacer in which / at which pour un lieu : « the hotel where we stayed » = « the hotel that we stayed at »."
+   ],
+   "tableau": {
+    "entetes": ["Courant", "Formel"],
+    "lignes": [
+     ["the house that I grew up in", "the house in which I grew up"],
+     ["the colleague who I work with", "the colleague with whom I work"],
+     ["the job that she applied for", "the job for which she applied"],
+     ["the hotel that we stayed at / where we stayed", "the hotel at which we stayed"]
+    ]
+   }
+  },
+  {
+   "titre": "Relative déterminative ou explicative ?",
+   "texte": [
+    "Relative déterminative (defining) : elle est indispensable pour savoir de qui on parle. Pas de virgules. « My brother who lives in Canada is a doctor » (j'ai plusieurs frères ; je parle de celui qui vit au Canada).",
+    "Relative explicative (non-defining) : elle ajoute une information supplémentaire sur quelqu'un ou quelque chose qu'on a déjà identifié. Elle est entre virgules, et that y est interdit : on utilise who ou which. « My brother, who lives in Canada, is a doctor » (j'ai un seul frère).",
+    "Which peut aussi reprendre toute une phrase, après une virgule : « He passed his driving test, which surprised everyone. » (ce qui a surpris tout le monde)."
+   ],
+   "exemples": [
+    ["Paris, which is the capital of France, has twenty districts.", "Explicative : information ajoutée, entre virgules."],
+    ["My mother, who is 70, still works.", "Pas de that dans une explicative."],
+    ["She didn't call me back, which was strange.", "Which = ce qui (reprend toute la phrase)."]
+   ]
+  },
+  {
+   "titre": "Where, when, why",
+   "texte": [
+    "Where s'utilise après un nom de lieu (the town where I was born), when après un nom de temps (the day when we met, the year when…), why après reason (the reason why she left).",
+    "When et why sont souvent omis ou remplacés par that : « the day (that) we met », « the reason (that) she left ». Ne confonds pas « where » (où, lieu) et « which » : « the city which I visited » (complément de visit) / « the city where I live » (lieu où)."
+   ],
+   "exemples": [
+    ["This is the café where we first met.", "Lieu."],
+    ["I remember the day when you arrived in Lille.", "Temps."]
+   ]
+  }
+ ],
+ "formule": "personne + who / that · chose + which / that · relative explicative : , who / which , (jamais that)",
+ "prononciation": [
+  "who /huː/, which /wɪtʃ/ (comme « witch »), that relatif est faible /ðət/ : « the book that I read » /ðə ˈbʊk ðət aɪ ˈred/.",
+  "Une relative déterminative se dit d'un seul souffle, sans pause : « the man who lives next door ».",
+  "Une relative explicative est entourée de petites pauses et d'une voix un peu plus basse, comme une parenthèse : « My brother | who lives in Canada | is a doctor ».",
+  "where /weə/ et were /wɜː/ ne se prononcent pas pareil : attention à ne pas les confondre à l'écrit non plus."
+ ],
+ "erreurs": [
+  ["The man which lives here is a doctor.", "The man who lives here is a doctor.", "Pour une personne : who ou that, pas which."],
+  ["The book that I read it was boring.", "The book that I read was boring.", "Le pronom relatif remplace déjà le complément : pas de it."],
+  ["My father, that is a teacher, lives in Liège.", "My father, who is a teacher, lives in Liège.", "That est impossible dans une relative explicative (entre virgules)."],
+  ["The city where I visited was beautiful.", "The city that (which) I visited was beautiful.", "Visit a un complément direct : which / that, pas where."],
+  ["The woman who she called me is my aunt.", "The woman who called me is my aunt.", "Relative sujet : pas de second sujet she."],
+  ["The house in that I grew up is old.", "The house in which I grew up is old. / The house that I grew up in is old.", "Après une préposition : which (ou whom), jamais that."],
+  ["He was late, what annoyed the boss.", "He was late, which annoyed the boss.", "Pour reprendre toute une phrase : which, pas what."]
+ ],
+ "dialogue": {
+  "contexte": "Toronto, lors d'une soirée entre collègues. Sophie présente des personnes à Ahmed, qui vient d'arriver d'Alger.",
+  "lignes": [
+   ["Sophie", "Do you see the woman who's talking to the manager?", "Tu vois la femme qui parle au directeur ?"],
+   ["Ahmed", "The one in the red dress?", "Celle en robe rouge ?"],
+   ["Sophie", "Yes. That's Grace, who runs our office in Montreal.", "Oui. C'est Grace, qui dirige notre bureau de Montréal."],
+   ["Ahmed", "Is she the person that I need to send my report to?", "C'est la personne à qui je dois envoyer mon rapport ?"],
+   ["Sophie", "Exactly. And the man who's standing next to her is Daniel. He's the one who organised this party.", "Exactement. Et l'homme qui est à côté d'elle, c'est Daniel. C'est lui qui a organisé cette soirée."],
+   ["Ahmed", "The food that he chose is excellent.", "La nourriture qu'il a choisie est excellente."],
+   ["Sophie", "He ordered it from a restaurant which belongs to his cousin, which is very convenient!", "Il l'a commandée dans un restaurant qui appartient à son cousin, ce qui est très pratique !"],
+   ["Ahmed", "Can you introduce me to the people who work in marketing?", "Tu peux me présenter les gens qui travaillent au marketing ?"]
+  ]
+ },
+ "mots": [
+  ["colleague", "The colleague who sits next to me is from Dakar.", "le / la collègue"],
+  ["neighbour", "Our neighbour, who is a nurse, works at night.", "le voisin, la voisine (US : neighbor)"],
+  ["belong to", "The car which belongs to my uncle is red.", "appartenir à"],
+  ["grow up", "This is the town where I grew up.", "grandir"],
+  ["apply for", "The job that she applied for is in Ottawa.", "postuler à, poser sa candidature pour"],
+  ["run", "She runs a small company that makes furniture.", "diriger, gérer"],
+  ["recommend", "The restaurant that you recommended was great.", "recommander"],
+  ["reason", "That's the reason why I called you.", "la raison"],
+  ["the one", "He's the one who organised the trip.", "celui / celle (qui)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Who ou which ?",
+   "consigne": "Complète avec who ou which.",
+   "items": [
+    ["The teacher ___ taught me English lives in Douala.", "who"],
+    ["The laptop ___ I bought is very fast.", "which"],
+    ["I have a friend ___ speaks five languages.", "who"],
+    ["The train ___ goes to Brussels is late.", "which"],
+    ["The people ___ live upstairs are noisy.", "who"]
+   ]
+  },
+  {
+   "titre": "2. That est-il possible ?",
+   "consigne": "Dis si that peut remplacer who ou which dans la phrase (oui / non).",
+   "items": [
+    ["The film which we watched was long.", "oui"],
+    ["My sister, who lives in Lyon, is a lawyer.", "non (relative explicative entre virgules)"],
+    ["The man who repaired my car was very fast.", "oui"],
+    ["The Eiffel Tower, which was built in 1889, is in Paris.", "non (relative explicative)"]
+   ]
+  },
+  {
+   "titre": "3. Relier les phrases",
+   "consigne": "Relie les deux phrases avec un pronom relatif.",
+   "items": [
+    ["A woman called you. She didn't leave her name.", "The woman who called you didn't leave her name."],
+    ["I lost a ring. My grandmother gave it to me.", "I lost the ring that (which) my grandmother gave me."],
+    ["This is the restaurant. We had dinner there last night.", "This is the restaurant where we had dinner last night. / This is the restaurant that we had dinner at last night."],
+    ["My uncle is 80. He still plays football.", "My uncle, who is 80, still plays football."],
+    ["She passed all her exams. This made her parents very proud.", "She passed all her exams, which made her parents very proud."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["The doctor which I saw was very kind.", "The doctor who (that) I saw was very kind."],
+    ["The shoes that I bought them are too small.", "The shoes that I bought are too small."],
+    ["My boss, that is from Quebec, speaks French.", "My boss, who is from Quebec, speaks French."],
+    ["The hotel where we booked was full.", "The hotel that (which) we booked was full."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["La femme qui habite à côté est infirmière.", "The woman who lives next door is a nurse."],
+    ["Le livre que tu m'as prêté est passionnant.", "The book that (which) you lent me is fascinating."],
+    ["Voici la ville où je suis né.", "This is the town (city) where I was born."],
+    ["Il a perdu ses clés, ce qui l'a mis en colère.", "He lost his keys, which made him angry."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Décris 4 personnes, lieux ou objets importants pour toi, avec une relative dans chaque phrase (au moins une relative explicative).",
+   "items": [
+    ["Exemple de réponse", "My best friend is someone who always tells me the truth. Kribi is the place where I spent all my childhood holidays. The watch that I wear every day was a gift from my father. My grandmother, who is 85, still cooks for the whole family on Sundays."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Personnes : who / that ; choses et animaux : which / that.",
+  "Le pronom relatif remplace le sujet ou le complément : jamais de him / it en double.",
+  "Préposition en fin de relative (courant) ou devant which / whom (formel), jamais devant that.",
+  "Relative explicative entre virgules : who ou which, jamais that.",
+  "Which après une virgule peut reprendre toute une phrase (= ce qui)."
+ ],
+ "liens": [29, 68, 102, 114],
+ "refs": ["bc-relative-def", "bc-relative-nondef"]
+}

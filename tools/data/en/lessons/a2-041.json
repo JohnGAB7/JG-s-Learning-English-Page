@@ -1,0 +1,212 @@
+{
+"n": 41,
+"niveau": "A2",
+"titre": "The past simple: regular verbs",
+"intro": "We use the past simple to talk about finished actions: yesterday, last week, in 2015. For regular verbs, you just add -ed, with every subject.",
+"objectifs": [
+"Form the past simple of regular verbs with the correct -ed spelling.",
+"Pronounce the -ed ending correctly: /t/, /d/ or /ɪd/.",
+"Make negatives and questions with did / didn't + base verb.",
+"Talk about finished actions with the right time words (yesterday, last week, ago, in 2020)."
+],
+"sections": [
+{
+"titre": "When do we use the past simple?",
+"texte": [
+"The past simple is for an action that is finished, at a time in the past that we know or say. It is the main tense for telling stories and talking about your day, your weekend or your life.",
+"We often use a time word: yesterday, last night / last week / last year, two days ago, in 2019, on Monday, when I was a child.",
+"Be careful: “ago” comes after the length of time (three years ago), not before it."
+],
+"exemples": [
+["I worked in Douala last year.", "Finished period: last year."],
+["She called me yesterday evening.", "A finished moment: yesterday evening."],
+["We visited Bruges two weeks ago.", "“Ago” comes after the time period."],
+["They moved to Montreal in 2021.", "A year in the past: in 2021."]
+],
+"note": "The past simple has the same form with every subject: I worked, you worked, he worked, we worked, they worked. There is no -s for he / she / it!"
+},
+{
+"titre": "Positive form and -ed spelling",
+"texte": [
+"General rule: base verb + -ed (work → worked, play → played, open → opened).",
+"Some spelling rules depend on the end of the verb. The same rules work for other endings (-er, -est), so they are useful later too."
+],
+"tableau": {
+"entetes": ["End of the verb", "Rule", "Examples"],
+"lignes": [
+["most verbs", "+ -ed", "work → worked, watch → watched, clean → cleaned"],
+["silent -e", "+ -d only", "live → lived, like → liked, dance → danced"],
+["consonant + y", "y → i + -ed", "study → studied, try → tried, carry → carried"],
+["vowel + y", "+ -ed (keep the y)", "play → played, enjoy → enjoyed, stay → stayed"],
+["one vowel + one consonant, stressed syllable", "double the consonant", "stop → stopped, plan → planned, prefer → preferred"],
+["last syllable not stressed", "do not double", "visit → visited, open → opened, listen → listened"],
+["final -w, -x, -y", "never doubled", "show → showed, fix → fixed, snow → snowed"]
+]
+},
+"note": "British and American English: travel → travelled (UK) / traveled (US), cancel → cancelled (UK) / canceled (US). In British English, a final -l is doubled even when the syllable is not stressed."
+},
+{
+"titre": "Negative: didn't + base verb",
+"texte": [
+"In the negative, use the helper verb did + not (short form didn't) and then the base verb, without -ed. “Did” already shows the past, so the main verb goes back to its base form.",
+"The full form “did not” is for careful writing or for emphasis."
+],
+"exemples": [
+["I didn't watch the match.", "Not “didn't watched”."],
+["He didn't answer my email.", "didn't + base verb."],
+["We did not receive the parcel.", "Full form: formal writing."]
+]
+},
+{
+"titre": "Questions and short answers",
+"texte": [
+"To ask a question: Did + subject + base verb? Answer with a short answer: “Yes, I did.” or “No, I didn't.” Do not repeat the main verb.",
+"With a question word, put it first: What did you cook? Where did they stay? You will practise past questions more in lesson 67."
+],
+"tableau": {
+"entetes": ["Form", "Pattern", "Example"],
+"lignes": [
+["positive", "subject + verb-ed", "You cooked dinner."],
+["negative", "subject + didn't + base", "You didn't cook dinner."],
+["question", "Did + subject + base?", "Did you cook dinner?"],
+["short answer", "Yes, subject + did. / No, subject + didn't.", "Yes, I did. / No, I didn't."],
+["Wh- question", "Wh- + did + subject + base?", "What did you cook?"]
+]
+},
+"exemples": [
+["Did you enjoy the film? — Yes, I did.", "Short answer with did."],
+["Where did you stay in Brussels?", "Question word + did + subject + base."]
+]
+},
+{
+"titre": "Past simple or present perfect? A first guide",
+"texte": [
+"Many learners say “I have worked yesterday”. This is wrong: when we say or know a finished past time (yesterday, in 2020, last week), English needs the past simple.",
+"The present perfect (lesson 51) links the past to now, with no finished time. For now, remember: finished past time word = past simple."
+],
+"exemples": [
+["I finished the report yesterday.", "Not “I have finished … yesterday”."],
+["When did you arrive?", "A question about the time → past simple."]
+]
+}
+],
+"formule": "subject + verb-ed · subject + didn't + base · Did + subject + base …?",
+"prononciation": [
+"After voiceless sounds /p/, /k/, /f/, /s/, /ʃ/, /tʃ/, -ed sounds like /t/: worked /wɜːkt/, stopped /stɒpt/, watched /wɒtʃt/.",
+"After voiced sounds (vowels, /b/, /g/, /v/, /z/, /m/, /n/, /l/…), -ed sounds like /d/: played /pleɪd/, lived /lɪvd/, opened /ˈəʊpənd/.",
+"Only after /t/ or /d/, -ed adds a syllable /ɪd/: wanted /ˈwɒntɪd/, needed /ˈniːdɪd/, visited /ˈvɪzɪtɪd/.",
+"A common mistake is to say “worked” with two syllables (“work-ed”). Only verbs ending in a t or d sound get an extra syllable.",
+"“didn't” is /ˈdɪdnt/; the final t is very light, sometimes not heard before a consonant (I didn't know)."
+],
+"erreurs": [
+["I didn't worked yesterday.", "I didn't work yesterday.", "After did / didn't, use the base verb: did already shows the past."],
+["Did you visited Paris?", "Did you visit Paris?", "Same in questions: Did + base verb."],
+["I have watched the match last night.", "I watched the match last night.", "With a finished time (last night), use the past simple."],
+["He studyed English.", "He studied English.", "Consonant + y → -ied."],
+["We stoped the car.", "We stopped the car.", "Short stressed verb ending in vowel + consonant: double the consonant."],
+["Before two years, I lived in Lille.", "Two years ago, I lived in Lille.", "Time period + ago, not before + time period."],
+["She worked-ed /ˈwɜːkɪd/ late.", "She worked /wɜːkt/ late.", "No extra syllable after /k/: -ed = /t/."]
+],
+"dialogue": {
+"contexte": "Monday morning at an office in Brussels. Two colleagues talk about their weekend.",
+"lignes": [
+["Sophie", "Hi Daniel! Did you enjoy your weekend?", "A Did question."],
+["Daniel", "Yes, I did, thanks. My cousin visited us from Yaoundé.", "Short answer, then visited /ɪd/."],
+["Sophie", "Oh, nice! What did you do?", "Wh- question: What did you do?"],
+["Daniel", "On Saturday we walked around the Grand-Place and we tried some Belgian waffles.", "walked /t/, tried: y → ied."],
+["Sophie", "Did he like them?", "Did + base verb."],
+["Daniel", "He loved them! But it rained on Sunday, so we stayed at home and watched a film.", "loved /d/, rained /d/, stayed /d/, watched /t/."],
+["Sophie", "I didn't do much. I just cleaned my flat and called my parents.", "Negative: didn't + do."],
+["Daniel", "That sounds relaxing!", "A natural reaction."]
+]
+},
+"mots": [
+["yesterday", "I called my sister yesterday.", "the day before today"],
+["ago", "We moved here three years ago.", "before now (it comes after the time period)"],
+["last", "I travelled a lot last year.", "the one before this one (last week, last year)"],
+["arrive", "The train arrived late.", "to reach a place"],
+["decide", "She decided to learn English.", "to choose to do something"],
+["move", "They moved to Canada in 2020.", "to go to live in a new place; to change position"],
+["finish", "I finished work at six.", "to complete something; to end"],
+["stay", "We stayed in a small hotel.", "to remain in a place; to live somewhere for a short time"],
+["travel", "He travelled to Kribi by bus.", "to go from one place to another, often far"],
+["happen", "What happened last night?", "to take place (an event)"]
+],
+"exercices": [
+{
+"titre": "1. Write the -ed form",
+"consigne": "Write the past simple of each verb. Check the spelling.",
+"items": [
+["play", "played"],
+["study", "studied"],
+["live", "lived"],
+["stop", "stopped"],
+["visit", "visited"],
+["carry", "carried"],
+["plan", "planned"],
+["enjoy", "enjoyed"]
+]
+},
+{
+"titre": "2. Sort by sound",
+"consigne": "Is -ed pronounced /t/, /d/ or /ɪd/?",
+"items": [
+["watched", "/t/"],
+["wanted", "/ɪd/"],
+["cleaned", "/d/"],
+["needed", "/ɪd/"],
+["laughed", "/t/"],
+["called", "/d/"]
+]
+},
+{
+"titre": "3. Complete in the past simple",
+"consigne": "Put the verb in brackets in the past simple (positive, negative or question).",
+"items": [
+["Last summer we ___ (travel) to Senegal.", "travelled (US: traveled)"],
+["I ___ (not / like) the film. It was boring.", "didn't like"],
+["___ you ___ (call) the doctor this morning?", "Did … call"],
+["She ___ (arrive) in Quebec two days ago.", "arrived"],
+["They ___ (not / finish) the project on time.", "didn't finish"],
+["Where ___ you ___ (stay) in Antwerp?", "did … stay"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["He didn't answered the phone.", "He didn't answer the phone."],
+["Did you watched the news?", "Did you watch the news?"],
+["I have visited Lyon last month.", "I visited Lyon last month."],
+["We tryed to call you.", "We tried to call you."],
+["She moved here before five years.", "She moved here five years ago."]
+]
+},
+{
+"titre": "5. Transform",
+"consigne": "Follow the instruction in brackets.",
+"items": [
+["I worked until 8 p.m. yesterday. (question with you)", "Did you work until 8 p.m. yesterday?"],
+["They watched the match. (negative)", "They didn't watch the match."],
+["You called your mother. (question + short answer “yes”)", "Did you call your mother? — Yes, I did."],
+["We moved in 2023. It is now 2025. (use ago)", "We moved two years ago."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Write five sentences about last weekend with regular verbs (at least one negative).",
+"items": [
+["Model answer", "Last Saturday I stayed at home in the morning and cleaned my flat. In the afternoon I visited my friend Aïcha. We walked to the market and cooked a big dinner. On Sunday it rained, so I watched two films. I didn't study at all!"]
+]
+}
+],
+"a_retenir": [
+"Regular past simple = base + -ed, the same for every subject (no -s).",
+"Spelling: live → lived, study → studied, play → played, stop → stopped.",
+"Negatives and questions: didn't / Did + base verb (never didn't worked).",
+"-ed sounds: /t/, /d/, and /ɪd/ only after a t or d sound.",
+"Finished past time (yesterday, last…, … ago, in 2020) = past simple, not present perfect."
+],
+"liens": [39, 42, 43, 51, 67],
+"refs": ["bc-a1a2", "cam-verbs"]
+}

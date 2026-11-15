@@ -1,0 +1,203 @@
+{
+ "n": 231,
+ "niveau": "C1",
+ "titre": "Le fronting (mise en tête)",
+ "intro": "Le fronting consiste à placer en tête de phrase un élément qui se trouve normalement après le verbe : « This I can't accept », « Tired as she was, she kept going », « Gone are the days when… ». Il sert à relier les idées, à créer un contraste ou une concession élégante.",
+ "objectifs": [
+  "Mettre en tête un complément d'objet ou un adjectif pour créer un contraste (This I know ; Lucky we were).",
+  "Construire les concessives avec fronting : Tired as I was…, Much as I like…, Try as she might…, Strange though it may seem…",
+  "Utiliser le fronting d'adverbiaux et de participes pour la cohésion et le style (Of the 300 respondents… ; Gone are the days…).",
+  "Distinguer le fronting sans inversion (This I know) de l'inversion après un élément négatif (Never have I…)."
+ ],
+ "sections": [
+  {
+   "titre": "Principe : déplacer pour relier ou contraster",
+   "texte": [
+    "L'ordre normal de l'anglais est sujet + verbe + complément. Le fronting déplace un élément en tête pour deux raisons principales : 1) relier la phrase à ce qui précède (l'élément connu passe en premier), 2) créer un contraste avec une autre idée.",
+    "Dans la plupart des cas, le sujet et le verbe restent dans l'ordre normal après l'élément déplacé : « This I can't accept » (et non « This can't I accept »). L'inversion n'apparaît qu'avec certains éléments : négatifs (leçon 229), participes et lieux suivis d'un sujet nominal (« Gone are the days »)."
+   ],
+   "exemples": [
+    ["Most of the report is fine. This last paragraph, however, I can't accept.", "Objet en tête : contraste avec le reste du rapport."],
+    ["She promised to finish by Friday, and finish she did.", "Verbe en tête : confirmation emphatique (« et elle l'a fait »)."]
+   ]
+  },
+  {
+   "titre": "Fronting d'un objet ou d'un adjectif",
+   "texte": [
+    "Placer l'objet en tête est surtout fréquent avec this, that, these, those, ou avec un nom en contraste : « Some things I'll forgive; lies I won't. » C'est un registre plutôt oral ou littéraire, très expressif.",
+    "L'adjectif attribut peut aussi venir en tête, avec un effet d'exclamation ou de commentaire : « Lucky we were to escape. », « Strange it may seem, but it's true. » (la forme concessive est plus fréquente, voir section suivante)."
+   ],
+   "tableau": {
+    "entetes": ["Ordre normal", "Fronting", "Effet"],
+    "lignes": [
+     ["I know this.", "This I know.", "insistance sur « this »"],
+     ["I won't forgive lies.", "Lies I won't forgive.", "contraste avec d'autres fautes"],
+     ["I can do the maths, but not the writing.", "The maths I can do; the writing, not so much.", "contraste entre deux éléments"],
+     ["We were lucky to escape.", "Lucky we were to escape.", "exclamation, style littéraire"]
+    ]
+   },
+   "exemples": [
+    ["The first exam I passed easily. The second was a nightmare.", "Objet en tête pour opposer deux examens."]
+   ]
+  },
+  {
+   "titre": "Les concessives : Tired as I was…",
+   "texte": [
+    "C'est l'usage le plus utile au niveau C1. Structure : adjectif / adverbe / nom + as (ou though) + sujet + verbe, puis la proposition principale. Le sens est celui de « although » : « Tired as I was, I kept working » = Although I was very tired, I kept working.",
+    "Variantes figées : « Much as I like / admire / respect… » (= même si j'aime beaucoup…) ; « Try as I might… » (= j'ai eu beau essayer) ; « Strange / Hard as it may seem… » ; « Child though he was… » (nom sans article, très soutenu).",
+    "Attention : en anglais britannique, on ne met pas « as » au début (« As tired as I was » est fréquent en américain mais peut être lu comme une comparaison). On n'ajoute jamais « but » dans la principale."
+   ],
+   "tableau": {
+    "entetes": ["Avec although", "Avec fronting"],
+    "lignes": [
+     ["Although I was tired, I finished the report.", "Tired as I was, I finished the report."],
+     ["Although I like him a lot, I don't trust him.", "Much as I like him, I don't trust him."],
+     ["Although she tried hard, she couldn't open it.", "Try as she might, she couldn't open it."],
+     ["Although it may seem strange, it works.", "Strange as it may seem, it works."],
+     ["Although he was very rich, he lived simply.", "Rich though he was, he lived simply."]
+    ]
+   },
+   "exemples": [
+    ["Hard as it may be to believe, the village had no electricity until 2015.", "« Aussi difficile que cela puisse paraître… »"],
+    ["Try as I might, I couldn't remember her name.", "« J'ai eu beau essayer… » : might (passé) après try as I."]
+   ]
+  },
+  {
+   "titre": "Fronting d'adverbiaux et de participes",
+   "texte": [
+    "Placer un complément de temps, de lieu ou de quantité en tête est très courant à l'écrit pour organiser l'information : « In 2020, … », « Of the 300 respondents, 40 % said… », « Among the most affected were… ». C'est un outil de cohésion : on part du connu pour aller au nouveau.",
+    "Avec un participe ou un adjectif en tête suivi de « be », on inverse si le sujet est un nom : « Gone are the days when… », « Attached is a copy of the invoice », « Included in the price are breakfast and Wi-Fi ». Ces formes sont fréquentes dans les e-mails formels et le journalisme."
+   ],
+   "exemples": [
+    ["Of the 1,200 candidates, only 85 were selected.", "Quantité en tête : on part du groupe connu."],
+    ["Gone are the days when a degree guaranteed a job.", "« Fini le temps où… » : participe + be + sujet."],
+    ["Attached is the signed contract.", "E-mail formel : « Vous trouverez ci-joint… »."],
+    ["Among the guests were two former ministers.", "Expression en tête + be + sujet long."]
+   ]
+  },
+  {
+   "titre": "Fronting ou inversion ? Récapitulatif",
+   "texte": [
+    "Retenez la règle générale : élément ordinaire en tête → ordre normal (This I know). Élément négatif ou restrictif en tête → inversion avec auxiliaire (Never have I…). Lieu, participe ou adjectif + be / verbe de position, avec sujet nominal → inversion du verbe (Gone are the days ; On the hill stood a church).",
+    "Le fronting est expressif : à l'écrit académique, limitez-vous au fronting d'adverbiaux (In 2020…, Of these…) et aux concessives ; à l'oral, « This I know » ou « That I doubt » sont naturels."
+   ],
+   "tableau": {
+    "entetes": ["Élément en tête", "Ordre", "Exemple"],
+    "lignes": [
+     ["Objet, adjectif, verbe", "sujet + verbe", "That I doubt."],
+     ["Négatif / restrictif", "auxiliaire + sujet + verbe", "Rarely have I seen that."],
+     ["Concessive (adj. + as)", "sujet + verbe", "Cold as it was, we swam."],
+     ["Participe / lieu + be (sujet nominal)", "verbe + sujet", "Enclosed is my CV."]
+    ]
+   }
+  }
+ ],
+ "formule": "Élément connu ou contrasté en tête + sujet + verbe (This I know) · Adj. / adv. + as / though + sujet + verbe, principale (Tired as I was, …) · Participe + be + sujet nominal (Gone are the days…)",
+ "prononciation": [
+  "L'élément déplacé porte un accent fort et forme un groupe intonatif à part : « THIS | I can't accept. »",
+  "Dans les concessives, intonation montante ou descendante-montante sur la première partie, puis chute sur la principale : « Tired as I WAS, | I kept GOing. »",
+  "« as » est réduit à /əz/ : « Much as I like him » /ˈmʌtʃ əz aɪ ˈlaɪk ɪm/.",
+  "« though » se prononce /ðəʊ/ : « Rich though he was » ; le « gh » est muet.",
+  "« Gone are the days » : accent sur « gone » et « days », « are the » réduit /ə ðə/."
+ ],
+ "erreurs": [
+  ["This can't I accept.", "This I can't accept.", "Un objet en tête n'entraîne pas d'inversion."],
+  ["Tired as I was, but I kept going.", "Tired as I was, I kept going.", "La concessive remplace although : pas de « but » ensuite."],
+  ["Although tired as I was, I finished.", "Tired as I was, I finished. / Although I was tired, I finished.", "On ne combine pas although et la structure as."],
+  ["Gone the days are when we could smoke inside.", "Gone are the days when we could smoke inside.", "Participe + be + sujet nominal."],
+  ["Try as I could, I didn't find it.", "Try as I might, I couldn't find it.", "Forme figée : « try as I might »."],
+  ["Much as I like him, but I don't trust him.", "Much as I like him, I don't trust him.", "Pas de « but » après une concessive."],
+  ["Attached you will find is the invoice.", "Attached is the invoice. / Please find attached the invoice.", "Deux formules à ne pas mélanger."]
+ ],
+ "dialogue": {
+  "contexte": "À Montréal, un chef d'équipe explique à une collègue pourquoi il refuse une partie d'un projet de contrat.",
+  "lignes": [
+   ["Rachel", "So, what do you think of the supplier's draft?", "Alors, que penses-tu du brouillon du fournisseur ?"],
+   ["Victor", "Most of it is fine. The penalty clause, though, I simply can't accept.", "L'essentiel va bien. La clause de pénalités, en revanche, je ne peux tout simplement pas l'accepter."],
+   ["Rachel", "Really? Strange as it may seem, their lawyers say it's standard.", "Vraiment ? Aussi étrange que cela puisse paraître, leurs juristes disent que c'est standard."],
+   ["Victor", "Standard it may be, but it's not fair to us.", "Standard, peut-être, mais pas juste pour nous."],
+   ["Rachel", "Much as I agree, we need this contract. Gone are the days when we could pick and choose.", "Même si je suis tout à fait d'accord, on a besoin de ce contrat. Fini le temps où on pouvait choisir."],
+   ["Victor", "True. Of the five suppliers we contacted, they're the only one with stock.", "C'est vrai. Des cinq fournisseurs contactés, c'est le seul qui a du stock."],
+   ["Rachel", "Then let's propose a cap on the penalties. That they might accept.", "Alors proposons un plafond pour les pénalités. Ça, ils pourraient l'accepter."],
+   ["Victor", "Good idea. I'll draft the email now: “Attached is our counter-proposal regarding clause 7.”", "Bonne idée. Je rédige l'e-mail tout de suite : « Vous trouverez ci-joint notre contre-proposition concernant la clause 7. »"]
+  ]
+ },
+ "mots": [
+  ["fronting", "Fronting moves an element to the start.", "mise en tête (d'un élément)"],
+  ["concession", "“Much as I like him” expresses concession.", "concession"],
+  ["much as", "Much as I'd like to stay, I have to go.", "bien que, même si (+ fort sentiment)"],
+  ["try as I might", "Try as I might, I couldn't sleep.", "j'ai eu beau essayer"],
+  ["gone are the days", "Gone are the days of cheap flights.", "fini le temps de / où"],
+  ["attached", "Attached is my updated CV.", "ci-joint"],
+  ["enclosed", "Enclosed is a cheque for 50 dollars.", "ci-inclus (courrier papier)"],
+  ["among", "Among the winners was a 12-year-old girl.", "parmi"],
+  ["respondent", "Of the respondents, 60 % agreed.", "personne interrogée"],
+  ["counter-proposal", "They sent a counter-proposal the next day.", "contre-proposition"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Fronting ou inversion ?",
+   "consigne": "Indique si la phrase montre un fronting sans inversion ou une inversion.",
+   "items": [
+    ["That I doubt very much.", "fronting sans inversion"],
+    ["Never have I been so embarrassed.", "inversion"],
+    ["Cold as it was, we went swimming.", "fronting sans inversion"],
+    ["Gone are the days of paper tickets.", "inversion (participe + be + sujet)"]
+   ]
+  },
+  {
+   "titre": "2. Concessives",
+   "consigne": "Réécris avec la structure « … as / though … ».",
+   "items": [
+    ["Although she was exhausted, she finished the race.", "Exhausted as she was, she finished the race."],
+    ["Although I like my job a lot, I need a change.", "Much as I like my job, I need a change."],
+    ["Although he tried hard, he couldn't convince them.", "Try as he might, he couldn't convince them."],
+    ["Although it may sound strange, I enjoy exams.", "Strange as it may sound, I enjoy exams."],
+    ["Although the flat was small, it was very bright.", "Small as / though the flat was, it was very bright."]
+   ]
+  },
+  {
+   "titre": "3. Mettre en tête",
+   "consigne": "Réécris en plaçant l'élément entre crochets en tête.",
+   "items": [
+    ["I can't accept [this decision].", "This decision I can't accept."],
+    ["Only 85 [of the 1,200 candidates] were selected.", "Of the 1,200 candidates, only 85 were selected."],
+    ["Breakfast and parking are [included in the price].", "Included in the price are breakfast and parking."],
+    ["The days when we wrote letters [are gone].", "Gone are the days when we wrote letters."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    ["Tired as I was, but I went out.", "Tired as I was, I went out."],
+    ["This can't I believe.", "This I can't believe."],
+    ["Try as I could, the door wouldn't open.", "Try as I might, the door wouldn't open."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un fronting.",
+   "items": [
+    ["Aussi fatigués que nous étions, nous avons continué.", "Tired as we were, we carried on / kept going."],
+    ["Fini le temps où l'essence coûtait un dollar.", "Gone are the days when petrol (AmE: gas) cost a dollar."],
+    ["J'ai eu beau essayer, je n'ai pas compris.", "Try as I might, I couldn't understand."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 3 ou 4 phrases sur un changement dans ta ville ou ton métier. Utilise au moins deux structures de fronting différentes.",
+   "items": [
+    ["Exemple de réponse", "Gone are the days when everyone in Yaoundé paid cash at the market. Of the traders I know, almost all now accept mobile money. Convenient as it is, the system still worries older customers. That, I think, is the real challenge for the next few years."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Fronting = déplacer en tête un élément pour relier (élément connu d'abord) ou contraster ; en général, pas d'inversion (This I know).",
+  "Concessives élégantes : Tired as I was…, Much as I like…, Try as I might…, Strange as it may seem… — sans although ni but.",
+  "Adverbiaux en tête pour la cohésion (Of the 300 respondents…) ; participe + be + sujet nominal avec inversion (Gone are the days…, Attached is…).",
+  "Négatif en tête → inversion avec auxiliaire ; autre élément → ordre normal."
+ ],
+ "liens": [229, 230, 172, 247, 157],
+ "refs": ["bc-emphasis", "bc-c1-contrast", "bc-c1"]
+}

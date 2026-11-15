@@ -1,0 +1,193 @@
+{
+ "n": 110,
+ "niveau": "B1",
+ "titre": "The future perfect (will have done)",
+ "intro": "The future perfect (will have + past participle) says that an action will be finished before a time in the future: “By Friday, I'll have finished the report.” It is very useful for deadlines, progress reports and predictions.",
+ "objectifs": [
+  "Form the future perfect in the affirmative, negative and question forms.",
+  "Say that an action will be complete before a future time, with by, by the time, before and in + period.",
+  "Express duration up to a future time (By June, I'll have worked here for ten years) and meet the future perfect continuous.",
+  "Avoid the traps: by ≠ until, and no will after when / by the time."
+ ],
+ "sections": [
+  {
+   "titre": "Form: will have + past participle",
+   "texte": [
+    "We make the future perfect with will have (the same for every subject) and the past participle: I will have finished, she will have left. In speech: I'll have, she'll have; negative: won't have + participle.",
+    "Question: Will + subject + have + participle? Short answer: Yes, I will. / No, I won't. (we don't repeat have)."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Structure", "Example"],
+    "lignes": [
+     ["Affirmative", "subject + will have + participle", "By 2030, she'll have finished her studies."],
+     ["Negative", "subject + won't have + participle", "We won't have arrived by six."],
+     ["Question", "Will + subject + have + participle?", "Will you have finished by Monday?"],
+     ["Short answer", "Yes, subject + will. / No, subject + won't.", "Will they have left? – Yes, they will."]
+    ]
+   }
+  },
+  {
+   "titre": "Main use: finished before a future time",
+   "texte": [
+    "We imagine a moment in the future and look back: at that moment, the action will already be complete. It is the same view as the present perfect (from now) or the past perfect (from a past moment), but from the future.",
+    "The reference time is almost always given: by + date / time (not later than), by the time + present simple, before, in + period, this time next year."
+   ],
+   "exemples": [
+    ["By the end of the month, we'll have moved to Lille.", "The move will be complete before the end of the month."],
+    ["Don't worry, I'll have cooked dinner by the time you get home.", "By the time + present simple."],
+    ["In two years, they'll have built the new bridge.", "In + period."],
+    ["The film will have started before we get there.", "Before + present simple."]
+   ]
+  },
+  {
+   "titre": "By, by the time, until: be careful",
+   "texte": [
+    "By = not later than: the action will be done at that time or before. “I'll have finished by five” (at five at the latest, it will be done).",
+    "Until shows an action that continues up to a time; it goes with the future simple or continuous, not the future perfect: “I'll be working until five.”",
+    "By the time + present simple (not will): “By the time you read this email, I'll have left the company.”"
+   ],
+   "tableau": {
+    "entetes": ["Word", "Meaning", "Example"],
+    "lignes": [
+     ["by + time", "not later than", "I'll have finished by Friday."],
+     ["by the time + present", "when (something will already be done)", "By the time she arrives, we'll have eaten."],
+     ["in + period", "after that amount of time", "In ten minutes, I'll have finished."],
+     ["until + time", "continuing up to", "I'll stay until Friday. (no future perfect)"]
+    ]
+   },
+   "exemples": [
+    ["Can you send me the photos by Sunday?", "By = on Sunday at the latest."],
+    ["By the time the guests arrive, I'll have tidied the flat.", "By the time + present simple."]
+   ]
+  },
+  {
+   "titre": "Duration and progress reports",
+   "texte": [
+    "With for, the future perfect measures a period up to a future time, just as the present perfect does up to now: “Next June, I'll have worked here for ten years.”",
+    "We also use it for progress with numbers: “By the end of the tour, the band will have played in forty cities.”",
+    "To stress a continuing activity, we can use the future perfect continuous (will have been + -ing): “By December, she'll have been living in Canada for five years.” This form is less common and is mainly B2."
+   ],
+   "exemples": [
+    ["In September, we'll have been married for twenty years.", "Duration up to a future date."],
+    ["By the end of this course, you'll have learnt more than 500 new words.", "A progress report with a number."]
+   ]
+  },
+  {
+   "titre": "A guess about the present or past",
+   "texte": [
+    "In slightly formal English, will have + participle can express a guess about what has probably already happened: “Don't call him now; he'll have gone to bed.” Compare it with must have + participle (lesson 156)."
+   ],
+   "exemples": [
+    ["It's ten o'clock. The plane will have landed by now.", "It has probably landed already."]
+   ]
+  }
+ ],
+ "formule": "will have + past participle (By Friday, I'll have finished.) · by / by the time + present / in + period",
+ "prononciation": [
+  "will have reduces in speech: I'll have /aɪl əv/, she'll have /ʃiːl əv/. The h of have often disappears: “I'll've finished” /aɪləv ˈfɪnɪʃt/.",
+  "won't have /ˈwəʊnt əv/: the t joins have.",
+  "by is /baɪ/, like buy and bye; the stress usually falls on the time that follows: “by FRIDAY”.",
+  "Regular -ed participles end in /t/, /d/ or /ɪd/: finished /ˈfɪnɪʃt/, moved /muːvd/, started /ˈstɑːtɪd/."
+ ],
+ "erreurs": [
+  ["By Friday I will finish the report.", "By Friday I will have finished the report.", "Finished before a future time: will have + participle."],
+  ["I'll have finished until six.", "I'll have finished by six.", "Future perfect + by (not later than), not until."],
+  ["By the time you will arrive, we'll have eaten.", "By the time you arrive, we'll have eaten.", "After by the time: present simple."],
+  ["Next year I will work here for ten years.", "Next year I will have worked here for ten years.", "Duration up to a future time: future perfect."],
+  ["She will have finish by noon.", "She will have finished by noon.", "After have, use the past participle."],
+  ["Will you have finished by Monday? – Yes, I will have finished.", "Will you have finished by Monday? – Yes, I will.", "Short answer: Yes, I will (without have)."]
+ ],
+ "dialogue": {
+  "contexte": "A start-up in Brussels. The project manager, Nathalie, checks progress with her developer, Brice, who came from Yaoundé last year. The launch is in three weeks.",
+  "lignes": [
+   ["Nathalie", "The app launches on the 1st of December. Will you have finished the payment page by then?", "By then = before that date."],
+   ["Brice", "Yes. I'll have finished it by next Friday, and the tests will have been done by the 25th.", "Future perfect, active and passive."],
+   ["Nathalie", "Great. And the English version?", "A short question."],
+   ["Brice", "The translator won't have sent everything by then, I'm afraid. She'll be working on it until the 28th.", "Won't have sent; until + future continuous."],
+   ["Nathalie", "That's a bit late. By the time we check it, it'll be the 30th!", "By the time + present simple."],
+   ["Brice", "True. I'll ask her to send the main pages first.", "A decision made now: will."],
+   ["Nathalie", "Good idea. You know, by December you'll have been with us for a year.", "Duration up to a future time."],
+   ["Brice", "Already! And we'll have launched our first app together.", "Finished before December."]
+  ]
+ },
+ "mots": [
+  ["deadline", "The deadline is Friday: we'll have finished by then.", "the time by which something must be done"],
+  ["by then", "I'll have left by then.", "before or at that time"],
+  ["launch", "We'll have launched the product by June.", "to make a new product available"],
+  ["complete", "The work will have been completed by May.", "to finish"],
+  ["at the latest", "I'll send it by Monday at the latest.", "and not later than that"],
+  ["progress", "We've made good progress this week.", "movement towards finishing something (uncountable)"],
+  ["goal", "By the end of the year, I'll have reached my goal.", "something you want to achieve"],
+  ["anniversary", "Next year will be our tenth wedding anniversary.", "the same date as an important event in an earlier year"],
+  ["retire", "By 2035, my father will have retired.", "to stop working because of age"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Finished or in progress?",
+   "consigne": "Say if, at the time given, the action will be finished (F) or in progress (P).",
+   "items": [
+    ["At nine tomorrow, I'll be driving to work.", "P"],
+    ["By nine tomorrow, I'll have arrived at work.", "F"],
+    ["By the time you wake up, I'll have left.", "F"],
+    ["This time next week, we'll be skiing in Quebec.", "P"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb in the future perfect.",
+   "items": [
+    ["By 2030, scientists ___ (find) a cure for this disease.", "will have found"],
+    ["By the time you get here, we ___ (finish) dinner.", "will have finished ('ll have finished)"],
+    ["___ you ___ (read) the report by Monday?", "Will … have read"],
+    ["I'm afraid we ___ (not / repair) your car by Friday.", "won't have repaired"],
+    ["Next month, I ___ (live) in Brussels for five years.", "will have lived"]
+   ]
+  },
+  {
+   "titre": "3. By or until?",
+   "consigne": "Complete with by or until.",
+   "items": [
+    ["I'll have finished the painting ___ Saturday.", "by"],
+    ["We'll stay in Douala ___ the end of August.", "until"],
+    ["Please send me your answer ___ Friday at the latest.", "by"],
+    ["I'll be in the office ___ six, then I'll go home.", "until"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["By next week, I will finish this book.", "By next week, I will have finished this book."],
+    ["By the time we will arrive, the shop will have closed.", "By the time we arrive, the shop will have closed."],
+    ["They will have build the stadium by 2027.", "They will have built the stadium by 2027."],
+    ["I'll have written the report until tomorrow.", "I'll have written the report by tomorrow."]
+   ]
+  },
+  {
+   "titre": "5. Make predictions",
+   "consigne": "Write one sentence in the future perfect from the prompts.",
+   "items": [
+    ["I / finish this work / tonight", "I'll have finished this work by tonight (this evening)."],
+    ["by the time / you / arrive / we / leave", "By the time you arrive, we'll have left."],
+    ["in June / I / live in Canada / for ten years", "In June, I'll have lived in Canada for ten years. / By June, I'll have been living in Canada for ten years."],
+    ["you / receive the parcel / Monday? (question)", "Will you have received the parcel by Monday?"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Imagine your life in five years. Write 4–5 sentences in the future perfect: what you will have achieved, learnt, visited or changed (by then, by 2031, in five years).",
+   "items": [
+    ["Example answer", "In five years, I'll have finished my master's degree in Montreal. By then, I'll have passed the C1 exam in English. I'll have visited at least three new countries, including Ghana and Japan. By 2031, I'll have worked in my company for eight years, and maybe I'll have bought a small flat."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Form: will have + past participle; negative won't have + participle.",
+  "Use: an action will be finished before a future time.",
+  "With by (not later than), by the time + present, in + period — never until.",
+  "Duration up to a future time: Next year I'll have worked here for ten years.",
+  "Short answer: Yes, I will. / No, I won't."
+ ],
+ "liens": [91, 93, 94, 109],
+ "refs": ["bc-future-cont-perf", "bc-future-forms"]
+}

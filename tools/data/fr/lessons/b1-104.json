@@ -1,0 +1,487 @@
+{
+ "n": 104,
+ "niveau": "B1",
+ "titre": "Le discours indirect : affirmations",
+ "intro": "Le discours indirect sert à rapporter ce que quelqu'un a dit sans le citer mot à mot : « She said she was tired. » Il implique trois changements : les temps reculent, les pronoms s'adaptent et les repères de temps et de lieu changent. C'est indispensable pour raconter une conversation, un appel ou une réunion.",
+ "objectifs": [
+  "Utiliser say et tell correctement (tell + personne, say sans personne ou say to + personne).",
+  "Faire reculer les temps après un verbe introducteur au passé (am → was, will → would, have done → had done…).",
+  "Adapter les pronoms, les possessifs et les expressions de temps et de lieu (tomorrow → the next day, here → there).",
+  "Savoir quand le recul des temps n'est pas nécessaire (vérité toujours vraie, verbe introducteur au présent)."
+ ],
+ "sections": [
+  {
+   "titre": "Say ou tell ?",
+   "texte": [
+    "Say et tell signifient tous les deux « dire », mais leur construction est différente. Tell est toujours suivi de la personne à qui l'on parle (tell me, tell her, tell the manager). Say n'est pas suivi directement d'une personne ; si on veut la mentionner, on utilise say to.",
+    "That après say ou tell est facultatif, surtout à l'oral : « She told me (that) she was busy. »",
+    "Quelques expressions figées avec tell sans personne : tell the truth, tell a lie, tell a story, tell a joke, tell the time. Voir aussi la leçon 74 (say or tell)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verbe",
+     "Structure",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "say",
+      "say (that) + phrase",
+      "He said (that) he was hungry."
+     ],
+     [
+      "say to",
+      "say to + personne (rare au discours indirect)",
+      "He said to me that he was hungry."
+     ],
+     [
+      "tell",
+      "tell + personne + (that) + phrase",
+      "He told me (that) he was hungry."
+     ],
+     [
+      "tell (expressions)",
+      "tell the truth / a lie / a story",
+      "She told a funny story."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Amadou told his boss that he was ill.",
+     "Tell + personne."
+    ],
+    [
+     "Amadou said that he was ill.",
+     "Say sans personne."
+    ]
+   ]
+  },
+  {
+   "titre": "Le recul des temps (backshift)",
+   "texte": [
+    "Quand le verbe introducteur est au passé (said, told), le verbe rapporté recule en général d'un temps : le présent devient prétérit, le prétérit devient past perfect, will devient would, can devient could. C'est la même logique que la concordance des temps en français (« Il a dit qu'il était fatigué »).",
+    "Le past perfect, would, could, should, might et must (au sens d'obligation, souvent had to) ne changent pas, car ils ne peuvent pas reculer davantage."
+   ],
+   "tableau": {
+    "entetes": [
+     "Paroles directes",
+     "Discours indirect"
+    ],
+    "lignes": [
+     [
+      "“I am tired.” (présent simple)",
+      "She said she was tired."
+     ],
+     [
+      "“I'm working.” (présent continu)",
+      "She said she was working."
+     ],
+     [
+      "“I've finished.” (present perfect)",
+      "She said she had finished."
+     ],
+     [
+      "“I lost my keys.” (prétérit)",
+      "She said she had lost her keys. (à l'oral, aussi : she lost)"
+     ],
+     [
+      "“I will call you.” (will)",
+      "She said she would call me."
+     ],
+     [
+      "“I can help.” (can)",
+      "She said she could help."
+     ],
+     [
+      "“I must go.” (must)",
+      "She said she had to go. / She said she must go."
+     ],
+     [
+      "“I'm going to move.” (going to)",
+      "She said she was going to move."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Pronoms et possessifs",
+   "texte": [
+    "Les pronoms et les possessifs changent selon qui rapporte et à qui. Si Moussa me dit « I love my job », je rapporte : « Moussa said he loved his job. » Si Aminata me dit « I'll help you », je rapporte : « Aminata said she would help me. »",
+    "C'est logique, comme en français : il faut se mettre à la place de la personne qui rapporte."
+   ],
+   "exemples": [
+    [
+     "“I'm proud of you.” → My father told me he was proud of me.",
+     "I → he ; you → me."
+    ],
+    [
+     "“We've sold our house.” → They said they had sold their house.",
+     "we → they ; our → their."
+    ],
+    [
+     "“Your idea is great.” → She told me my idea was great.",
+     "your → my."
+    ]
+   ]
+  },
+  {
+   "titre": "Les repères de temps et de lieu",
+   "texte": [
+    "Si on rapporte les paroles plus tard ou ailleurs, les expressions de temps et de lieu changent : now → then / at that moment, today → that day, tomorrow → the next day / the following day, yesterday → the day before / the previous day, here → there, this → that.",
+    "Si on rapporte le jour même et au même endroit, on garde les mots d'origine : « She said she'd call me tomorrow » (si demain est toujours demain)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Paroles directes",
+     "Discours indirect (plus tard)"
+    ],
+    "lignes": [
+     [
+      "now",
+      "then / at that moment"
+     ],
+     [
+      "today / tonight",
+      "that day / that night"
+     ],
+     [
+      "tomorrow",
+      "the next day / the following day"
+     ],
+     [
+      "yesterday",
+      "the day before / the previous day"
+     ],
+     [
+      "next week",
+      "the following week"
+     ],
+     [
+      "last month",
+      "the month before / the previous month"
+     ],
+     [
+      "ago",
+      "before / earlier"
+     ],
+     [
+      "here / this",
+      "there / that"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "“I'll finish it tomorrow.” → He said he would finish it the next day.",
+     "Rapporté une semaine plus tard."
+    ],
+    [
+     "“I arrived two days ago.” → She said she had arrived two days before.",
+     "ago → before."
+    ]
+   ]
+  },
+  {
+   "titre": "Quand on ne recule pas les temps",
+   "texte": [
+    "Si le verbe introducteur est au présent (says, tells, has said), les temps ne changent pas : « She says she's tired » (elle le dit maintenant). C'est courant pour rapporter un message, un e-mail ou un texte qu'on vient de lire.",
+    "Si l'information est toujours vraie au moment où l'on parle, le recul est facultatif : « He said he lives in Lyon » (il y vit toujours) ou « He said he lived in Lyon ». Pour une vérité générale, on ne recule pas en général : « The teacher said that water boils at 100 °C. »"
+   ],
+   "exemples": [
+    [
+     "Mum says she's coming at six.",
+     "Verbe introducteur au présent : pas de recul."
+    ],
+    [
+     "She told me she's from Garoua.",
+     "Toujours vrai : recul facultatif."
+    ]
+   ]
+  }
+ ],
+ "formule": "said / told + personne + (that) + temps reculé (am → was, will → would, have done → had done)",
+ "prononciation": [
+  "said se prononce /sed/ (comme « bed »), jamais /seɪd/. says se prononce /sez/.",
+  "told /təʊld/ : le l est « sombre », la diphtongue comme dans « no ».",
+  "that conjonction est faible /ðət/ et souvent omis : « She told me (that) she was ill » /ʃi ˈtəʊld mi ʃi wəz ˈɪl/.",
+  "Le 'd contracté de would et de had est fréquent au discours indirect : « He said he'd call » (= would), « He said he'd left » (= had). Le mot suivant permet de choisir."
+ ],
+ "erreurs": [
+  [
+   "She said me that she was tired.",
+   "She told me that she was tired. / She said that she was tired.",
+   "Say n'est jamais suivi directement de la personne : tell me ou say (to me)."
+  ],
+  [
+   "He told that he was busy.",
+   "He told me that he was busy. / He said that he was busy.",
+   "Tell doit être suivi de la personne."
+  ],
+  [
+   "She said she will call me.",
+   "She said she would call me.",
+   "Après said : will → would."
+  ],
+  [
+   "He said he has finished.",
+   "He said he had finished.",
+   "Après said : present perfect → past perfect."
+  ],
+  [
+   "She said that she can't come tomorrow (rapporté la semaine suivante).",
+   "She said that she couldn't come the next day.",
+   "Can → could et tomorrow → the next day."
+  ],
+  [
+   "He said: he was hungry.",
+   "He said (that) he was hungry.",
+   "Pas de deux-points ni de guillemets au discours indirect."
+  ],
+  [
+   "My teacher told to us that the test was easy.",
+   "My teacher told us that the test was easy.",
+   "Tell + personne, sans to."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Un bureau à Lausanne, le lundi matin. Nadia raconte à sa collègue Claire l'appel qu'elle a reçu d'un client canadien vendredi.",
+  "lignes": [
+   [
+    "Claire",
+    "Did Mr Tremblay call back on Friday?",
+    "Est-ce que M. Tremblay a rappelé vendredi ?"
+   ],
+   [
+    "Nadia",
+    "Yes. He said he was very happy with our offer.",
+    "Oui. Il a dit qu'il était très content de notre offre."
+   ],
+   [
+    "Claire",
+    "Great! Did he say anything about the price?",
+    "Super ! Il a dit quelque chose au sujet du prix ?"
+   ],
+   [
+    "Nadia",
+    "He told me the price was fine, but he said they needed the products earlier.",
+    "Il m'a dit que le prix lui convenait, mais il a dit qu'ils avaient besoin des produits plus tôt."
+   ],
+   [
+    "Claire",
+    "How much earlier?",
+    "Combien de temps plus tôt ?"
+   ],
+   [
+    "Nadia",
+    "He said they had opened a new shop in Quebec City the week before and they would need everything by March.",
+    "Il a dit qu'ils avaient ouvert un nouveau magasin à Québec la semaine précédente et qu'ils auraient besoin de tout pour mars."
+   ],
+   [
+    "Claire",
+    "That's possible. Did he say he would sign?",
+    "C'est faisable. Il a dit qu'il signerait ?"
+   ],
+   [
+    "Nadia",
+    "He said he could sign the contract the next day if we agreed. And his assistant's email says she's sending it today!",
+    "Il a dit qu'il pourrait signer le contrat le lendemain si nous étions d'accord. Et le mail de son assistante dit qu'elle l'envoie aujourd'hui !"
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "say",
+   "She said she was ready.",
+   "dire (said, said)"
+  ],
+  [
+   "tell",
+   "He told me the news.",
+   "dire à, raconter (told, told)"
+  ],
+  [
+   "explain",
+   "He explained that the train was late.",
+   "expliquer"
+  ],
+  [
+   "mention",
+   "She mentioned that she had a new job.",
+   "mentionner"
+  ],
+  [
+   "add",
+   "He added that he would be late.",
+   "ajouter"
+  ],
+  [
+   "claim",
+   "The company claimed that its products were safe.",
+   "affirmer, prétendre"
+  ],
+  [
+   "the next day",
+   "She said she would call the next day.",
+   "le lendemain"
+  ],
+  [
+   "the day before",
+   "He said he had arrived the day before.",
+   "la veille"
+  ],
+  [
+   "message",
+   "The message said the meeting was cancelled.",
+   "le message"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Say ou tell ?",
+   "consigne": "Complète avec la bonne forme de say ou tell (au prétérit).",
+   "items": [
+    [
+     "She ___ me she was from Dakar.",
+     "told"
+    ],
+    [
+     "He ___ that the shop was closed.",
+     "said"
+    ],
+    [
+     "They ___ us the truth.",
+     "told"
+    ],
+    [
+     "I ___ to him that I was sorry.",
+     "said"
+    ],
+    [
+     "Can you ___ me the time, please?",
+     "tell"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Reculer les temps",
+   "consigne": "Rapporte ces paroles en commençant par « She said (that)… ».",
+   "items": [
+    [
+     "“I'm hungry.”",
+     "She said (that) she was hungry."
+    ],
+    [
+     "“I've lost my phone.”",
+     "She said (that) she had lost her phone."
+    ],
+    [
+     "“I'll be late.”",
+     "She said (that) she would be late."
+    ],
+    [
+     "“I can't swim.”",
+     "She said (that) she couldn't swim."
+    ],
+    [
+     "“I'm working from home today.” (rapporté la semaine suivante)",
+     "She said (that) she was working from home that day."
+    ]
+   ]
+  },
+  {
+   "titre": "3. Pronoms et repères de temps",
+   "consigne": "Rapporte les paroles (plus tard, ailleurs) avec told me.",
+   "items": [
+    [
+     "Paul: “I bought this car yesterday.”",
+     "Paul told me (that) he had bought that car the day before."
+    ],
+    [
+     "Ana: “We are moving to Toronto next month.”",
+     "Ana told me (that) they were moving to Toronto the following month."
+    ],
+    [
+     "My boss: “You can leave early tomorrow.”",
+     "My boss told me (that) I could leave early the next day."
+    ],
+    [
+     "Karim: “My sister lives here.”",
+     "Karim told me (that) his sister lived there."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    [
+     "He said me that he was tired.",
+     "He told me that he was tired. / He said that he was tired."
+    ],
+    [
+     "She told that she would come.",
+     "She told me that she would come. / She said that she would come."
+    ],
+    [
+     "They said they will help us.",
+     "They said they would help us."
+    ],
+    [
+     "He told to me that he had finished.",
+     "He told me that he had finished."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    [
+     "Elle m'a dit qu'elle était malade.",
+     "She told me (that) she was ill (sick)."
+    ],
+    [
+     "Il a dit qu'il viendrait le lendemain.",
+     "He said (that) he would come the next day."
+    ],
+    [
+     "Ils ont dit qu'ils avaient déjà mangé.",
+     "They said (that) they had already eaten."
+    ],
+    [
+     "Mon frère dit qu'il arrive à huit heures.",
+     "My brother says (that) he's arriving at eight."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Pense à une conversation récente (un appel, une réunion, une discussion en famille). Rapporte en 4 à 5 phrases ce que les gens ont dit, avec said et told.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "Yesterday my cousin called me from Douala. She told me she had passed her exams. She said she was going to study medicine in Yaoundé. She also said that our grandmother was feeling better. I told her I would visit them in December."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "tell + personne (told me) ; say sans personne (said that) ou say to + personne.",
+  "Après un verbe introducteur au passé : les temps reculent (is → was, will → would, has done → had done, can → could).",
+  "Pronoms, possessifs et repères changent selon qui rapporte (tomorrow → the next day, here → there).",
+  "Verbe introducteur au présent (says) : pas de recul.",
+  "Information toujours vraie : recul facultatif."
+ ],
+ "liens": [
+  74,
+  93,
+  105,
+  154,
+  155
+ ],
+ "refs": [
+  "bc-reported",
+  "bc-reporting-verbs"
+ ]
+}

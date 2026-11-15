@@ -1,0 +1,203 @@
+{
+"n": 21,
+"niveau": "A1",
+"titre": "Dire l’heure",
+"intro": "Demander et donner l’heure, dire à quelle heure commence un cours, un film ou un train : c’est indispensable au quotidien, et l’anglais le fait très différemment du français.",
+"objectifs": [
+ "Demander l’heure poliment (What time is it? / What's the time?).",
+ "Donner l’heure de deux façons : avec past et to (half past seven) et à la manière digitale (seven thirty).",
+ "Distinguer le matin et l’après-midi avec a.m., p.m., in the morning, in the evening.",
+ "Dire à quelle heure se passe quelque chose avec « at » (The film starts at eight)."
+],
+"sections": [
+ {
+  "titre": "Demander et donner l’heure",
+  "texte": [
+   "Pour demander l’heure, on dit « What time is it? » ou « What's the time? » (très courant en anglais britannique). À un inconnu, on est plus poli : « Excuse me, do you have the time? » ou « Have you got the time? ».",
+   "Pour répondre, on commence toujours par « It's » : le sujet « it » est obligatoire, comme pour la météo (leçon 1). On ne dit jamais « It's seven hours » : le mot « hours » ne sert pas à donner l’heure.",
+   "« O'clock » s’utilise seulement pour les heures pile : « It's seven o'clock. » On ne le met jamais avec des minutes."
+  ],
+  "exemples": [
+   ["What time is it? — It's three o'clock.", "Quelle heure est-il ? — Il est trois heures."],
+   ["Excuse me, have you got the time? — Yes, it's ten past four.", "Pardon, vous avez l’heure ? — Oui, il est quatre heures dix."],
+   ["It's nearly six.", "Il est presque six heures (nearly = presque)."]
+  ],
+  "note": "« Do you have the time? » (avec the) = « Vous avez l’heure ? ». Sans « the », « Do you have time? » veut dire « Tu as du temps (disponible) ? »."
+ },
+ {
+  "titre": "La façon traditionnelle : past et to",
+  "texte": [
+   "On donne d’abord les minutes, puis l’heure. De 1 à 30 minutes, on utilise « past » (après) ; de 31 à 59 minutes, on compte les minutes qui manquent avant l’heure suivante avec « to » (moins).",
+   "15 minutes = « a quarter », 30 minutes = « half ». On dit « a quarter past », « a quarter to », mais « half past » (jamais « a half past »).",
+   "Pour les minutes qui ne sont pas des multiples de 5, on ajoute le mot « minutes » : « It's twenty-two minutes past six. »"
+  ],
+  "tableau": {
+   "entetes": ["Heure", "Anglais", "Français"],
+   "lignes": [
+    ["7:00", "seven o'clock", "sept heures"],
+    ["7:05", "five past seven", "sept heures cinq"],
+    ["7:15", "a quarter past seven", "sept heures et quart"],
+    ["7:30", "half past seven", "sept heures et demie"],
+    ["7:40", "twenty to eight", "huit heures moins vingt"],
+    ["7:45", "a quarter to eight", "huit heures moins le quart"],
+    ["7:55", "five to eight", "huit heures moins cinq"]
+   ]
+  },
+  "note": "Piège : avec « to », on annonce l’heure suivante, comme en français avec « moins ». 7:45 = a quarter to EIGHT. En anglais américain, on entend aussi « a quarter after seven » (7:15) et « a quarter of eight » (7:45)."
+ },
+ {
+  "titre": "La façon digitale : on lit les chiffres",
+  "texte": [
+   "On peut aussi lire simplement l’heure puis les minutes, comme sur un écran. C’est plus facile, très fréquent, et indispensable pour les horaires de train, d’avion ou de rendez-vous.",
+   "De 01 à 09 minutes, on dit « oh » pour le zéro : 9:05 = « nine oh five ».",
+   "En Grande-Bretagne, on entend aussi « half seven » à l’oral familier : cela veut dire 7:30 (half past seven), jamais 6:30."
+  ],
+  "exemples": [
+   ["It's seven thirty.", "7:30 – sept heures trente."],
+   ["It's nine oh five.", "9:05 – neuf heures cinq (oh = zéro)."],
+   ["It's eleven forty-five.", "11:45 – onze heures quarante-cinq."],
+   ["The train leaves at eighteen twenty.", "18:20 – pour les horaires officiels, on lit l’horloge de 24 heures."]
+  ]
+ },
+ {
+  "titre": "Le matin, l’après-midi, le soir",
+  "texte": [
+   "Dans la conversation, les anglophones utilisent surtout l’horloge de 12 heures. Pour préciser, ils ajoutent « a.m. » (de minuit à midi) ou « p.m. » (de midi à minuit), ou bien « in the morning », « in the afternoon », « in the evening », « at night ».",
+   "On ne dit pas « It's 14 p.m. » : avec a.m. et p.m., on utilise seulement les chiffres de 1 à 12. « O'clock » ne se combine pas non plus avec a.m. / p.m. : on dit « 2 p.m. » ou « two o'clock in the afternoon »."
+  ],
+  "tableau": {
+   "entetes": ["Horloge 24 h", "Conversation", "Autre façon"],
+   "lignes": [
+    ["08:00", "eight a.m.", "eight o'clock in the morning"],
+    ["12:00", "twelve noon / midday", "twelve o'clock"],
+    ["14:00", "two p.m.", "two o'clock in the afternoon"],
+    ["19:30", "seven thirty p.m.", "half past seven in the evening"],
+    ["23:00", "eleven p.m.", "eleven o'clock at night"],
+    ["00:00", "midnight", "twelve o'clock at night"]
+   ]
+  },
+  "exemples": [
+   ["The shop opens at 9 a.m.", "Le magasin ouvre à 9 h."],
+   ["I finish work at six in the evening.", "Je finis le travail à 18 h."]
+  ]
+ },
+ {
+  "titre": "À quelle heure ? at, from… to, about",
+  "texte": [
+   "Pour dire quand se passe quelque chose, on utilise « at » devant l’heure (leçon 18) : « at seven », « at half past six ». La question est « What time…? » : « What time does the film start? ».",
+   "Pour une durée : « from nine to five » (de 9 h à 17 h). Pour une heure approximative : « at about eight » ou « around eight » (vers 8 h).",
+   "Trois expressions utiles : « early » (en avance, tôt), « late » (en retard, tard), « on time » (à l’heure)."
+  ],
+  "exemples": [
+   ["What time does the film start? — At a quarter past eight.", "À quelle heure commence le film ? — À huit heures et quart."],
+   ["I work from nine to five.", "Je travaille de 9 h à 17 h."],
+   ["Let's meet at about seven.", "Retrouvons-nous vers 19 h."],
+   ["The bus is never on time.", "Le bus n’est jamais à l’heure."]
+  ],
+  "note": "On ne dit pas « At what hour…? » : on dit « What time…? »."
+ }
+],
+"formule": "It's + heure : seven o'clock · ten past seven · half past seven · a quarter to eight · seven forty-five",
+"prononciation": [
+ "« o'clock » se prononce /əˈklɒk/ : le o du début est faible, l’accent est sur « clock ».",
+ "Dans « half » /hɑːf/, le l ne se prononce pas. Même chose dans « calm » ou « walk ».",
+ "« quarter » /ˈkwɔːtə/ : on entend un w après le k (kwo-), et le r final ne se prononce pas en anglais britannique.",
+ "Attention à l’accent : thirTEEN (13) mais THIRty (30), fifTEEN mais FIFty. Une erreur peut vous faire rater un train !",
+ "« past » /pɑːst/ et « to » /tə/ sont rapides et faibles dans la phrase : « ten past four » se dit presque « ten pas four »."
+],
+"erreurs": [
+ ["It is seven hours.", "It's seven o'clock.", "On ne donne pas l’heure avec « hours » ; « o'clock » pour une heure pile."],
+ ["It's seven and half.", "It's half past seven.", "« Et demie » se dit « half past » + l’heure."],
+ ["It's eight less ten.", "It's ten to eight.", "« Moins dix » = « ten to » : les minutes d’abord, puis l’heure."],
+ ["It's seven thirty o'clock.", "It's seven thirty.", "« O'clock » uniquement pour les heures pile, sans minutes."],
+ ["At what hour does it start?", "What time does it start?", "La question est « What time…? »."],
+ ["The meeting is on 10 a.m.", "The meeting is at 10 a.m.", "Devant une heure : « at »."],
+ ["It's 14 p.m.", "It's 2 p.m.", "Avec a.m. / p.m., on compte de 1 à 12."]
+],
+"dialogue": {
+ "contexte": "À la gare de Bruxelles-Midi, Lucie demande l’heure à un voyageur et cherche son train.",
+ "lignes": [
+  ["Lucie", "Excuse me, have you got the time?", "Pardon, vous avez l’heure ?"],
+  ["Tom", "Yes, it's twenty to five.", "Oui, il est cinq heures moins vingt."],
+  ["Lucie", "Thanks. What time is the next train to Paris?", "Merci. À quelle heure est le prochain train pour Paris ?"],
+  ["Tom", "Let me see… at five fifteen, from platform 3.", "Voyons… à 17 h 15, voie 3."],
+  ["Lucie", "A quarter past five? Great, I'm early!", "Cinq heures et quart ? Super, je suis en avance !"],
+  ["Tom", "Yes, but this train is often late.", "Oui, mais ce train est souvent en retard."],
+  ["Lucie", "Oh no. My meeting is at eight p.m.", "Oh non. Ma réunion est à 20 h."],
+  ["Tom", "Don't worry. It's only one hour and twenty minutes to Paris.", "Ne vous inquiétez pas. Paris n’est qu’à une heure vingt."]
+ ]
+},
+"mots": [
+ ["o'clock", "It's nine o'clock.", "heure pile (seulement pour les heures entières)"],
+ ["quarter", "It's a quarter past six.", "un quart (d’heure)"],
+ ["half", "It's half past ten.", "une demie, la moitié"],
+ ["minute", "The bus comes in five minutes.", "une minute"],
+ ["hour", "The film is two hours long.", "une heure (durée)"],
+ ["early", "We're early. The shop isn't open.", "tôt, en avance"],
+ ["late", "Sorry, I'm late!", "tard, en retard"],
+ ["on time", "The train is on time today.", "à l’heure"],
+ ["midday", "We have lunch at midday.", "midi"],
+ ["midnight", "The party ends at midnight.", "minuit"]
+],
+"exercices": [
+ {
+  "titre": "1. La façon traditionnelle",
+  "consigne": "Écris l’heure en lettres avec o'clock, past ou to.",
+  "items": [
+   ["7:00", "It's seven o'clock."],
+   ["7:15", "It's a quarter past seven."],
+   ["7:30", "It's half past seven."],
+   ["7:45", "It's a quarter to eight."],
+   ["8:10", "It's ten past eight."],
+   ["8:35", "It's twenty-five to nine."]
+  ]
+ },
+ {
+  "titre": "2. La façon digitale",
+  "consigne": "Écris l’heure comme on la lit sur un écran.",
+  "items": [
+   ["6:20", "It's six twenty."],
+   ["9:45", "It's nine forty-five."],
+   ["11:05", "It's eleven oh five."],
+   ["3:30", "It's three thirty."]
+  ]
+ },
+ {
+  "titre": "3. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Il est huit heures et demie.", "It's half past eight. (ou : It's eight thirty.)"],
+   ["Il est midi.", "It's twelve o'clock. / It's midday."],
+   ["Quelle heure est-il ?", "What time is it? / What's the time?"],
+   ["Le cours commence à neuf heures.", "The class starts at nine o'clock."],
+   ["Il est sept heures moins le quart.", "It's a quarter to seven."]
+  ]
+ },
+ {
+  "titre": "4. De 24 heures à 12 heures",
+  "consigne": "Écris l’heure avec a.m. ou p.m. ou avec in the morning / afternoon / evening.",
+  "items": [
+   ["14:00", "2 p.m. / two o'clock in the afternoon"],
+   ["21:30", "9.30 p.m. / half past nine in the evening"],
+   ["08:15", "8.15 a.m. / a quarter past eight in the morning"],
+   ["00:00", "midnight / twelve o'clock at night"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Décris ta journée en quatre phrases avec des heures : quand tu te lèves, quand tu commences et finis le travail ou les cours, quand tu te couches.",
+  "items": [
+   ["Exemple de réponse", "I get up at half past six. I start work at eight o'clock. I finish at a quarter to five. I go to bed at about eleven p.m."]
+  ]
+ }
+],
+"a_retenir": [
+ "Question : What time is it? / What's the time? Réponse : It's… (le sujet « it » est obligatoire).",
+ "Minutes d’abord : ten past seven (7:05… 7:30), twenty to eight (7:31… 7:59) ; a quarter, half past.",
+ "« O'clock » seulement pour les heures pile ; jamais « hours » pour donner l’heure.",
+ "Façon digitale : seven thirty, nine oh five ; a.m. avant midi, p.m. après midi (de 1 à 12).",
+ "À quelle heure ? → What time…? → at eight, at half past six."
+],
+"liens": [18, 20, 22, 6],
+"refs": ["bc-prep-time", "cam-using"]
+}

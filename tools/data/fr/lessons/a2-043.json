@@ -1,0 +1,204 @@
+{
+"n": 43,
+"niveau": "A2",
+"titre": "Le passé continu",
+"intro": "Le passé continu (past continuous) décrit une action en cours à un moment du passé : « j'étais en train de dîner quand tu as appelé ». Il sert à planter le décor d'une histoire et à montrer qu'une action en a interrompu une autre.",
+"objectifs": [
+"Former le passé continu avec was / were + verbe en -ing, à toutes les formes.",
+"Dire ce qu'on était en train de faire à un moment précis du passé.",
+"Combiner passé continu et prétérit avec when et while pour raconter une interruption.",
+"Savoir quand l'imparfait français ne se traduit pas par un passé continu."
+],
+"sections": [
+{
+"titre": "La forme",
+"texte": [
+"Le passé continu se construit avec le prétérit de « to be » (was / were, leçon 39) + le verbe en -ing. C'est le présent continu (leçon 8) transporté dans le passé : I am working → I was working.",
+"Négation : wasn't / weren't + -ing. Question : Was / Were + sujet + -ing ? Réponses courtes : Yes, I was. / No, they weren't."
+],
+"tableau": {
+"entetes": ["Sujet", "Affirmatif", "Négatif", "Question"],
+"lignes": [
+["I", "I was working", "I wasn't working", "Was I working?"],
+["you", "you were working", "you weren't working", "Were you working?"],
+["he / she / it", "she was working", "she wasn't working", "Was she working?"],
+["we", "we were working", "we weren't working", "Were we working?"],
+["they", "they were working", "they weren't working", "Were they working?"]
+]
+},
+"note": "Orthographe du -ing (comme au présent continu) : make → making, sit → sitting, lie → lying, study → studying."
+},
+{
+"titre": "Usage 1 : une action en cours à un moment précis",
+"texte": [
+"On l'utilise pour dire ce qui était en train de se passer à une heure ou un moment donné du passé. L'action avait commencé avant ce moment et a continué après.",
+"Repères fréquents : at 8 o'clock yesterday, at this time last week, all day / all evening, at midnight."
+],
+"exemples": [
+["At 9 p.m. yesterday, I was watching the news.", "Hier à 21 h, je regardais les infos."],
+["What were you doing at this time last year?", "Que faisais-tu à cette époque l'an dernier ?"],
+["It was raining all morning in Liège.", "Il a plu toute la matinée à Liège (pluie continue)."]
+]
+},
+{
+"titre": "Usage 2 : une action interrompue (when + prétérit)",
+"texte": [
+"On combine les deux temps : le passé continu pour l'action longue (le décor), le prétérit pour l'action courte qui survient et l'interrompt.",
+"« When » introduit généralement l'action courte au prétérit. La virgule s'ajoute quand la proposition avec when est en tête de phrase."
+],
+"tableau": {
+"entetes": ["Action longue (passé continu)", "Action courte (prétérit)"],
+"lignes": [
+["I was having a shower", "when the phone rang."],
+["We were walking home", "when it started to rain."],
+["She was driving to Ottawa", "when she saw the accident."]
+]
+},
+"exemples": [
+["When you called, I was cooking.", "Quand tu as appelé, j'étais en train de cuisiner."],
+["When you called, I cooked.", "Sens différent : tu as appelé, PUIS j'ai cuisiné (deux actions successives)."]
+]
+},
+{
+"titre": "Usage 3 : deux actions simultanées (while) et le décor",
+"texte": [
+"« While » (pendant que) relie deux actions longues qui se déroulent en même temps : on met les deux au passé continu. While peut aussi introduire l'action longue avant un prétérit.",
+"Au début d'une histoire, le passé continu décrit l'ambiance : ce qui se passait autour, avant que l'action principale commence."
+],
+"exemples": [
+["While I was studying, my brother was playing video games.", "Pendant que j'étudiais, mon frère jouait aux jeux vidéo."],
+["While we were waiting for the bus, we met an old friend.", "En attendant le bus, nous avons rencontré un vieil ami."],
+["The sun was shining and the birds were singing.", "Le soleil brillait et les oiseaux chantaient (décor)."]
+]
+},
+{
+"titre": "Imparfait français ≠ toujours passé continu",
+"texte": [
+"Piège majeur : l'imparfait français ne se traduit pas toujours par le passé continu. Pour une habitude passée, on utilise le prétérit ou « used to » (leçon 44). Pour un état (être, avoir, savoir, aimer…), on utilise le prétérit simple.",
+"Les verbes d'état (know, like, want, need, believe, belong, understand) ne se mettent normalement pas à la forme -ing, au passé comme au présent."
+],
+"tableau": {
+"entetes": ["Français (imparfait)", "Anglais", "Pourquoi"],
+"lignes": [
+["Je lisais quand il est arrivé.", "I was reading when he arrived.", "action en cours, interrompue"],
+["Le samedi, je jouais au foot.", "On Saturdays I played / used to play football.", "habitude passée"],
+["Je savais la réponse.", "I knew the answer.", "verbe d'état"],
+["Elle avait deux chats.", "She had two cats.", "possession = état"]
+]
+}
+}
+],
+"formule": "was / were + verbe-ing · action longue (was / were + -ing) + when + action courte (prétérit)",
+"prononciation": [
+"Dans une phrase affirmative, « was » et « were » sont réduits : was /wəz/, were /wə/ (GB) : I was working /aɪ wəz ˈwɜːkɪŋ/.",
+"Dans les réponses courtes et en fin de phrase, ils retrouvent leur forme pleine : Yes, I was /wɒz/. Yes, we were /wɜː/.",
+"« wasn't » /ˈwɒznt/ et « weren't » /wɜːnt/ ne sont jamais réduits.",
+"La terminaison -ing se prononce /ɪŋ/ : le g n'est pas prononcé comme un g dur, c'est un son nasal au fond de la bouche.",
+"Dans « When the phone rang, I was sleeping », l'accent porte sur les mots de sens : PHONE, RANG, SLEEPing."
+],
+"erreurs": [
+["I was knowing the answer.", "I knew the answer.", "« know » est un verbe d'état : pas de -ing."],
+["When I arrived, she cooking.", "When I arrived, she was cooking.", "L'auxiliaire was / were est obligatoire."],
+["They was playing football.", "They were playing football.", "they / we / you → were."],
+["I was watching TV when the lights were going out.", "I was watching TV when the lights went out.", "L'action courte qui interrompt est au prétérit."],
+["When I was child, I was playing outside every day.", "When I was a child, I played outside every day.", "Habitude passée : prétérit (ou used to), pas passé continu."],
+["While I cooked, the phone was ringing.", "While I was cooking, the phone rang.", "Action longue au passé continu, action courte au prétérit."],
+["Were you sleep at 11?", "Were you sleeping at 11?", "Question : Were + sujet + verbe-ing."]
+],
+"dialogue": {
+"contexte": "Au commissariat de Namur, un agent interroge un témoin après un petit accident de vélo.",
+"lignes": [
+["Officer", "Can you tell me what happened?", "Pouvez-vous me dire ce qui s'est passé ?"],
+["Léa", "Yes. I was waiting at the bus stop on Rue de Fer.", "Oui. J'attendais à l'arrêt de bus, rue de Fer."],
+["Officer", "What was the weather like?", "Quel temps faisait-il ?"],
+["Léa", "It was raining a little, and a lot of people were crossing the street.", "Il pleuvait un peu, et beaucoup de gens traversaient la rue."],
+["Officer", "And the cyclist?", "Et le cycliste ?"],
+["Léa", "He was riding very fast. He was looking at his phone while he was riding.", "Il roulait très vite. Il regardait son téléphone en roulant."],
+["Officer", "Was he wearing a helmet?", "Il portait un casque ?"],
+["Léa", "No, he wasn't. When the car stopped suddenly, he hit it and fell.", "Non. Quand la voiture s'est arrêtée brusquement, il l'a percutée et il est tombé."],
+["Officer", "Thank you. That's very helpful.", "Merci. C'est très utile."]
+]
+},
+"mots": [
+["while", "While I was cooking, he called.", "pendant que"],
+["suddenly", "Suddenly, the lights went out.", "soudain, tout à coup"],
+["ring", "The phone rang at midnight.", "sonner (ring – rang)"],
+["wait", "We were waiting for the train.", "attendre (wait for = attendre quelqu'un / quelque chose)"],
+["shine", "The sun was shining.", "briller"],
+["cross", "She was crossing the road.", "traverser"],
+["accident", "I saw an accident on the way to work.", "un accident"],
+["wear", "He was wearing a blue jacket.", "porter (un vêtement)"],
+["noise", "We heard a strange noise.", "un bruit"]
+],
+"exercices": [
+{
+"titre": "1. Was ou were ?",
+"consigne": "Complète avec was ou were.",
+"items": [
+["I ___ reading a book.", "was"],
+["They ___ having lunch.", "were"],
+["___ you working at 10?", "Were"],
+["The baby ___ sleeping.", "was"],
+["We ___ not listening.", "were"]
+]
+},
+{
+"titre": "2. Que faisaient-ils ?",
+"consigne": "Mets le verbe au passé continu.",
+"items": [
+["At 7 a.m., my parents ___ (have) breakfast.", "were having"],
+["At midnight, I ___ (not / sleep).", "wasn't sleeping"],
+["What ___ you ___ (do) at 6 p.m.?", "were … doing"],
+["It ___ (snow) when we left Montreal.", "was snowing"],
+["Kofi ___ (study) in the library all afternoon.", "was studying"]
+]
+},
+{
+"titre": "3. Passé continu ou prétérit ?",
+"consigne": "Choisis la bonne forme de chaque verbe.",
+"items": [
+["I ___ (walk) home when I ___ (see) Paul.", "was walking … saw"],
+["When the teacher ___ (come) in, the students ___ (talk).", "came … were talking"],
+["While she ___ (cook), she ___ (cut) her finger.", "was cooking … cut"],
+["We ___ (watch) a film when the electricity ___ (go) off.", "were watching … went"],
+["While I ___ (wash) the dishes, my sister ___ (dry) them.", "was washing … was drying"]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["They was waiting outside.", "They were waiting outside."],
+["I was wanting a coffee.", "I wanted a coffee."],
+["When he was calling, I was in the shower.", "When he called, I was in the shower."],
+["She was drive to work when it happened.", "She was driving to work when it happened."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais en choisissant le bon temps.",
+"items": [
+["Je dormais quand tu as téléphoné.", "I was sleeping when you phoned."],
+["Il pleuvait et il faisait froid.", "It was raining and it was cold."],
+["Elle avait une voiture rouge.", "She had a red car."],
+["Pendant qu'ils jouaient, nous préparions le repas.", "While they were playing, we were preparing the meal."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Raconte un moment où quelque chose d'inattendu s'est produit. Commence par décrire le décor (passé continu), puis l'événement (prétérit).",
+"items": [
+["Exemple de réponse", "Last Friday evening I was sitting on my balcony in Abidjan. The sun was going down and my neighbours were playing music. Suddenly, I heard a loud noise. A big branch fell from the tree onto my neighbour's car! Luckily, nobody was standing near it."]
+]
+}
+],
+"a_retenir": [
+"Passé continu = was / were + verbe-ing.",
+"Il décrit une action en cours à un moment précis du passé, ou le décor d'une histoire.",
+"Action longue (passé continu) interrompue par une action courte (prétérit) : I was cooking when you called.",
+"While + deux actions longues simultanées.",
+"Pas de passé continu pour les verbes d'état ni pour les habitudes passées (prétérit ou used to)."
+],
+"liens": [8, 39, 41, 42, 44],
+"refs": ["bc-past-cont", "cam-verbs"]
+}

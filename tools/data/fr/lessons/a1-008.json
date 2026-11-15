@@ -1,0 +1,217 @@
+{
+ "n": 8,
+ "niveau": "A1",
+ "titre": "Le présent continu",
+ "intro": "Le présent continu (be + verbe en -ing) décrit ce qui se passe en ce moment ou en ce moment de la vie, de façon temporaire. Le français dit souvent simplement « je travaille » ; l'anglais doit choisir, et c'est ici qu'on apprend à le faire.",
+ "objectifs": [
+  "Former le présent continu : am / is / are + verbe-ing, à toutes les formes.",
+  "Appliquer les règles d'orthographe du -ing (making, running, lying).",
+  "Utiliser le présent continu pour une action en cours, une situation temporaire et un changement en train de se produire.",
+  "Reconnaître les mots signaux : now, at the moment, today, this week, Look!, Listen!"
+ ],
+ "sections": [
+  {
+   "titre": "La forme : be + verbe-ing",
+   "texte": [
+    "Le présent continu se forme avec le verbe « to be » au présent (am, is, are) suivi du verbe en -ing. Toutes les règles de « to be » vues aux leçons 1 et 4 s'appliquent : formes courtes, négation avec not, question par inversion, réponses courtes avec be.",
+    "Le verbe en -ing ne change jamais selon le sujet : c'est « be » qui s'accorde."
+   ],
+   "tableau": {
+    "entetes": ["", "Exemple", "Traduction"],
+    "lignes": [
+     ["Affirmation", "I'm working. / She's working. / They're working.", "Je travaille (en ce moment)…"],
+     ["Négation", "I'm not working. / He isn't working. / We aren't working.", "Je ne travaille pas (en ce moment)…"],
+     ["Question", "Are you working? / Is she working?", "Tu travailles (en ce moment) ?"],
+     ["Réponse courte", "Yes, I am. / No, she isn't.", "Oui. / Non."],
+     ["Question en Wh-", "What are you doing? / Where is he going?", "Qu'est-ce que tu fais ? / Où va-t-il ?"]
+    ]
+   },
+   "exemples": [
+    ["I'm cooking dinner.", "Je prépare le dîner (en ce moment)."],
+    ["They aren't listening.", "Ils n'écoutent pas."],
+    ["What are you reading? — A novel.", "Qu'est-ce que tu lis ? — Un roman."]
+   ]
+  },
+  {
+   "titre": "L'orthographe du -ing",
+   "texte": [
+    "La plupart des verbes ajoutent simplement -ing. Trois règles changent l'orthographe.",
+    "Le doublement concerne les verbes d'une syllabe terminés par consonne + voyelle + consonne (run, sit, stop), et les verbes de deux syllabes accentués sur la dernière (beGIN → beginning). On ne double pas w, x, y : snow → snowing, fix → fixing, play → playing."
+   ],
+   "tableau": {
+    "entetes": ["Règle", "Exemples"],
+    "lignes": [
+     ["cas général : + ing", "work → working, eat → eating, play → playing, study → studying"],
+     ["e muet final : on le supprime", "make → making, write → writing, come → coming, dance → dancing"],
+     ["consonne + voyelle + consonne : on double", "run → running, sit → sitting, swim → swimming, stop → stopping, begin → beginning"],
+     ["-ie → -ying", "lie → lying, die → dying, tie → tying"],
+     ["-ee : on garde tout", "see → seeing, agree → agreeing"]
+    ]
+   },
+   "note": "Britannique / américain : travel → travelling (GB) / traveling (US). En anglais britannique, on double le l final même quand l'accent n'est pas sur la dernière syllabe."
+  },
+  {
+   "titre": "Usage 1 : ce qui se passe maintenant",
+   "texte": [
+    "Le premier usage est une action en cours au moment où l'on parle. En français, on peut dire « je suis en train de » ; en anglais, le présent continu est obligatoire, même quand le français dit simplement « je mange ».",
+    "Mots signaux : now, right now, at the moment, at present. Les impératifs « Look! » et « Listen! » attirent l'attention sur une action en cours."
+   ],
+   "exemples": [
+    ["Sorry, I can't talk. I'm driving.", "Désolé, je ne peux pas parler. Je conduis."],
+    ["Look! It's raining.", "Regarde ! Il pleut."],
+    ["Listen! Someone is knocking at the door.", "Écoute ! Quelqu'un frappe à la porte."],
+    ["The children are sleeping right now.", "Les enfants dorment en ce moment."]
+   ]
+  },
+  {
+   "titre": "Usage 2 : une situation temporaire, autour de maintenant",
+   "texte": [
+    "Le présent continu décrit aussi une activité qui dure quelque temps autour du moment présent, même si on ne la fait pas à la seconde où l'on parle. L'idée est « en ce moment de ma vie, pour une période limitée ».",
+    "Mots signaux : today, this week, this month, this year, these days, currently.",
+    "Comparer : « I live in Lyon » (présent simple : c'est ma situation permanente) / « I'm living in Lyon this year » (présent continu : c'est temporaire)."
+   ],
+   "exemples": [
+    ["I'm reading a very good book this week.", "Je lis un très bon livre cette semaine (pas forcément maintenant)."],
+    ["She's working from home today.", "Elle travaille de chez elle aujourd'hui (d'habitude, non)."],
+    ["We're learning Spanish this year.", "Nous apprenons l'espagnol cette année."]
+   ]
+  },
+  {
+   "titre": "Usage 3 : un changement en cours",
+   "texte": [
+    "On utilise aussi le présent continu pour une situation qui évolue progressivement, souvent avec des verbes comme get (devenir), become, change, grow, increase, improve.",
+    "Ce temps sert enfin à parler de rendez-vous futurs déjà organisés (I'm meeting Paul tomorrow). Cet usage sera étudié en détail à la leçon 50 : pour l'instant, retiens seulement qu'il existe."
+   ],
+   "exemples": [
+    ["It's getting cold.", "Il commence à faire froid (ça se refroidit)."],
+    ["Your English is improving!", "Ton anglais s'améliore !"],
+    ["Prices are going up.", "Les prix augmentent."]
+   ]
+  },
+  {
+   "titre": "Les verbes qui refusent le -ing",
+   "texte": [
+    "Certains verbes décrivent un état et non une action : like, love, hate, want, need, know, understand, believe, remember, own, belong. On les emploie au présent simple, même pour le moment présent : I want a coffee now (pas « I'm wanting »). La leçon 9 détaille ce point et la comparaison complète des deux présents.",
+    "« Have » au sens de posséder suit la même règle (I have a car), mais « have » au sens d'une action accepte le -ing : I'm having lunch (je déjeune)."
+   ],
+   "exemples": [
+    ["I don't understand. ✓ / I'm not understanding. ✗", "Verbe d'état : présent simple."],
+    ["She's having a shower. ✓", "« have » = action (prendre une douche) : -ing possible."]
+   ]
+  }
+ ],
+ "formule": "sujet + am / is / are (+ not) + verbe-ing · Am / Is / Are + sujet + verbe-ing ?",
+ "prononciation": [
+  "La terminaison -ing se prononce /ɪŋ/ : un i court suivi d'un son nasal fait au fond de la bouche, sans faire entendre de g dur. Ne dis pas « -ine » ni « -inGue ».",
+  "En anglais familier, on entend souvent /ɪn/ (« workin' ») : à reconnaître, mais à ne pas imiter à l'écrit.",
+  "Les formes courtes se lient au sujet : I'm /aɪm/, she's /ʃiːz/, they're /ðeə/. Dans la phrase, le verbe en -ing porte l'accent : I'm WORking.",
+  "Dans « What are you doing? », « are » est faible : /wɒt ə jə ˈduːɪŋ/, souvent entendu « Whatcha doing? » en familier.",
+  "Les verbes doublés gardent un son court : running /ˈrʌnɪŋ/ (u court), à comparer avec writing /ˈraɪtɪŋ/ (i long)."
+ ],
+ "erreurs": [
+  ["I working now.", "I'm working now.", "Le présent continu a besoin de « be »."],
+  ["Look! It rains.", "Look! It's raining.", "Action en cours maintenant → présent continu."],
+  ["She is writeing a letter.", "She is writing a letter.", "On supprime le e muet avant -ing."],
+  ["They are runing.", "They are running.", "Consonne + voyelle + consonne : on double la consonne."],
+  ["Do you working today?", "Are you working today?", "La question se fait avec be, pas avec do."],
+  ["I'm wanting a coffee.", "I want a coffee.", "« Want » est un verbe d'état : présent simple."],
+  ["He is lieing.", "He is lying.", "-ie devient -ying."]
+ ],
+ "dialogue": {
+  "contexte": "Un samedi après-midi, Malik, à Bruxelles, appelle sa sœur Inès, qui est à Toulouse.",
+  "lignes": [
+   ["Malik", "Hi, Inès! What are you doing?", "Salut, Inès ! Qu'est-ce que tu fais ?"],
+   ["Inès", "Hi! I'm sitting in a café with Zoé. We're having a hot chocolate.", "Salut ! Je suis assise dans un café avec Zoé. On boit un chocolat chaud."],
+   ["Malik", "Nice! It's raining here. Is it raining in Toulouse?", "Sympa ! Il pleut ici. Il pleut à Toulouse ?"],
+   ["Inès", "No, it isn't. The sun is shining. Are you working today?", "Non. Le soleil brille. Tu travailles aujourd'hui ?"],
+   ["Malik", "No, I'm not. I'm painting my new flat this weekend.", "Non. Je peins mon nouvel appartement ce week-end."],
+   ["Inès", "Wow! Is Sami helping you?", "Waouh ! Sami t'aide ?"],
+   ["Malik", "Yes, he is, but he's sleeping on the sofa right now!", "Oui, mais il dort sur le canapé en ce moment !"],
+   ["Inès", "Ha ha! Typical Sami. Send me a photo!", "Ha ha ! C'est bien Sami. Envoie-moi une photo !"]
+  ]
+ },
+ "mots": [
+  ["now", "I'm busy now.", "maintenant"],
+  ["at the moment", "She's working at the moment.", "en ce moment"],
+  ["wait", "I'm waiting for the bus.", "attendre"],
+  ["rain", "It's raining again.", "pleuvoir"],
+  ["wear", "He's wearing a blue shirt.", "porter (un vêtement)"],
+  ["look", "Look! The baby is smiling.", "regarder"],
+  ["listen", "Listen! The birds are singing.", "écouter"],
+  ["sit", "We're sitting in the garden.", "être assis, s'asseoir"],
+  ["cook", "Dad is cooking dinner.", "cuisiner, faire la cuisine"],
+  ["improve", "Your English is improving.", "s'améliorer"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. L'orthographe du -ing",
+   "consigne": "Écris la forme en -ing.",
+   "items": [
+    ["make", "making"],
+    ["swim", "swimming"],
+    ["play", "playing"],
+    ["lie", "lying"],
+    ["write", "writing"],
+    ["stop", "stopping"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Mets le verbe au présent continu.",
+   "items": [
+    ["Be quiet! The baby ___ (sleep).", "is sleeping"],
+    ["We ___ (not / watch) TV. You can turn it off.", "aren't watching"],
+    ["___ you ___ (wait) for the bus?", "Are … waiting"],
+    ["Look! Those men ___ (run) to the station.", "are running"],
+    ["I ___ (study) for an exam this week.", "am studying / 'm studying"]
+   ]
+  },
+  {
+   "titre": "3. Questions et réponses courtes",
+   "consigne": "Pose la question au présent continu, puis donne la réponse courte indiquée.",
+   "items": [
+    ["you / work / today? (non)", "Are you working today? — No, I'm not."],
+    ["it / rain / in Brussels? (oui)", "Is it raining in Brussels? — Yes, it is."],
+    ["your parents / travel / this month? (oui)", "Are your parents travelling this month? — Yes, they are."],
+    ["Léo / listen? (non)", "Is Léo listening? — No, he isn't."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["She cooking dinner now.", "She's cooking dinner now. / She is cooking dinner now."],
+    ["Listen! Someone sings.", "Listen! Someone is singing."],
+    ["Do you waiting for me?", "Are you waiting for me?"],
+    ["I'm knowing the answer.", "I know the answer."],
+    ["They are siting in the garden.", "They are sitting in the garden."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Regarde ! Il neige.", "Look! It's snowing."],
+    ["Qu'est-ce que tu fais ? — Je lis.", "What are you doing? — I'm reading."],
+    ["Elle travaille de chez elle cette semaine.", "She's working from home this week."],
+    ["Il commence à faire chaud.", "It's getting hot. / It's getting warm."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris quatre phrases au présent continu : ce que tu fais maintenant, ce que fait une personne près de toi, un projet temporaire de cette semaine ou de ce mois, et un changement en cours.",
+   "items": [
+    ["Exemple de réponse", "I'm sitting at my desk and I'm doing this exercise. My son is playing in the garden. This month I'm learning to drive. It's getting dark outside."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "am / is / are + verbe-ing ; négation avec not ; question par inversion de be (jamais do).",
+  "Orthographe : making (e supprimé), running (consonne doublée), lying (-ie → -y).",
+  "Usages : action en cours (now, Look!), situation temporaire (this week), changement (It's getting cold).",
+  "Verbes d'état (want, know, like, understand) : présent simple, pas de -ing.",
+  "Le français « je mange » peut correspondre à I eat (habitude) ou à I'm eating (maintenant) : il faut choisir."
+ ],
+ "liens": [1, 4, 6, 9, 50],
+ "refs": ["bc-a1a2", "cam-verbs"]
+}

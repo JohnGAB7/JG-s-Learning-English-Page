@@ -1,0 +1,207 @@
+{
+ "n": 132,
+ "niveau": "B1",
+ "titre": "Comparer des options",
+ "intro": "Choisir un fournisseur, un logement, un forfait téléphonique ou une date de réunion : il faut souvent peser le pour et le contre de plusieurs options avant de décider. Cette leçon révise les comparatifs et superlatifs, puis t'apprend à nuancer (much cheaper, slightly longer, not as… as) et à présenter avantages, inconvénients et recommandation.",
+ "objectifs": [
+  "Comparer deux options ou plus avec les comparatifs, les superlatifs et as… as.",
+  "Nuancer une comparaison : much, far, a lot, a bit, slightly, nearly, twice as…",
+  "Présenter les avantages et les inconvénients (on the one hand, the main advantage, the downside).",
+  "Faire une recommandation argumentée (I'd go for…, On balance…, It depends on…)."
+ ],
+ "sections": [
+  {
+   "titre": "Rappel : comparatif, superlatif, as… as",
+   "texte": [
+    "Adjectif court (une syllabe, ou deux syllabes en -y) : -er / the -est (cheap → cheaper → the cheapest ; easy → easier → the easiest). Adjectif long : more / the most (expensive → more expensive → the most expensive). Irréguliers : good → better → the best ; bad → worse → the worst ; far → further / farther → the furthest.",
+    "On compare avec than : This flat is bigger than that one. Pour l'égalité : as + adjectif + as (The train is as fast as the car). Pour l'infériorité, l'anglais préfère not as… as à less… than, surtout avec les adjectifs courts : The bus is not as fast as the train (plus naturel que « less fast than »)."
+   ],
+   "tableau": {
+    "entetes": ["Adjectif", "Comparatif", "Superlatif"],
+    "lignes": [
+     ["cheap", "cheaper", "the cheapest"],
+     ["big", "bigger (consonne doublée)", "the biggest"],
+     ["easy", "easier (y → i)", "the easiest"],
+     ["reliable", "more reliable", "the most reliable"],
+     ["good", "better", "the best"],
+     ["bad", "worse", "the worst"],
+     ["far", "further / farther", "the furthest / the farthest"]
+    ]
+   },
+   "exemples": [
+    ["Option B is cheaper than option A.", "L'option B est moins chère que l'option A."],
+    ["The second hotel is not as comfortable as the first.", "Le deuxième hôtel n'est pas aussi confortable que le premier."]
+   ]
+  },
+  {
+   "titre": "Nuancer : beaucoup, un peu, deux fois plus",
+   "texte": [
+    "Devant un comparatif, on précise l'écart : much, far, a lot (beaucoup), a bit, a little, slightly (un peu), even (encore). On ne dit jamais « very cheaper » : very ne se met que devant l'adjectif simple (very cheap).",
+    "Avec as… as : just as (tout aussi), nearly / almost as (presque aussi), not quite as (pas tout à fait aussi), nowhere near as (loin d'être aussi). Pour les multiples : twice as expensive as, three times as big as (ou three times bigger than)."
+   ],
+   "tableau": {
+    "entetes": ["Nuance", "Exemple", "Sens"],
+    "lignes": [
+     ["much / far / a lot + comparatif", "The new laptop is much faster.", "beaucoup plus rapide"],
+     ["a bit / slightly + comparatif", "It's slightly more expensive.", "un peu plus cher"],
+     ["even + comparatif", "The third option is even better.", "encore meilleure"],
+     ["just as… as", "The bus is just as quick as the train.", "tout aussi rapide"],
+     ["nearly / almost as… as", "It's nearly as good as the original.", "presque aussi bon"],
+     ["not quite as… as", "It's not quite as big as ours.", "pas tout à fait aussi grand"],
+     ["twice as… as", "Rent here is twice as high as in Liège.", "deux fois plus élevé"]
+    ]
+   },
+   "exemples": [
+    ["Flying is far quicker, but it's a lot more expensive.", "Deux nuances fortes."],
+    ["The 4G plan is slightly cheaper than the fibre plan.", "Écart faible : slightly."]
+   ]
+  },
+  {
+   "titre": "Avantages et inconvénients",
+   "texte": [
+    "Pour présenter le pour et le contre : The main advantage of… is (that)… / One drawback is (that)… / The downside is… / On the plus side,… / On the other hand,… La paire on the one hand… on the other hand… est un peu formelle ; à l'oral, on dit souvent simply « …but on the other hand… ».",
+    "Après advantage of / disadvantage of, on met un nom ou un -ing : The advantage of working from home is the flexibility. Pour comparer deux choses entre elles : compared with / compared to, whereas, while : The train takes four hours, whereas the plane takes one."
+   ],
+   "exemples": [
+    ["The main advantage of the first flat is the location.", "Advantage of + nom."],
+    ["One drawback of living in the city centre is the noise.", "Drawback of + -ing."],
+    ["Compared with Montreal, Quebec City is quieter.", "Compared with / to = par rapport à."],
+    ["Option A is cheaper, whereas option B is more flexible.", "Whereas = alors que (contraste)."]
+   ]
+  },
+  {
+   "titre": "Recommander et décider",
+   "texte": [
+    "Pour donner sa préférence : I'd go for… / I'd choose… / I'd rather… / If I were you, I'd… Pour peser les arguments : On balance,… / All things considered,… / Overall,… Pour dire que le choix n'est pas évident : It depends on… / It's a trade-off between price and quality.",
+    "Le superlatif sert à conclure : It's the best value for money. / It's by far the most practical option. By far renforce un superlatif (by far the cheapest = de loin le moins cher)."
+   ],
+   "exemples": [
+    ["On balance, I'd go for the second supplier.", "Tout bien pesé, je choisirais le deuxième fournisseur."],
+    ["It depends on how much you want to spend.", "Ça dépend de combien tu veux dépenser (on, pas of)."],
+    ["This is by far the most reliable option.", "De loin l'option la plus fiable."]
+   ]
+  },
+  {
+   "titre": "Pièges et différences de registre",
+   "texte": [
+    "The + comparatif, the + comparatif exprime une progression : The sooner we decide, the better (plus tôt on décide, mieux c'est). La structure est figée : pas de « more » en plus quand il y a déjà -er.",
+    "Pour deux éléments, le comparatif suffit souvent même à l'oral : Which is better, the red one or the blue one? (better, pas « the best », dans l'usage soigné). Less + nom indénombrable, fewer + nom pluriel : less traffic, fewer cars (à l'oral, beaucoup de natifs disent « less cars », mais c'est critiqué à l'écrit)."
+   ],
+   "exemples": [
+    ["The more you practise, the easier it gets.", "Plus tu t'entraînes, plus ça devient facile."],
+    ["There are fewer trains on Sundays, and less traffic.", "Fewer + pluriel, less + indénombrable."]
+   ]
+  }
+ ],
+ "formule": "A is much / slightly + comparatif + than B · A is (not) as + adj. + as B · The main advantage of… is… · On balance, I'd go for…",
+ "prononciation": [
+  "Than et as sont des formes faibles : than /ðən/, as /əz/. « bigger than mine » se dit /ˈbɪɡə ðən maɪn/.",
+  "Dans « as good as », seul l'adjectif est accentué : /əz ˈɡʊd əz/.",
+  "Le -er final est un schwa en anglais britannique : cheaper /ˈtʃiːpə/ ; en américain, on entend le r : /ˈtʃiːpɚ/.",
+  "Accentue le mot qui porte la nuance pour la mettre en valeur : « It's MUCH cheaper », « It's only SLIGHTLY longer ».",
+  "advantage /ədˈvɑːntɪdʒ/ (GB), /ədˈvæntɪdʒ/ (US) : accent sur la deuxième syllabe, pas sur la première comme en français."
+ ],
+ "erreurs": [
+  ["It's more cheaper than the other one.", "It's cheaper than the other one.", "Pas de more avec un comparatif en -er."],
+  ["This option is very better.", "This option is much better.", "Very ne s'emploie pas devant un comparatif : much, far, a lot."],
+  ["The train is as fast than the car.", "The train is as fast as the car.", "As… as, jamais as… than."],
+  ["It depends of the price.", "It depends on the price.", "Depend on, pas of."],
+  ["It's the more expensive of the three.", "It's the most expensive of the three.", "Pour plus de deux éléments : superlatif."],
+  ["The advantage is to have more space.", "The advantage is that you have more space. / The advantage is having more space.", "Après advantage : that + proposition ou -ing, rarement to + verbe."],
+  ["Paris is more big than Lyon.", "Paris is bigger than Lyon.", "Adjectif d'une syllabe : -er."]
+ ],
+ "dialogue": {
+  "contexte": "À Bruxelles, Sofia et son collègue Kwame doivent choisir une salle pour le séminaire annuel de leur entreprise.",
+  "lignes": [
+   ["Sofia", "So, we've got two venues left: the hotel in the centre and the conference centre near the airport.", "Bon, il nous reste deux lieux : l'hôtel du centre et le centre de conférences près de l'aéroport."],
+   ["Kwame", "The hotel is much more convenient for the people coming by train.", "L'hôtel est bien plus pratique pour ceux qui viennent en train."],
+   ["Sofia", "True, but it's nearly twice as expensive as the conference centre.", "C'est vrai, mais il est presque deux fois plus cher que le centre de conférences."],
+   ["Kwame", "Is the conference centre big enough for eighty people?", "Le centre de conférences est-il assez grand pour quatre-vingts personnes ?"],
+   ["Sofia", "Yes, the main room is slightly bigger than the hotel's, and the equipment is newer.", "Oui, la salle principale est un peu plus grande que celle de l'hôtel, et l'équipement est plus récent."],
+   ["Kwame", "The only drawback is that there are fewer restaurants around it.", "Le seul inconvénient, c'est qu'il y a moins de restaurants autour."],
+   ["Sofia", "They offer catering, so that's not a problem. On balance, I'd go for the conference centre.", "Ils proposent un traiteur, donc ce n'est pas un problème. Tout bien pesé, je choisirais le centre de conférences."],
+   ["Kwame", "Agreed. The sooner we book, the better.", "D'accord. Plus tôt on réserve, mieux c'est."]
+  ]
+ },
+ "mots": [
+  ["option", "We have three options to choose from.", "l'option, le choix possible"],
+  ["advantage", "The main advantage is the price.", "l'avantage"],
+  ["drawback", "The only drawback is the distance.", "l'inconvénient"],
+  ["downside", "The downside of this plan is the long contract.", "le revers, l'inconvénient"],
+  ["affordable", "The second flat is more affordable.", "abordable (prix)"],
+  ["reliable", "This supplier is more reliable.", "fiable"],
+  ["value for money", "This laptop is good value for money.", "un bon rapport qualité-prix"],
+  ["whereas", "Rent is high in Paris, whereas it's lower in Lille.", "alors que, tandis que"],
+  ["on balance", "On balance, the train is the best choice.", "tout bien pesé"],
+  ["trade-off", "There's a trade-off between speed and cost.", "le compromis (entre deux avantages)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Comparatif ou superlatif ?",
+   "consigne": "Mets l'adjectif entre parenthèses à la bonne forme.",
+   "items": [
+    ["The train is ___ than the bus. (fast)", "faster"],
+    ["This is ___ hotel in the city. (expensive)", "the most expensive"],
+    ["My new phone is ___ than my old one. (good)", "better"],
+    ["The traffic is ___ today than yesterday. (bad)", "worse"],
+    ["Which is ___ option of the three? (easy)", "the easiest"]
+   ]
+  },
+  {
+   "titre": "2. Nuancer",
+   "consigne": "Complète avec much, slightly, as, than, twice ou by far.",
+   "items": [
+    ["The flight is ___ quicker than the train: one hour instead of five.", "much"],
+    ["The blue sofa is ___ cheaper, only five euros less.", "slightly"],
+    ["The bus is not as comfortable ___ the train.", "as"],
+    ["Rent in Toronto is ___ as high as in my town: double!", "twice"],
+    ["It's ___ the best restaurant in Douala.", "by far"]
+   ]
+  },
+  {
+   "titre": "3. Reformuler",
+   "consigne": "Réécris la phrase avec le mot entre parenthèses sans changer le sens.",
+   "items": [
+    ["The car is faster than the bus. (not as)", "The bus is not as fast as the car."],
+    ["Option A costs 100 €, option B costs 200 €. (twice)", "Option B is twice as expensive as option A."],
+    ["The hotel is good. The guesthouse is good too. (just as)", "The guesthouse is just as good as the hotel."],
+    ["If we decide quickly, it will be better. (the sooner)", "The sooner we decide, the better."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["This plan is more cheaper.", "This plan is cheaper."],
+    ["It depends of the weather.", "It depends on the weather."],
+    ["The second option is very better.", "The second option is much better."],
+    ["There are less cars in the village.", "There are fewer cars in the village."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Ce forfait est un peu plus cher, mais il est beaucoup plus fiable.", "This plan is slightly more expensive, but it's much (far) more reliable."],
+    ["Le principal avantage de cet appartement, c'est l'emplacement.", "The main advantage of this flat is the location."],
+    ["Tout bien pesé, je choisirais le train.", "On balance, I'd go for (choose) the train."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Compare deux options de ton choix (deux villes, deux téléphones, deux moyens de transport…) en 5 à 6 phrases : différences, avantages, inconvénients et recommandation.",
+   "items": [
+    ["Exemple de réponse", "To go from Brussels to Paris, you can take the train or the bus. The train is much faster: it takes about an hour and a half, whereas the bus takes four hours. However, the bus is far cheaper, often three times cheaper than the train. The main advantage of the bus is the price, but the downside is that it's not as comfortable. On balance, I'd go for the train if I had a meeting, and the bus for a weekend trip."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Court : -er / the -est ; long : more / the most ; good → better → the best, bad → worse → the worst.",
+  "Devant un comparatif : much, far, a lot, a bit, slightly, even — jamais very.",
+  "Égalité : as… as ; infériorité naturelle : not as… as ; multiples : twice as… as.",
+  "Pour et contre : The main advantage of… is… / One drawback is… / whereas / compared with.",
+  "Conclure : On balance, I'd go for… / It depends on… / by far the best."
+ ],
+ "liens": [46, 47, 66, 131, 190],
+ "refs": ["bc-comparatives", "bc-mod-comparatives", "cam-adj"]
+}

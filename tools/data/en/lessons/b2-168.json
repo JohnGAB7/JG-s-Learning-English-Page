@@ -1,0 +1,213 @@
+{
+ "n": 168,
+ "niveau": "B2",
+ "titre": "Emphatic do / does / did",
+ "intro": "“I did lock the door!”, “I do like your dress”, “Do sit down”: in English, you can put do / does / did before an affirmative verb to insist, contradict or show contrast. Said with the right stress, this small word makes spoken English much more natural and expressive.",
+ "objectifs": [
+  "Form the emphatic affirmative: do / does / did + base form.",
+  "Use it to contradict, insist, show contrast or confirm an expectation.",
+  "Use the emphatic, polite imperative (Do sit down, Do be careful).",
+  "Know that with be, auxiliary have and modals, you stress the auxiliary instead of adding do."
+ ],
+ "sections": [
+  {
+   "titre": "Form",
+   "texte": [
+    "In an affirmative sentence in the present simple or past simple, add do, does or did before the base form, exactly as in a question or a negative, but without “not”.",
+    "The main verb loses its ending: “She likes” → “She does like”; “I went” → “I did go”. This is the most common mistake.",
+    "In speech, do / does / did is always stressed: the stress creates the emphasis. Without stress, the sentence sounds strange."
+   ],
+   "tableau": {
+    "entetes": ["Neutral sentence", "Emphatic sentence", "Effect"],
+    "lignes": [
+     ["I like your dress.", "I DO like your dress.", "I really like it"],
+     ["She speaks Lingala.", "She DOES speak Lingala.", "Yes, she really speaks it"],
+     ["We locked the door.", "We DID lock the door.", "I'm sure we locked it"],
+     ["Sit down.", "DO sit down.", "A warm invitation"]
+    ]
+   }
+  },
+  {
+   "titre": "Contradicting and correcting",
+   "texte": [
+    "The most common use: answering a negative statement or a doubt.",
+    "You can answer with the full sentence (“I did lock the door!”) or with a short answer with a stressed auxiliary (“I DID!”)."
+   ],
+   "exemples": [
+    ["“You didn't lock the door.” – “I DID lock it! I checked twice.”", "Contradiction."],
+    ["“You never listen to me.” – “I DO listen to you!”", "Contradiction."],
+    ["“Ama doesn't eat meat.” – “She DOES eat meat. She just doesn't eat pork.”", "Correction."],
+    ["“Did you really call him?” – “I DID!”", "Short answer."]
+   ]
+  },
+  {
+   "titre": "Insisting and expressing strong feelings",
+   "texte": [
+    "Do / does / did strengthens a feeling, an opinion or a wish: “I do hope you can come”, “I do apologise for the delay” (a formal apology), “You do look tired.”",
+    "It also confirms that something expected really happened: “He said he'd come, and he did come.”",
+    "In argumentative writing, it highlights a concession: “This method does have some advantages, but…”."
+   ],
+   "exemples": [
+    ["I do hope the weather will be nice for the wedding.", "A strong wish."],
+    ["We do apologise for any inconvenience.", "Formal apology (announcements, emails)."],
+    ["The plan did work in the end.", "It really worked."],
+    ["Online learning does have advantages, but it can't replace a teacher.", "Concession in an essay."]
+   ]
+  },
+  {
+   "titre": "Contrast: not… but do",
+   "texte": [
+    "Do / does / did highlights the positive part of a contrast: “I don't eat meat, but I do eat fish.”",
+    "Often we contrast what is not true with what is true, or what we don't know with what we do know: “I don't know her name, but I do know where she works.”"
+   ],
+   "exemples": [
+    ["He doesn't speak Dutch, but he does understand it.", "Negative vs positive."],
+    ["I didn't win, but I did enjoy the race.", "Past contrast."],
+    ["We don't have much money, but we do have time.", "Money vs time."]
+   ]
+  },
+  {
+   "titre": "The emphatic imperative",
+   "texte": [
+    "Before an imperative, “do” makes an invitation warmer or a request more urgent: “Do come in!”, “Do help yourself”, “Do be careful”. It sounds slightly formal or British, but very polite.",
+    "With “be”, the emphatic imperative also uses “do”: “Do be quiet!”, “Do be careful on the road.” This is the only case where “do” goes before “be”.",
+    "“Don't you dare!” (I forbid you to…) and “Do tell me!” (please tell me!) are common expressions."
+   ],
+   "exemples": [
+    ["Do come in and make yourself at home.", "Warm welcome."],
+    ["Do help yourself to some more cake.", "Polite offer."],
+    ["Do be careful, the roads are icy.", "Strong advice."]
+   ]
+  },
+  {
+   "titre": "With be, have and modals: stress the auxiliary",
+   "texte": [
+    "When the sentence already contains “be”, an auxiliary (have / has, be + -ing) or a modal (can, will, must…), don't add “do”. Simply say the auxiliary in its full, stressed form, without contraction.",
+    "“I'm listening” → “I AM listening!”; “I've finished” → “I HAVE finished!”; “I can swim” → “I CAN swim!”",
+    "In informal messages, you can underline or use italics for the auxiliary; in careful writing, adverbs are often better (really, indeed, certainly)."
+   ],
+   "tableau": {
+    "entetes": ["Sentence", "Emphatic form", "No “do” here"],
+    "lignes": [
+     ["I'm listening.", "I AM listening!", "*I do am listening"],
+     ["She's finished.", "She HAS finished!", "*She does have finished"],
+     ["I can swim.", "I CAN swim!", "*I can do swim"],
+     ["He'll be there.", "He WILL be there!", "*He does will be there"]
+    ]
+   }
+  }
+ ],
+ "formule": "DO / DOES / DID (stressed) + base form · Do + imperative · With be / have / modal: stressed auxiliary (I AM, I HAVE, I CAN)",
+ "prononciation": [
+  "The emphatic auxiliary is always in its full form and strongly stressed: do /duː/, does /dʌz/, did /dɪd/, with a higher, then falling voice.",
+  "The verb after it is less stressed: “I DID lock it” /aɪ ˈdɪd lɒk ɪt/.",
+  "With be and modals, no contraction: “I AM” /aɪ ˈæm/, “I CAN” /aɪ ˈkæn/ (strong form, although “can” is usually weak /kən/).",
+  "In “Do sit down”, the stress falls on “Do” and “sit”; the tone is warm.",
+  "Without stress, the emphatic sentence doesn't work: in speech, the intonation carries the meaning."
+ ],
+ "erreurs": [
+  ["She does likes chocolate.", "She does like chocolate.", "After does: base form, no -s."],
+  ["I did went to the meeting.", "I did go to the meeting.", "After did: base form."],
+  ["I do am tired.", "I AM tired.", "With be, stress “am”; no do."],
+  ["He do work hard.", "He does work hard.", "Third person singular: does."],
+  ["I can do swim.", "I CAN swim.", "With a modal, stress the modal."],
+  ["Do sitting down, please.", "Do sit down, please.", "Do + imperative (base form)."],
+  ["I did locked the door.", "I did lock the door.", "Only one past marker: did."]
+ ],
+ "dialogue": {
+  "contexte": "In Kigali, Eric and his sister Divine come home after a weekend away and find the house in a mess.",
+  "lignes": [
+   ["Divine", "Eric! The kitchen window is open. You didn't close it before we left!", "An accusation."],
+   ["Eric", "I did close it! I remember doing it.", "Contradiction with did."],
+   ["Divine", "Then who opened it? And look, someone has eaten all the bananas.", "Questions and a discovery."],
+   ["Eric", "I don't know who opened the window, but I do know who ate the bananas…", "Contrast: don't know… but do know."],
+   ["Divine", "Who?", "A short question."],
+   ["Eric", "Our cousin Patrick! He did say he would come and water the plants.", "did say: he really said it."],
+   ["Divine", "Ah, that explains it. Well, he did water them. They look great.", "Confirming an expectation."],
+   ["Eric", "You see? I am a responsible brother! Now do sit down, and I'll make some tea.", "Stressed “am”; emphatic imperative."]
+  ]
+ },
+ "mots": [
+  ["contradict", "Don't contradict me in front of the client.", "to say the opposite of what someone has said"],
+  ["insist", "She insists that she locked the door.", "to say firmly that something is true"],
+  ["assure", "I assure you that the work is finished.", "to tell someone that something is certainly true"],
+  ["indeed", "It was indeed a difficult year.", "really; as was said"],
+  ["actually", "I did actually call you yesterday.", "in fact; really"],
+  ["certainly", "She certainly knows how to cook.", "without any doubt"],
+  ["definitely", "I'll definitely be there.", "certainly; for sure"],
+  ["honestly", "Honestly, I did try my best.", "used to show you are telling the truth"],
+  ["apologise", "We do apologise for the delay.", "to say sorry formally (US: apologize)"],
+  ["help yourself", "Do help yourself to some food.", "to take food or drink without asking"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Which use?",
+   "consigne": "Say what do / does / did is used for: contradiction, contrast, polite invitation or strong feeling.",
+   "items": [
+    ["“You didn't call me!” – “I did call you, twice!”", "Contradiction."],
+    ["I don't like sport, but I do enjoy watching football.", "Contrast."],
+    ["Do come in and sit down.", "Polite invitation."],
+    ["I do hope you'll be able to come.", "Strong feeling (hope)."]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with do / does / did + the verb in brackets.",
+   "items": [
+    ["“You don't love me.” – “I ___ (love) you!”", "do love"],
+    ["She doesn't speak Dutch, but she ___ (understand) it.", "does understand"],
+    ["“Why didn't you tell me?” – “I ___ (tell) you! You weren't listening.”", "did tell"],
+    ["___ (help) yourself to some cake.", "Do help"],
+    ["He ___ (work) hard, even if he's not very fast.", "does work"],
+    ["I ___ (enjoy) the concert last night. It was amazing.", "did enjoy"]
+   ]
+  },
+  {
+   "titre": "3. Contradict",
+   "consigne": "Contradict each sentence with an emphatic form (watch out for be and modals).",
+   "items": [
+    ["“You didn't lock the door.”", "I did lock the door!"],
+    ["“Ama doesn't like spicy food.”", "She does like spicy food!"],
+    ["“You never help me.”", "I do help you!"],
+    ["“You aren't listening.”", "I AM listening! (no do with be)"],
+    ["“You can't swim.”", "I CAN swim! (no do with a modal)"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["She does likes chocolate.", "She does like chocolate."],
+    ["I did went to the meeting.", "I did go to the meeting."],
+    ["I do am tired.", "I AM tired. (stress “am”)"],
+    ["Do sitting down, please.", "Do sit down, please."]
+   ]
+  },
+  {
+   "titre": "5. Make it emphatic",
+   "consigne": "Rewrite each sentence with do / does / did to add the emphasis shown in brackets.",
+   "items": [
+    ["I closed the door. (contradicting someone)", "I did close the door!"],
+    ["I like your dress. (insisting)", "I do like your dress."],
+    ["He doesn't drink alcohol, but he drinks a lot of coffee. (contrast)", "He doesn't drink alcohol, but he does drink a lot of coffee."],
+    ["Sit down, please. (warm invitation)", "Do sit down, please."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short exchange (4–6 lines) in which someone wrongly accuses you of forgetting something. Defend yourself with at least four different emphatic forms (do, does, did, stressed auxiliary, imperative).",
+   "items": [
+    ["Example answer", "A: You forgot to pay the electricity bill! B: I did pay it! I paid it online on Monday. A: Then why does the website say it's unpaid? B: I don't know, but I do have the receipt. Look, here it is. A: Oh… you're right. Sorry. B: No problem. I AM organised sometimes! Now do relax."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "do / does / did (stressed) + base form: I do like it, she does speak it, we did lock it.",
+  "Uses: contradicting, insisting (I do hope), contrast (I don't…, but I do…), confirming (and he did come).",
+  "Warm or urgent imperative: Do sit down, Do help yourself, Do be careful.",
+  "With be, auxiliary have and modals: no do; stress the auxiliary (I AM, I HAVE, I CAN).",
+  "No ending after do / does / did: does like, did go."
+ ],
+ "liens": [157, 161, 215],
+ "refs": ["bc-emphasis"]
+}

@@ -1,0 +1,216 @@
+{
+ "n": 19,
+ "niveau": "A1",
+ "titre": "The alphabet and spelling your name",
+ "intro": "Many languages use the same 26 letters, but the English names of the letters are different: E sounds like “ee”, I sounds like “eye”. You need to spell your name, an email address or a word on the phone, at a hotel or in an office.",
+ "objectifs": [
+  "Say the 26 letters of the English alphabet correctly.",
+  "Avoid the common confusions: E / I, G / J, A / R, H, W, Y.",
+  "Spell your name, your address and your email (double, capital, hyphen, dot, at).",
+  "Ask someone to spell a word and check information: How do you spell that?"
+ ],
+ "sections": [
+  {
+   "titre": "Letters grouped by sound",
+   "texte": [
+    "The easiest way is to learn the letters in groups with the same vowel. Each group rhymes: A, H, J, K rhyme with “day”; B, C, D, E… rhyme with “see”.",
+    "The letter Z is “zed” /zed/ in British English (and in Canada) and “zee” /ziː/ in American English."
+   ],
+   "tableau": {
+    "entetes": ["Sound", "Letters", "Rhymes with"],
+    "lignes": [
+     ["/eɪ/", "A /eɪ/, H /eɪtʃ/, J /dʒeɪ/, K /keɪ/", "day, say"],
+     ["/iː/", "B /biː/, C /siː/, D /diː/, E /iː/, G /dʒiː/, P /piː/, T /tiː/, V /viː/ (Z /ziː/ in the US)", "see, tea"],
+     ["/e/", "F /ef/, L /el/, M /em/, N /en/, S /es/, X /eks/, Z /zed/ (UK)", "bed, ten"],
+     ["/aɪ/", "I /aɪ/, Y /waɪ/", "my, why"],
+     ["/əʊ/", "O /əʊ/", "no, go"],
+     ["/uː/", "Q /kjuː/, U /juː/, W /ˈdʌbljuː/", "you, two"],
+     ["/ɑː/", "R /ɑː/", "car, far"]
+    ]
+   }
+  },
+  {
+   "titre": "Common traps",
+   "texte": [
+    "Some English letter names sound like a DIFFERENT letter in other languages. This causes most mistakes on the phone.",
+    "E is /iː/ (like “see”) and I is /aɪ/ (like “eye”). G is /dʒiː/ (like “gee”) and J is /dʒeɪ/ (like “jay”). A is /eɪ/ (like “day”) and R is /ɑː/ (like “car”). U is /juː/ (like “you”), and W is “double u”, not “double v”."
+   ],
+   "tableau": {
+    "entetes": ["Letter", "English name", "Sounds like"],
+    "lignes": [
+     ["E", "/iː/", "see"],
+     ["I", "/aɪ/", "eye"],
+     ["G", "/dʒiː/", "gee"],
+     ["J", "/dʒeɪ/", "jay"],
+     ["A", "/eɪ/", "day"],
+     ["R", "/ɑː/", "car"],
+     ["H", "/eɪtʃ/", "“aitch”"],
+     ["Y", "/waɪ/", "why"]
+    ]
+   },
+   "exemples": [
+    ["My name is Gilles: G-I-double L-E-S.", "Say: gee, eye, double el, ee, es."],
+    ["It's Jean: J-E-A-N.", "Say: jay, ee, ay, en."]
+   ]
+  },
+  {
+   "titre": "Spelling: useful words",
+   "texte": [
+    "For two same letters together, say “double”: double L, double S, double T (in American English, people often say the two letters: L-L).",
+    "Other words: capital (a big letter) or upper case; small letter or lower case; hyphen; apostrophe; space; accents: “e with an acute accent” (é), “e with a grave accent” (è). For an email: at (@), dot (.), underscore (_), dash or hyphen (-), slash (/)."
+   ],
+   "tableau": {
+    "entetes": ["Sign", "In English", "Example"],
+    "lignes": [
+     ["@", "at", "paul at gmail dot com"],
+     [".", "dot", "www dot jg dot org"],
+     ["_", "underscore", "anna underscore b"],
+     ["-", "hyphen / dash", "Jean hyphen Pierre (Jean-Pierre)"],
+     ["'", "apostrophe", "O apostrophe Brien (O'Brien)"],
+     ["A / a", "capital A / small a", "capital M, small a, r, c"],
+     ["é", "e acute / e with an acute accent", "Hélène: H, e acute, l, e grave, n, e"]
+    ]
+   },
+   "exemples": [
+    ["My email is m.diallo@mail.com: M dot Diallo, D-I-A-double L-O, at mail dot com.", "Saying an email address."],
+    ["It's Anne-Marie, with a hyphen.", "A name with a hyphen."]
+   ]
+  },
+  {
+   "titre": "Asking and checking",
+   "texte": [
+    "To ask someone to spell: “How do you spell that?” / “How do you spell your surname?” / “Could you spell that, please?” (more polite). To check: “Sorry, could you repeat that?”; “Was that B or P?”; “Is that M for mother or N for night?”.",
+    "On the phone, people often say a word for a letter (“M for Mike, N for November”). Professionals use the international alphabet: Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu."
+   ],
+   "exemples": [
+    ["How do you spell your name? — K-A-M-G-A.", "Asking and spelling."],
+    ["Is that B for Bravo or P for Papa?", "Checking a letter."],
+    ["Could you spell that again, please?", "A polite request."]
+   ]
+  },
+  {
+   "titre": "Abbreviations",
+   "texte": [
+    "Many abbreviations are said letter by letter, with the English names of the letters: the UK /ˌjuː ˈkeɪ/, the USA, the EU /ˌiː ˈjuː/, a CV /ˌsiː ˈviː/, the BBC, a PC, an ID card /ˌaɪ ˈdiː/. The stress is on the last letter.",
+    "Remember (lesson 11): choose a / an by the sound of the first letter: an MP /em/, an FBI agent /ef/, a UN report /juː/."
+   ],
+   "exemples": [
+    ["Please send me your CV.", "Say: /siː viː/."],
+    ["Have you got an ID card?", "an before /aɪ/."]
+   ]
+  }
+ ],
+ "formule": "A /eɪ/ · E /iː/ · I /aɪ/ · O /əʊ/ · U /juː/ · G /dʒiː/ · J /dʒeɪ/ · R /ɑː/ · double L · capital · hyphen · at · dot",
+ "prononciation": [
+  "Make E /iː/ (one long sound, lips spread) different from I /aɪ/ (two sounds, “a” then “i”).",
+  "G /dʒiː/ and J /dʒeɪ/ both start with /dʒ/ (as in “jam”); only the vowel changes.",
+  "H is /eɪtʃ/: don't forget the “tch” at the end. Some speakers say /heɪtʃ/.",
+  "W /ˈdʌbəljuː/ has three syllables: DOU-ble-you, stress on the first.",
+  "When you spell, make small groups of 3 or 4 letters with a pause. Your voice goes up at the end of each group except the last."
+ ],
+ "erreurs": [
+  ["E said like “eh”", "E = /iː/", "The letter E sounds like “see”."],
+  ["I said like “ee”", "I = /aɪ/", "The letter I sounds like “eye”."],
+  ["G said like “jay”", "G = /dʒiː/", "G sounds like “gee”."],
+  ["J said like “gee”", "J = /dʒeɪ/", "J sounds like “jay”."],
+  ["W said “double v”", "W = double u /ˈdʌbljuː/", "In English, W is a “double u”."],
+  ["How do you write your name? (asking for letters)", "How do you spell your name?", "Saying the letters = spell."],
+  ["paul arobase mail point com", "paul at mail dot com", "@ = at; . = dot."],
+  ["Z = zed (to an American)", "Z = zee (US) / zed (UK, Canada)", "Different in different countries."]
+ ],
+ "dialogue": {
+  "contexte": "A customer calls a car rental office in Toronto to make a booking.",
+  "lignes": [
+   ["Agent", "Good morning, City Car Rental. Can I have your name, please?", "A polite question."],
+   ["Hélène", "Yes, it's Hélène Ngassa.", "Name."],
+   ["Agent", "Sorry, how do you spell your first name?", "Asking to spell."],
+   ["Hélène", "H, E, L, E, N, E. With accents on the first two Es, but that's not important.", "E = /iː/."],
+   ["Agent", "OK. And your surname?", "surname = family name."],
+   ["Hélène", "N, G, A, double S, A.", "double S."],
+   ["Agent", "Is that G for Golf?", "Checking a letter."],
+   ["Hélène", "Yes, G for Golf. And my email is helene underscore ngassa at mail dot com.", "underscore, at, dot."],
+   ["Agent", "Perfect, thank you. Your booking number is K7: K for Kilo, 7.", "K for Kilo."]
+  ]
+ },
+ "mots": [
+  ["letter", "There are 26 letters in the alphabet.", "a sign like A, B or C"],
+  ["alphabet", "Can you say the alphabet in English?", "all the letters of a language, in order"],
+  ["spell", "How do you spell your name?", "say or write the letters of a word in order"],
+  ["capital", "Write your name in capital letters.", "a big letter, like A (not a)"],
+  ["hyphen", "Jean-Luc has a hyphen.", "the short line (-) between two parts of a word"],
+  ["dot", "It's info dot jg at mail dot com.", "the small point (.) in an address"],
+  ["email", "What's your email address?", "a message sent by computer; your address for it"],
+  ["address", "Can you spell your address?", "the number, street and town where you live"],
+  ["surname", "Could you spell your surname, please?", "your family name"],
+  ["again", "Can you say that again?", "one more time"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Which sound?",
+   "consigne": "Write the sound of the letter: /eɪ/, /iː/, /e/, /aɪ/, /əʊ/, /uː/ or /ɑː/.",
+   "items": [
+    ["E", "/iː/"],
+    ["I", "/aɪ/"],
+    ["J", "/eɪ/ (dʒeɪ)"],
+    ["G", "/iː/ (dʒiː)"],
+    ["R", "/ɑː/"],
+    ["U", "/uː/ (juː)"]
+   ]
+  },
+  {
+   "titre": "2. The odd one out",
+   "consigne": "Find the letter that doesn't have the same sound as the others.",
+   "items": [
+    ["A – H – K – E", "E (/iː/; the others have /eɪ/)"],
+    ["B – D – F – T", "F (/ef/; the others have /iː/)"],
+    ["I – Y – R", "R (/ɑː/; the others have /aɪ/)"],
+    ["Q – U – W – O", "O (/əʊ/; the others have /uː/)"]
+   ]
+  },
+  {
+   "titre": "3. Read it aloud",
+   "consigne": "Write how you say these addresses and names in English.",
+   "items": [
+    ["anna.b@mail.com", "anna dot b at mail dot com"],
+    ["Jean-Marc", "J, E, A, N, hyphen, M, A, R, C (capital J, capital M)"],
+    ["Bassey", "B, A, double S, E, Y"],
+    ["O'Neil", "capital O, apostrophe, N, E, I, L"]
+   ]
+  },
+  {
+   "titre": "4. What do you say?",
+   "consigne": "Write the right sentence for each situation.",
+   "items": [
+    ["You want to know the letters of a word.", "How do you spell that?"],
+    ["You ask a customer, politely, for the letters of his name.", "Could you spell your name, please?"],
+    ["You are not sure if the letter is M or N.", "Is that M for Mike or N for November?"],
+    ["Your name has two Ls together.", "My name is spelt with a double L. / My name has a double L."]
+   ]
+  },
+  {
+   "titre": "5. Correct the mistake",
+   "consigne": "Each sentence has one vocabulary mistake. Correct it.",
+   "items": [
+    ["How do you write your surname? (asking for the letters)", "How do you spell your surname?"],
+    ["My email is tom arobase mail point fr.", "My email is tom at mail dot fr."],
+    ["Write your name in big letters.", "Write your name in capital letters."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write how you spell your first name, your surname and your email address (real or invented), as on the phone.",
+   "items": [
+    ["Example answer", "My first name is Joël: J, O, E with two dots, L. My surname is Mbappé: M, B, A, double P, E acute. My email is joel dot m at mail dot com."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "E = /iː/, I = /aɪ/, A = /eɪ/, R = /ɑː/, U = /juː/.",
+  "G = /dʒiː/ (gee) and J = /dʒeɪ/ (jay).",
+  "double L, capital M, hyphen, apostrophe; @ = at, . = dot, _ = underscore.",
+  "To ask: How do you spell that? Could you spell your name, please?",
+  "Z = zed (UK, Canada), zee (US)."
+ ],
+ "liens": [2, 3, 11, 20],
+ "refs": ["bc-a1a2", "cam-using"]
+}

@@ -1,0 +1,211 @@
+{
+ "n": 14,
+ "niveau": "A1",
+ "titre": "Les adjectifs possessifs (my, your…)",
+ "intro": "My, your, his, her, its, our, their correspondent à « mon, ton, son, notre, votre, leur ». Ils ne changent jamais selon l'objet possédé, mais « his » et « her » dépendent du possesseur : c'est la grande différence avec « son / sa » en français.",
+ "objectifs": [
+  "Connaître les sept adjectifs possessifs et les associer au bon pronom sujet.",
+  "Choisir entre his et her selon le possesseur (homme ou femme), et non selon l'objet.",
+  "Utiliser le possessif avec les parties du corps et les vêtements, là où le français met « le, la, les ».",
+  "Ne pas confondre its / it's, their / there / they're, your / you're."
+ ],
+ "sections": [
+  {
+   "titre": "Le tableau des possessifs",
+   "texte": [
+    "L'adjectif possessif se place devant le nom. Il est invariable : il ne change ni au pluriel ni selon le genre de l'objet. « My car, my cars » ; « their house, their houses ».",
+    "On ne met jamais d'article avec un possessif : « my book », jamais « the my book » ni « a my friend » (on dit « a friend of mine », vu plus tard)."
+   ],
+   "tableau": {
+    "entetes": ["Sujet", "Possessif", "Traduction", "Exemple"],
+    "lignes": [
+     ["I", "my", "mon, ma, mes", "my phone, my keys"],
+     ["you", "your", "ton, ta, tes / votre, vos", "your bag, your children"],
+     ["he", "his", "son, sa, ses (à lui)", "his car, his parents"],
+     ["she", "her", "son, sa, ses (à elle)", "her car, her parents"],
+     ["it", "its", "son, sa, ses (chose, animal)", "its name, its legs"],
+     ["we", "our", "notre, nos", "our house, our friends"],
+     ["they", "their", "leur, leurs", "their flat, their children"]
+    ]
+   }
+  },
+  {
+   "titre": "His ou her ? Regarde le possesseur",
+   "texte": [
+    "En français, « son » ou « sa » s'accorde avec l'objet possédé : « Paul et sa sœur », « Marie et son frère ». En anglais, « his » ou « her » s'accorde avec le POSSESSEUR : si c'est un homme, his ; si c'est une femme, her. L'objet ne compte pas.",
+    "Donc : Paul and his sister (la sœur de Paul) ; Marie and her brother (le frère de Marie) ; Marie and her husband ; Paul and his wife. C'est l'erreur la plus fréquente chez les francophones, à l'écrit comme à l'oral."
+   ],
+   "tableau": {
+    "entetes": ["Français", "Anglais", "Pourquoi"],
+    "lignes": [
+     ["Paul aime sa voiture.", "Paul loves his car.", "possesseur = Paul (homme)"],
+     ["Anna aime sa voiture.", "Anna loves her car.", "possesseur = Anna (femme)"],
+     ["Paul appelle sa mère.", "Paul calls his mother.", "possesseur = Paul"],
+     ["Anna appelle son père.", "Anna calls her father.", "possesseur = Anna"],
+     ["Le chien mange son repas.", "The dog is eating its food.", "possesseur = un animal (it)"]
+    ]
+   },
+   "exemples": [
+    ["Karim lives with his grandmother.", "Karim vit avec sa grand-mère."],
+    ["Sophie is talking to her son.", "Sophie parle à son fils."],
+    ["The company is moving its office to Lille.", "L'entreprise déménage ses bureaux à Lille."]
+   ]
+  },
+  {
+   "titre": "Le corps et les vêtements",
+   "texte": [
+    "Le français dit « je me lave les mains », « il a mal à la tête », « elle met son manteau ». L'anglais utilise presque toujours un possessif avec les parties du corps et les vêtements de la personne : I wash my hands, She's putting on her coat, He's got his hands in his pockets.",
+    "Avec « have got » et les descriptions physiques, on n'a pas besoin de possessif : She's got long hair. Mais pour une action sur son corps, le possessif est obligatoire."
+   ],
+   "exemples": [
+    ["Wash your hands before dinner.", "Lave-toi les mains avant le dîner."],
+    ["I brush my teeth twice a day.", "Je me brosse les dents deux fois par jour."],
+    ["He's shaking his head.", "Il secoue la tête."],
+    ["Take off your shoes, please.", "Enlève tes chaussures, s'il te plaît."]
+   ]
+  },
+  {
+   "titre": "Your, their, its : un ou plusieurs possesseurs",
+   "texte": [
+    "« Your » sert pour une ou plusieurs personnes, tutoiement ou vouvoiement : « your car » peut être « ta voiture », « votre voiture » (à vous, monsieur) ou « votre voiture » (à vous tous).",
+    "« Their » correspond à plusieurs possesseurs (leur, leurs). Comme « they », il peut aussi désigner une seule personne dont on ne connaît pas le genre : Every student needs their own laptop.",
+    "« Its » s'emploie pour une chose, un animal non familier, une entreprise, un pays ou une ville : The city is famous for its museums."
+   ],
+   "exemples": [
+    ["Children, take your books!", "Les enfants, prenez vos livres ! (your = pluriel)"],
+    ["My neighbours love their garden.", "Mes voisins adorent leur jardin."],
+    ["Canada is famous for its lakes.", "Le Canada est célèbre pour ses lacs."]
+   ]
+  },
+  {
+   "titre": "Les homophones à ne pas confondre",
+   "texte": [
+    "Plusieurs possessifs se prononcent exactement comme d'autres mots. À l'oral, aucun problème ; à l'écrit, c'est une erreur fréquente, même chez les anglophones natifs.",
+    "Astuce : si tu peux remplacer par « it is », « they are » ou « you are », il faut l'apostrophe (it's, they're, you're). Un possessif n'a jamais d'apostrophe."
+   ],
+   "tableau": {
+    "entetes": ["Possessif", "Homophone", "Exemple"],
+    "lignes": [
+     ["its (son, sa)", "it's (= it is / it has)", "The cat is eating its dinner. It's hungry."],
+     ["their (leur)", "they're (= they are), there (là)", "They're in their car, over there."],
+     ["your (ton, votre)", "you're (= you are)", "You're late! Where's your bag?"]
+    ]
+   }
+  }
+ ],
+ "formule": "I → my · you → your · he → his · she → her · it → its · we → our · they → their (+ nom, jamais d'article)",
+ "prononciation": [
+  "« his » /hɪz/ : h soufflé + z sonore. Sans le h, on entend « is ».",
+  "« her » /hɜː/ en forme forte ; dans une phrase rapide, souvent /ə/ : Call her mother /ˈkɔːl ə ˈmʌðə/.",
+  "« their », « there » et « they're » se prononcent tous /ðeə/ ; « your » et « you're » /jɔː/ ; « its » et « it's » /ɪts/.",
+  "« our » /ˈaʊə/ se prononce comme « hour » (le h de hour est muet).",
+  "Les possessifs sont normalement faibles. On les accentue pour opposer : It's MY bag, not YOUR bag."
+ ],
+ "erreurs": [
+  ["Marie and his brother", "Marie and her brother", "Le possessif dépend du possesseur (Marie = her)."],
+  ["Paul loves her car.", "Paul loves his car.", "Possesseur = Paul → his."],
+  ["The dog wants it's ball.", "The dog wants its ball.", "Possessif : its, sans apostrophe."],
+  ["I wash the hands.", "I wash my hands.", "Possessif avec les parties du corps."],
+  ["the my car", "my car", "Jamais d'article avec un possessif."],
+  ["They love there children.", "They love their children.", "Possessif de they : their."],
+  ["Your late!", "You're late!", "You're = you are."],
+  ["mys friends", "my friends", "Le possessif est invariable."]
+ ],
+ "dialogue": {
+  "contexte": "Lors d'une fête de famille à Ottawa, Mia montre des photos à sa nouvelle collègue, Fatou.",
+  "lignes": [
+   ["Mia", "Look, this is my family. These are my parents, and that's my brother Leo with his wife.", "Regarde, voici ma famille. Ce sont mes parents, et là c'est mon frère Leo avec sa femme."],
+   ["Fatou", "Is that their baby?", "C'est leur bébé ?"],
+   ["Mia", "Yes! Her name is Chloé. She's eight months old.", "Oui ! Elle s'appelle Chloé. Elle a huit mois."],
+   ["Fatou", "She's beautiful. And who's the woman with the red hat?", "Elle est magnifique. Et qui est la femme au chapeau rouge ?"],
+   ["Mia", "That's my aunt Rose and her dog, Max. Max loves his red ball!", "C'est ma tante Rose et son chien, Max. Max adore sa balle rouge !"],
+   ["Fatou", "Ha ha! Our dog is the same. Its favourite toy is an old shoe.", "Ha ha ! Notre chien est pareil. Son jouet préféré est une vieille chaussure."],
+   ["Mia", "And what about your family? Are your parents in Senegal?", "Et ta famille ? Tes parents sont au Sénégal ?"],
+   ["Fatou", "Yes, they are. Their house is in Dakar, near the sea.", "Oui. Leur maison est à Dakar, près de la mer."]
+  ]
+ },
+ "mots": [
+  ["family", "My family is very big.", "la famille"],
+  ["parents", "Her parents live in Namur.", "les parents (père et mère)"],
+  ["brother", "His brother is a pilot.", "le frère"],
+  ["sister", "Our sister is a doctor.", "la sœur"],
+  ["wife", "Paul and his wife are French.", "l'épouse, la femme"],
+  ["husband", "Anna and her husband live in Québec.", "le mari, l'époux"],
+  ["hand", "Wash your hands.", "la main"],
+  ["coat", "Put on your coat. It's cold.", "le manteau"],
+  ["favourite", "What's your favourite colour?", "préféré(e) (US : favorite)"],
+  ["own", "They've got their own house.", "propre (à soi)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Le bon possessif",
+   "consigne": "Complète avec le possessif qui correspond au sujet.",
+   "items": [
+    ["I love ___ job.", "my"],
+    ["We're in ___ kitchen.", "our"],
+    ["They're with ___ friends.", "their"],
+    ["You're in ___ room.", "your"],
+    ["The bird is in ___ nest.", "its"],
+    ["He's washing ___ car.", "his"]
+   ]
+  },
+  {
+   "titre": "2. His ou her ?",
+   "consigne": "Complète avec his ou her.",
+   "items": [
+    ["Julie is with ___ father.", "her"],
+    ["Marc is with ___ mother.", "his"],
+    ["My aunt loves ___ garden.", "her"],
+    ["Mr Kamga is talking to ___ daughter.", "his"],
+    ["Awa and ___ husband live in Liège.", "her"]
+   ]
+  },
+  {
+   "titre": "3. Its, it's, their, they're, your, you're",
+   "consigne": "Choisis la bonne forme.",
+   "items": [
+    ["(Its / It's) raining.", "It's"],
+    ["The company is changing (its / it's) logo.", "its"],
+    ["(Their / They're) house is big.", "Their"],
+    ["(Your / You're) very kind.", "You're"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["Anna is calling his brother.", "Anna is calling her brother."],
+    ["I brush the teeth every morning.", "I brush my teeth every morning."],
+    ["This is the my bag.", "This is my bag."],
+    ["They're parents are teachers.", "Their parents are teachers."],
+    ["The cat is playing with it's toy.", "The cat is playing with its toy."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Pierre et sa sœur habitent à Lyon.", "Pierre and his sister live in Lyon."],
+    ["Claire et son mari sont médecins.", "Claire and her husband are doctors."],
+    ["Mets ton manteau !", "Put on your coat! / Put your coat on!"],
+    ["Nos voisins adorent leur chien.", "Our neighbours love their dog."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Présente une photo de ta famille ou de tes amis en quatre phrases, avec au moins quatre possessifs différents (dont his et her).",
+   "items": [
+    ["Exemple de réponse", "This is my brother Joël and his wife, Nadia. Her family is from Morocco. Their children are seven and ten. Our parents live with them in Brussels."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "my, your, his, her, its, our, their + nom ; invariables, jamais d'article.",
+  "His / her dépend du possesseur : Paul and his sister, Marie and her brother.",
+  "Possessif avec le corps et les vêtements : I wash my hands, Put on your coat.",
+  "its (possessif) ≠ it's (it is) ; their ≠ they're ≠ there ; your ≠ you're.",
+  "Its pour une chose, un animal, une entreprise, un pays."
+ ],
+ "liens": [10, 13, 15, 23, 63],
+ "refs": ["cam-nouns", "bc-a1a2"]
+}

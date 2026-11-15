@@ -1,0 +1,191 @@
+{
+"n": 117,
+"niveau": "B1",
+"titre": "So et such",
+"intro": "« So » et « such » renforcent un adjectif ou un nom, comme « si », « tellement » ou « tel » en français : « It was so hot! », « It was such a hot day! ». Ils servent aussi à exprimer une conséquence avec « that » : « so tired that I fell asleep ». La règle de construction est simple, mais les francophones la confondent souvent.",
+"objectifs": [
+"Utiliser so + adjectif / adverbe et such (a / an) + (adjectif) + nom.",
+"Choisir entre so many / so much / so few / so little et such a lot of.",
+"Exprimer une conséquence avec so … that et such … that.",
+"Distinguer so / such de very et éviter « so a » ou « such beautiful »."
+],
+"sections": [
+{
+"titre": "So + adjectif ou adverbe",
+"texte": [
+"« So » se place devant un adjectif seul (sans nom après) ou devant un adverbe. Il est plus expressif que « very » : il traduit souvent une émotion ou une réaction (surprise, admiration, agacement).",
+"Différence avec very : « very » donne une simple information (« The film was very long »), « so » ajoute une émotion ou appelle une conséquence (« The film was so long! I nearly fell asleep »)."
+],
+"exemples": [
+["The view from Mount Cameroon is so beautiful!", "La vue depuis le mont Cameroun est tellement belle !"],
+["You speak so quickly — I can't follow you.", "Tu parles si vite, je n'arrive pas à te suivre (so + adverbe)."],
+["I'm so happy you came!", "Je suis tellement content que tu sois venu !"]
+]
+},
+{
+"titre": "Such + (a / an) + adjectif + nom",
+"texte": [
+"« Such » se place devant un groupe nominal. Avec un nom dénombrable singulier, on met « a / an » APRÈS such : such a + (adjectif) + nom. Avec un nom pluriel ou indénombrable, pas d'article : such + (adjectif) + nom.",
+"Retenir la symétrie : « so + adjectif » quand l'adjectif est seul ; « such + nom » dès qu'il y a un nom."
+],
+"tableau": {
+"entetes": ["Structure", "Exemple", "Traduction"],
+"lignes": [
+["so + adjectif", "The day was so hot.", "La journée était si chaude."],
+["such a + adjectif + nom singulier", "It was such a hot day.", "C'était une journée si chaude."],
+["such + adjectif + nom pluriel", "They are such kind people.", "Ce sont des gens si gentils."],
+["such + adjectif + nom indénombrable", "We had such good weather.", "Nous avons eu un si beau temps."],
+["such a + nom (sans adjectif)", "He's such a liar!", "C'est un tel menteur !"]
+]
+}
+},
+{
+"titre": "So many, so much, such a lot of",
+"texte": [
+"Devant une quantité, on utilise so + many / much / few / little : so many people (dénombrable), so much traffic (indénombrable), so few chairs, so little time.",
+"« Such a lot of » est l'équivalent familier pour les deux types de noms : such a lot of work, such a lot of problems. On ne dit pas « such many » ni « so a lot of »."
+],
+"exemples": [
+["There were so many people at the concert in Abidjan!", "Il y avait tellement de monde au concert à Abidjan !"],
+["I have so much work this week.", "J'ai tellement de travail cette semaine."],
+["We had such a lot of fun at the wedding.", "On s'est tellement amusés au mariage."]
+]
+},
+{
+"titre": "La conséquence : so … that / such … that",
+"texte": [
+"On ajoute « that » + proposition pour exprimer la conséquence : « tellement … que ». À l'oral, « that » est souvent omis : « I was so tired I fell asleep on the bus ».",
+"Les mêmes règles de construction s'appliquent : so + adjectif / adverbe / quantité + that ; such (a) + nom + that."
+],
+"exemples": [
+["The exam was so difficult that half the class failed.", "L'examen était si difficile que la moitié de la classe a échoué."],
+["It was such a good film that I watched it twice.", "C'était un si bon film que je l'ai regardé deux fois."],
+["She drove so fast that she got a fine.", "Elle a conduit si vite qu'elle a eu une amende."],
+["There was so much noise that we couldn't talk.", "Il y avait tellement de bruit qu'on ne pouvait pas parler."]
+]
+},
+{
+"titre": "Autres emplois et registre",
+"texte": [
+"« So » est très fréquent à l'oral, surtout pour exprimer des émotions : « I'm so sorry », « Thank you so much », « It's so nice to see you ». À l'écrit formel, on préfère souvent extremely, very, particularly.",
+"« Such » peut aussi signifier « de ce type, pareil » : « I've never seen such a thing » (je n'ai jamais vu une chose pareille), « such as » = « comme, par exemple » : « fruit such as mangoes and papayas ».",
+"Dans une question avec un adjectif, on peut dire « Why are you so angry? » ; « how » sert pour l'exclamation : « How beautiful! » = « It's so beautiful! »."
+],
+"exemples": [
+["Thank you so much for your help.", "Merci infiniment pour ton aide."],
+["The shop sells tropical fruit such as mangoes and pineapples.", "Le magasin vend des fruits tropicaux comme les mangues et les ananas."]
+]
+}
+],
+"formule": "so + adjectif / adverbe · such (a / an) + (adjectif) + nom · so many / much + nom · … (that) + conséquence",
+"prononciation": [
+"« so » est souvent allongé et accentué pour l'émotion : It was SOOO good! /səʊ/ (GB).",
+"« such » se prononce /sʌtʃ/ : u court comme dans « cup », finale /tʃ/ comme dans « match ».",
+"Dans « such a », les mots se lient : /ˈsʌtʃ ə/, presque « sutcha ».",
+"Dans « so … that », « that » est faible : /ðət/ ; l'accent porte sur so et sur l'adjectif : so TIRED that…"
+],
+"erreurs": [
+["It was so a beautiful day.", "It was such a beautiful day.", "Avec un nom : such a, pas so a."],
+["They are so nice people.", "They are such nice people.", "Adjectif + nom pluriel : such."],
+["She's such kind.", "She's so kind.", "Adjectif seul : so."],
+["It was a such good idea.", "It was such a good idea.", "L'article se place après such."],
+["There were such many cars.", "There were so many cars.", "Quantité : so many / so much."],
+["I was so tired as I fell asleep.", "I was so tired (that) I fell asleep.", "La conséquence s'introduit avec that (ou sans mot)."],
+["We had such a good weather.", "We had such good weather.", "weather est indénombrable : pas de a."]
+],
+"dialogue": {
+"contexte": "Kevin rentre d'un week-end au festival de jazz de Montréal et le raconte à sa collègue Aïcha.",
+"lignes": [
+["Aïcha", "So, how was the jazz festival?", "Alors, c'était comment, le festival de jazz ?"],
+["Kevin", "Amazing! There were so many people that we could hardly move.", "Génial ! Il y avait tellement de monde qu'on pouvait à peine bouger."],
+["Aïcha", "And the music?", "Et la musique ?"],
+["Kevin", "It was such good music. The last band was so talented that everyone was dancing.", "C'était de si bonne musique. Le dernier groupe était si talentueux que tout le monde dansait."],
+["Aïcha", "Lucky you! Was the weather OK?", "Quelle chance ! Il a fait beau ?"],
+["Kevin", "We had such a hot weekend — 32 degrees! And the concerts finished so late.", "On a eu un week-end si chaud, 32 degrés ! Et les concerts finissaient tellement tard."],
+["Aïcha", "You must be so tired.", "Tu dois être tellement fatigué."],
+["Kevin", "I am! I had such a lot of fun, but I need a holiday after my holiday!", "Oui ! Je me suis tellement amusé, mais j'ai besoin de vacances après mes vacances !"]
+]
+},
+"mots": [
+["so", "I'm so glad you're here.", "si, tellement"],
+["such", "It was such a long trip.", "tel, si (devant un nom)"],
+["talented", "She's such a talented singer.", "talentueux, doué"],
+["exhausted", "I was so exhausted that I slept for ten hours.", "épuisé"],
+["crowded", "The market was so crowded.", "bondé"],
+["hardly", "We could hardly hear each other.", "à peine"],
+["fine", "He got a fine for driving so fast.", "une amende"],
+["delicious", "It was such a delicious meal.", "délicieux"],
+["boring", "The lecture was so boring.", "ennuyeux"],
+["such as", "I love fruit such as mangoes.", "comme, tel que"]
+],
+"exercices": [
+{
+"titre": "1. So ou such ?",
+"consigne": "Complète avec so ou such (a / an si nécessaire).",
+"items": [
+["The soup is ___ hot that I can't eat it.", "so"],
+["It was ___ interesting book.", "such an"],
+["They are ___ friendly neighbours.", "such"],
+["Why are you ___ angry?", "so"],
+["We had ___ bad luck on our trip.", "such"],
+["He runs ___ fast!", "so"],
+["It's ___ beautiful city.", "such a"]
+]
+},
+{
+"titre": "2. So many, so much, such a lot of",
+"consigne": "Complète avec so many, so much ou such a lot of (parfois deux réponses).",
+"items": [
+["There's ___ traffic in Lagos.", "so much / such a lot of"],
+["I've got ___ emails to answer.", "so many / such a lot of"],
+["She spent ___ money on clothes.", "so much / such a lot of"],
+["There were ___ mistakes in the report.", "so many / such a lot of"]
+]
+},
+{
+"titre": "3. Relier avec so / such … that",
+"consigne": "Relie les deux phrases avec so … that ou such … that.",
+"items": [
+["The film was boring. I fell asleep.", "The film was so boring that I fell asleep."],
+["It was a long queue. We left.", "It was such a long queue that we left."],
+["She was nervous. She couldn't speak.", "She was so nervous that she couldn't speak."],
+["They are good friends. They talk every day.", "They are such good friends that they talk every day."]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["It was so a nice evening.", "It was such a nice evening."],
+["He's such rude!", "He's so rude!"],
+["We had such a terrible weather.", "We had such terrible weather."],
+["There were such many people.", "There were so many people."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["C'est une si jolie maison !", "It's such a nice / pretty house!"],
+["J'étais tellement fatigué que je suis rentré tôt.", "I was so tired that I went home early."],
+["Il y avait tellement de bruit !", "There was so much noise!"]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Raconte un événement marquant (fête, voyage, concert, match) en cinq phrases avec so, such et au moins deux conséquences avec that.",
+"items": [
+["Exemple de réponse", "Last year I went to my cousin's wedding in Bafoussam. It was such a big wedding — there were more than 500 guests! The food was so delicious that I ate three plates. The music was so loud that I couldn't hear my phone. It was such a wonderful day."]
+]
+}
+],
+"a_retenir": [
+"so + adjectif / adverbe seul (so hot, so quickly).",
+"such + (a / an) + (adjectif) + nom (such a hot day, such kind people, such good weather).",
+"so many / so much / so few / so little + nom ; such a lot of + nom.",
+"Conséquence : so / such … (that) + proposition.",
+"Jamais « so a » ni « a such » ; pas de a avec un indénombrable (such good weather)."
+],
+"liens": [48, 119, 140],
+"refs": ["bc-so-such", "cam-adj"]
+}

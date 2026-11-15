@@ -1,0 +1,219 @@
+{
+ "n": 20,
+ "niveau": "A1",
+ "titre": "Les nombres de 20 à 1 000",
+ "intro": "Après les nombres de 0 à 20 (leçon 3), voici les dizaines, les centaines et « a thousand ». Ils servent pour les prix, les distances, les adresses, les années et les quantités, avec quelques différences d'écriture importantes par rapport au français (virgule, point, « and »).",
+ "objectifs": [
+  "Dire et écrire les dizaines (twenty à ninety) et les nombres composés avec trait d'union (twenty-one).",
+  "Dire les centaines avec « and » à la britannique (two hundred and fifty) et 1 000 (a thousand).",
+  "Distinguer à l'oral -teen et -ty (thirteen / thirty) grâce à l'accent.",
+  "Lire un prix, un nombre décimal et une année simple, et connaître l'usage de la virgule et du point en anglais."
+ ],
+ "sections": [
+  {
+   "titre": "Les dizaines",
+   "texte": [
+    "Les dizaines se terminent par -ty. Comme pour les nombres en -teen, certaines bases changent : twenty (2), thirty (3), forty (4), fifty (5), eighty (8, un seul t).",
+    "Attention au piège d'orthographe le plus fréquent : « forty » s'écrit SANS u, alors que « four » et « fourteen » en ont un."
+   ],
+   "tableau": {
+    "entetes": ["Chiffre", "En lettres", "Prononciation", "Piège"],
+    "lignes": [
+     ["20", "twenty", "/ˈtwenti/", ""],
+     ["30", "thirty", "/ˈθɜːti/", "thir-, comme thirteen"],
+     ["40", "forty", "/ˈfɔːti/", "pas de u"],
+     ["50", "fifty", "/ˈfɪfti/", "fif-, comme fifteen"],
+     ["60", "sixty", "/ˈsɪksti/", ""],
+     ["70", "seventy", "/ˈsevnti/", "pas de « soixante-dix »"],
+     ["80", "eighty", "/ˈeɪti/", "un seul t"],
+     ["90", "ninety", "/ˈnaɪnti/", "garde le e de nine"]
+    ]
+   },
+   "note": "Bonne nouvelle pour les francophones : l'anglais n'a pas de « soixante-dix » ni de « quatre-vingts ». 70 = seventy, 80 = eighty, 97 = ninety-seven."
+  },
+  {
+   "titre": "Les nombres composés : le trait d'union",
+   "texte": [
+    "Entre 21 et 99, on écrit la dizaine, un trait d'union, puis l'unité : twenty-one, thirty-five, sixty-eight, ninety-nine. Il n'y a jamais de « and » entre la dizaine et l'unité (pas de « vingt et un »).",
+    "-teen ou -ty ? À l'oral, les nombres en -teen sont accentués sur la fin (fifTEEN), et ceux en -ty sur le début (FIFty). Le t de -ty est aussi plus léger, voire un « d » rapide en anglais américain (/ˈfɪfdi/). Pour être sûr, on peut épeler : « one-five or five-oh? »."
+   ],
+   "tableau": {
+    "entetes": ["-teen (accent à la fin)", "-ty (accent au début)"],
+    "lignes": [
+     ["13 thirTEEN /θɜːˈtiːn/", "30 THIRty /ˈθɜːti/"],
+     ["14 fourTEEN /fɔːˈtiːn/", "40 FORty /ˈfɔːti/"],
+     ["15 fifTEEN /fɪfˈtiːn/", "50 FIFty /ˈfɪfti/"],
+     ["16 sixTEEN", "60 SIXty"],
+     ["18 eighTEEN", "80 EIGHty"]
+    ]
+   },
+   "exemples": [
+    ["My father is sixty-two.", "Mon père a soixante-deux ans."],
+    ["There are thirty-one days in May.", "Il y a trente et un jours en mai."],
+    ["It costs forty-five euros.", "Ça coûte quarante-cinq euros."]
+   ]
+  },
+  {
+   "titre": "Les centaines et mille",
+   "texte": [
+    "100 se dit « a hundred » ou « one hundred » (plus précis). Après un nombre, « hundred » ne prend jamais de -s : two hundred, five hundred (jamais « five hundreds »). Le -s apparaît seulement dans l'expression « hundreds of » (des centaines de) : hundreds of people.",
+    "En anglais britannique, on met « and » entre les centaines et le reste : 250 = two hundred and fifty ; 105 = a hundred and five. En anglais américain, « and » est souvent omis : two hundred fifty.",
+    "1 000 se dit « a thousand » ou « one thousand », sans -s après un nombre : three thousand. Le même principe vaut pour « hundreds of / thousands of »."
+   ],
+   "tableau": {
+    "entetes": ["Chiffre", "Anglais britannique", "Anglais américain"],
+    "lignes": [
+     ["100", "a / one hundred", "a / one hundred"],
+     ["101", "a hundred and one", "one hundred (and) one"],
+     ["250", "two hundred and fifty", "two hundred fifty"],
+     ["999", "nine hundred and ninety-nine", "nine hundred ninety-nine"],
+     ["1,000", "a / one thousand", "a / one thousand"]
+    ]
+   },
+   "exemples": [
+    ["The hotel has three hundred rooms.", "L'hôtel a trois cents chambres (pas de -s à hundred)."],
+    ["There are hundreds of birds on the lake.", "Il y a des centaines d'oiseaux sur le lac."],
+    ["It's more than a thousand kilometres from Paris to Rome.", "Il y a plus de mille kilomètres de Paris à Rome (it's pour une distance)."]
+   ]
+  },
+  {
+   "titre": "Virgule et point : l'inverse du français",
+   "texte": [
+    "En anglais, la virgule sépare les milliers : 1,000 (mille), 2,500. En français, on écrit 1 000 ou 1.000. À l'inverse, l'anglais utilise un point pour les décimales : 2.5 (deux virgule cinq), qui se lit « two point five ». Après le point, on lit chiffre par chiffre : 3.75 = three point seven five.",
+    "Les prix : £4.50 se dit « four pounds fifty » ; €19.99 se dit « nineteen euros ninety-nine » ; $1.20 se dit « a dollar twenty ». Le symbole s'écrit avant le nombre en anglais, mais se dit après."
+   ],
+   "exemples": [
+    ["The ticket is £12.50.", "Se dit : twelve pounds fifty."],
+    ["The baby weighs 3.2 kilos.", "Se dit : three point two kilos."],
+    ["About 1,500 people live in my village.", "Environ 1 500 personnes vivent dans mon village (one thousand five hundred)."]
+   ]
+  },
+  {
+   "titre": "Les années, en bonus",
+   "texte": [
+    "Les années jusqu'à 1999 se lisent en deux paires : 1985 = nineteen eighty-five ; 1906 = nineteen oh six. Les années 2000 à 2009 se disent « two thousand (and) + nombre » : 2005 = two thousand and five (GB) / two thousand five (US). À partir de 2010, on entend surtout la forme en paires : 2026 = twenty twenty-six (on entend aussi « two thousand and twenty-six »).",
+    "Pour les âges et les quantités jusqu'à 1 000, on utilise les règles vues plus haut : She's ninety-one. Les dates complètes avec les nombres ordinaux sont étudiées à la leçon 22."
+   ],
+   "exemples": [
+    ["My mother was born in 1972.", "Se dit : nineteen seventy-two."],
+    ["We're in 2026.", "Se dit : twenty twenty-six."]
+   ]
+  }
+ ],
+ "formule": "twenty, thirty, forty, fifty… · twenty-one (trait d'union) · two hundred and fifty (GB) · a thousand · 1,000 (virgule) · 2.5 = two point five",
+ "prononciation": [
+  "-ty est accentué au début (FORty /ˈfɔːti/), -teen à la fin (fourTEEN /fɔːˈtiːn/). C'est la seule façon de les distinguer à l'oral.",
+  "Dans « two hundred and fifty », « and » est très faible : /ən/ → /tuː ˈhʌndrəd ən ˈfɪfti/.",
+  "« hundred » /ˈhʌndrəd/ : deux syllabes, h soufflé ; « thousand » /ˈθaʊznd/ commence par /θ/ (langue entre les dents, souffle).",
+  "En anglais américain, le t entre deux voyelles devient un « d » rapide : twenty /ˈtweni/, thirty /ˈθɝːdi/, forty /ˈfɔːrdi/.",
+  "« eighty » /ˈeɪti/ : le gh est muet, comme dans eight."
+ ],
+ "erreurs": [
+  ["fourty", "forty", "40 s'écrit sans u."],
+  ["twenty one", "twenty-one", "Trait d'union entre la dizaine et l'unité."],
+  ["twenty and one", "twenty-one", "Pas de « and » entre la dizaine et l'unité."],
+  ["three hundreds euros", "three hundred euros", "Pas de -s à hundred après un nombre."],
+  ["two thousands", "two thousand", "Pas de -s à thousand après un nombre."],
+  ["two comma five (2,5)", "two point five (2.5)", "Les décimales s'écrivent avec un point et se lisent « point »."],
+  ["Euros twenty", "twenty euros", "On dit la monnaie après le nombre."],
+  ["sixty-ten (70)", "seventy", "L'anglais n'a pas de « soixante-dix »."]
+ ],
+ "dialogue": {
+  "contexte": "Dans une agence immobilière de Liège, un client se renseigne sur un appartement.",
+  "lignes": [
+   ["Agent", "This flat is on the fourth floor. It's eighty-five square metres.", "Cet appartement est au quatrième étage. Il fait quatre-vingt-cinq mètres carrés."],
+   ["Client", "Sorry, eighty-five or ninety-five?", "Pardon, quatre-vingt-cinq ou quatre-vingt-quinze ?"],
+   ["Agent", "Eighty-five: eight, five.", "Quatre-vingt-cinq : huit, cinq."],
+   ["Client", "OK. And how much is the rent?", "D'accord. Et combien coûte le loyer ?"],
+   ["Agent", "It's seven hundred and fifty euros a month, plus sixty euros for charges.", "C'est sept cent cinquante euros par mois, plus soixante euros de charges."],
+   ["Client", "So, eight hundred and ten euros in total. Is the building old?", "Donc huit cent dix euros au total. L'immeuble est ancien ?"],
+   ["Agent", "Yes, it's from 1930: nineteen thirty. But the kitchen is new.", "Oui, il date de 1930. Mais la cuisine est neuve."],
+   ["Client", "And how far is it from the station?", "Et c'est à quelle distance de la gare ?"],
+   ["Agent", "About nine hundred metres. Fifteen minutes on foot, or five by bus.", "Environ neuf cents mètres. Quinze minutes à pied, ou cinq en bus."]
+  ]
+ },
+ "mots": [
+  ["hundred", "There are a hundred people here.", "cent"],
+  ["thousand", "It costs a thousand euros.", "mille"],
+  ["price", "What's the price of this bike?", "le prix"],
+  ["cost", "How much does it cost?", "coûter"],
+  ["rent", "The rent is six hundred euros a month.", "le loyer"],
+  ["about", "It's about fifty kilometres.", "environ"],
+  ["total", "The total is ninety-five euros.", "le total"],
+  ["kilometre", "It's thirty kilometres from here.", "le kilomètre (US : kilometer)"],
+  ["metre", "The room is five metres long.", "le mètre (US : meter)"],
+  ["point", "Two point five.", "la virgule (dans un nombre décimal), le point"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Écrire en lettres",
+   "consigne": "Écris le nombre en toutes lettres.",
+   "items": [
+    ["40", "forty"],
+    ["73", "seventy-three"],
+    ["98", "ninety-eight"],
+    ["150", "a hundred and fifty / one hundred and fifty"],
+    ["306", "three hundred and six"],
+    ["1,000", "a thousand / one thousand"]
+   ]
+  },
+  {
+   "titre": "2. -teen ou -ty ?",
+   "consigne": "Écris le nombre en chiffres. Les majuscules montrent la syllabe accentuée.",
+   "items": [
+    ["fifTEEN", "15"],
+    ["FIFty", "50"],
+    ["eighTEEN", "18"],
+    ["NINEty", "90"],
+    ["THIRty", "30"]
+   ]
+  },
+  {
+   "titre": "3. Lire à voix haute",
+   "consigne": "Écris comment on lit ces nombres, prix et années (anglais britannique).",
+   "items": [
+    ["€24.99", "twenty-four euros ninety-nine"],
+    ["£3.50", "three pounds fifty"],
+    ["6.4 (kilos)", "six point four (kilos)"],
+    ["1990", "nineteen ninety"],
+    ["2,500", "two thousand five hundred"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["My grandfather is fourty-nine.", "My grandfather is forty-nine."],
+    ["The ticket costs two hundreds euros.", "The ticket costs two hundred euros."],
+    ["There are thousand of people at the concert.", "There are thousands of people at the concert."],
+    ["It's twenty and five kilometres.", "It's twenty-five kilometres."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais (nombres en lettres).",
+   "items": [
+    ["Mon oncle a quatre-vingt-un ans.", "My uncle is eighty-one."],
+    ["La chambre coûte cent vingt euros la nuit.", "The room costs a hundred and twenty euros a night."],
+    ["Il y a des centaines de livres dans la bibliothèque.", "There are hundreds of books in the library."],
+    ["Montréal est à environ cinq cents kilomètres de Toronto.", "Montréal is about five hundred kilometres from Toronto."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris quatre phrases vraies avec des nombres entre 20 et 1 000 : un âge, un prix, une distance et un nombre de personnes ou de choses.",
+   "items": [
+    ["Exemple de réponse", "My grandmother is eighty-three. My phone costs three hundred and fifty euros. My office is about twenty-five kilometres from my house. There are about six hundred students in my daughter's school."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "twenty, thirty, forty (sans u), fifty, sixty, seventy, eighty, ninety.",
+  "21-99 : trait d'union, sans and (twenty-one) ; centaines : two hundred and fifty (GB).",
+  "hundred et thousand sans -s après un nombre ; mais hundreds of / thousands of.",
+  "1,000 (virgule pour les milliers) ; 2.5 = two point five (point pour les décimales).",
+  "-ty accentué au début (FORty), -teen à la fin (fourTEEN)."
+ ],
+ "liens": [3, 19, 21, 22, 89],
+ "refs": ["bc-a1a2", "cam-nouns"]
+}

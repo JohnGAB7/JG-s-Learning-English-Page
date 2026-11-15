@@ -1,0 +1,216 @@
+{
+"n": 76,
+"niveau": "A2",
+"titre": "Talking about your weekend",
+"intro": "“How was your weekend?” is the classic Monday morning question in English-speaking countries. This lesson helps you talk about your weekend in the past simple, ask questions back and react naturally to other people's stories.",
+"objectifs": [
+ "Talk about a past weekend in the past simple with the most common irregular verbs.",
+ "Ask questions: How was your weekend? What did you do? Did you go out?",
+ "React to a story: That sounds fun! Lucky you! Oh no!",
+ "Talk about next weekend with the present continuous and be going to."
+],
+"sections": [
+ {
+  "titre": "Monday questions",
+  "texte": [
+   "The most common questions are “How was your weekend?”, “Did you have a good weekend?” and “What did you do at the weekend?” (US: “on the weekend”).",
+   "You can ask for more details: “Did you do anything nice / special?”, “Did you go out?”, “Where did you go?”, “Who did you go with?”. Remember: past simple questions use “did” + base verb (lesson 67).",
+   "The usual answer is short and positive, with one detail: “It was great, thanks. I went to the beach.” Then ask the question back: “What about you?” / “How was yours?”"
+  ],
+  "tableau": {
+   "entetes": ["Question", "Possible answer"],
+   "lignes": [
+    ["How was your weekend?", "It was great / lovely / quiet / busy / awful."],
+    ["Did you have a good weekend?", "Yes, thanks. / Not really."],
+    ["What did you do?", "I visited my grandparents in Bafoussam."],
+    ["Did you go out?", "Yes, we went to a concert. / No, I stayed in."],
+    ["Did you do anything special?", "Not really. Nothing special."]
+   ]
+  },
+  "exemples": [
+   ["How was your weekend? — Really nice, thanks. I went hiking. How was yours?", "Answer + detail + question back."],
+   ["Did you do anything special? — No, nothing special. I just relaxed.", "A quiet weekend."]
+  ]
+ },
+ {
+  "titre": "Weekend verbs in the past simple",
+  "texte": [
+   "Weekend activities use a lot of irregular verbs (lesson 42). Learn them in full phrases: “went shopping”, “had a barbecue”, “saw a film”."
+  ],
+  "tableau": {
+   "entetes": ["Base", "Past simple", "Weekend phrase"],
+   "lignes": [
+    ["go", "went", "went to the market / went out / went swimming"],
+    ["have", "had", "had a party / had a lie-in / had friends over"],
+    ["see", "saw", "saw a film / saw my cousins"],
+    ["meet", "met", "met some friends in town"],
+    ["do", "did", "did the shopping / did some gardening"],
+    ["spend", "spent", "spent the day at the beach"],
+    ["eat", "ate", "ate out (in a restaurant)"],
+    ["sleep", "slept", "slept until eleven"],
+    ["take", "took", "took the children to the zoo"],
+    ["stay / visit / watch / play", "stayed / visited / watched / played", "stayed in / visited my aunt / watched the match / played football"]
+   ]
+  },
+  "exemples": [
+   ["On Saturday I had a lie-in and then I did the shopping.", "had a lie-in = stayed in bed late."],
+   ["We spent Sunday at my in-laws' house.", "spend time somewhere."],
+   ["I met some friends and we ate out in a Lebanese restaurant.", "ate out = ate in a restaurant."]
+  ],
+  "note": "Careful: say “have a party” (not “make a party”) and “spend time” (not “pass time”)."
+ },
+ {
+  "titre": "Organising your story",
+  "texte": [
+   "Say when: “on Saturday morning”, “on Sunday afternoon”, “in the evening”, “all weekend” (no “the”).",
+   "Link the steps with the words from lesson 75: first, then, after that, in the end. For the background or an action that was interrupted, use the past continuous (lesson 43): “We were having lunch outside when it started to rain.”",
+   "For a quiet weekend: “I stayed in”, “I just relaxed”, “I didn't do much”, “I caught up on some sleep”."
+  ],
+  "exemples": [
+   ["On Saturday morning I went to the gym. In the afternoon I visited my sister.", "Times of the day."],
+   ["We were walking in the park when we saw an old friend.", "Past continuous + past simple."],
+   ["I was ill, so I stayed in bed all weekend.", "all weekend: no “the”."]
+  ]
+ },
+ {
+  "titre": "Reacting to a story",
+  "texte": [
+   "In a conversation, you don't just listen: you react. English speakers use many short phrases to show interest.",
+   "“That sounds…” + adjective is very common: “That sounds fun / great / lovely / awful”. You can also ask a follow-up question: “Really? Where did you go?”"
+  ],
+  "tableau": {
+   "entetes": ["Situation", "Reaction", "Note"],
+   "lignes": [
+    ["good news", "That sounds great! / How nice!", "positive"],
+    ["good luck", "Lucky you!", "a little jealous, in a friendly way"],
+    ["bad news", "Oh no! / That's a shame. / Poor you!", "showing sympathy"],
+    ["surprise", "Really? / No way!", "“No way!” is informal"],
+    ["a quiet time", "Sounds relaxing.", "“That” is often dropped"]
+   ]
+  },
+  "exemples": [
+   ["I went to the beach in Grand-Bassam. — Lucky you! Was it hot?", "Reaction + follow-up question."],
+   ["My car broke down on the motorway. — Oh no! That's awful.", "Sympathy."]
+  ]
+ },
+ {
+  "titre": "And next weekend?",
+  "texte": [
+   "On Friday the question changes: “What are you doing this weekend?” or “Have you got any plans for the weekend?”. For an arrangement, use the present continuous (lesson 50); for an intention, “be going to” (lesson 45).",
+   "To wish someone a good weekend: “Have a nice / good weekend!” — answer: “Thanks, you too!”"
+  ],
+  "exemples": [
+   ["What are you doing this weekend? — I'm meeting my cousins in Ghent on Saturday.", "An arrangement."],
+   ["I'm going to paint my bedroom.", "An intention."],
+   ["Have a good weekend! — Thanks, you too!", "Saying goodbye on Friday."]
+  ]
+ }
+],
+"formule": "How was your weekend? — It was… I went / had / saw… What about you? · That sounds great! · What are you doing this weekend?",
+"prononciation": [
+ "The -ed of regular verbs: /t/ (watched, relaxed), /d/ (stayed, played), /ɪd/ only after t or d (visited, rested).",
+ "“Did you” is linked in speech: /ˈdɪdʒə/ (“didja”). “What did you do?” ≈ /ˈwɒdɪdʒə ˈduː/.",
+ "Irregular verbs to say well: saw /sɔː/, bought /bɔːt/, caught /kɔːt/ (same long vowel), ate /et/ (UK) or /eɪt/, met /met/.",
+ "“That sounds great!”: the voice falls on GREAT and shows enthusiasm; a flat voice can sound ironic.",
+ "“weekend”: stress on the first syllable in British English (WEEKend), often on the second in American English (weekEND)."
+],
+"erreurs": [
+ ["What did you do the weekend?", "What did you do at the weekend? / What did you do last weekend?", "You need a preposition (at, US on) or “last”."],
+ ["I goed to the beach.", "I went to the beach.", "“Go” is irregular: went."],
+ ["Did you went out?", "Did you go out?", "After “did”, use the base verb."],
+ ["I have seen a film on Saturday.", "I saw a film on Saturday.", "A finished time in the past: past simple, not present perfect."],
+ ["I stayed at home all the weekend.", "I stayed at home all weekend.", "“All weekend”, with no “the”."],
+ ["We made a party.", "We had a party.", "Say “have a party”."],
+ ["I rested myself.", "I rested. / I relaxed.", "“Rest” and “relax” don't take “myself”."],
+ ["Nothing of special.", "Nothing special.", "No “of” after nothing / something."]
+],
+"dialogue": {
+ "contexte": "Monday morning at the coffee machine in a company in Lyon. Inès and Kwame talk about their weekend.",
+ "lignes": [
+  ["Kwame", "Morning, Inès! How was your weekend?", "The classic question."],
+  ["Inès", "Lovely, thanks. My sister came from Brussels, so we went to Annecy.", "came, went: irregular verbs."],
+  ["Kwame", "Lucky you! What did you do there?", "Reaction + follow-up question."],
+  ["Inès", "We walked around the lake and had lunch in the old town. Then we rented a boat.", "A sequence of actions."],
+  ["Kwame", "That sounds amazing.", "That sounds + adjective."],
+  ["Inès", "It was! And you? Did you do anything special?", "Asking the question back."],
+  ["Kwame", "Not really. On Saturday I did the shopping and cleaned the flat.", "A quiet weekend."],
+  ["Kwame", "On Sunday I watched the Africa Cup final with some friends.", "watched: regular verb."],
+  ["Inès", "Oh, was it a good match?", "Follow-up question."],
+  ["Kwame", "Fantastic! We were jumping and shouting all evening!", "Past continuous for a long action."]
+ ]
+},
+"mots": [
+ ["lie-in", "I had a lie-in on Sunday.", "a morning when you stay in bed later than usual (UK)"],
+ ["relax", "I just relaxed at home.", "rest and become calm"],
+ ["spend", "We spent the day at the beach.", "use time doing something; use money"],
+ ["go out", "Did you go out on Saturday night?", "leave home to do something fun"],
+ ["stay in", "It was raining, so we stayed in.", "stay at home"],
+ ["nothing special", "What did you do? — Nothing special.", "nothing different or interesting"],
+ ["visit", "I visited my grandmother.", "go to see a person or a place"],
+ ["catch up", "I caught up with an old friend.", "talk to someone to learn their news; do things you didn't have time to do"],
+ ["exhausted", "I was exhausted after the party.", "very, very tired"],
+ ["fun", "The party was really fun.", "enjoyable; pleasure"]
+],
+"exercices": [
+ {
+  "titre": "1. Past simple forms",
+  "consigne": "Write the past simple.",
+  "items": [
+   ["go", "went"],
+   ["have", "had"],
+   ["spend", "spent"],
+   ["meet", "met"],
+   ["stay", "stayed"],
+   ["buy", "bought"]
+  ]
+ },
+ {
+  "titre": "2. Ask the questions",
+  "consigne": "Write the question in the past simple.",
+  "items": [
+   ["how / be / your weekend?", "How was your weekend?"],
+   ["what / you / do / on Saturday?", "What did you do on Saturday?"],
+   ["you / go out / on Friday night?", "Did you go out on Friday night?"],
+   ["where / you / have / lunch?", "Where did you have lunch?"],
+   ["who / you / go / with?", "Who did you go with?"]
+  ]
+ },
+ {
+  "titre": "3. React",
+  "consigne": "Choose a good reaction: Lucky you! / Oh no! / That sounds relaxing. / Really?",
+  "items": [
+   ["I won 500 euros in a competition!", "Lucky you! (or: Really?)"],
+   ["I lost my phone on the train.", "Oh no!"],
+   ["I read a book in the garden all afternoon.", "That sounds relaxing."],
+   ["I met the president of the football club in a café!", "Really?"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["What did you do the last weekend?", "What did you do last weekend?"],
+   ["We made a party on Saturday night.", "We had a party on Saturday night."],
+   ["I passed Sunday with my family.", "I spent Sunday with my family."],
+   ["I stayed in all the weekend.", "I stayed in all weekend."],
+   ["Nothing of special. I rested myself.", "Nothing special. I relaxed. / I just rested."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "A colleague asks you “How was your weekend?”. Answer in five or six sentences in the past simple, then ask the question back and say what you are doing next weekend.",
+  "items": [
+   ["Model answer", "It was really nice, thanks. On Saturday morning I had a lie-in, and then I went to the market with my mum. In the afternoon some friends came over and we watched a film. On Sunday I visited my grandparents and we ate a big lunch together. What about you? Next weekend I'm going to a wedding in Douala."]
+  ]
+ }
+],
+"a_retenir": [
+ "How was your weekend? / Did you have a good weekend? / What did you do at (US on) the weekend?",
+ "Past simple: went, had, saw, met, did, spent, ate, slept; questions with did + base verb.",
+ "have a party, spend time, all weekend, stay in, go out, have a lie-in.",
+ "React: That sounds great! Lucky you! Oh no! Really? — and ask back: What about you?",
+ "Next weekend: What are you doing this weekend? — I'm meeting… / I'm going to…"
+],
+"liens": [41, 42, 43, 50, 75],
+"refs": ["bc-a1a2", "cam-verbs"]
+}

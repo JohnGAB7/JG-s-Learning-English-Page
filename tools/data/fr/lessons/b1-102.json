@@ -1,0 +1,195 @@
+{
+ "n": 102,
+ "niveau": "B1",
+ "titre": "Les relatives sans pronom et whose",
+ "intro": "En anglais courant, on supprime très souvent le pronom relatif : « the film I saw », « the man you met ». Il faut savoir quand c'est possible, et savoir utiliser whose (dont, de qui) pour exprimer la possession dans une relative.",
+ "objectifs": [
+  "Savoir quand on peut supprimer who, which ou that (pronom complément) et quand c'est impossible (pronom sujet, relative explicative).",
+  "Comprendre et produire des relatives « cachées » avec une préposition à la fin (the person I spoke to).",
+  "Utiliser whose + nom pour exprimer la possession, pour les personnes et les choses.",
+  "Traduire « dont » correctement selon le sens (whose, of which, about which, ou relative sans pronom)."
+ ],
+ "sections": [
+  {
+   "titre": "Supprimer le pronom complément",
+   "texte": [
+    "Dans une relative déterminative, quand who, which ou that est complément (c'est-à-dire suivi d'un sujet et d'un verbe), on peut le supprimer. C'est même la forme la plus naturelle à l'oral : « The film (that) we watched was great. »",
+    "Méthode : regarde le mot qui suit le pronom. Si c'est un sujet (I, you, my sister, the children…), le pronom peut disparaître. Si c'est un verbe, le pronom est sujet et doit rester.",
+    "Le français ne permet jamais de supprimer « que » ; c'est pourquoi les francophones ont du mal à reconnaître ces phrases à l'écoute : « The man I met » = l'homme que j'ai rencontré."
+   ],
+   "tableau": {
+    "entetes": ["Avec pronom", "Sans pronom (courant)", "Possible ?"],
+    "lignes": [
+     ["The book that I bought is good.", "The book I bought is good.", "oui (that = complément)"],
+     ["The woman who you saw is my aunt.", "The woman you saw is my aunt.", "oui (who = complément)"],
+     ["The man who lives here is kind.", "—", "non (who = sujet de lives)"],
+     ["The bus that goes to Kribi is full.", "—", "non (that = sujet de goes)"],
+     ["My car, which I bought in 2020, is red.", "—", "non (relative explicative)"]
+    ]
+   }
+  },
+  {
+   "titre": "Relatives sans pronom avec une préposition",
+   "texte": [
+    "Quand la préposition est à la fin de la relative, on supprime presque toujours le pronom : « the person I spoke to », « the music she listens to », « the problem we talked about ». C'est la structure la plus naturelle en anglais parlé.",
+    "En français, on dirait « la personne à qui j'ai parlé », « la musique qu'elle écoute », « le problème dont nous avons parlé ». N'oublie pas la préposition finale : « the house I live » est faux, il faut « the house I live in »."
+   ],
+   "exemples": [
+    ["That's the man I told you about.", "C'est l'homme dont je t'ai parlé."],
+    ["Is this the key you were looking for?", "C'est la clé que tu cherchais ?"],
+    ["The company she works for is based in Ottawa.", "L'entreprise pour laquelle elle travaille est basée à Ottawa."],
+    ["The friends I went on holiday with are from Ghent.", "Les amis avec qui je suis parti en vacances sont de Gand."]
+   ]
+  },
+  {
+   "titre": "Whose : la possession",
+   "texte": [
+    "Whose remplace un possessif (his, her, their, its) dans une relative. Il est toujours suivi d'un nom, sans article : « the man whose car was stolen » (l'homme dont la voiture a été volée = his car was stolen).",
+    "Whose s'emploie pour les personnes, mais aussi pour les choses, les pays, les entreprises : « a company whose profits are rising », « a city whose streets are clean ». Dans un style très formel, on trouve aussi « of which » pour les choses (the house, the roof of which…), mais whose est plus simple et plus courant.",
+    "Whose peut être utilisé dans une relative explicative : « My neighbour, whose son plays for the national team, is very proud. » Ne le confonds pas avec who's (= who is / who has), qui se prononce pareil."
+   ],
+   "exemples": [
+    ["I have a friend whose father is a pilot.", "J'ai un ami dont le père est pilote."],
+    ["That's the girl whose phone I found.", "C'est la fille dont j'ai trouvé le téléphone."],
+    ["We stayed in a village whose name I can't remember.", "Nous avons logé dans un village dont je ne me rappelle pas le nom."],
+    ["Who's the woman whose bag is on my chair?", "Qui est la femme dont le sac est sur ma chaise ? (who's ≠ whose)"]
+   ]
+  },
+  {
+   "titre": "Traduire « dont »",
+   "texte": [
+    "« Dont » n'a pas d'équivalent unique. Il faut se demander quelle est sa fonction dans la phrase française.",
+    "Si « dont » exprime la possession (dont le père, dont la voiture) → whose + nom. Si « dont » vient d'un verbe construit avec « de » (parler de, avoir besoin de, être fier de) → relative sans pronom + la préposition anglaise du verbe (talk about, need, be proud of)."
+   ],
+   "tableau": {
+    "entetes": ["Français", "Anglais", "Logique"],
+    "lignes": [
+     ["l'homme dont la fille est médecin", "the man whose daughter is a doctor", "possession → whose"],
+     ["le livre dont je t'ai parlé", "the book I told you about", "parler de → talk / tell about"],
+     ["les outils dont j'ai besoin", "the tools I need", "avoir besoin de → need (sans préposition)"],
+     ["le projet dont elle est fière", "the project she's proud of", "être fier de → be proud of"],
+     ["la façon dont il parle", "the way he speaks", "la façon dont → the way (sans pronom)"]
+    ]
+   }
+  },
+  {
+   "titre": "Formes réduites avec -ing et participe",
+   "texte": [
+    "Une relative sujet peut parfois être réduite : on supprime le pronom et be, et on garde le verbe en -ing ou le participe passé. « The man (who is) sitting by the window » → « the man sitting by the window ». « The cars (which were) made in this factory » → « the cars made in this factory ».",
+    "Ces formes sont très fréquentes à l'écrit, dans les articles et les consignes. Elles seront approfondies au niveau C1 (propositions participiales)."
+   ],
+   "exemples": [
+    ["Who's the woman talking to Marc?", "= the woman who is talking to Marc."],
+    ["The photos taken at the wedding are beautiful.", "= the photos that were taken at the wedding."]
+   ]
+  }
+ ],
+ "formule": "nom + (that / who / which) + sujet + verbe → nom + sujet + verbe · nom + whose + nom + verbe",
+ "prononciation": [
+  "Quand le pronom est supprimé, la phrase est liée d'un seul souffle : « the film I saw » /ðə ˈfɪlm aɪ ˈsɔː/. Repère le second sujet (I) pour comprendre la structure.",
+  "whose /huːz/ et who's /huːz/ se prononcent exactement pareil : seul le contexte (ou l'orthographe) les distingue.",
+  "La préposition finale doit s'entendre : en fin de phrase, elle prend sa forme pleine. « the man I talked to » se termine par /tuː/ (pas /tə/), « the job she applied for » par /fɔː/.",
+  "Dans « the woman whose son… », l'accent tombe sur le nom qui suit whose : « whose SON plays football »."
+ ],
+ "erreurs": [
+  ["The man lives next door is a doctor.", "The man who lives next door is a doctor.", "Pronom sujet : impossible à supprimer."],
+  ["The house I live is very old.", "The house I live in is very old.", "Garde la préposition du verbe (live in) à la fin."],
+  ["The man who his car was stolen called the police.", "The man whose car was stolen called the police.", "Possession : whose + nom, sans his."],
+  ["The girl whose the bag is red is my cousin.", "The girl whose bag is red is my cousin.", "Pas d'article après whose."],
+  ["The film of which I told you is on TV tonight.", "The film I told you about is on TV tonight.", "« Dont » après « parler de » : relative + about, pas of which."],
+  ["My sister, I live with, is a nurse.", "My sister, who I live with, is a nurse.", "Relative explicative : le pronom ne peut pas être supprimé."],
+  ["Who's car is this?", "Whose car is this?", "Possession = whose ; who's = who is / who has."]
+ ],
+ "dialogue": {
+  "contexte": "Une colocation à Bruxelles. Léa cherche des affaires perdues ; son colocataire Samuel, venu de Buea, l'aide.",
+  "lignes": [
+   ["Léa", "Have you seen the scarf I bought in Marrakech?", "Tu as vu l'écharpe que j'ai achetée à Marrakech ?"],
+   ["Samuel", "The blue one? Isn't it the one you lent to Inès?", "La bleue ? Ce n'est pas celle que tu as prêtée à Inès ?"],
+   ["Léa", "Oh, you're right! Inès is the friend whose brother works at the European Parliament.", "Ah, tu as raison ! Inès, c'est l'amie dont le frère travaille au Parlement européen."],
+   ["Samuel", "Yes, the guy we met at the concert last month.", "Oui, le gars qu'on a rencontré au concert le mois dernier."],
+   ["Léa", "Exactly. And where are the keys I left on the table?", "Exactement. Et où sont les clés que j'ai laissées sur la table ?"],
+   ["Samuel", "In the drawer you always forget about!", "Dans le tiroir que tu oublies toujours !"],
+   ["Léa", "Ha! And whose jacket is this on the sofa?", "Ha ! Et à qui est cette veste sur le canapé ?"],
+   ["Samuel", "That's the jacket my cousin was looking for. He's the one who's coming for dinner tonight.", "C'est la veste que mon cousin cherchait. C'est lui qui vient dîner ce soir."]
+  ]
+ },
+ "mots": [
+  ["whose", "She's the colleague whose idea won the prize.", "dont, de qui, à qui"],
+  ["look for", "Is this the book you were looking for?", "chercher"],
+  ["talk about", "That's the problem we talked about.", "parler de"],
+  ["rely on", "He's the only person I can rely on.", "compter sur"],
+  ["proud of", "This is the project I'm most proud of.", "fier, fière de"],
+  ["lend", "The umbrella you lent me is broken.", "prêter"],
+  ["drawer", "The keys are in the drawer I showed you.", "le tiroir"],
+  ["owner", "The owner whose shop was robbed called the police.", "le / la propriétaire"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Peut-on supprimer le pronom ?",
+   "consigne": "Dis si le pronom relatif peut être supprimé (oui / non).",
+   "items": [
+    ["The cake that you made was delicious.", "oui"],
+    ["The woman who called you is my boss.", "non (who est sujet)"],
+    ["The people who we met in Kribi were friendly.", "oui"],
+    ["My father, who you met last year, is retired.", "non (relative explicative)"],
+    ["The train which leaves at 8 is always full.", "non (which est sujet)"]
+   ]
+  },
+  {
+   "titre": "2. Whose, who ou who's ?",
+   "consigne": "Complète avec whose, who ou who's.",
+   "items": [
+    ["I know a man ___ wife is a famous singer.", "whose"],
+    ["The student ___ asked the question is from Bafoussam.", "who"],
+    ["___ the woman in the photo?", "Who's"],
+    ["___ phone is ringing?", "Whose"]
+   ]
+  },
+  {
+   "titre": "3. Relier sans pronom",
+   "consigne": "Relie les phrases avec une relative sans pronom (garde la préposition si nécessaire).",
+   "items": [
+    ["This is the hotel. We stayed at it last summer.", "This is the hotel we stayed at last summer."],
+    ["The music is too loud. My neighbour listens to it.", "The music my neighbour listens to is too loud."],
+    ["I loved the meal. You cooked it.", "I loved the meal you cooked."],
+    ["She's the friend. I can always count on her.", "She's the friend I can always count on."]
+   ]
+  },
+  {
+   "titre": "4. Relier avec whose",
+   "consigne": "Relie les phrases avec whose.",
+   "items": [
+    ["I met a woman. Her son studies in Montreal.", "I met a woman whose son studies in Montreal."],
+    ["That's the company. Its products are sold all over Africa.", "That's the company whose products are sold all over Africa."],
+    ["The boy is crying. His bike was stolen.", "The boy whose bike was stolen is crying."],
+    ["We visited a town. I can't pronounce its name.", "We visited a town whose name I can't pronounce."]
+   ]
+  },
+  {
+   "titre": "5. Traduire « dont »",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["C'est le film dont tout le monde parle.", "It's the film everyone is talking about."],
+    ["J'ai une voisine dont le mari est pilote.", "I have a neighbour whose husband is a pilot."],
+    ["Voici les documents dont tu as besoin.", "Here are the documents you need."],
+    ["C'est le travail dont je suis le plus fier.", "It's the work I'm proudest of. / It's the work I'm most proud of."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 4 phrases sur des gens et des choses de ta vie : deux relatives sans pronom (dont une avec une préposition finale) et deux phrases avec whose.",
+   "items": [
+    ["Exemple de réponse", "The city I live in is small but very green. My best friend is the person I talk to when I have a problem. I have a cousin whose restaurant is famous in Douala. I work for a company whose clients are mostly in Canada."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Pronom complément (suivi d'un sujet) : on peut le supprimer — the film (that) I saw.",
+  "Pronom sujet (suivi d'un verbe) ou relative explicative : on ne le supprime jamais.",
+  "La préposition reste à la fin : the person I spoke to, the house I live in.",
+  "Whose + nom (sans article) = possession, pour personnes et choses ; ≠ who's.",
+  "« Dont » : whose pour la possession, sinon relative sans pronom + préposition du verbe anglais."
+ ],
+ "liens": [101, 15, 63, 151],
+ "refs": ["bc-relative-def", "bc-relative-nondef"]
+}

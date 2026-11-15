@@ -1,0 +1,217 @@
+{
+ "n": 6,
+ "niveau": "A1",
+ "titre": "The present simple",
+ "intro": "Use the present simple for habits, general facts and permanent situations: what you do every day, where you live, what you like. It is the tense you use most to talk about yourself.",
+ "objectifs": [
+  "Use a verb in the present simple, with the -s for he / she / it and its spelling rules.",
+  "Make negatives and questions with do / does, and give short answers.",
+  "Know when to use the present simple: habits, facts, permanent situations, likes and opinions.",
+  "Say the final -s correctly: /s/, /z/ or /ɪz/."
+ ],
+ "sections": [
+  {
+   "titre": "Positive sentences: remember the -s",
+   "texte": [
+    "In the present simple, the verb keeps its base form (the dictionary form, without “to”) with every subject except one: with he, she, it (and any singular subject like “my sister” or “the shop”), add -s.",
+    "This -s is the rule learners forget most. Remember: he / she / it → -s. “Have”, “do” and “go” are irregular with he / she / it: has, does, goes."
+   ],
+   "tableau": {
+    "entetes": ["Subject", "work", "live", "have"],
+    "lignes": [
+     ["I", "I work", "I live", "I have"],
+     ["you", "you work", "you live", "you have"],
+     ["he / she / it", "she works", "he lives", "it has"],
+     ["we", "we work", "we live", "we have"],
+     ["they", "they work", "they live", "they have"]
+    ]
+   },
+   "exemples": [
+    ["I work in a bank.", "I → base form."],
+    ["My sister lives in Québec.", "Singular subject → -s."],
+    ["The shop opens at nine.", "“The shop” = it → -s."]
+   ]
+  },
+  {
+   "titre": "Spelling for he / she / it",
+   "texte": [
+    "Most verbs just add -s. But some endings change the spelling, like plural nouns (lesson 12)."
+   ],
+   "tableau": {
+    "entetes": ["Verb ending", "Rule", "Examples"],
+    "lignes": [
+     ["most verbs", "+ s", "work → works, read → reads, play → plays"],
+     ["-s, -ss, -sh, -ch, -x, -z", "+ es", "miss → misses, wash → washes, watch → watches, fix → fixes"],
+     ["-o", "+ es", "go → goes, do → does"],
+     ["consonant + y", "y → ies", "study → studies, try → tries, carry → carries"],
+     ["vowel + y", "+ s", "play → plays, buy → buys, say → says"],
+     ["have", "irregular", "have → has"]
+    ]
+   },
+   "note": "“says” sounds like /sez/ and “does” like /dʌz/: the vowel changes when you speak."
+  },
+  {
+   "titre": "Negatives and questions with do / does",
+   "texte": [
+    "“To be” and “have got” don't need help, but a normal verb needs an auxiliary in negatives and questions: do (or does with he / she / it). The main verb goes back to its base form, without -s: “does” already shows he / she / it.",
+    "Negative: subject + don't / doesn't + base verb. Question: Do / Does + subject + base verb? Short answer: Yes, I do. / No, she doesn't. (Don't repeat the main verb.)"
+   ],
+   "tableau": {
+    "entetes": ["", "I / you / we / they", "he / she / it"],
+    "lignes": [
+     ["Negative", "I don't (do not) eat meat.", "She doesn't (does not) eat meat."],
+     ["Question", "Do you eat meat?", "Does she eat meat?"],
+     ["Short answer (yes)", "Yes, I do.", "Yes, she does."],
+     ["Short answer (no)", "No, I don't.", "No, she doesn't."],
+     ["Wh- question", "Where do you work?", "What does he do?"]
+    ]
+   },
+   "exemples": [
+    ["He doesn't like coffee.", "doesn't + like, no -s."],
+    ["Do your children speak English? — Yes, they do.", "Question and short answer."],
+    ["What time does the train leave?", "Wh- word + does + subject + base verb."]
+   ],
+   "note": "“Do” can be an auxiliary and a main verb in the same sentence: What do you do? (= What is your job?), She doesn't do her homework."
+  },
+  {
+   "titre": "When to use the present simple",
+   "texte": [
+    "1. Habits and routines, often with a time or frequency word: every day, every week, on Mondays, at the weekend, always, usually, often, sometimes, never (adverbs of frequency: lesson 7).",
+    "2. Facts and general truths: things that are always true.",
+    "3. Permanent or long situations: where you live, where you work.",
+    "4. Likes, opinions and states: like, love, hate, want, know, understand, think (= have an opinion), believe. Use these state verbs in the present simple even for now (lesson 9).",
+    "5. Timetables (trains, classes, films): The film starts at eight."
+   ],
+   "exemples": [
+    ["I get up at six every day.", "Habit."],
+    ["Water boils at 100 degrees.", "General truth."],
+    ["They live in Douala.", "Permanent situation."],
+    ["I don't understand this word.", "State verb: no -ing form."],
+    ["The bus leaves at 7.15.", "Timetable."]
+   ]
+  },
+  {
+   "titre": "Present simple or not?",
+   "texte": [
+    "Some languages use one present tense for “I work” (habit) and “I am working” (now). English has two: the present simple for habits and permanent things (I work in Brussels), and the present continuous for what is happening now (I'm working now, lesson 8). Saying “I work” about this moment is a common mistake.",
+    "Also, English doesn't use the present simple for a period that started in the past and continues now: don't say “I live here since three years”. You will learn the right form at A2 / B1. For now, just remember: “since” and “for” + a period don't go with the present simple."
+   ]
+  }
+ ],
+ "formule": "I / you / we / they + verb · he / she / it + verb-s · don't / doesn't + verb · Do / Does + subject + verb?",
+ "prononciation": [
+  "The final -s sounds like /s/ after p, t, k, f sounds: works /wɜːks/, stops, laughs.",
+  "It sounds like /z/ after a vowel or a voiced sound: lives /lɪvz/, plays /pleɪz/, reads /riːdz/.",
+  "It sounds like /ɪz/ (one extra syllable) after s, z, sh, ch, j, x sounds: watches /ˈwɒtʃɪz/, misses, washes, changes.",
+  "“does” /dʌz/, “says” /sez/ and “goes” /ɡəʊz/ have special vowels: don't say them the way they are written.",
+  "In questions, “do” and “does” are weak: Do you…? /də juː/, Does she…? /dəz ʃiː/. They are strong in short answers: Yes, I DO /duː/."
+ ],
+ "erreurs": [
+  ["She work in Paris.", "She works in Paris.", "He / she / it → verb + -s."],
+  ["He doesn't works on Sunday.", "He doesn't work on Sunday.", "After doesn't, use the base verb, no -s."],
+  ["Does she likes tea?", "Does she like tea?", "After does, use the base verb."],
+  ["You speak English?", "Do you speak English?", "A normal question needs do."],
+  ["I not like fish.", "I don't like fish.", "A normal verb needs don't / doesn't in the negative."],
+  ["He studys at university.", "He studies at university.", "Consonant + y → ies."],
+  ["Do you like pizza? — Yes, I like.", "Yes, I do.", "The short answer uses do, not the main verb."],
+  ["I work now, sorry.", "I'm working now, sorry.", "For an action happening now, use the present continuous (lesson 8)."]
+ ],
+ "dialogue": {
+  "contexte": "A journalist from a radio station in Yaoundé interviews a baker about her working day.",
+  "lignes": [
+   ["Journalist", "Good morning, Mrs Ngo. What time do you start work?", "Wh- question with do."],
+   ["Mrs Ngo", "I start at four in the morning. I make the bread with my son.", "A daily routine."],
+   ["Journalist", "Does your son work here every day?", "Does + subject + base verb."],
+   ["Mrs Ngo", "No, he doesn't. He studies at university, so he only comes at the weekend.", "studies, comes: -s with he."],
+   ["Journalist", "And when does the shop open?", "A timetable question."],
+   ["Mrs Ngo", "It opens at six and closes at seven in the evening.", "opens, closes: -s with it."],
+   ["Journalist", "Do you like your job?", "A question about likes."],
+   ["Mrs Ngo", "Yes, I do! I love the smell of fresh bread, and my customers know me well.", "Short answer; state verbs love and know."]
+  ]
+ },
+ "mots": [
+  ["work", "My father works in a hospital.", "do a job"],
+  ["start", "Classes start at eight.", "begin"],
+  ["finish", "I finish work at five.", "come to the end of something"],
+  ["get up", "She gets up at six.", "leave your bed in the morning"],
+  ["speak", "Do you speak Spanish?", "use a language; talk"],
+  ["understand", "I don't understand.", "know the meaning of something"],
+  ["need", "He needs a new bike.", "must have something"],
+  ["want", "What do you want?", "wish to have or do something"],
+  ["every day", "We walk to school every day.", "on all days"],
+  ["weekend", "What do you do at the weekend?", "Saturday and Sunday"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. He / she / it",
+   "consigne": "Write the verb for he / she / it.",
+   "items": [
+    ["work", "works"],
+    ["watch", "watches"],
+    ["study", "studies"],
+    ["play", "plays"],
+    ["go", "goes"],
+    ["have", "has"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb in brackets in the present simple.",
+   "items": [
+    ["My brother ___ (live) in Ghent.", "lives"],
+    ["We ___ (not / eat) meat.", "don't eat"],
+    ["___ she ___ (speak) German?", "Does … speak"],
+    ["The museum ___ (close) at six.", "closes"],
+    ["They ___ (not / work) on Sundays.", "don't work"],
+    ["What time ___ you ___ (get up)?", "do … get up"]
+   ]
+  },
+  {
+   "titre": "3. Negative and question",
+   "consigne": "Write the sentence in the negative, then as a question.",
+   "items": [
+    ["He drinks coffee.", "He doesn't drink coffee. / Does he drink coffee?"],
+    ["You play the guitar.", "You don't play the guitar. / Do you play the guitar?"],
+    ["Anna teaches maths.", "Anna doesn't teach maths. / Does Anna teach maths?"],
+    ["They watch TV in the evening.", "They don't watch TV in the evening. / Do they watch TV in the evening?"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["She don't like football.", "She doesn't like football."],
+    ["Does he works here?", "Does he work here?"],
+    ["My mother teach English.", "My mother teaches English."],
+    ["Do you like rice? — Yes, I like.", "Yes, I do."],
+    ["Where you live?", "Where do you live?"]
+   ]
+  },
+  {
+   "titre": "5. Write the sentence",
+   "consigne": "Use the words to write a correct present simple sentence or question.",
+   "items": [
+    ["my father / not work / on Saturdays", "My father doesn't work on Saturdays."],
+    ["you / speak / English? — yes", "Do you speak English? — Yes, I do."],
+    ["she / study / law / in Brussels", "She studies law in Brussels."],
+    ["what / your brother / do?", "What does your brother do?"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Describe a normal day in five sentences in the present simple: when you get up, work or studies, meals, evening. Add one sentence about a person in your family (he / she).",
+   "items": [
+    ["Example answer", "I get up at half past six. I take the bus to work and I start at eight. I have lunch with my colleagues. In the evening, I cook and I read. My wife works at home, so she doesn't take the bus."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "He / she / it + verb-s (works, watches, studies, has, goes, does).",
+  "Negative: don't / doesn't + base verb. Question: Do / Does + subject + base verb? The -s moves to does.",
+  "Short answer: Yes, I do. / No, she doesn't.",
+  "Uses: habits, general truths, permanent situations, likes and states, timetables.",
+  "For an action happening now: present continuous (lesson 8), not present simple."
+ ],
+ "liens": [5, 7, 8, 9, 29],
+ "refs": ["bc-presentsimple", "cam-verbs"]
+}

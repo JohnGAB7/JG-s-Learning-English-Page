@@ -1,0 +1,207 @@
+{
+ "n": 155,
+ "niveau": "B2",
+ "titre": "Reporting verbs",
+ "intro": "Instead of repeating “he said… he said…”, a good speaker sums up the speaker's intention: he promised, refused, admitted, advised, accused, apologised. Each verb has its own pattern, and that is where the most common mistakes hide (“suggest me to”, “explain me”).",
+ "objectifs": [
+  "Choose the verb that sums up what the speaker was doing (promise, refuse, admit, warn, persuade…).",
+  "Know the five main patterns: to-infinitive, object + to-infinitive, -ing, preposition + -ing, that-clause.",
+  "Use suggest, recommend, explain and insist correctly.",
+  "Write more precise and natural reports of conversations and meetings."
+ ],
+ "sections": [
+  {
+   "titre": "Report the intention, not the words",
+   "texte": [
+    "Reported speech with say and tell (lesson 154) repeats the content. Reporting verbs say what the speaker was doing: making a promise, refusing, admitting something, giving advice, giving a warning.",
+    "One verb often replaces many words: “OK, OK, it was me, I broke it,” he said → He admitted breaking it. The report becomes shorter and clearer.",
+    "Each verb has a fixed pattern. Learn the pattern together with the verb."
+   ],
+   "exemples": [
+    ["“I'll definitely be there.” → She promised to be there.", "A promise."],
+    ["“No, I won't sign it.” → He refused to sign it.", "A refusal."],
+    ["“You should rest.” → The doctor advised me to rest.", "Advice."],
+    ["“Sorry I'm late.” → He apologised for being late.", "An apology."]
+   ]
+  },
+  {
+   "titre": "Verb + to-infinitive / verb + object + to-infinitive",
+   "texte": [
+    "Some verbs are followed directly by a to-infinitive: the speaker talks about their own action.",
+    "Others take an object (the person spoken to) before the to-infinitive: the speaker wants someone else to act.",
+    "The negative goes before “to”: “She warned me not to go out alone.” Note: “promise” does not take the person before the infinitive. Say “She promised to call me”, not “She promised me to call”."
+   ],
+   "tableau": {
+    "entetes": ["Pattern", "Verbs", "Example"],
+    "lignes": [
+     ["verb + to-infinitive", "agree, offer, promise, refuse, threaten, decide, claim", "He offered to drive me home."],
+     ["verb + object + to-infinitive", "advise, ask, encourage, invite, order, persuade, remind, tell, urge, warn, beg", "She persuaded me to apply for the job."],
+     ["negative", "warn / advise / tell + object + not to", "They warned us not to drink the tap water."]
+    ]
+   }
+  },
+  {
+   "titre": "Verb + -ing / verb + preposition + -ing",
+   "texte": [
+    "Admit, deny, recommend, suggest and mention are followed by the -ing form. You can also use “having + past participle” to stress that the action came earlier: “He denied having taken the money.”",
+    "Other verbs have a preposition, always followed by -ing: apologise for, insist on, object to, confess to. After “object to” and “confess to”, “to” is a preposition, so use -ing.",
+    "Many learners use an infinitive here (“apologise to be late”, “insist to pay”). English does not allow it."
+   ],
+   "tableau": {
+    "entetes": ["Pattern", "Verbs", "Example"],
+    "lignes": [
+     ["verb + -ing", "admit, deny, recommend, suggest, mention", "She denied knowing anything about it."],
+     ["verb + preposition + -ing", "apologise for, insist on, object to, confess to, complain about", "He insisted on paying for everyone."],
+     ["verb + object + preposition + -ing", "accuse … of, blame … for, congratulate … on, thank … for, criticise … for, warn … against, forgive … for", "They accused him of lying."]
+    ]
+   },
+   "exemples": [
+    ["He admitted making a mistake.", "admit + -ing."],
+    ["She apologised for not calling.", "Negative: for not + -ing."],
+    ["My parents congratulated me on getting the job.", "congratulate somebody on + -ing."],
+    ["The guide warned us against walking alone at night.", "warn somebody against + -ing = advise them not to."]
+   ]
+  },
+  {
+   "titre": "Verb + that-clause",
+   "texte": [
+    "Many verbs also take “that” + a full clause, with the usual backshift: admit, agree, announce, complain, deny, explain, insist, point out, promise, warn.",
+    "This pattern is useful when the subject of the reported clause is different: “She promised that her team would finish on time.”",
+    "“Explain” takes “to” before the person: “He explained to me that…”, “He explained the rules to us”. Never “explain me”."
+   ],
+   "exemples": [
+    ["He pointed out that the figures were wrong.", "point out: draw attention to a fact."],
+    ["She complained that the room was too cold.", "complain that."],
+    ["The company announced that it would close two shops.", "announce that."],
+    ["He explained to us that the train had been cancelled.", "explain to + person."]
+   ]
+  },
+  {
+   "titre": "The tricky verbs “suggest” and “recommend”",
+   "texte": [
+    "These two verbs never take object + to-infinitive. “She suggested me to take a taxi” is wrong.",
+    "Three correct patterns: suggest + -ing (a general idea, or one that includes the speaker); suggest that + subject + base form (the subjunctive, more formal and American); suggest that + subject + should + base form (British). In speech you also hear the past: “She suggested that I took a taxi.”",
+    "“Recommend” follows the same rules. “I recommend you to visit” is found in British English but is best avoided: prefer “I recommend visiting…” or “I recommend that you visit…”."
+   ],
+   "exemples": [
+    ["She suggested taking a taxi.", "A general idea (for us, or for me)."],
+    ["She suggested that I take a taxi. / She suggested that I should take a taxi.", "Subjunctive / should."],
+    ["The doctor recommended that he stop smoking.", "“stop” with no -s: subjunctive."],
+    ["I'd recommend booking a table in advance.", "Common advice in restaurants."]
+   ]
+  }
+ ],
+ "formule": "promise to do · persuade sb to do · deny doing · apologise for doing · accuse sb of doing · suggest doing / that sb (should) do",
+ "prononciation": [
+  "Many of these verbs are stressed on the last syllable: recomMEND /ˌrekəˈmend/, perSUADE /pəˈsweɪd/, acCUSE /əˈkjuːz/, inSIST, deNY /dɪˈnaɪ/, adMIT, reMIND.",
+  "“suggest”: /səˈdʒest/ in British English, often /səɡˈdʒest/ in American English.",
+  "“apologise” has four syllables: /əˈpɒlədʒaɪz/, stressed on “pol”.",
+  "“threaten” /ˈθretn/: the second syllable is almost silent. “congratulate” /kənˈɡrætʃuleɪt/.",
+  "Prepositions are weak in connected speech: “accused him of lying” /əˈkjuːzd ɪm əv ˈlaɪɪŋ/."
+ ],
+ "erreurs": [
+  ["She suggested me to take a taxi.", "She suggested taking a taxi. / She suggested (that) I (should) take a taxi.", "suggest never takes object + to-infinitive."],
+  ["He explained me the problem.", "He explained the problem to me.", "explain + thing + to + person."],
+  ["They accused him to steal the car.", "They accused him of stealing the car.", "accuse somebody of + -ing."],
+  ["He denied to take the money.", "He denied taking (having taken) the money.", "deny + -ing."],
+  ["She apologised to be late.", "She apologised for being late.", "apologise for + -ing."],
+  ["He insisted to pay.", "He insisted on paying.", "insist on + -ing."],
+  ["She promised me to call.", "She promised to call me.", "promise + to-infinitive, with no person before it."]
+ ],
+ "dialogue": {
+  "contexte": "In Brussels, Malik missed the team meeting. His colleague Elena tells him what happened.",
+  "lignes": [
+   ["Malik", "How was the meeting? Did I miss anything important?", "A simple question."],
+   ["Elena", "Quite a lot! First, Julie apologised for sending the wrong figures last week.", "apologise for + -ing."],
+   ["Malik", "Good. And did the director agree to hire someone for the project?", "agree + to-infinitive."],
+   ["Elena", "Not really. He refused to increase the budget, but he promised to look at it again in March.", "refuse to / promise to."],
+   ["Malik", "Typical. What about the client in Kinshasa?", "A simple question."],
+   ["Elena", "Thomas suggested sending a team there in person. Everyone agreed that it was a good idea.", "suggest + -ing; agree that + clause."],
+   ["Malik", "Did anyone mention my report?", "mention: talk about briefly."],
+   ["Elena", "Yes, the director congratulated you on finishing it early. And he reminded everyone to submit their holiday dates by Friday.", "congratulate sb on + -ing; remind sb to."]
+  ]
+ },
+ "mots": [
+  ["admit", "He admitted that he was wrong.", "to agree that something bad is true, often unwillingly"],
+  ["deny", "She denied breaking the window.", "to say that something is not true"],
+  ["refuse", "They refused to answer.", "to say that you will not do something"],
+  ["persuade", "I persuaded her to stay.", "to make someone agree to do something by giving reasons"],
+  ["remind", "Remind me to call the bank.", "to help someone remember something"],
+  ["warn", "He warned us not to swim there.", "to tell someone about a danger"],
+  ["accuse", "She was accused of cheating.", "to say that someone has done something wrong"],
+  ["apologise", "I apologise for the delay.", "to say sorry (US: apologize)"],
+  ["insist", "My host insisted on driving me to the airport.", "to say firmly that something must happen"],
+  ["urge", "Doctors urge people to get vaccinated.", "to strongly advise someone to do something"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Which verb?",
+   "consigne": "Find the reporting verb that sums up each sentence (promise, admit, suggest, warn).",
+   "items": [
+    ["“I'll definitely pay you back next week.”", "promise (He promised to pay me back the following week.)"],
+    ["“OK, it was me who broke the vase.”", "admit (She admitted breaking the vase.)"],
+    ["“Why don't we go by train?”", "suggest (He suggested going by train.)"],
+    ["“Don't swim here. The current is very strong.”", "warn (She warned us not to swim there.)"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with the right form of the verb in brackets (add a preposition if necessary).",
+   "items": [
+    ["He refused ___ (sign) the contract.", "to sign"],
+    ["She denied ___ (take) the money.", "taking (or having taken)"],
+    ["They accused the manager ___ (lie).", "of lying"],
+    ["My parents encouraged me ___ (study) abroad.", "to study"],
+    ["He apologised ___ (forget) my birthday.", "for forgetting"],
+    ["The doctor advised him ___ (not / eat) so much salt.", "not to eat"]
+   ]
+  },
+  {
+   "titre": "3. Report with the verb given",
+   "consigne": "Put into reported speech using the verb in brackets.",
+   "items": [
+    ["“You should see a lawyer,” she told me. (advise)", "She advised me to see a lawyer."],
+    ["“I didn't break the window!” said Tom. (deny)", "Tom denied breaking (having broken) the window."],
+    ["“Don't forget to lock the door,” Mum said to me. (remind)", "Mum reminded me to lock the door."],
+    ["“Well done on passing your exam!” my uncle said to me. (congratulate)", "My uncle congratulated me on passing my exam."],
+    ["“Let's eat out tonight,” said Lina. (suggest)", "Lina suggested eating out that night. (or: Lina suggested that we (should) eat out that night.)"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["She suggested me to take a taxi.", "She suggested taking a taxi. (or: She suggested (that) I (should) take a taxi.)"],
+    ["He explained me the problem.", "He explained the problem to me."],
+    ["They accused him to steal the car.", "They accused him of stealing the car."],
+    ["I apologise to be late.", "I apologise for being late."]
+   ]
+  },
+  {
+   "titre": "5. Find the precise verb",
+   "consigne": "Report each situation with the most precise reporting verb.",
+   "items": [
+    ["“No, I won't help you,” he said to me.", "He refused to help me."],
+    ["“Come with us! You'll love it,” she said again and again, and in the end I went.", "She persuaded me to come (go) with them."],
+    ["“Thanks for helping us,” they said to me.", "They thanked me for helping (having helped) them."],
+    ["“No, no, I'm paying for the meal, I really want to,” said the director.", "The director insisted on paying for the meal."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Report a meeting, a family meal or an argument (4–5 sentences) with at least five different reporting verbs.",
+   "items": [
+    ["Example answer", "At Sunday lunch, my brother announced that he was moving to Canada. My mother begged him to stay in Belgium, but he refused to change his plans. My father congratulated him on finding a job so quickly. My aunt suggested organising a farewell party, and everyone agreed to help."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Reporting verbs sum up the intention: promise, refuse, admit, deny, advise, warn, persuade, apologise…",
+  "to-infinitive (agree, offer, promise, refuse); object + to-infinitive (advise, ask, persuade, remind, warn).",
+  "-ing (admit, deny, suggest, recommend); preposition + -ing (apologise for, insist on, accuse sb of, thank sb for).",
+  "suggest / recommend: never “suggest me to” → suggest doing / suggest that I (should) do.",
+  "explain something to somebody: never “explain me”."
+ ],
+ "liens": [154, 104, 62, 113, 180],
+ "refs": ["bc-reporting-verbs", "bc-reporting-patterns"]
+}

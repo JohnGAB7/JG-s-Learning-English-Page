@@ -1,0 +1,199 @@
+{
+"n": 23,
+"niveau": "A1",
+"titre": "La famille",
+"intro": "Parler de sa famille est l’un des premiers sujets de conversation. Cette leçon donne les mots de la famille proche, de la famille élargie et de la belle-famille, et les phrases pour la présenter.",
+"objectifs": [
+ "Nommer les membres de sa famille proche et élargie (parents, frères et sœurs, oncles, cousins…).",
+ "Utiliser les mots de la belle-famille et des familles recomposées (in-laws, stepfather, half-sister).",
+ "Présenter sa famille avec « have got », le génitif ’s et les possessifs.",
+ "Éviter le faux ami « parents » et les pluriels irréguliers (children)."
+],
+"sections": [
+ {
+  "titre": "La famille proche",
+  "texte": [
+   "Beaucoup de mots vont par paires masculin / féminin. À l’oral et en famille, on dit souvent « mum » et « dad » (en américain « mom » et « dad »).",
+   "« Child » a un pluriel irrégulier : « children ». « Siblings » (frères et sœurs) est un mot un peu formel ; dans la conversation, on dit plutôt « brothers and sisters »."
+  ],
+  "tableau": {
+   "entetes": ["Masculin", "Féminin", "Les deux / pluriel", "Français"],
+   "lignes": [
+    ["father (dad)", "mother (mum, US mom)", "parents", "père, mère, parents"],
+    ["son", "daughter", "children (sing. child)", "fils, fille, enfants"],
+    ["brother", "sister", "siblings", "frère, sœur, frères et sœurs"],
+    ["husband", "wife (pl. wives)", "partner", "mari, femme, conjoint(e)"]
+   ]
+  },
+  "exemples": [
+   ["My mum is a teacher and my dad is a taxi driver.", "Ma mère est enseignante et mon père est chauffeur de taxi."],
+   ["They have two children: a son and a daughter.", "Ils ont deux enfants : un fils et une fille."],
+   ["This is my wife, Aïcha.", "Voici ma femme, Aïcha."]
+  ],
+  "note": "« Wife » veut dire « épouse ». Pour « une femme » en général, on dit « a woman »."
+ },
+ {
+  "titre": "La famille élargie",
+  "texte": [
+   "On ajoute « grand- » pour la génération des grands-parents et des petits-enfants : grandmother (grandma, granny), grandfather (grandpa), grandson, granddaughter.",
+   "« Cousin » est le même mot au masculin et au féminin. Pour les arrière-grands-parents, on ajoute « great- » : great-grandmother."
+  ],
+  "tableau": {
+   "entetes": ["Masculin", "Féminin", "Pluriel", "Français"],
+   "lignes": [
+    ["grandfather", "grandmother", "grandparents", "grand-père, grand-mère, grands-parents"],
+    ["grandson", "granddaughter", "grandchildren", "petit-fils, petite-fille, petits-enfants"],
+    ["uncle", "aunt", "uncles and aunts", "oncle, tante"],
+    ["nephew", "niece", "nephews and nieces", "neveu, nièce"],
+    ["cousin", "cousin", "cousins", "cousin, cousine"]
+   ]
+  },
+  "exemples": [
+   ["My grandparents live in a village near Bafoussam.", "Mes grands-parents vivent dans un village près de Bafoussam."],
+   ["I've got ten cousins!", "J’ai dix cousins !"]
+  ]
+ },
+ {
+  "titre": "La belle-famille et les familles recomposées",
+  "texte": [
+   "Pour la famille du conjoint, on ajoute « -in-law » : mother-in-law (belle-mère), brother-in-law (beau-frère). Au pluriel, c’est le premier mot qui prend le s : sisters-in-law. Toute la belle-famille : « my in-laws ».",
+   "Pour une famille recomposée, « step- » désigne le conjoint d’un parent ou ses enfants : stepfather (beau-père, le mari de ma mère), stepsister. « Half- » désigne un frère ou une sœur qui a un seul parent en commun avec vous : half-brother (demi-frère).",
+   "Attention : le français « belle-mère » a deux sens, mais l’anglais en a deux mots : « mother-in-law » (la mère de mon conjoint) et « stepmother » (la femme de mon père)."
+  ],
+  "exemples": [
+   ["My mother-in-law makes the best ndolé.", "Ma belle-mère (la mère de mon mari / ma femme) fait le meilleur ndolé."],
+   ["My stepfather is from Ghent.", "Mon beau-père (le mari de ma mère) vient de Gand."],
+   ["Leo is my half-brother: we have the same dad.", "Leo est mon demi-frère : nous avons le même père."]
+  ]
+ },
+ {
+  "titre": "Le faux ami « parents » et le mot « relatives »",
+  "texte": [
+   "En anglais, « parents » veut dire seulement le père et la mère. Pour les autres membres de la famille (oncles, cousins…), on dit « relatives » ou « relations ».",
+   "« Family » est un nom singulier : « My family is big. » En anglais britannique, on entend aussi « My family are all tall » quand on pense aux personnes une par une."
+  ],
+  "exemples": [
+   ["My parents live in Montreal.", "Mon père et ma mère vivent à Montréal."],
+   ["We have relatives in France and Belgium.", "Nous avons de la famille (des parents) en France et en Belgique."]
+  ]
+ },
+ {
+  "titre": "Présenter sa famille",
+  "texte": [
+   "Pour dire combien on a de frères, sœurs ou enfants, on utilise « have got » (leçon 5) ou « have » : « I've got two sisters. » / « I have two sisters. » La question : « Have you got any brothers or sisters? » ou « Do you have any brothers or sisters? ».",
+   "Pour les liens de famille, on utilise le génitif ’s (leçon 15) : « my sister's husband » (le mari de ma sœur), « my parents' house » (la maison de mes parents).",
+   "Phrases utiles : « I'm an only child » (je suis enfant unique), « He's my older brother » (mon grand frère), « She's my younger sister » (ma petite sœur), « We're twins » (nous sommes jumeaux), « I'm married / single / divorced »."
+  ],
+  "exemples": [
+   ["Have you got any brothers or sisters? — Yes, I've got one brother.", "Tu as des frères et sœurs ? — Oui, j’ai un frère."],
+   ["No, I haven't. I'm an only child.", "Non. Je suis enfant unique (avec « an »)."],
+   ["My sister's husband is a nurse.", "Le mari de ma sœur est infirmier."]
+  ]
+ }
+],
+"formule": "I've got + nombre + membres de la famille · my sister's husband · my parents' house",
+"prononciation": [
+ "« mother », « brother », « other » : le o se prononce /ʌ/ (comme dans « but ») et le th est /ð/ : /ˈmʌðə/, /ˈbrʌðə/.",
+ "« daughter » /ˈdɔːtə/ : le gh ne se prononce pas. Même chose dans « granddaughter » /ˈɡrændɔːtə/.",
+ "« aunt » se dit /ɑːnt/ en anglais britannique et /ænt/ en américain (comme « ant », la fourmi).",
+ "« cousin » /ˈkʌzn/ et « husband » /ˈhʌzbənd/ : le s se prononce /z/.",
+ "« niece » /niːs/ rime avec « piece » ; « nephew » /ˈnefjuː/ a l’accent sur la première syllabe."
+],
+"erreurs": [
+ ["I have three childs.", "I have three children.", "Pluriel irrégulier : child → children."],
+ ["My parents are all at the wedding: my uncles, my cousins…", "My relatives are all at the wedding.", "« Parents » = père et mère seulement ; la famille au sens large = relatives."],
+ ["She is my cousine.", "She's my cousin.", "« Cousin » est le même mot au masculin et au féminin."],
+ ["the brother of my mother", "my mother's brother / my uncle", "Pour un lien de famille, on utilise le génitif ’s."],
+ ["I am only child.", "I'm an only child.", "Il faut l’article « an »."],
+ ["He's my niece.", "He's my nephew.", "Neveu = nephew ; nièce = niece."],
+ ["How many brothers do you have got?", "How many brothers have you got? / How many brothers do you have?", "On ne mélange pas « do » et « have got »."],
+ ["my grandparents's house", "my grandparents' house", "Après un pluriel en -s, on ajoute seulement l’apostrophe."]
+],
+"dialogue": {
+ "contexte": "À Bruxelles, Inès montre des photos de famille à son collègue Kofi.",
+ "lignes": [
+  ["Kofi", "Is this your family?", "C’est ta famille ?"],
+  ["Inès", "Yes! These are my parents, and this is my younger brother, Sami.", "Oui ! Voici mes parents, et voici mon petit frère, Sami."],
+  ["Kofi", "And who's the woman with the baby?", "Et qui est la femme avec le bébé ?"],
+  ["Inès", "That's my aunt, my mum's sister. The baby is her granddaughter.", "C’est ma tante, la sœur de ma mère. Le bébé est sa petite-fille."],
+  ["Kofi", "So the baby is your cousin's daughter?", "Donc le bébé est la fille de ta cousine ?"],
+  ["Inès", "Exactly. Have you got a big family?", "Exactement. Tu as une grande famille ?"],
+  ["Kofi", "Very big! I've got four sisters and about thirty cousins in Ghana.", "Très grande ! J’ai quatre sœurs et environ trente cousins au Ghana."],
+  ["Inès", "Thirty cousins! I'm jealous. I've only got two.", "Trente cousins ! Je suis jalouse. Moi, j’en ai seulement deux."]
+ ]
+},
+"mots": [
+ ["relative", "We have relatives in Canada.", "un membre de la famille (oncle, cousin…)"],
+ ["parents", "My parents are retired.", "les parents (le père et la mère seulement)"],
+ ["sibling", "Have you got any siblings?", "un frère ou une sœur"],
+ ["only child", "I'm an only child.", "enfant unique"],
+ ["married", "My sister is married.", "marié(e)"],
+ ["single", "Are you single or married?", "célibataire"],
+ ["twin", "Paul and Pierre are twins.", "un jumeau, une jumelle"],
+ ["grandchild", "She has six grandchildren.", "un petit-enfant"],
+ ["in-laws", "We visit my in-laws every Sunday.", "la belle-famille"],
+ ["cousin", "My cousin lives in Lyon.", "un cousin, une cousine"]
+],
+"exercices": [
+ {
+  "titre": "1. Masculin et féminin",
+  "consigne": "Donne le mot féminin.",
+  "items": [
+   ["father", "mother"],
+   ["son", "daughter"],
+   ["brother", "sister"],
+   ["husband", "wife"],
+   ["uncle", "aunt"],
+   ["nephew", "niece"]
+  ]
+ },
+ {
+  "titre": "2. Qui est-ce ?",
+  "consigne": "Complète avec le bon mot de la famille.",
+  "items": [
+   ["My mother's mother is my ___.", "grandmother"],
+   ["My aunt's son is my ___.", "cousin"],
+   ["My brother's daughter is my ___.", "niece"],
+   ["My father's brother is my ___.", "uncle"],
+   ["My wife's mother is my ___.", "mother-in-law"]
+  ]
+ },
+ {
+  "titre": "3. Le génitif ’s",
+  "consigne": "Réécris avec ’s ou ’.",
+  "items": [
+   ["the husband of my sister", "my sister's husband"],
+   ["the children of my brother", "my brother's children"],
+   ["the house of my grandparents", "my grandparents' house"],
+   ["the wife of Paul", "Paul's wife"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["J’ai trois enfants.", "I've got three children. / I have three children."],
+   ["Nous avons de la famille à Douala.", "We have relatives in Douala."],
+   ["Je suis enfant unique.", "I'm an only child."],
+   ["Ma belle-mère (la mère de mon mari) est très gentille.", "My mother-in-law is very kind."],
+   ["Tu as des frères et sœurs ?", "Have you got any brothers or sisters? / Do you have any brothers or sisters?"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Présente ta famille en quatre ou cinq phrases : tes parents, tes frères et sœurs, ta famille élargie.",
+  "items": [
+   ["Exemple de réponse", "I've got a small family. My parents live in Liège. I've got one older sister, Clara. Her husband is from Canada and they've got two children, so I've got a nephew and a niece. My grandparents live in a village near Namur."]
+  ]
+ }
+],
+"a_retenir": [
+ "parents = père et mère seulement ; la famille au sens large = relatives.",
+ "child → children ; wife → wives ; cousin est masculin et féminin.",
+ "-in-law pour la belle-famille (mother-in-law), step- pour la famille recomposée (stepfather), half- pour un demi-frère.",
+ "Liens de famille avec ’s : my sister's husband, my parents' house.",
+ "I've got two brothers. / I'm an only child. / Have you got any brothers or sisters?"
+],
+"liens": [5, 14, 15, 24],
+"refs": ["bc-possessive-s", "cam-nouns"]
+}

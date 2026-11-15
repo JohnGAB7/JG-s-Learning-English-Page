@@ -1,0 +1,203 @@
+{
+ "n": 231,
+ "niveau": "C1",
+ "titre": "Fronting",
+ "intro": "Fronting means putting at the start of a sentence an element that normally comes after the verb: “This I can't accept”, “Tired as she was, she kept going”, “Gone are the days when…”. It is used to link ideas, create contrast or express concession elegantly.",
+ "objectifs": [
+  "Front an object or an adjective to create contrast (This I know; Lucky we were).",
+  "Build concessive clauses with fronting: Tired as I was…, Much as I like…, Try as she might…, Strange though it may seem…",
+  "Front adverbials and participles for cohesion and style (Of the 300 respondents…; Gone are the days…).",
+  "Distinguish fronting without inversion (This I know) from inversion after a negative element (Never have I…)."
+ ],
+ "sections": [
+  {
+   "titre": "The principle: moving to link or contrast",
+   "texte": [
+    "Normal English word order is subject + verb + complement. Fronting moves an element to the front for two main reasons: 1) to link the sentence to what came before (known information first), 2) to create a contrast with another idea.",
+    "In most cases, subject and verb stay in normal order after the fronted element: “This I can't accept” (not “This can't I accept”). Inversion only appears with certain elements: negatives (lesson 229), and participles or places followed by a noun subject (“Gone are the days”)."
+   ],
+   "exemples": [
+    ["Most of the report is fine. This last paragraph, however, I can't accept.", "Fronted object: contrast with the rest of the report."],
+    ["She promised to finish by Friday, and finish she did.", "Fronted verb: emphatic confirmation (and she really did)."]
+   ]
+  },
+  {
+   "titre": "Fronting an object or an adjective",
+   "texte": [
+    "Fronting the object is most common with this, that, these, those, or with a noun in contrast: “Some things I'll forgive; lies I won't.” It is mainly spoken or literary, and very expressive.",
+    "A complement adjective can also come first, with an exclamatory or commenting effect: “Lucky we were to escape.” (The concessive form, below, is more frequent.)"
+   ],
+   "tableau": {
+    "entetes": ["Normal order", "Fronting", "Effect"],
+    "lignes": [
+     ["I know this.", "This I know.", "insistence on “this”"],
+     ["I won't forgive lies.", "Lies I won't forgive.", "contrast with other faults"],
+     ["I can do the maths, but not the writing.", "The maths I can do; the writing, not so much.", "contrast between two things"],
+     ["We were lucky to escape.", "Lucky we were to escape.", "exclamation, literary style"]
+    ]
+   },
+   "exemples": [
+    ["The first exam I passed easily. The second was a nightmare.", "Fronted object to contrast two exams."]
+   ]
+  },
+  {
+   "titre": "Concessive clauses: Tired as I was…",
+   "texte": [
+    "This is the most useful pattern at C1. Structure: adjective / adverb / noun + as (or though) + subject + verb, then the main clause. The meaning is “although”: “Tired as I was, I kept working” = Although I was very tired, I kept working.",
+    "Fixed variants: “Much as I like / admire / respect…” (= although I really like…); “Try as I might…” (= however hard I tried); “Strange / Hard as it may seem…”; “Child though he was…” (noun without article, very formal).",
+    "Note: in British English, don't add “as” at the start (“As tired as I was” is common in American English but can be read as a comparison). Never add “but” in the main clause."
+   ],
+   "tableau": {
+    "entetes": ["With although", "With fronting"],
+    "lignes": [
+     ["Although I was tired, I finished the report.", "Tired as I was, I finished the report."],
+     ["Although I like him a lot, I don't trust him.", "Much as I like him, I don't trust him."],
+     ["Although she tried hard, she couldn't open it.", "Try as she might, she couldn't open it."],
+     ["Although it may seem strange, it works.", "Strange as it may seem, it works."],
+     ["Although he was very rich, he lived simply.", "Rich though he was, he lived simply."]
+    ]
+   },
+   "exemples": [
+    ["Hard as it may be to believe, the village had no electricity until 2015.", "= Although it may be hard to believe…"],
+    ["Try as I might, I couldn't remember her name.", "= However hard I tried…; “might” in a past context."]
+   ]
+  },
+  {
+   "titre": "Fronting adverbials and participles",
+   "texte": [
+    "Putting a time, place or quantity phrase first is very common in writing to organise information: “In 2020, …”, “Of the 300 respondents, 40 % said…”, “Among the most affected were…”. It is a cohesion tool: you start from what is known and move to what is new.",
+    "With a participle or adjective first, followed by “be”, you invert when the subject is a noun: “Gone are the days when…”, “Attached is a copy of the invoice”, “Included in the price are breakfast and Wi-Fi”. These forms are common in formal emails and journalism."
+   ],
+   "exemples": [
+    ["Of the 1,200 candidates, only 85 were selected.", "Quantity first: start from the known group."],
+    ["Gone are the days when a degree guaranteed a job.", "= That time is over; participle + be + subject."],
+    ["Attached is the signed contract.", "Formal email: = I have attached…"],
+    ["Among the guests were two former ministers.", "Phrase first + be + long subject."]
+   ]
+  },
+  {
+   "titre": "Fronting or inversion? Summary",
+   "texte": [
+    "General rule: an ordinary element first → normal order (This I know). A negative or restrictive element first → inversion with an auxiliary (Never have I…). A place, participle or adjective + be / a verb of position, with a noun subject → inversion of the verb (Gone are the days; On the hill stood a church).",
+    "Fronting is expressive: in academic writing, keep to fronted adverbials (In 2020…, Of these…) and concessives; in speech, “This I know” or “That I doubt” are natural."
+   ],
+   "tableau": {
+    "entetes": ["Element first", "Order", "Example"],
+    "lignes": [
+     ["Object, adjective, verb", "subject + verb", "That I doubt."],
+     ["Negative / restrictive", "auxiliary + subject + verb", "Rarely have I seen that."],
+     ["Concessive (adj. + as)", "subject + verb", "Cold as it was, we swam."],
+     ["Participle / place + be (noun subject)", "verb + subject", "Enclosed is my CV."]
+    ]
+   }
+  }
+ ],
+ "formule": "Known or contrasted element first + subject + verb (This I know) · Adj. / adv. + as / though + subject + verb, main clause (Tired as I was, …) · Participle + be + noun subject (Gone are the days…)",
+ "prononciation": [
+  "The fronted element is strongly stressed and forms its own intonation group: “THIS | I can't accept.”",
+  "In concessives, use a rise or fall-rise on the first part, then a fall on the main clause: “Tired as I WAS, | I kept GOing.”",
+  "“as” is reduced to /əz/: “Much as I like him” /ˈmʌtʃ əz aɪ ˈlaɪk ɪm/.",
+  "“though” is /ðəʊ/: “Rich though he was”; the “gh” is silent.",
+  "“Gone are the days”: stress “gone” and “days”, reduce “are the” to /ə ðə/."
+ ],
+ "erreurs": [
+  ["This can't I accept.", "This I can't accept.", "A fronted object does not cause inversion."],
+  ["Tired as I was, but I kept going.", "Tired as I was, I kept going.", "The concessive replaces although: no “but” afterwards."],
+  ["Although tired as I was, I finished.", "Tired as I was, I finished. / Although I was tired, I finished.", "Don't combine although with the as-structure."],
+  ["Gone the days are when we could smoke inside.", "Gone are the days when we could smoke inside.", "Participle + be + noun subject."],
+  ["Try as I could, I didn't find it.", "Try as I might, I couldn't find it.", "Fixed form: “try as I might”."],
+  ["Much as I like him, but I don't trust him.", "Much as I like him, I don't trust him.", "No “but” after a concessive."],
+  ["Attached you will find is the invoice.", "Attached is the invoice. / Please find attached the invoice.", "Two formulas that must not be mixed."]
+ ],
+ "dialogue": {
+  "contexte": "In Montreal, a team leader explains to a colleague why he rejects part of a draft contract.",
+  "lignes": [
+   ["Rachel", "So, what do you think of the supplier's draft?", "An open question."],
+   ["Victor", "Most of it is fine. The penalty clause, though, I simply can't accept.", "Fronted object for contrast."],
+   ["Rachel", "Really? Strange as it may seem, their lawyers say it's standard.", "Concessive fronting."],
+   ["Victor", "Standard it may be, but it's not fair to us.", "Fronted adjective: he concedes the point, then objects."],
+   ["Rachel", "Much as I agree, we need this contract. Gone are the days when we could pick and choose.", "“Much as” + “Gone are the days”."],
+   ["Victor", "True. Of the five suppliers we contacted, they're the only one with stock.", "Fronted quantity phrase."],
+   ["Rachel", "Then let's propose a cap on the penalties. That they might accept.", "Fronted object: “that” refers to the cap."],
+   ["Victor", "Good idea. I'll draft the email now: “Attached is our counter-proposal regarding clause 7.”", "Participle + be + subject in a formal email."]
+  ]
+ },
+ "mots": [
+  ["fronting", "Fronting moves an element to the start.", "putting an element at the beginning of a sentence"],
+  ["concession", "“Much as I like him” expresses concession.", "accepting a point while keeping your view"],
+  ["much as", "Much as I'd like to stay, I have to go.", "although (with strong feeling)"],
+  ["try as I might", "Try as I might, I couldn't sleep.", "however hard I tried"],
+  ["gone are the days", "Gone are the days of cheap flights.", "that time is over"],
+  ["attached", "Attached is my updated CV.", "sent with an email"],
+  ["enclosed", "Enclosed is a cheque for 50 dollars.", "put inside the same envelope"],
+  ["among", "Among the winners was a 12-year-old girl.", "included in a group"],
+  ["respondent", "Of the respondents, 60 % agreed.", "a person who answers a survey"],
+  ["counter-proposal", "They sent a counter-proposal the next day.", "a new offer made in reply to an offer"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Fronting or inversion?",
+   "consigne": "Say whether the sentence shows fronting without inversion or inversion.",
+   "items": [
+    ["That I doubt very much.", "fronting without inversion"],
+    ["Never have I been so embarrassed.", "inversion"],
+    ["Cold as it was, we went swimming.", "fronting without inversion"],
+    ["Gone are the days of paper tickets.", "inversion (participle + be + subject)"]
+   ]
+  },
+  {
+   "titre": "2. Concessives",
+   "consigne": "Rewrite with the “… as / though …” structure.",
+   "items": [
+    ["Although she was exhausted, she finished the race.", "Exhausted as she was, she finished the race."],
+    ["Although I like my job a lot, I need a change.", "Much as I like my job, I need a change."],
+    ["Although he tried hard, he couldn't convince them.", "Try as he might, he couldn't convince them."],
+    ["Although it may sound strange, I enjoy exams.", "Strange as it may sound, I enjoy exams."],
+    ["Although the flat was small, it was very bright.", "Small as / though the flat was, it was very bright."]
+   ]
+  },
+  {
+   "titre": "3. Put it first",
+   "consigne": "Rewrite with the words in brackets at the front.",
+   "items": [
+    ["I can't accept [this decision].", "This decision I can't accept."],
+    ["Only 85 [of the 1,200 candidates] were selected.", "Of the 1,200 candidates, only 85 were selected."],
+    ["Breakfast and parking are [included in the price].", "Included in the price are breakfast and parking."],
+    ["The days when we wrote letters [are gone].", "Gone are the days when we wrote letters."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    ["Tired as I was, but I went out.", "Tired as I was, I went out."],
+    ["This can't I believe.", "This I can't believe."],
+    ["Try as I could, the door wouldn't open.", "Try as I might, the door wouldn't open."]
+   ]
+  },
+  {
+   "titre": "5. Rewrite with fronting",
+   "consigne": "Rewrite each sentence with a fronting structure.",
+   "items": [
+    ["Although we were very tired, we carried on.", "Tired as we were, we carried on / kept going."],
+    ["The time when petrol cost a dollar is over.", "Gone are the days when petrol (AmE: gas) cost a dollar."],
+    ["However hard I tried, I couldn't understand.", "Try as I might, I couldn't understand."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write 3–4 sentences about a change in your town or job. Use at least two different fronting structures.",
+   "items": [
+    ["Example answer", "Gone are the days when everyone in Yaoundé paid cash at the market. Of the traders I know, almost all now accept mobile money. Convenient as it is, the system still worries older customers. That, I think, is the real challenge for the next few years."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Fronting = moving an element to the front to link (known first) or contrast; usually no inversion (This I know).",
+  "Elegant concessives: Tired as I was…, Much as I like…, Try as I might…, Strange as it may seem… — with no although and no but.",
+  "Fronted adverbials for cohesion (Of the 300 respondents…); participle + be + noun subject with inversion (Gone are the days…, Attached is…).",
+  "Negative element first → auxiliary inversion; any other element → normal order."
+ ],
+ "liens": [229, 230, 172, 247, 157],
+ "refs": ["bc-emphasis", "bc-c1-contrast", "bc-c1"]
+}

@@ -1,0 +1,229 @@
+{
+ "n": 91,
+ "niveau": "B1",
+ "titre": "The present perfect",
+ "intro": "The present perfect connects the past with the present: we use it for life experiences, past actions with a result now, and situations that started in the past and are still true. It is one of the most important tenses in English, and one of the most often misused.",
+ "objectifs": [
+  "Form the present perfect in all its forms (affirmative, negative, question, short answers) with regular and irregular past participles.",
+  "Choose between the present perfect and the past simple, depending on whether the time period is finished.",
+  "Use for and since to talk about situations that continue up to now.",
+  "Use ever, never, just, already, yet, so far, recently and this week / this year correctly."
+ ],
+ "sections": [
+  {
+   "titre": "Form: have / has + past participle",
+   "texte": [
+    "We make the present perfect with the auxiliary have (has for he, she and it) and the past participle. Regular verbs add -ed (worked, played, stopped). Irregular verbs use the third column of the verb list (go – went – gone, see – saw – seen, write – wrote – written).",
+    "In speech we nearly always contract: I've, you've, he's, she's, we've, they've; in the negative haven't and hasn't. Be careful: he's can mean he is or he has. The next word tells you which: “He's gone” = he has gone; “He's going” = he is going.",
+    "In questions, the auxiliary goes before the subject. Short answers repeat the auxiliary: Yes, I have. / No, she hasn't. Never answer a present perfect question with “Yes, I did”."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Structure", "Example"],
+    "lignes": [
+     ["Affirmative", "subject + have / has + participle", "She has finished the report."],
+     ["Negative", "subject + haven't / hasn't + participle", "We haven't met the new manager."],
+     ["Yes/no question", "Have / Has + subject + participle?", "Have you ever been to Canada?"],
+     ["Wh- question", "Wh- + have / has + subject + participle?", "Where have you put my keys?"],
+     ["Short answer", "Yes, subject + have / has. No, subject + haven't / hasn't.", "Has he called? – No, he hasn't."]
+    ]
+   },
+   "note": "Been and gone: “She has gone to Douala” = she went there and she is still there. “She has been to Douala” = she went there at some time and came back. So we use been to talk about experiences."
+  },
+  {
+   "titre": "Use 1: life experience (ever, never, before)",
+   "texte": [
+    "We talk about what we have (or haven't) done in our lives without saying when. The time period is “my life up to now”, which is not finished. As soon as we say when it happened, we change to the past simple.",
+    "Ever (at any time) is mostly used in questions; never goes between the auxiliary and the participle. After a superlative we often use the present perfect: “the best film I've ever seen”."
+   ],
+   "exemples": [
+    ["Have you ever eaten ndolé?", "At any time in your life."],
+    ["I've never driven on the left.", "Never = not at any time."],
+    ["It's the most beautiful city I've ever visited.", "Superlative + present perfect."],
+    ["Yes, I've been to Montreal. I went there in 2019.", "Experience (present perfect), then a dated detail (past simple)."]
+   ]
+  },
+  {
+   "titre": "Use 2: a past action with a result now (just, already, yet)",
+   "texte": [
+    "The action is in the past, but what matters is its result at the moment of speaking: “I've lost my keys” = I can't get in now. We often use it to give news.",
+    "Just (a very short time ago) and already (sooner than expected) go between the auxiliary and the participle. Yet (in questions: up to now; in negatives: not up to now) goes at the end. Still + haven't stresses that something is late: “I still haven't paid.”",
+    "In American English, people often use the past simple with just, already and yet (“Did you eat yet?”). In British English, the present perfect is the norm, and it is what exams expect."
+   ],
+   "exemples": [
+    ["I've just sent you the file.", "Just = a moment ago."],
+    ["Have you finished yet? – Not yet.", "Yet in a question and a short negative answer."],
+    ["They've already booked the hotel.", "Already = before now, maybe earlier than expected."],
+    ["Oh no, I've broken my glasses!", "Result now: I can't see well."]
+   ]
+  },
+  {
+   "titre": "Use 3: a situation that continues up to now (for, since, how long)",
+   "texte": [
+    "Many languages use a present tense for a situation that started in the past and is still true. English uses the present perfect: I've lived in Liège since 2018, not “I live in Liège since 2018”.",
+    "For + a period of time (for three years, for a long time, for ages). Since + a starting point (since 2018, since Monday, since I was a child). The question is How long have you…? (“Since when…?” sounds surprised or annoyed).",
+    "This use is mainly for state verbs (be, have, know, live, work, like). For an activity that continues, we often prefer the present perfect continuous, the topic of the next lesson."
+   ],
+   "tableau": {
+    "entetes": ["For + period", "Since + starting point"],
+    "lignes": [
+     ["for ten minutes", "since nine o'clock"],
+     ["for two weeks", "since last Monday"],
+     ["for six months", "since January"],
+     ["for years / for ages", "since 2015"],
+     ["for a long time", "since I left school"]
+    ]
+   },
+   "exemples": [
+    ["We've known each other for twenty years.", "Started 20 years ago, still true."],
+    ["She has been a nurse since 2016.", "Since + starting point."],
+    ["How long have you had this car?", "The usual question about duration."]
+   ]
+  },
+  {
+   "titre": "Present perfect or past simple?",
+   "texte": [
+    "The golden rule: past simple = a finished, identified time (yesterday, last year, in 2010, when I was young, two days ago, or a time that is clear from the context). Present perfect = an unfinished period, or no specific time.",
+    "With today, this morning, this week, this year, the period may be finished or not: “I've drunk three coffees this morning” (it is still morning) / “I drank three coffees this morning” (it is now the afternoon).",
+    "A conversation often starts in the present perfect (the news) and continues in the past simple (the details): “I've found a new job! – Great! Where did you find it?”"
+   ],
+   "tableau": {
+    "entetes": ["Present perfect (connected to now)", "Past simple (cut off from now)"],
+    "lignes": [
+     ["I've lost my phone. (I still don't have it)", "I lost my phone last week. (a dated fact)"],
+     ["Have you seen Paul today? (the day isn't over)", "Did you see Paul yesterday?"],
+     ["He has worked here for five years. (he still works here)", "He worked here for five years. (he doesn't now)"],
+     ["Signals: ever, never, just, already, yet, so far, recently, since", "Signals: yesterday, ago, last…, in 2010, when…?"]
+    ]
+   },
+   "exemples": [
+    ["I've seen that film. I saw it last month.", "Experience, then a specific time."],
+    ["Shakespeare wrote many plays.", "Past simple: the writer is dead, his life is finished."]
+   ]
+  },
+  {
+   "titre": "Other useful expressions",
+   "texte": [
+    "So far, up to now, recently / lately, over the last few years: these expressions describe a period that continues up to now, so they go with the present perfect.",
+    "It's the first / second time + present perfect: “It's the first time I've flown.” Many learners wrongly use the present simple here."
+   ],
+   "exemples": [
+    ["So far, we've received forty applications.", "Up to now; more may come."],
+    ["It's the first time she has visited Belgium.", "It's the first time + present perfect."],
+    ["Prices have risen a lot recently.", "Recently = in the period just before now."]
+   ]
+  }
+ ],
+ "formule": "have / has + past participle (I've finished · She hasn't called · Have you ever…?)",
+ "prononciation": [
+  "Contractions are normal in speech: I've /aɪv/, we've /wiːv/, they've /ðeɪv/, she's /ʃiːz/. The final /v/ is light but present: “I've seen”, not “I seen”.",
+  "In questions, have is weak /həv/: “Have you seen it?” /həv juː ˈsiːn ɪt/. It becomes strong /hæv/ in short answers: “Yes, I have.”",
+  "haven't /ˈhævnt/ and hasn't /ˈhæznt/ have two syllables, the second very short; the final t is often hard to hear.",
+  "Say these participles carefully: been /biːn/ (often /bɪn/ in American English), gone /ɡɒn/, done /dʌn/, known /nəʊn/ (silent k).",
+  "Sentence stress falls on the participle and other content words: “I've NEVER BEEN to ROME”."
+ ],
+ "erreurs": [
+  ["I live here since 2015.", "I've lived here since 2015.", "A situation that started in the past and continues: present perfect, not present simple."],
+  ["I've seen him yesterday.", "I saw him yesterday.", "A specific past time (yesterday, ago, last…) needs the past simple."],
+  ["I work here for three years.", "I've worked here for three years.", "For + a period up to now: present perfect."],
+  ["Since how long are you in Canada?", "How long have you been in Canada?", "Ask about duration with How long + present perfect."],
+  ["Did you ever go to London?", "Have you ever been to London?", "Life experience: present perfect with been (go and come back)."],
+  ["He has went home.", "He has gone home.", "After have / has, use the participle (gone), not the past simple (went)."],
+  ["I have finished it yet.", "I have already finished it.", "Yet is for questions and negatives; in affirmatives, use already."],
+  ["It's the first time I visit Paris.", "It's the first time I've visited Paris.", "It's the first time + present perfect."]
+ ],
+ "dialogue": {
+  "contexte": "Brussels, in a communications agency. Amina, who moved from Yaoundé, chats with her colleague Tom during a break.",
+  "lignes": [
+   ["Tom", "So, how long have you been in Brussels now?", "How long + present perfect: still in Brussels."],
+   ["Amina", "I've been here for eight months. I arrived in March.", "Duration (present perfect), then a date (past simple)."],
+   ["Tom", "Have you visited Bruges yet?", "Yet: Tom expects she may visit it."],
+   ["Amina", "No, not yet, but I've been to Ghent twice. I went there last weekend.", "Experience, then a specific time."],
+   ["Tom", "Have you ever tried waterzooi?", "Ever = at any time."],
+   ["Amina", "Never! What is it?", "A one-word answer."],
+   ["Tom", "It's a creamy stew from Ghent. Oh, I've just remembered: the meeting has moved to three.", "News with a present result."],
+   ["Amina", "Great, I haven't finished my slides yet. Thanks!", "Negative + yet at the end."]
+  ]
+ },
+ "mots": [
+  ["experience", "She has a lot of experience in sales.", "knowledge or skill you get from doing something"],
+  ["recently", "Have you seen any good films recently?", "not long ago"],
+  ["so far", "So far, everything has gone well.", "up to now"],
+  ["achieve", "We have achieved our goals this year.", "to succeed in doing something after effort"],
+  ["abroad", "Have you ever lived abroad?", "in or to another country"],
+  ["lately", "I haven't slept well lately.", "recently, in the last few days or weeks"],
+  ["for ages", "I haven't seen her for ages.", "for a very long time (informal)"],
+  ["move", "They have just moved to Ottawa.", "to go to live in a different place"],
+  ["improve", "Your English has improved a lot.", "to get better or make something better"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Present perfect or past simple?",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["I (have lost / lost) my wallet. Can you lend me some money?", "have lost"],
+    ["We (have visited / visited) Kribi two years ago.", "visited"],
+    ["(Have you ever met / Did you ever meet) a famous person?", "Have you ever met"],
+    ["She (has worked / worked) at the bank since 2020.", "has worked"],
+    ["When (have you arrived / did you arrive)?", "did you arrive"]
+   ]
+  },
+  {
+   "titre": "2. For or since?",
+   "consigne": "Complete with for or since.",
+   "items": [
+    ["I've had this phone ___ 2022.", "since"],
+    ["They've been married ___ fifteen years.", "for"],
+    ["He hasn't called ___ last Tuesday.", "since"],
+    ["We've waited ___ ages!", "for"],
+    ["She's lived in Lyon ___ she was ten.", "since"]
+   ]
+  },
+  {
+   "titre": "3. Complete with the right tense",
+   "consigne": "Put the verb in brackets in the present perfect or the past simple.",
+   "items": [
+    ["I ___ (never / see) snow.", "have never seen"],
+    ["___ you ___ (finish) your homework yet?", "Have … finished"],
+    ["Paul ___ (go) to Canada in 2018.", "went"],
+    ["Look! Someone ___ (break) the window.", "has broken"],
+    ["How long ___ you ___ (know) Fatou?", "have … known"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["I know him since we were children.", "I've known him since we were children."],
+    ["Have you seen the match last night?", "Did you see the match last night?"],
+    ["She has wrote three books.", "She has written three books."],
+    ["We didn't finish yet.", "We haven't finished yet."]
+   ]
+  },
+  {
+   "titre": "5. Rewrite the sentences",
+   "consigne": "Rewrite each sentence with the word in brackets, using the present perfect.",
+   "items": [
+    ["I started working here six months ago. (for)", "I've worked here for six months. / I've been working here for six months."],
+    ["She left a moment ago. (just)", "She's just left."],
+    ["I've never eaten Belgian fries before. (first time)", "It's the first time I've eaten Belgian fries."],
+    ["Ask your friend if the work is finished – and answer “no”. (yet)", "Have you finished yet? – No, not yet."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short paragraph (4–5 sentences) about yourself: something you have done, something you have never done, how long you have lived where you live, and something you have done recently (with a detail in the past simple).",
+   "items": [
+    ["Example answer", "I've lived in Montreal since 2021. I've visited many cities in Canada, but I've never been to Vancouver. I've just started a new job in a bank. Last week I met my new team, and they were very friendly."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Form: have / has + past participle; question: Have you…?; short answer: Yes, I have / No, I haven't.",
+  "Three uses: experience (ever, never), present result (just, already, yet), situation continuing up to now (for, since).",
+  "A situation that started in the past and is still true = present perfect, never the present simple.",
+  "A specific past time (yesterday, ago, last…, in 2010, when…?) = past simple.",
+  "been = went and came back (experience); gone = went and is still there."
+ ],
+ "liens": [51, 52, 53, 92, 93],
+ "refs": ["bc-present-perfect", "bc-just-yet"]
+}

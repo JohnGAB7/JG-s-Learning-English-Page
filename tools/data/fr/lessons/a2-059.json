@@ -1,0 +1,221 @@
+{
+ "n": 59,
+ "niveau": "A2",
+ "titre": "Les indénombrables",
+ "intro": "Certains noms ne se comptent pas en anglais : water, money, advice, information, furniture… Ils n'ont ni pluriel ni « a / an ». Plusieurs sont dénombrables en français (des informations, des conseils, des meubles), ce qui provoque des erreurs très fréquentes.",
+ "objectifs": [
+  "Reconnaître les noms indénombrables courants, en particulier ceux qui sont dénombrables en français.",
+  "Les utiliser correctement : pas de a / an, pas de -s, verbe au singulier, some / any / much / a little.",
+  "Compter un indénombrable avec a piece of, a cup of, a slice of, a bottle of…",
+  "Connaître les noms à double usage (coffee / a coffee, time / a time) et les équivalents dénombrables (advice → a tip, work → a job)."
+ ],
+ "sections": [
+  {
+   "titre": "Les règles de grammaire",
+   "texte": [
+    "Un nom indénombrable désigne une matière, une masse ou une idée abstraite que l'on ne compte pas : water, rice, music, happiness. En anglais, il obéit à quatre règles.",
+    "1. Pas d'article a / an : « advice », jamais « an advice ». 2. Pas de pluriel : « information », jamais « informations ». 3. Verbe et pronom au singulier : The news is good. Your luggage is here — it's heavy. 4. Il se combine avec some, any, much, a little, a lot of, little, no, mais pas avec many, a few, several, ni avec un nombre."
+   ],
+   "tableau": {
+    "entetes": ["Possible", "Impossible"],
+    "lignes": [
+     ["some information, any information", "an information, two informations"],
+     ["much advice, a lot of advice, a little advice", "many advices, a few advices"],
+     ["The furniture is new.", "The furnitures are new."],
+     ["How much luggage have you got?", "How many luggages have you got?"]
+    ]
+   }
+  },
+  {
+   "titre": "Les indénombrables pièges pour les francophones",
+   "texte": [
+    "Ces noms sont dénombrables en français, mais indénombrables en anglais. Il faut les apprendre un par un, car aucune règle logique ne les explique."
+   ],
+   "tableau": {
+    "entetes": ["Anglais (indénombrable)", "Français", "Exemple"],
+    "lignes": [
+     ["information", "des informations", "Thanks for the information."],
+     ["advice", "des conseils", "Can you give me some advice?"],
+     ["news", "les nouvelles, les infos", "The news is on at eight."],
+     ["furniture", "des meubles", "We need some new furniture."],
+     ["luggage / baggage", "des bagages", "How much luggage do you have?"],
+     ["homework", "des devoirs", "I've got a lot of homework."],
+     ["work", "le travail (mais « un travail » = a job)", "I've got too much work."],
+     ["travel", "les voyages (en général)", "Travel is expensive."],
+     ["accommodation", "un logement, l'hébergement", "We're looking for accommodation."],
+     ["equipment", "du matériel", "The equipment is new."],
+     ["progress", "des progrès", "You're making good progress."],
+     ["weather", "le temps (météo)", "What lovely weather!"],
+     ["hair", "les cheveux", "Her hair is long."],
+     ["bread, toast", "du pain, des toasts", "Two slices of toast, please."]
+    ]
+   },
+   "note": "Comme « weather » est indénombrable, on ne dit pas « a beautiful weather » ni « What a beautiful weather! », mais « beautiful weather » et « What beautiful weather! ». De même : « Good news! » (sans a)."
+  },
+  {
+   "titre": "Compter un indénombrable",
+   "texte": [
+    "Pour parler d'une unité ou d'une quantité précise, on ajoute un nom dénombrable devant + of : a piece of advice (un conseil), two pieces of furniture (deux meubles), a piece of information (une information).",
+    "Pour la nourriture et les boissons, on utilise le contenant ou la forme : a cup of tea, a glass of water, a bottle of milk, a slice of bread, a loaf of bread (un pain entier), a bar of chocolate, a kilo of rice, a bowl of soup, a can of cola (US) / a tin of tomatoes (GB)."
+   ],
+   "exemples": [
+    ["Let me give you a piece of advice.", "Laisse-moi te donner un conseil."],
+    ["Can I have a glass of water, please?", "Je peux avoir un verre d'eau, s'il te plaît ?"],
+    ["We bought two loaves of bread.", "Nous avons acheté deux pains."],
+    ["That's a useful piece of information.", "C'est une information utile."]
+   ]
+  },
+  {
+   "titre": "Les noms à double usage",
+   "texte": [
+    "Certains noms sont indénombrables dans un sens et dénombrables dans un autre. Le sens change alors, parfois beaucoup.",
+    "Au café, l'usage courant permet aussi de dire « a coffee, two teas, three beers » pour « une tasse de café, deux thés… »."
+   ],
+   "tableau": {
+    "entetes": ["Indénombrable", "Dénombrable"],
+    "lignes": [
+     ["coffee (le café, la boisson)", "a coffee (un café, une tasse)"],
+     ["chicken (du poulet, la viande)", "a chicken (un poulet, l'animal entier)"],
+     ["glass (le verre, la matière)", "a glass (un verre pour boire) ; glasses (des lunettes)"],
+     ["paper (le papier)", "a paper (un journal ; un article scientifique)"],
+     ["time (le temps)", "a time (une fois) : three times"],
+     ["room (de la place)", "a room (une pièce, une chambre)"],
+     ["hair (les cheveux)", "a hair (un cheveu, un poil)"],
+     ["experience (l'expérience acquise)", "an experience (une expérience vécue)"]
+    ]
+   },
+   "exemples": [
+    ["Is there any room in your car?", "Il y a de la place dans ta voiture ?"],
+    ["I've been to Kinshasa three times.", "Je suis allé trois fois à Kinshasa."],
+    ["She's got five years' experience.", "Elle a cinq ans d'expérience."]
+   ]
+  },
+  {
+   "titre": "Les équivalents dénombrables",
+   "texte": [
+    "Souvent, l'anglais a un autre mot, dénombrable, pour désigner une unité. C'est la solution la plus naturelle quand on veut compter.",
+    "work → a job (un emploi), a task (une tâche) ; travel → a trip, a journey (un voyage précis) ; luggage → a suitcase, a bag (une valise, un sac) ; furniture → a chair, a table (un meuble précis) ; advice → a tip, a suggestion (un conseil) ; money → a coin, a note (US : a bill)."
+   ],
+   "exemples": [
+    ["I'm looking for a job. ✓ / I'm looking for a work. ✗", "Je cherche un travail (un emploi)."],
+    ["Have a good trip! ✓ / Have a good travel! ✗", "Bon voyage !"],
+    ["I've only got two suitcases.", "Je n'ai que deux valises."]
+   ]
+  }
+ ],
+ "formule": "indénombrable : pas de a / an, pas de -s, verbe au singulier · some / much / a little + nom · a piece of / a cup of / a slice of + nom",
+ "prononciation": [
+  "« advice » /ədˈvaɪs/ (nom, s sourd) et « advise » /ədˈvaɪz/ (verbe, z sonore) : la dernière consonne change le mot.",
+  "« furniture » /ˈfɜːnɪtʃə/ : accent sur la première syllabe, le t se prononce /tʃ/.",
+  "« luggage » /ˈlʌɡɪdʒ/ : la fin se prononce /ɪdʒ/ (comme dans « village »).",
+  "« a piece of » se lie : /ə ˈpiːs əv/, « of » est très faible.",
+  "« news » /njuːz/ (GB) ou /nuːz/ (US) se termine par un /z/, mais c'est un singulier."
+ ],
+ "erreurs": [
+  ["Thanks for the informations.", "Thanks for the information.", "Information est indénombrable : pas de -s."],
+  ["Can you give me an advice?", "Can you give me some advice? / a piece of advice?", "Advice est indénombrable : pas de an."],
+  ["The news are bad.", "The news is bad.", "News prend un verbe au singulier."],
+  ["We bought new furnitures.", "We bought some new furniture.", "Furniture n'a pas de pluriel."],
+  ["What a nice weather!", "What nice weather!", "Weather est indénombrable : pas de a."],
+  ["I'm looking for a work.", "I'm looking for a job. / I'm looking for work.", "Un emploi = a job ; work est indénombrable."],
+  ["How many luggages do you have?", "How much luggage do you have? / How many bags do you have?", "Luggage est indénombrable."],
+  ["Have a good travel!", "Have a good trip!", "Un voyage précis = a trip."]
+ ],
+ "dialogue": {
+  "contexte": "Une étudiante camerounaise arrive à l'aéroport de Bruxelles et parle à un employé du bureau d'information.",
+  "lignes": [
+   ["Grace", "Excuse me, can you give me some information about buses to the city centre?", "Excusez-moi, pouvez-vous me donner des informations sur les bus pour le centre-ville ?"],
+   ["Employee", "Of course. The train is faster, but the bus is cheaper. How much luggage have you got?", "Bien sûr. Le train est plus rapide, mais le bus est moins cher. Combien de bagages avez-vous ?"],
+   ["Grace", "Two big suitcases and a backpack.", "Deux grandes valises et un sac à dos."],
+   ["Employee", "Then my advice is to take the train. There isn't much room on the bus.", "Alors je vous conseille de prendre le train. Il n'y a pas beaucoup de place dans le bus."],
+   ["Grace", "Thanks for the advice. Is there any accommodation for students near the university?", "Merci pour le conseil. Y a-t-il des logements pour étudiants près de l'université ?"],
+   ["Employee", "Yes, there's a student residence. Here's a leaflet with all the information.", "Oui, il y a une résidence étudiante. Voici un dépliant avec toutes les informations."],
+   ["Grace", "Great news! And the weather? Is it always this cold?", "Excellente nouvelle ! Et le temps ? Il fait toujours aussi froid ?"],
+   ["Employee", "Not always. But buy a warm coat. Welcome to Belgium, and good luck with your studies!", "Pas toujours. Mais achetez un manteau chaud. Bienvenue en Belgique, et bonne chance pour vos études !"]
+  ]
+ },
+ "mots": [
+  ["information", "I need some information.", "des informations, un renseignement"],
+  ["advice", "Can I give you some advice?", "des conseils"],
+  ["news", "I've got some good news!", "les nouvelles, les infos"],
+  ["furniture", "This furniture is from IKEA.", "les meubles, le mobilier"],
+  ["luggage", "Don't leave your luggage here.", "les bagages"],
+  ["accommodation", "Accommodation is expensive in London.", "le logement, l'hébergement"],
+  ["equipment", "The gym has modern equipment.", "le matériel, l'équipement"],
+  ["progress", "You're making progress!", "les progrès"],
+  ["piece", "a piece of cake", "un morceau ; une unité (a piece of advice)"],
+  ["slice", "Two slices of bread, please.", "une tranche"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Dénombrable ou indénombrable ?",
+   "consigne": "Écris C (dénombrable) ou U (indénombrable).",
+   "items": [
+    ["advice", "U"],
+    ["suitcase", "C"],
+    ["furniture", "U"],
+    ["job", "C"],
+    ["news", "U"],
+    ["trip", "C"]
+   ]
+  },
+  {
+   "titre": "2. Choisir la bonne forme",
+   "consigne": "Choisis la forme correcte.",
+   "items": [
+    ["The news (is / are) on TV at eight.", "is"],
+    ["I need (an / some) advice.", "some"],
+    ["How (much / many) furniture is there?", "much"],
+    ["Her hair (is / are) very long.", "is"],
+    ["We had (a terrible weather / terrible weather).", "terrible weather"]
+   ]
+  },
+  {
+   "titre": "3. Compter",
+   "consigne": "Complète avec piece(s), cup, slice(s), glass ou loaf.",
+   "items": [
+    ["a ___ of tea", "cup"],
+    ["two ___ of bread (en tranches)", "slices"],
+    ["a ___ of water", "glass"],
+    ["three ___ of furniture", "pieces"],
+    ["a ___ of bread (un pain entier)", "loaf"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["She gave me a good advice.", "She gave me some good advice. / She gave me a good piece of advice."],
+    ["I've got two homeworks for tomorrow.", "I've got two pieces of homework for tomorrow. / I've got some homework for tomorrow."],
+    ["Are these informations correct?", "Is this information correct?"],
+    ["My brother is looking for a work in Lyon.", "My brother is looking for a job in Lyon. / My brother is looking for work in Lyon."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["J'ai une bonne nouvelle !", "I've got some good news! / I have good news!"],
+    ["Tu fais beaucoup de progrès.", "You're making a lot of progress."],
+    ["Nous avons besoin de nouveaux meubles.", "We need some new furniture."],
+    ["Bon voyage !", "Have a good trip! / Have a nice trip!"]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris quatre phrases avec des indénombrables pièges : un conseil que tu donnerais à un voyageur, une information utile sur ta ville, et une phrase sur tes bagages ou tes meubles.",
+   "items": [
+    ["Exemple de réponse", "My advice is to visit Yaoundé in the dry season. A useful piece of information: taxis are cheap. Don't bring too much luggage. My flat is small, so I haven't got much furniture."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Indénombrable : pas de a / an, pas de -s, verbe au singulier (The news is…).",
+  "Pièges : information, advice, news, furniture, luggage, homework, work, travel, accommodation, progress, weather, hair.",
+  "Pour compter : a piece of advice, a cup of tea, a slice of bread, a loaf of bread.",
+  "Double usage : coffee / a coffee, time / three times, room / a room.",
+  "Équivalents dénombrables : a job, a trip, a suitcase, a tip."
+ ],
+ "liens": [11, 12, 31, 58],
+ "refs": ["bc-countable", "cam-nouns"]
+}

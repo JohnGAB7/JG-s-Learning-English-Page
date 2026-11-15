@@ -1,0 +1,210 @@
+{
+ "n": 7,
+ "niveau": "A1",
+ "titre": "Les adverbes de fréquence",
+ "intro": "Always, usually, often, sometimes, never… Ces petits mots disent à quelle fréquence on fait quelque chose. Ils accompagnent très souvent le présent simple et leur place dans la phrase est différente du français.",
+ "objectifs": [
+  "Connaître les adverbes de fréquence et les classer de 100 % à 0 %.",
+  "Les placer correctement : avant le verbe principal, mais après « to be ».",
+  "Utiliser les expressions de fréquence (every day, twice a week, once a month) en fin de phrase.",
+  "Poser des questions avec « How often…? » et « Do you ever…? » et y répondre."
+ ],
+ "sections": [
+  {
+   "titre": "De « always » à « never »",
+   "texte": [
+    "Les adverbes de fréquence indiquent combien de fois une action se répète. Les pourcentages du tableau sont approximatifs : ils servent à comparer les mots entre eux.",
+    "« Never » est déjà négatif : on ne l'utilise pas avec « don't ». « Hardly ever » (presque jamais) est plus courant à l'oral que « rarely » ou « seldom », qui sont plus soutenus."
+   ],
+   "tableau": {
+    "entetes": ["Adverbe", "Fréquence", "Traduction", "Exemple"],
+    "lignes": [
+     ["always", "100 %", "toujours", "I always have breakfast."],
+     ["usually", "≈ 90 %", "d'habitude, généralement", "She usually walks to work."],
+     ["often", "≈ 70 %", "souvent", "We often eat rice."],
+     ["sometimes", "≈ 50 %", "parfois, quelquefois", "They sometimes go to the cinema."],
+     ["rarely / seldom", "≈ 10 %", "rarement", "He rarely drinks coffee."],
+     ["hardly ever", "≈ 5 %", "presque jamais", "I hardly ever watch TV."],
+     ["never", "0 %", "jamais", "My father never smokes."]
+    ]
+   },
+   "note": "« Normally » et « generally » ont le même sens que « usually » et se placent au même endroit."
+  },
+  {
+   "titre": "La place : avant le verbe principal",
+   "texte": [
+    "En français, l'adverbe se met après le verbe (« je mange souvent »). En anglais, il se place AVANT le verbe principal : I often eat. C'est l'erreur la plus fréquente des francophones.",
+    "Avec la 3e personne, le verbe garde son -s : She often eats. L'adverbe ne change rien à la conjugaison.",
+    "Dans une phrase négative avec don't / doesn't, l'adverbe se place après l'auxiliaire : I don't often go out. (Je ne sors pas souvent.)"
+   ],
+   "exemples": [
+    ["I usually get up at seven.", "Je me lève généralement à sept heures."],
+    ["She never eats meat.", "Elle ne mange jamais de viande (never avant eats, pas de doesn't)."],
+    ["We sometimes play football on Sundays.", "Nous jouons parfois au football le dimanche."],
+    ["He doesn't usually work late.", "D'habitude, il ne travaille pas tard."]
+   ]
+  },
+  {
+   "titre": "Après « to be » et entre deux verbes",
+   "texte": [
+    "Avec le verbe « to be », c'est l'inverse : l'adverbe se place APRÈS am / is / are. She is always late. They are never tired.",
+    "Quand il y a un auxiliaire ou un modal (have got, can, will…), l'adverbe se place entre l'auxiliaire et le verbe principal : I can never remember his name. I've always got my phone with me.",
+    "Résumé : sujet + be + adverbe ; sujet + adverbe + verbe ; sujet + auxiliaire + adverbe + verbe."
+   ],
+   "tableau": {
+    "entetes": ["Structure", "Exemple", "Traduction"],
+    "lignes": [
+     ["sujet + be + adverbe", "He is often tired.", "Il est souvent fatigué."],
+     ["sujet + adverbe + verbe", "He often feels tired.", "Il se sent souvent fatigué."],
+     ["sujet + auxiliaire + adverbe + verbe", "He doesn't often go out.", "Il ne sort pas souvent."],
+     ["sujet + modal + adverbe + verbe", "I can never find my keys.", "Je n'arrive jamais à trouver mes clés."]
+    ]
+   },
+   "exemples": [
+    ["The bus is usually on time.", "Le bus est généralement à l'heure."],
+    ["I'm never sure about the answer.", "Je ne suis jamais sûr de la réponse."]
+   ]
+  },
+  {
+   "titre": "Usually, sometimes, often en début ou en fin de phrase",
+   "texte": [
+    "Pour donner du relief, « sometimes », « usually », « normally » et « often » peuvent aussi se placer en début de phrase, voire en fin pour « sometimes ». « Always », « never », « rarely », « hardly ever » ne se mettent pas en début de phrase dans un style normal.",
+    "On ne dit donc pas « Always I go… » ni « Never I eat… »."
+   ],
+   "exemples": [
+    ["Sometimes I work from home.", "Parfois, je travaille de chez moi."],
+    ["Usually, the shop is quiet in the morning.", "D'habitude, la boutique est calme le matin."],
+    ["I go to the gym sometimes.", "Je vais à la salle de sport de temps en temps (sometimes en fin de phrase)."]
+   ]
+  },
+  {
+   "titre": "Les expressions de fréquence et les questions",
+   "texte": [
+    "Pour une fréquence précise, on utilise une expression de plusieurs mots : every day, every week, once a week (une fois par semaine), twice a month (deux fois par mois), three times a year. Ces expressions se placent en fin de phrase (parfois au début), jamais entre le sujet et le verbe.",
+    "Attention : « par semaine » se dit « a week », sans « by » ni « per » à l'oral courant : twice a week. « Deux fois » se dit « twice » ; à partir de trois, on dit « three times, four times ».",
+    "Pour demander une fréquence : « How often do you…? ». Pour demander si quelque chose arrive au moins parfois : « Do you ever…? » (ever = déjà, à un moment quelconque, dans une question)."
+   ],
+   "exemples": [
+    ["How often do you go swimming? — Twice a week.", "Tu vas nager tous les combien ? — Deux fois par semaine."],
+    ["I visit my grandparents once a month.", "Je rends visite à mes grands-parents une fois par mois."],
+    ["Do you ever cook? — Yes, sometimes. / No, never.", "Il t'arrive de cuisiner ? — Oui, parfois. / Non, jamais."],
+    ["We go to Kribi every summer.", "Nous allons à Kribi chaque été."]
+   ]
+  }
+ ],
+ "formule": "sujet + always / usually / often / sometimes / never + verbe · sujet + be + adverbe · How often…? — once / twice / three times a week",
+ "prononciation": [
+  "« often » se prononce /ˈɒfn/ (t muet) ou /ˈɒftən/ : les deux sont corrects. En américain : /ˈɔːfn/.",
+  "« usually » /ˈjuːʒuəli/ : accent sur la première syllabe, avec le son /ʒ/ du mot « je ». À l'oral rapide : /ˈjuːʒli/.",
+  "« always » /ˈɔːlweɪz/ : accent sur AL-, et le l se prononce légèrement.",
+  "« twice » /twaɪs/ rime avec « nice » ; « once » se prononce /wʌns/, avec un son w au début, comme « one ».",
+  "Dans « How often…? », la voix descend à la fin de la question, car c'est une question en Wh-."
+ ],
+ "erreurs": [
+  ["I go always to work by bus.", "I always go to work by bus.", "L'adverbe se place avant le verbe principal."],
+  ["She always is late.", "She is always late.", "Avec « to be », l'adverbe se place après le verbe."],
+  ["I don't never eat fish.", "I never eat fish.", "« Never » est déjà négatif : pas de don't."],
+  ["He never eat meat.", "He never eats meat.", "Le -s de la 3e personne reste après l'adverbe."],
+  ["I play tennis two times by week.", "I play tennis twice a week.", "« Deux fois » = twice ; « par semaine » = a week."],
+  ["I eat every day rice.", "I eat rice every day.", "Une expression de fréquence ne se place pas entre le verbe et son complément : elle va en fin de phrase."],
+  ["Always I drink tea.", "I always drink tea.", "« Always » ne se place pas en tête de phrase."]
+ ],
+ "dialogue": {
+  "contexte": "Un coach sportif à Ottawa pose des questions à une nouvelle cliente sur ses habitudes.",
+  "lignes": [
+   ["Coach", "So, Émilie, how often do you do sport?", "Alors, Émilie, tu fais du sport tous les combien ?"],
+   ["Émilie", "Not very often. I go swimming once a week, usually on Saturday.", "Pas très souvent. Je vais nager une fois par semaine, en général le samedi."],
+   ["Coach", "OK. Do you ever walk to work?", "D'accord. Il t'arrive d'aller au travail à pied ?"],
+   ["Émilie", "Sometimes, in summer. But in winter I always take the bus. It's too cold!", "Parfois, en été. Mais en hiver, je prends toujours le bus. Il fait trop froid !"],
+   ["Coach", "And what about food? Do you often eat fast food?", "Et l'alimentation ? Tu manges souvent dans les fast-foods ?"],
+   ["Émilie", "No, I hardly ever eat fast food. But I'm often hungry at night.", "Non, presque jamais. Mais j'ai souvent faim le soir."],
+   ["Coach", "Do you sleep well?", "Tu dors bien ?"],
+   ["Émilie", "Not really. I never go to bed before midnight.", "Pas vraiment. Je ne me couche jamais avant minuit."],
+   ["Coach", "OK. Let's start with three short walks a week.", "D'accord. Commençons par trois petites marches par semaine."]
+  ]
+ },
+ "mots": [
+  ["always", "I always lock the door.", "toujours"],
+  ["usually", "We usually eat at seven.", "d'habitude, généralement"],
+  ["often", "Do you often travel?", "souvent"],
+  ["sometimes", "She sometimes works at night.", "parfois"],
+  ["rarely", "It rarely snows in Douala.", "rarement"],
+  ["never", "He never forgets my birthday.", "jamais"],
+  ["once", "I call my mother once a week.", "une fois"],
+  ["twice", "We go to the market twice a week.", "deux fois"],
+  ["ever", "Do you ever go to the theatre?", "déjà, parfois (dans une question)"],
+  ["routine", "My morning routine is very simple.", "la routine, les habitudes"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Classer",
+   "consigne": "Écris le bon adverbe pour chaque pourcentage : always, usually, often, sometimes, hardly ever, never.",
+   "items": [
+    ["100 %", "always"],
+    ["0 %", "never"],
+    ["≈ 50 %", "sometimes"],
+    ["≈ 90 %", "usually"],
+    ["≈ 5 %", "hardly ever"],
+    ["≈ 70 %", "often"]
+   ]
+  },
+  {
+   "titre": "2. Placer l'adverbe",
+   "consigne": "Récris la phrase en plaçant l'adverbe entre parenthèses au bon endroit.",
+   "items": [
+    ["I drink tea in the morning. (usually)", "I usually drink tea in the morning."],
+    ["She is happy. (always)", "She is always happy."],
+    ["They go to the cinema. (rarely)", "They rarely go to the cinema."],
+    ["We are late for class. (never)", "We are never late for class."],
+    ["He doesn't work on Fridays. (usually)", "He doesn't usually work on Fridays."]
+   ]
+  },
+  {
+   "titre": "3. Expressions de fréquence",
+   "consigne": "Écris l'expression en anglais.",
+   "items": [
+    ["une fois par semaine", "once a week"],
+    ["deux fois par mois", "twice a month"],
+    ["trois fois par an", "three times a year"],
+    ["tous les jours", "every day"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I go often to the market.", "I often go to the market."],
+    ["He always is busy.", "He is always busy."],
+    ["She doesn't never cook.", "She never cooks."],
+    ["My brother usually play football on Sundays.", "My brother usually plays football on Sundays."],
+    ["How many often do you visit them?", "How often do you visit them?"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Je prends rarement le taxi.", "I rarely take a taxi. / I rarely take taxis."],
+    ["Ils sont souvent en retard.", "They are often late. / They're often late."],
+    ["Tu fais du sport tous les combien ? — Trois fois par semaine.", "How often do you do sport? — Three times a week."],
+    ["Elle ne boit presque jamais de café.", "She hardly ever drinks coffee."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris cinq phrases vraies sur tes habitudes avec cinq adverbes ou expressions de fréquence différents (dont une phrase avec « to be »).",
+   "items": [
+    ["Exemple de réponse", "I always have coffee at breakfast. I usually walk to work. I'm often tired on Friday evenings. I go to the cinema once a month. I never watch TV in the morning."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "always > usually > often > sometimes > rarely > hardly ever > never.",
+  "Avant le verbe principal (I often eat), mais après « to be » (I'm often late).",
+  "Never est déjà négatif : I never eat meat, pas « I don't never ».",
+  "Fréquence précise en fin de phrase : once a week, twice a month, three times a year, every day.",
+  "Questions : How often do you…? / Do you ever…?"
+ ],
+ "liens": [1, 6, 8, 9, 21],
+ "refs": ["bc-presentsimple", "cam-adj"]
+}

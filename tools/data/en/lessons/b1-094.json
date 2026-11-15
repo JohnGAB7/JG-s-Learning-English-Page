@@ -1,0 +1,208 @@
+{
+ "n": 94,
+ "niveau": "B1",
+ "titre": "“Will” or “be going to”?",
+ "intro": "English has several ways to talk about the future, and the choice depends on meaning: a decision made now, a plan made earlier, a prediction from evidence, or a fixed arrangement. Choosing well makes your English sound natural.",
+ "objectifs": [
+  "Tell the difference between a decision made now (will) and an intention decided earlier (be going to).",
+  "Tell the difference between a prediction based on opinion (will) and one based on present evidence (be going to).",
+  "Use will for offers, promises, refusals and requests, and the present continuous for fixed arrangements.",
+  "Avoid using will after when, if and as soon as."
+ ],
+ "sections": [
+  {
+   "titre": "The forms: a quick review",
+   "texte": [
+    "Will + base verb, the same for every subject: I will go, she will go. Contraction 'll (I'll, she'll); negative won't /wəʊnt/ (= will not).",
+    "Be going to + base verb: be changes with the subject (I'm going to, he's going to, they're going to). Negative: I'm not going to, she isn't going to. Question: Are you going to…?",
+    "In casual speech, going to often sounds like “gonna” /ˈɡɒnə/. Don't write it in careful texts."
+   ],
+   "tableau": {
+    "entetes": ["", "will", "be going to"],
+    "lignes": [
+     ["Affirmative", "I'll call you tonight.", "I'm going to call the bank."],
+     ["Negative", "She won't come.", "She isn't going to come."],
+     ["Question", "Will you help me?", "Are you going to help him?"],
+     ["Short answer", "Yes, I will. / No, I won't.", "Yes, I am. / No, I'm not."]
+    ]
+   }
+  },
+  {
+   "titre": "Deciding now or decided before",
+   "texte": [
+    "Will = the decision is made at the moment of speaking, often as a reaction. Be going to = the intention existed before; we are announcing a plan.",
+    "A simple test: “Had I thought about this before this conversation?” If yes → going to. If no → will."
+   ],
+   "exemples": [
+    ["The phone's ringing. – I'll get it!", "Instant decision."],
+    ["I'm going to paint my bedroom this weekend. I've bought the paint.", "Plan decided earlier (the paint is bought)."],
+    ["It's cold in here. – OK, I'll close the window.", "Immediate reaction."],
+    ["We're going to have a baby in May!", "Intention, announced as news."]
+   ]
+  },
+  {
+   "titre": "Two kinds of prediction",
+   "texte": [
+    "Will = a prediction based on what you think, believe or know, often with I think, I'm sure, probably, I expect, I don't think. Be going to = a prediction based on present evidence: you can see it coming.",
+    "Watch the position of probably: after will (She'll probably win) but before won't (She probably won't win). And we prefer “I don't think he'll come” to “I think he won't come”."
+   ],
+   "exemples": [
+    ["I think Cameroon will win the match.", "Personal opinion."],
+    ["Look at those clouds! It's going to rain.", "Visible evidence: the clouds."],
+    ["Careful! You're going to fall!", "We can see the fall is about to happen."],
+    ["Prices will probably rise next year.", "General forecast; probably after will."]
+   ]
+  },
+  {
+   "titre": "Other uses of will",
+   "texte": [
+    "We also use will for actions we do with words: offering help, promising, threatening, refusing, asking for a favour. Going to is not possible here.",
+    "Shall I / Shall we…? (mainly British English) makes offers and suggestions or asks for advice: “Shall I open the window?”, “Shall we go?”",
+    "Won't can also show refusal, even for things: “The car won't start.”"
+   ],
+   "tableau": {
+    "entetes": ["Function", "Example", "Meaning"],
+    "lignes": [
+     ["Offer", "I'll carry your bag.", "I am offering to do it"],
+     ["Promise", "I won't tell anyone, I promise.", "you can trust me"],
+     ["Request", "Will you lend me your charger?", "please do this for me"],
+     ["Refusal", "He won't listen to me.", "he refuses to listen"],
+     ["Threat", "Stop that or I'll call the police!", "a warning"],
+     ["Suggestion", "Shall we take a taxi?", "what about taking a taxi?"]
+    ]
+   }
+  },
+  {
+   "titre": "Arrangements: the present continuous",
+   "texte": [
+    "For a plan that is organised, with a date, a time, other people or a ticket, we prefer the present continuous (lesson 50): “I'm meeting Sophie at six.” Going to is possible but says less about the organisation.",
+    "Official timetables (trains, classes, films) use the present simple: “The train leaves at 7.15.”"
+   ],
+   "exemples": [
+    ["I'm flying to Montreal on Friday.", "Ticket booked: fixed arrangement."],
+    ["The conference starts at nine tomorrow.", "Official schedule: present simple."]
+   ]
+  },
+  {
+   "titre": "After when, if, as soon as: no will",
+   "texte": [
+    "In time and condition clauses (when, as soon as, before, after, until, if), we use the present simple even for the future: “I'll call you when I arrive”, not “when I will arrive”.",
+    "This is one of the most common mistakes for learners. The first conditional (next lesson) uses the same rule."
+   ],
+   "exemples": [
+    ["I'll text you as soon as I get home.", "Not “as soon as I will get”."],
+    ["When she finishes her degree, she's going to work in Abidjan.", "Present simple after when."]
+   ]
+  }
+ ],
+ "formule": "decision now / opinion → will + verb · plan already decided / visible evidence → be going to + verb",
+ "prononciation": [
+  "'ll is a light, “dark” /l/: I'll /aɪl/, you'll /jʊəl/ or /jɔːl/, we'll /wiːl/, it'll /ˈɪtl/. Don't drop it: “I go” ≠ “I'll go”.",
+  "won't /wəʊnt/ (the vowel in “no”) is different from want /wɒnt/. “I won't go” (I refuse / it isn't going to happen) ≠ “I want to go”.",
+  "Before a verb, going to often reduces to /ˈɡəʊɪŋ tə/ or “gonna” /ˈɡɒnə/ in casual speech. But not when going means movement: “I'm going to Paris” never becomes “gonna Paris”.",
+  "Shall is weak in “Shall we go?”: /ʃəl wi ˈɡəʊ/."
+ ],
+ "erreurs": [
+  ["The phone is ringing. – I'm going to answer it.", "The phone is ringing. – I'll answer it.", "A decision made at that moment: will."],
+  ["I will call you when I will arrive.", "I'll call you when I arrive.", "After when, as soon as, if: present simple."],
+  ["Look at the sky! It will rain.", "Look at the sky! It's going to rain.", "A prediction from visible evidence: going to."],
+  ["I think he won't come.", "I don't think he'll come.", "English usually puts the negative on think."],
+  ["She will probably not to come.", "She probably won't come.", "No to after will; probably goes before won't."],
+  ["I go to the dentist tomorrow at 10.", "I'm going to the dentist tomorrow at 10.", "A fixed appointment: present continuous, not present simple."],
+  ["Do you help me? It's heavy.", "Will you help me? It's heavy.", "To ask for a favour: Will you…? / Can you…?"]
+ ],
+ "dialogue": {
+  "contexte": "Ottawa, a Friday evening. Sarah and her flatmate Jean-Paul, from Bafoussam, organise their Saturday.",
+  "lignes": [
+   ["Sarah", "What are you doing tomorrow?", "Present continuous to ask about arrangements."],
+   ["Jean-Paul", "I'm meeting my cousin at the market at ten. Then I'm going to cook ndolé for everyone.", "Arrangement, then a plan."],
+   ["Sarah", "Sounds great! I'll help you if you like.", "An offer: will."],
+   ["Jean-Paul", "Thanks. Oh, look at the sky. It's going to snow tonight.", "Prediction from evidence."],
+   ["Sarah", "Then the roads will probably be terrible tomorrow.", "Prediction from opinion; probably after will."],
+   ["Jean-Paul", "Hmm. I'll call my cousin and ask him to come here instead.", "A decision made now."],
+   ["Sarah", "Good idea. Shall I buy the vegetables at the corner shop?", "Shall I…? = an offer."],
+   ["Jean-Paul", "Yes, please. I'll send you a list as soon as I finish this call.", "As soon as + present simple."]
+  ]
+ },
+ "mots": [
+  ["plan", "What are your plans for the summer?", "something you have decided to do"],
+  ["intend", "I intend to finish my degree next year.", "to have something in your mind as a plan"],
+  ["probably", "It will probably be sunny tomorrow.", "very likely"],
+  ["promise", "I promise I'll be on time.", "to say that you will certainly do something"],
+  ["forecast", "The forecast says it's going to rain.", "a statement about what will happen, especially the weather"],
+  ["definitely", "I'll definitely come to your party.", "certainly, without any doubt"],
+  ["offer", "Thanks for the offer, but I'll manage.", "saying you are willing to do something for someone"],
+  ["look like", "It looks like it's going to be a long day.", "to seem likely"],
+  ["arrangement", "I've made arrangements to meet the client.", "a plan organised with other people"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Which use?",
+   "consigne": "Write the use: instant decision (D), plan (P), prediction from evidence (E), opinion (O) or promise (Pr).",
+   "items": [
+    ["I'm going to study law next year.", "P"],
+    ["I'll pay you back on Monday, I promise.", "Pr"],
+    ["Watch out! That glass is going to fall.", "E"],
+    ["I'm hungry. – I'll make you a sandwich.", "D"],
+    ["I think the economy will grow next year.", "O"]
+   ]
+  },
+  {
+   "titre": "2. Will or be going to?",
+   "consigne": "Complete with will ('ll) or the correct form of be going to.",
+   "items": [
+    ["I've bought a ticket. I ___ see the match on Saturday.", "am going to ('m going to)"],
+    ["It's dark in here. – I ___ turn on the light.", "'ll (will)"],
+    ["She's very pale. I think she ___ faint.", "is going to"],
+    ["Don't worry, I ___ tell anyone.", "won't"],
+    ["We ___ get married next June. We've booked the hall.", "are going to"]
+   ]
+  },
+  {
+   "titre": "3. Future form or present?",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["I'll call you when I (will get / get) home.", "get"],
+    ["(I'm having / I'll have) dinner with my boss tonight; we booked a table.", "I'm having"],
+    ["The film (starts / will be starting) at 8.30 according to the programme.", "starts"],
+    ["(Shall / Will) I open the window?", "Shall"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["I think it won't rain tomorrow.", "I don't think it'll rain tomorrow."],
+    ["As soon as I will know, I'll tell you.", "As soon as I know, I'll tell you."],
+    ["She will to visit us next week.", "She will visit us next week. / She's going to visit us next week."],
+    ["Wait, I'm going to help you with that box!", "Wait, I'll help you with that box!"]
+   ]
+  },
+  {
+   "titre": "5. What do you say?",
+   "consigne": "Write what you say in each situation, choosing the right future form.",
+   "items": [
+    ["Someone knocks at the door. You decide to open it.", "I'll go! / I'll get it!"],
+    ["You see dark clouds and tell your friend.", "Look at those clouds: it's going to rain."],
+    ["You tell a friend about your decision to learn Spanish.", "I've decided: I'm going to learn Spanish."],
+    ["Promise to phone your mother after your arrival in Brussels.", "I'll phone you when I arrive in Brussels. / I'll call you when I get to Brussels."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write 4–5 sentences: two plans you have already decided (going to or present continuous), one prediction about your country's future (will), and an offer or a promise to a friend (will).",
+   "items": [
+    ["Example answer", "Next month I'm going to start a new course in project management. On Saturday I'm meeting my old classmates in Dakar. I think more people will work from home in the future. Don't worry about your move: I'll help you carry the boxes, I promise."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Decision made now, offer, promise, request, refusal → will.",
+  "Plan already decided → be going to; fixed arrangement → present continuous.",
+  "Prediction: opinion → will (I think…, probably); visible evidence → going to.",
+  "After when, if, as soon as, before, until: present simple, never will.",
+  "Ask yourself: was this decided before I started speaking?"
+ ],
+ "liens": [45, 49, 50, 95, 109],
+ "refs": ["bc-future-forms", "bc-future-certainty"]
+}

@@ -1,0 +1,213 @@
+{
+ "n": 168,
+ "niveau": "B2",
+ "titre": "Les structures emphatiques (do / does / did)",
+ "intro": "« Mais si, j'ai fermé la porte ! », « J'aime vraiment ta robe », « Asseyez-vous, je vous en prie » : en anglais, on peut ajouter do / does / did devant un verbe affirmatif pour insister, contredire ou exprimer un contraste. Bien prononcé, ce petit mot remplace « si », « vraiment », « bel et bien » et rend l'anglais oral beaucoup plus naturel.",
+ "objectifs": [
+  "Former l'affirmation emphatique : do / does / did + base verbale.",
+  "L'employer pour contredire, insister, marquer un contraste ou confirmer une attente.",
+  "Utiliser l'impératif emphatique et poli (Do sit down, Do be careful).",
+  "Savoir qu'avec be, have (auxiliaire) et les modaux, on accentue l'auxiliaire au lieu d'ajouter do."
+ ],
+ "sections": [
+  {
+   "titre": "La forme",
+   "texte": [
+    "Dans une phrase affirmative au présent simple ou au prétérit, on ajoute do, does ou did devant la base verbale, exactement comme dans une question ou une négation, mais sans « not ».",
+    "Le verbe principal perd sa terminaison : « She likes » → « She does like » ; « I went » → « I did go ». C'est l'erreur la plus fréquente.",
+    "À l'oral, do / does / did est toujours accentué : c'est l'accent qui crée l'insistance. Sans accent, la phrase paraît bizarre."
+   ],
+   "tableau": {
+    "entetes": ["Phrase neutre", "Phrase emphatique", "Effet"],
+    "lignes": [
+     ["I like your dress.", "I DO like your dress.", "j'aime vraiment"],
+     ["She speaks Lingala.", "She DOES speak Lingala.", "si, elle le parle bel et bien"],
+     ["We locked the door.", "We DID lock the door.", "mais si, nous l'avons fermée"],
+     ["Sit down.", "DO sit down.", "invitation chaleureuse"]
+    ]
+   }
+  },
+  {
+   "titre": "Contredire et rectifier",
+   "texte": [
+    "L'usage le plus courant : répondre à une affirmation négative ou à un doute. Le français dit « Mais si ! » ou « Je t'assure que… ».",
+    "On peut répondre par la phrase complète (« I did lock the door! ») ou par une réponse courte avec l'auxiliaire accentué (« I DID! »)."
+   ],
+   "exemples": [
+    ["“You didn't lock the door.” – “I DID lock it! I checked twice.”", "Mais si, je l'ai fermée !"],
+    ["“You never listen to me.” – “I DO listen to you!”", "Mais si, je t'écoute !"],
+    ["“Ama doesn't eat meat.” – “She DOES eat meat. She just doesn't eat pork.”", "Rectification."],
+    ["“Did you really call him?” – “I DID!”", "Réponse courte."]
+   ]
+  },
+  {
+   "titre": "Insister, exprimer un sentiment fort",
+   "texte": [
+    "Do / does / did renforce un sentiment, une opinion ou un souhait : « I do hope you can come » (j'espère vraiment), « I do apologise for the delay » (formule d'excuse soutenue), « You do look tired. »",
+    "Il sert aussi à confirmer qu'une chose attendue s'est bien produite : « He said he'd come, and he did come » (et il est bel et bien venu).",
+    "À l'écrit argumentatif, il souligne une concession : « This method does have some advantages, but… »."
+   ],
+   "exemples": [
+    ["I do hope the weather will be nice for the wedding.", "J'espère vraiment…"],
+    ["We do apologise for any inconvenience.", "Excuses formelles (annonces, courriels)."],
+    ["The plan did work in the end.", "Le plan a bel et bien fonctionné."],
+    ["Online learning does have advantages, but it can't replace a teacher.", "Concession dans un essai."]
+   ]
+  },
+  {
+   "titre": "Le contraste : not… but do",
+   "texte": [
+    "Do / does / did met en valeur la partie positive d'un contraste : « I don't eat meat, but I do eat fish. »",
+    "Souvent, on oppose ce qui n'est pas vrai à ce qui l'est, ou ce qu'on ne sait pas à ce qu'on sait : « I don't know her name, but I do know where she works. »"
+   ],
+   "exemples": [
+    ["He doesn't speak Dutch, but he does understand it.", "Il ne le parle pas, mais il le comprend."],
+    ["I didn't win, but I did enjoy the race.", "Je n'ai pas gagné, mais j'ai vraiment apprécié la course."],
+    ["We don't have much money, but we do have time.", "Contraste argent / temps."]
+   ]
+  },
+  {
+   "titre": "L'impératif emphatique",
+   "texte": [
+    "Devant un impératif, « do » rend une invitation plus chaleureuse ou une demande plus pressante : « Do come in! », « Do help yourself », « Do be careful ». C'est un peu soutenu ou britannique, mais très poli.",
+    "Avec « be », l'impératif emphatique est aussi « do » : « Do be quiet! », « Do be careful on the road. » C'est le seul cas où « do » s'emploie devant « be ».",
+    "« Don't you dare! » (je t'interdis de…) et « Do tell me! » (raconte, je t'en prie !) sont des expressions courantes."
+   ],
+   "exemples": [
+    ["Do come in and make yourself at home.", "Entrez, je vous en prie, faites comme chez vous."],
+    ["Do help yourself to some more cake.", "Resservez-vous, je vous en prie."],
+    ["Do be careful, the roads are icy.", "Soyez vraiment prudents."]
+   ]
+  },
+  {
+   "titre": "Avec be, have et les modaux : accentuer l'auxiliaire",
+   "texte": [
+    "Quand la phrase contient déjà « be », un auxiliaire (have / has, be + -ing) ou un modal (can, will, must…), on n'ajoute pas « do ». On prononce simplement l'auxiliaire en forme pleine et accentuée, sans contraction.",
+    "« I'm listening » → « I AM listening! » ; « I've finished » → « I HAVE finished! » ; « I can swim » → « I CAN swim! »",
+    "À l'écrit, on peut souligner ou mettre en italique l'auxiliaire dans un message informel ; dans un texte soigné, on choisit plutôt des adverbes (really, indeed, certainly)."
+   ],
+   "tableau": {
+    "entetes": ["Phrase", "Forme emphatique", "Pas « do » ici"],
+    "lignes": [
+     ["I'm listening.", "I AM listening!", "*I do am listening"],
+     ["She's finished.", "She HAS finished!", "*She does have finished"],
+     ["I can swim.", "I CAN swim!", "*I can do swim"],
+     ["He'll be there.", "He WILL be there!", "*He does will be there"]
+    ]
+   }
+  }
+ ],
+ "formule": "DO / DOES / DID (accentué) + base verbale · Do + impératif · Avec be / have / modal : auxiliaire accentué (I AM, I HAVE, I CAN)",
+ "prononciation": [
+  "L'auxiliaire emphatique est toujours en forme pleine et fortement accentué : do /duː/, does /dʌz/, did /dɪd/, avec une voix plus haute puis descendante.",
+  "Le verbe qui suit est moins accentué : « I DID lock it » /aɪ ˈdɪd lɒk ɪt/.",
+  "Avec be et les modaux, pas de contraction : « I AM » /aɪ ˈæm/, « I CAN » /aɪ ˈkæn/ (forme forte, alors que « can » est d'habitude faible /kən/).",
+  "Dans « Do sit down », l'accent tombe sur « Do » et sur « sit » ; le ton est chaleureux.",
+  "Sans accent, la phrase emphatique ne fonctionne pas : à l'oral, c'est l'intonation qui porte le sens."
+ ],
+ "erreurs": [
+  ["She does likes chocolate.", "She does like chocolate.", "Après does : base verbale, sans -s."],
+  ["I did went to the meeting.", "I did go to the meeting.", "Après did : base verbale."],
+  ["I do am tired.", "I AM tired.", "Avec be, on accentue « am », pas de do."],
+  ["He do work hard.", "He does work hard.", "3e personne du singulier : does."],
+  ["I can do swim.", "I CAN swim.", "Avec un modal, on accentue le modal."],
+  ["Do sitting down, please.", "Do sit down, please.", "Do + impératif (base verbale)."],
+  ["I did locked the door.", "I did lock the door.", "Une seule marque du passé : did."]
+ ],
+ "dialogue": {
+  "contexte": "À Kigali, Eric et sa sœur Divine rentrent d'un week-end et trouvent la maison en désordre.",
+  "lignes": [
+   ["Divine", "Eric! The kitchen window is open. You didn't close it before we left!", "Eric ! La fenêtre de la cuisine est ouverte. Tu ne l'as pas fermée avant de partir !"],
+   ["Eric", "I did close it! I remember doing it.", "Mais si, je l'ai fermée ! Je m'en souviens."],
+   ["Divine", "Then who opened it? And look, someone has eaten all the bananas.", "Alors qui l'a ouverte ? Et regarde, quelqu'un a mangé toutes les bananes."],
+   ["Eric", "I don't know who opened the window, but I do know who ate the bananas…", "Je ne sais pas qui a ouvert la fenêtre, mais je sais bien qui a mangé les bananes…"],
+   ["Divine", "Who?", "Qui ?"],
+   ["Eric", "Our cousin Patrick! He did say he would come and water the plants.", "Notre cousin Patrick ! Il avait bien dit qu'il viendrait arroser les plantes."],
+   ["Divine", "Ah, that explains it. Well, he did water them. They look great.", "Ah, ça explique tout. Bon, il les a bel et bien arrosées. Elles sont superbes."],
+   ["Eric", "You see? I am a responsible brother! Now do sit down, and I'll make some tea.", "Tu vois ? Je suis un frère responsable ! Maintenant assieds-toi donc, je vais faire du thé."]
+  ]
+ },
+ "mots": [
+  ["contradict", "Don't contradict me in front of the client.", "contredire"],
+  ["insist", "She insists that she locked the door.", "insister, affirmer avec force"],
+  ["assure", "I assure you that the work is finished.", "assurer, garantir (à quelqu'un)"],
+  ["indeed", "It was indeed a difficult year.", "en effet, effectivement"],
+  ["actually", "I did actually call you yesterday.", "en fait, vraiment (faux ami : pas « actuellement »)"],
+  ["certainly", "She certainly knows how to cook.", "certainement, assurément"],
+  ["definitely", "I'll definitely be there.", "sans aucun doute, c'est sûr"],
+  ["honestly", "Honestly, I did try my best.", "franchement, honnêtement"],
+  ["apologise", "We do apologise for the delay.", "présenter ses excuses"],
+  ["help yourself", "Do help yourself to some food.", "se servir"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quel usage ?",
+   "consigne": "Indique l'usage de do / does / did : contradiction, contraste, invitation polie ou sentiment fort.",
+   "items": [
+    ["“You didn't call me!” – “I did call you, twice!”", "Contradiction."],
+    ["I don't like sport, but I do enjoy watching football.", "Contraste."],
+    ["Do come in and sit down.", "Invitation polie."],
+    ["I do hope you'll be able to come.", "Sentiment fort (espoir)."]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec do / does / did + le verbe entre parenthèses.",
+   "items": [
+    ["“You don't love me.” – “I ___ (love) you!”", "do love"],
+    ["She doesn't speak Dutch, but she ___ (understand) it.", "does understand"],
+    ["“Why didn't you tell me?” – “I ___ (tell) you! You weren't listening.”", "did tell"],
+    ["___ (help) yourself to some cake.", "Do help"],
+    ["He ___ (work) hard, even if he's not very fast.", "does work"],
+    ["I ___ (enjoy) the concert last night. It was amazing.", "did enjoy"]
+   ]
+  },
+  {
+   "titre": "3. Contredire",
+   "consigne": "Contredis chaque phrase avec une forme emphatique (attention à be et aux modaux).",
+   "items": [
+    ["“You didn't lock the door.”", "I did lock the door!"],
+    ["“Ama doesn't like spicy food.”", "She does like spicy food!"],
+    ["“You never help me.”", "I do help you!"],
+    ["“You aren't listening.”", "I AM listening! (pas de do avec be)"],
+    ["“You can't swim.”", "I CAN swim! (pas de do avec un modal)"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["She does likes chocolate.", "She does like chocolate."],
+    ["I did went to the meeting.", "I did go to the meeting."],
+    ["I do am tired.", "I AM tired. (on accentue « am »)"],
+    ["Do sitting down, please.", "Do sit down, please."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec do / does / did.",
+   "items": [
+    ["Mais si, j'ai fermé la porte !", "I did lock (close) the door!"],
+    ["J'aime vraiment ta robe.", "I do like your dress."],
+    ["Il ne boit pas d'alcool, mais il boit beaucoup de café.", "He doesn't drink alcohol, but he does drink a lot of coffee."],
+    ["Asseyez-vous, je vous en prie.", "Do sit down, please."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court échange (4 à 6 répliques) où quelqu'un t'accuse à tort d'avoir oublié quelque chose. Défends-toi avec au moins quatre formes emphatiques différentes (do, does, did, auxiliaire accentué, impératif).",
+   "items": [
+    ["Exemple de réponse", "A: You forgot to pay the electricity bill! B: I did pay it! I paid it online on Monday. A: Then why does the website say it's unpaid? B: I don't know, but I do have the receipt. Look, here it is. A: Oh… you're right. Sorry. B: No problem. I AM organised sometimes! Now do relax."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "do / does / did (accentué) + base verbale : I do like it, she does speak it, we did lock it.",
+  "Usages : contredire (Mais si !), insister (I do hope), contraste (I don't…, but I do…), confirmer (and he did come).",
+  "Impératif chaleureux ou pressant : Do sit down, Do help yourself, Do be careful.",
+  "Avec be, have auxiliaire et les modaux : pas de do, on accentue l'auxiliaire (I AM, I HAVE, I CAN).",
+  "Jamais de terminaison après do / does / did : does like, did go."
+ ],
+ "liens": [157, 161, 215],
+ "refs": ["bc-emphasis"]
+}

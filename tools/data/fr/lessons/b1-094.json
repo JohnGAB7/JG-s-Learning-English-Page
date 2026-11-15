@@ -1,0 +1,208 @@
+{
+ "n": 94,
+ "niveau": "B1",
+ "titre": "« Will » ou « be going to » ?",
+ "intro": "Le français dit « je vais partir » ou « je partirai » presque indifféremment ; l'anglais, lui, choisit entre will, be going to et le présent continu selon qu'on décide maintenant, qu'on a déjà un projet, qu'on voit des indices ou qu'on a pris rendez-vous. Bien choisir rend ton anglais naturel.",
+ "objectifs": [
+  "Distinguer une décision prise sur le moment (will) d'une intention déjà décidée (be going to).",
+  "Distinguer une prédiction fondée sur une opinion (will) d'une prédiction fondée sur un indice visible (be going to).",
+  "Utiliser will pour les offres, les promesses, les refus et les demandes, et le présent continu pour les rendez-vous fixés.",
+  "Éviter le piège français « je vais » = toujours going to."
+ ],
+ "sections": [
+  {
+   "titre": "Rappel des formes",
+   "texte": [
+    "Will + base verbale, identique à toutes les personnes : I will go, she will go. Contraction 'll (I'll, she'll) ; négation won't /wəʊnt/ (= will not).",
+    "Be going to + base verbale : be se conjugue (I'm going to, he's going to, they're going to). Négation : I'm not going to, she isn't going to. Question : Are you going to…?",
+    "À l'oral familier, going to se prononce souvent « gonna » /ˈɡɒnə/. On ne l'écrit pas dans un texte soigné."
+   ],
+   "tableau": {
+    "entetes": ["", "will", "be going to"],
+    "lignes": [
+     ["Affirmative", "I'll call you tonight.", "I'm going to call the bank."],
+     ["Négative", "She won't come.", "She isn't going to come."],
+     ["Question", "Will you help me?", "Are you going to help him?"],
+     ["Réponse courte", "Yes, I will. / No, I won't.", "Yes, I am. / No, I'm not."]
+    ]
+   }
+  },
+  {
+   "titre": "Décider maintenant ou avoir déjà décidé",
+   "texte": [
+    "Will = la décision naît au moment où l'on parle, souvent en réaction à quelque chose. Be going to = l'intention existait avant ; on annonce un projet.",
+    "Test simple : « Est-ce que j'y avais pensé avant cette conversation ? » Si oui → going to. Si non → will."
+   ],
+   "exemples": [
+    ["The phone's ringing. – I'll get it!", "Décision instantanée : j'y vais."],
+    ["I'm going to paint my bedroom this weekend. I've bought the paint.", "Projet déjà décidé (preuve : la peinture est achetée)."],
+    ["It's cold in here. – OK, I'll close the window.", "Réaction immédiate."],
+    ["We're going to have a baby in May!", "Intention, nouvelle annoncée."]
+   ]
+  },
+  {
+   "titre": "Deux sortes de prédictions",
+   "texte": [
+    "Will = prédiction fondée sur ce qu'on pense, croit ou sait du monde, souvent avec I think, I'm sure, probably, I expect, I don't think. Be going to = prédiction fondée sur un indice présent : on voit que ça va arriver.",
+    "Attention à la place de probably : après will (She'll probably win) mais avant won't (She probably won't win). Et on préfère « I don't think he'll come » à « I think he won't come »."
+   ],
+   "exemples": [
+    ["I think Cameroon will win the match.", "Opinion personnelle."],
+    ["Look at those clouds! It's going to rain.", "Indice visible : les nuages."],
+    ["Careful! You're going to fall!", "On voit que la chute est imminente."],
+    ["Prices will probably rise next year.", "Prévision générale, probably après will."]
+   ]
+  },
+  {
+   "titre": "Les autres emplois de will",
+   "texte": [
+    "Will sert aussi aux actes de parole : offrir son aide, promettre, menacer, refuser, demander un service. Dans ces cas, going to est impossible.",
+    "Shall I / Shall we…? (surtout en anglais britannique) sert à proposer ou à demander l'avis : « Shall I open the window? », « Shall we go? »",
+    "Won't exprime aussi un refus, même pour un objet : « The car won't start » (la voiture refuse de démarrer)."
+   ],
+   "tableau": {
+    "entetes": ["Fonction", "Exemple", "Sens"],
+    "lignes": [
+     ["Offre", "I'll carry your bag.", "je vais porter ton sac (je le propose)"],
+     ["Promesse", "I won't tell anyone, I promise.", "je ne le dirai à personne"],
+     ["Demande", "Will you lend me your charger?", "tu veux bien me prêter… ?"],
+     ["Refus", "He won't listen to me.", "il refuse de m'écouter"],
+     ["Menace", "Stop that or I'll call the police!", "sinon j'appelle la police"],
+     ["Proposition", "Shall we take a taxi?", "et si on prenait un taxi ?"]
+    ]
+   }
+  },
+  {
+   "titre": "Les rendez-vous : le présent continu",
+   "texte": [
+    "Pour un projet organisé avec une date, une heure, d'autres personnes, un billet acheté, on préfère le présent continu (vu à la leçon 50) : « I'm meeting Sophie at six ». Going to est possible mais insiste moins sur l'organisation.",
+    "Les horaires officiels (trains, cours, films) se disent au présent simple : « The train leaves at 7.15. »"
+   ],
+   "exemples": [
+    ["I'm flying to Montreal on Friday.", "Billet réservé : arrangement fixé."],
+    ["The conference starts at nine tomorrow.", "Horaire officiel : présent simple."]
+   ]
+  },
+  {
+   "titre": "Après when, if, as soon as : pas de will",
+   "texte": [
+    "Dans les propositions de temps et de condition (when, as soon as, before, after, until, if), on utilise le présent simple même pour le futur, contrairement au français : « Je t'appellerai quand j'arriverai » = I'll call you when I arrive.",
+    "C'est l'une des erreurs les plus fréquentes des francophones. Le premier conditionnel (leçon suivante) repose sur la même règle."
+   ],
+   "exemples": [
+    ["I'll text you as soon as I get home.", "Pas « as soon as I will get »."],
+    ["When she finishes her degree, she's going to work in Abidjan.", "Présent simple après when."]
+   ]
+  }
+ ],
+ "formule": "décision sur le moment / opinion → will + verbe · projet décidé / indice visible → be going to + verbe",
+ "prononciation": [
+  "'ll se prononce /l/ « sombre », très léger : I'll /aɪl/, you'll /jʊəl/ ou /jɔːl/, we'll /wiːl/, it'll /ˈɪtl/. Ne l'oublie pas : « I go » ≠ « I'll go ».",
+  "won't /wəʊnt/ (diphtongue comme dans « no ») ne doit pas se confondre avec want /wɒnt/. « I won't go » (je n'irai pas) ≠ « I want to go » (je veux y aller).",
+  "going to devant un verbe se réduit souvent à /ˈɡəʊɪŋ tə/ ou « gonna » /ˈɡɒnə/ à l'oral familier. Mais pas quand going signifie « aller quelque part » : « I'm going to Paris » ne devient jamais « gonna Paris ».",
+  "Shall est faible dans « Shall we go? » : /ʃəl wi ˈɡəʊ/."
+ ],
+ "erreurs": [
+  ["The phone is ringing. – I'm going to answer it.", "The phone is ringing. – I'll answer it.", "Décision prise à l'instant : will."],
+  ["I will call you when I will arrive.", "I'll call you when I arrive.", "Après when, as soon as, if : présent simple."],
+  ["Look at the sky! It will rain.", "Look at the sky! It's going to rain.", "Prédiction fondée sur un indice visible : going to."],
+  ["I think he won't come.", "I don't think he'll come.", "En anglais on met la négation sur think."],
+  ["She will probably not to come.", "She probably won't come.", "Pas de to après will ; probably avant won't."],
+  ["I go to the dentist tomorrow at 10.", "I'm going to the dentist tomorrow at 10.", "Rendez-vous fixé : présent continu, pas présent simple."],
+  ["Do you help me? It's heavy.", "Will you help me? It's heavy.", "Demander un service : Will you…? / Can you…?"]
+ ],
+ "dialogue": {
+  "contexte": "Ottawa, un vendredi soir. Sarah et son colocataire Jean-Paul, venu de Bafoussam, organisent leur samedi.",
+  "lignes": [
+   ["Sarah", "What are you doing tomorrow?", "Qu'est-ce que tu fais demain ?"],
+   ["Jean-Paul", "I'm meeting my cousin at the market at ten. Then I'm going to cook ndolé for everyone.", "Je retrouve mon cousin au marché à dix heures. Ensuite je vais cuisiner du ndolé pour tout le monde."],
+   ["Sarah", "Sounds great! I'll help you if you like.", "Super ! Je t'aiderai si tu veux."],
+   ["Jean-Paul", "Thanks. Oh, look at the sky. It's going to snow tonight.", "Merci. Oh, regarde le ciel. Il va neiger ce soir."],
+   ["Sarah", "Then the roads will probably be terrible tomorrow.", "Alors les routes seront sûrement affreuses demain."],
+   ["Jean-Paul", "Hmm. I'll call my cousin and ask him to come here instead.", "Hum. Je vais appeler mon cousin et lui demander de venir ici plutôt."],
+   ["Sarah", "Good idea. Shall I buy the vegetables at the corner shop?", "Bonne idée. Je vais acheter les légumes à l'épicerie du coin ?"],
+   ["Jean-Paul", "Yes, please. I'll send you a list as soon as I finish this call.", "Oui, s'il te plaît. Je t'envoie une liste dès que j'ai fini cet appel."]
+  ]
+ },
+ "mots": [
+  ["plan", "What are your plans for the summer?", "le projet, le programme"],
+  ["intend", "I intend to finish my degree next year.", "avoir l'intention de"],
+  ["probably", "It will probably be sunny tomorrow.", "probablement"],
+  ["promise", "I promise I'll be on time.", "promettre"],
+  ["forecast", "The forecast says it's going to rain.", "la prévision (météo)"],
+  ["definitely", "I'll definitely come to your party.", "certainement, sans faute"],
+  ["offer", "Thanks for the offer, but I'll manage.", "l'offre, la proposition"],
+  ["look like", "It looks like it's going to be a long day.", "avoir l'air de, sembler"],
+  ["arrangement", "I've made arrangements to meet the client.", "les dispositions, le rendez-vous organisé"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quel emploi ?",
+   "consigne": "Indique l'emploi : décision immédiate (D), projet (P), prédiction avec indice (I), opinion (O) ou promesse (Pr).",
+   "items": [
+    ["I'm going to study law next year.", "P"],
+    ["I'll pay you back on Monday, I promise.", "Pr"],
+    ["Watch out! That glass is going to fall.", "I"],
+    ["I'm hungry. – I'll make you a sandwich.", "D"],
+    ["I think the economy will grow next year.", "O"]
+   ]
+  },
+  {
+   "titre": "2. Will ou be going to ?",
+   "consigne": "Complète avec will ('ll) ou la bonne forme de be going to.",
+   "items": [
+    ["I've bought a ticket. I ___ see the match on Saturday.", "am going to ('m going to)"],
+    ["It's dark in here. – I ___ turn on the light.", "'ll (will)"],
+    ["She's very pale. I think she ___ faint.", "is going to"],
+    ["Don't worry, I ___ tell anyone.", "won't"],
+    ["We ___ get married next June. We've booked the hall.", "are going to"]
+   ]
+  },
+  {
+   "titre": "3. Temps futur ou présent ?",
+   "consigne": "Choisis la bonne forme.",
+   "items": [
+    ["I'll call you when I (will get / get) home.", "get"],
+    ["(I'm having / I'll have) dinner with my boss tonight; we booked a table.", "I'm having"],
+    ["The film (starts / will be starting) at 8.30 according to the programme.", "starts"],
+    ["(Shall / Will) I open the window?", "Shall"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I think it won't rain tomorrow.", "I don't think it'll rain tomorrow."],
+    ["As soon as I will know, I'll tell you.", "As soon as I know, I'll tell you."],
+    ["She will to visit us next week.", "She will visit us next week. / She's going to visit us next week."],
+    ["Wait, I'm going to help you with that box!", "Wait, I'll help you with that box!"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais en choisissant la bonne forme.",
+   "items": [
+    ["– On sonne. – J'y vais !", "– There's someone at the door. – I'll go! / I'll get it!"],
+    ["Regarde ces nuages : il va pleuvoir.", "Look at those clouds: it's going to rain."],
+    ["J'ai décidé : je vais apprendre l'espagnol.", "I've decided: I'm going to learn Spanish."],
+    ["Je te téléphonerai quand j'arriverai à Bruxelles.", "I'll phone you when I arrive in Brussels. / I'll call you when I get to Brussels."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 4 à 5 phrases : deux projets que tu as déjà décidés (going to ou présent continu), une prédiction sur l'avenir de ton pays (will), et une offre ou une promesse à un ami (will).",
+   "items": [
+    ["Exemple de réponse", "Next month I'm going to start a new course in project management. On Saturday I'm meeting my old classmates in Dakar. I think more people will work from home in the future. Don't worry about your move: I'll help you carry the boxes, I promise."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Décision sur le moment, offre, promesse, demande, refus → will.",
+  "Projet déjà décidé → be going to ; rendez-vous fixé → présent continu.",
+  "Prédiction : opinion → will (I think…, probably) ; indice visible → going to.",
+  "Après when, if, as soon as, before, until : présent simple, jamais will.",
+  "« Je vais… » en français ne signifie pas toujours going to : demande-toi si la décision est prise maintenant."
+ ],
+ "liens": [45, 49, 50, 95, 109],
+ "refs": ["bc-future-forms", "bc-future-certainty"]
+}

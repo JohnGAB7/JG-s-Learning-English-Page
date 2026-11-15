@@ -1,0 +1,216 @@
+{
+ "n": 4,
+ "niveau": "A1",
+ "titre": "“To be”: negatives and questions",
+ "intro": "After the positive forms of “to be” (lesson 1), learn how to say “not” and how to ask questions. You need these sentences when you meet people, check information or correct a mistake.",
+ "objectifs": [
+  "Make the negative of “to be” with not, in the full form and the short forms.",
+  "Ask a yes / no question by changing the order of the subject and the verb (Are you…? Is she…?).",
+  "Give a correct short answer (Yes, I am. / No, she isn't.).",
+  "Ask questions with a question word + be (Where are you? What is it?)."
+ ],
+ "sections": [
+  {
+   "titre": "The negative",
+   "texte": [
+    "To make “to be” negative, just add “not” after the verb: I am not, she is not, they are not. You don't need “do” with “to be”.",
+    "When we speak, we use short forms. For is and are there are two short forms: join the subject and the verb (she's not, they're not) or join the verb and not (she isn't, they aren't). Both are correct and common. “'s not / 're not” makes the “not” a little stronger.",
+    "With “I”, there is only one short form: I'm not. “Amn't” is not standard English."
+   ],
+   "tableau": {
+    "entetes": ["Subject", "Full form", "Short form 1", "Short form 2"],
+    "lignes": [
+     ["I", "I am not", "I'm not", "—"],
+     ["you", "you are not", "you're not", "you aren't"],
+     ["he / she / it", "he is not", "he's not", "he isn't"],
+     ["we", "we are not", "we're not", "we aren't"],
+     ["they", "they are not", "they're not", "they aren't"]
+    ]
+   },
+   "exemples": [
+    ["I'm not tired.", "The only short form with I."],
+    ["She isn't at home. / She's not at home.", "Two correct short forms."],
+    ["We aren't from Paris. We're from Lille.", "Negative, then the correct information."],
+    ["It's not expensive.", "A description in the negative."]
+   ]
+  },
+  {
+   "titre": "Yes / no questions: change the order",
+   "texte": [
+    "To ask a question with the answer yes or no, put the verb before the subject: You are French → Are you French? You don't need “do”.",
+    "“You are ready?” with a rising voice is possible only to show surprise. The normal question is “Are you ready?”."
+   ],
+   "tableau": {
+    "entetes": ["Statement", "Question", "Note"],
+    "lignes": [
+     ["I am late.", "Am I late?", "am before I"],
+     ["You are a student.", "Are you a student?", "are before you"],
+     ["He is at work.", "Is he at work?", "is before he"],
+     ["It is far.", "Is it far?", "is before it"],
+     ["They are ready.", "Are they ready?", "are before they"]
+    ]
+   },
+   "exemples": [
+    ["Is your sister a doctor?", "The subject can be a longer group of words."],
+    ["Are the shops open on Sunday?", "Plural subject: are."]
+   ],
+   "note": "Negative questions (Aren't you hungry? Isn't it beautiful?) show surprise or expect “yes”. With I, say “Aren't I?”: Aren't I right?"
+  },
+  {
+   "titre": "Short answers",
+   "texte": [
+    "In English, only “Yes” or “No” can sound unfriendly. Add a short answer: Yes / No + pronoun + verb. Use the same verb as in the question.",
+    "Important rule: never use a short form in a positive short answer. Say “Yes, I am”, “Yes, she is”, never “Yes, I'm” or “Yes, she's”. In negative answers, short forms are normal: No, I'm not. No, he isn't."
+   ],
+   "tableau": {
+    "entetes": ["Question", "Yes", "No"],
+    "lignes": [
+     ["Are you tired?", "Yes, I am.", "No, I'm not."],
+     ["Is he Belgian?", "Yes, he is.", "No, he isn't. / No, he's not."],
+     ["Is it cold?", "Yes, it is.", "No, it isn't. / No, it's not."],
+     ["Are we late?", "Yes, we are. / Yes, you are.", "No, we aren't. / No, you aren't."],
+     ["Are they ready?", "Yes, they are.", "No, they aren't. / No, they're not."]
+    ]
+   },
+   "note": "In the answer, use a pronoun, not the noun: Is your brother at home? — Yes, he is (not “Yes, my brother is”)."
+  },
+  {
+   "titre": "Questions with a question word",
+   "texte": [
+    "For an open question, put the question word first, then the verb, then the subject: question word + am / is / are + subject? The main question words: what, where, who, how, how old, when, why.",
+    "When we speak, “is” is often short after the question word: What's, Where's, Who's, How's. In writing, don't shorten “are” in these questions (write “Where are you?”). You will study Wh- questions in more detail in lesson 29."
+   ],
+   "exemples": [
+    ["Where are you? — I'm at the station.", "Place."],
+    ["What's your address?", "What + is."],
+    ["Who is that man? — He's my boss.", "Person."],
+    ["How are your parents?", "Health and news."],
+    ["Why are you sad?", "Reason."]
+   ]
+  },
+  {
+   "titre": "Traps: “to be” or “do”?",
+   "texte": [
+    "Never mix “to be” and “do”: “Do you are…?” and “I don't be…” are wrong. With “to be”, change the order or add not. That's all.",
+    "Some ideas use a verb in English, not “be” + adjective. The most common one: “agree” is a verb, so say “I agree” and “Do you agree?”, never “I am agree” or “Are you agree?”. But “afraid” and “right” are adjectives, so they use be: Are you afraid? Are you right?"
+   ],
+   "exemples": [
+    ["Are you agree? ✗ → Do you agree? ✓", "“Agree” is a verb: it needs do in questions (lesson 6)."],
+    ["Is she right? — No, she isn't.", "“Right” is an adjective: use be."]
+   ]
+  }
+ ],
+ "formule": "Negative: subject + am / is / are + not · Question: (Wh-) + am / is / are + subject? · Answer: Yes, I am. / No, I'm not.",
+ "prononciation": [
+  "“isn't” /ˈɪznt/ and “aren't” /ɑːnt/: the final t is light, sometimes almost silent before a consonant (She isn't here).",
+  "Yes / no question (Are you ready?): your voice goes up at the end. Wh- question (Where are you?): your voice goes down at the end.",
+  "In questions, “are” is weak: Are you /ə juː/ or /ɑː jə/ in fast speech. In a short answer (Yes, I am), the verb is strong and stressed: /æm/.",
+  "In negatives, stress “not” or “-n't” so people hear it: I'm NOT tired. She ISn't here.",
+  "“What's” /wɒts/, “Where's” /weəz/, “Who's” /huːz/: the s joins the next word (Where's_it?)."
+ ],
+ "erreurs": [
+  ["Yes, I'm.", "Yes, I am.", "No short form in a positive short answer."],
+  ["I amn't hungry.", "I'm not hungry.", "With I, the only short form is I'm not."],
+  ["Do you are ready?", "Are you ready?", "No “do” with “to be”: change the order."],
+  ["You are French?", "Are you French?", "A normal question changes the order; it doesn't use only the voice."],
+  ["Are you agree?", "Do you agree?", "“Agree” is a verb, not an adjective."],
+  ["Where you are?", "Where are you?", "After the question word, the verb comes before the subject."],
+  ["Is your brother at home? — Yes, my brother is.", "Yes, he is.", "Use a pronoun in short answers."]
+ ],
+ "dialogue": {
+  "contexte": "Two colleagues talk on the phone before a meeting in Paris.",
+  "lignes": [
+   ["Nadia", "Hi, Pierre. Where are you? Are you at the office?", "A Wh- question, then a yes / no question."],
+   ["Pierre", "No, I'm not. I'm on the train. Am I late?", "Short answer; question with I."],
+   ["Nadia", "No, you aren't. The meeting is at ten. Is Lisa with you?", "Negative short answer."],
+   ["Pierre", "Yes, she is. But she isn't very well today.", "“Yes, she is”: no short form."],
+   ["Nadia", "Oh no. What's the problem? Is she ill?", "What's = What is."],
+   ["Pierre", "No, she isn't ill. She's just tired.", "Negative + correct information."],
+   ["Nadia", "OK. Are the documents ready?", "Plural subject: are."],
+   ["Pierre", "Yes, they are. They're in my bag. See you soon!", "Pronoun “they” in the answer."]
+  ]
+ },
+ "mots": [
+  ["ready", "Are you ready to start?", "prepared to do something"],
+  ["sure", "Are you sure? — Yes, I am.", "certain"],
+  ["open", "Is the bank open today?", "people can go in"],
+  ["closed", "The museum isn't open; it's closed.", "not open"],
+  ["far", "Is the station far from here?", "a long way away"],
+  ["ill", "Is she ill? — No, she's just tired.", "not well, not healthy (American: sick)"],
+  ["right", "Am I right?", "correct; true"],
+  ["wrong", "No, you aren't right. You're wrong.", "not correct"],
+  ["free", "Are you free tonight?", "not busy; also: costing no money"],
+  ["expensive", "It isn't expensive.", "costing a lot of money"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Make it negative",
+   "consigne": "Write the sentence in the negative (short form).",
+   "items": [
+    ["I am hungry.", "I'm not hungry."],
+    ["She is at work.", "She isn't at work. / She's not at work."],
+    ["They are Canadian.", "They aren't Canadian. / They're not Canadian."],
+    ["It is cold today.", "It isn't cold today. / It's not cold today."],
+    ["We are late.", "We aren't late. / We're not late."]
+   ]
+  },
+  {
+   "titre": "2. Make a question",
+   "consigne": "Change the sentence into a question.",
+   "items": [
+    ["You are tired.", "Are you tired?"],
+    ["Paul is a teacher.", "Is Paul a teacher?"],
+    ["The shop is open.", "Is the shop open?"],
+    ["Your parents are in Douala.", "Are your parents in Douala?"]
+   ]
+  },
+  {
+   "titre": "3. Short answers",
+   "consigne": "Give a short answer (yes or no, as shown).",
+   "items": [
+    ["Are you French? (yes)", "Yes, I am."],
+    ["Is it far? (no)", "No, it isn't. / No, it's not."],
+    ["Is your mother a nurse? (yes)", "Yes, she is."],
+    ["Are the children at school? (no)", "No, they aren't. / No, they're not."],
+    ["Am I late? (no)", "No, you aren't. / No, you're not."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["Yes, she's.", "Yes, she is."],
+    ["Where you are from?", "Where are you from?"],
+    ["Do you are a student?", "Are you a student?"],
+    ["I amn't sure.", "I'm not sure."],
+    ["Are you agree with me?", "Do you agree with me?"]
+   ]
+  },
+  {
+   "titre": "5. Write the question",
+   "consigne": "Write a question with “to be” for each answer.",
+   "items": [
+    ["Yes, I'm free tonight.", "Are you free tonight?"],
+    ["No, it isn't expensive.", "Is it expensive?"],
+    ["The station? It's on the left.", "Where's the station? / Where is the station?"],
+    ["No, they aren't Belgian. They're Swiss.", "Are they Belgian?"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write three questions with “to be” for a new colleague. Then answer them for you, with short answers and one full sentence.",
+   "items": [
+    ["Example answer", "Are you from Brussels? — No, I'm not. I'm from Liège. Is your office on this floor? — Yes, it is. Are you busy today? — No, I'm not. I'm free this afternoon."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Negative: am / is / are + not → I'm not, she isn't (she's not), they aren't (they're not).",
+  "Yes / no question: change the order → Are you ready? Is it far? Never “do” with “to be”.",
+  "Short answer: Yes, I am / No, I'm not. No short form after Yes.",
+  "Open question: Wh- + be + subject → Where are you? What's your name?",
+  "“Agree” is a verb: I agree, Do you agree?"
+ ],
+ "liens": [1, 2, 6, 29, 39],
+ "refs": ["bc-be", "bc-questions"]
+}

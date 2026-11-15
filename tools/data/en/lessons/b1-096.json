@@ -1,0 +1,192 @@
+{
+ "n": 96,
+ "niveau": "B1",
+ "titre": "The second conditional",
+ "intro": "The second conditional (If I had more time, I would travel) talks about imaginary, unlikely or untrue present situations and their results. We also use it to give advice and to speak politely.",
+ "objectifs": [
+  "Build the second conditional with if + past simple and would + base verb.",
+  "Tell the difference between a real, likely situation (first conditional) and an imaginary or unlikely one (second conditional).",
+  "Use If I were you… to give advice, and were with every subject in careful English.",
+  "Vary the result with could and might, and ask hypothetical questions (What would you do if…?)."
+ ],
+ "sections": [
+  {
+   "titre": "The structure",
+   "texte": [
+    "Condition: if + past simple (or past continuous). Result: would + base verb. Contraction: 'd (I'd, she'd); negative: wouldn't. The comma rule is the same as in the first conditional.",
+    "The past tense here doesn't talk about the past: it shows distance from reality. “If I had a car” = I don't have a car (now)."
+   ],
+   "tableau": {
+    "entetes": ["Condition (if + past)", "Result (would + base verb)", "Reality"],
+    "lignes": [
+     ["If I had more money,", "I'd buy a house.", "I don't have enough money."],
+     ["If she lived closer,", "we would see her more often.", "She lives far away."],
+     ["If they spoke English,", "they'd understand the film.", "They don't speak English."],
+     ["If it wasn't raining,", "we'd go for a walk.", "It's raining now."]
+    ]
+   },
+   "note": "Like will, would never goes in the if-clause: “If I would have money” is wrong."
+  },
+  {
+   "titre": "Real or imaginary? First or second conditional",
+   "texte": [
+    "The choice depends on how the speaker sees the situation. First conditional: possible, realistic. Second conditional: imaginary, unlikely or impossible.",
+    "“If I win the match, I'll be happy” (I'm a good player; it's possible). “If I won the lottery, I'd stop working” (a dream; very unlikely)."
+   ],
+   "exemples": [
+    ["If I get the job, I'll move to Lille.", "Possible: I've had the interview."],
+    ["If I got a job in Japan, I'd learn Japanese.", "A distant idea."],
+    ["If I were taller, I'd play basketball.", "Impossible to change: contrary to reality."],
+    ["What would you do if you saw a lion in the street?", "An imaginary situation."]
+   ]
+  },
+  {
+   "titre": "“If I were…” and advice",
+   "texte": [
+    "With be, we can use were with every subject: If I were, if he were, if it were. This is the recommended form in writing and in exams. Was (if I was, if she was) is common in speech but less formal.",
+    "“If I were you, I'd…” is the classic way to give advice. In this fixed phrase, always use were."
+   ],
+   "exemples": [
+    ["If I were you, I'd apologise.", "Advice."],
+    ["If it were cheaper, more people would buy it.", "Were with it: careful style."],
+    ["I wouldn't sign that contract if I were you.", "Negative advice."]
+   ]
+  },
+  {
+   "titre": "Could, might and questions",
+   "texte": [
+    "In the result, could = would be able to, might = would perhaps. In the condition, could = was able to: “If I could drive, I'd help you move.”",
+    "Hypothetical questions are very useful in conversation and in job interviews: What would you do if…? Where would you live if…? Short answer: Yes, I would. / No, I wouldn't."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Example", "Meaning"],
+    "lignes": [
+     ["would", "If I had time, I would help you.", "certain result in the imaginary situation"],
+     ["could (result)", "If I had a car, I could drive you home.", "I would be able to"],
+     ["might (result)", "If you asked him nicely, he might say yes.", "perhaps he would"],
+     ["could (condition)", "If I could speak Dutch, I'd apply for that job in Ghent.", "if I was able to"]
+    ]
+   }
+  },
+  {
+   "titre": "Politeness and delicate situations",
+   "texte": [
+    "The second conditional makes a request or suggestion softer: “Would it be OK if I left early today?”, “It would be great if you could send me the file.” The grammatical distance creates polite distance.",
+    "It also helps to say no kindly (“I'd love to come, but…”) and to talk about principles (“I would never lie to a friend.”)."
+   ],
+   "exemples": [
+    ["Would you mind if I opened the window?", "Polite request (past simple after if)."],
+    ["It would be helpful if you arrived ten minutes early.", "An instruction, said politely."]
+   ]
+  }
+ ],
+ "formule": "If + past simple, would / could / might + base verb (If I had time, I'd help you. · If I were you, I'd…)",
+ "prononciation": [
+  "'d is almost silent: “I'd go” /aɪd ɡəʊ/. Listen for the small /d/ that separates “I go” from “I'd go”. Before a vowel it links: “I'd ask” /aɪˈdɑːsk/.",
+  "would is weak in questions: “What would you do?” /ˈwɒt wəd jə ˈduː/; often “wouldja” /ˈwʊdʒə/ in fast speech.",
+  "wouldn't /ˈwʊdnt/: the l is silent (as in could and should).",
+  "were is weak /wə/ in “If I were you”: /ɪf aɪ wə ˈjuː/, with the stress on you.",
+  "The voice rises on the condition and falls on the result, as in the first conditional."
+ ],
+ "erreurs": [
+  ["If I would have more time, I would travel.", "If I had more time, I would travel.", "No would in the if-clause: use the past simple."],
+  ["If I had money, I will buy a car.", "If I had money, I would buy a car.", "Past simple in the condition → would in the result (not will)."],
+  ["If I am you, I would accept.", "If I were you, I would accept.", "Fixed phrase: If I were you."],
+  ["If I would be rich, I would help my family.", "If I were rich, I would help my family.", "Be in the past (were) after if."],
+  ["What you would do if you lost your job?", "What would you do if you lost your job?", "Question: would before the subject."],
+  ["If I could, I would to help you.", "If I could, I would help you.", "No to after would."]
+ ],
+ "dialogue": {
+  "contexte": "Abidjan, at a café terrace. Awa and her friend Pierre, visiting from Quebec City, imagine a different life.",
+  "lignes": [
+   ["Pierre", "What would you do if you didn't have to work?", "A hypothetical question."],
+   ["Awa", "I'd open a small restaurant by the sea. And you?", "I'd = I would."],
+   ["Pierre", "If I had the money, I'd travel around Africa for a year.", "If + past, would + verb."],
+   ["Awa", "You could start with Ghana. It isn't far from here.", "Could = a possibility."],
+   ["Pierre", "True. But if I left my job, my boss would be furious!", "Imaginary result."],
+   ["Awa", "If I were you, I'd ask for unpaid leave.", "Advice with If I were you."],
+   ["Pierre", "That's a good idea. He might accept if I asked him early.", "Might = perhaps he would."],
+   ["Awa", "And if you came back next year, you could eat at my restaurant!", "Second conditional for a friendly idea."]
+  ]
+ },
+ "mots": [
+  ["imagine", "Imagine you lived on an island.", "to form a picture of something in your mind"],
+  ["afford", "If I could afford it, I'd buy a bigger flat.", "to have enough money to buy something"],
+  ["lottery", "What would you do if you won the lottery?", "a game where people buy tickets to win money"],
+  ["apologise", "If I were you, I'd apologise.", "to say sorry (US: apologize)"],
+  ["advice", "Can I give you some advice?", "an opinion about what someone should do (uncountable)"],
+  ["unpaid leave", "She took unpaid leave to travel.", "time away from work without pay"],
+  ["rather", "I'd rather stay here.", "would rather = would prefer"],
+  ["mind", "Would you mind if I sat here?", "to be annoyed or worried by something"],
+  ["dream", "In my dream life, I'd live by the sea.", "something you very much want; perfect, ideal"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Real or imaginary?",
+   "consigne": "Choose the form that matches the meaning given.",
+   "items": [
+    ["(Possible) If it (rains / rained) tomorrow, we'll cancel the picnic.", "rains"],
+    ["(Imaginary) If I (am / were) a bird, I'd fly to Cameroon.", "were"],
+    ["(Imaginary) If she (has / had) wings, she would fly.", "had"],
+    ["(Possible) If you (call / called) me tonight, I'll explain.", "call"]
+   ]
+  },
+  {
+   "titre": "2. Put the verbs in the right form",
+   "consigne": "Complete with the correct forms (second conditional).",
+   "items": [
+    ["If I ___ (know) her number, I ___ (call) her.", "knew … would call ('d call)"],
+    ["We ___ (not / live) here if we ___ (have) a choice.", "wouldn't live … had"],
+    ["If he ___ (be) more patient, he ___ (be) a good teacher.", "were (was) … would be"],
+    ["What ___ you ___ (do) if you ___ (lose) your passport abroad?", "would … do … lost"],
+    ["If they ___ (can) speak French, they ___ (move) to Quebec.", "could … would move"]
+   ]
+  },
+  {
+   "titre": "3. Transform",
+   "consigne": "Rewrite the sentence in the second conditional to imagine the opposite.",
+   "items": [
+    ["I don't have a car, so I can't drive you home.", "If I had a car, I could drive you home."],
+    ["She's very busy, so she doesn't call her parents.", "If she weren't (wasn't) so busy, she would call her parents."],
+    ["We don't speak Dutch, so we don't understand the signs.", "If we spoke Dutch, we would understand the signs."],
+    ["It's raining, so we aren't going to the beach.", "If it weren't (wasn't) raining, we would go to the beach."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["If I would win the lottery, I would buy a house.", "If I won the lottery, I would buy a house."],
+    ["If I am you, I would talk to her.", "If I were you, I would talk to her."],
+    ["If she had time, she will help us.", "If she had time, she would help us."],
+    ["What you would say if he asked you?", "What would you say if he asked you?"]
+   ]
+  },
+  {
+   "titre": "5. What would you say?",
+   "consigne": "Write a second conditional sentence for each situation.",
+   "items": [
+    ["You don't have much time, but you'd love to learn the piano.", "If I had more time, I would learn the piano."],
+    ["Give a friend advice: don't say anything.", "If I were you, I wouldn't say anything."],
+    ["Ask a friend to imagine living in Brussels.", "What would you do if you lived in Brussels?"],
+    ["Ask politely if you can leave earlier.", "Would you mind if I left earlier?"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Answer in 4 sentences: “What would you do if you could live anywhere in the world?” Use would, could and might.",
+   "items": [
+    ["Example answer", "If I could live anywhere, I'd choose Vancouver. I would live near the mountains and go hiking every weekend. I could also work from home for a company in Europe. My family might visit me every summer."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "If + past simple, would + base verb: an imaginary or unlikely situation (present or future).",
+  "The past tense shows distance from reality, not past time.",
+  "Never would in the if-clause.",
+  "If I were you, I'd… to give advice; were is possible with every subject.",
+  "Could = would be able to; might = would perhaps."
+ ],
+ "liens": [95, 97, 98, 42, 158],
+ "refs": ["bc-cond-012"]
+}

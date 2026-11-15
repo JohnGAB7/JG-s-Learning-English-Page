@@ -1,0 +1,202 @@
+{
+ "n": 17,
+ "niveau": "A1",
+ "titre": "Les prépositions de lieu (in, on, under…)",
+ "intro": "In, on, at, under, next to, between, opposite… Les prépositions de lieu disent où se trouve une chose ou une personne. Elles ne se traduisent pas toujours mot à mot : « dans le bus » se dit « on the bus », « sur la photo » se dit « in the photo ».",
+ "objectifs": [
+  "Choisir entre in, on et at selon le type de lieu (volume, surface, point).",
+  "Utiliser les prépositions de position : under, next to, between, behind, in front of, opposite, near, above.",
+  "Maîtriser les expressions fixes : at home, at work, on the bus, in the photo, on the left, on the first floor.",
+  "Éviter les faux amis, notamment « in front of » (devant) et « opposite » (en face de)."
+ ],
+ "sections": [
+  {
+   "titre": "In, on, at : volume, surface, point",
+   "texte": [
+    "« In » s'emploie pour un espace fermé ou une zone : dans une pièce, une boîte, une ville, un pays. « On » s'emploie pour une surface : sur une table, un mur, le sol, une page. « At » s'emploie pour un point précis, un lieu vu comme un endroit où l'on fait quelque chose : à l'arrêt de bus, à la gare, à une adresse, à un événement.",
+    "Le choix dépend souvent de la façon dont on voit le lieu. « In the station » = à l'intérieur du bâtiment ; « at the station » = à la gare (comme point de rendez-vous)."
+   ],
+   "tableau": {
+    "entetes": ["Préposition", "Idée", "Exemples"],
+    "lignes": [
+     ["in", "à l'intérieur, dans une zone", "in the kitchen, in a box, in Montréal, in Belgium, in the garden, in the car"],
+     ["on", "sur une surface, une ligne", "on the table, on the wall, on the floor, on page 12, on the river"],
+     ["at", "un point, un lieu d'activité", "at the door, at the bus stop, at the station, at school, at a party, at 15 Rue Royale"]
+    ]
+   },
+   "exemples": [
+    ["Your keys are in your bag.", "Tes clés sont dans ton sac."],
+    ["There's a picture on the wall.", "Il y a un tableau au mur (sur le mur)."],
+    ["I'm at the bus stop. Where are you?", "Je suis à l'arrêt de bus. Tu es où ?"],
+    ["She lives in Liège, at 8 Rue Léopold.", "Elle habite à Liège, au 8 rue Léopold (ville → in ; adresse → at)."]
+   ]
+  },
+  {
+   "titre": "Les prépositions de position",
+   "texte": [
+    "Ces prépositions situent une chose par rapport à une autre. Elles sont suivies d'un nom ou d'un pronom complément (next to me, behind them).",
+    "Attention : « in front of » veut dire « devant » (du même côté de la rue), et « opposite » veut dire « en face de » (de l'autre côté, face à face). En anglais américain, on dit souvent « across from » pour « opposite »."
+   ],
+   "tableau": {
+    "entetes": ["Anglais", "Français", "Exemple"],
+    "lignes": [
+     ["under", "sous", "The cat is under the bed."],
+     ["next to / beside", "à côté de", "Sit next to me."],
+     ["between", "entre (deux)", "The bank is between the café and the pharmacy."],
+     ["behind", "derrière", "The garden is behind the house."],
+     ["in front of", "devant", "There's a tree in front of my window."],
+     ["opposite (US : across from)", "en face de", "The school is opposite the church."],
+     ["near", "près de", "I live near the university."],
+     ["above / over", "au-dessus de", "There's a light above the table."],
+     ["below", "en dessous de", "The temperature is below zero."],
+     ["inside / outside", "à l'intérieur / à l'extérieur", "Wait outside, please."]
+    ]
+   },
+   "note": "« Near » n'est pas suivi de « of » : near the station, jamais « near of the station ». Mais on dit « close to » : close to the station."
+  },
+  {
+   "titre": "Les transports et les expressions fixes",
+   "texte": [
+    "Pour les transports en commun et les grands véhicules dans lesquels on peut se tenir debout, on dit « on » : on the bus, on the train, on the plane, on the metro, on a boat. Pour une voiture ou un taxi, on dit « in » : in the car, in a taxi. Pour un vélo ou une moto, « on » : on my bike.",
+    "Plusieurs expressions s'emploient sans article : at home, at work, at school, at university, in bed, in hospital (britannique ; US : in the hospital), in prison."
+   ],
+   "exemples": [
+    ["I'm on the train. I'm arriving at six.", "Je suis dans le train. J'arrive à six heures."],
+    ["She's in a taxi.", "Elle est dans un taxi."],
+    ["The children are at school.", "Les enfants sont à l'école."],
+    ["Dad is still in bed.", "Papa est encore au lit."]
+   ]
+  },
+  {
+   "titre": "Images, rues, étages, côtés",
+   "texte": [
+    "On dit « in the photo / in the picture » (sur la photo), « in the newspaper » (dans le journal), mais « on the internet », « on TV », « on the radio », « on the screen », « on page 5 ».",
+    "Pour la rue : in the street (dans la rue, de façon générale, britannique), on Main Street / on Rue Sainte-Catherine (avec le nom de la rue, surtout américain ; les Britanniques disent aussi « in Oxford Street »). Pour les étages : on the ground floor (rez-de-chaussée), on the first floor (GB = 1er étage ; US = rez-de-chaussée).",
+    "Pour les côtés et coins : on the left / on the right (à gauche / à droite), in the corner (dans le coin d'une pièce), on the corner (au coin de la rue), in the middle (au milieu), at the top / at the bottom (en haut / en bas)."
+   ],
+   "exemples": [
+    ["Who's the man in the photo?", "Qui est l'homme sur la photo ?"],
+    ["My office is on the third floor.", "Mon bureau est au troisième étage."],
+    ["The toilets are on the left.", "Les toilettes sont à gauche."],
+    ["There's a café on the corner.", "Il y a un café au coin de la rue."]
+   ]
+  },
+  {
+   "titre": "Villes et pays : jamais « at » ni « to » pour être dans un lieu",
+   "texte": [
+    "Pour dire où l'on est ou où l'on habite, on utilise « in » avec les villes, régions et pays : I live in Paris, She works in Cameroon. Le français dit « à Paris », mais on ne dit pas « at Paris ».",
+    "« To » exprime le mouvement vers un lieu (I'm going to Paris), pas la position (leçon 71). On ne dit pas « I live to Paris »."
+   ],
+   "exemples": [
+    ["My cousin lives in Toronto.", "Mon cousin habite à Toronto."],
+    ["We're in Belgium this week.", "Nous sommes en Belgique cette semaine."]
+   ]
+  }
+ ],
+ "formule": "in (dans, ville, pays) · on (sur, surface, bus, train) · at (point, adresse, at home / work / school) · under · next to · between · behind · in front of · opposite · near",
+ "prononciation": [
+  "Les prépositions courtes sont faibles dans la phrase : at /ət/, from /frəm/, to /tə/. « in » et « on » restent assez clairs : /ɪn/, /ɒn/.",
+  "« between » /bɪˈtwiːn/ et « behind » /bɪˈhaɪnd/ : accent sur la deuxième syllabe.",
+  "« opposite » /ˈɒpəzɪt/ : accent sur la première syllabe, et la fin se prononce /zɪt/, pas « -zite ».",
+  "« next to » se dit souvent /ˈneks tə/ : le t de next disparaît devant to.",
+  "« in front of » : accent sur FRONT, /ɪn ˈfrʌnt əv/ ; « of » est faible."
+ ],
+ "erreurs": [
+  ["I'm in the bus.", "I'm on the bus.", "Bus, train, avion : on."],
+  ["I live at Paris.", "I live in Paris.", "Ville, pays : in."],
+  ["She's at the home.", "She's at home.", "Expression fixe sans article."],
+  ["The man on the photo is my uncle.", "The man in the photo is my uncle.", "Sur une photo : in."],
+  ["The bank is near of the station.", "The bank is near the station.", "Near, sans of."],
+  ["The pharmacy is in front of the bank (de l'autre côté de la rue).", "The pharmacy is opposite the bank.", "« En face de » = opposite ; in front of = devant."],
+  ["The picture is in the wall.", "The picture is on the wall.", "Sur un mur : on."],
+  ["I'm sitting between Paul.", "I'm sitting next to Paul. / I'm sitting between Paul and Ana.", "Between = entre deux choses ou personnes."]
+ ],
+ "dialogue": {
+  "contexte": "Un colocataire cherche ses affaires avant de partir au travail, dans un appartement à Douala.",
+  "lignes": [
+   ["Eric", "Where's my phone? It isn't on the table.", "Où est mon téléphone ? Il n'est pas sur la table."],
+   ["Sandra", "Look on the sofa, next to the cushions.", "Regarde sur le canapé, à côté des coussins."],
+   ["Eric", "No, it isn't there. Oh, it's under the sofa! And my keys?", "Non, il n'y est pas. Oh, il est sous le canapé ! Et mes clés ?"],
+   ["Sandra", "They're in the kitchen, in the drawer near the fridge.", "Elles sont dans la cuisine, dans le tiroir près du frigo."],
+   ["Eric", "Thanks. Where's my bag?", "Merci. Où est mon sac ?"],
+   ["Sandra", "It's behind the door, between your shoes and the umbrella.", "Il est derrière la porte, entre tes chaussures et le parapluie."],
+   ["Eric", "Great. I'm meeting Paul at the bus stop opposite the bank.", "Super. Je retrouve Paul à l'arrêt de bus en face de la banque."],
+   ["Sandra", "Hurry up! The bus is in front of the building. I can see it from the window!", "Dépêche-toi ! Le bus est devant l'immeuble. Je le vois de la fenêtre !"]
+  ]
+ },
+ "mots": [
+  ["under", "The shoes are under the bed.", "sous"],
+  ["next to", "Can I sit next to you?", "à côté de"],
+  ["between", "The café is between the bank and the shop.", "entre (deux)"],
+  ["behind", "There's a garden behind the house.", "derrière"],
+  ["in front of", "There's a car in front of the garage.", "devant"],
+  ["opposite", "The hotel is opposite the station.", "en face de"],
+  ["corner", "There's a bakery on the corner.", "le coin"],
+  ["floor", "I live on the second floor.", "l'étage ; le sol"],
+  ["shelf", "The books are on the shelf.", "l'étagère"],
+  ["drawer", "The knives are in the drawer.", "le tiroir"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. In, on ou at ?",
+   "consigne": "Complète avec in, on ou at.",
+   "items": [
+    ["The milk is ___ the fridge.", "in"],
+    ["There's a clock ___ the wall.", "on"],
+    ["I'm waiting ___ the bus stop.", "at"],
+    ["They live ___ Canada.", "in"],
+    ["She's ___ work until six.", "at"],
+    ["We're ___ the train to Lille.", "on"]
+   ]
+  },
+  {
+   "titre": "2. Décrire la position",
+   "consigne": "Complète avec : under, next to, between, behind, in front of, opposite.",
+   "items": [
+    ["The cat is sleeping ___ the table (sous).", "under"],
+    ["The bank is ___ the bakery and the post office (entre).", "between"],
+    ["The car park is ___ the supermarket (derrière).", "behind"],
+    ["Stand ___ me in the photo (à côté de).", "next to"],
+    ["The museum is ___ the park, on the other side of the street (en face de).", "opposite"],
+    ["There's a fountain ___ the town hall (devant).", "in front of"]
+   ]
+  },
+  {
+   "titre": "3. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["My sister lives at Brussels.", "My sister lives in Brussels."],
+    ["I'm in the plane now.", "I'm on the plane now."],
+    ["Who is the girl on this photo?", "Who is the girl in this photo?"],
+    ["The school is near of my house.", "The school is near my house."],
+    ["He's at the bed. He's ill.", "He's in bed. He's ill."]
+   ]
+  },
+  {
+   "titre": "4. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Je suis à la maison.", "I'm at home."],
+    ["Le bureau est au premier étage, à droite.", "The office is on the first floor, on the right."],
+    ["Il y a une pharmacie en face de la gare.", "There's a pharmacy opposite the station."],
+    ["Mes clés sont dans mon sac, sous mon portefeuille.", "My keys are in my bag, under my wallet."]
+   ]
+  },
+  {
+   "titre": "5. À toi",
+   "consigne": "Décris ta chambre ou ton bureau en cinq phrases, avec au moins cinq prépositions de lieu différentes.",
+   "items": [
+    ["Exemple de réponse", "My bed is next to the window. There's a small table between the bed and the wardrobe. My books are on a shelf above my desk. My shoes are under the bed. There's a big plant in the corner."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "in = dans, ville, pays ; on = sur, surface ; at = point précis, adresse, lieu d'activité.",
+  "on the bus / train / plane, mais in a car / taxi.",
+  "Sans article : at home, at work, at school, in bed.",
+  "in the photo, on the wall, on the left, on the first floor, on the corner.",
+  "in front of = devant ; opposite = en face de ; near sans of."
+ ],
+ "liens": [16, 18, 37, 71],
+ "refs": ["bc-prep-place", "cam-prep"]
+}

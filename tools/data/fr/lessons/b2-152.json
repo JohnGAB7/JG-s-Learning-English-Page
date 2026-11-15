@@ -1,0 +1,209 @@
+{
+ "n": 152,
+ "niveau": "B2",
+ "titre": "Le passif des verbes de rapport",
+ "intro": "« On dit que… », « Il serait… », « Le suspect aurait quitté le pays » : l'anglais rapporte les opinions, les rumeurs et les informations non confirmées avec des verbes comme say, believe ou expect au passif. C'est la langue de la presse, des rapports et des conversations prudentes.",
+ "objectifs": [
+  "Utiliser les deux structures : « It is said that… » et « He is said to… ».",
+  "Choisir la bonne forme d'infinitif (to do, to be doing, to have done, to have been done) selon le moment de l'action.",
+  "Employer « There is said to be… » et rapporter une opinion passée (« It was thought that… »).",
+  "Traduire le conditionnel journalistique français (« il aurait… ») sans calque."
+ ],
+ "sections": [
+  {
+   "titre": "Les verbes concernés et leur rôle",
+   "texte": [
+    "Les verbes de rapport (reporting verbs) servent à dire ce que les gens pensent ou disent : say, think, believe, expect, report, consider, know, understand, estimate, claim, allege, suppose, rumour.",
+    "Au passif, ils permettent de présenter une information sans dire précisément qui la donne et sans la prendre à son compte. Le journaliste, le chercheur ou le collègue prudent montre ainsi que l'information vient d'ailleurs ou n'est pas confirmée.",
+    "« Rumour » ne s'emploie pratiquement qu'au passif : « It is rumoured that… », « She is rumoured to be leaving ». « Allege » (prétendre, affirmer sans preuve) est typique des affaires judiciaires."
+   ],
+   "tableau": {
+    "entetes": ["Verbe", "Sens", "Degré de certitude transmis"],
+    "lignes": [
+     ["know", "savoir", "fait établi"],
+     ["report", "rapporter, signaler", "information des médias, pas toujours vérifiée"],
+     ["believe / think", "croire / penser", "opinion générale"],
+     ["expect", "s'attendre à", "prévision (futur)"],
+     ["estimate", "estimer", "chiffre approximatif"],
+     ["claim / allege", "affirmer / prétendre", "affirmation contestée ou non prouvée"],
+     ["rumour", "dire (rumeur)", "simple rumeur"]
+    ]
+   }
+  },
+  {
+   "titre": "Structure 1 : It is said that + proposition",
+   "texte": [
+    "La structure la plus simple : It + be + participe + that + phrase complète. Le « it » est un sujet vide, comme le « on » ou le « il » impersonnel français.",
+    "Le verbe de la proposition après « that » garde son temps normal : « It is believed that the fire started in the kitchen. »",
+    "Cette structure est un peu plus lourde et plus formelle. On la préfère quand le sujet de la proposition est long ou quand on veut éviter un infinitif compliqué."
+   ],
+   "exemples": [
+    ["It is said that the castle is haunted.", "On dit que le château est hanté."],
+    ["It is believed that the thieves escaped through the roof.", "On pense que les voleurs se sont enfuis par le toit."],
+    ["It is expected that interest rates will rise.", "On s'attend à ce que les taux augmentent."],
+    ["It has been reported that several flights were delayed.", "Le verbe de rapport peut être à d'autres temps."]
+   ]
+  },
+  {
+   "titre": "Structure 2 : sujet + be said + to + infinitif",
+   "texte": [
+    "On peut aussi mettre en sujet la personne ou la chose dont on parle : sujet + be + participe + to + infinitif. C'est la structure la plus élégante et la plus fréquente dans la presse.",
+    "Tout se joue sur la forme de l'infinitif, qui indique le rapport de temps entre le moment où l'on parle (« on dit… ») et l'action rapportée.",
+    "Attention : avec « say », cette structure n'existe qu'au passif. « They say him to be rich » est impossible ; on dit « He is said to be rich »."
+   ],
+   "tableau": {
+    "entetes": ["Moment de l'action rapportée", "Infinitif", "Exemple"],
+    "lignes": [
+     ["même moment (état, habitude)", "to + base", "He is said to live in Lagos."],
+     ["en cours au moment où l'on parle", "to be + -ing", "The two leaders are reported to be meeting right now."],
+     ["avant (action terminée)", "to have + participe", "The suspect is believed to have left the country."],
+     ["avant, et durée", "to have been + -ing", "She is thought to have been working there for years."],
+     ["futur (avec expect surtout)", "to + base", "The minister is expected to resign."],
+     ["passif, même moment", "to be + participe", "The painting is thought to be kept in a private collection."],
+     ["passif, avant", "to have been + participe", "Two people are known to have been injured."]
+    ]
+   }
+  },
+  {
+   "titre": "Rapporter au passé, et « There is said to be »",
+   "texte": [
+    "Si l'opinion elle-même est passée, le verbe de rapport est au prétérit : « It was thought that the Earth was flat » → « The Earth was thought to be flat. » On suit la même logique pour l'infinitif : action antérieure → to have + participe.",
+    "Avec « there is / there are », on conserve « there » comme sujet : « There are thought to be about 300 species of birds in the park. » « There is said to be a hidden room in the house. »",
+    "On peut transformer ainsi : It is said that there is… → There is said to be… ; It is believed that there were… → There are believed to have been…"
+   ],
+   "exemples": [
+    ["The ship was believed to have sunk near the coast.", "Opinion passée sur une action encore plus ancienne."],
+    ["At the time, the drug was considered to be safe.", "On le considérait alors comme sûr."],
+    ["There are estimated to be 2,000 people in the stadium.", "On estime qu'il y a 2 000 personnes."],
+    ["There is rumoured to be a new album on the way.", "Une rumeur parle d'un nouvel album."]
+   ]
+  },
+  {
+   "titre": "Le conditionnel journalistique et les autres équivalents",
+   "texte": [
+    "Le français emploie le conditionnel pour une information non confirmée : « Le président serait malade », « Le suspect aurait quitté le pays ». L'anglais n'utilise pas « would » pour cela ! On emploie le passif des verbes de rapport ou un adverbe.",
+    "Les adverbes reportedly (d'après les médias), allegedly (selon des accusations), apparently (apparemment, d'après ce qu'on m'a dit) et supposedly (soi-disant) jouent le même rôle, avec un verbe conjugué normalement.",
+    "À l'oral courant, on dit aussi « They say (that)… », « People think… » ou « Apparently… ». Le passif des verbes de rapport est surtout écrit ou formel.",
+    "Piège : « be supposed to » a aussi un sens d'obligation (« You're supposed to wear a helmet » = tu es censé porter un casque). C'est le contexte qui décide."
+   ],
+   "exemples": [
+    ["The president is said to be ill. / The president is reportedly ill.", "Le président serait malade."],
+    ["The suspect is believed to have left the country.", "Le suspect aurait quitté le pays."],
+    ["The CEO allegedly hid the losses from investors.", "Le PDG aurait caché les pertes (accusation)."],
+    ["Apparently, the restaurant is closing next month.", "Registre courant : apparemment…"]
+   ]
+  }
+ ],
+ "formule": "It is said that + phrase  ↔  Sujet + is said + to do / to be doing / to have done",
+ "prononciation": [
+  "« said » se prononce /sed/, jamais /seɪd/ comme « say ».",
+  "« thought » /θɔːt/ : le « th » sourd, la langue entre les dents, puis une voyelle longue.",
+  "« to have » est réduit dans « to have left » : /tə həv ˈleft/, voire /təv ˈleft/ à l'oral rapide. L'accent porte sur le participe.",
+  "« alleged » /əˈledʒd/ (deux syllabes) mais « allegedly » /əˈledʒɪdli/ (quatre syllabes) : la terminaison -edly fait entendre /ɪd/. De même « reportedly » /rɪˈpɔːtɪdli/, « supposedly » /səˈpəʊzɪdli/.",
+  "Dans « It is believed that… », « that » est faible : /ðət/."
+ ],
+ "erreurs": [
+  ["He is said that he is very rich.", "He is said to be very rich. / It is said that he is very rich.", "On ne mélange pas les deux structures."],
+  ["It is said him to be very rich.", "He is said to be very rich.", "Avec l'infinitif, la personne devient le sujet."],
+  ["The suspect is believed to leave the country last week.", "The suspect is believed to have left the country last week.", "Action antérieure : to have + participe."],
+  ["The minister is expected resigning today.", "The minister is expected to resign today.", "Le verbe de rapport est suivi de to + infinitif."],
+  ["It says that the mayor is corrupt.", "It is said that the mayor is corrupt.", "« It says » renvoie à un texte (l'article dit…) ; pour « on dit », il faut le passif."],
+  ["The president would be ill.", "The president is said (reported) to be ill.", "Le conditionnel journalistique ne se traduit pas par « would »."]
+ ],
+ "dialogue": {
+  "contexte": "Rédaction d'un journal en ligne à Bruxelles. Lucie, journaliste, relit un article avec son rédacteur en chef, Pieter.",
+  "lignes": [
+   ["Pieter", "Your headline says the coach has resigned. Is that confirmed?", "Ton titre dit que l'entraîneur a démissionné. C'est confirmé ?"],
+   ["Lucie", "Not officially. But he's widely believed to have handed in his letter yesterday.", "Pas officiellement. Mais tout le monde pense qu'il a remis sa lettre hier."],
+   ["Pieter", "Then we can't write it as a fact. Say he is reported to have resigned.", "Alors on ne peut pas l'écrire comme un fait. Écris qu'il aurait démissionné."],
+   ["Lucie", "Fine. And the club is expected to make a statement this afternoon.", "D'accord. Et le club devrait faire une déclaration cet après-midi."],
+   ["Pieter", "Good. What about the players? Do we know how they feel?", "Bien. Et les joueurs ? On sait ce qu'ils ressentent ?"],
+   ["Lucie", "Some of them are said to be furious. There are also rumoured to be problems with the owner.", "Certains seraient furieux. Il y aurait aussi des problèmes avec le propriétaire."],
+   ["Pieter", "Rumoured by whom? Be careful with that one.", "Selon qui ? Fais attention avec celle-là."],
+   ["Lucie", "Two sources. But I'll write that it is alleged, not that it is known.", "Deux sources. Mais j'écrirai que c'est une allégation, pas un fait établi."]
+  ]
+ },
+ "mots": [
+  ["reportedly", "The singer has reportedly cancelled her tour.", "d'après les médias, selon certaines informations"],
+  ["allegedly", "He allegedly accepted money from the company.", "prétendument, selon les accusations"],
+  ["apparently", "Apparently, the shop is closing.", "apparemment (d'après ce qu'on dit)"],
+  ["rumour", "There's a rumour that she's leaving.", "une rumeur (américain : rumor)"],
+  ["allege", "It is alleged that the documents were false.", "affirmer, prétendre (sans preuve)"],
+  ["estimate", "The damage is estimated at two million euros.", "estimer, évaluer"],
+  ["source", "According to a reliable source, the deal is done.", "une source (d'information)"],
+  ["widely", "She is widely considered the best player.", "largement, par beaucoup de gens"],
+  ["confirm", "The news has not been confirmed.", "confirmer"],
+  ["deny", "The company denies the claims.", "nier, démentir"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choisir la bonne forme",
+   "consigne": "Choisis la forme correcte.",
+   "items": [
+    ["The director is said (to be / being) very demanding.", "to be"],
+    ["It is believed (that / to) the plane landed safely.", "that"],
+    ["The thief is thought (to enter / to have entered) through a window last night.", "to have entered"],
+    ["There (is said / are said) to be thousands of species in the forest.", "are said"]
+   ]
+  },
+  {
+   "titre": "2. Compléter avec l'infinitif",
+   "consigne": "Complète avec la bonne forme de l'infinitif du verbe entre parenthèses.",
+   "items": [
+    ["The singer is thought ___ (live) in Lagos now.", "to live"],
+    ["The fire is believed ___ (start) in the kitchen.", "to have started"],
+    ["The two leaders are reported ___ (discuss) the crisis at this moment.", "to be discussing"],
+    ["Over 3,000 people are estimated ___ (attend) last night's concert.", "to have attended"],
+    ["The new stadium is expected ___ (complete) by 2028.", "to be completed"],
+    ["The documents are known ___ (steal) in 2019.", "to have been stolen"]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Réécris chaque phrase en commençant par le sujet indiqué entre crochets.",
+   "items": [
+    ["It is said that [the president] is ill.", "The president is said to be ill."],
+    ["It is believed that [the thieves] escaped through the roof.", "The thieves are believed to have escaped through the roof."],
+    ["It is expected that [the company] will announce job cuts.", "The company is expected to announce job cuts."],
+    ["It is reported that [the minister] is negotiating with the unions.", "The minister is reported to be negotiating with the unions."],
+    ["It was thought that [the painting] had been destroyed.", "The painting was thought to have been destroyed."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["He is said that he speaks seven languages.", "He is said to speak seven languages. (ou : It is said that he speaks seven languages.)"],
+    ["The suspect is believed to leave the country yesterday.", "The suspect is believed to have left the country yesterday."],
+    ["It is said him to be very generous.", "He is said to be very generous."],
+    ["The prime minister is expected resigning today.", "The prime minister is expected to resign today."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un verbe de rapport au passif (structure 2 de préférence).",
+   "items": [
+    ["On dit qu'elle est la meilleure avocate de Douala.", "She is said to be the best lawyer in Douala."],
+    ["L'incendie aurait commencé dans la cuisine.", "The fire is believed (thought, reported) to have started in the kitchen."],
+    ["On s'attend à ce que le prix de l'essence augmente.", "The price of petrol is expected to rise."],
+    ["Il y aurait plus de 200 espèces d'oiseaux dans ce parc.", "There are said (thought) to be more than 200 species of birds in this park."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris une courte brève (4 phrases) sur une information non confirmée (sport, politique, célébrité, entreprise). Utilise au moins trois verbes de rapport au passif avec des infinitifs différents.",
+   "items": [
+    ["Exemple de réponse", "A famous Canadian tech company is reported to be planning a move to Brussels. Its founder is said to have visited several offices in the city last month. The move is expected to create about 500 jobs. However, the company is believed to be negotiating with other European cities as well."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Deux structures : It is said that + phrase / Sujet + is said + to + infinitif.",
+  "L'infinitif indique le moment : to do (même moment ou futur), to be doing (en cours), to have done (avant), to have been done (passif, avant).",
+  "There is / are said to be… ; opinion passée : was thought to…",
+  "Le conditionnel journalistique (« il aurait… ») se traduit par ce passif ou par reportedly / allegedly, jamais par « would ».",
+  "« They say him to be » est impossible : avec say, l'infinitif n'existe qu'au passif."
+ ],
+ "liens": [151, 104, 155, 185, 164],
+ "refs": ["bc-adv-passives", "bc-passives"]
+}

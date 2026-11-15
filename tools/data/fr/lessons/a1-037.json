@@ -1,0 +1,203 @@
+{
+"n": 37,
+"niveau": "A1",
+"titre": "Demander son chemin",
+"intro": "Demander et indiquer un chemin est une situation très concrète en voyage comme dans sa propre ville. Cette leçon donne les questions polies, les instructions (à l’impératif), les repères (opposite, next to, at the traffic lights) et les expressions de distance.",
+"objectifs": [
+ "Demander poliment son chemin (Excuse me, how do I get to…?).",
+ "Comprendre et donner des indications : go straight on, turn left, take the second right.",
+ "Situer un lieu : on the left, opposite, next to, on the corner.",
+ "Parler de la distance et du temps (It's a five-minute walk) et vérifier qu’on a compris."
+],
+"sections": [
+ {
+  "titre": "Demander son chemin",
+  "texte": [
+   "On commence toujours par « Excuse me » pour attirer l’attention d’un inconnu poliment. Ensuite, plusieurs questions sont possibles.",
+   "« How do I get to…? » (Comment aller à… ?) est la question la plus naturelle. « How can I go to…? » est compréhensible mais moins idiomatique."
+  ],
+  "tableau": {
+   "entetes": ["Question", "Français"],
+   "lignes": [
+    ["Excuse me, where's the station?", "Pardon, où est la gare ?"],
+    ["How do I get to the museum?", "Comment est-ce que je vais au musée ?"],
+    ["Is there a pharmacy near here?", "Y a-t-il une pharmacie près d’ici ?"],
+    ["Can you tell me the way to the hospital?", "Pouvez-vous m’indiquer le chemin de l’hôpital ?"],
+    ["Is it far from here?", "C’est loin d’ici ?"],
+    ["Sorry, I'm lost. Where are we on this map?", "Désolé, je suis perdu. Où sommes-nous sur ce plan ?"]
+   ]
+  },
+  "note": "Si on ne sait pas : « Sorry, I'm not from here. » (Désolé, je ne suis pas d’ici.) ou « Sorry, I don't know. »"
+ },
+ {
+  "titre": "Donner des indications : l’impératif",
+  "texte": [
+   "Les indications se donnent à l’impératif (leçon 32) : un verbe sans sujet. On enchaîne avec « then » (ensuite) et « after that » (après ça).",
+   "« Tout droit » se dit « straight on » en anglais britannique et « straight ahead » en anglais américain. « Turn left / right » s’emploie sans préposition : jamais « turn on the left »."
+  ],
+  "tableau": {
+   "entetes": ["Anglais", "Français"],
+   "lignes": [
+    ["Go straight on. (US go straight ahead)", "Allez tout droit."],
+    ["Turn left / Turn right.", "Tournez à gauche / à droite."],
+    ["Take the first left / the second right.", "Prenez la première à gauche / la deuxième à droite."],
+    ["Go along this street.", "Suivez cette rue."],
+    ["Go past the church.", "Passez devant l’église."],
+    ["Cross the road / the bridge.", "Traversez la rue / le pont."],
+    ["Go up / down the hill.", "Montez / descendez la colline."],
+    ["At the traffic lights, turn right.", "Aux feux, tournez à droite."],
+    ["At the roundabout, take the second exit.", "Au rond-point, prenez la deuxième sortie."],
+    ["Go to the end of the street.", "Allez jusqu’au bout de la rue."]
+   ]
+  },
+  "exemples": [
+   ["Go straight on, then take the second left.", "Allez tout droit, puis prenez la deuxième à gauche."],
+   ["Turn right at the traffic lights and go past the bank.", "Tournez à droite aux feux et passez devant la banque."],
+   ["Cross the bridge and the hotel is on your left.", "Traversez le pont et l’hôtel est sur votre gauche."]
+  ]
+ },
+ {
+  "titre": "Situer le lieu",
+  "texte": [
+   "Pour dire où se trouve le lieu, on utilise les prépositions de lieu (leçon 17) : « on the left / right » (sur la gauche / droite), « next to » (à côté de), « opposite » (en face de ; US aussi « across from »), « between » (entre), « on the corner of » (à l’angle de), « at the end of » (au bout de).",
+   "Attention : « in front of » veut dire « juste devant », du même côté. Si le lieu est de l’autre côté de la rue, on dit « opposite ».",
+   "Avec un nom de rue : « It's on King Street » (GB) ; on dit « in » une ville ou un quartier : « in the city centre »."
+  ],
+  "exemples": [
+   ["The pharmacy is opposite the post office.", "La pharmacie est en face de la poste (de l’autre côté de la rue)."],
+   ["The café is on the corner of Rue Royale and Rue Neuve.", "Le café est à l’angle de la rue Royale et de la rue Neuve."],
+   ["It's between the bank and the supermarket.", "C’est entre la banque et le supermarché."]
+  ]
+ },
+ {
+  "titre": "La distance et le temps",
+  "texte": [
+   "Pour la distance : « It's about 300 metres. » (GB metres, US meters), « It's near here. », « It isn't far. », « It's quite far. » On dit « near the station » (sans « from ») mais « far from the station ».",
+   "Pour le temps : « It's a five-minute walk. » (sans s à minute, car c’est un adjectif) ou « It's five minutes' walk. » / « It's five minutes on foot. » / « It's ten minutes by bus. »",
+   "Pour les transports : « Take bus number 12 and get off at the third stop. » (descendez au troisième arrêt). Expression utile : « You can't miss it! » (Vous ne pouvez pas le manquer !)."
+  ],
+  "exemples": [
+   ["Is it far? — No, it's a five-minute walk.", "C’est loin ? — Non, c’est à cinq minutes à pied."],
+   ["The airport is far from the city centre. Take a taxi.", "L’aéroport est loin du centre-ville. Prenez un taxi."],
+   ["Take the metro and get off at Central Station.", "Prenez le métro et descendez à la gare Centrale."]
+  ]
+ },
+ {
+  "titre": "Vérifier qu’on a compris",
+  "texte": [
+   "N’hésitez pas à faire répéter : « Sorry, can you say that again, please? », « Can you speak more slowly, please? ».",
+   "Répétez les indications pour vérifier, avec une intonation montante : « So, I go straight on and turn left at the bank? » Puis remerciez : « Thanks a lot! », « Thank you very much! »"
+  ],
+  "exemples": [
+   ["Sorry, can you say that again, please?", "Pardon, vous pouvez répéter, s’il vous plaît ?"],
+   ["So, the second right, then it's on my left?", "Donc, la deuxième à droite, et ensuite c’est sur ma gauche ?"]
+  ]
+ }
+],
+"formule": "Excuse me, how do I get to…? — Go straight on, turn left at…, take the second right. It's on the left / opposite…",
+"prononciation": [
+ "« straight » se dit /streɪt/, comme « great » : le gh ne se prononce pas.",
+ "« opposite » /ˈɒpəzɪt/ : accent sur la première syllabe, et la fin se prononce « -zit », pas « -zaït ».",
+ "« Excuse me » /ɪkˈskjuːz miː/ : le s de « excuse » (verbe) se prononce /z/.",
+ "Dans « roundabout » et « crossroads », l’accent tombe au début : ROUNDabout, CROSSroads.",
+ "Pour vérifier, la voix monte à la fin : « The second LEFT? ↗ »."
+],
+"erreurs": [
+ ["Turn on the left.", "Turn left.", "« Turn left / right » sans préposition."],
+ ["The museum is in the left.", "The museum is on the left.", "Sur la gauche = on the left."],
+ ["It's at five minutes from here.", "It's five minutes from here. / It's a five-minute walk.", "Pas de « at » devant une distance."],
+ ["It's near from the station.", "It's near the station.", "« near » sans « from » (mais « far from »)."],
+ ["It's in front of the bank. (de l’autre côté de la rue)", "It's opposite the bank.", "En face, de l’autre côté = opposite."],
+ ["Take the second street at left.", "Take the second left. / Take the second street on the left.", "On dit « on the left »."],
+ ["It's a five-minutes walk.", "It's a five-minute walk.", "Devant un nom, « five-minute » est un adjectif : pas de s."],
+ ["How I go to the station?", "How do I get to the station?", "Il faut l’auxiliaire « do » dans la question."]
+],
+"dialogue": {
+ "contexte": "À Bruxelles, Ama, une touriste ghanéenne, cherche la Grand-Place. Elle demande à un passant, Luc.",
+ "lignes": [
+  ["Ama", "Excuse me, how do I get to the Grand-Place?", "Pardon, comment aller à la Grand-Place ?"],
+  ["Luc", "Oh, it's easy. Go straight on along this street.", "Oh, c’est facile. Allez tout droit en suivant cette rue."],
+  ["Ama", "Straight on. OK.", "Tout droit. D’accord."],
+  ["Luc", "At the traffic lights, turn left. Then take the second right.", "Aux feux, tournez à gauche. Ensuite, prenez la deuxième à droite."],
+  ["Ama", "Sorry, can you say that again, please?", "Pardon, vous pouvez répéter, s’il vous plaît ?"],
+  ["Luc", "Sure. Left at the lights, then the second right. You go past a big chocolate shop.", "Bien sûr. À gauche aux feux, puis la deuxième à droite. Vous passez devant une grande chocolaterie."],
+  ["Ama", "So, left at the lights, second right, past the chocolate shop. Is it far?", "Donc, à gauche aux feux, deuxième à droite, devant la chocolaterie. C’est loin ?"],
+  ["Luc", "No, it's a ten-minute walk. The square is at the end of that street. You can't miss it!", "Non, c’est à dix minutes à pied. La place est au bout de cette rue. Vous ne pouvez pas la manquer !"],
+  ["Ama", "Thank you very much!", "Merci beaucoup !"],
+  ["Luc", "You're welcome. Enjoy Brussels!", "Je vous en prie. Profitez bien de Bruxelles !"]
+ ]
+},
+"mots": [
+ ["straight on", "Go straight on for 200 metres.", "tout droit (US : straight ahead)"],
+ ["left", "Turn left at the church.", "gauche ; à gauche"],
+ ["right", "The bank is on the right.", "droite ; à droite"],
+ ["opposite", "The bus stop is opposite the school.", "en face de"],
+ ["corner", "The shop is on the corner.", "le coin, l’angle"],
+ ["traffic lights", "Stop at the traffic lights.", "les feux (de circulation)"],
+ ["roundabout", "Take the first exit at the roundabout.", "le rond-point (US : traffic circle)"],
+ ["cross", "Cross the road carefully.", "traverser"],
+ ["far", "Is the station far?", "loin"],
+ ["lost", "Excuse me, I'm lost.", "perdu"]
+],
+"exercices": [
+ {
+  "titre": "1. Compléter les indications",
+  "consigne": "Complète avec on, at, past, opposite, straight ou the.",
+  "items": [
+   ["Go ___ on.", "straight"],
+   ["Turn left ___ the traffic lights.", "at"],
+   ["The bank is ___ the right.", "on"],
+   ["Go ___ the church and turn right.", "past"],
+   ["The café is ___ the station, on the other side of the road.", "opposite"],
+   ["Take ___ second left.", "the"]
+  ]
+ },
+ {
+  "titre": "2. Poser la question",
+  "consigne": "Écris une question polie pour chaque situation.",
+  "items": [
+   ["Tu cherches la gare.", "Excuse me, how do I get to the station? / Excuse me, where's the station?"],
+   ["Tu veux savoir s’il y a une banque près d’ici.", "Excuse me, is there a bank near here?"],
+   ["Tu veux savoir si le musée est loin.", "Is the museum far from here?"],
+   ["Tu n’as pas compris.", "Sorry, can you say that again, please?"]
+  ]
+ },
+ {
+  "titre": "3. Traduire les indications",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Tournez à gauche.", "Turn left."],
+   ["Allez tout droit.", "Go straight on. (US : Go straight ahead.)"],
+   ["Prenez la deuxième à droite.", "Take the second right. / Take the second street on the right."],
+   ["Traversez la rue.", "Cross the road. / Cross the street."],
+   ["C’est en face de la poste.", "It's opposite the post office. (US : It's across from the post office.)"]
+  ]
+ },
+ {
+  "titre": "4. C’est loin ?",
+  "consigne": "Réponds à « Is it far? » avec l’information donnée.",
+  "items": [
+   ["5 minutes à pied", "No, it's a five-minute walk. / It's five minutes on foot."],
+   ["2 km", "It's about two kilometres."],
+   ["20 minutes en bus", "It's twenty minutes by bus."],
+   ["tout près", "No, it's very near. / It's just round the corner."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Explique à un visiteur comment aller de ta maison (ou de ton travail) à un lieu proche : une gare, un marché, une pharmacie. Écris quatre ou cinq phrases.",
+  "items": [
+   ["Exemple de réponse", "Go out of my building and turn right. Go straight on along Avenue Kennedy for about 300 metres. At the roundabout, take the second exit. Go past the big supermarket. The pharmacy is on the left, opposite the bus stop. It's a ten-minute walk."]
+  ]
+ }
+],
+"a_retenir": [
+ "Demander : Excuse me, how do I get to…? / Where's…? / Is there a … near here?",
+ "Indiquer à l’impératif : go straight on, turn left / right, take the first left, go past, cross.",
+ "Situer : on the left / right, opposite, next to, between, on the corner, at the end of.",
+ "Distance : It's a five-minute walk / near the station / far from the station.",
+ "Vérifier : Sorry, can you say that again? So, I turn left at the bank?"
+],
+"liens": [17, 32, 71, 85],
+"refs": ["bc-prep-place", "cam-prep"]
+}

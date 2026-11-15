@@ -1,0 +1,197 @@
+{
+"n": 114,
+"niveau": "B1",
+"titre": "Indirect questions (Could you tell me where…?)",
+"intro": "Indirect questions (“Could you tell me where the station is?”) are more polite than direct questions (“Where is the station?”). They are essential with strangers, at work, at a hotel reception or on the phone. The trap: the word order goes back to that of a normal statement.",
+"objectifs": [
+"Turn a direct question into a polite indirect question with the main opening phrases.",
+"Use subject + verb order and remove do / does / did.",
+"Use if / whether for yes / no questions.",
+"Choose the right punctuation and avoid the most common mistakes."
+],
+"sections": [
+{
+"titre": "Why and when?",
+"texte": [
+"A direct question can sound abrupt when you speak to a stranger or a customer. Starting with a phrase like “Could you tell me…”, “Do you know…” or “I was wondering…” makes it softer and more polite.",
+"Indirect questions also express doubt or personal thoughts: “I wonder why she left.”"
+],
+"tableau": {
+"entetes": ["Opening phrase", "Politeness", "End punctuation"],
+"lignes": [
+["Do you know…?", "neutral, common", "?"],
+["Can / Could you tell me…?", "polite", "?"],
+["Do you have any idea…?", "neutral, a bit informal", "?"],
+["Would you mind telling me…?", "very polite", "?"],
+["I'd like to know…", "polite, direct", "."],
+["I was wondering… / I wonder…", "very polite / thinking aloud", "."]
+]
+}
+},
+{
+"titre": "The word-order rule",
+"texte": [
+"In the indirect part, the subject and verb are not inverted: we go back to subject + verb order, as in a statement. The question word (where, when, why, how much…) stays at the start of that part.",
+"With be and modal verbs (can, will, should…), just put the subject before the verb. This is the most common mistake: “Could you tell me where is the station?” is wrong."
+],
+"tableau": {
+"entetes": ["Direct question", "Indirect question"],
+"lignes": [
+["Where is the station?", "Could you tell me where the station is?"],
+["What time does the shop open?", "Do you know what time the shop opens?"],
+["How much did it cost?", "Can you tell me how much it cost?"],
+["When will the results be ready?", "Do you know when the results will be ready?"],
+["Why can't we park here?", "Could you explain why we can't park here?"]
+]
+}
+},
+{
+"titre": "Remove do, does, did",
+"texte": [
+"In a direct question in the present simple or past simple, we use do / does / did. In the indirect question these helpers disappear, and the verb goes back to its normal form: -s for he / she / it, or the past form.",
+"A tip: imagine the statement (“The shop opens at nine”) and put it after the question word."
+],
+"exemples": [
+["Where does she work? → Do you know where she works?", "does disappears; -s comes back."],
+["What did he say? → Can you tell me what he said?", "did disappears; past form said."],
+["How do I get to the airport? → Could you tell me how I get to the airport?", "Also possible: how to get to the airport."]
+]
+},
+{
+"titre": "Yes / no questions: if or whether",
+"texte": [
+"When the direct question expects a yes / no answer (Is…? Do…? Can…?), there is no question word: use “if” or “whether”. “Whether” is a little more formal and often goes with “or not”.",
+"This “if” is not the “if” of conditions: it introduces a yes / no question."
+],
+"exemples": [
+["Is the museum open on Monday? → Do you know if the museum is open on Monday?", "if + subject + verb."],
+["Can I pay by card? → Could you tell me whether I can pay by card?", "whether: a bit more formal."],
+["Did they receive my email? → I'd like to know if they received my email.", "did disappears; past form received."]
+]
+},
+{
+"titre": "Special cases",
+"texte": [
+"Subject questions (who, what, which + verb): the order does not change, because the question word is already the subject. “Who called? → Do you know who called?”.",
+"“I was wondering if you could…” makes a very polite request, especially in writing: “I was wondering if you could send me the brochure.” After a past opening verb (I was wondering, I asked), you can keep the present when the situation is still true.",
+"Indirect questions look like reported questions (lesson 105), but here you are really asking: there is no change of tense after “Do you know…” or “Could you tell me…”."
+],
+"exemples": [
+["Who won the match? → Do you know who won the match?", "Subject question: same order."],
+["I was wondering if you could help me with this form.", "A very polite request."]
+]
+}
+],
+"formule": "Could you tell me / Do you know + question word (or if / whether) + subject + verb …?",
+"prononciation": [
+"In “Could you tell me”, “could you” often sounds like /ˈkʊdʒuː/ and “tell me” is linked: /ˈtel mi/.",
+"In “Do you know”, “do you” is often reduced to /djə/: /djə ˈnəʊ/ in fast speech.",
+"An indirect question that starts with Do you know / Could you tell me usually has a rising tone at the end, like a yes / no question.",
+"With “I wonder…” or “I'd like to know…”, the tone falls: they are statements.",
+"“whether” sounds the same as “weather”: /ˈweðə/ (UK)."
+],
+"erreurs": [
+["Could you tell me where is the bank?", "Could you tell me where the bank is?", "Subject + verb order in the indirect part."],
+["Do you know what time does the train leave?", "Do you know what time the train leaves?", "Remove does and add -s."],
+["Can you tell me what did she say?", "Can you tell me what she said?", "Remove did and use the past form."],
+["Do you know is the pharmacy open?", "Do you know if the pharmacy is open?", "Yes / no question: if / whether."],
+["I wonder why is he late?", "I wonder why he is late.", "Statement order and a full stop (it's not a question)."],
+["Could you tell me where can I park?", "Could you tell me where I can park?", "With a modal: subject before the modal."],
+["I'd like to know if is it possible.", "I'd like to know if it is possible.", "After if: subject + verb."]
+],
+"dialogue": {
+"contexte": "Mariam has just arrived in Toronto for an internship. She phones the student residence where she will stay.",
+"lignes": [
+["Receptionist", "Good morning, Maple Residence. How can I help you?", "A standard phone greeting."],
+["Mariam", "Hello. I'm arriving tomorrow and I was wondering if I could check in after 10 p.m.", "Very polite request: I was wondering if…"],
+["Receptionist", "Yes, that's fine. The night porter is here until 2 a.m.", "A direct answer."],
+["Mariam", "Great. Could you tell me how I get there from the airport?", "how + subject + verb."],
+["Receptionist", "Take the UP Express to Union Station, then the subway to Spadina.", "Directions with imperatives."],
+["Mariam", "Thank you. Do you know how much the train costs?", "No does: costs."],
+["Receptionist", "I'm not sure exactly how much it is now, but you can check on their website.", "how much + it + is."],
+["Mariam", "OK. And one last thing: do you know whether the rooms have Wi-Fi?", "Yes / no question with whether."],
+["Receptionist", "Yes, they all do. The password is on your key card.", "Short answer."]
+]
+},
+"mots": [
+["wonder", "I wonder where my keys are.", "to think about something and want to know"],
+["whether", "I don't know whether he's coming.", "if (introducing a yes / no question)"],
+["idea", "Do you have any idea what time it is?", "a thought or piece of knowledge"],
+["explain", "Could you explain why it's closed?", "to make something clear"],
+["check in", "What time can I check in?", "to arrive and register at a hotel or airport"],
+["directions", "Could you give me directions to the station?", "instructions about how to get somewhere"],
+["reception", "Ask at reception.", "the desk where visitors go when they arrive"],
+["available", "Do you know if the manager is available?", "free to talk or be used"],
+["refund", "I'd like to know if I can get a refund.", "money given back to you"],
+["exactly", "I don't know exactly what he wants.", "completely correctly; precisely"]
+],
+"exercices": [
+{
+"titre": "1. Correct or incorrect?",
+"consigne": "Is the indirect question correct (C) or incorrect (I)?",
+"items": [
+["Do you know where the toilets are?", "C"],
+["Could you tell me what time does it start?", "I (what time it starts)"],
+["I wonder if she's coming.", "C"],
+["Can you tell me where can I buy a ticket?", "I (where I can buy)"]
+]
+},
+{
+"titre": "2. Transform",
+"consigne": "Make the direct question indirect with the phrase given.",
+"items": [
+["Where is the post office? (Could you tell me…)", "Could you tell me where the post office is?"],
+["What time does the bank close? (Do you know…)", "Do you know what time the bank closes?"],
+["How much did the tickets cost? (Can you tell me…)", "Can you tell me how much the tickets cost?"],
+["Why is the flight delayed? (I'd like to know…)", "I'd like to know why the flight is delayed."],
+["When will the doctor arrive? (Do you have any idea…)", "Do you have any idea when the doctor will arrive?"],
+["Who is the manager? (Do you know…)", "Do you know who the manager is?"]
+]
+},
+{
+"titre": "3. Yes / no questions",
+"consigne": "Transform with if or whether.",
+"items": [
+["Is breakfast included? (Do you know…)", "Do you know if breakfast is included?"],
+["Can I change my seat? (Could you tell me…)", "Could you tell me whether I can change my seat?"],
+["Did the parcel arrive? (I was wondering…)", "I was wondering if the parcel arrived / had arrived."],
+["Does this bus go to the city centre? (Do you know…)", "Do you know if this bus goes to the city centre?"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["Do you know where does Paul live?", "Do you know where Paul lives?"],
+["I wonder what is he doing.", "I wonder what he is doing."],
+["Could you tell me is there a pharmacy near here?", "Could you tell me if there is a pharmacy near here?"],
+["Can you tell me what did the doctor say?", "Can you tell me what the doctor said?"]
+]
+},
+{
+"titre": "5. Be more polite",
+"consigne": "Make these direct questions more polite with an indirect question.",
+"items": [
+["Where's the station?", "Could you tell me where the station is?"],
+["Is the shop open on Sunday?", "Do you know if the shop is open on Sunday?"],
+["Why didn't he answer? (thinking aloud: I wonder…)", "I wonder why he didn't answer."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "You are planning a trip to Brussels. Write a short email (4–5 sentences) to a hotel with at least four different indirect questions.",
+"items": [
+["Model answer", "Dear Sir or Madam, I have a reservation from 3 to 6 May. I was wondering if I could check in early, around 10 a.m. Could you tell me how I can get to the hotel from Brussels-Midi station? I'd also like to know whether breakfast is included in the price. Finally, do you know if there is a pharmacy near the hotel? Kind regards, Claire Mballa"]
+]
+}
+],
+"a_retenir": [
+"Indirect question = polite phrase + question word + subject + verb (Could you tell me where the station is?).",
+"No do / does / did: Do you know what time the shop opens?",
+"Yes / no questions: if or whether (Do you know if it's open?).",
+"Question mark only if the opening phrase is a question (Do you know…?); full stop after I wonder / I'd like to know.",
+"Subject questions (who called?): the order doesn't change."
+],
+"liens": [29, 57, 68, 105, 142],
+"refs": ["bc-reported-q", "bc-questions"]
+}

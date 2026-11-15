@@ -1,0 +1,424 @@
+{
+ "n": 105,
+ "niveau": "B1",
+ "titre": "Le discours indirect : questions",
+ "intro": "Rapporter une question demande deux changements de plus qu'une affirmation : l'ordre des mots redevient celui d'une phrase affirmative et l'auxiliaire do / does / did disparaît. « Where do you live? » devient « She asked me where I lived. » On rapporte aussi les demandes et les ordres avec ask / tell + quelqu'un + to.",
+ "objectifs": [
+  "Rapporter une question en Wh- avec asked + mot interrogatif + sujet + verbe (sans inversion ni do).",
+  "Rapporter une question fermée (oui / non) avec if ou whether.",
+  "Appliquer le recul des temps et les changements de pronoms et de repères vus à la leçon 104.",
+  "Rapporter une demande ou un ordre avec ask / tell + personne + (not) to + verbe."
+ ],
+ "sections": [
+  {
+   "titre": "Les questions en Wh-",
+   "texte": [
+    "On garde le mot interrogatif (what, where, when, why, how, who, which, how much…), puis on met l'ordre d'une phrase affirmative : sujet + verbe. Il n'y a plus de point d'interrogation.",
+    "L'auxiliaire do / does / did disparaît, et le verbe reprend le temps reculé : « Where do you work? » → « He asked me where I worked. » « What did you buy? » → « She asked me what I had bought. »",
+    "Les verbes introducteurs les plus courants sont ask, want to know, wonder (se demander). Ask peut être suivi de la personne (asked me) ou non (asked)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Question directe",
+     "Question rapportée"
+    ],
+    "lignes": [
+     [
+      "“Where do you live?”",
+      "She asked me where I lived."
+     ],
+     [
+      "“What are you doing?”",
+      "He asked me what I was doing."
+     ],
+     [
+      "“Why did you leave?”",
+      "They asked her why she had left."
+     ],
+     [
+      "“How much does it cost?”",
+      "I asked how much it cost."
+     ],
+     [
+      "“When will you arrive?”",
+      "She wanted to know when I would arrive."
+     ],
+     [
+      "“Who has taken my pen?”",
+      "He asked who had taken his pen."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Les questions fermées : if / whether",
+   "texte": [
+    "Pour une question à laquelle on répond par oui ou non, on utilise if ou whether (« si »), puis l'ordre affirmatif. « Are you hungry? » → « She asked me if I was hungry. »",
+    "Whether est un peu plus soutenu et s'emploie surtout quand on présente deux possibilités : « He asked whether I wanted tea or coffee. » On dit aussi « whether or not »."
+   ],
+   "exemples": [
+    [
+     "“Do you speak French?” → She asked me if I spoke French.",
+     "Do disparaît ; speak → spoke."
+    ],
+    [
+     "“Have you seen my keys?” → He asked if I had seen his keys.",
+     "Present perfect → past perfect."
+    ],
+    [
+     "“Can you help me?” → She asked me whether I could help her.",
+     "Can → could."
+    ],
+    [
+     "“Is it raining?” → He wanted to know if it was raining.",
+     "Ordre affirmatif : it was."
+    ]
+   ]
+  },
+  {
+   "titre": "Pronoms, temps et repères",
+   "texte": [
+    "Toutes les règles de la leçon 104 s'appliquent : recul des temps après un verbe introducteur au passé, changement des pronoms et des possessifs, et des repères de temps et de lieu (tomorrow → the next day, here → there).",
+    "Si le verbe introducteur est au présent (He asks / wants to know), on ne recule pas : « The customer wants to know when the parcel will arrive. »"
+   ],
+   "exemples": [
+    [
+     "“Will you come to my party tomorrow?” → She asked me if I would come to her party the next day.",
+     "will → would ; my → her ; tomorrow → the next day."
+    ],
+    [
+     "“What time does this shop close?” → The tourist wants to know what time this shop closes.",
+     "Verbe introducteur au présent : pas de recul."
+    ]
+   ]
+  },
+  {
+   "titre": "Demandes et ordres : ask / tell + to",
+   "texte": [
+    "Pour rapporter une demande polie (Could you…? Please…), on utilise ask + personne + to + verbe. Pour un ordre ou une consigne (impératif), on utilise tell + personne + to + verbe.",
+    "À la forme négative, not se place avant to : « Don't be late » → « She told me not to be late. » Ce n'est pas « She told me to not be late » (possible à l'oral, mais à éviter) ni « She told me don't be late »."
+   ],
+   "tableau": {
+    "entetes": [
+     "Paroles directes",
+     "Discours indirect"
+    ],
+    "lignes": [
+     [
+      "“Could you open the window, please?”",
+      "She asked me to open the window."
+     ],
+     [
+      "“Sit down.”",
+      "The teacher told us to sit down."
+     ],
+     [
+      "“Please don't smoke here.”",
+      "He asked us not to smoke there."
+     ],
+     [
+      "“Don't touch that!”",
+      "My mother told me not to touch it."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "My boss asked me to send the report before Friday.",
+     "Demande polie → asked + to."
+    ],
+    [
+     "The police officer told the driver not to move.",
+     "Ordre négatif → told + not to."
+    ]
+   ]
+  },
+  {
+   "titre": "Les questions indirectes polies",
+   "texte": [
+    "La même structure (mot interrogatif + sujet + verbe) sert dans les questions indirectes polies, au présent : « Could you tell me where the station is? », « Do you know what time it starts? ». C'est l'objet de la leçon 114.",
+    "Dans les deux cas, le piège est le même : garder l'inversion de la question directe. « Can you tell me where is the station? » est faux."
+   ],
+   "exemples": [
+    [
+     "Do you know where the post office is?",
+     "Pas « where is the post office »."
+    ]
+   ]
+  }
+ ],
+ "formule": "asked (+ personne) + wh- / if / whether + sujet + verbe (temps reculé) · asked / told + personne + (not) to + verbe",
+ "prononciation": [
+  "asked /ɑːskt/ (US /æskt/) : trois consonnes à la fin, s-k-t. Ne dis pas « ask » : le -ed /t/ doit s'entendre.",
+  "Une question rapportée n'a pas l'intonation d'une question : la voix descend à la fin, comme dans une affirmation. « She asked me where I LIVED ↘. »",
+  "whether /ˈweðə/ se prononce comme weather (la météo).",
+  "Dans « told me not to », l'accent tombe sur not : « She told me NOT to wait »."
+ ],
+ "erreurs": [
+  [
+   "She asked me where did I live.",
+   "She asked me where I lived.",
+   "Pas de did ni d'inversion dans une question rapportée."
+  ],
+  [
+   "He asked me where was the station.",
+   "He asked me where the station was.",
+   "Ordre affirmatif : sujet + verbe."
+  ],
+  [
+   "She asked me do I like coffee.",
+   "She asked me if I liked coffee.",
+   "Question fermée : if / whether."
+  ],
+  [
+   "He asked me what time is it.",
+   "He asked me what time it was.",
+   "Ordre affirmatif et recul des temps."
+  ],
+  [
+   "She asked if I was hungry?",
+   "She asked if I was hungry.",
+   "Pas de point d'interrogation."
+  ],
+  [
+   "He told me don't call him.",
+   "He told me not to call him.",
+   "Ordre négatif : told + personne + not to."
+  ],
+  [
+   "She said me to wait.",
+   "She told me to wait. / She asked me to wait.",
+   "Say ne s'emploie pas pour rapporter un ordre avec to : tell ou ask."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Bruxelles, au retour d'un entretien d'embauche. Olivier raconte à son colocataire Emmanuel, venu de Kinshasa, les questions qu'on lui a posées.",
+  "lignes": [
+   [
+    "Emmanuel",
+    "So, what did they ask you?",
+    "Alors, qu'est-ce qu'ils t'ont demandé ?"
+   ],
+   [
+    "Olivier",
+    "First, they asked me why I wanted to work for them.",
+    "D'abord, ils m'ont demandé pourquoi je voulais travailler pour eux."
+   ],
+   [
+    "Emmanuel",
+    "Classic. What else?",
+    "Classique. Quoi d'autre ?"
+   ],
+   [
+    "Olivier",
+    "The manager asked me if I had ever managed a team, and how many people I had worked with.",
+    "Le directeur m'a demandé si j'avais déjà géré une équipe, et avec combien de personnes j'avais travaillé."
+   ],
+   [
+    "Emmanuel",
+    "Did they ask whether you spoke Dutch?",
+    "Ils t'ont demandé si tu parlais néerlandais ?"
+   ],
+   [
+    "Olivier",
+    "Yes! And they wanted to know when I could start.",
+    "Oui ! Et ils voulaient savoir quand je pourrais commencer."
+   ],
+   [
+    "Emmanuel",
+    "That sounds positive. Anything else?",
+    "Ça a l'air positif. Autre chose ?"
+   ],
+   [
+    "Olivier",
+    "At the end, they asked me to send them two references and told me not to worry about the test.",
+    "À la fin, ils m'ont demandé de leur envoyer deux références et m'ont dit de ne pas m'inquiéter pour le test."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "ask",
+   "She asked me where I lived.",
+   "demander"
+  ],
+  [
+   "wonder",
+   "I wonder if she's coming.",
+   "se demander"
+  ],
+  [
+   "want to know",
+   "He wanted to know how much it cost.",
+   "vouloir savoir"
+  ],
+  [
+   "whether",
+   "They asked whether I was free on Monday.",
+   "si (soutenu)"
+  ],
+  [
+   "enquire",
+   "A customer enquired whether the shop was open.",
+   "se renseigner (formel ; US : inquire)"
+  ],
+  [
+   "order",
+   "The officer ordered them to stop.",
+   "ordonner"
+  ],
+  [
+   "remind",
+   "She reminded me to buy bread.",
+   "rappeler (à quelqu'un de faire quelque chose)"
+  ],
+  [
+   "reference",
+   "They asked me to send two references.",
+   "la référence, la recommandation"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choisir la bonne phrase",
+   "consigne": "Choisis la question rapportée correcte (a ou b).",
+   "items": [
+    [
+     "“Where are you going?” a) She asked me where was I going. b) She asked me where I was going.",
+     "b"
+    ],
+    [
+     "“Do you like jazz?” a) He asked if I liked jazz. b) He asked did I like jazz.",
+     "a"
+    ],
+    [
+     "“What time is it?” a) I asked what time it was. b) I asked what time was it.",
+     "a"
+    ],
+    [
+     "“Don't shout!” a) She told us to not shouting. b) She told us not to shout.",
+     "b"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Questions en Wh-",
+   "consigne": "Rapporte la question en commençant par « She asked me… ».",
+   "items": [
+    [
+     "“Where do you work?”",
+     "She asked me where I worked."
+    ],
+    [
+     "“What are you reading?”",
+     "She asked me what I was reading."
+    ],
+    [
+     "“Why did you call?”",
+     "She asked me why I had called."
+    ],
+    [
+     "“How long will you stay?”",
+     "She asked me how long I would stay."
+    ],
+    [
+     "“Who is your teacher?”",
+     "She asked me who my teacher was."
+    ]
+   ]
+  },
+  {
+   "titre": "3. Questions fermées",
+   "consigne": "Rapporte la question avec if ou whether, en commençant par « He asked (me)… ».",
+   "items": [
+    [
+     "“Are you married?”",
+     "He asked me if (whether) I was married."
+    ],
+    [
+     "“Can you drive?”",
+     "He asked me if (whether) I could drive."
+    ],
+    [
+     "“Have you finished the report?”",
+     "He asked me if (whether) I had finished the report."
+    ],
+    [
+     "“Do you want tea or coffee?”",
+     "He asked me whether I wanted tea or coffee."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Demandes et ordres",
+   "consigne": "Rapporte avec asked / told + personne + (not) to.",
+   "items": [
+    [
+     "The doctor to me: “Stay in bed.”",
+     "The doctor told me to stay in bed."
+    ],
+    [
+     "My friend to me: “Could you lend me your car?”",
+     "My friend asked me to lend him (her) my car."
+    ],
+    [
+     "The guide to the tourists: “Don't take photos.”",
+     "The guide told the tourists not to take photos."
+    ],
+    [
+     "My neighbour to us: “Please don't make noise after ten.”",
+     "My neighbour asked us not to make noise after ten."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    [
+     "She asked me where did I buy my shoes.",
+     "She asked me where I had bought my shoes. / She asked me where I bought my shoes."
+    ],
+    [
+     "They asked us were we tired.",
+     "They asked us if (whether) we were tired."
+    ],
+    [
+     "He told me don't be late.",
+     "He told me not to be late."
+    ],
+    [
+     "I asked her how old is she.",
+     "I asked her how old she was."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Pense à un entretien, un rendez-vous chez le médecin ou une première rencontre. Rapporte en 4 à 5 phrases les questions qu'on t'a posées et une demande ou un ordre.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "Last week I went to the doctor's. She asked me how long I had had the cough. She wanted to know if I smoked and whether I was taking any medicine. Then she asked me to breathe deeply. At the end, she told me to drink a lot of water and not to go to work for two days."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Question en Wh- rapportée : asked + mot interrogatif + sujet + verbe (sans do, sans inversion).",
+  "Question fermée : asked + if / whether + sujet + verbe.",
+  "Recul des temps et changements de pronoms comme pour les affirmations.",
+  "Pas de point d'interrogation ni d'intonation montante.",
+  "Demande : asked + personne + to ; ordre : told + personne + to ; négation : not to."
+ ],
+ "liens": [
+  29,
+  104,
+  114,
+  154
+ ],
+ "refs": [
+  "bc-reported-q",
+  "bc-reported"
+ ]
+}

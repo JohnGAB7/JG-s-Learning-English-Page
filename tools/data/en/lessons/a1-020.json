@@ -1,0 +1,219 @@
+{
+ "n": 20,
+ "niveau": "A1",
+ "titre": "Numbers from 20 to 1,000",
+ "intro": "After the numbers from 0 to 20 (lesson 3), learn the tens, the hundreds and “a thousand”. You need them for prices, distances, addresses, years and quantities. English also has its own way to write big numbers and decimals (comma, point, “and”).",
+ "objectifs": [
+  "Say and write the tens (twenty to ninety) and the compound numbers with a hyphen (twenty-one).",
+  "Say hundreds with “and” in British English (two hundred and fifty) and 1,000 (a thousand).",
+  "Hear and say the difference between -teen and -ty (thirteen / thirty) with stress.",
+  "Read a price, a decimal number and a simple year, and use the comma and the point correctly."
+ ],
+ "sections": [
+  {
+   "titre": "The tens",
+   "texte": [
+    "The tens end in -ty. Like the -teen numbers, some change: twenty (2), thirty (3), forty (4), fifty (5), eighty (8, only one t).",
+    "The most common spelling trap: “forty” has NO u, but “four” and “fourteen” have one."
+   ],
+   "tableau": {
+    "entetes": ["Digit", "Word", "Sound", "Trap"],
+    "lignes": [
+     ["20", "twenty", "/ˈtwenti/", ""],
+     ["30", "thirty", "/ˈθɜːti/", "thir-, like thirteen"],
+     ["40", "forty", "/ˈfɔːti/", "no u"],
+     ["50", "fifty", "/ˈfɪfti/", "fif-, like fifteen"],
+     ["60", "sixty", "/ˈsɪksti/", ""],
+     ["70", "seventy", "/ˈsevnti/", ""],
+     ["80", "eighty", "/ˈeɪti/", "only one t"],
+     ["90", "ninety", "/ˈnaɪnti/", "keeps the e of nine"]
+    ]
+   },
+   "note": "English tens are regular: 70 = seventy, 80 = eighty, 97 = ninety-seven. No complicated combinations."
+  },
+  {
+   "titre": "Compound numbers: the hyphen",
+   "texte": [
+    "From 21 to 99, write the ten, a hyphen, then the unit: twenty-one, thirty-five, sixty-eight, ninety-nine. Never use “and” between the ten and the unit.",
+    "-teen or -ty? When you speak, -teen numbers are stressed at the end (fifTEEN), and -ty numbers at the start (FIFty). The t in -ty is also lighter, and in American English it often sounds like a quick d (/ˈfɪfdi/). To be sure, you can say the digits: “one-five or five-oh?”."
+   ],
+   "tableau": {
+    "entetes": ["-teen (stress at the end)", "-ty (stress at the start)"],
+    "lignes": [
+     ["13 thirTEEN /θɜːˈtiːn/", "30 THIRty /ˈθɜːti/"],
+     ["14 fourTEEN /fɔːˈtiːn/", "40 FORty /ˈfɔːti/"],
+     ["15 fifTEEN /fɪfˈtiːn/", "50 FIFty /ˈfɪfti/"],
+     ["16 sixTEEN", "60 SIXty"],
+     ["18 eighTEEN", "80 EIGHty"]
+    ]
+   },
+   "exemples": [
+    ["My father is sixty-two.", "Age."],
+    ["There are thirty-one days in May.", "A hyphen, no and."],
+    ["It costs forty-five euros.", "forty: no u."]
+   ]
+  },
+  {
+   "titre": "Hundreds and a thousand",
+   "texte": [
+    "100 is “a hundred” or “one hundred” (more exact). After a number, “hundred” never takes -s: two hundred, five hundred (never “five hundreds”). The -s appears only in “hundreds of” (a very large number of): hundreds of people.",
+    "In British English, put “and” between the hundreds and the rest: 250 = two hundred and fifty; 105 = a hundred and five. In American English, “and” is often left out: two hundred fifty.",
+    "1,000 is “a thousand” or “one thousand”, with no -s after a number: three thousand. The same rule works for “hundreds of / thousands of”."
+   ],
+   "tableau": {
+    "entetes": ["Digit", "British English", "American English"],
+    "lignes": [
+     ["100", "a / one hundred", "a / one hundred"],
+     ["101", "a hundred and one", "one hundred (and) one"],
+     ["250", "two hundred and fifty", "two hundred fifty"],
+     ["999", "nine hundred and ninety-nine", "nine hundred ninety-nine"],
+     ["1,000", "a / one thousand", "a / one thousand"]
+    ]
+   },
+   "exemples": [
+    ["The hotel has three hundred rooms.", "No -s on hundred."],
+    ["There are hundreds of birds on the lake.", "hundreds of = a very large number of."],
+    ["It's more than a thousand kilometres from Paris to Rome.", "It's for a distance."]
+   ]
+  },
+  {
+   "titre": "Comma and point",
+   "texte": [
+    "In English, a comma separates thousands: 1,000, 2,500. Some languages write 1 000 or 1.000. English uses a point for decimals: 2.5, said “two point five”. After the point, say each digit: 3.75 = three point seven five.",
+    "Prices: £4.50 is “four pounds fifty”; €19.99 is “nineteen euros ninety-nine”; $1.20 is “a dollar twenty”. The symbol is written before the number, but said after it."
+   ],
+   "exemples": [
+    ["The ticket is £12.50.", "Say: twelve pounds fifty."],
+    ["The baby weighs 3.2 kilos.", "Say: three point two kilos."],
+    ["About 1,500 people live in my village.", "Say: one thousand five hundred."]
+   ]
+  },
+  {
+   "titre": "Years, as a bonus",
+   "texte": [
+    "Years up to 1999 are said in two pairs: 1985 = nineteen eighty-five; 1906 = nineteen oh six. Years 2000 to 2009 are “two thousand (and) + number”: 2005 = two thousand and five (UK) / two thousand five (US). From 2010, people mostly use pairs: 2026 = twenty twenty-six (you also hear “two thousand and twenty-six”).",
+    "For ages and quantities up to 1,000, use the rules above: She's ninety-one. Full dates with ordinal numbers are in lesson 22."
+   ],
+   "exemples": [
+    ["My mother was born in 1972.", "Say: nineteen seventy-two."],
+    ["We're in 2026.", "Say: twenty twenty-six."]
+   ]
+  }
+ ],
+ "formule": "twenty, thirty, forty, fifty… · twenty-one (hyphen) · two hundred and fifty (UK) · a thousand · 1,000 (comma) · 2.5 = two point five",
+ "prononciation": [
+  "-ty is stressed at the start (FORty /ˈfɔːti/), -teen at the end (fourTEEN /fɔːˈtiːn/). This is how people hear the difference.",
+  "In “two hundred and fifty”, “and” is very weak: /ən/ → /tuː ˈhʌndrəd ən ˈfɪfti/.",
+  "“hundred” /ˈhʌndrəd/: two syllables, breathed h. “thousand” /ˈθaʊznd/ starts with /θ/ (tongue between the teeth, breathe out).",
+  "In American English, a t between two vowels often becomes a quick d: thirty /ˈθɝːdi/, forty /ˈfɔːrdi/; “twenty” often sounds like /ˈtweni/.",
+  "“eighty” /ˈeɪti/: the gh is silent, like in eight."
+ ],
+ "erreurs": [
+  ["fourty", "forty", "40 has no u."],
+  ["twenty one", "twenty-one", "A hyphen between the ten and the unit."],
+  ["twenty and one", "twenty-one", "No “and” between the ten and the unit."],
+  ["three hundreds euros", "three hundred euros", "No -s on hundred after a number."],
+  ["two thousands", "two thousand", "No -s on thousand after a number."],
+  ["two comma five (2,5)", "two point five (2.5)", "Decimals use a point, said “point”."],
+  ["Euros twenty", "twenty euros", "Say the money after the number."],
+  ["sixty-ten (70)", "seventy", "70 is seventy."]
+ ],
+ "dialogue": {
+  "contexte": "In an estate agent's office in Liège, a client asks about a flat.",
+  "lignes": [
+   ["Agent", "This flat is on the fourth floor. It's eighty-five square metres.", "eighty-five: hyphen."],
+   ["Client", "Sorry, eighty-five or ninety-five?", "Checking a number."],
+   ["Agent", "Eighty-five: eight, five.", "Saying the digits."],
+   ["Client", "OK. And how much is the rent?", "A question about price."],
+   ["Agent", "It's seven hundred and fifty euros a month, plus sixty euros for charges.", "British “and” after hundred."],
+   ["Client", "So, eight hundred and ten euros in total. Is the building old?", "A sum."],
+   ["Agent", "Yes, it's from 1930: nineteen thirty. But the kitchen is new.", "A year in two pairs."],
+   ["Client", "And how far is it from the station?", "A question about distance."],
+   ["Agent", "About nine hundred metres. Fifteen minutes on foot, or five by bus.", "about = approximately."]
+  ]
+ },
+ "mots": [
+  ["hundred", "There are a hundred people here.", "the number 100"],
+  ["thousand", "It costs a thousand euros.", "the number 1,000"],
+  ["price", "What's the price of this bike?", "how much money something costs"],
+  ["cost", "How much does it cost?", "have a price"],
+  ["rent", "The rent is six hundred euros a month.", "money you pay to live in a place"],
+  ["about", "It's about fifty kilometres.", "not exactly; approximately"],
+  ["total", "The total is ninety-five euros.", "the number when you add everything"],
+  ["kilometre", "It's thirty kilometres from here.", "1,000 metres (US: kilometer)"],
+  ["metre", "The room is five metres long.", "a unit of length, 100 centimetres (US: meter)"],
+  ["point", "Two point five.", "the sign (.) in a decimal number"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Write the word",
+   "consigne": "Write the number in letters.",
+   "items": [
+    ["40", "forty"],
+    ["73", "seventy-three"],
+    ["98", "ninety-eight"],
+    ["150", "a hundred and fifty / one hundred and fifty"],
+    ["306", "three hundred and six"],
+    ["1,000", "a thousand / one thousand"]
+   ]
+  },
+  {
+   "titre": "2. -teen or -ty?",
+   "consigne": "Write the number in digits. The capital letters show the stressed syllable.",
+   "items": [
+    ["fifTEEN", "15"],
+    ["FIFty", "50"],
+    ["eighTEEN", "18"],
+    ["NINEty", "90"],
+    ["THIRty", "30"]
+   ]
+  },
+  {
+   "titre": "3. Read it aloud",
+   "consigne": "Write how you say these numbers, prices and years (British English).",
+   "items": [
+    ["€24.99", "twenty-four euros ninety-nine"],
+    ["£3.50", "three pounds fifty"],
+    ["6.4 (kilos)", "six point four (kilos)"],
+    ["1990", "nineteen ninety"],
+    ["2,500", "two thousand five hundred"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["My grandfather is fourty-nine.", "My grandfather is forty-nine."],
+    ["The ticket costs two hundreds euros.", "The ticket costs two hundred euros."],
+    ["There are thousand of people at the concert.", "There are thousands of people at the concert."],
+    ["It's twenty and five kilometres.", "It's twenty-five kilometres."]
+   ]
+  },
+  {
+   "titre": "5. Write the sentence",
+   "consigne": "Write the sentence with the number in letters.",
+   "items": [
+    ["My uncle / be / 81", "My uncle is eighty-one."],
+    ["The room / cost / €120 / a night", "The room costs a hundred and twenty euros a night."],
+    ["There / be / a very large number of / books / in the library", "There are hundreds of books in the library. / There are thousands of books in the library."],
+    ["Montréal / be / about 500 km / from Toronto", "Montréal is about five hundred kilometres from Toronto."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write four true sentences with numbers between 20 and 1,000: an age, a price, a distance and a number of people or things.",
+   "items": [
+    ["Example answer", "My grandmother is eighty-three. My phone costs three hundred and fifty euros. My office is about twenty-five kilometres from my house. There are about six hundred students in my daughter's school."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "twenty, thirty, forty (no u), fifty, sixty, seventy, eighty, ninety.",
+  "21–99: hyphen, no and (twenty-one); hundreds: two hundred and fifty (UK).",
+  "hundred and thousand have no -s after a number; but hundreds of / thousands of.",
+  "1,000 (comma for thousands); 2.5 = two point five (point for decimals).",
+  "-ty is stressed at the start (FORty), -teen at the end (fourTEEN)."
+ ],
+ "liens": [3, 19, 21, 22, 89],
+ "refs": ["bc-a1a2", "cam-nouns"]
+}

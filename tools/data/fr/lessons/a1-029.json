@@ -1,0 +1,202 @@
+{
+"n": 29,
+"niveau": "A1",
+"titre": "Les questions en Wh- (what, where, who…)",
+"intro": "Les mots interrogatifs (what, where, when, who, why, how…) servent à poser des questions ouvertes, celles qui demandent une information. Le secret est l’ordre des mots : mot interrogatif + auxiliaire + sujet + verbe.",
+"objectifs": [
+ "Connaître les mots interrogatifs et leur sens : what, where, when, who, why, how, which, whose.",
+ "Construire une question dans le bon ordre avec be, do / does, can et le présent continu.",
+ "Utiliser How + adjectif (how old, how often, how far) et What + nom (what time, what colour).",
+ "Placer la préposition à la fin de la question (Where are you from?)."
+],
+"sections": [
+ {
+  "titre": "Les mots interrogatifs",
+  "texte": [
+   "La plupart commencent par « wh- », d’où leur nom ; « how » fait aussi partie de la famille. Le mot interrogatif se place toujours au début de la question."
+  ],
+  "tableau": {
+   "entetes": ["Mot", "Sens", "Exemple"],
+   "lignes": [
+    ["what", "que, quoi, quel", "What's your name?"],
+    ["where", "où", "Where do you live?"],
+    ["when", "quand", "When is your birthday?"],
+    ["who", "qui", "Who is that man?"],
+    ["why", "pourquoi", "Why are you sad?"],
+    ["how", "comment", "How do you go to work?"],
+    ["which", "lequel, quel (choix limité)", "Which bus goes to the centre?"],
+    ["whose", "à qui", "Whose phone is this?"]
+   ]
+  },
+  "note": "« Why? » appelle une réponse avec « because » (parce que) : « Why are you tired? — Because I work at night. »"
+ },
+ {
+  "titre": "L’ordre des mots : Wh- + auxiliaire + sujet + verbe",
+  "texte": [
+   "En anglais, on ne pose pas une question en gardant l’ordre de l’affirmation (« Where you live? » est faux). Il faut un auxiliaire avant le sujet.",
+   "Avec « be », « can » ou le présent continu, l’auxiliaire est déjà là : on l’inverse avec le sujet. Avec le présent simple, on ajoute « do » ou « does » ; le verbe principal reste alors à la base (sans s).",
+   "Moyen mnémotechnique : QASI = Question word, Auxiliary, Subject, Infinitive (verbe à la base)."
+  ],
+  "tableau": {
+   "entetes": ["Temps / verbe", "Mot interrogatif", "Auxiliaire", "Sujet", "Verbe + reste"],
+   "lignes": [
+    ["be", "Where", "is", "your office?", "—"],
+    ["présent simple", "Where", "do", "you", "live?"],
+    ["présent simple (3e pers.)", "What time", "does", "the shop", "open?"],
+    ["présent continu", "What", "are", "you", "doing?"],
+    ["can", "How many languages", "can", "she", "speak?"]
+   ]
+  },
+  "exemples": [
+   ["Where does your sister work? — In a bank.", "Où travaille ta sœur ? — Dans une banque (does + work, sans s)."],
+   ["What are you reading? — A novel.", "Qu’est-ce que tu lis ? — Un roman."],
+   ["Why is the shop closed?", "Pourquoi le magasin est-il fermé ?"]
+  ]
+ },
+ {
+  "titre": "How + adjectif, What / Which + nom",
+  "texte": [
+   "« How » se combine avec un adjectif ou un adverbe pour demander une mesure : how old (quel âge), how tall (quelle taille), how far (à quelle distance), how long (combien de temps), how often (à quelle fréquence). « How much / how many » (combien) font l’objet de la leçon 30.",
+   "« What » et « which » se combinent avec un nom : what time, what colour, what kind of music. On utilise « which » quand le choix est limité et connu (Which one, the red or the blue?) et « what » quand le choix est ouvert.",
+   "« Whose » + nom demande le propriétaire : « Whose car is this? — It's Marc's. » Ne le confondez pas avec « Who's » (= who is), qui se prononce pareil."
+  ],
+  "exemples": [
+   ["How old is your daughter? — She's six.", "Quel âge a ta fille ? — Six ans (pas « What age has… »)."],
+   ["How often do you go to the gym? — Twice a week.", "Tu vas à la salle de sport tous les combien ? — Deux fois par semaine."],
+   ["How far is the airport? — About ten kilometres.", "L’aéroport est à quelle distance ? — Environ dix kilomètres."],
+   ["What kind of music do you like?", "Quel genre de musique aimes-tu ?"],
+   ["Which colour do you want, blue or green?", "Quelle couleur veux-tu, bleu ou vert ? (choix limité)"]
+  ]
+ },
+ {
+  "titre": "La préposition à la fin",
+  "texte": [
+   "Quand le verbe est suivi d’une préposition (be from, talk to, look at, wait for), la préposition reste à la fin de la question en anglais courant : « Where are you from? » et non « From where are you? ».",
+   "Cela semble étrange en français, mais c’est la forme normale à l’oral comme à l’écrit."
+  ],
+  "exemples": [
+   ["Where are you from? — I'm from Cameroon.", "D’où viens-tu ? — Du Cameroun."],
+   ["Who are you waiting for?", "Qui attends-tu ?"],
+   ["What are you looking at?", "Qu’est-ce que tu regardes ?"]
+  ]
+ },
+ {
+  "titre": "Quand « who » ou « what » est le sujet",
+  "texte": [
+   "Quand « who » ou « what » est le sujet du verbe (on demande QUI fait l’action), on n’utilise pas « do / does » : « Who lives here? » (Qui habite ici ?). Comparez avec « Who do you love? » (Qui aimes-tu ? : « you » est le sujet).",
+   "À ce niveau, retenez surtout les questions fréquentes : « Who wants coffee? », « What happens next? ». La leçon 68 approfondit ce point."
+  ],
+  "exemples": [
+   ["Who knows the answer?", "Qui connaît la réponse ? (who = sujet, pas de does)"],
+   ["Who does Marie know here?", "Qui Marie connaît-elle ici ? (Marie = sujet, does nécessaire)"]
+  ]
+ }
+],
+"formule": "Mot interrogatif + auxiliaire (is / are / do / does / can) + sujet + verbe… ? — Where do you live?",
+"prononciation": [
+ "Dans what, where, when, why, which, le « wh » se prononce /w/ : /wɒt/, /weə/, /wen/, /waɪ/. Mais who, whose et whom se prononcent avec /h/ : /huː/, /huːz/.",
+ "L’intonation d’une question en Wh- descend à la fin (comme une affirmation) : « Where do you LIVE? ↘ ».",
+ "À l’oral rapide, « do you » se réduit : « Where do you live? » ≈ /ˈweə dʒə ˈlɪv/ ; « What do you » ≈ /ˈwɒdʒə/.",
+ "Formes courtes fréquentes : what's /wɒts/, where's /weəz/, who's /huːz/, how's /haʊz/.",
+ "« Whose » et « who's » se prononcent exactement pareil : /huːz/. Le contexte fait la différence."
+],
+"erreurs": [
+ ["Where you live?", "Where do you live?", "Il faut l’auxiliaire « do » avant le sujet."],
+ ["Where does she lives?", "Where does she live?", "Après « does », le verbe est à la base, sans s."],
+ ["What age have you?", "How old are you?", "L’âge se demande avec « How old + be »."],
+ ["From where are you?", "Where are you from?", "La préposition reste à la fin."],
+ ["How is called your brother?", "What's your brother called? / What's your brother's name?", "« Comment s’appelle… » = What's … called? / What's … name?"],
+ ["Why you are late?", "Why are you late?", "Avec « be », on inverse le verbe et le sujet."],
+ ["Who is this bag?", "Whose bag is this?", "Le propriétaire se demande avec « whose »."],
+ ["Who does live here?", "Who lives here?", "Quand « who » est le sujet, pas de « do / does »."]
+],
+"dialogue": {
+ "contexte": "Dans un café de conversation à Montréal, Julie fait connaissance avec Emmanuel, arrivé du Cameroun.",
+ "lignes": [
+  ["Julie", "Hi! What's your name?", "Salut ! Comment tu t’appelles ?"],
+  ["Emmanuel", "I'm Emmanuel. Nice to meet you.", "Je m’appelle Emmanuel. Enchanté."],
+  ["Julie", "Where are you from, Emmanuel?", "D’où viens-tu, Emmanuel ?"],
+  ["Emmanuel", "I'm from Bamenda, in Cameroon.", "Je viens de Bamenda, au Cameroun."],
+  ["Julie", "Cool! Why are you in Montreal?", "Super ! Pourquoi es-tu à Montréal ?"],
+  ["Emmanuel", "Because I'm a student at the university. I study engineering.", "Parce que je suis étudiant à l’université. J’étudie l’ingénierie."],
+  ["Julie", "And how often do you come to this café?", "Et tu viens à ce café tous les combien ?"],
+  ["Emmanuel", "Every Thursday. What about you? What do you do?", "Tous les jeudis. Et toi ? Qu’est-ce que tu fais dans la vie ?"],
+  ["Julie", "I'm a nurse. Which language do you want to practise tonight, English or French?", "Je suis infirmière. Quelle langue veux-tu pratiquer ce soir, l’anglais ou le français ?"],
+  ["Emmanuel", "English, please!", "L’anglais, s’il te plaît !"]
+ ]
+},
+"mots": [
+ ["what", "What's your job?", "que, quoi, quel"],
+ ["where", "Where is the station?", "où"],
+ ["when", "When is the meeting?", "quand"],
+ ["who", "Who is your teacher?", "qui"],
+ ["why", "Why are you tired?", "pourquoi"],
+ ["how", "How do you spell your name?", "comment"],
+ ["which", "Which bus goes to the airport?", "lequel, quel (parmi un choix)"],
+ ["whose", "Whose keys are these?", "à qui"],
+ ["how often", "How often do you cook?", "à quelle fréquence, tous les combien"],
+ ["how far", "How far is your office?", "à quelle distance"]
+],
+"exercices": [
+ {
+  "titre": "1. Le bon mot interrogatif",
+  "consigne": "Complète avec what, where, when, who, why, how ou whose.",
+  "items": [
+   ["___ do you live? — In Lille.", "Where"],
+   ["___ is your birthday? — In May.", "When"],
+   ["___ is that woman? — She's my aunt.", "Who"],
+   ["___ are you sad? — Because my cat is ill.", "Why"],
+   ["___ do you go to work? — By bus.", "How"],
+   ["___ umbrella is this? — It's mine.", "Whose"]
+  ]
+ },
+ {
+  "titre": "2. Remettre dans l’ordre",
+  "consigne": "Remets les mots dans l’ordre pour faire une question.",
+  "items": [
+   ["live / where / you / do", "Where do you live?"],
+   ["does / what time / start / the film", "What time does the film start?"],
+   ["you / are / what / doing", "What are you doing?"],
+   ["from / is / where / he", "Where is he from?"]
+  ]
+ },
+ {
+  "titre": "3. Poser la question",
+  "consigne": "Écris la question qui correspond à la partie en majuscules.",
+  "items": [
+   ["I live IN DOUALA.", "Where do you live?"],
+   ["She's TWENTY-FIVE.", "How old is she?"],
+   ["The film starts AT EIGHT.", "What time does the film start?"],
+   ["It's ANNA'S bag.", "Whose bag is it?"],
+   ["I go to the gym TWICE A WEEK.", "How often do you go to the gym?"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["D’où viens-tu ?", "Where are you from?"],
+   ["Quel âge a ton frère ?", "How old is your brother?"],
+   ["Où travaille-t-elle ?", "Where does she work?"],
+   ["Comment s’appelle ta sœur ?", "What's your sister's name? / What's your sister called?"],
+   ["Qui habite ici ?", "Who lives here?"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Tu rencontres un nouveau collègue. Écris cinq questions différentes avec cinq mots interrogatifs différents.",
+  "items": [
+   ["Exemple de réponse", "What's your name? Where are you from? Where do you live? How do you come to work? What do you do at the weekend?"]
+  ]
+ }
+],
+"a_retenir": [
+ "Ordre : mot interrogatif + auxiliaire + sujet + verbe (QASI) : Where do you live? What are you doing?",
+ "Présent simple : do / does + verbe à la base (Where does she work?).",
+ "How old / how often / how far / how long ; What time / what colour / what kind of ; which = choix limité ; whose = à qui.",
+ "La préposition reste à la fin : Where are you from? Who are you waiting for?",
+ "Intonation descendante à la fin d’une question en Wh-."
+],
+"liens": [4, 6, 30, 67, 68],
+"refs": ["bc-questions", "cam-sentences"]
+}

@@ -1,0 +1,212 @@
+{
+ "n": 64,
+ "niveau": "A2",
+ "titre": "Reflexive pronouns (myself…)",
+ "intro": "Myself, yourself, themselves… show that the subject does something to itself, or they add emphasis. English uses them much less than many other languages: “I get up, I remember, they meet” have no reflexive pronoun. This lesson shows when to use them… and when not to.",
+ "objectifs": [
+  "Know the eight reflexive pronouns and their spelling (-self in the singular, -selves in the plural).",
+  "Use them when the subject and the object are the same person (hurt yourself, enjoy yourselves).",
+  "Use myself for emphasis (I made it myself) and by myself for “alone”.",
+  "Avoid reflexives with verbs like get up, relax, remember, meet, and tell themselves and each other apart."
+ ],
+ "sections": [
+  {
+   "titre": "The forms",
+   "texte": [
+    "In the singular, add -self; in the plural, -selves. Be careful: “yourself” is for one person, “yourselves” for more than one.",
+    "Most forms use the possessive adjective (my, your, our), but him, it and them use the object pronoun: himself, itself, themselves. “Hisself” and “theirselves” are not standard English."
+   ],
+   "tableau": {
+    "entetes": ["Subject", "Reflexive", "Example"],
+    "lignes": [
+     ["I", "myself", "I cut myself."],
+     ["you (one person)", "yourself", "Help yourself!"],
+     ["he", "himself", "He hurt himself."],
+     ["she", "herself", "She taught herself Spanish."],
+     ["it", "itself", "The door closes by itself."],
+     ["we", "ourselves", "We enjoyed ourselves."],
+     ["you (more than one)", "yourselves", "Look after yourselves!"],
+     ["they", "themselves", "They introduced themselves."]
+    ]
+   }
+  },
+  {
+   "titre": "Use 1: the subject does the action to itself",
+   "texte": [
+    "Use a reflexive pronoun when the subject and the object are the same person: She looked at herself in the mirror. Without the reflexive, the meaning changes: She looked at her (another woman).",
+    "Very common expressions: hurt yourself, cut yourself, burn yourself, introduce yourself, enjoy yourself (have a good time), help yourself (take food or drink freely), look after yourself, teach yourself, behave yourself.",
+    "“Enjoy” needs an object: I enjoyed the party or I enjoyed myself, but never “I enjoyed” alone."
+   ],
+   "exemples": [
+    ["Be careful! Don't burn yourself.", "Subject = object."],
+    ["Let me introduce myself: I'm Dr Ekotto.", "A formal introduction."],
+    ["Did you enjoy yourselves at the wedding?", "enjoy + reflexive (plural)."],
+    ["Please help yourself to some cake.", "Take some cake freely."]
+   ]
+  },
+  {
+   "titre": "Use 2: emphasis and by myself (alone)",
+   "texte": [
+    "A reflexive pronoun can also add emphasis: “I did it, not another person”. Put it after the object or just after the subject: I painted the room myself. The manager himself called me.",
+    "“By + reflexive” means “alone, without help or company”: She lives by herself. I did it by myself. Synonyms: on my own, alone."
+   ],
+   "exemples": [
+    ["Did you make this cake yourself? — Yes, I did!", "Emphasis: you, not a shop."],
+    ["My grandmother still lives by herself.", "Alone."],
+    ["The children went to school by themselves.", "Without an adult."]
+   ]
+  },
+  {
+   "titre": "The big trap: no reflexive",
+   "texte": [
+    "Many verbs that are reflexive in other languages are NOT reflexive in English. Adding “myself” is a very common mistake.",
+    "For daily actions (wash, shave, dress), we normally add nothing: I wash and get dressed. The reflexive is possible only to show that it is difficult: The baby can dress himself now."
+   ],
+   "tableau": {
+    "entetes": ["Idea", "English (no reflexive)", "Wrong"],
+    "lignes": [
+     ["leave your bed, stop sleeping", "get up, wake up", "get up myself"],
+     ["put on clothes, wash", "get dressed, have a shower", "dress myself (except for emphasis)"],
+     ["keep in your memory", "remember", "remember myself"],
+     ["rest", "relax, rest", "relax myself"],
+     ["have a feeling", "feel", "feel myself"],
+     ["move fast, take a seat", "hurry (up), sit down", "hurry myself, sit myself"],
+     ["be anxious, say you are unhappy", "worry, complain", "worry myself"],
+     ["marry, see for the first time", "get married, meet", "meet ourselves"],
+     ["give all your attention", "concentrate", "concentrate myself"]
+    ]
+   },
+   "exemples": [
+    ["I usually get up at six and have a shower.", "No reflexive."],
+    ["Relax! Don't worry.", "No reflexive."],
+    ["I don't remember his name.", "No reflexive."]
+   ]
+  },
+  {
+   "titre": "Themselves or each other?",
+   "texte": [
+    "“Themselves” means each person does the action to himself or herself. “Each other” (or “one another”) means the people do the action to the other person: it is reciprocal.",
+    "Compare: They're looking at themselves (each one in the mirror) / They're looking at each other (one looks at the other). We love each other."
+   ],
+   "exemples": [
+    ["Anna and Marc met in 2019. They call each other every day.", "Anna calls Marc and Marc calls Anna."],
+    ["The players were proud of themselves.", "Each player was proud of his or her own work."]
+   ]
+  }
+ ],
+ "formule": "myself · yourself · himself · herself · itself · ourselves · yourselves · themselves · by myself = alone · each other = one another",
+ "prononciation": [
+  "Stress -SELF / -SELVES: mySELF /maɪˈself/, themSELVES /ðəmˈselvz/.",
+  "“-selves” ends in /lvz/: say the v clearly.",
+  "“ourselves” /aʊəˈselvz/ or /ɑːˈselvz/; “yourself” /jɔːˈself/.",
+  "For emphasis (I did it myself), the reflexive pronoun is strongly stressed at the end of the sentence.",
+  "“each other” joins: /iːtʃ ˈʌðə/, with the /ð/ sound of “the”."
+ ],
+ "erreurs": [
+  ["I get up myself at seven.", "I get up at seven.", "“Get up” is not reflexive."],
+  ["I don't remember myself.", "I don't remember.", "“Remember” takes no reflexive."],
+  ["Relax yourself!", "Relax!", "“Relax” takes no reflexive."],
+  ["We enjoyed a lot.", "We enjoyed ourselves a lot. / We had a great time.", "Enjoy needs an object."],
+  ["He hurt hisself.", "He hurt himself.", "The correct form is himself."],
+  ["They love themselves. (meaning: one loves the other)", "They love each other.", "Reciprocal meaning: each other."],
+  ["She lives by her own.", "She lives by herself. / She lives on her own.", "By + reflexive, or on + possessive + own."],
+  ["You can help yourselves. (to one person)", "You can help yourself.", "One person: yourself; more than one: yourselves."]
+ ],
+ "dialogue": {
+  "contexte": "At a birthday party in a garden in Lyon, the host welcomes his guests.",
+  "lignes": [
+   ["Julien", "Welcome, everyone! Help yourselves to drinks and food.", "yourselves: many guests."],
+   ["Amélie", "Thanks, Julien. Wow, did you make all this yourself?", "yourself: emphasis."],
+   ["Julien", "Most of it. My sister made the cake. She taught herself to bake last year.", "taught herself = learnt alone."],
+   ["Amélie", "Impressive! Oh, I don't know these people. Who are they?", "A question."],
+   ["Julien", "Colleagues of mine. Go and introduce yourself, they're very nice.", "introduce yourself."],
+   ["Amélie", "OK. Careful with the barbecue, by the way. Don't burn yourself!", "burn yourself."],
+   ["Julien", "Don't worry. Just relax and enjoy yourself!", "No reflexive with worry and relax; enjoy yourself."],
+   ["Amélie", "I will. Look, the kids are playing by themselves in the garden. So cute!", "by themselves = alone."]
+  ]
+ },
+ "mots": [
+  ["hurt", "Did you hurt yourself?", "cause pain or injury"],
+  ["introduce", "Let me introduce myself.", "tell someone your name for the first time"],
+  ["enjoy yourself", "Enjoy yourselves at the party!", "have a good time"],
+  ["help yourself", "Help yourself to coffee.", "take food or drink without asking"],
+  ["look after", "Look after yourself.", "take care of"],
+  ["by yourself", "Can you do it by yourself?", "alone, without help"],
+  ["each other", "We help each other.", "one person to the other"],
+  ["mirror", "She looked at herself in the mirror.", "a glass in which you can see yourself"],
+  ["proud", "Be proud of yourself!", "happy about something good you did"],
+  ["get dressed", "I get dressed after breakfast.", "put your clothes on"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. The right pronoun",
+   "consigne": "Complete with the reflexive pronoun.",
+   "items": [
+    ["I cut ___ with a knife.", "myself"],
+    ["She bought ___ a new dress.", "herself"],
+    ["We really enjoyed ___ in Kribi.", "ourselves"],
+    ["Children, look after ___!", "yourselves"],
+    ["He lives by ___.", "himself"],
+    ["The light turns off by ___.", "itself"]
+   ]
+  },
+  {
+   "titre": "2. Reflexive or nothing?",
+   "consigne": "Complete with a reflexive pronoun or Ø (nothing).",
+   "items": [
+    ["I get up ___ at seven every day.", "Ø"],
+    ["Be careful! Don't hurt ___.", "yourself"],
+    ["Sit down ___ and relax ___.", "Ø … Ø"],
+    ["Do you remember ___ her name?", "Ø"],
+    ["Let me introduce ___.", "myself"]
+   ]
+  },
+  {
+   "titre": "3. Themselves or each other?",
+   "consigne": "Choose the right form.",
+   "items": [
+    ["Marie and Paul write to (themselves / each other) every week.", "each other"],
+    ["The children dressed (themselves / each other) without help.", "themselves"],
+    ["My brother and I don't see (ourselves / each other) very often.", "each other"],
+    ["The team was proud of (itself / each other).", "itself"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I wake myself up at six.", "I wake up at six."],
+    ["They hurt theirselves.", "They hurt themselves."],
+    ["We enjoyed at the concert.", "We enjoyed ourselves at the concert. / We enjoyed the concert."],
+    ["Don't worry yourself.", "Don't worry."],
+    ["We met ourselves in Brussels.", "We met in Brussels."]
+   ]
+  },
+  {
+   "titre": "5. What do you say?",
+   "consigne": "Write one sentence for each situation.",
+   "items": [
+    ["You tell your guests to take the food freely.", "Help yourselves! / Help yourself!"],
+    ["Nobody helped you to make the cake.", "I did it myself. / I made it myself."],
+    ["Your aunt has no husband or children at home.", "She lives by herself. / She lives alone. / She lives on her own."],
+    ["Tom loves Ana and Ana loves Tom.", "They love each other very much."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write four sentences: something you did yourself, something you do alone, some advice for a friend (look after / enjoy yourself), and a sentence with each other.",
+   "items": [
+    ["Example answer", "I painted my living room myself last summer. I usually go running by myself. Look after yourself and don't work too much! My best friend and I call each other every Sunday."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves.",
+  "Subject = object: hurt yourself, introduce myself, enjoy yourselves, help yourself.",
+  "Emphasis: I did it myself; alone: by myself / on my own.",
+  "No reflexive: get up, wake up, relax, remember, feel, hurry, worry, meet, sit down.",
+  "Reciprocal (one another): each other, not themselves."
+ ],
+ "liens": [10, 14, 63, 72],
+ "refs": ["bc-reflexive", "cam-nouns"]
+}

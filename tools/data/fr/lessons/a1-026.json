@@ -1,0 +1,208 @@
+{
+"n": 26,
+"niveau": "A1",
+"titre": "La nourriture et les repas",
+"intro": "Parler de ce qu’on mange, des repas et de ses goûts est un sujet de conversation universel. Cette leçon donne le vocabulaire essentiel et les pièges des francophones : « have breakfast », les mots indénombrables comme « bread » et les faux amis (raisin, chips).",
+"objectifs": [
+ "Nommer les repas et dire ce qu’on mange avec « have breakfast / lunch / dinner ».",
+ "Connaître les principaux aliments et boissons.",
+ "Compter les aliments indénombrables avec a glass of, a piece of, a cup of…",
+ "Parler de ses goûts et décrire un plat (delicious, spicy, sweet)."
+],
+"sections": [
+ {
+  "titre": "Les repas de la journée",
+  "texte": [
+   "Les trois repas sont « breakfast » (le petit déjeuner), « lunch » (le déjeuner) et « dinner » (le dîner). Un petit en-cas entre les repas, c’est « a snack ».",
+   "Pour dire « prendre un repas », on utilise « have », jamais « take » : « I have breakfast at seven. » On ne met pas d’article devant le nom du repas : « have lunch », pas « have the lunch ».",
+   "Pour dire ce qu’on mange à un repas, on utilise « for » : « What do you have for breakfast? — I have bread and tea. »"
+  ],
+  "exemples": [
+   ["I have breakfast at half past six.", "Je prends le petit déjeuner à six heures et demie."],
+   ["What do you have for lunch? — Usually rice and fish.", "Qu’est-ce que tu manges le midi ? — D’habitude du riz et du poisson."],
+   ["We have dinner with the family on Sundays.", "Nous dînons en famille le dimanche."]
+  ],
+  "note": "En Grande-Bretagne, le repas du soir s’appelle aussi « tea » (dans le nord) ou « supper » (repas léger et tardif). Aux États-Unis, « dinner » est toujours le repas du soir."
+ },
+ {
+  "titre": "Les aliments et les boissons",
+  "texte": [
+   "Voici les mots les plus utiles, classés par famille. Remarquez que beaucoup d’aliments (rice, bread, meat, cheese, water) sont indénombrables : ils n’ont pas de pluriel et ne prennent pas « a »."
+  ],
+  "tableau": {
+   "entetes": ["Famille", "Anglais", "Français"],
+   "lignes": [
+    ["Fruit", "an apple · a banana · an orange · a mango · a pineapple · grapes", "pomme · banane · orange · mangue · ananas · raisin"],
+    ["Vegetables", "a tomato · a potato · an onion · a carrot · beans · salad", "tomate · pomme de terre · oignon · carotte · haricots · salade"],
+    ["Meat and fish", "chicken · beef · pork · fish · eggs", "poulet · bœuf · porc · poisson · œufs"],
+    ["Basics", "bread · rice · pasta · plantain · cassava", "pain · riz · pâtes · banane plantain · manioc"],
+    ["Dairy", "milk · cheese · butter · yoghurt", "lait · fromage · beurre · yaourt"],
+    ["Drinks", "water · tea · coffee · juice · soft drinks", "eau · thé · café · jus · boissons sans alcool"]
+   ]
+  },
+  "exemples": [
+   ["I eat a lot of fruit and vegetables.", "Je mange beaucoup de fruits et de légumes (fruit : souvent singulier)."],
+   ["Do you want chicken or fish?", "Tu veux du poulet ou du poisson ?"]
+  ]
+ },
+ {
+  "titre": "Compter ce qui ne se compte pas",
+  "texte": [
+   "Certains aliments se comptent : an apple, two apples, an egg. D’autres sont indénombrables : bread, rice, water, milk, meat, cheese, sugar. On ne dit pas « a bread » ni « two waters » (sauf au café, où « two coffees » veut dire « deux tasses de café »).",
+   "Pour en parler en général, on utilise le nom seul : « I like bread. » Pour une quantité non précisée, on utilise « some » (leçon 31) : « I'd like some water. »",
+   "Pour compter, on ajoute un mot de quantité ou un récipient : a glass of water, a piece of bread. Les leçons 30 et 31 développent cette différence."
+  ],
+  "tableau": {
+   "entetes": ["Mot de quantité", "Exemples", "Français"],
+   "lignes": [
+    ["a glass of", "a glass of water / milk / juice", "un verre de"],
+    ["a cup of", "a cup of tea / coffee", "une tasse de"],
+    ["a bottle of", "a bottle of water / oil", "une bouteille de"],
+    ["a piece of", "a piece of bread / cake / cheese", "un morceau de"],
+    ["a slice of", "a slice of bread / pizza", "une tranche de"],
+    ["a bowl of", "a bowl of rice / soup", "un bol de"],
+    ["a kilo of", "a kilo of rice / tomatoes", "un kilo de"]
+   ]
+  },
+  "exemples": [
+   ["Can I have a glass of water, please?", "Je peux avoir un verre d’eau, s’il vous plaît ?"],
+   ["I eat two slices of bread for breakfast.", "Je mange deux tranches de pain au petit déjeuner."]
+  ]
+ },
+ {
+  "titre": "Dire ses goûts et décrire un plat",
+  "texte": [
+   "Pour ses goûts : « I like fish », « I don't like coffee », « My favourite food is ndolé ». Pour un régime : « I'm vegetarian » (je ne mange pas de viande), « I don't eat pork ».",
+   "Pour décrire un plat : delicious (délicieux), tasty (savoureux), spicy / hot (épicé, pimenté), sweet (sucré), salty (salé), fresh (frais).",
+   "Attention : « cook » est un verbe (cuisiner) et un nom (un cuisinier). « A cooker » est une cuisinière (l’appareil), pas une personne !"
+  ],
+  "exemples": [
+   ["This soup is delicious!", "Cette soupe est délicieuse !"],
+   ["Be careful, the sauce is very spicy.", "Attention, la sauce est très pimentée."],
+   ["My father is a great cook.", "Mon père est un excellent cuisinier."]
+  ]
+ },
+ {
+  "titre": "Les faux amis de la table",
+  "texte": [
+   "Plusieurs mots ressemblent au français mais ont un autre sens, et certains changent entre l’anglais britannique et américain."
+  ],
+  "tableau": {
+   "entetes": ["Mot anglais", "Sens réel", "Pour dire en anglais…"],
+   "lignes": [
+    ["raisins", "raisins secs", "du raisin = grapes"],
+    ["chips (GB)", "frites", "des chips = crisps (GB), chips (US)"],
+    ["biscuits (GB)", "biscuits secs", "US : cookies"],
+    ["entrée (US)", "plat principal", "une entrée = a starter (GB), an appetizer (US)"],
+    ["marmalade", "confiture d’orange", "de la confiture = jam"],
+    ["dessert /dɪˈzɜːt/", "dessert", "à ne pas confondre avec desert /ˈdezət/ (désert)"]
+   ]
+  }
+ }
+],
+"formule": "have breakfast / lunch / dinner · What do you have for breakfast? · a glass of water, a piece of bread",
+"prononciation": [
+ "« vegetable » se dit en trois syllabes : /ˈvedʒtəbl/ (« vèdj-te-bl »), pas « vé-gé-ta-ble ».",
+ "« breakfast » /ˈbrekfəst/ : « brek-fest », pas « break-fast ».",
+ "Ne confondez pas « chicken » /ˈtʃɪkɪn/ (poulet) et « kitchen » /ˈkɪtʃɪn/ (cuisine) : le son « tch » change de place.",
+ "« dessert » /dɪˈzɜːt/ a l’accent à la fin ; « desert » /ˈdezət/ (désert) a l’accent au début.",
+ "« bread » /bred/ et « fruit » /fruːt/ : une seule voyelle prononcée ; le i de « fruit » est muet."
+],
+"erreurs": [
+ ["I take my breakfast at 7.", "I have breakfast at 7.", "Pour un repas : « have », sans article."],
+ ["Can I have a bread?", "Can I have some bread? / Can I have a piece of bread?", "« Bread » est indénombrable."],
+ ["I eat a rice every day.", "I eat rice every day.", "Pas de « a » devant un indénombrable."],
+ ["I love raisins, especially fresh ones.", "I love grapes.", "Faux ami : raisin frais = grapes ; raisins = raisins secs."],
+ ["My mother is a good cooker.", "My mother is a good cook.", "« Cooker » = la cuisinière (l’appareil)."],
+ ["We have the lunch at noon.", "We have lunch at noon.", "Pas d’article devant breakfast, lunch, dinner."],
+ ["I eat many fruits.", "I eat a lot of fruit.", "En général, « fruit » s’emploie comme un indénombrable."],
+ ["I'd like a cup of tea with a milk.", "I'd like a cup of tea with milk.", "« Milk » est indénombrable : pas de « a »."]
+],
+"dialogue": {
+ "contexte": "À Douala, deux collègues, Brice et Hannah (une Canadienne), choisissent un restaurant pour le déjeuner.",
+ "lignes": [
+  ["Brice", "It's one o'clock. Let's have lunch!", "Il est treize heures. Allons déjeuner !"],
+  ["Hannah", "Good idea. I'm hungry. What do people eat here for lunch?", "Bonne idée. J’ai faim. Qu’est-ce qu’on mange ici le midi ?"],
+  ["Brice", "Try ndolé. It's a dish with leaves, peanuts and meat or fish.", "Goûte le ndolé. C’est un plat avec des feuilles, des arachides et de la viande ou du poisson."],
+  ["Hannah", "Is it spicy?", "C’est épicé ?"],
+  ["Brice", "Not very. And you can have it with plantain or rice.", "Pas trop. Et tu peux le manger avec du plantain ou du riz."],
+  ["Hannah", "Perfect. I love plantain. And to drink?", "Parfait. J’adore le plantain. Et comme boisson ?"],
+  ["Brice", "A bottle of water for me, and a fresh juice for you?", "Une bouteille d’eau pour moi, et un jus frais pour toi ?"],
+  ["Hannah", "Yes, please. Mango juice! This is a delicious lunch.", "Oui, s’il te plaît. Du jus de mangue ! C’est un déjeuner délicieux."]
+ ]
+},
+"mots": [
+ ["breakfast", "I have breakfast at seven.", "le petit déjeuner"],
+ ["lunch", "Let's have lunch together.", "le déjeuner (repas de midi)"],
+ ["dinner", "Dinner is ready!", "le dîner"],
+ ["snack", "I have a snack at four o'clock.", "un en-cas, un goûter"],
+ ["vegetable", "Eat your vegetables!", "un légume"],
+ ["meat", "I don't eat meat.", "la viande"],
+ ["rice", "We have rice with fish.", "le riz"],
+ ["delicious", "This cake is delicious.", "délicieux"],
+ ["spicy", "I love spicy food.", "épicé, pimenté"],
+ ["cook", "My brother is a good cook.", "cuisiner ; un cuisinier, une cuisinière"]
+],
+"exercices": [
+ {
+  "titre": "1. Quel repas ?",
+  "consigne": "Donne le nom du repas.",
+  "items": [
+   ["Le repas du matin", "breakfast"],
+   ["Le repas de midi", "lunch"],
+   ["Le repas du soir", "dinner"],
+   ["Un petit en-cas entre les repas", "a snack"]
+  ]
+ },
+ {
+  "titre": "2. Le bon mot de quantité",
+  "consigne": "Complète avec glass, cup, piece, bowl, bottle ou bar.",
+  "items": [
+   ["a ___ of water (pour boire tout de suite)", "glass"],
+   ["a ___ of tea", "cup"],
+   ["a ___ of bread", "piece (ou slice)"],
+   ["a ___ of rice", "bowl"],
+   ["a ___ of oil", "bottle"],
+   ["a ___ of chocolate", "bar"]
+  ]
+ },
+ {
+  "titre": "3. A, an ou rien ?",
+  "consigne": "Complète avec a, an ou — (rien).",
+  "items": [
+   ["I eat ___ apple every day.", "an"],
+   ["She drinks ___ water with her meals.", "— (rien)"],
+   ["We have ___ rice for lunch.", "— (rien)"],
+   ["Do you want ___ banana?", "a"],
+   ["He has ___ egg for breakfast.", "an"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je prends le petit déjeuner à huit heures.", "I have breakfast at eight o'clock."],
+   ["Je voudrais un verre d’eau, s’il vous plaît.", "I'd like a glass of water, please. / Can I have a glass of water, please?"],
+   ["J’adore le raisin.", "I love grapes."],
+   ["Mon frère est un très bon cuisinier.", "My brother is a very good cook."],
+   ["Qu’est-ce que tu manges le midi ?", "What do you have for lunch?"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Décris tes repas d’une journée normale en quatre ou cinq phrases : ce que tu manges et bois, et à quelle heure. Dis aussi quel est ton plat préféré.",
+  "items": [
+   ["Exemple de réponse", "I have breakfast at seven: two slices of bread with butter and a cup of coffee. For lunch I usually have rice and chicken. At four o'clock I have a snack, often a banana. I have dinner at eight with my family. My favourite food is grilled fish with plantain."]
+  ]
+ }
+],
+"a_retenir": [
+ "have breakfast / lunch / dinner (pas take, pas d’article) ; What do you have for lunch?",
+ "bread, rice, water, milk, meat, cheese : indénombrables, sans « a » ni pluriel.",
+ "Pour compter : a glass of, a cup of, a bottle of, a piece of, a slice of, a bowl of.",
+ "Faux amis : grapes = raisin frais ; chips (GB) = frites ; crisps = chips ; a cook = un cuisinier, a cooker = une cuisinière.",
+ "Pour décrire un plat : delicious, tasty, spicy, sweet, salty, fresh."
+],
+"liens": [6, 30, 31, 34, 79],
+"refs": ["bc-countable", "cam-nouns"]
+}

@@ -1,0 +1,427 @@
+{
+ "n": 229,
+ "niveau": "C1",
+ "titre": "Stylistic inversion",
+ "intro": "“Down came the rain”, “So great was the demand that…”, “Little did she know…”: inverting subject and verb creates a stylistic effect of suspense, emphasis or solemnity. At C1 you need to recognise it in the press and in literature, and use it well in a speech or careful writing.",
+ "objectifs": [
+  "Distinguish inversion with an auxiliary (Never have I…) from inversion of the main verb (In came the doctor).",
+  "Use inversion after a phrase of place or movement, and know the pronoun rule (Here it comes, Here comes the bus).",
+  "Use inversion with so / such (So great was…, Such was…) and after as, than and nor.",
+  "Review inversion after negative and conditional expressions, and use the effect in the right register."
+ ],
+ "sections": [
+  {
+   "titre": "Two types of inversion",
+   "texte": [
+    "English has two very different mechanisms. 1) Inversion with an auxiliary, as in a question: a negative or restrictive element comes first, then auxiliary + subject + verb (“Never have I seen such chaos”). In the present simple and past simple, add do / does / did (“Little did she know”).",
+    "2) Inversion of the whole main verb: after a phrase of place or direction at the front, the verb (often be, come, go, stand, lie, sit) moves before the subject, with no auxiliary (“On the hill stood an old church”). It is limited to intransitive verbs of position or movement.",
+    "In both cases the effect is stylistic: the element at the front is highlighted and the subject is delayed, often to create surprise or introduce something new."
+   ],
+   "tableau": {
+    "entetes": [
+     "Type",
+     "Structure",
+     "Example"
+    ],
+    "lignes": [
+     [
+      "With an auxiliary",
+      "negative / restrictive element + aux. + subject + verb",
+      "Rarely have we faced such a challenge."
+     ],
+     [
+      "Main verb",
+      "place / direction + verb + subject (noun)",
+      "Into the room walked the president."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Inversion after place or direction",
+   "texte": [
+    "Common in stories, descriptions and journalism, it sets the scene first and puts the subject (often new, important or long) at the end, where sentence stress naturally falls.",
+    "Key rule: inversion only happens with a noun subject. With a pronoun, normal order returns: “Here comes the bus” but “Here it comes”; “Off went the children” but “Off they went”."
+   ],
+   "exemples": [
+    [
+     "At the end of the corridor was a small locked door.",
+     "Place first, long subject last: a sense of discovery."
+    ],
+    [
+     "Down came the rain, and everyone ran for cover.",
+     "Direction particle first: lively storytelling."
+    ],
+    [
+     "Here comes the bus! — Here it comes!",
+     "Noun: inversion; pronoun: normal order."
+    ],
+    [
+     "In the centre of the square stands a statue of the city's founder.",
+     "Guidebook description with “stands” in the present."
+    ]
+   ]
+  },
+  {
+   "titre": "So / such + inversion: emphasising intensity",
+   "texte": [
+    "To stress an extreme degree, put “so + adjective” or “such + be” at the front, with inversion, followed by “that” + result. This is very common in speeches, editorials and historical narratives.",
+    "With “such”, the verb is always be, and “such” means “of that kind or degree”: “Such was the noise that…” (= the noise was so great that…)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Neutral",
+     "Emphatic inversion"
+    ],
+    "lignes": [
+     [
+      "The demand was so great that the site crashed.",
+      "So great was the demand that the site crashed."
+     ],
+     [
+      "She was so tired that she fell asleep on the train.",
+      "So tired was she that she fell asleep on the train."
+     ],
+     [
+      "His anger was such that nobody dared to speak.",
+      "Such was his anger that nobody dared to speak."
+     ],
+     [
+      "The film was so successful that a sequel was made.",
+      "So successful was the film that a sequel was made."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Such was the response that the organisers added a second date.",
+     "The response was so big that…"
+    ]
+   ]
+  },
+  {
+   "titre": "After as, than, nor, neither and so",
+   "texte": [
+    "In careful written comparisons, you can invert after “as” and “than” when the subject is a noun: “She was delighted, as was her coach”; “Women live longer than do men” (formal; “than men do” is more common).",
+    "After “nor” and “neither”, inversion is compulsory: “I don't eat meat, nor do I eat fish.” The same happens in “So do I” / “Neither does she” (lesson 70)."
+   ],
+   "exemples": [
+    [
+     "The minister resigned, as did two of her advisers.",
+     "“as did” = and so did; formal inversion."
+    ],
+    [
+     "The report does not explain the delay, nor does it propose a solution.",
+     "“nor” + auxiliary + subject: compulsory."
+    ]
+   ]
+  },
+  {
+   "titre": "Review: negative and conditional inversion",
+   "texte": [
+    "The inversions from B2 use the same auxiliary mechanism: after never, rarely, seldom, little, hardly… when, no sooner… than, not only… but also, only then / only when / only after, not until, under no circumstances, on no account.",
+    "Be careful with “only” and “not until”: the inversion happens in the main clause, not in the time clause: “Only when I got home did I realise” (not “Only when did I get home…”).",
+    "Inverted conditionals (Had I known…, Should you need…, Were it not for…) belong to the same formal register."
+   ],
+   "exemples": [
+    [
+     "Little did they know that the company was about to close.",
+     "“Little did + subject + know” = they had no idea."
+    ],
+    [
+     "Not until the results came out did we understand the scale of the problem.",
+     "Inversion in the main clause (did we understand)."
+    ],
+    [
+     "Were it not for her support, I would have given up.",
+     "= If it weren't for her support… (inverted conditional)."
+    ]
+   ]
+  },
+  {
+   "titre": "Register and how much to use",
+   "texte": [
+    "Inversion is a rhetorical tool: speeches, editorials, narratives, formal letters. In ordinary conversation most forms sound theatrical, except the most common ones: “Here comes…, There goes…, Little did I know…, So do I, Nor do I”.",
+    "One inversion per paragraph is enough to have an effect. Repeated, they make a text sound precious or like a parody."
+   ]
+  }
+ ],
+ "formule": "Negative element / so + adj / such at the front + AUXILIARY + subject + verb · Place / direction at the front + VERB + noun subject (pronoun: normal order)",
+ "prononciation": [
+  "The fronted element is strongly stressed and forms its own group: “NEVer | have I seen…”, “So GREAT | was the demand…”.",
+  "In place inversion, the subject at the end takes the main stress: “Down came the RAIN.”",
+  "The inverted auxiliary is usually unstressed and reduced: “Little did I know” /ˈlɪtl dɪd aɪ ˈnəʊ/.",
+  "“Such was…”: “such” /sʌtʃ/ is stressed, “was” is reduced to /wəz/.",
+  "In speech, pause slightly before the result clause: “So tired was she | that she fell asleep.”"
+ ],
+ "erreurs": [
+  [
+   "Here comes he!",
+   "Here he comes!",
+   "No inversion with a pronoun subject after here / there / off / down…"
+  ],
+  [
+   "So tired I was that I fell asleep.",
+   "So tired was I that I fell asleep.",
+   "After “so + adjective” at the front, you must invert."
+  ],
+  [
+   "Such his anger was that…",
+   "Such was his anger that…",
+   "“Such” at the front + was + subject."
+  ],
+  [
+   "Never I have seen such a mess.",
+   "Never have I seen such a mess.",
+   "Invert the auxiliary after fronted “never”."
+  ],
+  [
+   "Little I knew that…",
+   "Little did I know that…",
+   "In the past simple you need the auxiliary did."
+  ],
+  [
+   "Only when did I arrive I understood.",
+   "Only when I arrived did I understand.",
+   "The inversion is in the main clause, not the time clause."
+  ],
+  [
+   "Into the room the doctor walked quickly in.",
+   "Into the room walked the doctor.",
+   "Place inversion: verb + subject, without repeating the particle."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "In Brussels, a journalist rehearses the script of a TV report on a large demonstration with a colleague.",
+  "lignes": [
+   [
+    "Inès",
+    "Listen to my opening: “Down the Rue de la Loi marched forty thousand farmers.”",
+    "Place inversion with a long subject."
+   ],
+   [
+    "Kofi",
+    "Nice. The inversion keeps the big number for the end.",
+    "End position = emphasis."
+   ],
+   [
+    "Inès",
+    "Then: “So great was the crowd that the metro had to close two stations.”",
+    "So + adjective inversion."
+   ],
+   [
+    "Kofi",
+    "Good, but don't add another one straight after. It'll sound like a novel.",
+    "Advice on how much to use."
+   ],
+   [
+    "Inès",
+    "Fair point. For the interview I'll just say: “The minister refused to comment, as did the union leaders.”",
+    "Inversion after “as”."
+   ],
+   [
+    "Kofi",
+    "That works. And the ending?",
+    "Asking for the conclusion."
+   ],
+   [
+    "Inès",
+    "“Little did the organisers expect such a turnout.”",
+    "Negative inversion with “little”."
+   ],
+   [
+    "Kofi",
+    "Perfect. Three inversions in two minutes: dramatic, but not too much.",
+    "The right dose."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "seldom",
+   "Seldom has a film caused such debate.",
+   "rarely (formal)"
+  ],
+  [
+   "turnout",
+   "The turnout was higher than expected.",
+   "the number of people who attend or vote"
+  ],
+  [
+   "scarcely",
+   "Scarcely had we arrived when the alarm went off.",
+   "only just; almost not"
+  ],
+  [
+   "dramatic",
+   "The ending is very dramatic.",
+   "exciting and impressive, like theatre"
+  ],
+  [
+   "emphasis",
+   "Inversion adds emphasis to the first element.",
+   "special importance given to something"
+  ],
+  [
+   "rhetorical",
+   "It's a rhetorical device used in speeches.",
+   "used for effect in speaking or writing"
+  ],
+  [
+   "vivid",
+   "The story gives a vivid description of the storm.",
+   "very clear and lively"
+  ],
+  [
+   "suspense",
+   "The inversion creates suspense.",
+   "excitement while waiting to know what happens"
+  ],
+  [
+   "no sooner",
+   "No sooner had she left than it started to rain.",
+   "immediately after"
+  ],
+  [
+   "on no account",
+   "On no account should you open this door.",
+   "never, for any reason"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Which type of inversion?",
+   "consigne": "Say whether it is inversion with an auxiliary or inversion of the main verb.",
+   "items": [
+    [
+     "Rarely do we see such talent.",
+     "with an auxiliary"
+    ],
+    [
+     "On the table lay a pile of letters.",
+     "main verb"
+    ],
+    [
+     "So loud was the music that I left.",
+     "with an auxiliary (be)"
+    ],
+    [
+     "Out ran the children.",
+     "main verb"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Place inversion",
+   "consigne": "Rewrite with the words in brackets at the front, inverting if possible.",
+   "items": [
+    [
+     "The bus comes [here].",
+     "Here comes the bus."
+    ],
+    [
+     "It comes [here].",
+     "Here it comes. (pronoun: no inversion)"
+    ],
+    [
+     "An old mill stood [at the top of the hill].",
+     "At the top of the hill stood an old mill."
+    ],
+    [
+     "The rain came [down].",
+     "Down came the rain."
+    ]
+   ]
+  },
+  {
+   "titre": "3. So / such",
+   "consigne": "Rewrite starting with “So …” or “Such …”.",
+   "items": [
+    [
+     "The demand was so high that prices doubled.",
+     "So high was the demand that prices doubled."
+    ],
+    [
+     "Her success was such that she opened a second shop.",
+     "Such was her success that she opened a second shop."
+    ],
+    [
+     "He was so nervous that he forgot his speech.",
+     "So nervous was he that he forgot his speech."
+    ],
+    [
+     "The storm was so violent that the bridge collapsed.",
+     "So violent was the storm that the bridge collapsed."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    [
+     "Here comes she!",
+     "Here she comes!"
+    ],
+    [
+     "Little I knew what was coming.",
+     "Little did I know what was coming."
+    ],
+    [
+     "Only after did I read the contract I signed it.",
+     "Only after I had read the contract did I sign it."
+    ],
+    [
+     "The CEO resigned, as did resign the CFO.",
+     "The CEO resigned, as did the CFO."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Rewrite with inversion",
+   "consigne": "Rewrite each sentence using inversion and the word in brackets.",
+   "items": [
+    [
+     "I had never seen such a crowd. (Never)",
+     "Never had I seen such a crowd."
+    ],
+    [
+     "He doesn't like coffee, and he doesn't drink tea either. (nor)",
+     "He doesn't like coffee, nor does he drink tea."
+    ],
+    [
+     "A small hut was at the bottom of the garden. (At the bottom…)",
+     "At the bottom of the garden was / stood a small hut."
+    ]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write the beginning of a story or a speech (4 sentences) with two inversions of different types.",
+   "items": [
+    [
+     "Example answer",
+     "It was the coldest night of the year. At the door of the old station stood a small girl with a suitcase. Nobody knew where she had come from, and so quiet was she that the guard almost missed her. Little did he know that she would change his life."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Two mechanisms: auxiliary + subject after a negative element, so / such, nor (Never have I…, So great was…); verb + subject after place or direction (Down came the rain).",
+  "Place inversion only with a noun subject; with a pronoun, normal order (Here it comes).",
+  "With only / not until, invert in the main clause: Only when I arrived did I understand.",
+  "A rhetorical effect for speeches, stories and editorials: one well-placed inversion is better than three."
+ ],
+ "liens": [
+  157,
+  160,
+  70,
+  230,
+  231
+ ],
+ "refs": [
+  "bc-inversion-neg",
+  "bc-emphasis",
+  "bc-inversion-cond"
+ ]
+}

@@ -1,0 +1,192 @@
+{
+"n": 50,
+"niveau": "A2",
+"titre": "Le présent continu pour un rendez-vous futur",
+"intro": "En anglais, le présent continu (I'm meeting, she's flying) sert aussi à parler d'un futur déjà organisé : un rendez-vous, une réservation, un événement fixé avec une date. C'est la forme la plus naturelle pour parler de son agenda.",
+"objectifs": [
+"Utiliser le présent continu avec un repère de temps futur pour un arrangement fixé.",
+"Distinguer arrangement (présent continu), intention (going to) et décision immédiate (will).",
+"Utiliser le présent simple pour les horaires et les programmes officiels.",
+"Poser et répondre à la question « What are you doing tonight / this weekend? »."
+],
+"sections": [
+{
+"titre": "La forme : rien de nouveau",
+"texte": [
+"La forme est celle du présent continu (leçon 8) : am / is / are + verbe en -ing. Ce qui change, c'est le sens : avec un repère de temps futur, la phrase parle de l'avenir.",
+"Sans repère de temps, « I'm meeting Paul » peut vouloir dire « maintenant ». Avec « tomorrow », « at six », « on Friday », « next week », le sens futur est clair."
+],
+"tableau": {
+"entetes": ["Forme", "Exemple", "Traduction"],
+"lignes": [
+["affirmative", "I'm seeing the dentist on Tuesday.", "J'ai rendez-vous chez le dentiste mardi."],
+["négative", "We aren't working next Monday.", "Nous ne travaillons pas lundi prochain."],
+["question", "Are you coming to the party on Saturday?", "Tu viens à la fête samedi ?"],
+["question en Wh-", "What time is she arriving?", "À quelle heure arrive-t-elle ?"],
+["réponse courte", "Yes, I am. / No, I'm not.", "Oui. / Non."]
+]
+}
+},
+{
+"titre": "Quand l'utiliser : le test de l'agenda",
+"texte": [
+"On utilise le présent continu pour un futur arrangé avec d'autres personnes ou déjà réservé : on pourrait l'écrire dans son agenda. Il y a souvent une heure, une date, un lieu, un billet, une réservation.",
+"C'est très proche du français, qui dit aussi « Je pars demain », « Je dîne chez Paul ce soir » au présent."
+],
+"exemples": [
+["I'm having lunch with my boss tomorrow.", "Je déjeune avec mon patron demain (c'est prévu)."],
+["They're getting married in June.", "Ils se marient en juin."],
+["We're flying to Montreal on the 12th.", "Nous prenons l'avion pour Montréal le 12 (billets achetés)."],
+["What are you doing this weekend?", "Qu'est-ce que tu fais ce week-end ? (question très courante)"]
+]
+},
+{
+"titre": "Présent continu, going to ou will ?",
+"texte": [
+"Les trois formes parlent du futur, mais avec un point de vue différent. Souvent, présent continu et going to sont tous les deux possibles pour un projet : le présent continu insiste sur l'organisation, going to sur l'intention.",
+"Le présent continu ne s'utilise pas pour les prédictions ni pour les événements qu'on ne contrôle pas : on ne dit pas « It's raining tomorrow » mais « It's going to rain / It will rain tomorrow »."
+],
+"tableau": {
+"entetes": ["Forme", "Sens", "Exemple"],
+"lignes": [
+["présent continu", "arrangement fixé (agenda)", "I'm meeting Awa at the station at 5."],
+["be going to", "intention, décision prise", "I'm going to ask her about the job."],
+["will", "décision sur le moment, offre, opinion", "I'll call her now. / I think she'll say yes."],
+["présent simple", "horaire, programme officiel", "Her train arrives at 4:55."]
+]
+}
+},
+{
+"titre": "Le présent simple pour les horaires",
+"texte": [
+"Pour un horaire public ou un programme fixe (transports, cours, films, magasins, événements officiels), on utilise le présent simple, même pour le futur. On ne contrôle pas ces horaires : ils sont fixés par une organisation.",
+"Comparer : « The film starts at 8 » (horaire du cinéma) et « We're seeing a film tonight » (notre projet organisé)."
+],
+"exemples": [
+["The train to Antwerp leaves at 7:15 tomorrow.", "Le train pour Anvers part à 7 h 15 demain (horaire)."],
+["My English class starts next Monday.", "Mon cours d'anglais commence lundi prochain."],
+["What time does the museum open on Sunday?", "À quelle heure le musée ouvre-t-il dimanche ?"]
+]
+},
+{
+"titre": "Expressions et cas particuliers",
+"texte": [
+"Avec go et come, on préfère « I'm going to Dakar next week » à « I'm going to go to Dakar ». « I'm coming » signifie aussi « j'arrive » quand on répond à quelqu'un qui nous appelle.",
+"Les verbes d'état (be, have au sens de posséder, know, like…) ne se mettent pas au présent continu, même pour le futur : on dit « I'll be at home tomorrow » ou « I'm going to be at home », pas « I'm being at home »."
+],
+"exemples": [
+["I'm going to the dentist after work.", "Je vais chez le dentiste après le travail."],
+["Are you coming with us? — Yes, I'm coming!", "Tu viens avec nous ? — Oui, j'arrive !"]
+]
+}
+],
+"formule": "am / is / are + verbe-ing + repère de temps futur (tomorrow, on Friday, at 6, next week)",
+"prononciation": [
+"Les contractions sont naturelles : I'm /aɪm/, she's /ʃiːz/, we're /wɪə/ (GB), they're /ðeə/ (GB).",
+"Dans la question « What are you doing tonight? », « are you » se réduit souvent en /ə jə/ : /ˈwɒt ə jə ˈduːɪŋ təˈnaɪt/.",
+"L'accent tombe sur le verbe et sur le repère de temps : I'm MEETing her on FRIday.",
+"« tomorrow » se prononce /təˈmɒrəʊ/ : accent sur la 2e syllabe, le premier o est faible."
+],
+"erreurs": [
+["I meet my friend tonight.", "I'm meeting my friend tonight.", "Pour un rendez-vous personnel prévu, on utilise le présent continu."],
+["What do you do this weekend?", "What are you doing this weekend?", "« What do you do? » demande le métier ; pour l'agenda : What are you doing…?"],
+["It's raining tomorrow.", "It's going to rain tomorrow. / It will rain tomorrow.", "Pas de présent continu pour une prédiction."],
+["The train is leaving at 7 tomorrow.", "The train leaves at 7 tomorrow.", "Horaire officiel : présent simple (le présent continu est possible mais moins courant)."],
+["I'm being in Paris next week.", "I'll be in Paris next week.", "« be » ne se met pas au présent continu ici."],
+["I'm going to go to Brussels tomorrow.", "I'm going to Brussels tomorrow.", "Plus naturel avec go : présent continu."],
+["She's come to dinner on Friday.", "She's coming to dinner on Friday.", "Il faut la forme -ing (she's = she is)."]
+],
+"dialogue": {
+"contexte": "Au téléphone, Moussa essaie de fixer un rendez-vous avec son ami Pierre à Ottawa.",
+"lignes": [
+["Moussa", "Hi Pierre! What are you doing on Friday evening?", "Salut Pierre ! Qu'est-ce que tu fais vendredi soir ?"],
+["Pierre", "I'm playing basketball with my colleagues at seven. Why?", "Je joue au basket avec mes collègues à sept heures. Pourquoi ?"],
+["Moussa", "My sister is arriving from Dakar and we're having a small dinner.", "Ma sœur arrive de Dakar et on fait un petit dîner."],
+["Pierre", "Oh, nice! What time does her plane land?", "Oh, sympa ! À quelle heure atterrit son avion ?"],
+["Moussa", "It lands at 5:40. I'm picking her up at the airport.", "Il atterrit à 17 h 40. Je vais la chercher à l'aéroport."],
+["Pierre", "And Saturday? Are you doing anything?", "Et samedi ? Vous faites quelque chose ?"],
+["Moussa", "No, we aren't doing anything yet.", "Non, on n'a encore rien de prévu."],
+["Pierre", "Then come to my place. I'm cooking jollof rice!", "Alors venez chez moi. Je fais du riz jollof !"]
+]
+},
+"mots": [
+["appointment", "I have a dentist appointment at 3.", "un rendez-vous (médecin, administration)"],
+["arrangement", "We made an arrangement to meet.", "un arrangement, une disposition"],
+["book", "I've booked a table for four.", "réserver"],
+["pick up", "I'm picking you up at 8.", "aller chercher quelqu'un"],
+["land", "The plane lands at noon.", "atterrir"],
+["get married", "They're getting married in May.", "se marier"],
+["diary", "Let me check my diary.", "un agenda (US : calendar)"],
+["free", "Are you free on Thursday?", "libre, disponible"],
+["busy", "I'm busy all next week.", "occupé, pris"],
+["schedule", "What's your schedule for tomorrow?", "l'emploi du temps, le programme"]
+],
+"exercices": [
+{
+"titre": "1. Arrangement ou maintenant ?",
+"consigne": "Indique si la phrase parle du futur (arrangement) ou du moment présent.",
+"items": [
+["I'm meeting Sarah tomorrow.", "futur (arrangement)"],
+["Shh! I'm watching the news.", "maintenant"],
+["We're visiting my grandparents next weekend.", "futur (arrangement)"],
+["She's cooking dinner — it smells good.", "maintenant"]
+]
+},
+{
+"titre": "2. Compléter l'agenda",
+"consigne": "Mets le verbe au présent continu pour parler de ces rendez-vous.",
+"items": [
+["On Monday I ___ (see) the doctor.", "'m seeing"],
+["On Tuesday we ___ (have) a meeting with the clients.", "'re having"],
+["___ you ___ (come) to the concert on Friday?", "Are … coming"],
+["My parents ___ (not / travel) this summer.", "aren't travelling (US : aren't traveling)"],
+["What time ___ Paul ___ (arrive) tomorrow?", "is … arriving"]
+]
+},
+{
+"titre": "3. Présent continu ou présent simple ?",
+"consigne": "Choisis la forme correcte.",
+"items": [
+["The bus (leaves / is leaving) at 6:30 every morning.", "leaves"],
+["I (have / am having) dinner with Léa tonight.", "am having"],
+["The film (starts / is starting) at 9 p.m.", "starts"],
+["We (fly / are flying) to Lomé on Saturday — we bought the tickets.", "are flying"]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["What do you do tonight?", "What are you doing tonight?"],
+["It's snowing tomorrow.", "It's going to snow tomorrow. / It will snow tomorrow."],
+["I play tennis with Max on Sunday at ten.", "I'm playing tennis with Max on Sunday at ten."],
+["We're meet the manager at 4.", "We're meeting the manager at 4."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais avec la forme la plus naturelle.",
+"items": [
+["Je dîne chez mes parents ce soir.", "I'm having dinner at my parents' (house) tonight."],
+["Le magasin ouvre à 9 h demain.", "The shop opens at 9 a.m. tomorrow."],
+["Tu fais quelque chose samedi ?", "Are you doing anything on Saturday?"]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Décris ton agenda de la semaine prochaine en cinq phrases (au moins quatre rendez-vous au présent continu et un horaire au présent simple).",
+"items": [
+["Exemple de réponse", "Next week is busy. On Monday I'm meeting my new manager at 9. On Wednesday evening I'm playing football with my friends. On Thursday my cousin is arriving from Lyon; her train gets in at 6:20. On Saturday we're having a barbecue in the garden."]
+]
+}
+],
+"a_retenir": [
+"Présent continu + repère futur = arrangement fixé (on pourrait l'écrire dans l'agenda).",
+"What are you doing tonight? = Qu'est-ce que tu fais ce soir ?",
+"Horaires officiels (trains, films, cours) : présent simple (The train leaves at 7).",
+"Pas de présent continu pour une prédiction (It's going to rain, pas It's raining tomorrow).",
+"Going to = intention ; will = décision immédiate ou opinion."
+],
+"liens": [6, 8, 45, 49],
+"refs": ["bc-future-forms", "cam-verbs"]
+}

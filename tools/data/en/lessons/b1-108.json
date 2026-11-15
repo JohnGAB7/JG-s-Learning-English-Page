@@ -1,0 +1,187 @@
+{
+ "n": 108,
+ "niveau": "B1",
+ "titre": "Be able to and other forms of can",
+ "intro": "Can only exists in the present (can) and in a past form (could). To talk about ability in the future, in the present perfect, after another modal or after to, we use be able to. You also need to know the difference between could (general past ability) and was able to (succeeding on one occasion).",
+ "objectifs": [
+  "Use be able to in all the forms where can is impossible (will be able to, have been able to, to be able to).",
+  "Tell the difference between could (general ability in the past) and was able to / managed to (succeeding in one specific situation).",
+  "Use couldn't and wasn't able to in the negative, which are almost always interchangeable.",
+  "Express ability with verbs of perception and the mind (can see, could hear, can remember)."
+ ],
+ "sections": [
+  {
+   "titre": "Can, could and be able to in the present",
+   "texte": [
+    "Can is a modal: it doesn't change, it is followed by the base verb without to, and it has no infinitive or participle. In the present, can is the normal form for ability: “I can swim.”",
+    "Be able to has the same meaning, but it changes with the subject and tense (I am able to, she is able to). In the present, it is more formal or stresses difficulty: “After the operation, he is able to walk again.”"
+   ],
+   "tableau": {
+    "entetes": ["", "can / could", "be able to"],
+    "lignes": [
+     ["Present", "I can speak Ewondo.", "I'm able to speak Ewondo. (more formal)"],
+     ["Past", "I could swim when I was five.", "I was able to swim when I was five."],
+     ["Future", "—", "I'll be able to help you tomorrow."],
+     ["Present perfect", "—", "I haven't been able to sleep."],
+     ["After to / a modal", "—", "I want to be able to cook. / You might be able to come."]
+    ]
+   }
+  },
+  {
+   "titre": "Where can is impossible",
+   "texte": [
+    "Can has no future, no present perfect, no infinitive and no -ing form. So we use be able to: will be able to (future), have been able to (present perfect), to be able to (after want, hope, would like…), being able to (after a preposition or as a subject).",
+    "Two modals can't go together: “You will can” and “I might can” are wrong. Say “You will be able to”, “I might be able to”."
+   ],
+   "exemples": [
+    ["When I finish this course, I'll be able to understand films in English.", "Future: will be able to."],
+    ["I haven't been able to call you because my phone was broken.", "Present perfect."],
+    ["I'd like to be able to play the guitar.", "After would like to."],
+    ["Being able to speak two languages is a big advantage.", "-ing form as the subject."]
+   ]
+  },
+  {
+   "titre": "Could or was able to in the past?",
+   "texte": [
+    "Could expresses a general ability in the past, a skill you had over a period: “When I was young, I could run very fast.”",
+    "For a specific success at one moment, often despite a difficulty, we don't use could in the affirmative: we say was / were able to or managed to. “The fire was big, but everyone was able to escape” (not “could escape”).",
+    "In the negative, couldn't and wasn't able to are both possible in all cases: “I couldn't / wasn't able to find my keys.”",
+    "Exception: with verbs of perception (see, hear, smell, taste, feel) and the mind (understand, remember), could is also used for a specific moment: “I could see the sea from my window.”"
+   ],
+   "tableau": {
+    "entetes": ["Situation", "Form", "Example"],
+    "lignes": [
+     ["general past ability", "could / was able to", "My grandfather could speak three languages."],
+     ["specific success", "was able to / managed to", "The road was closed, but we managed to find another way."],
+     ["failure (negative)", "couldn't / wasn't able to", "I couldn't open the door."],
+     ["perception at a specific moment", "could", "We could hear music from the street."]
+    ]
+   },
+   "exemples": [
+    ["After three hours, the firefighters were able to put out the fire.", "Specific success: were able to."],
+    ["Despite the traffic, she managed to arrive on time.", "Managed to: success despite a difficulty."]
+   ]
+  },
+  {
+   "titre": "Other meanings of could",
+   "texte": [
+    "Could has other uses you have already seen: polite requests (Could you help me? — lesson 57), possibility or deduction (It could be true — lesson 106), suggestions (We could go to the cinema) and conditionals (If I had time, I could help — lesson 96).",
+    "For a past ability that wasn't used, we say could have + participle: “You could have told me!” This is developed at B2."
+   ],
+   "exemples": [
+    ["We could go to Kribi this weekend.", "A suggestion, not ability."],
+    ["You could have called me!", "Criticism: an ability that wasn't used."]
+   ]
+  }
+ ],
+ "formule": "can / could (present, past) · will be able to · have been able to · to be able to · was able to / managed to = specific success",
+ "prononciation": [
+  "can is weak in affirmatives /kən/: “I can swim” /aɪ kən ˈswɪm/. can't is strong /kɑːnt/. You hear the difference mainly in the vowel and the stress.",
+  "could /kʊd/: the l is silent; couldn't /ˈkʊdnt/.",
+  "able /ˈeɪbl/: two syllables, the second is a syllabic l. “be able to” /bi ˈeɪbl tə/.",
+  "managed /ˈmænɪdʒd/: stress on the first syllable, ending /dʒd/."
+ ],
+ "erreurs": [
+  ["I will can help you tomorrow.", "I will be able to help you tomorrow.", "Can has no future: will be able to."],
+  ["I haven't could sleep.", "I haven't been able to sleep.", "Can has no present perfect."],
+  ["I want to can drive.", "I want to be able to drive.", "Can has no infinitive: to be able to."],
+  ["The exam was hard, but I could pass it.", "The exam was hard, but I was able to (managed to) pass it.", "Specific success: was able to / managed to."],
+  ["She can to speak Spanish.", "She can speak Spanish.", "No to after can."],
+  ["I managed to found the hotel.", "I managed to find the hotel.", "After to, use the base verb."],
+  ["You might can come.", "You might be able to come.", "Two modals can't go together."]
+ ],
+ "dialogue": {
+  "contexte": "A gym in Liège. Kofi, from Accra, talks to his coach, Valérie, after a knee injury.",
+  "lignes": [
+   ["Valérie", "How's your knee? Can you walk normally now?", "Can: present ability."],
+   ["Kofi", "Yes, I can, but I haven't been able to run for six weeks.", "Present perfect: been able to."],
+   ["Valérie", "That's normal. Before the injury, how far could you run?", "Could: general past ability."],
+   ["Kofi", "I could run twenty kilometres easily. Last year I was able to finish the Brussels half marathon in under two hours.", "General ability, then a specific success."],
+   ["Valérie", "Impressive! Don't worry. If you do your exercises, you'll be able to run again next month.", "Future: will be able to."],
+   ["Kofi", "I hope so. I'd love to be able to run the race again in May.", "After would love to."],
+   ["Valérie", "You might be able to, but we'll see. Yesterday you managed to do all the exercises without pain, right?", "Might be able to; managed to."],
+   ["Kofi", "Yes. I couldn't believe it!", "Could with a verb of the mind."]
+  ]
+ },
+ "mots": [
+  ["ability", "She has the ability to explain things clearly.", "the power or skill to do something"],
+  ["manage to", "We managed to catch the last train.", "to succeed in doing something difficult"],
+  ["succeed in", "He succeeded in passing the exam.", "to do what you tried to do (+ -ing)"],
+  ["skill", "Cooking is a useful skill.", "an ability that you learn and practise"],
+  ["fluent", "After two years, she was able to speak fluent English.", "able to speak a language easily and well"],
+  ["escape", "Everyone was able to escape from the building.", "to get away from a dangerous place"],
+  ["injury", "After my injury, I couldn't play for months.", "damage to the body, e.g. in an accident"],
+  ["recover", "He was able to recover quickly.", "to become healthy again"],
+  ["impossible", "It was impossible to sleep with that noise.", "that cannot happen or be done"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Can, could or be able to?",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["I'm sorry, I (can't / won't be able to) come to your party next Saturday.", "won't be able to"],
+    ["When she was three, she (could / can) already read.", "could"],
+    ["I've (could / been able to) save some money this year.", "been able to"],
+    ["I'd like to (can / be able to) speak Chinese.", "be able to"],
+    ["(Can / Are able) you hear me?", "Can"]
+   ]
+  },
+  {
+   "titre": "2. Complete with be able to",
+   "consigne": "Complete with the correct form of be able to.",
+   "items": [
+    ["If it stops raining, we ___ go to the beach tomorrow.", "will be able to ('ll be able to)"],
+    ["Sorry, I ___ answer your emails this week. I've been ill.", "haven't been able to"],
+    ["I love ___ work from home.", "being able to"],
+    ["You might ___ get a cheaper ticket online.", "be able to"]
+   ]
+  },
+  {
+   "titre": "3. Could or was / were able to?",
+   "consigne": "Choose could or was / were able to. Sometimes both are possible.",
+   "items": [
+    ["My grandmother ___ make beautiful dresses. (general skill)", "could (or was able to)"],
+    ["The bus broke down, but we ___ get a taxi.", "were able to"],
+    ["I ___ find my passport anywhere. (negative)", "couldn't (or wasn't able to)"],
+    ["From the hotel we ___ see the mountains.", "could"],
+    ["After many hours, the rescuers ___ reach the village.", "were able to"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["Next year I will can drive.", "Next year I will be able to drive."],
+    ["I hope to can visit you soon.", "I hope to be able to visit you soon."],
+    ["The test was difficult, but I could finish it in time.", "The test was difficult, but I was able to (managed to) finish it in time."],
+    ["He hasn't can find a job yet.", "He hasn't been able to find a job yet."]
+   ]
+  },
+  {
+   "titre": "5. Rewrite the sentences",
+   "consigne": "Rewrite each sentence with the words in brackets.",
+   "items": [
+    ["Tomorrow it will be possible for me to help you. (able)", "I'll be able to help you tomorrow."],
+    ["This week I've tried to sleep, but it was impossible. (been able)", "I haven't been able to sleep this week."],
+    ["It snowed, but in the end we arrived on time. (managed)", "Despite the snow, we managed to arrive on time."],
+    ["As a child, I had the ability to swim. (could)", "When I was a child, I could swim."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write 5 sentences about your abilities: something you can do now, something you could do as a child, a specific success (managed to / was able to), something you haven't been able to do recently, and something you will be able to do in the future.",
+   "items": [
+    ["Example answer", "I can cook most Cameroonian dishes. When I was a child, I could climb trees very fast. Last month I managed to run ten kilometres without stopping. I haven't been able to read much recently because of work. After this course, I'll be able to write professional emails in English."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Can = present; could = past (general ability).",
+  "Future, present perfect, infinitive, -ing: be able to (will be able to, have been able to, to be able to, being able to).",
+  "Specific success in the past: was able to / managed to, not could.",
+  "Past negative: couldn't = wasn't able to.",
+  "Never two modals together: might be able to, not might can."
+ ],
+ "liens": [28, 57, 106, 107],
+ "refs": ["bc-past-ability"]
+}

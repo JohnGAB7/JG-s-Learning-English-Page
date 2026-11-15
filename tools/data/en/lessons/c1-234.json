@@ -1,0 +1,203 @@
+{
+ "n": 234,
+ "niveau": "C1",
+ "titre": "Tense and aspect: fine nuances",
+ "intro": "At C1 you know the tenses; now the task is to choose between two correct forms according to the nuance you want: irritation (He's always interrupting), politeness (I was wondering…), a visible result (You've been crying), neutrality (Will you be using the car?). This is where your English becomes truly precise.",
+ "objectifs": [
+  "Understand the logic of aspect: simple (fact, whole, permanent), continuous (in progress, temporary, coloured), perfect (link to a later point).",
+  "Use continuous forms for irritation, temporary situations, change and politeness.",
+  "Choose precisely between present perfect simple and continuous, past simple and present perfect, past perfect simple and continuous.",
+  "Use the narrative present and nuanced futures (will be + -ing, future perfect)."
+ ],
+ "sections": [
+  {
+   "titre": "Tense and aspect: the logic",
+   "texte": [
+    "Tense places an action in time (present, past); aspect shows how we look at it. Simple aspect presents the action as a complete or permanent fact. Continuous aspect presents it from the inside: in progress, limited in time, unfinished, often with emotional colouring. Perfect aspect links the action to a later reference point (now, a past moment, a future moment).",
+    "So two correct sentences can say different things: “I live in Lille” (my home) / “I'm living in Lille” (for now); “I've read your report” (finished) / “I've been reading your report” (I've spent time on it, maybe not finished)."
+   ],
+   "tableau": {
+    "entetes": ["Aspect", "View of the action", "Example"],
+    "lignes": [
+     ["Simple", "whole fact, permanent, complete", "She works for a bank."],
+     ["Continuous", "in progress, temporary, unfinished, emotion", "She's working from home this month."],
+     ["Perfect", "link to a later point", "She has worked there since 2020."],
+     ["Perfect continuous", "duration or activity leading up to a point", "She's been working all night; she's exhausted."]
+    ]
+   }
+  },
+  {
+   "titre": "Continuous forms: irritation, temporary situations, change",
+   "texte": [
+    "With “always”, “constantly” or “forever”, the present or past continuous expresses an annoying (or, more rarely, surprising) habit: “He's always leaving his dishes in the sink.” The present simple “He always leaves…” would be a neutral statement.",
+    "The continuous also marks a temporary situation (“I'm staying with friends until I find a flat”) and a change in progress (“Prices are rising”, “The climate is getting warmer”).",
+    "Some state verbs take the continuous when their meaning changes or becomes active: “I think it's true” (opinion) / “I'm thinking about it” (considering); “She's difficult” (character) / “She's being difficult” (behaviour right now)."
+   ],
+   "exemples": [
+    ["She's always complaining about her colleagues.", "Irritation: present continuous + always."],
+    ["You're being very quiet today. Is anything wrong?", "Continuous “be”: unusual behaviour at the moment."],
+    ["More and more people are working remotely.", "A change in progress."]
+   ]
+  },
+  {
+   "titre": "The past for politeness and distance",
+   "texte": [
+    "In English, the past (especially the past continuous) creates polite distance, even when you talk about the present: “I was wondering if you could help me” is more tactful than “I wonder if…”, which is softer than “Can you help me?”.",
+    "The same logic applies to “I was hoping…”, “I wanted to ask…”, “Did you want something?” (a shop assistant), “I'd been meaning to call you” (I had intended to call you for a while)."
+   ],
+   "tableau": {
+    "entetes": ["Direct", "More polite (distance)"],
+    "lignes": [
+     ["Can you lend me your notes?", "I was wondering if you could lend me your notes."],
+     ["I hope you can come.", "I was hoping you could come."],
+     ["Do you want anything else?", "Did you want anything else?"],
+     ["I want to ask you something.", "I wanted to ask you something."]
+    ]
+   },
+   "exemples": [
+    ["I was hoping we could discuss my contract.", "A tactful request to a manager."]
+   ]
+  },
+  {
+   "titre": "Present perfect: simple, continuous or past simple?",
+   "texte": [
+    "Present perfect simple: result, quantity, finished action (“I've written three emails”). Present perfect continuous: activity, duration, visible result of an activity, possibly unfinished (“I've been writing emails all morning”, “Your eyes are red — have you been crying?”).",
+    "News is announced with the present perfect, then details move to the past simple: “The minister has resigned. She announced her decision at 10 a.m.”",
+    "American English often uses the past simple with just, already and yet (“Did you eat yet?”) where British English requires the present perfect (“Have you eaten yet?”). Both are correct in their variety."
+   ],
+   "exemples": [
+    ["I've been painting the kitchen, which is why I'm covered in paint.", "Continuous: the visible result of the activity."],
+    ["I've painted the kitchen. Come and see!", "Simple: the job is finished; you show the result."],
+    ["A fire has broken out in Kumasi. It started in the market at dawn.", "News in the present perfect, details in the past simple."]
+   ]
+  },
+  {
+   "titre": "Stories and the future: narrative present, will be + -ing, future perfect",
+   "texte": [
+    "In spoken stories, jokes or film summaries, English often uses the present to make the story vivid: “So I walk into the office, and my boss says…”. Headlines do too: “President visits Yaoundé”.",
+    "“Will be + -ing” presents a future action as a matter of course, with no intention or request: “Will you be using the car tonight?” (a simple question about plans) is more polite than “Will you use…?”, which can sound like a request. “I'll be seeing her tomorrow anyway” = it's already part of the plan.",
+    "The future perfect looks back from a future point: “By June, we'll have finished the project.” In the continuous, it measures duration: “In May, I'll have been working here for ten years.”"
+   ],
+   "exemples": [
+    ["Will you be needing a taxi after the conference?", "A neutral, polite question from a hotel."],
+    ["By the time you arrive, we'll have eaten.", "Future perfect: completed before a future moment."]
+   ]
+  },
+  {
+   "titre": "Common traps",
+   "texte": [
+    "For an action that started in the past and continues now (with since / for), English uses the present perfect (simple or continuous), not the present: “I've lived / I've been living here since 2018.”",
+    "Don't add “in the process of” to show an action in progress: the continuous is enough (“I'm cooking”). For a very recent action, British English uses just + present perfect: “I've just finished.”",
+    "With a specific past time (yesterday, in 2019, two days ago), only the past simple is possible."
+   ]
+  }
+ ],
+ "formule": "Simple = whole fact · Continuous = in progress / temporary / emotion / politeness · Perfect = link to a later point; choose by nuance, not only by time",
+ "prononciation": [
+  "In “He's ALWAYS interrupting”, “always” is strongly stressed, with marked intonation that shows irritation.",
+  "“I was wondering” is reduced: /aɪ wəz ˈwʌndərɪŋ/, with weak “was” /wəz/.",
+  "Present perfect continuous: “I've been” /aɪv bɪn/; “been” is reduced to /bɪn/ in BrE (/bɪn/ or /bɛn/ in AmE).",
+  "Future perfect: “we'll have finished” /wiːl əv ˈfɪnɪʃt/, with “have” reduced to /əv/.",
+  "The -ed of “finished” is /t/ after the /ʃ/ sound."
+ ],
+ "erreurs": [
+  ["I live in Toronto since 2018.", "I've lived / I've been living in Toronto since 2018.", "An action continuing up to now with since: present perfect."],
+  ["I've seen him yesterday.", "I saw him yesterday.", "A specific past time: past simple."],
+  ["I'm just coming to finish the report.", "I've just finished the report.", "A very recent action = have just + past participle."],
+  ["He always interrupts me! It's so annoying.", "He's always interrupting me! It's so annoying.", "To express irritation, use present continuous + always."],
+  ["I'm knowing the answer.", "I know the answer.", "“Know” is a state verb: no continuous."],
+  ["Will you use the printer this afternoon? (neutral question)", "Will you be using the printer this afternoon?", "“Will be + -ing” avoids sounding like a request or a complaint."],
+  ["By next year I will finish my degree.", "By next year I will have finished my degree.", "With “by + future time”, use the future perfect."]
+ ],
+ "dialogue": {
+  "contexte": "In Lille, Mathilde goes to see her manager, Joanne, about a possible training course.",
+  "lignes": [
+   ["Mathilde", "Hi Joanne. I was wondering if you had a minute.", "Past continuous for politeness."],
+   ["Joanne", "Of course. You've been looking a bit stressed lately. Is everything OK?", "Present perfect continuous: a recent, ongoing impression."],
+   ["Mathilde", "Yes, it's just that I've been thinking about my future here.", "“Think” in the continuous = considering."],
+   ["Joanne", "I see. How long have you been working with us now?", "Duration up to now."],
+   ["Mathilde", "Four years in March. I was hoping I could do the data analysis course.", "A tactful request."],
+   ["Joanne", "That makes sense. The team is growing, and we're getting more data projects.", "Changes in progress."],
+   ["Mathilde", "Exactly. And if I start in January, I'll have finished by June.", "Future perfect."],
+   ["Joanne", "Let me check the budget. I'll be seeing the director on Thursday anyway.", "Will be + -ing: already planned."]
+  ]
+ },
+ "mots": [
+  ["aspect", "The continuous aspect shows an action in progress.", "how a verb form presents an action in time"],
+  ["temporary", "I'm living with my aunt — it's only temporary.", "lasting only for a short time"],
+  ["annoying", "It's annoying that he's always late.", "making you a little angry"],
+  ["wonder", "I was wondering if you could help me.", "ask yourself; think about"],
+  ["lately", "Have you been sleeping well lately?", "recently"],
+  ["anyway", "I'll be seeing him tomorrow anyway.", "in any case"],
+  ["by the time", "By the time we arrived, the film had started.", "when; before"],
+  ["break out", "A fire has broken out in the market.", "start suddenly (a fire, a war)"],
+  ["meaning to", "I've been meaning to call you for weeks.", "intending to do something"],
+  ["ongoing", "The investigation is ongoing.", "still happening"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Which nuance?",
+   "consigne": "Say which nuance is expressed: irritation, temporary situation, politeness or visible result.",
+   "items": [
+    ["He's always borrowing my charger without asking.", "irritation"],
+    ["I'm staying at a hotel until my flat is ready.", "temporary situation"],
+    ["I was wondering if you could send me the file.", "politeness"],
+    ["Your hands are dirty. Have you been gardening?", "visible result"]
+   ]
+  },
+  {
+   "titre": "2. Choose the form",
+   "consigne": "Choose the right form.",
+   "items": [
+    ["I (have read / have been reading) three of her novels.", "have read"],
+    ["I'm tired because I (have driven / have been driving) all day.", "have been driving"],
+    ["The president (has arrived / arrived) in Ottawa. He (has landed / landed) at 9 a.m.", "has arrived; landed"],
+    ["(Will you use / Will you be using) the meeting room this afternoon? I'd like to book it.", "Will you be using"],
+    ["By 2030, the city (will build / will have built) a new metro line.", "will have built"]
+   ]
+  },
+  {
+   "titre": "3. Make it more polite",
+   "consigne": "Rewrite the request with a more polite past form.",
+   "items": [
+    ["Can you check my report?", "I was wondering if you could check my report."],
+    ["I hope you can give me a day off.", "I was hoping you could give me a day off."],
+    ["Do you want to pay by card?", "Did you want to pay by card?"],
+    ["I want to ask you about the deadline.", "I wanted to ask you about the deadline."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    ["We know each other since primary school.", "We've known each other since primary school."],
+    ["I've met her in Brussels in 2019.", "I met her in Brussels in 2019."],
+    ["She's knowing a lot about tax law.", "She knows a lot about tax law."],
+    ["By Friday I will finish all the tests.", "By Friday I will have finished all the tests."]
+   ]
+  },
+  {
+   "titre": "5. Express the nuance",
+   "consigne": "Write a sentence that expresses the idea, choosing the right form.",
+   "items": [
+    ["Your message arrived a moment ago. (just)", "I've just received / got your message."],
+    ["He complains all the time, and it annoys you. (always)", "He's always complaining!"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short message (4–5 sentences) to a colleague asking politely for a favour and explaining your current situation. Use at least four nuances from the lesson.",
+   "items": [
+    ["Example answer", "Hi Ana, I was wondering if you could cover my shift on Saturday. I've been working on the annual report all week and I'm still not finished. My sister is staying with me at the moment, and she's always asking when I'll have some free time. By Monday I'll have sent the report, so I could take your Wednesday shift in return."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Simple = whole or permanent fact; continuous = in progress, temporary, change, emotion; perfect = link to a later point.",
+  "Always + continuous = irritation; past continuous = politeness (I was wondering…); continuous “be” = behaviour at the moment.",
+  "PP simple = result or quantity; PP continuous = activity, duration, visible result; news in the PP, details in the past simple.",
+  "Will be + -ing = neutral, polite future; by + future time → future perfect; since / for up to now → present perfect."
+ ],
+ "liens": [166, 167, 165, 235, 288],
+ "refs": ["bc-adv-present", "bc-pp-cont", "bc-future-cont-perf"]
+}

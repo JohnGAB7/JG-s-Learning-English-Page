@@ -1,0 +1,200 @@
+{
+ "n": 158,
+ "niveau": "B2",
+ "titre": "Les conditionnels mixtes",
+ "intro": "« Si j'avais accepté ce poste, je vivrais à Montréal aujourd'hui » ; « S'il était plus organisé, il n'aurait pas raté l'échéance ». La condition et le résultat ne se situent pas toujours au même moment : les conditionnels mixtes combinent les deuxième et troisième conditionnels pour relier le passé et le présent. Ils sont indispensables pour parler de ses choix, de ses regrets et de leurs conséquences.",
+ "objectifs": [
+  "Relier une condition passée à un résultat présent : If + past perfect, would + base verbale.",
+  "Relier une caractéristique présente (permanente) à un résultat passé : If + prétérit, would have + participe.",
+  "Utiliser could, might et les formes progressives dans le résultat.",
+  "Analyser le moment de la condition et celui du résultat pour choisir la bonne structure."
+ ],
+ "sections": [
+  {
+   "titre": "Rappel : les deux briques de base",
+   "texte": [
+    "Le deuxième conditionnel parle d'une situation irréelle dans le présent ou le futur : If + prétérit, would + base verbale. « If I had more time, I would learn Spanish. »",
+    "Le troisième conditionnel parle d'une situation irréelle dans le passé : If + past perfect, would have + participe. « If you had told me, I would have helped. »",
+    "Un conditionnel mixte prend la proposition en « if » de l'un et la proposition principale de l'autre, selon le moment réel de chaque partie."
+   ],
+   "tableau": {
+    "entetes": ["Type", "Condition (if)", "Résultat", "Exemple"],
+    "lignes": [
+     ["2e conditionnel", "présent irréel : prétérit", "présent : would + base", "If I had a car, I would drive to work."],
+     ["3e conditionnel", "passé irréel : past perfect", "passé : would have + participe", "If I had left earlier, I would have caught the train."],
+     ["Mixte A", "passé irréel : past perfect", "présent : would + base", "If I had left earlier, I would be there now."],
+     ["Mixte B", "présent irréel : prétérit", "passé : would have + participe", "If I were more organised, I wouldn't have missed the train."]
+    ]
+   }
+  },
+  {
+   "titre": "Mixte A : passé → présent",
+   "texte": [
+    "C'est le plus fréquent. On imagine qu'un événement passé s'est déroulé autrement, et on en mesure la conséquence aujourd'hui.",
+    "Les marqueurs « now », « today », « still », « at the moment » dans le résultat sont des indices utiles.",
+    "Le français fonctionne de la même façon : « Si j'avais fait médecine, je serais médecin aujourd'hui » (plus-que-parfait + conditionnel présent). La structure anglaise est donc logique pour un francophone ; le piège est surtout d'écrire « would have been » par réflexe."
+   ],
+   "exemples": [
+    ["If I had studied medicine, I would be a doctor now.", "Si j'avais fait médecine, je serais médecin aujourd'hui."],
+    ["If she hadn't missed the plane, she would be in Dakar at the moment.", "Elle serait à Dakar en ce moment."],
+    ["If we had bought that flat in 2010, we would be rich today.", "Nous serions riches aujourd'hui."],
+    ["If I hadn't met you, my life would be very different.", "Ma vie serait très différente."]
+   ]
+  },
+  {
+   "titre": "Mixte B : présent (permanent) → passé",
+   "texte": [
+    "La condition porte sur une caractéristique durable, vraie hier comme aujourd'hui (personnalité, compétence, situation), et le résultat sur un événement passé précis.",
+    "On utilise le prétérit (souvent « were » pour toutes les personnes dans un style soigné) dans la proposition en if, et would have + participe dans la principale.",
+    "Exemple type : « If I spoke Dutch, I would have understood the announcement » : je ne parle pas néerlandais (ni hier ni aujourd'hui), donc je n'ai pas compris l'annonce hier."
+   ],
+   "exemples": [
+    ["If he were more patient, he wouldn't have shouted at the children.", "S'il était plus patient, il n'aurait pas crié."],
+    ["If she spoke French, she would have got the job in Lyon.", "Si elle parlait français, elle aurait eu le poste."],
+    ["If I weren't afraid of flying, I would have visited you in Toronto.", "Si je n'avais pas peur de l'avion…"],
+    ["If they didn't trust you, they wouldn't have given you the keys.", "S'ils n'avaient pas confiance en toi…"]
+   ]
+  },
+  {
+   "titre": "Variantes : could, might, formes progressives",
+   "texte": [
+    "Dans le résultat, « would » peut être remplacé par « could » (capacité) ou « might » (possibilité) : « If I had learnt to drive, I could apply for this job now. »",
+    "Les formes progressives sont fréquentes : « If I hadn't stayed up so late, I wouldn't be feeling so tired » ; « If she hadn't moved to Canada, she would still be living with her parents ».",
+    "La condition passée peut aussi avoir une conséquence future : « If he had booked the tickets, we would be flying to Montréal tomorrow. »"
+   ],
+   "exemples": [
+    ["If I had learnt English as a child, I might be working abroad now.", "might : possibilité."],
+    ["If you had listened to the instructions, you could do the exercise now.", "could : capacité présente."],
+    ["If I hadn't drunk three coffees, I wouldn't be feeling so nervous.", "Résultat progressif."]
+   ]
+  },
+  {
+   "titre": "Méthode : situer chaque partie dans le temps",
+   "texte": [
+    "Avant d'écrire, posez deux questions. 1) La condition est-elle passée (un événement terminé) ou présente (une situation toujours vraie) ? 2) Le résultat concerne-t-il le présent ou le passé ?",
+    "Condition passée → past perfect. Condition présente → prétérit. Résultat présent → would + base. Résultat passé → would have + participe.",
+    "Comme dans tous les conditionnels, on ne met jamais « would » dans la proposition en if. L'ordre des propositions peut s'inverser ; on met une virgule seulement quand « if » vient en premier."
+   ],
+   "tableau": {
+    "entetes": ["Situation réelle", "Analyse", "Conditionnel mixte"],
+    "lignes": [
+     ["I didn't take the job. I'm unemployed now.", "passé → présent", "If I had taken the job, I wouldn't be unemployed now."],
+     ["I'm not tall. I wasn't chosen for the team.", "présent → passé", "If I were taller, I would have been chosen for the team."],
+     ["She lost her passport. She can't travel now.", "passé → présent (could)", "If she hadn't lost her passport, she could travel now."]
+    ]
+   }
+  }
+ ],
+ "formule": "If + past perfect, would + base (passé → présent)  ·  If + prétérit, would have + participe (présent → passé)",
+ "prononciation": [
+  "« I'd » peut valoir « I had » ou « I would » : « If I'd known » (had), « I'd be there » (would). Le verbe qui suit permet de distinguer.",
+  "« would have » se réduit à /wʊdəv/ ou /ˈwʊdə/ à l'oral rapide : « I'd have come » /aɪd əv ˈkʌm/. « wouldn't have » : /ˈwʊdntəv/.",
+  "« hadn't » /ˈhædnt/ : le t final est souvent à peine prononcé.",
+  "Intonation : montée légère à la fin de la proposition en if, puis descente sur le résultat : « If I'd taken the job ↗, I'd be rich now ↘ ».",
+  "On accentue les mots qui portent le contraste : « If I'd STAYED, I'd be MANager now. »"
+ ],
+ "erreurs": [
+  ["If I would have studied medicine, I would be a doctor now.", "If I had studied medicine, I would be a doctor now.", "Jamais « would » dans la proposition en if."],
+  ["If I had studied law, I would have been a lawyer now.", "If I had studied law, I would be a lawyer now.", "Résultat présent (now) : would + base verbale."],
+  ["If she isn't so shy, she would have spoken.", "If she weren't (wasn't) so shy, she would have spoken.", "Condition présente irréelle : prétérit."],
+  ["If I didn't miss the train, I would be at home now.", "If I hadn't missed the train, I would be at home now.", "Le train raté est un événement passé : past perfect."],
+  ["If I'd known, I'd came.", "If I'd known, I'd have come.", "Résultat passé : would have + participe."],
+  ["If he spoke English, he would understand the film yesterday.", "If he spoke English, he would have understood the film yesterday.", "Résultat passé (yesterday) : would have + participe."]
+ ],
+ "dialogue": {
+  "contexte": "À Toronto, deux amis, Jérôme (originaire de Lille) et Fatou (originaire de Thiès), discutent dans un café de leurs choix de vie.",
+  "lignes": [
+   ["Fatou", "Do you ever think about what your life would be like if you hadn't moved here?", "Tu te demandes parfois à quoi ressemblerait ta vie si tu n'avais pas déménagé ici ?"],
+   ["Jérôme", "All the time. If I had stayed in Lille, I would probably be working in my father's shop now.", "Tout le temps. Si j'étais resté à Lille, je travaillerais sûrement dans la boutique de mon père aujourd'hui."],
+   ["Fatou", "And you wouldn't speak English so well!", "Et tu ne parlerais pas aussi bien anglais !"],
+   ["Jérôme", "True. What about you? If you hadn't got that scholarship, would you still be in Senegal?", "C'est vrai. Et toi ? Si tu n'avais pas obtenu cette bourse, tu serais encore au Sénégal ?"],
+   ["Fatou", "I think so. But honestly, if I weren't so stubborn, I would have given up after the first winter.", "Je pense. Mais honnêtement, si je n'étais pas aussi têtue, j'aurais abandonné après le premier hiver."],
+   ["Jérôme", "Ha! If you weren't stubborn, you wouldn't have finished your PhD either.", "Ha ! Si tu n'étais pas têtue, tu n'aurais pas fini ton doctorat non plus."],
+   ["Fatou", "Exactly. And if we hadn't met at that conference, we wouldn't be sitting here today.", "Exactement. Et si on ne s'était pas rencontrés à ce congrès, on ne serait pas assis ici aujourd'hui."],
+   ["Jérôme", "So no regrets, then. Another coffee?", "Donc pas de regrets. Un autre café ?"]
+  ]
+ },
+ "mots": [
+  ["regret", "I have no regrets about leaving.", "le regret ; regretter"],
+  ["choice", "Moving abroad was a difficult choice.", "un choix"],
+  ["opportunity", "I missed a great opportunity.", "une occasion, une opportunité"],
+  ["turn down", "She turned down a job in Paris.", "refuser (une offre)"],
+  ["otherwise", "I left early; otherwise I would have missed the train.", "sinon, autrement"],
+  ["consequence", "Every decision has consequences.", "une conséquence"],
+  ["career", "He has had a long career in banking.", "une carrière"],
+  ["scholarship", "She got a scholarship to study in Canada.", "une bourse d'études"],
+  ["stubborn", "If he weren't so stubborn, he would have apologised.", "têtu(e), obstiné(e)"],
+  ["by now", "If they had left at noon, they would be here by now.", "à l'heure qu'il est, maintenant"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Analyser le temps",
+   "consigne": "Pour chaque phrase, dis si la condition et le résultat concernent le passé ou le présent.",
+   "items": [
+    ["If I had saved more money, I would be on holiday now.", "Condition passée, résultat présent (mixte A)."],
+    ["If he were more patient, he wouldn't have shouted at the kids.", "Condition présente, résultat passé (mixte B)."],
+    ["If you had told me, I would have helped.", "Condition passée, résultat passé (3e conditionnel)."],
+    ["If I had more time, I would learn Spanish.", "Condition présente, résultat présent (2e conditionnel)."]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Mets le verbe entre parenthèses à la forme qui convient.",
+   "items": [
+    ["If I ___ (not / miss) the bus, I would be at work now.", "hadn't missed"],
+    ["If she ___ (be) less shy, she would have asked for a pay rise.", "were (ou was)"],
+    ["We ___ (not / be) lost now if we had brought a map.", "wouldn't be"],
+    ["If they ___ (speak) English, they would have understood the guide.", "spoke"],
+    ["If you had gone to bed earlier, you ___ (not / feel) so tired now.", "wouldn't feel (ou wouldn't be feeling)"],
+    ["If I didn't love my job, I ___ (leave) years ago.", "would have left"]
+   ]
+  },
+  {
+   "titre": "3. Combiner",
+   "consigne": "Fais une seule phrase avec un conditionnel mixte.",
+   "items": [
+    ["I didn't learn to drive. Now I can't get a job as a delivery driver.", "If I had learnt (learned) to drive, I could get a job as a delivery driver now."],
+    ["He's very lazy. He didn't finish the project.", "If he weren't (wasn't) so lazy, he would have finished the project."],
+    ["We didn't buy the house in 2015. We aren't rich now.", "If we had bought the house in 2015, we would be rich now."],
+    ["I don't speak Dutch. I didn't understand the announcement.", "If I spoke Dutch, I would have understood the announcement."],
+    ["She accepted the job in Montreal. She lives in Canada now.", "If she hadn't accepted the job in Montreal, she wouldn't live (wouldn't be living) in Canada now."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["If I would have known, I would be there now.", "If I had known, I would be there now."],
+    ["If I had studied law, I would have been a lawyer now.", "If I had studied law, I would be a lawyer now."],
+    ["If I didn't lose my phone yesterday, I could call her now.", "If I hadn't lost my phone yesterday, I could call her now."],
+    ["If she isn't so stubborn, she would have apologised.", "If she weren't (wasn't) so stubborn, she would have apologised."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Si j'avais pris ce poste, je vivrais à Bruxelles maintenant.", "If I had taken that job, I would live (would be living) in Brussels now."],
+    ["S'il était plus prudent, il n'aurait pas eu cet accident.", "If he were (was) more careful, he wouldn't have had that accident."],
+    ["Si nous n'avions pas raté l'avion, nous serions à Dakar en ce moment.", "If we hadn't missed the plane, we would be in Dakar now (at the moment)."],
+    ["Si tu parlais allemand, tu aurais obtenu le poste.", "If you spoke German, you would have got the job."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Pense à une décision importante de ta vie et à un trait de ton caractère. Écris 4 phrases : deux avec « passé → présent » et deux avec « présent → passé ».",
+   "items": [
+    ["Exemple de réponse", "If I hadn't started learning English, I wouldn't be able to work with clients in Canada now. If I had chosen to study engineering, I might be earning more today. If I weren't so impatient, I would have finished my first novel. If I were more organised, I wouldn't have missed so many deadlines last year."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Condition passée → résultat présent : If + past perfect, would / could / might + base (If I had left, I would be there now).",
+  "Condition présente (permanente) → résultat passé : If + prétérit, would have + participe (If I were braver, I would have asked).",
+  "Posez la question : quand se situe la condition ? quand se situe le résultat ?",
+  "Jamais « would » après if ; « now / today » dans le résultat → would + base.",
+  "Formes progressives possibles : wouldn't be feeling, would be living."
+ ],
+ "liens": [96, 97, 159, 160, 205],
+ "refs": ["bc-cond-3", "bc-cond-012"]
+}

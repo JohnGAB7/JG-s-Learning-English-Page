@@ -1,0 +1,199 @@
+{
+"n": 116,
+"niveau": "B1",
+"titre": "Les quantifieurs : each, every, all, whole",
+"intro": "« Each », « every », « all » et « whole » expriment tous l'idée de totalité, mais ils ne se construisent pas de la même façon : singulier ou pluriel, avec ou sans « of », avant ou après le nom. Les maîtriser permet d'éviter des erreurs comme « every students » ou « the whole money ».",
+"objectifs": [
+"Distinguer each (chacun séparément) et every (tous, vus comme un ensemble).",
+"Utiliser all avec un nom pluriel ou indénombrable, et all (of) the / all of us.",
+"Employer the whole + nom singulier dénombrable et le distinguer de all.",
+"Choisir entre all day et every day, et accorder correctement le verbe."
+],
+"sections": [
+{
+"titre": "Every et each : toujours au singulier",
+"texte": [
+"« Every » et « each » sont suivis d'un nom dénombrable AU SINGULIER et d'un verbe au singulier : every student has, each room has.",
+"La différence de sens est souvent faible. « Every » voit le groupe dans son ensemble (tous, sans exception) ; « each » insiste sur les éléments un par un, séparément. « Each » s'utilise aussi pour deux éléments ; « every » demande au moins trois.",
+"Ne pas confondre « every day » (chaque jour, tous les jours) et « everyday » (adjectif : quotidien, de tous les jours : everyday life)."
+],
+"tableau": {
+"entetes": ["Every", "Each"],
+"lignes": [
+["Every child in the class passed. (tous)", "Each child received a certificate. (un par un)"],
+["I go jogging every morning.", "Each morning is a new chance. (chaque matin, considéré séparément)"],
+["— (pas avec 2)", "She had a bag in each hand. (2 mains)"],
+["every two weeks (toutes les deux semaines)", "—"],
+["almost every, nearly every, not every", "—"]
+]
+}
+},
+{
+"titre": "Each of, every one of, et la place de each",
+"texte": [
+"Avant un déterminant (the, my, these…) ou un pronom (us, them), on utilise « each of » ou « every one of » (en deux mots). « Every of » n'existe pas.",
+"« Each » peut aussi se placer après le sujet ou à la fin de la phrase : « They each got a prize », « The tickets cost 20 dollars each »."
+],
+"exemples": [
+["Each of the rooms has a balcony.", "Chacune des chambres a un balcon (each of + the + pluriel, verbe au singulier)."],
+["Every one of my cousins came to the wedding.", "Tous mes cousins sans exception sont venus au mariage."],
+["The children each have their own laptop.", "Les enfants ont chacun leur ordinateur portable."],
+["These mangoes cost 500 francs each.", "Ces mangues coûtent 500 francs chacune."]
+]
+},
+{
+"titre": "All : pluriel, indénombrable et pronoms",
+"texte": [
+"« All » se met devant un nom pluriel ou indénombrable, avec un verbe au pluriel ou au singulier selon le nom : « All students must register », « All information is confidential ».",
+"Devant the, my, these… on peut dire « all the » ou « all of the » (même sens) : « all (of) the money ». Devant un pronom, « of » est obligatoire : « all of us », « all of them ». On peut aussi dire « we all », « they all » (all après le sujet, ou après be / l'auxiliaire : They are all here, We have all seen it).",
+"Pour les personnes et les choses en général, on préfère « everyone / everybody » et « everything » à « all » seul : « Everyone was happy » (et non « All were happy », très littéraire). Ces mots prennent un verbe au singulier."
+],
+"exemples": [
+["All my friends live in Montreal.", "Tous mes amis vivent à Montréal."],
+["All of us were surprised.", "Nous avons tous été surpris (= We were all surprised)."],
+["Everything is ready.", "Tout est prêt (et non « All is ready »)."],
+["Everyone has a role in this project.", "Chacun a un rôle dans ce projet (verbe au singulier)."]
+]
+},
+{
+"titre": "Whole : « entier » devant un singulier",
+"texte": [
+"« Whole » signifie « entier, tout » et se place entre le déterminant et un nom dénombrable singulier : the whole day, my whole life, a whole cake.",
+"On n'utilise pas « whole » avec un nom indénombrable : on dit « all the money », pas « the whole money ». Avec un nom singulier, « all the » et « the whole » sont souvent possibles : « all the day » est rare, on dit « all day » ou « the whole day »."
+],
+"tableau": {
+"entetes": ["Avec whole", "Avec all", "Sens"],
+"lignes": [
+["the whole day", "all day", "toute la journée"],
+["the whole family", "all the family", "toute la famille"],
+["my whole life", "all my life", "toute ma vie"],
+["— (pas avec un indénombrable)", "all the money / all the water", "tout l'argent / toute l'eau"],
+["a whole pizza", "—", "une pizza entière"]
+]
+}
+},
+{
+"titre": "All day ou every day ?",
+"texte": [
+"Piège fréquent : « all day » signifie « toute la journée, du matin au soir » (durée) ; « every day » signifie « chaque jour, tous les jours » (fréquence). Même chose pour all week / every week, all night / every night.",
+"À la forme négative, « not all » et « not every » signifient « pas tous » : « Not all students passed » (certains ont échoué). « None » ou « no » signifient « aucun »."
+],
+"exemples": [
+["I worked all day on Saturday.", "J'ai travaillé toute la journée samedi (durée)."],
+["I work every day except Sunday.", "Je travaille tous les jours sauf le dimanche (fréquence)."],
+["Not every hotel accepts dogs.", "Tous les hôtels n'acceptent pas les chiens."]
+]
+}
+],
+"formule": "every / each + nom singulier + verbe singulier · each of / all of + the / pronom · all + pluriel ou indénombrable · the whole + singulier dénombrable",
+"prononciation": [
+"« each » se prononce /iːtʃ/, avec un i long ; ne pas confondre avec « itch » /ɪtʃ/ (démangeaison).",
+"« every » se prononce en deux syllabes : /ˈevri/ (le e du milieu est muet).",
+"« whole » /həʊl/ (GB) se prononce exactement comme « hole » (un trou) : le w est muet.",
+"« all » /ɔːl/ : une voyelle longue et un l sombre ; « all of us » se lie : /ˈɔːl əv ʌs/."
+],
+"erreurs": [
+["Every students must bring an ID card.", "Every student must bring an ID card.", "every + nom singulier."],
+["Each of the rooms have a TV.", "Each of the rooms has a TV.", "each (of) : verbe au singulier."],
+["Every of my friends came.", "Every one of my friends came. / All my friends came.", "« every of » n'existe pas."],
+["I spent the whole money.", "I spent all the money.", "whole n'est pas utilisé avec un indénombrable."],
+["I watched TV every day yesterday.", "I watched TV all day yesterday.", "Durée (toute la journée) : all day."],
+["All is ready for the party.", "Everything is ready for the party.", "« tout » (les choses) = everything."],
+["All of people were happy.", "All (of) the people were happy. / Everyone was happy.", "all of + the / pronom, pas all of + nom seul."]
+],
+"dialogue": {
+"contexte": "Ibrahim organise un séminaire d'équipe dans un hôtel près de Dakar. Il appelle la réceptionniste, Mme Sow.",
+"lignes": [
+["Ibrahim", "Hello. I'd like to confirm our booking for twenty people next week.", "Bonjour. J'aimerais confirmer notre réservation pour vingt personnes la semaine prochaine."],
+["Mrs Sow", "Of course. Each participant will have a single room with a sea view.", "Bien sûr. Chaque participant aura une chambre individuelle avec vue sur la mer."],
+["Ibrahim", "Perfect. Does every room have Wi-Fi?", "Parfait. Toutes les chambres ont le Wi-Fi ?"],
+["Mrs Sow", "Yes, all our rooms have free Wi-Fi. And breakfast is served every day from 7 to 10.", "Oui, toutes nos chambres ont le Wi-Fi gratuit. Et le petit-déjeuner est servi tous les jours de 7 h à 10 h."],
+["Ibrahim", "Good. We'll need the meeting room all day on Tuesday.", "Bien. Nous aurons besoin de la salle de réunion toute la journée mardi."],
+["Mrs Sow", "No problem. The whole floor will be reserved for your group.", "Pas de problème. Tout l'étage sera réservé pour votre groupe."],
+["Ibrahim", "Excellent. Can we pay for everything with one invoice?", "Excellent. Peut-on tout payer avec une seule facture ?"],
+["Mrs Sow", "Certainly. All of the costs will be on one invoice. The rooms are 60,000 francs each per night.", "Certainement. Tous les frais seront sur une seule facture. Les chambres coûtent 60 000 francs chacune par nuit."]
+]
+},
+"mots": [
+["each", "Each guest gets a welcome drink.", "chaque, chacun"],
+["every", "I call my mother every Sunday.", "chaque, tous les"],
+["whole", "I read the whole book in one night.", "entier, tout"],
+["entire", "The entire village came to the wedding.", "entier (plus formel que whole)"],
+["everyone", "Everyone was on time.", "tout le monde"],
+["everything", "Everything is under control.", "tout (les choses)"],
+["participant", "Each participant receives a certificate.", "un participant"],
+["certificate", "All students get a certificate.", "un certificat, une attestation"],
+["everyday", "These are everyday problems.", "quotidien, ordinaire"],
+["per", "It costs 50 euros per person.", "par"]
+],
+"exercices": [
+{
+"titre": "1. Every ou each ?",
+"consigne": "Complète avec every ou each (parfois les deux sont possibles).",
+"items": [
+["She wore a ring on ___ hand.", "each"],
+["I check my emails ___ morning.", "every (ou each)"],
+["___ of the players received a medal.", "Each"],
+["The bus comes ___ ten minutes.", "every"],
+["Almost ___ house in the street has a garden.", "every"]
+]
+},
+{
+"titre": "2. All, whole ou every ?",
+"consigne": "Complète avec all, whole ou every.",
+"items": [
+["I spent the ___ weekend studying.", "whole"],
+["___ the water in the bottle has gone.", "All"],
+["We were ___ very tired after the trip.", "all"],
+["She goes to the gym ___ Monday and Thursday.", "every"],
+["He ate a ___ chicken by himself!", "whole"],
+["___ of them speak French.", "All"]
+]
+},
+{
+"titre": "3. All day ou every day ?",
+"consigne": "Choisis all day / every day, all night / every night.",
+"items": [
+["It rained ___ yesterday — we couldn't go out at all.", "all day"],
+["I take the metro to work ___.", "every day"],
+["The baby cried ___, so we didn't sleep.", "all night"],
+["He watches the news ___ at eight.", "every night / every day"]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["Every children need love.", "Every child needs love. / All children need love."],
+["Each of the students have a laptop.", "Each of the students has a laptop."],
+["She lost the whole money.", "She lost all the money."],
+["All was perfect.", "Everything was perfect."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["Toute la famille est venue.", "The whole family came. / All the family came."],
+["Chacun de nous a payé 10 euros.", "Each of us paid 10 euros. / We each paid 10 euros."],
+["Tous les hôtels ne sont pas chers.", "Not all hotels are expensive. / Not every hotel is expensive."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Décris les règles ou les habitudes de ton lieu de travail ou d'études en cinq phrases avec each, every, all et whole.",
+"items": [
+["Exemple de réponse", "At my language school in Lille, every student takes a test on the first day. Each class has twelve students at most. All the teachers are native speakers. We have a speaking exam every month. Last Friday we spent the whole afternoon preparing a presentation."]
+]
+}
+],
+"a_retenir": [
+"every / each + nom singulier + verbe singulier (every student has).",
+"each = un par un (aussi pour 2) ; every = tous, l'ensemble (au moins 3).",
+"each of / every one of / all of + the, my… ou pronom (all of us) ; jamais « every of ».",
+"the whole + nom singulier dénombrable ; avec un indénombrable : all the money.",
+"all day = toute la journée ; every day = tous les jours ; tout = everything, tout le monde = everyone (verbe singulier)."
+],
+"liens": [31, 58, 65, 115],
+"refs": ["cam-nouns", "bc-b1b2"]
+}

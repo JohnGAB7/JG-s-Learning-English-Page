@@ -1,0 +1,218 @@
+{
+ "n": 12,
+ "niveau": "A1",
+ "titre": "Plural nouns",
+ "intro": "In English, most nouns take -s in the plural, and you pronounce this -s. But there are spelling rules, irregular plurals (men, children, people) and some nouns with no plural at all (information, advice).",
+ "objectifs": [
+  "Make regular plurals and use the spelling rules (-es, -ies, -ves).",
+  "Know the most common irregular plurals.",
+  "Pronounce the plural -s: /s/, /z/ or /ɪz/.",
+  "Recognise nouns that are always plural (jeans, trousers) and uncountable nouns with no plural (information, advice, furniture)."
+ ],
+ "sections": [
+  {
+   "titre": "Regular plurals and spelling",
+   "texte": [
+    "The general rule is to add -s: a book → two books. Some endings need a different spelling, often to make the word easier to say. These rules are the same as the -s of the present simple (lesson 6).",
+    "Adjectives never take -s in English: big houses, red cars (never “bigs houses”)."
+   ],
+   "tableau": {
+    "entetes": ["Ending", "Rule", "Examples"],
+    "lignes": [
+     ["most nouns", "+ s", "car → cars, day → days, apple → apples"],
+     ["-s, -ss, -sh, -ch, -x, -z", "+ es", "bus → buses, glass → glasses, dish → dishes, watch → watches, box → boxes"],
+     ["consonant + y", "y → ies", "city → cities, baby → babies, country → countries"],
+     ["vowel + y", "+ s", "boy → boys, key → keys, holiday → holidays"],
+     ["-o (common words)", "+ es", "potato → potatoes, tomato → tomatoes, hero → heroes"],
+     ["-o (short or foreign words)", "+ s", "photo → photos, piano → pianos, radio → radios, video → videos"]
+    ]
+   },
+   "exemples": [
+    ["I've got two brothers and three sisters.", "+ s."],
+    ["There are many beautiful cities in Belgium.", "city → cities."],
+    ["Can you wash the dishes?", "dish → dishes."]
+   ]
+  },
+  {
+   "titre": "Nouns ending in -f / -fe",
+   "texte": [
+    "About twelve common nouns ending in -f or -fe change to -ves: knife → knives, wife → wives, life → lives, leaf → leaves, half → halves, shelf → shelves, wolf → wolves, thief → thieves.",
+    "Others just add -s: roof → roofs, chief → chiefs, belief → beliefs, chef → chefs, cliff → cliffs. If you are not sure, check in the dictionary."
+   ],
+   "exemples": [
+    ["Put the knives in the drawer.", "knife → knives."],
+    ["The leaves are yellow in October.", "leaf → leaves."]
+   ]
+  },
+  {
+   "titre": "Irregular plurals",
+   "texte": [
+    "Some very common nouns have an irregular plural. Learn them by heart: you use them every day.",
+    "“People” is the normal plural of “person”: two people, ten people. “Persons” is only for official texts."
+   ],
+   "tableau": {
+    "entetes": ["Singular", "Plural", "Note"],
+    "lignes": [
+     ["man", "men", "vowel change"],
+     ["woman /ˈwʊmən/", "women /ˈwɪmɪn/", "the first syllable sounds different"],
+     ["child", "children", "-ren"],
+     ["person", "people", "a different word"],
+     ["foot", "feet", "oo → ee"],
+     ["tooth", "teeth", "oo → ee"],
+     ["mouse", "mice", "a different form"],
+     ["sheep / fish / deer", "sheep / fish / deer", "no change"]
+    ]
+   },
+   "exemples": [
+    ["There are twenty people in the room.", "person → people."],
+    ["Brush your teeth!", "tooth → teeth."],
+    ["The women in my family are very tall.", "woman → women."]
+   ]
+  },
+  {
+   "titre": "Always plural, or never plural",
+   "texte": [
+    "Some things made of two parts are always plural in English, with a plural verb: trousers, jeans, shorts, glasses (for your eyes), scissors, pyjamas. To count them, say “a pair of”: a pair of jeans, two pairs of glasses. “Clothes” has no singular.",
+    "“People” and “police” are always plural: The police are here. People are nice.",
+    "On the other hand, some uncountable nouns have no plural in English: information, advice, news (singular verb), furniture, luggage, homework, hair. Don't say “an information” or “informations”. You will study them in lesson 59."
+   ],
+   "tableau": {
+    "entetes": ["Wrong", "Right", "Why"],
+    "lignes": [
+     ["My trouser is new.", "My trousers are new.", "always plural"],
+     ["useful informations", "useful information", "uncountable"],
+     ["Thanks for your advices.", "Thanks for your advice.", "uncountable"],
+     ["The news are good.", "The news is good.", "uncountable, singular verb"],
+     ["I've got a lot of luggages.", "I've got a lot of luggage.", "uncountable"]
+    ]
+   }
+  },
+  {
+   "titre": "After numbers and quantity words",
+   "texte": [
+    "After a number bigger than one, and after “these, those, many, a few, both”, a countable noun is plural: two cats, these shoes, many people.",
+    "A noun used like an adjective before another noun stays singular: a ten-euro note, a three-day trip, a shoe shop."
+   ],
+   "exemples": [
+    ["We need six eggs and two kilos of tomatoes.", "Plural after numbers."],
+    ["It's a two-hour film.", "Noun as adjective: singular."]
+   ]
+  }
+ ],
+ "formule": "noun + s · -s / -sh / -ch / -x + es · consonant + y → ies · -f(e) → ves (often) · irregular: men, women, children, people, feet, teeth",
+ "prononciation": [
+  "The -s sounds like /s/ after p, t, k, f: cats /kæts/, books, cups.",
+  "It sounds like /z/ after a vowel or a voiced sound: dogs /dɒɡz/, days, cars, knives /naɪvz/.",
+  "-es / -s sounds like /ɪz/ (one more syllable) after s, z, sh, ch, j, x sounds: buses /ˈbʌsɪz/, watches, boxes, pages /ˈpeɪdʒɪz/.",
+  "“woman” /ˈwʊmən/ and “women” /ˈwɪmɪn/: the first syllable changes when you speak, not the second.",
+  "“houses” is /ˈhaʊzɪz/: the s of “house” becomes /z/ in the plural."
+ ],
+ "erreurs": [
+  ["two childs", "two children", "Irregular plural."],
+  ["three persons", "three people", "The normal plural of person is people."],
+  ["citys", "cities", "Consonant + y → ies."],
+  ["knifes", "knives", "-fe → -ves."],
+  ["informations, advices", "information, advice", "Uncountable: no plural."],
+  ["bigs houses", "big houses", "Adjectives don't take -s."],
+  ["The news are good.", "The news is good.", "“News” is uncountable: singular verb."],
+  ["a ten-euros note", "a ten-euro note", "A noun before another noun stays singular."]
+ ],
+ "dialogue": {
+  "contexte": "Before a picnic in the Parc de la Tête d'Or in Lyon, two flatmates write a shopping list.",
+  "lignes": [
+   ["Théo", "How many people are coming to the picnic?", "people: plural of person."],
+   ["Nina", "Twelve: eight adults and four children.", "child → children."],
+   ["Théo", "OK. So we need bread, cheese, tomatoes and some potatoes for a salad.", "bread, cheese: uncountable; tomatoes, potatoes: -es."],
+   ["Nina", "And knives, forks and glasses. Have we got enough?", "knife → knives."],
+   ["Théo", "We've got six knives. Let's buy plastic ones.", "ones = knives."],
+   ["Nina", "No, it's bad for the planet. My parents have got a lot of knives. I can ask them.", "them = my parents."],
+   ["Théo", "Good idea. Oh, and the news says it's sunny tomorrow.", "news + singular verb (says)."],
+   ["Nina", "Great! I need my sunglasses and my new shorts.", "Always plural: sunglasses, shorts."]
+  ]
+ },
+ "mots": [
+  ["child", "They've got three children.", "a young person (plural: children)"],
+  ["person", "She's a very kind person.", "a human (plural: people)"],
+  ["tooth", "I brush my teeth twice a day.", "one of the white things in your mouth (plural: teeth)"],
+  ["foot", "My feet hurt.", "the part of your body at the end of your leg (plural: feet)"],
+  ["knife", "Can I have a knife, please?", "a thing for cutting (plural: knives)"],
+  ["potato", "I'd like some potatoes.", "a vegetable that grows under the ground"],
+  ["box", "Put the books in boxes.", "a container with flat sides"],
+  ["trousers", "These trousers are too long.", "clothes for your legs (always plural)"],
+  ["glasses", "Where are my glasses?", "two lenses in a frame to help you see (always plural)"],
+  ["information", "Thanks for the information.", "facts about something (uncountable)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Regular plurals",
+   "consigne": "Write the plural.",
+   "items": [
+    ["bus", "buses"],
+    ["city", "cities"],
+    ["key", "keys"],
+    ["watch", "watches"],
+    ["tomato", "tomatoes"],
+    ["photo", "photos"]
+   ]
+  },
+  {
+   "titre": "2. Irregular and -ves plurals",
+   "consigne": "Write the plural.",
+   "items": [
+    ["man", "men"],
+    ["child", "children"],
+    ["person", "people"],
+    ["tooth", "teeth"],
+    ["wife", "wives"],
+    ["sheep", "sheep"]
+   ]
+  },
+  {
+   "titre": "3. Make it plural",
+   "consigne": "Write the sentence in the plural.",
+   "items": [
+    ["This is a big box.", "These are big boxes."],
+    ["The woman is a nurse.", "The women are nurses."],
+    ["My baby is asleep.", "My babies are asleep."],
+    ["That knife is sharp.", "Those knives are sharp."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I need some informations.", "I need some information."],
+    ["There are ten persons on the bus.", "There are ten people on the bus."],
+    ["My jean is blue.", "My jeans are blue."],
+    ["They've got two smalls dogs.", "They've got two small dogs."],
+    ["Thanks for your advices.", "Thanks for your advice."]
+   ]
+  },
+  {
+   "titre": "5. Complete with a plural",
+   "consigne": "Complete the sentence with the plural of the word in brackets.",
+   "items": [
+    ["My ___ hurt. I walk a lot. (foot)", "feet"],
+    ["The ___ are at school. (child)", "children"],
+    ["Where are my ___? I can't see! (glasses)", "glasses"],
+    ["There are three ___ in this town. (library)", "libraries"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Describe what is in your kitchen or your bag in four sentences. Use at least one irregular or -ves plural and one noun that is always plural.",
+   "items": [
+    ["Example answer", "In my bag there are two pens, three keys and my glasses. In my kitchen there are four knives and six glasses. I've got a lot of boxes on the shelves. My children's photos are on the fridge."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Noun + s; + es after s, sh, ch, x; consonant + y → ies; often -f(e) → ves.",
+  "Irregular: men, women, children, people, feet, teeth, mice; no change: sheep, fish.",
+  "The -s sounds /s/, /z/ or /ɪz/ (buses, watches).",
+  "Always plural: trousers, jeans, glasses, scissors, clothes, people, police.",
+  "No plural: information, advice, news (singular verb), furniture, luggage, homework."
+ ],
+ "liens": [3, 6, 11, 13, 59],
+ "refs": ["bc-countable", "cam-nouns"]
+}

@@ -1,0 +1,192 @@
+{
+"n": 53,
+"niveau": "A2",
+"titre": "Just, already, yet",
+"intro": "« Just » (venir de), « already » (déjà) et « yet » (déjà, encore / pas encore) s'emploient surtout avec le present perfect pour situer une action par rapport à maintenant. Ils sont indispensables pour faire le point sur ce qui est fait ou pas encore fait.",
+"objectifs": [
+"Dire qu'une action vient de se produire avec « have just + participe passé ».",
+"Utiliser already dans l'affirmatif et yet dans le négatif et l'interrogatif.",
+"Placer chaque mot au bon endroit dans la phrase.",
+"Connaître l'usage américain avec le prétérit et le sens de « still haven't »."
+],
+"sections": [
+{
+"titre": "Just : « venir de »",
+"texte": [
+"« Just » indique qu'une action s'est produite il y a très peu de temps. Il se place entre have / has et le participe passé. C'est la traduction naturelle de « venir de + infinitif ».",
+"Ne pas traduire « je viens de » par « I come from » : cette expression signifie « je suis originaire de »."
+],
+"exemples": [
+["I've just finished my report.", "Je viens de finir mon rapport."],
+["She's just left the office.", "Elle vient de quitter le bureau."],
+["The bus has just arrived. Let's run!", "Le bus vient d'arriver. Courons !"]
+]
+},
+{
+"titre": "Already : « déjà » (plus tôt que prévu)",
+"texte": [
+"« Already » indique qu'une action est terminée, souvent plus tôt que prévu. Dans une phrase affirmative, il se place entre have / has et le participe passé ; il peut aussi se placer en fin de phrase pour insister.",
+"Dans une question, « already » exprime la surprise : « Have you already finished? » (Tu as déjà fini ? C'est rapide !)."
+],
+"exemples": [
+["I've already paid the bill.", "J'ai déjà payé l'addition."],
+["We've already seen this film.", "On a déjà vu ce film."],
+["Have you already eaten? It's only eleven!", "Tu as déjà mangé ? Il n'est que onze heures ! (surprise)"]
+]
+},
+{
+"titre": "Yet : dans les questions et les négations",
+"texte": [
+"« Yet » se place en fin de phrase. Dans une question, il signifie « déjà » (est-ce que c'est fait, comme prévu ?). Dans une phrase négative, il signifie « encore » (pas encore).",
+"On ne l'utilise pas dans une phrase affirmative simple avec ce sens. Réponse courte typique : « Not yet. » (Pas encore.)"
+],
+"tableau": {
+"entetes": ["Type de phrase", "Exemple", "Traduction"],
+"lignes": [
+["question", "Have you done your homework yet?", "Tu as déjà fait tes devoirs ?"],
+["négation", "I haven't done it yet.", "Je ne l'ai pas encore fait."],
+["réponse courte", "Not yet.", "Pas encore."],
+["question", "Has the parcel arrived yet?", "Le colis est-il déjà arrivé ?"]
+]
+}
+},
+{
+"titre": "Résumé des positions",
+"texte": [
+"Just et already : entre l'auxiliaire et le participe passé (milieu de phrase). Yet : à la fin de la phrase.",
+"« Still » (toujours) peut s'ajouter pour exprimer l'impatience : « I still haven't received my visa » (je n'ai toujours pas reçu mon visa). Il se place avant haven't / hasn't."
+],
+"tableau": {
+"entetes": ["Mot", "Phrase", "Position"],
+"lignes": [
+["just", "He has just called.", "have + just + participe"],
+["already", "They've already left.", "have + already + participe"],
+["yet (question)", "Have they left yet?", "fin de phrase"],
+["yet (négation)", "They haven't left yet.", "fin de phrase"],
+["still", "They still haven't left.", "avant haven't"]
+]
+}
+},
+{
+"titre": "Anglais américain : le prétérit",
+"texte": [
+"En anglais américain, on utilise très souvent le prétérit avec just, already et yet : « I just ate », « Did you eat yet? », « I already told him ». C'est correct aux États-Unis et au Canada anglophone.",
+"En anglais britannique, le present perfect reste la norme : « I've just eaten », « Have you eaten yet? ». Sur ce site, nous utilisons la forme britannique, mais il faut comprendre les deux."
+],
+"exemples": [
+["I just saw your message. (US)", "Je viens de voir ton message (américain)."],
+["I've just seen your message. (GB)", "Même sens (britannique)."]
+]
+}
+],
+"formule": "have / has + just / already + participe passé · haven't + participe passé … yet · Have … + participe passé … yet ?",
+"prononciation": [
+"« just » se prononce /dʒʌst/ : le j se dit /dʒ/ comme dans « jean », le u comme dans « cup ». Devant une consonne, le t final disparaît souvent : I've just seen /aɪv dʒʌs ˈsiːn/.",
+"« already » se prononce /ɔːlˈredi/ : accent sur la 2e syllabe.",
+"« yet » se prononce /jet/, avec le son y de « yes ». Ne pas confondre avec « jet » /dʒet/.",
+"« Not yet » se dit avec une intonation descendante, souvent accentuée sur yet : not YET."
+],
+"erreurs": [
+["I come from finishing my work.", "I've just finished my work.", "« venir de » = have just + participe passé."],
+["I've finished already my homework.", "I've already finished my homework.", "already se place entre have et le participe (ou en fin de phrase)."],
+["I haven't yet finished.", "I haven't finished yet.", "yet se met en fin de phrase (la forme du milieu est très formelle)."],
+["I've finished yet.", "I've already finished.", "Phrase affirmative : already, pas yet."],
+["Have you already seen him yesterday?", "Did you see him yesterday?", "Avec yesterday : prétérit."],
+["She has just leave.", "She has just left.", "Après have / has : participe passé."],
+["I still didn't receive it.", "I still haven't received it.", "Anglais britannique : still + haven't + participe."]
+],
+"dialogue": {
+"contexte": "La veille d'un déménagement à Lyon, Awa et son compagnon Hugo vérifient la liste des choses à faire.",
+"lignes": [
+["Awa", "Have you called the moving company yet?", "Tu as déjà appelé la société de déménagement ?"],
+["Hugo", "Yes, I've just called them. They're coming at eight tomorrow.", "Oui, je viens de les appeler. Ils arrivent demain à huit heures."],
+["Awa", "Great. I've already packed the kitchen.", "Super. J'ai déjà emballé la cuisine."],
+["Hugo", "Already? That was fast! Have you packed the books yet?", "Déjà ? C'était rapide ! Tu as déjà emballé les livres ?"],
+["Awa", "No, not yet. I haven't found enough boxes.", "Non, pas encore. Je n'ai pas trouvé assez de cartons."],
+["Hugo", "I've just bought ten more. They're in the car.", "Je viens d'en acheter dix de plus. Ils sont dans la voiture."],
+["Awa", "Perfect. Oh, and we still haven't told the bank our new address.", "Parfait. Ah, et on n'a toujours pas donné notre nouvelle adresse à la banque."],
+["Hugo", "Don't worry, I'll do it online tonight.", "Ne t'inquiète pas, je le fais en ligne ce soir."]
+]
+},
+"mots": [
+["just", "I've just woken up.", "venir de (have just done)"],
+["already", "They've already left.", "déjà"],
+["yet", "Has she replied yet?", "déjà (question) ; encore (négation)"],
+["still", "I still haven't paid.", "toujours, encore"],
+["pack", "Have you packed your suitcase?", "faire ses bagages, emballer"],
+["reply", "He hasn't replied yet.", "répondre ; une réponse"],
+["receive", "I've just received your email.", "recevoir"],
+["send", "Have you sent the invoice yet?", "envoyer (send – sent – sent)"],
+["deliver", "They haven't delivered the parcel yet.", "livrer"],
+["task", "I've already done three tasks today.", "une tâche"]
+],
+"exercices": [
+{
+"titre": "1. Just, already ou yet ?",
+"consigne": "Complète avec just, already ou yet.",
+"items": [
+["Have you finished ___?", "yet"],
+["I've ___ eaten, thanks. I'm not hungry.", "already"],
+["She's ___ gone out. You missed her by one minute.", "just"],
+["We haven't decided ___.", "yet"],
+["The film has ___ started — sit down quickly!", "just"]
+]
+},
+{
+"titre": "2. Placer le mot",
+"consigne": "Réécris la phrase en ajoutant le mot entre parenthèses au bon endroit.",
+"items": [
+["I've sent the email. (just)", "I've just sent the email."],
+["Has the taxi arrived? (yet)", "Has the taxi arrived yet?"],
+["They've booked the hotel. (already)", "They've already booked the hotel."],
+["He hasn't called. (yet)", "He hasn't called yet."],
+["We haven't received the results. (still)", "We still haven't received the results."]
+]
+},
+{
+"titre": "3. Faire le point",
+"consigne": "Écris une phrase au present perfect avec le mot indiqué (✓ = fait, ✗ = pas fait).",
+"items": [
+["buy the tickets ✓ (already)", "I've already bought the tickets."],
+["clean the flat ✗ (yet)", "I haven't cleaned the flat yet."],
+["call the doctor ✓ il y a deux minutes (just)", "I've just called the doctor."],
+["you / pay the rent? (yet)", "Have you paid the rent yet?"]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["I've done yet my homework.", "I've already done my homework."],
+["She hasn't yet arrived.", "She hasn't arrived yet."],
+["We have just arrive.", "We have just arrived."],
+["Have you already met him last week?", "Did you meet him last week?"]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais (anglais britannique).",
+"items": [
+["Je viens de rentrer à la maison.", "I've just got home. / I've just come home."],
+["Tu as déjà réservé les billets ? (comme prévu)", "Have you booked the tickets yet?"],
+["Elle n'a pas encore répondu.", "She hasn't replied yet."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Fais le point sur ta journée ou ta semaine en cinq phrases avec just, already, yet et still.",
+"items": [
+["Exemple de réponse", "It's Thursday evening. I've already finished my big project at work. I've just cooked dinner for my family. I haven't called my mother yet — I'll do it after dinner. And I still haven't started the book my friend gave me!"]
+]
+}
+],
+"a_retenir": [
+"have just + participe passé = venir de (I've just arrived).",
+"already (déjà, plus tôt que prévu) : entre have et le participe, dans l'affirmatif.",
+"yet en fin de phrase : question (déjà ?) et négation (pas encore) ; Not yet.",
+"still + haven't = toujours pas (impatience).",
+"Anglais américain : souvent le prétérit (I just ate, Did you eat yet?)."
+],
+"liens": [41, 51, 52, 91],
+"refs": ["bc-just-yet", "bc-present-perfect"]
+}

@@ -1,0 +1,194 @@
+{
+ "n": 103,
+ "niveau": "B1",
+ "titre": "The passive: present and past",
+ "intro": "The passive (The bridge was built in 1950) puts the focus on what receives the action rather than who does it. It is very common in English, in the news, science, work and instructions.",
+ "objectifs": [
+  "Form the passive in the present simple (is / are + participle) and past simple (was / were + participle), in all forms.",
+  "Know when to choose the passive: the doer is unknown, obvious or unimportant, or we want to focus on the object.",
+  "Use by to name the doer only when it is useful.",
+  "Replace general subjects (people, they, someone) with a passive in more formal English."
+ ],
+ "sections": [
+  {
+   "titre": "Form: be + past participle",
+   "texte": [
+    "We make the passive with be in the right tense and the past participle of the main verb. Be carries the tense: is / are in the present, was / were in the past. The participle never changes.",
+    "To change an active sentence into a passive one, the object of the active sentence becomes the subject: “Someone stole my bike” → “My bike was stolen”. Only verbs with an object (transitive verbs) can be passive: we can't say “It was happened”."
+   ],
+   "tableau": {
+    "entetes": ["", "Present simple", "Past simple"],
+    "lignes": [
+     ["Affirmative", "English is spoken here.", "The letter was sent yesterday."],
+     ["Negative", "Cash isn't accepted.", "The windows weren't cleaned."],
+     ["Question", "Is breakfast included?", "When was the castle built?"],
+     ["Short answer", "Yes, it is. / No, it isn't.", "Yes, it was. / No, they weren't."]
+    ]
+   }
+  },
+  {
+   "titre": "Why use the passive?",
+   "texte": [
+    "We choose the passive when the doer is unknown (My car was stolen), obvious (He was arrested — by the police, of course) or unimportant (The rooms are cleaned every day).",
+    "We also use it to keep the same subject from one sentence to the next, or to focus on the result: “The Pont de Normandie is one of the longest bridges in France. It was opened in 1995.”",
+    "The passive is typical of impersonal writing: reports, news articles, science, rules. In speech, we often use you, they or people instead: “They speak French in Quebec” = “French is spoken in Quebec”."
+   ],
+   "exemples": [
+    ["My phone was stolen on the bus.", "Doer unknown."],
+    ["Thousands of new cars are sold every day.", "Doer unimportant."],
+    ["The suspect was arrested last night.", "Doer obvious (the police)."],
+    ["Coffee is grown in the west of Cameroon.", "Focus on the coffee, not the farmers."]
+   ]
+  },
+  {
+   "titre": "By + the doer",
+   "texte": [
+    "When the doer is important or new information, we name it with by: “Guernica was painted by Picasso.” The important information then comes at the end of the sentence, where English naturally puts new information.",
+    "If the doer is vague (someone, people, they) or obvious, don't use by: “My wallet was stolen by someone” sounds strange. Use with for an instrument: “The door was opened with a key.”"
+   ],
+   "exemples": [
+    ["Things Fall Apart was written by Chinua Achebe.", "The writer is the key information."],
+    ["The new hospital was opened by the president.", "By + the person who did it."],
+    ["The cake was cut with a sharp knife.", "With + instrument."]
+   ]
+  },
+  {
+   "titre": "Passive or general subject?",
+   "texte": [
+    "Everyday English often uses a general subject (people, they, you, someone); more formal English prefers the passive. Both are correct, but the register is different.",
+    "With verbs like give, send, offer, tell and show, the person who receives can become the subject: “They gave me a present” → “I was given a present.” “Someone told me that…” → “I was told that…”"
+   ],
+   "tableau": {
+    "entetes": ["Everyday (general subject)", "More formal (passive)"],
+    "lignes": [
+     ["They speak English here.", "English is spoken here."],
+     ["Someone stole my bike.", "My bike was stolen."],
+     ["They gave me a present.", "I was given a present."],
+     ["People eat this dish cold.", "This dish is eaten cold."],
+     ["They built the castle in the 16th century.", "The castle was built in the 16th century."]
+    ]
+   }
+  },
+  {
+   "titre": "Beyond the present and past",
+   "texte": [
+    "The same idea works in every tense: be changes, the participle stays. Present continuous: “The road is being repaired.” Present perfect: “The tickets have been sold.”",
+    "These forms, the passive with modals (must be done) and the passive with reporting verbs (He is said to be…) are studied at B2 (lessons 151 and 152)."
+   ],
+   "exemples": [
+    ["Sorry, the lift is being repaired.", "Present continuous passive."],
+    ["All the tickets have been sold.", "Present perfect passive."]
+   ]
+  }
+ ],
+ "formule": "is / are + participle (present) · was / were + participle (past) · + by + doer if useful",
+ "prononciation": [
+  "is and was are weak in the passive: “It's made in Ghana” /ɪts ˈmeɪd/, “It was built” /ɪt wəz ˈbɪlt/.",
+  "were is weak /wə/: “They were sold” /ðeɪ wə ˈsəʊld/.",
+  "-ed in regular participles: /t/ after a voiceless sound (cooked /kʊkt/), /d/ after a voiced sound (cleaned /kliːnd/), /ɪd/ after t or d (painted /ˈpeɪntɪd/, decided).",
+  "The stress falls on the participle, which carries the meaning: “The car was STOLEN.” If by follows, the doer is stressed too: “painted by PICASSO”."
+ ],
+ "erreurs": [
+  ["The house was build in 1990.", "The house was built in 1990.", "After be, use the past participle (built), not the base verb."],
+  ["English speaks in Canada.", "English is spoken in Canada.", "A language doesn't speak: it is spoken → passive."],
+  ["It was happened last week.", "It happened last week.", "Happen has no object: no passive."],
+  ["My bag was stolen by someone.", "My bag was stolen.", "By + someone / people adds nothing: leave it out."],
+  ["The letters was sent yesterday.", "The letters were sent yesterday.", "Plural subject: were."],
+  ["Where were you born in?", "Where were you born?", "No preposition at the end of “Where were you born?”."],
+  ["I am born in 1995.", "I was born in 1995.", "Use the past simple for birth: was / were born."]
+ ],
+ "dialogue": {
+  "contexte": "A guided tour in Brussels. The guide, Marc, presents the Atomium to a group of tourists, including Fatima from Casablanca.",
+  "lignes": [
+   ["Marc", "This is the Atomium. It was built for the 1958 World's Fair.", "Past passive."],
+   ["Fatima", "Who was it designed by?", "Question with by at the end."],
+   ["Marc", "It was designed by an engineer, André Waterkeyn.", "By + the doer: important information."],
+   ["Fatima", "Is it still used today?", "Present passive question."],
+   ["Marc", "Yes. Exhibitions are organised inside, and the top sphere is used as a restaurant.", "Present passive: doer unimportant."],
+   ["Fatima", "Were the spheres always this shiny?", "Were for a plural subject."],
+   ["Marc", "No, they weren't. The building was renovated in the 2000s and the old panels were replaced.", "Short answer, then two past passives."],
+   ["Fatima", "Amazing. Are photos allowed inside?", "Allowed = permitted."]
+  ]
+ },
+ "mots": [
+  ["build", "The bridge was built in 1950.", "to make a building, bridge, etc. (built, built)"],
+  ["design", "The tower was designed by an engineer.", "to plan how something will look and work"],
+  ["steal", "My wallet was stolen yesterday.", "to take something that isn't yours (stole, stolen)"],
+  ["invent", "The telephone was invented in the 19th century.", "to create something new for the first time"],
+  ["include", "Is breakfast included in the price?", "to contain as part of the whole"],
+  ["allow", "Smoking isn't allowed here.", "to give permission"],
+  ["grow", "Cocoa is grown in Côte d'Ivoire.", "to plant and look after crops (grew, grown)"],
+  ["arrest", "Two men were arrested last night.", "when the police take someone because of a crime"],
+  ["be born", "I was born in Bamenda.", "to start life"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Active or passive?",
+   "consigne": "Say if the sentence is active (A) or passive (P).",
+   "items": [
+    ["The museum was opened in 2010.", "P"],
+    ["They opened the museum in 2010.", "A"],
+    ["Rice is grown in many Asian countries.", "P"],
+    ["My grandmother grows tomatoes.", "A"]
+   ]
+  },
+  {
+   "titre": "2. Complete in the passive",
+   "consigne": "Put the verb in the passive (present simple or past simple, depending on the meaning).",
+   "items": [
+    ["French ___ (speak) in Belgium, Canada and Cameroon.", "is spoken"],
+    ["The Eiffel Tower ___ (build) in 1889.", "was built"],
+    ["These cars ___ (make) in Morocco.", "are made"],
+    ["When ___ the telephone ___ (invent)?", "was … invented"],
+    ["The windows ___ (not / clean) last week.", "weren't cleaned"]
+   ]
+  },
+  {
+   "titre": "3. Transform",
+   "consigne": "Put the sentence in the passive. Add by only if it is useful.",
+   "items": [
+    ["Someone stole my car last night.", "My car was stolen last night."],
+    ["They deliver the post at ten every day.", "The post is delivered at ten every day."],
+    ["Chimamanda Ngozi Adichie wrote this novel.", "This novel was written by Chimamanda Ngozi Adichie."],
+    ["They don't accept credit cards in this shop.", "Credit cards aren't accepted in this shop."],
+    ["Did they cancel the meeting?", "Was the meeting cancelled?"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["The book was wrote in 1958.", "The book was written in 1958."],
+    ["Coffee grows in Cameroon by farmers.", "Coffee is grown in Cameroon."],
+    ["The accident was happened at night.", "The accident happened at night."],
+    ["I am born in Lyon.", "I was born in Lyon."]
+   ]
+  },
+  {
+   "titre": "5. Make it more formal",
+   "consigne": "Rewrite each sentence with a passive.",
+   "items": [
+    ["People speak French and English in Cameroon.", "French and English are spoken in Cameroon."],
+    ["Someone stole my phone.", "My phone was stolen."],
+    ["They built this bridge in 1932.", "This bridge was built in 1932."],
+    ["Does the price include breakfast?", "Is breakfast included (in the price)?"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "In 4–5 sentences, present a monument, product or speciality from your country or city, using at least four passives (present and past).",
+   "items": [
+    ["Example answer", "The Basilica of Our Lady of Peace is in Yamoussoukro. It was built between 1985 and 1989, and it was designed by Pierre Fakhoury. It is visited by thousands of tourists every year. Masses are still held there on Sundays."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Passive = be in the right tense + past participle: is / are done (present), was / were done (past).",
+  "Use it when the doer is unknown, obvious or unimportant.",
+  "By + doer only when it is useful information; with + instrument.",
+  "General subjects (people, they, someone) → passive in more formal English.",
+  "No passive for verbs without an object (happen, arrive, die); birth = was / were born."
+ ],
+ "liens": [41, 42, 151, 152, 153],
+ "refs": ["bc-passives"]
+}

@@ -1,0 +1,472 @@
+{
+ "n": 230,
+ "niveau": "C1",
+ "titre": "Les phrases clivées avancées",
+ "intro": "Au niveau B2, vous avez vu « What I need is… » et « It was … that ». Au C1, on va plus loin : clivées négatives et contrastives, clivées interrogatives, « All I want is… », « What happened was… », clivées inversées (« That's what I mean »), et surtout la différence d'usage avec le français, qui emploie « c'est… qui / que » bien plus souvent que l'anglais.",
+ "objectifs": [
+  "Construire des it-clefts avec un nom, un adverbial ou une proposition (It was only when…, It's because… that…).",
+  "Utiliser les wh-clefts étendues : What happened was…, What we did was (to)…, All I…, The reason why… is that…",
+  "Manier les clivées contrastives et négatives (It's not that…, it's that… ; It wasn't X but Y who…) et interrogatives (What is it that…?).",
+  "Savoir quand ne pas cliver : l'anglais met souvent l'accent par l'intonation là où le français utilise « c'est… que »."
+ ],
+ "sections": [
+  {
+   "titre": "Rappel : à quoi sert une phrase clivée",
+   "texte": [
+    "Une phrase clivée découpe une phrase simple en deux parties pour mettre un élément en relief. « Amina found the error » peut devenir « It was Amina who found the error » (c'est Amina, pas quelqu'un d'autre) ou « What Amina found was an error » (on insiste sur ce qu'elle a trouvé).",
+    "La it-cleft met l'accent sur un élément précis, souvent par contraste. La wh-cleft annonce d'abord le thème connu (What I need…) et place l'information nouvelle à la fin, après « is / was »."
+   ],
+   "exemples": [
+    [
+     "It was the finance team that spotted the problem, not the auditors.",
+     "It-cleft contrastive : on corrige une idée reçue."
+    ],
+    [
+     "What surprised me most was the silence.",
+     "Wh-cleft : la nouveauté (the silence) arrive en fin de phrase."
+    ]
+   ]
+  },
+  {
+   "titre": "It-clefts avancées : adverbiaux, propositions, négation",
+   "texte": [
+    "On peut mettre en relief bien plus qu'un nom : un complément de temps ou de lieu, une proposition en because, une expression avec only ou not until.",
+    "« It's not until… that » et « It was only when… that » sont très idiomatiques pour dire « ce n'est qu'à ce moment-là que ».",
+    "La structure contrastive « It's not (that)… , it's (that)… » permet de rectifier une interprétation : « It's not that I don't like him; it's that I don't trust him. »"
+   ],
+   "tableau": {
+    "entetes": [
+     "Élément mis en relief",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Temps",
+      "It was in 2019 that the company moved to Douala."
+     ],
+     [
+      "Lieu",
+      "It's in the details that the problems appear."
+     ],
+     [
+      "Cause",
+      "It's because of the strike that the flights were cancelled."
+     ],
+     [
+      "Only / not until",
+      "It wasn't until I moved abroad that I understood my parents."
+     ],
+     [
+      "Contraste",
+      "It wasn't the price but the service that annoyed customers."
+     ],
+     [
+      "Rectification",
+      "It's not that she's lazy; it's that she's overwhelmed."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "It was only when the lights went out that we realised how late it was.",
+     "« Ce n'est que lorsque… que » : très naturel en anglais."
+    ],
+    [
+     "It's not that I don't want to help. It's that I genuinely can't this week.",
+     "Rectification d'un malentendu."
+    ]
+   ]
+  },
+  {
+   "titre": "Wh-clefts étendues",
+   "texte": [
+    "Les wh-clefts dépassent « What I need is… ». On peut mettre en relief une action entière avec « What + sujet + did was (to) + base verbale » : « What we did was (to) call the police ». Le « to » est facultatif.",
+    "« What happened was (that)… » introduit un récit ; « All (that) I want is… » signifie « tout ce que je veux, c'est… » (= seulement) ; « The reason (why)… is that… », « The thing (that)… is… », « The place where… », « The person who… », « The last thing… » fonctionnent de la même façon.",
+    "Accord : le verbe « be » est généralement au singulier (What we need is more nurses). Avec un complément pluriel, le pluriel est possible à l'écrit soigné (What they sell are spare parts), mais le singulier reste courant."
+   ],
+   "tableau": {
+    "entetes": [
+     "Structure",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "What + sujet + do / did + is / was + (to) verbe",
+      "What she did was (to) rewrite the whole report."
+     ],
+     [
+      "What happened was (that)…",
+      "What happened was that the server crashed during the update."
+     ],
+     [
+      "All (that) + sujet + verbe + is…",
+      "All I want is a quiet weekend."
+     ],
+     [
+      "The reason (why)… is that…",
+      "The reason why I'm calling is that your parcel has arrived."
+     ],
+     [
+      "The last thing… is…",
+      "The last thing we need is another delay."
+     ],
+     [
+      "The person who / The place where…",
+      "The person who helped me most was my aunt."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "What I'd suggest is that we postpone the launch.",
+     "Wh-cleft pour une proposition prudente en réunion."
+    ],
+    [
+     "All we can do now is wait.",
+     "« All … is » + base verbale : seulement attendre."
+    ]
+   ]
+  },
+  {
+   "titre": "Clivées inversées et interrogatives",
+   "texte": [
+    "La wh-cleft inversée place la reprise en tête : « That's what I mean », « This is where we disagree », « That's why she left », « Here's what we'll do ». Très fréquentes à l'oral, elles résument ou annoncent.",
+    "Les clivées interrogatives servent à insister dans une question : « Was it you who called? », « Who was it that called? », « What is it that you want? », « Why is it that prices keep rising? »."
+   ],
+   "exemples": [
+    [
+     "That's exactly what I was trying to say.",
+     "Clivée inversée : reprise de l'idée précédente."
+    ],
+    [
+     "What is it that you find so difficult?",
+     "Question clivée : « Qu'est-ce que tu trouves si difficile, au juste ? »"
+    ],
+    [
+     "This is where the plan starts to fail.",
+     "« C'est là que » : clivée inversée avec where."
+    ]
+   ]
+  },
+  {
+   "titre": "Registre, pronoms et accord",
+   "texte": [
+    "Dans « It is I who am responsible », le pronom sujet et l'accord du verbe relèvent d'un registre très soutenu. L'usage courant dit « It's me who's responsible » (ou « It was me who… »).",
+    "Dans les it-clefts, « who » est préféré pour les personnes, « that » pour le reste ; « that » est possible pour les personnes à l'oral. On n'emploie pas « which » quand l'élément mis en relief est un adverbial : « It was in May that… », jamais « in May which »."
+   ]
+  },
+  {
+   "titre": "Quand ne pas cliver : l'anglais et l'accent de phrase",
+   "texte": [
+    "Le français clive sans cesse (« C'est moi qui ai appelé », « C'est lui qui a raison ») parce que son accent de phrase est fixe. L'anglais, lui, peut déplacer l'accent : « I called » (avec I accentué) suffit souvent. Trop de clivées donnent un anglais lourd et traduit.",
+    "Réservez la clivée à l'écrit (où l'intonation n'existe pas) et aux vrais contrastes. À l'oral, essayez d'abord l'accent : « JOHN broke it, not me »."
+   ],
+   "tableau": {
+    "entetes": [
+     "Français",
+     "Calque lourd",
+     "Anglais naturel"
+    ],
+    "lignes": [
+     [
+      "C'est moi qui ai appelé.",
+      "It's me who has called.",
+      "I called. (I accentué) / It was me who called."
+     ],
+     [
+      "C'est depuis 2019 que j'habite ici.",
+      "It's since 2019 that I live here.",
+      "I've lived here since 2019."
+     ],
+     [
+      "Ce dont j'ai besoin, c'est d'une pause.",
+      "What I need, it's a break.",
+      "What I need is a break."
+     ],
+     [
+      "C'est pour ça que je suis parti.",
+      "It's for that that I left.",
+      "That's why I left."
+     ]
+    ]
+   }
+  }
+ ],
+ "formule": "It + be + élément (nom, adverbial, proposition) + that / who… · What / All / The reason why + proposition + be + information nouvelle · That's what / where / why…",
+ "prononciation": [
+  "Dans une it-cleft, l'accent principal tombe sur l'élément mis en relief : « It was AMINA who found it. »",
+  "Dans une wh-cleft, la première partie est descendante-montante (thème), l'accent principal tombe à la fin : « What I need | is a BREAK. »",
+  "« It's not that… » : accent sur « not » ; puis contraste fort sur la seconde partie : « it's that I'm TIRED. »",
+  "« That's why » /ðæts ˈwaɪ/ se prononce d'un bloc ; « What happened was » /wɒt ˈhæpənd wəz/ avec « was » réduit.",
+  "« It wasn't until » : liaison /ɪt ˈwɒzənt ənˈtɪl/, « until » accentué sur la deuxième syllabe."
+ ],
+ "erreurs": [
+  [
+   "What I need, it's a holiday.",
+   "What I need is a holiday.",
+   "Pas de « it » de reprise : le verbe be suit directement la wh-clause."
+  ],
+  [
+   "It's since 2019 that I live in Montreal.",
+   "I've lived in Montreal since 2019.",
+   "Calque de « c'est depuis… que » : present perfect, sans clivée."
+  ],
+  [
+   "It's for that that she resigned.",
+   "That's why she resigned.",
+   "« C'est pour ça que » = That's why."
+  ],
+  [
+   "What we did is to called the bank.",
+   "What we did was (to) call the bank.",
+   "Temps cohérent (was) et base verbale après (to)."
+  ],
+  [
+   "It was in May which the shop opened.",
+   "It was in May that the shop opened.",
+   "Avec un adverbial mis en relief, seulement « that »."
+  ],
+  [
+   "This is the reason why that I came.",
+   "This is the reason (why) I came.",
+   "Pas de « that » après why."
+  ],
+  [
+   "It's not that I don't like it, but that it's expensive.",
+   "It's not that I don't like it; it's that it's expensive.",
+   "La structure est « It's not that…; it's that… »."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "À Dakar, deux associés d'une petite agence de voyages discutent d'une baisse des réservations.",
+  "lignes": [
+   [
+    "Ousmane",
+    "Bookings are down 20 %. Is it the new website that's putting people off?",
+    "Les réservations ont baissé de 20 %. C'est le nouveau site qui fait fuir les gens ?"
+   ],
+   [
+    "Claire",
+    "I don't think so. It's not that the site is bad; it's that nobody can find it on Google.",
+    "Je ne pense pas. Ce n'est pas que le site soit mauvais, c'est que personne ne le trouve sur Google."
+   ],
+   [
+    "Ousmane",
+    "So what happened was that we lost our old links when we moved?",
+    "Donc ce qui s'est passé, c'est qu'on a perdu nos anciens liens en migrant ?"
+   ],
+   [
+    "Claire",
+    "Exactly. It was only when I checked the statistics that I saw the problem.",
+    "Exactement. Ce n'est qu'en vérifiant les statistiques que j'ai vu le problème."
+   ],
+   [
+    "Ousmane",
+    "Then the last thing we need is to spend more on advertising.",
+    "Alors la dernière chose dont on ait besoin, c'est de dépenser plus en publicité."
+   ],
+   [
+    "Claire",
+    "Right. What I'd suggest is that we hire someone to fix the search settings.",
+    "Oui. Ce que je proposerais, c'est d'engager quelqu'un pour régler le référencement."
+   ],
+   [
+    "Ousmane",
+    "That's exactly what I was going to say. How much would it cost?",
+    "C'est exactement ce que j'allais dire. Combien ça coûterait ?"
+   ],
+   [
+    "Claire",
+    "All we'd need is about a week of work. That's why it's worth doing now.",
+    "Il ne faudrait qu'une semaine de travail environ. C'est pour ça que ça vaut la peine de le faire maintenant."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "focus",
+   "The cleft puts the focus on the time.",
+   "le point de mire, l'accent"
+  ],
+  [
+   "highlight",
+   "This structure highlights the cause.",
+   "mettre en évidence"
+  ],
+  [
+   "contrast",
+   "Use stress to show contrast.",
+   "contraste"
+  ],
+  [
+   "emphasise",
+   "She emphasised the word “never”.",
+   "souligner, insister sur"
+  ],
+  [
+   "spot",
+   "It was a customer who spotted the mistake.",
+   "repérer"
+  ],
+  [
+   "put off",
+   "The price is what puts people off.",
+   "décourager, rebuter"
+  ],
+  [
+   "overwhelmed",
+   "It's not that he's lazy; he's overwhelmed.",
+   "débordé, submergé"
+  ],
+  [
+   "genuinely",
+   "I genuinely can't come this week.",
+   "vraiment, sincèrement"
+  ],
+  [
+   "the last thing",
+   "The last thing I want is an argument.",
+   "la dernière chose (que…)"
+  ],
+  [
+   "the reason why",
+   "The reason why we're late is the traffic.",
+   "la raison pour laquelle"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. It-cleft ou wh-cleft ?",
+   "consigne": "Indique le type de phrase clivée.",
+   "items": [
+    [
+     "It was my brother who told me.",
+     "it-cleft"
+    ],
+    [
+     "What annoys me is the noise.",
+     "wh-cleft"
+    ],
+    [
+     "That's where we met.",
+     "wh-cleft inversée"
+    ],
+    [
+     "Who was it that left the door open?",
+     "it-cleft interrogative"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Mettre en relief",
+   "consigne": "Réécris la phrase en mettant en relief l'élément entre crochets avec « It … that / who ».",
+   "items": [
+    [
+     "The company moved to Kigali [in 2021].",
+     "It was in 2021 that the company moved to Kigali."
+    ],
+    [
+     "[The manager] cancelled the meeting.",
+     "It was the manager who cancelled the meeting."
+    ],
+    [
+     "We understood the risk [only when we read the report].",
+     "It was only when we read the report that we understood the risk."
+    ],
+    [
+     "I realised how tired I was [not until I sat down].",
+     "It wasn't until I sat down that I realised how tired I was."
+    ]
+   ]
+  },
+  {
+   "titre": "3. Wh-clefts",
+   "consigne": "Réécris avec le début indiqué.",
+   "items": [
+    [
+     "We called a plumber. (What we did…)",
+     "What we did was (to) call a plumber."
+    ],
+    [
+     "I only want some peace. (All…)",
+     "All I want is some peace."
+    ],
+    [
+     "The server crashed during the update. (What happened…)",
+     "What happened was that the server crashed during the update."
+    ],
+    [
+     "I'm calling because I've lost my card. (The reason why…)",
+     "The reason why I'm calling is that I've lost my card."
+    ],
+    [
+     "We really don't need another meeting. (The last thing…)",
+     "The last thing we need is another meeting."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "What I want, it's a new job.",
+     "What I want is a new job."
+    ],
+    [
+     "It's since March that she works here.",
+     "She has worked / has been working here since March."
+    ],
+    [
+     "It was in Paris which they met.",
+     "It was in Paris that they met."
+    ],
+    [
+     "This is the reason why that I left.",
+     "This is the reason (why) I left."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais naturel (clivée seulement si elle est utile).",
+   "items": [
+    [
+     "C'est pour ça qu'il est parti.",
+     "That's why he left."
+    ],
+    [
+     "Ce n'est pas que je refuse, c'est que je n'ai pas le temps.",
+     "It's not that I'm refusing; it's that I don't have time."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court paragraphe (4 phrases) pour expliquer un malentendu au travail. Utilise trois clivées de types différents.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "It wasn't the client who changed the deadline; it was our own sales team. What happened was that they promised a date without checking with us. It was only when the client called on Monday that we found out. That's why I'd like us to agree on a clear procedure."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "It-clefts : un nom, un adverbial ou une proposition (It was only when… that…, It's because… that…, It wasn't until… that…).",
+  "Wh-clefts : What happened was…, What we did was (to) + verbe, All I want is…, The reason why… is that…, The last thing… is…",
+  "Clivées inversées (That's why / what / where…) et interrogatives (What is it that…?) : très fréquentes à l'oral.",
+  "L'anglais clive moins que le français : pas de « What I need, it's… », pas de « It's since… that » ; à l'oral, l'accent suffit souvent."
+ ],
+ "liens": [
+  161,
+  215,
+  229,
+  231,
+  168
+ ],
+ "refs": [
+  "bc-emphasis",
+  "bc-c1"
+ ]
+}

@@ -1,0 +1,196 @@
+{
+"n": 32,
+"niveau": "A1",
+"titre": "L’impératif (consignes)",
+"intro": "L’impératif sert à donner une consigne, un ordre, un conseil ou une invitation : suivre une recette, indiquer un chemin, accueillir un invité. En anglais, il est très simple : le verbe à la base, sans sujet.",
+"objectifs": [
+ "Former l’impératif affirmatif (Open the door) et négatif (Don't open the door).",
+ "Utiliser l’impératif pour les consignes, les conseils, les avertissements et les invitations.",
+ "Adoucir un ordre avec please, et savoir quand une question polie est préférable.",
+ "Faire une proposition avec Let's (Let's go!)."
+],
+"sections": [
+ {
+  "titre": "La forme",
+  "texte": [
+   "L’impératif affirmatif est simplement le verbe à la base, sans sujet : « Open the window. » C’est la même forme qu’on parle à une personne ou à plusieurs (le français distingue « ouvre » et « ouvrez », l’anglais non).",
+   "L’impératif négatif se forme avec « Don't » + verbe à la base : « Don't open the window. » À l’écrit très formel ou pour insister, on trouve « Do not ».",
+   "Avec un adjectif, on utilise « be » : « Be careful! », « Don't be late! »."
+  ],
+  "tableau": {
+   "entetes": ["Forme", "Structure", "Exemple", "Français"],
+   "lignes": [
+    ["Affirmative", "verbe", "Sit down.", "Assieds-toi. / Asseyez-vous."],
+    ["Négative", "Don't + verbe", "Don't sit there.", "Ne t’assieds pas là."],
+    ["Avec un adjectif", "Be + adjectif", "Be quiet.", "Tais-toi. / Silence."],
+    ["Négative + adjectif", "Don't be + adjectif", "Don't be shy.", "Ne sois pas timide."],
+    ["Proposition", "Let's + verbe", "Let's go.", "Allons-y."]
+   ]
+  },
+  "exemples": [
+   ["Close the door, please.", "Ferme la porte, s’il te plaît."],
+   ["Don't forget your keys!", "N’oublie pas tes clés !"]
+  ]
+ },
+ {
+  "titre": "Les usages",
+  "texte": [
+   "Instructions et modes d’emploi : recettes, consignes d’exercice, notices. On enchaîne les étapes avec « first » (d’abord), « then » (ensuite), « next » (puis), « finally » (enfin).",
+   "Itinéraires : « Go straight on. Turn left at the bank. » (voir la leçon 37).",
+   "Conseils et avertissements : « Drink a lot of water. », « Be careful! », « Watch out! » (Attention !), « Don't worry. »",
+   "Invitations et accueil : « Come in! », « Sit down. », « Help yourself. » (Servez-vous.), « Make yourself at home. » (Faites comme chez vous.) Ici, l’impératif est chaleureux, pas autoritaire."
+  ],
+  "exemples": [
+   ["First, cut the onions. Then add the tomatoes.", "D’abord, coupez les oignons. Ensuite, ajoutez les tomates."],
+   ["Watch out! The floor is wet.", "Attention ! Le sol est mouillé."],
+   ["Come in and sit down. Help yourself to some juice.", "Entrez et asseyez-vous. Servez-vous du jus."],
+   ["Don't worry, it's not a problem.", "Ne t’inquiète pas, ce n’est pas un problème."]
+  ]
+ },
+ {
+  "titre": "La politesse",
+  "texte": [
+   "Un impératif seul peut sonner sec, surtout avec un inconnu ou un supérieur. On ajoute « please » au début ou à la fin : « Please wait here. » / « Wait here, please. »",
+   "Pour une vraie demande polie, les anglophones préfèrent souvent une question : « Can you close the door? » (leçon 28), « Could you help me? » (leçon 57).",
+   "À l’oral, « Do » + impératif rend l’invitation plus chaleureuse : « Do sit down! » (Mais asseyez-vous donc !)."
+  ],
+  "tableau": {
+   "entetes": ["Direct", "Plus poli", "Très poli"],
+   "lignes": [
+    ["Close the door.", "Close the door, please.", "Could you close the door, please?"],
+    ["Wait here.", "Please wait here.", "Could you wait here, please?"]
+   ]
+  }
+ },
+ {
+  "titre": "Let's : faire une proposition",
+  "texte": [
+   "« Let's » (= let us) + verbe à la base propose de faire quelque chose ensemble : « Let's go to the beach! » (Allons à la plage !). C’est l’équivalent de « Allons… » ou « On… ? » en français.",
+   "Négatif : « Let's not… » : « Let's not take the car. » Pour répondre : « Yes, let's! », « Good idea! », « OK. » ou « Sorry, I can't. »",
+   "Ne confondez pas avec « Let me… » (laisse-moi, je vais…) : « Let me help you. » (Je vais t’aider.)"
+  ],
+  "exemples": [
+   ["It's sunny. Let's have lunch outside! — Yes, let's!", "Il fait beau. Déjeunons dehors ! — Oui, allons-y !"],
+   ["Let's not watch TV tonight. Let's play a game.", "Ne regardons pas la télé ce soir. Jouons à un jeu."],
+   ["Let me carry your bag.", "Laisse-moi porter ton sac."]
+  ]
+ },
+ {
+  "titre": "Les panneaux et les consignes écrites",
+  "texte": [
+   "Sur les panneaux, on voit l’impératif (« Keep left », « Push », « Pull », « Mind the gap ») mais aussi « No + -ing » pour une interdiction : « No smoking », « No parking ».",
+   "Attention : « No smoking » est une forme de panneau. Dans une phrase, on dit « Don't smoke here », jamais « Don't smoking ».",
+   "« Always » et « never » se placent devant l’impératif : « Always lock the door. », « Never give your password to anyone. »"
+  ],
+  "exemples": [
+   ["Never leave your bag alone at the airport.", "Ne laissez jamais votre sac sans surveillance à l’aéroport."],
+   ["Please don't park in front of the garage.", "Merci de ne pas vous garer devant le garage."]
+  ]
+ }
+],
+"formule": "Verbe à la base (Open…) · Don't + verbe (Don't open…) · Be / Don't be + adjectif · Let's + verbe",
+"prononciation": [
+ "Un ordre a une intonation descendante : « Sit DOWN. ↘ » Une invitation chaleureuse monte un peu et s’allonge : « Come IN! ».",
+ "« Don't » se prononce /dəʊnt/ ; à l’oral rapide, le t disparaît souvent devant une consonne : « Don't worry » ≈ /dəʊn ˈwʌri/.",
+ "« Let's » /lets/ : une seule syllabe ; « Let's go » = /lets ˈɡəʊ/.",
+ "« Please » /pliːz/ se termine par un /z/ sonore, pas un /s/.",
+ "L’accent principal tombe sur le verbe et le mot important : « DON'T TOUCH it! », « CLOSE the DOOR »."
+],
+"erreurs": [
+ ["You open the door.", "Open the door, please.", "Pas de sujet à l’impératif."],
+ ["No touch!", "Don't touch!", "Négation : « Don't » + verbe."],
+ ["Not be late!", "Don't be late!", "Avec un adjectif : « Don't be »."],
+ ["Don't to forget your passport.", "Don't forget your passport.", "Pas de « to » après « Don't »."],
+ ["Let's to go to the park.", "Let's go to the park.", "Après « Let's », verbe à la base sans « to »."],
+ ["Don't smoking here.", "Don't smoke here.", "« No smoking » est un panneau ; dans une phrase : Don't + verbe."],
+ ["Opens the window!", "Open the window!", "L’impératif ne prend jamais de s."]
+],
+"dialogue": {
+ "contexte": "Par appel vidéo depuis Douala, la grand-mère de Léa lui apprend à faire des bananes plantains frites (alloco). Léa est à Paris.",
+ "lignes": [
+  ["Grandma", "OK, Léa. First, take two ripe plantains. Yellow and black, not green!", "Bon, Léa. D’abord, prends deux plantains mûrs. Jaunes et noirs, pas verts !"],
+  ["Léa", "Got them. What next?", "C’est bon. Et ensuite ?"],
+  ["Grandma", "Peel them and cut them into small pieces. Be careful with the knife!", "Épluche-les et coupe-les en petits morceaux. Fais attention avec le couteau !"],
+  ["Léa", "Done. Do I add salt now?", "C’est fait. J’ajoute le sel maintenant ?"],
+  ["Grandma", "Yes, add a little salt. Then heat some oil in a pan.", "Oui, ajoute un peu de sel. Ensuite, fais chauffer de l’huile dans une poêle."],
+  ["Léa", "The oil is hot. Can I put the plantain in?", "L’huile est chaude. Je peux mettre le plantain ?"],
+  ["Grandma", "Yes, but don't put all the pieces in at the same time. And don't touch the oil!", "Oui, mais ne mets pas tous les morceaux en même temps. Et ne touche pas l’huile !"],
+  ["Léa", "Mmm, they smell delicious!", "Mmm, ça sent délicieusement bon !"],
+  ["Grandma", "Turn them after three minutes. Finally, put them on some paper. Enjoy!", "Retourne-les après trois minutes. Enfin, mets-les sur du papier. Bon appétit !"]
+ ]
+},
+"mots": [
+ ["open", "Open your books, please.", "ouvrir"],
+ ["close", "Close the window, it's cold.", "fermer"],
+ ["turn", "Turn left at the lights.", "tourner"],
+ ["wait", "Wait for me!", "attendre"],
+ ["listen", "Listen to the audio.", "écouter"],
+ ["careful", "Be careful on the stairs.", "prudent, attentif (be careful = fais attention)"],
+ ["cut", "Cut the bread, please.", "couper"],
+ ["add", "Add some salt.", "ajouter"],
+ ["mix", "Mix the flour and the eggs.", "mélanger"],
+ ["worry", "Don't worry!", "s’inquiéter"]
+],
+"exercices": [
+ {
+  "titre": "1. Mettre au négatif",
+  "consigne": "Mets l’impératif à la forme négative.",
+  "items": [
+   ["Open the window.", "Don't open the window."],
+   ["Be late.", "Don't be late."],
+   ["Sit here.", "Don't sit here."],
+   ["Let's take the bus.", "Let's not take the bus."],
+   ["Touch the screen.", "Don't touch the screen."]
+  ]
+ },
+ {
+  "titre": "2. Compléter",
+  "consigne": "Complète avec Be, Wash, Turn, Don't, Come ou Do.",
+  "items": [
+   ["___ quiet! The baby is sleeping.", "Be"],
+   ["___ your hands before dinner.", "Wash"],
+   ["___ left at the bank.", "Turn"],
+   ["___ touch the plate. It's hot!", "Don't"],
+   ["___ in and sit down.", "Come"],
+   ["___ your homework before you watch TV.", "Do"]
+  ]
+ },
+ {
+  "titre": "3. Faire une proposition avec Let's",
+  "consigne": "Réagis à la situation avec une proposition commençant par Let's.",
+  "items": [
+   ["We're hungry.", "Let's eat something. / Let's have lunch."],
+   ["It's very hot today.", "Let's go to the beach. / Let's go swimming."],
+   ["The film starts in ten minutes.", "Let's go now. / Let's hurry."],
+   ["We're tired.", "Let's have a break. / Let's go home."]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Ne t’inquiète pas !", "Don't worry!"],
+   ["Asseyez-vous, s’il vous plaît.", "Sit down, please. / Please sit down."],
+   ["Ne sois pas en retard !", "Don't be late!"],
+   ["Allons au cinéma ce soir !", "Let's go to the cinema tonight! (US : Let's go to the movies tonight!)"],
+   ["Fais attention !", "Be careful! / Watch out!"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Écris la recette d’un plat simple que tu connais en cinq étapes à l’impératif. Utilise first, then, next et finally, et au moins une phrase négative.",
+  "items": [
+   ["Exemple de réponse", "First, boil some water in a big pan. Then add a little salt and put in the pasta. Next, cook it for ten minutes. Don't forget to stir it! Finally, add some tomato sauce and some cheese."]
+  ]
+ }
+],
+"a_retenir": [
+ "Impératif = verbe à la base, sans sujet, sans s : Open the door. Même forme pour tu et vous.",
+ "Négatif : Don't + verbe (Don't touch!) ; avec un adjectif : Be careful! Don't be late!",
+ "Ajoutez « please » ; pour être très poli, préférez une question : Could you…?",
+ "Let's + verbe pour proposer (Let's go!) ; Let's not… ; Let me… = je vais…",
+ "Panneaux : No smoking, mais dans une phrase : Don't smoke."
+],
+"liens": [28, 34, 37, 57],
+"refs": ["cam-sentences", "bc-a1a2"]
+}

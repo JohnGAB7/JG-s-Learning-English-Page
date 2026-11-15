@@ -1,0 +1,207 @@
+{
+ "n": 161,
+ "niveau": "B2",
+ "titre": "Les phrases clivées (What I need is…, It was … that)",
+ "intro": "« C'est Awa qui a gagné », « Ce dont j'ai besoin, c'est de vacances » : la phrase clivée découpe l'information pour mettre un élément en relief. L'anglais possède deux grandes structures, « It is / was … that / who » et « What … is … ». Le français les utilise beaucoup plus que l'anglais, ce qui crée des calques fréquents : il faut savoir quand et comment les employer.",
+ "objectifs": [
+  "Construire une phrase clivée en « It » pour mettre en relief un sujet, un complément ou une circonstance.",
+  "Construire une phrase clivée en « What » (What I need is…, What happened was…), y compris avec un verbe (What I did was call…).",
+  "Utiliser les variantes : All I want is…, The reason why…, The thing that…, That's what…",
+  "Éviter les calques du français (« What I need it's… », « It's in 2010 that… »)."
+ ],
+ "sections": [
+  {
+   "titre": "À quoi sert une phrase clivée ?",
+   "texte": [
+    "Une phrase clivée répartit une seule idée sur deux propositions afin de mettre en valeur un élément : on corrige une erreur, on oppose deux choses ou on annonce l'information importante.",
+    "Comparez : « Marie sent the email » (information neutre) ; « It was Marie who sent the email » (c'est Marie, et non quelqu'un d'autre) ; « What Marie sent was an email » (c'était un courriel, pas une lettre).",
+    "L'anglais oral met souvent en relief par la seule voix : « MARIE sent the email. » Le français, lui, utilise très souvent « c'est… qui / que ». Ne traduisez donc pas systématiquement chaque « c'est… que » par une phrase clivée."
+   ],
+   "exemples": [
+    ["It was Marie who sent the email, not Paul.", "Mise en relief du sujet, contraste."],
+    ["What surprised me was his reaction.", "On retarde l'information importante pour la mettre en valeur."],
+    ["MARIE sent it.", "À l'oral, l'accent de phrase suffit souvent."]
+   ]
+  },
+  {
+   "titre": "La clivée en « It » : It is / was + élément + that / who",
+   "texte": [
+    "Structure : It + be + élément mis en relief + that / who + reste de la phrase. « Who » s'emploie pour une personne (« that » est aussi possible) ; « that » pour tout le reste. « Which » est rare et à éviter ici.",
+    "On peut mettre en relief un sujet, un complément ou une circonstance (lieu, temps, cause), mais pas le verbe lui-même.",
+    "Le temps de « be » suit en général le temps de la phrase : passé → « It was ». Le français dit « C'est en 2010 que… » ; l'anglais dit « It was in 2010 that… ».",
+    "Négation et contraste : « It wasn't the price that worried me, it was the delay. » Avec un pronom personnel, l'usage courant est « It was me who… » ; « It was I who… » est très formel."
+   ],
+   "tableau": {
+    "entetes": ["Phrase neutre", "Élément mis en relief", "Phrase clivée"],
+    "lignes": [
+     ["Awa won the prize.", "le sujet", "It was Awa who won the prize."],
+     ["I lost my keys.", "le complément", "It was my keys that I lost (not my wallet)."],
+     ["We met in Brussels.", "le lieu", "It was in Brussels that we met."],
+     ["She left because of the noise.", "la cause", "It was because of the noise that she left."],
+     ["The delay worries me.", "le sujet (présent)", "It's the delay that worries me."]
+    ]
+   }
+  },
+  {
+   "titre": "La clivée en « What » : What + proposition + be + élément",
+   "texte": [
+    "Structure : What + sujet + verbe + be + élément mis en relief. « What » signifie ici « ce que / ce qui / ce dont ». L'information importante arrive à la fin, après « is / was ».",
+    "Pour mettre en relief une action, on emploie « do » : « What I did was (to) call the police. » Après « was », on met la base verbale, éventuellement précédée de « to ».",
+    "Pour raconter un événement : « What happened was (that) the train broke down. »",
+    "On peut inverser l'ordre : « A holiday is what I need. » « That's what I mean. » « That's what I said! »"
+   ],
+   "exemples": [
+    ["What I need is a long holiday.", "Ce dont j'ai besoin, c'est de longues vacances."],
+    ["What worries me is the cost.", "Ce qui m'inquiète, c'est le coût."],
+    ["What I did was (to) call the bank immediately.", "Ce que j'ai fait, c'est appeler la banque tout de suite."],
+    ["What happened was that the train broke down near Namur.", "Ce qui s'est passé, c'est que le train est tombé en panne."],
+    ["Patience is what you need.", "Ordre inversé."]
+   ]
+  },
+  {
+   "titre": "Les variantes courantes",
+   "texte": [
+    "D'autres mots peuvent remplacer « What » : All (tout ce que, seulement), The thing (that), The reason (why), The place (where), The person (who), The day (when), The only thing.",
+    "« All I want is… » est très fréquent et signifie « je veux seulement… » : « All I want is some peace and quiet. »",
+    "« The reason why… is that… » : on évite « the reason is because », jugé redondant à l'écrit soigné."
+   ],
+   "tableau": {
+    "entetes": ["Début", "Exemple", "Sens"],
+    "lignes": [
+     ["All…", "All I want is to sleep.", "Je veux seulement dormir."],
+     ["The thing (that)…", "The thing I love about Montreal is the festivals.", "Ce que j'aime à Montréal…"],
+     ["The reason (why)…", "The reason why I left is that I was bored.", "La raison pour laquelle…"],
+     ["The place where…", "The place where we met was a café in Liège.", "L'endroit où…"],
+     ["The person who…", "The person who helped me most was my aunt.", "La personne qui…"],
+     ["The only thing…", "The only thing I regret is not learning sooner.", "La seule chose que…"]
+    ]
+   }
+  },
+  {
+   "titre": "Accord, ponctuation et calques à éviter",
+   "texte": [
+    "Après une clivée en « What », le verbe « be » est en général au singulier, même si l'élément est pluriel : « What we need is more teachers. » (« are » est possible mais moins fréquent.)",
+    "Pas de virgule et pas de « it » supplémentaire : « What I need is a coffee », jamais « What I need, it's a coffee ». C'est le calque le plus fréquent de « Ce dont j'ai besoin, c'est… ».",
+    "« What » ne se combine pas avec « that » : « The thing what I like » est faux ; on dit « The thing (that) I like » ou « What I like »."
+   ],
+   "exemples": [
+    ["What we need is more volunteers.", "Singulier « is » malgré le pluriel."],
+    ["What I love about Dakar is the ocean.", "Pas de virgule, pas de « it »."],
+    ["It's not that I don't like you, it's just that I'm tired.", "Expression courante : ce n'est pas que…, c'est juste que…"]
+   ]
+  }
+ ],
+ "formule": "It is / was + élément + that / who … · What + sujet + verbe + is / was + élément",
+ "prononciation": [
+  "L'accent principal tombe sur l'élément mis en relief : « It was AWA who won », « What I need is a HOLiday ».",
+  "Dans la clivée en « It », « It was » et « that » sont faibles : /ɪt wəz ˈɑːwə ðət ˈwʌn/.",
+  "Dans la clivée en « What », la première partie a souvent une intonation montante ou en suspens, puis la voix descend sur l'élément : « What I need ↗ is a holiday ↘ ».",
+  "« What I did was call… » : légère pause possible après « was » pour créer l'attente.",
+  "À l'écrit, la phrase clivée remplace l'accent oral : c'est pourquoi elle est fréquente dans les textes argumentatifs."
+ ],
+ "erreurs": [
+  ["What I need, it's a holiday.", "What I need is a holiday.", "Pas de virgule ni de « it » : calque de « ce dont j'ai besoin, c'est »."],
+  ["It's in 2015 that I moved to Douala.", "It was in 2015 that I moved to Douala.", "Événement passé : « It was »."],
+  ["It was my sister which told me.", "It was my sister who (that) told me.", "Pour une personne : who ou that."],
+  ["What I did was I called the police.", "What I did was (to) call the police.", "Après « What I did was » : base verbale."],
+  ["The thing what annoys me is the noise.", "The thing that annoys me (What annoys me) is the noise.", "On ne combine pas « the thing » et « what »."],
+  ["That I like is the food.", "What I like is the food.", "La clivée commence par « What », pas « That »."],
+  ["The reason is because I was tired.", "The reason (why I left) is that I was tired.", "À l'écrit soigné : the reason… is that."]
+ ],
+ "dialogue": {
+  "contexte": "À Ottawa, Jonathan et Sabrina se disputent gentiment après avoir trouvé le restaurant fermé pour leur anniversaire de mariage.",
+  "lignes": [
+   ["Sabrina", "I can't believe it. You forgot to book the table!", "Je n'y crois pas. Tu as oublié de réserver la table !"],
+   ["Jonathan", "Wait. It wasn't me who was supposed to book. It was you!", "Attends. Ce n'est pas moi qui devais réserver. C'était toi !"],
+   ["Sabrina", "No. What I said was that I would choose the restaurant, not book it.", "Non. Ce que j'ai dit, c'est que je choisirais le restaurant, pas que je le réserverais."],
+   ["Jonathan", "OK, maybe. But what really annoys me is that they close on Mondays and nobody told us.", "D'accord, peut-être. Mais ce qui m'énerve vraiment, c'est qu'ils ferment le lundi et que personne ne nous l'a dit."],
+   ["Sabrina", "It's not that I'm angry. It's just that I was really looking forward to it.", "Ce n'est pas que je suis fâchée. C'est juste que j'avais vraiment hâte."],
+   ["Jonathan", "I know. So what I suggest is this: we buy some poutine and eat it by the canal.", "Je sais. Alors voilà ce que je propose : on achète une poutine et on la mange au bord du canal."],
+   ["Sabrina", "Poutine on our anniversary? Well, that's what we ate on our first date…", "De la poutine pour notre anniversaire ? Bon, c'est ce qu'on avait mangé à notre premier rendez-vous…"],
+   ["Jonathan", "Exactly. All I want is to spend the evening with you.", "Exactement. Tout ce que je veux, c'est passer la soirée avec toi."]
+  ]
+ },
+ "mots": [
+  ["focus", "The focus of the sentence is the price.", "l'élément central, le point de mire"],
+  ["emphasise", "She emphasised the need for patience.", "souligner, insister sur (US : emphasize)"],
+  ["highlight", "The report highlights three problems.", "mettre en évidence, souligner"],
+  ["point", "That's exactly my point.", "l'argument, l'idée principale"],
+  ["matter", "What matters is that you're safe.", "importer, compter"],
+  ["annoy", "What annoys me is the noise.", "agacer, énerver"],
+  ["reason", "The reason why I called is that I need help.", "la raison"],
+  ["misunderstanding", "It was just a misunderstanding.", "un malentendu"],
+  ["clarify", "Let me clarify what I meant.", "clarifier, préciser"],
+  ["look forward to", "I was really looking forward to the trip.", "avoir hâte de, attendre avec impatience"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Trouver l'élément mis en relief",
+   "consigne": "Quel élément la phrase met-elle en relief ?",
+   "items": [
+    ["What I need is a long holiday.", "a long holiday"],
+    ["It was in Brussels that we met.", "in Brussels (le lieu)"],
+    ["All I want is some peace and quiet.", "some peace and quiet"],
+    ["It's the price that worries me.", "the price"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec un mot : it, what, that, who ou is.",
+   "items": [
+    ["___ was my brother who told me the news.", "It"],
+    ["___ I like most about Montreal is the festivals.", "What"],
+    ["It was in 2019 ___ she started her company.", "that"],
+    ["What we need ___ more time.", "is"],
+    ["It was the manager ___ made the decision.", "who (ou that)"],
+    ["___ I did was call the bank immediately.", "What"]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Réécris en commençant par le mot donné, pour mettre en relief l'élément indiqué.",
+   "items": [
+    ["Paul broke the window. (It… ; Paul)", "It was Paul who (that) broke the window."],
+    ["I need a good night's sleep. (What…)", "What I need is a good night's sleep."],
+    ["We met in Dakar. (It… ; Dakar)", "It was in Dakar that we met."],
+    ["His attitude annoys me. (What…)", "What annoys me is his attitude."],
+    ["I only want to sleep. (All…)", "All I want is to sleep. (ou : All I want to do is sleep.)"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["What I need it's a coffee.", "What I need is a coffee."],
+    ["It's in 2010 that they got married.", "It was in 2010 that they got married."],
+    ["What I did was I called a taxi.", "What I did was (to) call a taxi."],
+    ["It was the neighbours which complained.", "It was the neighbours who (that) complained."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec une phrase clivée.",
+   "items": [
+    ["C'est Awa qui a gagné le prix.", "It was Awa who (that) won the prize."],
+    ["Ce dont j'ai besoin, c'est d'un nouvel ordinateur.", "What I need is a new computer."],
+    ["Ce qui m'inquiète, c'est le coût.", "What worries me is the cost."],
+    ["C'est à Québec que j'ai appris à skier.", "It was in Quebec City that I learnt (learned) to ski."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Décris ta ville ou ton travail en 4 phrases clivées différentes : une en « It », une en « What », une en « All » et une en « The thing / The reason ».",
+   "items": [
+    ["Exemple de réponse", "It was in 2018 that I moved to Liège for my studies. What I love about the city is its friendly atmosphere. All I miss is the sun of my home town. The reason why I stayed is that I found a great job here."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "It is / was + élément + that / who… : pour mettre en relief un sujet, un complément ou une circonstance.",
+  "Temps passé → « It was » : It was in 2010 that…",
+  "What + sujet + verbe + is + élément : What I need is…, What I did was (to) call…, What happened was that…",
+  "Variantes : All I want is…, The thing (that)…, The reason why… is that…, That's what…",
+  "Jamais « What I need, it's… » ; l'anglais utilise moins de clivées que le français et met souvent l'accent par la voix."
+ ],
+ "liens": [157, 168, 101, 215],
+ "refs": ["bc-emphasis"]
+}

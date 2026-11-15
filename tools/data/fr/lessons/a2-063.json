@@ -1,0 +1,199 @@
+{
+ "n": 63,
+ "niveau": "A2",
+ "titre": "Les pronoms possessifs (mine, yours…)",
+ "intro": "Mine, yours, his, hers, ours, theirs correspondent à « le mien, le tien, le sien, le nôtre, le leur ». Ils remplacent un possessif + nom pour éviter une répétition (This is my bag → This bag is mine). Ils sont plus simples qu'en français : pas d'article, pas de genre, pas de pluriel.",
+ "objectifs": [
+  "Connaître les pronoms possessifs et les distinguer des adjectifs possessifs (my / mine).",
+  "Les employer sans article et sans apostrophe : mine, yours, hers (jamais « the mine », « your's »).",
+  "Répondre à « Whose…? » avec un pronom possessif ou un génitif (It's mine / It's Paul's).",
+  "Utiliser la structure « a friend of mine » (un de mes amis)."
+ ],
+ "sections": [
+  {
+   "titre": "Adjectif possessif ou pronom possessif ?",
+   "texte": [
+    "L'adjectif possessif (leçon 14) se place DEVANT un nom : my car, your keys. Le pronom possessif s'emploie SEUL, à la place du possessif + nom : This car is mine (= my car).",
+    "En anglais, le pronom possessif est invariable : « mine » traduit « le mien, la mienne, les miens, les miennes ». Le choix dépend seulement du possesseur, comme pour his / her."
+   ],
+   "tableau": {
+    "entetes": ["Sujet", "Adjectif + nom", "Pronom", "Traduction"],
+    "lignes": [
+     ["I", "my bag", "mine", "le mien, la mienne, les miens…"],
+     ["you", "your bag", "yours", "le tien, le vôtre…"],
+     ["he", "his bag", "his", "le sien (à lui)"],
+     ["she", "her bag", "hers", "le sien (à elle)"],
+     ["it", "its bag", "(rare)", "—"],
+     ["we", "our bag", "ours", "le nôtre…"],
+     ["they", "their bag", "theirs", "le leur…"]
+    ]
+   },
+   "note": "« His » est identique en adjectif et en pronom : It's his car. The car is his. « Its » n'est presque jamais utilisé comme pronom."
+  },
+  {
+   "titre": "Pas d'article, pas d'apostrophe",
+   "texte": [
+    "Le français dit « le mien » ; l'anglais dit seulement « mine », sans « the ». On ne dit jamais « the mine » ni « the yours ».",
+    "Les pronoms en -s (yours, hers, ours, theirs) ne prennent JAMAIS d'apostrophe. « Your's » ou « her's » sont des fautes fréquentes, même chez les anglophones.",
+    "Le verbe s'accorde avec la chose remplacée : My shoes are black. Mine are black / Yours are brown. Her car is red. Hers is red."
+   ],
+   "exemples": [
+    ["Is this your pen or mine?", "C'est ton stylo ou le mien ?"],
+    ["Your flat is bigger than ours.", "Ton appartement est plus grand que le nôtre."],
+    ["My parents live in Lille. Where do yours live?", "Mes parents habitent à Lille. Où habitent les tiens ?"],
+    ["These seats aren't theirs.", "Ces places ne sont pas les leurs."]
+   ]
+  },
+  {
+   "titre": "Whose…? — It's mine / It's Anna's",
+   "texte": [
+    "Pour demander à qui appartient quelque chose : « Whose is this? », « Whose bag is this? », « Whose are these? ». La réponse naturelle utilise un pronom possessif ou un génitif sans nom (leçon 15) : It's mine. It's Anna's. They're my brother's.",
+    "Le génitif fonctionne comme un pronom possessif : « It's Paul's » = c'est le sien, celui de Paul."
+   ],
+   "exemples": [
+    ["Whose phone is ringing? — It's mine. Sorry!", "Le téléphone de qui sonne ? — Le mien. Désolé !"],
+    ["Whose are these gloves? — They're Karim's.", "À qui sont ces gants ? — Ce sont ceux de Karim."],
+    ["Is this coffee yours or hers?", "Ce café est à toi ou à elle ?"]
+   ]
+  },
+  {
+   "titre": "A friend of mine",
+   "texte": [
+    "Pour dire « un de mes amis », l'anglais dit « a friend of mine » (ou « one of my friends »). On ne peut pas dire « a my friend ». La structure est : a / an / this / that + nom + of + pronom possessif (ou génitif).",
+    "Elle s'utilise avec beaucoup de noms : a colleague of hers (une de ses collègues), a cousin of ours, that car of yours (cette voiture que tu as : souvent avec une nuance familière ou critique), a friend of Paul's."
+   ],
+   "exemples": [
+    ["A friend of mine lives in Kigali.", "Un de mes amis habite à Kigali."],
+    ["She's a colleague of my sister's.", "C'est une collègue de ma sœur."],
+    ["Is that old bike of yours still working?", "Ton vieux vélo marche encore ?"]
+   ]
+  },
+  {
+   "titre": "Les pronoms possessifs pour comparer et opposer",
+   "texte": [
+    "Les pronoms possessifs sont très utiles pour comparer ou opposer deux possesseurs, car ils évitent de répéter le nom : My job is boring, but yours is exciting.",
+    "À l'oral, on les accentue souvent : It's not YOURS, it's MINE! Avec « too » et « neither » : My phone is old. — Mine too!"
+   ],
+   "exemples": [
+    ["My English is OK, but yours is excellent.", "Mon anglais est correct, mais le tien est excellent."],
+    ["Their garden is small; ours is huge.", "Leur jardin est petit ; le nôtre est immense."],
+    ["My train is late. — Mine too!", "Mon train est en retard. — Le mien aussi !"]
+   ]
+  }
+ ],
+ "formule": "my → mine · your → yours · his → his · her → hers · our → ours · their → theirs (sans article, sans apostrophe) · a friend of mine",
+ "prononciation": [
+  "« mine » /maɪn/ rime avec « fine » ; « yours » /jɔːz/ se prononce comme « your » + z.",
+  "« hers » /hɜːz/, « ours » /ˈaʊəz/ (comme « hours »), « theirs » /ðeəz/ (comme « there's »).",
+  "Les pronoms possessifs sont généralement ACCENTUÉS, contrairement aux adjectifs possessifs : It's MINE (/maɪn/), mais it's my bag /maɪ/ souvent faible.",
+  "Le -s final se prononce /z/ dans yours, hers, ours, theirs.",
+  "« Whose » /huːz/ se prononce comme « who's »."
+ ],
+ "erreurs": [
+  ["This is the mine.", "This is mine.", "Pas d'article devant un pronom possessif."],
+  ["Is this your's?", "Is this yours?", "Pas d'apostrophe dans yours, hers, ours, theirs."],
+  ["This bag is my.", "This bag is mine.", "Seul, on utilise le pronom (mine), pas l'adjectif (my)."],
+  ["It's mine book.", "It's my book.", "Devant un nom : l'adjectif possessif (my)."],
+  ["a my friend", "a friend of mine / one of my friends", "« Un de mes amis » = a friend of mine."],
+  ["The red car is her.", "The red car is hers.", "Pronom possessif féminin : hers."],
+  ["Who is this jacket?", "Whose is this jacket? / Whose jacket is this?", "« À qui » = whose."],
+  ["My shoes are new. Your are old.", "My shoes are new. Yours are old.", "Seul : yours."]
+ ],
+ "dialogue": {
+  "contexte": "À la fin d'un cours de yoga à Bruxelles, plusieurs participants cherchent leurs affaires dans le vestiaire.",
+  "lignes": [
+   ["Nora", "Whose water bottle is this? It's blue.", "À qui est cette gourde ? Elle est bleue."],
+   ["Tom", "It's not mine. Mine is green. Maybe it's Léa's.", "Ce n'est pas la mienne. La mienne est verte. C'est peut-être celle de Léa."],
+   ["Léa", "Yes, it's mine, thanks! And is this towel yours, Tom?", "Oui, c'est la mienne, merci ! Et cette serviette, c'est la tienne, Tom ?"],
+   ["Tom", "No, mine is in my bag. I think it's Sami's. He always forgets his things.", "Non, la mienne est dans mon sac. Je crois que c'est celle de Sami. Il oublie toujours ses affaires."],
+   ["Nora", "Ha ha! Oh, and these shoes? Are they yours?", "Ha ha ! Oh, et ces chaussures ? Elles sont à toi ?"],
+   ["Léa", "No, they aren't. They're too big. They're probably the teacher's.", "Non. Elles sont trop grandes. C'est sûrement celles de la prof."],
+   ["Tom", "By the way, a friend of mine wants to join the class. Is there a place?", "Au fait, un de mes amis veut s'inscrire au cours. Il y a une place ?"],
+   ["Nora", "Yes, tell your friend to come next Monday. Our group is small, not like theirs on Saturday!", "Oui, dis à ton ami de venir lundi prochain. Notre groupe est petit, pas comme le leur le samedi !"]
+  ]
+ },
+ "mots": [
+  ["mine", "That umbrella is mine.", "le mien, la mienne, les miens, les miennes"],
+  ["yours", "Is this seat yours?", "le tien, le vôtre…"],
+  ["hers", "The idea was hers.", "le sien, la sienne (à elle)"],
+  ["ours", "This house is ours.", "le nôtre, la nôtre…"],
+  ["theirs", "The black car is theirs.", "le leur, la leur, les leurs"],
+  ["whose", "Whose keys are these?", "à qui"],
+  ["belong", "Does this belong to you?", "appartenir"],
+  ["towel", "Is this towel yours?", "la serviette (de bain)"],
+  ["gloves", "Whose gloves are these?", "les gants"],
+  ["lost property", "Ask at the lost property office.", "les objets trouvés (US : lost and found)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Adjectif → pronom",
+   "consigne": "Écris le pronom possessif correspondant.",
+   "items": [
+    ["my", "mine"],
+    ["your", "yours"],
+    ["her", "hers"],
+    ["our", "ours"],
+    ["their", "theirs"],
+    ["his", "his"]
+   ]
+  },
+  {
+   "titre": "2. Remplacer",
+   "consigne": "Remplace les mots entre crochets par un pronom possessif.",
+   "items": [
+    ["This is [my coat].", "This is mine."],
+    ["Is that [your car]?", "Is that yours?"],
+    ["The blue house is [their house].", "The blue house is theirs."],
+    ["These books are [her books].", "These books are hers."],
+    ["Our kitchen is bigger than [your kitchen].", "Our kitchen is bigger than yours."]
+   ]
+  },
+  {
+   "titre": "3. Adjectif ou pronom ?",
+   "consigne": "Choisis la forme correcte.",
+   "items": [
+    ["Is this (your / yours) phone?", "your"],
+    ["No, it isn't (my / mine).", "mine"],
+    ["(Our / Ours) teacher is from Canada.", "Our"],
+    ["That bike is (her / hers).", "hers"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["Is this bag your's?", "Is this bag yours?"],
+    ["Your phone is new, but the mine is old.", "Your phone is new, but mine is old."],
+    ["She's a my colleague.", "She's a colleague of mine. / She's one of my colleagues."],
+    ["Who is this pen? — It's my.", "Whose is this pen? — It's mine."],
+    ["These seats are their.", "These seats are theirs."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Ce n'est pas mon sac, c'est le sien (à elle).", "It isn't my bag, it's hers."],
+    ["Un de mes amis travaille à Genève.", "A friend of mine works in Geneva."],
+    ["À qui sont ces clés ? — Ce sont les nôtres.", "Whose keys are these? — They're ours."],
+    ["Leur maison est plus grande que la nôtre.", "Their house is bigger than ours."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Compare trois choses qui t'appartiennent avec celles d'un ami ou d'un membre de ta famille, en utilisant au moins trois pronoms possessifs différents.",
+   "items": [
+    ["Exemple de réponse", "My phone is quite old, but my sister's is brand new. Her car is red and mine is grey. Our flat is small, but my parents' house is big; theirs has a garden."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "mine, yours, his, hers, ours, theirs remplacent possessif + nom.",
+  "Invariables, sans article, sans apostrophe : This is mine (pas « the mine », pas « your's »).",
+  "Devant un nom : my, your… ; seul : mine, yours…",
+  "Whose is this? — It's mine / It's Anna's.",
+  "a friend of mine = un de mes amis."
+ ],
+ "liens": [10, 14, 15, 64],
+ "refs": ["cam-nouns", "bc-a1a2"]
+}

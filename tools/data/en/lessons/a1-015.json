@@ -1,0 +1,211 @@
+{
+ "n": 15,
+ "niveau": "A1",
+ "titre": "The possessive ’s (Paul’s car)",
+ "intro": "To say that a car belongs to Paul, English says “Paul's car”: first the owner, then 's, then the thing. You need this structure to talk about your family, your friends and the things that belong to them.",
+ "objectifs": [
+  "Build the possessive: owner + 's + thing, in the right order.",
+  "Put the apostrophe in the right place in the singular, in plurals with -s (my parents') and in irregular plurals (children's).",
+  "Use the possessive with no noun after it (at Marie's, at the doctor's).",
+  "Choose between “'s” (people, animals, time) and “of” (things)."
+ ],
+ "sections": [
+  {
+   "titre": "The structure: owner first",
+   "texte": [
+    "In English, the owner comes first: owner + 's + thing → Paul's car. There is no article before the thing: don't say “the Paul's car”.",
+    "The owner can be a first name, a family name, or a noun with its determiner: my sister's room, the teacher's desk, our neighbour's dog."
+   ],
+   "tableau": {
+    "entetes": ["Meaning", "English", "Order"],
+    "lignes": [
+     ["the car that belongs to Paul", "Paul's car", "Paul + 's + car"],
+     ["the husband of Anna", "Anna's husband", "Anna + 's + husband"],
+     ["the room of my sister", "my sister's room", "my sister + 's + room"],
+     ["the dog of our neighbours", "our neighbours' dog", "our neighbours + ' + dog"],
+     ["the toys of the children", "the children's toys", "the children + 's + toys"]
+    ]
+   },
+   "exemples": [
+    ["This is Karim's bike.", "The bike belongs to Karim."],
+    ["My mother's name is Odile.", "The name of my mother."],
+    ["Is that the manager's office?", "The office of the manager."]
+   ]
+  },
+  {
+   "titre": "Where does the apostrophe go?",
+   "texte": [
+    "Singular: add 's → the boy's bag (one boy).",
+    "Regular plural with -s: add only the apostrophe after the s → the boys' bags (several boys), my parents' house. When you speak, boy's, boys and boys' sound the same: the situation helps.",
+    "Irregular plural with no -s (children, men, women, people): add 's → the children's room, women's rights, people's opinions.",
+    "Names ending in s: both forms exist: James's car or James' car. “James's” is more common in modern British English."
+   ],
+   "tableau": {
+    "entetes": ["Owner", "Rule", "Example"],
+    "lignes": [
+     ["singular", "+ 's", "my brother's flat (one brother)"],
+     ["plural with -s", "+ '", "my brothers' flat (two or more brothers)"],
+     ["irregular plural", "+ 's", "the men's team, the children's toys"],
+     ["name ending in -s", "+ 's or '", "Thomas's phone / Thomas' phone"]
+    ]
+   }
+  },
+  {
+   "titre": "Two owners, and no noun after 's",
+   "texte": [
+    "When two people own one thing together, put 's only after the second name: Paul and Marie's flat (they share it). If each person has their own, put 's after both: Paul's and Marie's cars.",
+    "You can leave out the noun after 's when it is clear: Whose bag is this? — It's Ana's. This is very common with places: at my aunt's (= at my aunt's house), at the doctor's, at the hairdresser's, the baker's (the bakery)."
+   ],
+   "exemples": [
+    ["We're having dinner at Julie's tonight.", "at Julie's = at Julie's home."],
+    ["I've got an appointment at the dentist's.", "at the dentist's = at the dentist's surgery."],
+    ["Whose keys are these? — They're Omar's.", "No noun after Omar's."],
+    ["Tom and Lisa's wedding is in June.", "One wedding, two people."]
+   ],
+   "note": "“Whose?” is the question for possession: Whose phone is this? Don't confuse it with “Who's” (= who is): they sound the same."
+  },
+  {
+   "titre": "'s or of?",
+   "texte": [
+    "Use 's mainly with people, animals, countries, organisations and time expressions: my friend's car, the cat's food, Canada's capital, the company's results, today's newspaper, a week's holiday.",
+    "With things, use “the … of …”: the end of the film, the name of the street, the door of the car. For some common pairs, you can also put a noun before a noun: the car door, the street name.",
+    "With a long owner (several words), “of” is also more natural: the house of the family next door (not “the family next door's house”)."
+   ],
+   "tableau": {
+    "entetes": ["Owner", "Best form", "Example"],
+    "lignes": [
+     ["person, animal", "'s", "my aunt's garden, the dog's bed"],
+     ["time", "'s", "today's meeting, next week's exam"],
+     ["thing", "of / noun + noun", "the top of the page, the kitchen window"],
+     ["long group of words", "of", "the name of the woman in the red dress"]
+    ]
+   }
+  },
+  {
+   "titre": "The 's trap: is, has or possessive?",
+   "texte": [
+    "The letters 's can mean three things: “is” (She's French), “has” (She's got a car) or possession (Sophie's car). To know which, look at the next word: a noun → possession; an adjective, a noun with an article or an -ing verb → is; got → has.",
+    "Don't confuse possession with the plural: “my friends” (more than one friend, no apostrophe), “my friend's car” (the car of my friend)."
+   ],
+   "exemples": [
+    ["Marc's tired. → Marc is tired.", "'s + adjective = is."],
+    ["Marc's car is new.", "'s + noun = possession."],
+    ["Marc's got a new car. → Marc has got a new car.", "'s + got = has."]
+   ]
+  }
+ ],
+ "formule": "owner + 's + noun (Paul's car) · plural with -s + ' (my parents' house) · irregular plural + 's (children's toys)",
+ "prononciation": [
+  "'s sounds like the plural -s: /s/ after p, t, k, f (Pat's /pæts/), /z/ after a vowel or voiced sound (Paul's /pɔːlz/), /ɪz/ after s, z, sh, ch, j sounds (Alice's /ˈælɪsɪz/, George's /ˈdʒɔːdʒɪz/).",
+  "“parents'” sounds exactly like “parents”: /ˈpeərənts/. You can't hear the apostrophe.",
+  "“James's” is /ˈdʒeɪmzɪz/, with an extra syllable; “James'” is usually /dʒeɪmz/.",
+  "“Whose” and “who's” both sound like /huːz/.",
+  "In “at the doctor's”, stress DOC-: /ət ðə ˈdɒktəz/."
+ ],
+ "erreurs": [
+  ["the car of Paul", "Paul's car", "With a person, use 's."],
+  ["the Paul's car", "Paul's car", "No article before the thing."],
+  ["my parent's house (two parents)", "my parents' house", "Plural with -s: apostrophe after the s."],
+  ["the childrens' toys", "the children's toys", "Irregular plural: + 's."],
+  ["the film's end", "the end of the film", "With a thing, “of” is better."],
+  ["Paul's and Marie's flat (they share it)", "Paul and Marie's flat", "One thing, two owners: 's only after the second name."],
+  ["Who's bag is this?", "Whose bag is this?", "The question for possession is whose."],
+  ["My friend's are nice.", "My friends are nice.", "A simple plural has no apostrophe."]
+ ],
+ "dialogue": {
+  "contexte": "After a party in a flat in Brussels, two friends tidy up and find things people forgot.",
+  "lignes": [
+   ["Lina", "Whose jacket is this? It's on the sofa.", "Whose? = who does it belong to?"],
+   ["Hugo", "I think it's Yannick's. He's always got a black jacket.", "No noun after Yannick's."],
+   ["Lina", "And these keys? Are they your brother's?", "your brother's = your brother's keys."],
+   ["Hugo", "No, they're my parents'. They're for their car. My mum's going to call me, I'm sure!", "parents': plural owner; mum's = mum is."],
+   ["Lina", "Ha ha. And look, the children's drawings are on the table.", "children's: irregular plural."],
+   ["Hugo", "Those are my sister's kids. They're at my aunt's tonight.", "at my aunt's = at my aunt's house."],
+   ["Lina", "OK. Is the last piece of cake for anyone?", "the last piece of cake: of with things."],
+   ["Hugo", "Yes! It's for Mariam and Léo's little girl. It's her favourite.", "Two parents, one girl: 's after the second name."]
+  ]
+ },
+ "mots": [
+  ["whose", "Whose phone is this?", "used to ask who something belongs to"],
+  ["neighbour", "My neighbour's dog is very noisy.", "a person who lives near you (US: neighbor)"],
+  ["aunt", "We're at my aunt's.", "the sister of your mother or father"],
+  ["uncle", "My uncle's farm is in Bafang.", "the brother of your mother or father"],
+  ["cousin", "My cousin's wedding is on Saturday.", "the child of your aunt or uncle"],
+  ["grandmother", "My grandmother's cooking is the best.", "the mother of your mother or father"],
+  ["boss", "Is that your boss's office?", "the person who manages you at work"],
+  ["wedding", "Tom and Lisa's wedding is in June.", "the ceremony when two people get married"],
+  ["dentist", "I've got an appointment at the dentist's.", "a doctor for your teeth"],
+  ["belong to", "This bag belongs to Ana.", "be the property of someone"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Make the possessive",
+   "consigne": "Rewrite with 's.",
+   "items": [
+    ["the car of my father", "my father's car"],
+    ["the room of Léa", "Léa's room"],
+    ["the bikes of the children", "the children's bikes"],
+    ["the house of my grandparents", "my grandparents' house"],
+    ["the office of the boss", "the boss's office"],
+    ["the name of the dog", "the dog's name"]
+   ]
+  },
+  {
+   "titre": "2. Where does the apostrophe go?",
+   "consigne": "Add the apostrophe in the right place.",
+   "items": [
+    ["my sisters bag (one sister)", "my sister's bag"],
+    ["my sisters bags (two sisters)", "my sisters' bags"],
+    ["the womens team", "the women's team"],
+    ["the students books (many students)", "the students' books"]
+   ]
+  },
+  {
+   "titre": "3. 's or of?",
+   "consigne": "Choose the most natural form.",
+   "items": [
+    ["(the end of the story / the story's end)", "the end of the story"],
+    ["(the phone of my brother / my brother's phone)", "my brother's phone"],
+    ["(today's newspaper / the newspaper of today)", "today's newspaper"],
+    ["(the top of the page / the page's top)", "the top of the page"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["The Marie's flat is very nice.", "Marie's flat is very nice."],
+    ["Who's coat is this?", "Whose coat is this?"],
+    ["My parent's car is red. (both parents)", "My parents' car is red."],
+    ["The mens room is on the left.", "The men's room is on the left."],
+    ["This is the computer of Anna.", "This is Anna's computer."]
+   ]
+  },
+  {
+   "titre": "5. Write the sentence",
+   "consigne": "Use the words to write a sentence with 's or '.",
+   "items": [
+    ["she / be / the wife of my brother", "She's my brother's wife."],
+    ["I / sleep / at the home of my cousin / tonight", "I'm sleeping at my cousin's tonight."],
+    ["the toys of the children / be / in the garden", "The children's toys are in the garden."],
+    ["whose bag / this? — it / belong to / Fatou", "Whose bag is this? — It's Fatou's."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write four sentences about your family or friends with 's: someone's job or name, a thing that belongs to someone, a place (at my…'s), and a sentence with a plural (my parents').",
+   "items": [
+    ["Example answer", "My sister's name is Inès. My best friend's car is a small red Fiat. On Sundays we have lunch at my grandmother's. My parents' house is near the river."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Owner + 's + thing, no article: Paul's car, my sister's room.",
+  "Plural with -s → ' (my parents' house); irregular plural → 's (children's, women's).",
+  "No noun after: It's Ana's; at my aunt's, at the doctor's.",
+  "'s for people, animals, time; of for things (the end of the film).",
+  "Whose? = who does it belong to? ≠ who's (= who is)."
+ ],
+ "liens": [10, 12, 14, 23, 63],
+ "refs": ["bc-possessive-s", "cam-nouns"]
+}

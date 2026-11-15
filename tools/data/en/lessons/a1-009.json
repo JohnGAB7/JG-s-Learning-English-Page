@@ -1,0 +1,209 @@
+{
+ "n": 9,
+ "niveau": "A1",
+ "titre": "Present simple or present continuous?",
+ "intro": "English has two present tenses. Choosing between “I work” and “I'm working” is one of the keys to English: this lesson brings together the rules, the signal words and the trap verbs.",
+ "objectifs": [
+  "Choose between the present simple and the present continuous by meaning: habit or action now, permanent or temporary.",
+  "Notice the signal words for each tense.",
+  "Recognise state verbs that stay in the present simple (know, want, like…).",
+  "Understand verbs with two meanings (think, have, see, taste) and the difference between “What do you do?” and “What are you doing?”."
+ ],
+ "sections": [
+  {
+   "titre": "The main rule in one table",
+   "texte": [
+    "The present simple looks at life in general: things that repeat, things that are true, things that last. The present continuous looks at the moment: what is happening now or what is temporary.",
+    "Ask yourself: “Is it a habit or a fact?” → present simple. “Is it happening now, or only for a limited time?” → present continuous."
+   ],
+   "tableau": {
+    "entetes": ["Present simple", "Present continuous"],
+    "lignes": [
+     ["habit: I walk to work.", "action now: I'm walking to work now."],
+     ["permanent situation: She lives in Douala.", "temporary situation: She's living with a friend this month."],
+     ["general truth: Water boils at 100 °C.", "change in progress: The water is getting hot."],
+     ["timetable: The train leaves at 8.", "arranged plan: I'm leaving tomorrow (lesson 50)."],
+     ["state verbs: I know, I want, I like.", "action verbs only."]
+    ]
+   }
+  },
+  {
+   "titre": "Signal words",
+   "texte": [
+    "Some words are strong clues for the choice. They are not absolute rules, but they help a lot.",
+    "Present simple: always, usually, often, sometimes, never, every day / week, on Mondays, at the weekend, once a week, in general.",
+    "Present continuous: now, right now, at the moment, today, this week / month / year, these days, currently, Look!, Listen!"
+   ],
+   "exemples": [
+    ["I usually drink tea, but today I'm drinking coffee.", "usually → simple; today → continuous."],
+    ["He works in Liège, but this week he's working in Namur.", "permanent vs temporary."],
+    ["Listen! The neighbours are arguing again.", "Listen! → continuous."],
+    ["We go to the market every Saturday.", "every Saturday → simple."]
+   ]
+  },
+  {
+   "titre": "“What do you do?” or “What are you doing?”",
+   "texte": [
+    "These questions look similar, but their meaning is very different. “What do you do?” (present simple) asks about your job. “What are you doing?” (present continuous) asks about your activity at this moment.",
+    "In the same way, “Where do you live?” asks about your permanent home, but “Where are you staying?” asks where you sleep during a trip."
+   ],
+   "exemples": [
+    ["What do you do? — I'm a pharmacist.", "Question about a job."],
+    ["What are you doing? — I'm looking for my keys.", "Question about now."],
+    ["Where are you staying? — At a hotel near the station.", "Temporary place during a trip."]
+   ]
+  },
+  {
+   "titre": "State verbs",
+   "texte": [
+    "State verbs describe a thought, a feeling, a sense or possession, not an action. We normally use them in the present simple, even for this moment.",
+    "This is a classic trap: you want to say something about now, so you think “now = -ing”. But “want” is a state verb: I want a coffee now."
+   ],
+   "tableau": {
+    "entetes": ["Group", "Verbs", "Example"],
+    "lignes": [
+     ["likes, feelings", "like, love, hate, prefer, want, need", "I need help now."],
+     ["thinking, knowing", "know, understand, believe, remember, forget, mean, think (= have an opinion)", "Do you understand me?"],
+     ["senses", "see, hear, smell, taste (not on purpose)", "I can't see anything. / I hear music."],
+     ["possession", "have (= own), own, belong", "This bag belongs to Ana."],
+     ["description", "seem, look like, cost, weigh, contain", "This phone costs 300 euros."]
+    ]
+   },
+   "note": "You sometimes hear “I'm loving it” (an advertising slogan). It is informal and expressive: don't use it in your own sentences for now."
+  },
+  {
+   "titre": "Verbs with two meanings",
+   "texte": [
+    "A few verbs are state verbs with one meaning and action verbs with another. With the action meaning, they can be in the present continuous.",
+    "The most common is “think”. I think it's a good idea (= my opinion, state) / I'm thinking about my holiday (= using my mind now, action)."
+   ],
+   "tableau": {
+    "entetes": ["Verb", "State meaning (present simple)", "Action meaning (present continuous)"],
+    "lignes": [
+     ["think", "I think you're right. (opinion)", "I'm thinking about it. (considering)"],
+     ["have", "She has two cars. (own)", "She's having lunch. (eating)"],
+     ["see", "I see what you mean. (understand)", "I'm seeing the doctor at five. (meeting)"],
+     ["taste", "This soup tastes good. (has a flavour)", "He's tasting the soup. (trying it)"],
+     ["look", "You look tired. (seem)", "I'm looking at the map. (using my eyes)"]
+    ]
+   },
+   "exemples": [
+    ["What do you think of my new haircut?", "Your opinion."],
+    ["What are you thinking about?", "What is in your mind now."]
+   ]
+  }
+ ],
+ "formule": "Habit, fact, permanent, state → I work / I know · Now, temporary, change → I'm working",
+ "prononciation": [
+  "In present continuous sentences, the auxiliary is short and joined: she's working /ʃiːz ˈwɜːkɪŋ/, we're /wɪə/ or /wə/.",
+  "Don't drop the -s of the present simple (she works /wɜːks/) or the short form of the continuous (she's working). These sounds show the tense when you speak.",
+  "“What do you do?” often sounds like /wɒt də jə ˈduː/, with stress on the last “do”. “What are you doing?”: stress on DO-ing.",
+  "To contrast two sentences, stress the signal words: I USUALLY drink tea, but TODAY I'm drinking coffee."
+ ],
+ "erreurs": [
+  ["I'm knowing her very well.", "I know her very well.", "“Know” is a state verb: present simple."],
+  ["Look! The bus comes.", "Look! The bus is coming.", "Action happening now (Look!) → present continuous."],
+  ["I'm going to the gym every Monday.", "I go to the gym every Monday.", "Habit (every Monday) → present simple."],
+  ["What are you doing? — I'm a teacher.", "What do you do? — I'm a teacher.", "For a job, ask “What do you do?”."],
+  ["She's having a new car.", "She has a new car. / She's got a new car.", "“Have” = own: present simple."],
+  ["I'm not understanding this exercise.", "I don't understand this exercise.", "“Understand” is a state verb."],
+  ["Water is boiling at 100 degrees.", "Water boils at 100 degrees.", "General truth → present simple."]
+ ],
+ "dialogue": {
+  "contexte": "On a train from Paris to Brussels, two travellers start talking.",
+  "lignes": [
+   ["Hugo", "Excuse me, is this seat free? — Thanks. Are you going to Brussels too?", "Action now: are you going."],
+   ["Awa", "Yes. I live in Paris, but I'm working in Brussels this month.", "Permanent vs temporary."],
+   ["Hugo", "Oh, really? What do you do?", "A question about her job."],
+   ["Awa", "I'm a translator. I usually work at home, but now I'm helping a team at the European Parliament.", "usually → simple; now → continuous."],
+   ["Hugo", "Interesting! And what are you reading?", "Activity now."],
+   ["Awa", "A novel by a Cameroonian writer. I love it. Do you know Léonora Miano?", "State verbs: love, know."],
+   ["Hugo", "Yes, I know her books! I think they're excellent.", "think = opinion: present simple."],
+   ["Awa", "Oh look, we're arriving. The train is slowing down.", "Happening now."]
+  ]
+ },
+ "mots": [
+  ["usually", "I usually take the train.", "in most cases"],
+  ["currently", "She's currently living in Ghent.", "now, at this time"],
+  ["these days", "I'm very busy these days.", "in this recent period"],
+  ["stay", "Where are you staying?", "live in a place for a short time"],
+  ["know", "Do you know the answer?", "have information in your mind"],
+  ["believe", "I believe you.", "think that something is true"],
+  ["prefer", "I prefer tea to coffee.", "like one thing more than another"],
+  ["belong", "This book belongs to me.", "be the property of someone"],
+  ["cost", "How much does it cost?", "have a price"],
+  ["seem", "He seems happy today.", "appear to be"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Habit or now?",
+   "consigne": "Choose the right form.",
+   "items": [
+    ["I (go / am going) to work by bike every day.", "go"],
+    ["Be quiet! The baby (sleeps / is sleeping).", "is sleeping"],
+    ["She (doesn't eat / isn't eating) meat. She's vegetarian.", "doesn't eat"],
+    ["Where's Paul? — He (has / is having) a shower.", "is having"],
+    ["I (don't know / am not knowing) his address.", "don't know"],
+    ["This week we (work / are working) on a new project.", "are working"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb in brackets in the present simple or the present continuous.",
+   "items": [
+    ["My father ___ (cook) every Sunday, but today my mother ___ (cook).", "cooks … is cooking"],
+    ["___ you ___ (understand) the question?", "Do … understand"],
+    ["Look! It ___ (snow).", "is snowing / 's snowing"],
+    ["Nadia ___ (not / work) today. She's ill.", "isn't working / is not working"],
+    ["This bag ___ (belong) to my sister.", "belongs"]
+   ]
+  },
+  {
+   "titre": "3. Verbs with two meanings",
+   "consigne": "Complete with the right form of think, have or look.",
+   "items": [
+    ["I ___ it's a great idea. (think)", "think"],
+    ["Quiet, please! I ___ about the answer. (think)", "'m thinking / am thinking"],
+    ["We ___ dinner now. Can I call you later? (have)", "'re having / are having"],
+    ["You ___ tired. Go to bed! (look)", "look"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I'm wanting a glass of water.", "I want a glass of water."],
+    ["He plays football now.", "He's playing football now. / He is playing football now."],
+    ["Are you liking this music?", "Do you like this music?"],
+    ["They're visiting their grandmother every summer.", "They visit their grandmother every summer."],
+    ["What are you doing? — I'm an engineer.", "What do you do? — I'm an engineer."]
+   ]
+  },
+  {
+   "titre": "5. Write the sentence",
+   "consigne": "Use the words to write a correct sentence. Choose the right present tense.",
+   "items": [
+    ["I / work / in Québec City, but this week / I / work / in Montréal", "I work in Québec City, but this week I'm working in Montréal."],
+    ["you / understand? — no", "Do you understand? — No, I don't."],
+    ["what / you / do / now? — I / make / dinner", "What are you doing? — I'm making dinner."],
+    ["I / think / you / be / right", "I think you're right."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short paragraph (4–5 sentences) that contrasts your usual routine with what you are doing this week or today. Use at least one state verb.",
+   "items": [
+    ["Example answer", "I usually work in an office in Lille, and I take the metro every morning. But this week I'm working from home because my daughter is ill. Right now she's sleeping and I'm writing emails. I love my job, but I prefer working at the office."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Present simple: habits, facts, permanent situations, timetables, state verbs.",
+  "Present continuous: actions now, temporary situations, changes in progress.",
+  "Signal words: every day, usually, never → simple; now, at the moment, this week, Look! → continuous.",
+  "State verbs (know, want, like, need, understand, belong): present simple, even now.",
+  "Think, have, see, taste, look change meaning: I think so (opinion) / I'm thinking (considering)."
+ ],
+ "liens": [6, 7, 8, 50],
+ "refs": ["bc-presentsimple", "bc-stative"]
+}

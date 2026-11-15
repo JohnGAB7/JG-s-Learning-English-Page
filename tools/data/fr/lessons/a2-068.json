@@ -1,0 +1,199 @@
+{
+ "n": 68,
+ "niveau": "A2",
+ "titre": "Les questions sujet (Who called?)",
+ "intro": "À la leçon 67, tu as appris à poser des questions avec did : Who did you call? Mais quand le mot interrogatif (who, what, which…) est le SUJET du verbe, on n'utilise ni do, ni does, ni did : Who called? (Qui a appelé ?). Cette différence change complètement le sens de la question. C'est une difficulté classique, car le français utilise souvent « qui est-ce qui » et « qui est-ce que » sans que l'on y pense.",
+ "objectifs": [
+  "Distinguer la question sujet (Who called you?) de la question complément (Who did you call?).",
+  "Former une question sujet sans auxiliaire, avec le verbe conjugué normalement (Who lives here? What happened?).",
+  "Utiliser who, what, which et how many comme sujets.",
+  "Répondre correctement à une question sujet (Anna did. / My brother does.)."
+ ],
+ "sections": [
+  {
+   "titre": "Sujet ou complément ?",
+   "texte": [
+    "Compare : Anna called Marc. Si on ne connaît pas la personne qui appelle (le sujet), on demande : Who called Marc? → Anna. Si on ne connaît pas la personne appelée (le complément), on demande : Who did Anna call? → Marc.",
+    "Dans la question sujet, who remplace simplement le sujet : l'ordre des mots reste celui de la phrase affirmative. Pas d'inversion, pas de do / does / did.",
+    "Astuce : demande-toi si la réponse est la personne qui FAIT l'action (sujet → pas d'auxiliaire) ou la personne qui la SUBIT (complément → do / does / did)."
+   ],
+   "tableau": {
+    "entetes": ["Phrase", "Question sujet", "Question complément"],
+    "lignes": [
+     ["Anna called Marc.", "Who called Marc? → Anna.", "Who did Anna call? → Marc."],
+     ["Tom loves Léa.", "Who loves Léa? → Tom.", "Who does Tom love? → Léa."],
+     ["The dog ate my sandwich.", "What ate my sandwich? → The dog.", "What did the dog eat? → My sandwich."]
+    ]
+   },
+   "exemples": [
+    ["Who called you last night?", "Qui t'a appelé ? (who = sujet)"],
+    ["Who did you call last night?", "Qui as-tu appelé ? (who = complément)"]
+   ]
+  },
+  {
+   "titre": "La forme : Who / What + verbe",
+   "texte": [
+    "Au présent, le verbe prend le -s de la 3e personne, car who et what sont traités comme « he / she / it » : Who lives here? Who wants coffee? What makes you happy?",
+    "Au passé, on utilise la forme du passé simple directement : Who broke the window? What happened? Who won the match?",
+    "Avec be et les modaux, même logique : Who is at the door? Who was absent? Who can help me? Who will come?"
+   ],
+   "exemples": [
+    ["Who wants more rice?", "Présent : wants avec -s."],
+    ["What happened at the station?", "Passé : happened, pas « did happen »."],
+    ["Who broke my glasses?", "broke = passé de break."],
+    ["Who can drive?", "Modal + base verbale."]
+   ]
+  },
+  {
+   "titre": "Which, whose, how many comme sujets",
+   "texte": [
+    "Les mots interrogatifs suivis d'un nom peuvent aussi être sujets : Which team won? Whose phone is ringing? How many people came?",
+    "Compare : How many people came? (sujet : des gens sont venus) / How many people did you invite? (complément : tu as invité des gens).",
+    "What + nom fonctionne de la même façon : What music relaxes you? / What music do you listen to?"
+   ],
+   "exemples": [
+    ["Which bus goes to the airport?", "Which bus = sujet de goes."],
+    ["Whose dog is barking?", "Le chien de qui aboie ?"],
+    ["How many students passed the exam?", "Sujet : pas de did."]
+   ]
+  },
+  {
+   "titre": "Répondre à une question sujet",
+   "texte": [
+    "La réponse courte reprend le sujet + l'auxiliaire qui correspond au temps : Who called? — Anna did. Who lives here? — My aunt does. Who is ready? — I am.",
+    "À l'oral, on répond souvent juste par le nom ou le pronom complément : Who wants tea? — Me! (très courant), ou plus soigné : I do.",
+    "Attention au pluriel : même si la réponse est plurielle, la question reste au singulier : Who lives in that house? — The Mbarga family. / My cousins do."
+   ],
+   "exemples": [
+    ["Who made this cake? — My sister did.", "Réponse : sujet + did."],
+    ["Who speaks Spanish here? — Carlos does.", "Réponse : sujet + does."],
+    ["Who's hungry? — We are!", "Réponse avec be."]
+   ]
+  },
+  {
+   "titre": "Les pièges les plus fréquents",
+   "texte": [
+    "Erreur n° 1 : ajouter did par habitude. « Who did call you? » ne veut pas dire « Qui t'a appelé ? » (did accentué n'est possible que pour insister fortement). La forme normale est Who called you?",
+    "Erreur n° 2 : oublier le -s au présent. Who knows the answer? (et non « Who know »).",
+    "Erreur n° 3 : utiliser what happen sans terminaison. Au passé : What happened? Au présent pour une habitude : What happens when…?"
+   ],
+   "exemples": [
+    ["What happened to your car?", "Pas « What did happen »."],
+    ["Who knows the answer?", "-s de la 3e personne."]
+   ]
+  }
+ ],
+ "formule": "Question sujet : Who / What / Which + nom / How many + nom + verbe (pas d'auxiliaire) · Who called? · Question complément : Who + did + sujet + base verbale ? · Who did you call?",
+ "prononciation": [
+  "Dans une question sujet, l'accent tombe souvent sur le verbe et sur l'information principale : Who CALLED? What HAPPENED?",
+  "who /huː/ : le h est bien soufflé ; ne dis pas « ou ».",
+  "happened /ˈhæpənd/ : trois sons, la fin -ed se prononce /d/, pas /ɪd/.",
+  "Who's = Who is ou Who has : Who's there? /huːz/.",
+  "Dans la réponse courte, l'auxiliaire est accentué : ANna DID. My SIster DOES."
+ ],
+ "erreurs": [
+  ["Who did call you?", "Who called you?", "Who est sujet : pas de did."],
+  ["What did happen?", "What happened?", "What est sujet : pas de did."],
+  ["Who know the answer?", "Who knows the answer?", "Who + verbe à la 3e personne du singulier."],
+  ["Who you called?", "Who did you call?", "Si who est complément, il faut did."],
+  ["How many people did come?", "How many people came?", "How many people est sujet."],
+  ["Who live in this house?", "Who lives in this house?", "Toujours le -s, même si la réponse est plurielle."],
+  ["Who broke the vase? — My brother broke.", "My brother did.", "Réponse courte : sujet + did."]
+ ],
+ "dialogue": {
+  "contexte": "Dans une colocation à Bruxelles, Yasmine rentre du travail et trouve la cuisine en désordre.",
+  "lignes": [
+   ["Yasmine", "What happened here? Who used all the plates?", "Qu'est-ce qui s'est passé ici ? Qui a utilisé toutes les assiettes ?"],
+   ["Lucas", "Not me! Théo did. He cooked for his friends.", "Pas moi ! C'est Théo. Il a cuisiné pour ses amis."],
+   ["Yasmine", "How many people came?", "Combien de personnes sont venues ?"],
+   ["Lucas", "About ten. And who did he invite? Half of his football team!", "Une dizaine. Et qui a-t-il invité ? La moitié de son équipe de foot !"],
+   ["Yasmine", "Great… And who's going to wash all this?", "Génial… Et qui va laver tout ça ?"],
+   ["Lucas", "Théo is. He promised.", "Théo. Il l'a promis."],
+   ["Yasmine", "Hmm. Who ate my yoghurt? It was in the fridge.", "Hum. Qui a mangé mon yaourt ? Il était dans le frigo."],
+   ["Lucas", "I don't know… Which yoghurt? The one with strawberries?", "Je ne sais pas… Quel yaourt ? Celui à la fraise ?"],
+   ["Yasmine", "Yes! Lucas… what did you eat for breakfast?", "Oui ! Lucas… qu'est-ce que tu as mangé au petit déjeuner ?"],
+   ["Lucas", "Er… a strawberry yoghurt. Sorry!", "Euh… un yaourt à la fraise. Désolé !"]
+  ]
+ },
+ "mots": [
+  ["happen", "What happened yesterday?", "se passer, arriver"],
+  ["break", "Who broke the window?", "casser"],
+  ["win", "Which team won?", "gagner"],
+  ["invite", "Who did you invite?", "inviter"],
+  ["ring", "Whose phone is ringing?", "sonner"],
+  ["promise", "He promised to help.", "promettre"],
+  ["fridge", "The milk is in the fridge.", "le réfrigérateur, le frigo"],
+  ["plate", "Put the plates on the table.", "une assiette"],
+  ["absent", "Who was absent today?", "absent"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Sujet ou complément ?",
+   "consigne": "Lis la phrase, puis pose deux questions avec who : une sur le sujet, une sur le complément.",
+   "items": [
+    ["Paul helped Awa.", "Who helped Awa? (Paul) / Who did Paul help? (Awa)"],
+    ["My mother phoned the doctor.", "Who phoned the doctor? / Who did your mother phone?"],
+    ["Sara loves Karim.", "Who loves Karim? / Who does Sara love?"],
+    ["The teacher saw Léo.", "Who saw Léo? / Who did the teacher see?"]
+   ]
+  },
+  {
+   "titre": "2. Questions sujet",
+   "consigne": "Pose la question sujet qui correspond à la partie en majuscules.",
+   "items": [
+    ["MY BROTHER lives in Toronto.", "Who lives in Toronto?"],
+    ["SOMETHING STRANGE happened last night.", "What happened last night?"],
+    ["CAMEROON won the match.", "Who won the match? / Which team won the match?"],
+    ["TWENTY PEOPLE came to the meeting.", "How many people came to the meeting?"],
+    ["AMÉLIE'S phone is ringing.", "Whose phone is ringing?"]
+   ]
+  },
+  {
+   "titre": "3. Avec ou sans did ?",
+   "consigne": "Choisis la bonne question.",
+   "items": [
+    ["Je veux savoir qui a écrit ce livre. (Who wrote / Who did write) this book?", "Who wrote this book?"],
+    ["Je veux savoir ce que tu as acheté. (What bought you / What did you buy)?", "What did you buy?"],
+    ["Je veux savoir ce qui est tombé. (What fell / What did fall)?", "What fell?"],
+    ["Je veux savoir qui Marc a rencontré. (Who met Marc / Who did Marc meet)?", "Who did Marc meet?"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["Who did take my pen?", "Who took my pen?"],
+    ["What did happen to you?", "What happened to you?"],
+    ["Who want a coffee?", "Who wants a coffee?"],
+    ["Who you saw at the market?", "Who did you see at the market?"],
+    ["How many students did pass the test?", "How many students passed the test?"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Qui t'a dit ça ?", "Who told you that?"],
+    ["Qu'est-ce qui s'est passé ?", "What happened?"],
+    ["Qui as-tu vu hier ?", "Who did you see yesterday?"],
+    ["Qui veut du thé ? — Moi !", "Who wants (some) tea? — Me! / I do!"]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Imagine un petit mystère au bureau ou à la maison (quelque chose a disparu ou a été cassé). Écris quatre questions sujet (Who…? What…? How many…? Whose…?) et deux questions complément avec did.",
+   "items": [
+    ["Exemple de réponse", "Who opened the window? What happened to the plant? How many people came in this morning? Whose bag is this? What did the cleaner see? Who did the manager call?"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Question sujet : Who / What + verbe, sans do / does / did (Who called? What happened?).",
+  "Question complément : Who / What + did + sujet + base verbale (Who did you call?).",
+  "Au présent : Who lives…? (verbe au singulier avec -s).",
+  "Which / Whose / How many + nom peuvent être sujets : How many people came?",
+  "Réponse courte : Anna did. / My aunt does. / I am."
+ ],
+ "liens": [29, 67, 105, 114],
+ "refs": ["bc-questions", "cam-sentences"]
+}

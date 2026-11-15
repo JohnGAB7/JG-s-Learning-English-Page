@@ -1,0 +1,199 @@
+{
+"n": 82,
+"niveau": "A2",
+"titre": "The weather",
+"intro": "In Britain, talking about the weather is almost a national sport: it is the easiest way to start a conversation. In this lesson you learn to describe the weather (It’s sunny, It’s raining), talk about temperatures and seasons, understand a forecast and react naturally (Lovely day, isn’t it?).",
+"objectifs": [
+ "Describe the weather with “It’s + adjective” and “It’s + -ing verb”.",
+ "Tell the noun, the adjective and the verb apart: rain / rainy / it’s raining.",
+ "Talk about temperatures and seasons, and understand a weather forecast.",
+ "Use the weather to make small talk."
+],
+"sections": [
+ {
+  "titre": "The subject “it”",
+  "texte": [
+   "For the weather, English always uses the subject “it”: “It’s cold.” “It’s raining.” “It was windy yesterday.”",
+   "To ask: “What’s the weather like?” or “What’s the weather like in Douala today?” Careful: here “like” doesn’t mean “enjoy”; it means “how is it / describe it”.",
+   "“weather” is uncountable: “nice weather”, “bad weather”, never “a nice weather”. Don’t confuse it with “time” (hours, minutes) or with “whether” (= if), which sounds the same."
+  ],
+  "exemples": [
+   ["What’s the weather like today? — It’s sunny and warm.", "The usual question and answer."],
+   ["It was very cold in Montreal last week.", "Past: It was + adjective."],
+   ["We had lovely weather on holiday.", "weather: no “a”."]
+  ]
+ },
+ {
+  "titre": "Noun, adjective, verb",
+  "texte": [
+   "Many weather words have three forms: the noun (“rain”, “sun”, “wind”), the adjective with -y (“rainy”, “sunny”, “windy”) and sometimes a verb (“to rain”, “to snow”).",
+   "We say “It’s sunny / cloudy / windy / foggy” (adjective), but “It’s raining / snowing” (verb in the present continuous: now). “It rains a lot in Wales” = present simple for a habit.",
+   "Spelling: “sun” → “sunny”, “fog” → “foggy” (double consonant); “rain” → “rainy”, “cloud” → “cloudy”."
+  ],
+  "tableau": {
+   "entetes": ["Noun", "Adjective", "Verb / sentence"],
+   "lignes": [
+    ["the sun", "sunny", "It’s sunny. / The sun is shining."],
+    ["rain", "rainy", "It’s raining. / It rains a lot."],
+    ["snow", "snowy", "It’s snowing."],
+    ["wind", "windy", "It’s windy."],
+    ["cloud", "cloudy", "It’s cloudy."],
+    ["fog", "foggy", "It’s foggy."],
+    ["a storm", "stormy", "There’s a storm."]
+   ]
+  },
+  "exemples": [
+   ["Take an umbrella, it’s raining.", "Now: It’s raining."],
+   ["It’s very windy on the beach today.", "It’s + adjective."],
+   ["It often snows in Quebec in January.", "Habit: present simple."]
+  ]
+ },
+ {
+  "titre": "Temperatures and feelings",
+  "texte": [
+   "From coldest to hottest: “freezing”, “cold”, “cool”, “warm” (pleasantly hot), “hot”, “boiling” (informal: very hot).",
+   "Degrees: “It’s 25 degrees.” / “It’s minus five.” (−5). The UK and Canada use Celsius; the US uses Fahrenheit (25 °C ≈ 77 °F).",
+   "Careful: for a person, say “I’m cold” / “I’m hot”, not “I have cold”. And “humid” = hot and heavy, wet air; “wet” = covered in water, rainy."
+  ],
+  "exemples": [
+   ["It’s freezing this morning! It’s minus three.", "freezing = very, very cold."],
+   ["It’s about thirty degrees in Yaoundé today.", "It’s + number + degrees."],
+   ["Can you close the window? I’m cold.", "A person: I’m cold."]
+  ]
+ },
+ {
+  "titre": "Seasons and forecasts",
+  "texte": [
+   "The seasons: “spring”, “summer”, “autumn” (US “fall”), “winter”; “in summer”, “in the winter”. In tropical countries: “the rainy season” and “the dry season”.",
+   "Forecasts (“the weather forecast”) use the future: “It’s going to rain this afternoon.” (you can see it coming, lesson 45); “Tomorrow will be sunny.”; “There will be showers in the north.” (short periods of rain).",
+   "To react: “I hope it’ll be sunny at the weekend.” “What’s the forecast for tomorrow?”"
+  ],
+  "exemples": [
+   ["Look at those black clouds. It’s going to rain.", "going to: evidence now."],
+   ["The forecast says it will be warm and sunny tomorrow.", "will in forecasts."],
+   ["In Cameroon, the rainy season starts in March in the south.", "rainy season / dry season."]
+  ]
+ },
+ {
+  "titre": "The weather for small talk",
+  "texte": [
+   "British people often start a conversation with the weather, using a question tag (lesson 69): “Lovely day, isn’t it?” “Cold today, isn’t it?” “Terrible weather, isn’t it?”",
+   "The expected answer is short and agrees: “Yes, beautiful!” / “Yes, it’s freezing!” / “I know, it hasn’t stopped raining all week.”",
+   "Useful expressions: “It’s pouring (down).” / “It’s raining cats and dogs.” (= it’s raining very hard; the second is a bit old-fashioned), “I’m soaked!” (= very wet), “What a lovely day!”"
+  ],
+  "exemples": [
+   ["Lovely weather, isn’t it? — Yes, it’s beautiful!", "Small talk with a tag."],
+   ["It’s pouring! I’m soaked.", "Heavy rain."],
+   ["Cold today, isn’t it? — Yes, it’s freezing!", "Agreeing."]
+  ]
+ }
+],
+"formule": "What’s the weather like? · It’s sunny / cloudy / windy / cold. · It’s raining / snowing. · It’s 20 degrees. · It’s going to rain. · Lovely day, isn’t it?",
+"prononciation": [
+ "“weather” /ˈweðə/ and “whether” /ˈweðə/ sound the same; the th is voiced /ð/, as in “the”.",
+ "“weather” ≠ “water” /ˈwɔːtə/: “WEH-thuh” vs “WAW-tuh”.",
+ "“cloudy” /ˈklaʊdi/: “KLOW-dee”, with the vowel of “now”.",
+ "“degrees” /dɪˈɡriːz/: stress on “GREEZ”, final s is /z/.",
+ "“autumn” /ˈɔːtəm/: the final n is silent.",
+ "“Lovely day, isn’t it?”: falling intonation ↘ on “isn’t it”: it’s not a real question; you expect agreement."
+],
+"erreurs": [
+ ["It makes cold.", "It’s cold.", "Weather: It’s + adjective."],
+ ["It’s a nice weather.", "It’s nice weather. / The weather is nice.", "“weather” is uncountable: no “a”."],
+ ["How is the weather like?", "What’s the weather like?", "With “like”, start with “What”."],
+ ["It’s rainy now, take an umbrella.", "It’s raining now, take an umbrella.", "Now: It’s raining (verb)."],
+ ["I have cold.", "I’m cold.", "Use “be cold”."],
+ ["It’s sunny today, it doesn’t it?", "It’s sunny today, isn’t it?", "Tag: is → isn’t it."],
+ ["It’s raining a lot in London in general.", "It rains a lot in London.", "Habit: present simple."],
+ ["The time is beautiful today.", "The weather is beautiful today.", "Sun, rain, etc. = the weather."]
+],
+"dialogue": {
+ "contexte": "At a bus stop in Edinburgh, Mrs Reid talks to Léa, a Belgian student who has just arrived.",
+ "lignes": [
+  ["Mrs Reid", "Terrible weather, isn’t it?", "Small talk with a question tag."],
+  ["Léa", "Yes, it’s freezing! Is it always like this in Scotland?", "like this = the same as now."],
+  ["Mrs Reid", "Not always. It rains a lot, but we have some lovely days in summer.", "Habit: present simple."],
+  ["Léa", "What’s the weather like in summer?", "The key question."],
+  ["Mrs Reid", "It’s usually cool, about eighteen degrees. Where are you from?", "cool = a bit cold."],
+  ["Léa", "I’m from Belgium. The weather is similar there, but it’s less windy.", "Comparing."],
+  ["Mrs Reid", "Well, the forecast says it’s going to snow tonight.", "A forecast."],
+  ["Léa", "Really? I hope it’ll be sunny at the weekend.", "I hope + will."],
+  ["Mrs Reid", "Don’t count on it! Ah, here’s my bus. Nice talking to you.", "Don’t count on it = it probably won’t happen."]
+ ]
+},
+"mots": [
+ ["weather", "What’s the weather like in Paris?", "the sun, rain, wind, etc. at a time and place (uncountable)"],
+ ["sunny", "It’s sunny and warm today.", "with a lot of sun"],
+ ["cloudy", "It’s cloudy, but it isn’t raining.", "with a lot of clouds"],
+ ["windy", "It’s too windy to go sailing.", "with a lot of wind"],
+ ["shower", "There will be showers this afternoon.", "a short period of rain"],
+ ["freezing", "It’s freezing outside, wear a coat.", "very cold"],
+ ["warm", "It’s a warm evening.", "pleasantly hot"],
+ ["forecast", "Have you seen the weather forecast?", "what experts say the weather will be"],
+ ["umbrella", "Don’t forget your umbrella.", "a thing you hold over your head in the rain"],
+ ["soaked", "I walked home in the rain and I’m soaked.", "very wet"]
+],
+"exercices": [
+ {
+  "titre": "1. Noun → adjective",
+  "consigne": "Give the weather adjective.",
+  "items": [
+   ["sun", "sunny"],
+   ["cloud", "cloudy"],
+   ["wind", "windy"],
+   ["fog", "foggy"],
+   ["storm", "stormy"]
+  ]
+ },
+ {
+  "titre": "2. Adjective or verb?",
+  "consigne": "Choose the correct form.",
+  "items": [
+   ["Take your umbrella. It’s (rainy / raining).", "raining"],
+   ["It’s very (snowing / snowy) in the mountains in winter. It snows a lot.", "snowy"],
+   ["Look outside! It’s (snowing / snowy)!", "snowing"],
+   ["It’s (wind / windy) today. Hold your hat!", "windy"],
+   ["It (rains / is raining) a lot in Ireland.", "rains"]
+  ]
+ },
+ {
+  "titre": "3. Complete",
+  "consigne": "Complete with one word.",
+  "items": [
+   ["What’s the weather ___ in Ottawa?", "like"],
+   ["It’s minus ten. It’s ___!", "freezing"],
+   ["Look at those clouds. It’s ___ to rain.", "going"],
+   ["Lovely day, ___ it?", "isn’t"],
+   ["Have you seen the weather ___ for tomorrow?", "forecast"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["It makes cold.", "It’s cold."],
+   ["I have hot.", "I’m hot."],
+   ["How is the weather like in Brussels?", "What’s the weather like in Brussels?"],
+   ["It’s a lovely weather.", "The weather is lovely. / It’s lovely weather."],
+   ["It’s pouring up.", "It’s pouring (down)."],
+   ["It will sunny tomorrow.", "It will be sunny tomorrow."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "In 5 or 6 sentences, describe today’s weather where you live, the usual weather in each season, and the forecast for tomorrow.",
+  "items": [
+   ["Model answer", "Today in Douala it’s hot and humid. It’s about thirty-two degrees and it’s cloudy. It rains a lot here, especially in the rainy season, from March to November. In the dry season it’s sunny and very hot. The forecast says it’s going to rain tomorrow afternoon, so I’ll take my umbrella."]
+  ]
+ }
+],
+"a_retenir": [
+ "Always the subject “it”: It’s cold. It’s raining. What’s the weather like?",
+ "Adjective to describe (sunny, cloudy, windy, foggy); -ing verb for what is happening now (It’s raining / snowing).",
+ "“weather” is uncountable: nice weather (not “a nice weather”). A person: I’m cold.",
+ "Forecasts: It’s going to rain (evidence); It will be sunny tomorrow.",
+ "Small talk: Lovely day, isn’t it? — Yes, beautiful!"
+],
+"liens": [45, 49, 59, 69, 135],
+"refs": ["bc-a1a2", "cam-adj"]
+}

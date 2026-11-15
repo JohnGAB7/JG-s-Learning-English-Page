@@ -1,0 +1,179 @@
+{
+"n": 55,
+"niveau": "A2",
+"titre": "Mustn’t ou don’t have to ?",
+"intro": "À l'affirmatif, must et have to se ressemblent beaucoup. Mais au négatif, ils ont des sens opposés : « mustn't » = c'est interdit ; « don't have to » = ce n'est pas obligatoire, tu as le choix. Confondre les deux peut créer de vrais malentendus.",
+"objectifs": [
+"Exprimer une interdiction avec mustn't (et can't / not allowed to).",
+"Exprimer l'absence d'obligation avec don't / doesn't have to (et needn't).",
+"Choisir la bonne forme selon le sens voulu, sans se laisser piéger par le français.",
+"Parler d'une absence d'obligation au passé avec didn't have to."
+],
+"sections": [
+{
+"titre": "Deux sens opposés",
+"texte": [
+"« Mustn't » (must not) signifie qu'une action est interdite : il ne faut pas la faire. C'est une interdiction, souvent une règle ou un avertissement.",
+"« Don't have to » signifie qu'une action n'est pas nécessaire : on peut la faire si on veut, mais ce n'est pas obligatoire. C'est une liberté, pas une interdiction."
+],
+"tableau": {
+"entetes": ["Forme", "Sens", "Exemple", "Traduction"],
+"lignes": [
+["mustn't + base", "interdiction", "You mustn't smoke here.", "Tu ne dois pas fumer ici (c'est interdit)."],
+["don't have to + base", "pas d'obligation", "You don't have to come.", "Tu n'es pas obligé de venir."],
+["doesn't have to + base", "pas d'obligation (3e pers.)", "She doesn't have to work today.", "Elle n'a pas besoin de travailler aujourd'hui."]
+]
+},
+"exemples": [
+["You mustn't be late for the exam.", "Tu ne dois pas être en retard à l'examen (interdit, avertissement)."],
+["You don't have to be early. Ten o'clock is fine.", "Tu n'as pas besoin d'arriver en avance. Dix heures, c'est bien."]
+]
+},
+{
+"titre": "Le piège du français",
+"texte": [
+"En français, « tu ne dois pas » exprime l'interdiction : c'est bien « you mustn't ». Mais « tu n'as pas à », « tu n'es pas obligé de », « ce n'est pas la peine de », « pas besoin de » se traduisent par « you don't have to ».",
+"Erreur classique : traduire « don't have to » par « ne doit pas ». Si un panneau dit « You don't have to pay », cela veut dire que c'est gratuit, pas que payer est interdit !"
+],
+"exemples": [
+["You mustn't touch the paintings.", "Il ne faut pas toucher les tableaux (interdit)."],
+["You don't have to touch the screen — it works with your voice.", "Pas besoin de toucher l'écran : ça marche à la voix."],
+["We don't have to get up early tomorrow. It's Sunday!", "On n'a pas besoin de se lever tôt demain. C'est dimanche !"]
+]
+},
+{
+"titre": "D'autres façons d'exprimer l'interdiction",
+"texte": [
+"« Can't » et « be not allowed to » expriment aussi l'interdiction, surtout quand la règle vient de l'extérieur (loi, règlement). « Mustn't » est fréquent pour un avertissement personnel ou un conseil très fort.",
+"Dans la conversation, « can't » est souvent plus naturel que « mustn't » pour une règle : « You can't park here »."
+],
+"exemples": [
+["You can't park here. It's for buses.", "Tu ne peux pas te garer ici. C'est réservé aux bus."],
+["Children aren't allowed to swim without an adult.", "Les enfants n'ont pas le droit de nager sans adulte."],
+["You mustn't tell anyone. It's a secret!", "Tu ne dois le dire à personne. C'est un secret !"]
+]
+},
+{
+"titre": "Needn't et le passé",
+"texte": [
+"En anglais britannique, « needn't + base » a le même sens que « don't have to » : « You needn't bring anything » (pas la peine d'apporter quoi que ce soit). « Don't need to » est aussi très courant.",
+"Au passé, l'interdiction se dit avec « couldn't » ou « wasn't / weren't allowed to » (mustn't n'a pas de passé). L'absence d'obligation se dit « didn't have to »."
+],
+"tableau": {
+"entetes": ["Idée", "Présent", "Passé"],
+"lignes": [
+["interdiction", "You mustn't / can't use your phone.", "We couldn't / weren't allowed to use our phones."],
+["pas d'obligation", "I don't have to wear a tie.", "I didn't have to wear a tie."],
+["pas d'obligation (GB)", "You needn't wait.", "You didn't need to wait."]
+]
+}
+}
+],
+"formule": "mustn't + base = interdit · don't / doesn't have to + base = pas obligatoire",
+"prononciation": [
+"« mustn't » se prononce /ˈmʌsnt/ : le premier t est muet. Ne pas dire « must-ent ».",
+"« don't have to » : /dəʊnt ˈhæf tə/ (GB), avec un f ; « doesn't have to » /ˈdʌznt ˈhæf tə/.",
+"« needn't » se prononce /ˈniːdnt/ en deux syllabes.",
+"Pour une interdiction, l'accent tombe sur « mustn't » : You MUSTN'T do that. Pour l'absence d'obligation, il tombe souvent sur « have » : You don't HAVE to."
+],
+"erreurs": [
+["You mustn't pay. It's free.", "You don't have to pay. It's free.", "Gratuit = pas d'obligation de payer, pas une interdiction."],
+["You don't have to smoke in the hospital.", "You mustn't smoke in the hospital.", "Règle d'interdiction : mustn't (ou can't)."],
+["She don't have to work.", "She doesn't have to work.", "3e personne du singulier : doesn't."],
+["You mustn't to run.", "You mustn't run.", "Pas de to après mustn't."],
+["Yesterday I mustn't go out.", "Yesterday I couldn't go out. / I wasn't allowed to go out.", "mustn't n'a pas de passé."],
+["I haven't to go.", "I don't have to go.", "La négation de have to se fait avec do."]
+],
+"dialogue": {
+"contexte": "Dans un musée à Ottawa, un gardien parle à deux visiteurs venus de Douala, Linda et son fils Ryan.",
+"lignes": [
+["Guard", "Good morning. Just so you know, you mustn't take photos with a flash.", "Bonjour. Pour information, il est interdit de prendre des photos avec flash."],
+["Linda", "OK. Do we have to leave our bags at the entrance?", "D'accord. Est-ce qu'on doit laisser nos sacs à l'entrée ?"],
+["Guard", "Small bags are fine, so you don't have to leave yours. But you mustn't eat or drink in the galleries.", "Les petits sacs sont acceptés, donc vous n'êtes pas obligés de laisser le vôtre. Mais il est interdit de manger ou boire dans les salles."],
+["Ryan", "Do I have to pay? I'm twelve.", "Je dois payer ? J'ai douze ans."],
+["Guard", "No, children under thirteen don't have to pay.", "Non, les enfants de moins de treize ans n'ont pas à payer."],
+["Ryan", "Great! Can I touch the dinosaur?", "Génial ! Je peux toucher le dinosaure ?"],
+["Guard", "Sorry, you mustn't touch it. But you can touch the stones in room 4.", "Désolé, il ne faut pas le toucher. Mais tu peux toucher les pierres de la salle 4."]
+]
+},
+"mots": [
+["forbidden", "Smoking is forbidden here.", "interdit"],
+["free", "Entry is free for children.", "gratuit ; libre"],
+["optional", "The second exercise is optional.", "facultatif"],
+["compulsory", "English is compulsory at this school.", "obligatoire"],
+["permission", "You need permission to film here.", "la permission, l'autorisation"],
+["warning", "There's a warning on the door.", "un avertissement"],
+["entrance", "Leave your bag at the entrance.", "l'entrée"],
+["touch", "Please don't touch the screen.", "toucher"],
+["park", "You can't park in front of the gate.", "se garer"],
+["secret", "Don't tell anyone. It's a secret.", "un secret"]
+],
+"exercices": [
+{
+"titre": "1. Interdit ou pas obligatoire ?",
+"consigne": "Dis si la phrase exprime une interdiction ou une absence d'obligation.",
+"items": [
+["You mustn't cross the road here.", "interdiction"],
+["You don't have to wear a suit on Fridays.", "pas d'obligation"],
+["He doesn't have to cook tonight.", "pas d'obligation"],
+["Passengers mustn't stand near the doors.", "interdiction"]
+]
+},
+{
+"titre": "2. Mustn't ou don't / doesn't have to ?",
+"consigne": "Complète avec la forme qui convient.",
+"items": [
+["It's a holiday tomorrow, so we ___ go to work.", "don't have to"],
+["You ___ drive after drinking alcohol.", "mustn't"],
+["The museum is free. You ___ buy a ticket.", "don't have to"],
+["You ___ open this door. The alarm will ring.", "mustn't"],
+["My brother ___ get up early. He works from home.", "doesn't have to"],
+["You ___ forget your passport!", "mustn't"]
+]
+},
+{
+"titre": "3. Au passé",
+"consigne": "Mets la phrase au passé.",
+"items": [
+["I don't have to wear a uniform.", "I didn't have to wear a uniform."],
+["We can't use our phones in the exam.", "We couldn't use our phones in the exam."],
+["She doesn't have to pay.", "She didn't have to pay."]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur de forme ou de sens. Réécris-la correctement.",
+"items": [
+["Breakfast is included, so you mustn't pay for it.", "Breakfast is included, so you don't have to pay for it."],
+["You don't have to swim here. It's dangerous!", "You mustn't swim here. It's dangerous!"],
+["He don't have to come.", "He doesn't have to come."],
+["I haven't to study tonight.", "I don't have to study tonight."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["Tu n'es pas obligé de répondre.", "You don't have to answer."],
+["Il ne faut pas oublier les clés.", "You mustn't forget the keys. / We mustn't forget the keys."],
+["Ce n'est pas la peine d'apporter un cadeau.", "You don't have to bring a present. / You needn't bring a present."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Écris les règles d'un lieu que tu connais (ton travail, ton école, ta maison) : trois interdictions avec mustn't / can't et deux libertés avec don't have to.",
+"items": [
+["Exemple de réponse", "At my gym in Brussels, you mustn't use your phone on the machines. You can't enter without a card, and you mustn't leave your towel on the floor. But you don't have to book a time, and you don't have to pay extra for the classes."]
+]
+}
+],
+"a_retenir": [
+"mustn't + base = interdit (« tu ne dois pas », « il ne faut pas »).",
+"don't / doesn't have to + base = pas obligatoire (« tu n'es pas obligé », « pas besoin »).",
+"Interdiction aussi avec can't ou not allowed to ; absence d'obligation aussi avec needn't / don't need to.",
+"Passé : couldn't / wasn't allowed to (interdiction) ; didn't have to (pas d'obligation).",
+"Gratuit = You don't have to pay, jamais You mustn't pay."
+],
+"liens": [28, 54, 56],
+"refs": ["bc-obligation", "cam-confused"]
+}

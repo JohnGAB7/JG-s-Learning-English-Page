@@ -1,0 +1,227 @@
+{
+ "n": 221,
+ "niveau": "C1",
+ "titre": "Idioms at work",
+ "intro": "The figurative expressions you hear in meetings, internal emails and interviews. Understanding them prevents misunderstandings; using them accurately makes your English sound natural and credible.",
+ "objectifs": [
+  "Understand around thirty common workplace idioms (meetings, projects, workload, results).",
+  "Use them in their exact form: the right preposition, article and possessive, and the right tense.",
+  "Choose the right register: an idiom in a meeting or internal email, a neutral equivalent in formal writing or with a client.",
+  "Recognise irritating corporate jargon (circle back, synergy) and replace it with plain wording."
+ ],
+ "sections": [
+  {
+   "titre": "How a workplace idiom works",
+   "texte": [
+    "An idiom is a chunk whose meaning cannot be worked out from its words: “learn the ropes” is not about ropes but about learning how a job is done. Many idioms come from sailing (learn the ropes, on board), sport (ballpark, touch base, the ball is in your court) or accounting (the bottom line, in the red).",
+    "The form is fixed: we say “on the same page”, never “in the same page”, and “pull your weight”, never “pull your weights”. What can change is the tense of the verb (we touched base, I'll touch base) and the possessive, which agrees with the subject (she pulls her weight, they pull their weight).",
+    "At C1 the challenge is not to know many idioms but to use a few, accurately. One or two well-chosen idioms sound natural; a stream of them sounds rehearsed or even comic."
+   ],
+   "exemples": [
+    ["I'm still learning the ropes, so bear with me.", "“Bear with me” = please be patient with me."],
+    ["She really pulls her weight on this team.", "She does her fair share of the work; the possessive agrees with “she”."],
+    ["We touched base last week, but nothing's been decided.", "The verb changes tense; the rest of the idiom stays the same."]
+   ]
+  },
+  {
+   "titre": "Meetings and communication",
+   "texte": [
+    "These are the idioms you will hear most often. They organise the discussion: starting, updating, postponing and informing."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["touch base (with sb)", "make brief contact, have a quick update", "Let's touch base on Friday."],
+     ["be on the same page", "agree, share the same understanding", "Before we start, are we all on the same page?"],
+     ["get the ball rolling", "start something", "Who wants to get the ball rolling?"],
+     ["keep sb in the loop", "keep sb informed", "Please keep me in the loop."],
+     ["keep sb posted", "tell sb about new developments", "I'll keep you posted on the budget."],
+     ["run sth by sb", "ask sb for their opinion on sth", "Can I run an idea by you?"],
+     ["take it offline", "discuss it separately, outside the meeting", "This is getting detailed, let's take it offline."],
+     ["put a pin in it", "set it aside to return to later (informal, mainly US)", "Good point, let's put a pin in it for now."],
+     ["the ball is in your court", "it's your turn to act or decide", "We've sent our offer: the ball is in their court."]
+    ]
+   },
+   "note": "“Keep me in the loop” and “keep me posted” are near synonyms; “keep me updated” is the neutral version that works everywhere."
+  },
+  {
+   "titre": "Projects, deadlines and workload",
+   "texte": [
+    "These idioms describe how a project is going and how people work. Several are critical: “cut corners” (do something badly to save time or money) and “drop the ball” (fail to do something you were responsible for) are used to criticise, so handle them with tact."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["hit the ground running", "be effective from the very start", "We need someone who can hit the ground running."],
+     ["bring sb up to speed", "give sb the latest information", "Can you bring Léa up to speed on the client?"],
+     ["back to the drawing board", "we must start again from the beginning", "The client rejected it, so it's back to the drawing board."],
+     ["put sth on the back burner", "make sth a lower priority for now", "The app redesign is on the back burner."],
+     ["cut corners", "do sth less well to save time or money", "We can't cut corners on safety."],
+     ["drop the ball", "make a mistake by forgetting a task", "I dropped the ball on that invoice, sorry."],
+     ["go the extra mile", "make more effort than expected", "Our support team always goes the extra mile."],
+     ["be snowed under (BrE) / swamped", "have too much work", "I'm snowed under this week."],
+     ["call it a day", "stop working for today", "It's seven o'clock, let's call it a day."]
+    ]
+   },
+   "exemples": [
+    ["I'm afraid I dropped the ball on the shipping dates.", "Admitting a mistake with an idiom: direct but not dramatic."],
+    ["We've put the merger on the back burner until the audit is finished.", "“On the back burner” = postponed, not abandoned."]
+   ]
+  },
+  {
+   "titre": "Results, money and decisions",
+   "texte": [
+    "Idioms about figures and results are very common in spoken reports and presentations. “The bottom line” was originally the last line of a profit and loss account (the profit or loss); by extension it means the most important fact in a situation."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["a ballpark figure", "a rough estimate", "Can you give me a ballpark figure?"],
+     ["the bottom line", "the key point; the final financial result", "The bottom line is that we're over budget."],
+     ["in the red / in the black", "losing money / making a profit", "The branch has been in the red for two years."],
+     ["break even", "make neither a profit nor a loss", "We expect to break even next year."],
+     ["low-hanging fruit", "easy, quick gains", "Let's start with the low-hanging fruit."],
+     ["a win-win (situation)", "a situation good for everyone", "Flexible hours are a win-win."],
+     ["cut your losses", "stop something failing to avoid losing more", "The project isn't working; it's time to cut our losses."],
+     ["a game changer", "something that changes a situation completely", "Automation has been a game changer for us."]
+    ]
+   },
+   "exemples": [
+    ["Ballpark, we're looking at around fifty thousand euros.", "“Ballpark” alone at the start of a sentence = roughly; very spoken."],
+    ["The bottom line is that we can't afford a second office.", "Used to close a discussion by stating the key point."]
+   ]
+  },
+  {
+   "titre": "Register: when to use (or avoid) an idiom",
+   "texte": [
+    "In meetings, internal emails and conversations with colleagues, idioms are natural. In an official letter, a report, a contract or a first email to a client, choose the neutral equivalent.",
+    "Some idioms have become corporate jargon that many native speakers find empty: “circle back”, “move the needle”, “leverage synergies”, “think outside the box”. You must understand them, but using them constantly makes you sound like a press release.",
+    "British vs American: “snowed under” is mainly British, “swamped” is used everywhere; “put a pin in it” and “touch base” are American in origin but now common in the UK."
+   ],
+   "tableau": {
+    "entetes": ["Idiom (spoken, internal)", "Neutral or formal equivalent"],
+    "lignes": [
+     ["Let's touch base next week.", "Shall we arrange a short follow-up meeting next week?"],
+     ["Can you give me a ballpark figure?", "Could you provide an approximate estimate?"],
+     ["Keep me in the loop.", "Please keep me informed."],
+     ["We're snowed under.", "We are currently dealing with a very high workload."],
+     ["It's back to the drawing board.", "We will need to revise the proposal entirely."],
+     ["Let's circle back to this.", "Let's return to this point later."]
+    ]
+   },
+   "exemples": [
+    ["Could you provide an approximate estimate by Friday?", "The formal version of “a ballpark figure”, for a client."]
+   ]
+  }
+ ],
+ "formule": "Idiom = fixed chunk (preposition, article and noun do not change) + verb in the right tense and matching possessive; for speech and internal writing",
+ "prononciation": [
+  "Stress falls on the most important content word, often the last one: on the same PAGE, back to the DRAWing board, the bottom LINE.",
+  "“ballpark” is /ˈbɔːlpɑːk/ (BrE), stressed on the first syllable; “ropes” is /rəʊps/, with a diphthong.",
+  "Grammar words are reduced: “to the” /tə ðə/ in “back to the drawing board”, “in the” /ɪn ðə/ in “in the loop”.",
+  "“touch base”: link /tʌtʃ beɪs/ with no pause; “base” rhymes with “face”.",
+  "“posted” in “keep you posted” is /ˈpəʊstɪd/: two syllables, because -ed is /ɪd/ after t."
+ ],
+ "erreurs": [
+  ["We are in the same page.", "We're on the same page.", "The preposition is part of the idiom: “on” the same page."],
+  ["I'll keep you in the course.", "I'll keep you posted. / I'll keep you in the loop.", "A translation of the French “au courant”; the English idiom is “keep sb posted / in the loop”."],
+  ["I'm overbooked this week.", "I'm snowed under / swamped this week.", "“Overbooked” describes a flight or hotel, not a busy person."],
+  ["He doesn't pull his weights.", "He doesn't pull his weight.", "“Weight” stays singular in this idiom."],
+  ["Let's put it in the back burner.", "Let's put it on the back burner.", "You put a pan “on” the back burner of a cooker."],
+  ["I'm still learning the strings.", "I'm still learning the ropes.", "“The ropes” = how a job works; “pull strings” means using your contacts."],
+  ["Let's do a brainstorming.", "Let's brainstorm. / Let's have a brainstorming session.", "“Brainstorm” is a verb; “a brainstorming” on its own is not standard English."],
+  ["Dear Mr Lee, please give us a ballpark figure ASAP.", "Dear Mr Lee, could you provide an approximate estimate at your earliest convenience?", "Idioms and ASAP are too informal for a first formal email to a client."]
+ ],
+ "dialogue": {
+  "contexte": "A Monday morning team video call between Montreal and Brussels.",
+  "lignes": [
+   ["Nadia", "Morning, everyone. Let's get the ball rolling. Tom, can you bring us up to speed on the Lyon project?", "Two idioms to open a meeting: start, and give us an update."],
+   ["Tom", "Sure. The bottom line is that the client didn't like the prototype, so it's back to the drawing board.", "Key point first, then: we must start again."],
+   ["Nadia", "Oh dear. Do we have a ballpark figure for the extra cost?", "She asks for a rough estimate."],
+   ["Tom", "Ballpark, around twelve thousand euros. But we can't cut corners on testing.", "“Ballpark” alone = roughly; “cut corners” = reduce quality."],
+   ["Awa", "Agreed. And honestly, I'm snowed under with the Douala launch, so I can't take on much more.", "She explains her heavy workload."],
+   ["Nadia", "Understood. Let's put the website update on the back burner, then.", "A lower priority for now."],
+   ["Tom", "The pricing question is getting quite detailed. Shall we take it offline?", "A polite way to move a detailed topic out of the meeting."],
+   ["Nadia", "Good idea. Tom and Awa, touch base this afternoon and keep me in the loop.", "Two idioms to close: talk briefly, and keep me informed."]
+  ]
+ },
+ "mots": [
+  ["touch base", "Let's touch base after the client call.", "make brief contact to share news"],
+  ["ballpark", "We need a ballpark figure by Monday.", "approximate; a rough estimate"],
+  ["learn the ropes", "New staff spend a month learning the ropes.", "learn how to do a job"],
+  ["bottom line", "The bottom line is that sales are down.", "the most important fact; the final profit or loss"],
+  ["back burner", "The training plan is on the back burner.", "low priority, waiting for later"],
+  ["cut corners", "Never cut corners on data security.", "do something badly to save time or money"],
+  ["drop the ball", "Someone dropped the ball on the booking.", "make a mistake by forgetting a task"],
+  ["snowed under", "The accounts team is snowed under.", "having too much work"],
+  ["break even", "The shop should break even in its second year.", "make neither a profit nor a loss"],
+  ["win-win", "The new schedule is a win-win for staff and clients.", "good for everyone involved"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Recognise the meaning",
+   "consigne": "Explain the idiom in each sentence in plain English.",
+   "items": [
+    ["We need someone who can hit the ground running.", "be effective immediately, with no long training period"],
+    ["The ball is in their court now.", "it's their turn to decide or act"],
+    ["Let's start with the low-hanging fruit.", "the easiest, quickest gains"],
+    ["The project isn't working; let's cut our losses.", "stop the project to avoid losing more"]
+   ]
+  },
+  {
+   "titre": "2. Complete the idiom",
+   "consigne": "Write the missing word (preposition, noun or verb).",
+   "items": [
+    ["Are we all ___ the same page?", "on"],
+    ["I'm new here, so I'm still learning the ___.", "ropes"],
+    ["Please keep me in the ___.", "loop"],
+    ["The redesign has been put on the back ___.", "burner"],
+    ["Our team always goes the extra ___.", "mile"],
+    ["The client said no, so it's back to the drawing ___.", "board"]
+   ]
+  },
+  {
+   "titre": "3. Make it formal",
+   "consigne": "Rewrite the sentence for a formal email to a client, without an idiom.",
+   "items": [
+    ["Can you give us a ballpark figure?", "Could you provide an approximate estimate?"],
+    ["I'll keep you posted.", "I will keep you informed of any developments."],
+    ["We're snowed under right now.", "We are currently dealing with a very high volume of work."],
+    ["Let's touch base next week.", "I suggest we arrange a short follow-up call next week."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["She really pulls her weights.", "She really pulls her weight."],
+    ["I'm completely overbooked this week.", "I'm completely snowed under / swamped this week."],
+    ["Let's put this idea in the back burner.", "Let's put this idea on the back burner."],
+    ["I'm sorry, I let the ball drop on your invoice.", "I'm sorry, I dropped the ball on your invoice."]
+   ]
+  },
+  {
+   "titre": "5. Say it with an idiom",
+   "consigne": "Rewrite the sentence with an idiom from the lesson.",
+   "items": [
+    ["It's 7 p.m., let's stop working for today.", "It's 7 p.m., let's call it a day."],
+    ["We hope to make neither a profit nor a loss next year.", "We hope to break even next year."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short internal message (4–5 sentences) to your team about a project that is behind schedule. Use three idioms from the lesson correctly.",
+   "items": [
+    ["Example answer", "Hi all, quick update on the Kribi project. The bottom line is that we're two weeks behind schedule, mainly because the supplier dropped the ball on the delivery. I've put the marketing plan on the back burner so we can focus on the build. Let's touch base on Thursday, and please keep me in the loop if anything changes."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "An idiom is a fixed chunk: preposition, article and noun do not change (on the same page, pull your weight); only the tense and the possessive adapt.",
+  "Meetings and internal emails: idioms are welcome. Formal letters, reports, first contact with a client: use the neutral equivalent.",
+  "Few but accurate: one or two idioms per exchange are enough; jargon (circle back, synergy) is for understanding more than imitating.",
+  "Common traps: keep sb posted (not “in the course”), snowed under / swamped (not “overbooked”), learn the ropes (not “the strings”)."
+ ],
+ "liens": [177, 174, 223, 224, 207],
+ "refs": ["bc-c1", "cam-using"]
+}

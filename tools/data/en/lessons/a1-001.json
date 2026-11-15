@@ -1,0 +1,407 @@
+{
+ "n": 1,
+ "niveau": "A1",
+ "titre": "The verb “to be”",
+ "intro": "The most useful verb in English. Use it to say who you are, how you feel, where you are, how old you are and what the weather is like.",
+ "objectifs": [
+  "Use “to be” in the present with every subject, in the full form and the short form.",
+  "Know when English uses “to be” where other languages use “have” (age, hunger, cold, fear).",
+  "Make simple sentences about yourself: name, job, feelings, place."
+ ],
+ "sections": [
+  {
+   "titre": "The present forms",
+   "texte": [
+    "“To be” is irregular. It has three forms in the present: am, is and are. Learn them by heart: you need them in almost every sentence.",
+    "We use the short form (contraction) when we speak and in messages. We use the full form in careful writing or to make something stronger."
+   ],
+   "tableau": {
+    "entetes": [
+     "Subject",
+     "Full form",
+     "Short form",
+     "Example"
+    ],
+    "lignes": [
+     [
+      "I",
+      "I am",
+      "I'm",
+      "I'm Sara."
+     ],
+     [
+      "you",
+      "you are",
+      "you're",
+      "You're late."
+     ],
+     [
+      "he",
+      "he is",
+      "he's",
+      "He's my brother."
+     ],
+     [
+      "she",
+      "she is",
+      "she's",
+      "She's a doctor."
+     ],
+     [
+      "it",
+      "it is",
+      "it's",
+      "It's cold."
+     ],
+     [
+      "we",
+      "we are",
+      "we're",
+      "We're friends."
+     ],
+     [
+      "they",
+      "they are",
+      "they're",
+      "They're at work."
+     ]
+    ]
+   },
+   "note": "“You” is for one person and for many people. The verb is always “are”: you are."
+  },
+  {
+   "titre": "What we use “to be” for",
+   "texte": [
+    "We use it to say who we are (name, nationality, job), how we feel, where we are, and to describe people and things."
+   ],
+   "exemples": [
+    [
+     "I'm Marie. I'm French.",
+     "Name and nationality."
+    ],
+    [
+     "He's a nurse.",
+     "Job: use a / an before a job."
+    ],
+    [
+     "We're tired but happy.",
+     "Feelings."
+    ],
+    [
+     "They're in Yaoundé.",
+     "Place."
+    ],
+    [
+     "The room is small.",
+     "Description."
+    ]
+   ]
+  },
+  {
+   "titre": "“To be”, not “have”",
+   "texte": [
+    "Many languages say “I have 30 years” or “I have hunger”. English uses “to be” + an adjective or a number. This is the most common mistake for beginners."
+   ],
+   "tableau": {
+    "entetes": [
+     "Topic",
+     "Correct English"
+    ],
+    "lignes": [
+     [
+      "Age",
+      "I'm 30. / I'm 30 years old."
+     ],
+     [
+      "Hunger and thirst",
+      "I'm hungry. I'm thirsty."
+     ],
+     [
+      "Cold and heat",
+      "I'm cold. I'm hot."
+     ],
+     [
+      "Fear",
+      "I'm afraid. / I'm scared."
+     ],
+     [
+      "Right and wrong",
+      "I'm right. You're wrong."
+     ],
+     [
+      "Weather",
+      "It's sunny. It's cold."
+     ],
+     [
+      "Time",
+      "I'm late. I'm early."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Always use a subject",
+   "texte": [
+    "An English sentence always has a subject. When there is no person, use “it”: for time, weather, distance and situations.",
+    "Never say “Is late” or “Is raining”. Say “It's late”, “It's raining”."
+   ],
+   "exemples": [
+    [
+     "It's nine o'clock.",
+     "Time."
+    ],
+    [
+     "It's far from here.",
+     "Distance."
+    ],
+    [
+     "It's important.",
+     "A situation."
+    ]
+   ]
+  }
+ ],
+ "formule": "I am · you are · he / she / it is · we are · they are",
+ "prononciation": [
+  "“I'm” sounds like /aɪm/: the word “time” without the t.",
+  "“you're” and “your” sound almost the same. “they're”, “their” and “there” all sound like /ðeə/.",
+  "In “he's” and “she's”, the s sounds like /z/. In “it's”, it sounds like /s/.",
+  "For “th” in “they”, put your tongue between your teeth and use your voice: /ð/. It is not a z or a d."
+ ],
+ "erreurs": [
+  [
+   "I have 25 years.",
+   "I'm 25.",
+   "Age uses “to be”, never “have”."
+  ],
+  [
+   "I have hungry.",
+   "I'm hungry.",
+   "Hunger, thirst, cold, fear: “to be” + adjective."
+  ],
+  [
+   "Is cold today.",
+   "It's cold today.",
+   "The subject “it” is necessary."
+  ],
+  [
+   "She is teacher.",
+   "She's a teacher.",
+   "Use a / an before a job in the singular."
+  ],
+  [
+   "They is happy.",
+   "They're happy.",
+   "With they, we and you: always “are”."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "First day on a course. Two people meet.",
+  "lignes": [
+   [
+    "Anna",
+    "Hi! I'm Anna. Are you new here?",
+    "Anna says her name and asks a question."
+   ],
+   [
+    "Karim",
+    "Yes, I am. I'm Karim. I'm from Douala.",
+    "Short answer: “Yes, I am.”"
+   ],
+   [
+    "Anna",
+    "Nice to meet you, Karim. Are you a student?",
+    "A polite phrase when you meet someone."
+   ],
+   [
+    "Karim",
+    "No, I'm not. I'm a nurse. And you?",
+    "“I'm a nurse”: a before the job."
+   ],
+   [
+    "Anna",
+    "I'm a teacher. Oh, it's nine o'clock. We're late!",
+    "“It's” for the time; “we're late”."
+   ],
+   [
+    "Karim",
+    "Oh no! Let's go. I'm ready.",
+    "“Let's go” = we go now, together."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "student",
+   "I am a student.",
+   "a person who studies at a school or university"
+  ],
+  [
+   "ready",
+   "Are you ready?",
+   "prepared to do something"
+  ],
+  [
+   "tired",
+   "I'm tired tonight.",
+   "needing rest or sleep"
+  ],
+  [
+   "busy",
+   "She is very busy.",
+   "with a lot of things to do"
+  ],
+  [
+   "hungry",
+   "We're hungry. Let's eat!",
+   "wanting food"
+  ],
+  [
+   "late",
+   "Sorry, I'm late.",
+   "after the right time"
+  ],
+  [
+   "home",
+   "They are at home.",
+   "the place where you live"
+  ],
+  [
+   "happy",
+   "My parents are happy.",
+   "feeling good"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choose the right form",
+   "consigne": "Complete with am, is or are.",
+   "items": [
+    [
+     "I ___ happy.",
+     "am"
+    ],
+    [
+     "They ___ in Brussels.",
+     "are"
+    ],
+    [
+     "My brother ___ a developer.",
+     "is"
+    ],
+    [
+     "You ___ very kind.",
+     "are"
+    ],
+    [
+     "It ___ cold today.",
+     "is"
+    ],
+    [
+     "We ___ at the office.",
+     "are"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Short forms",
+   "consigne": "Write the short form.",
+   "items": [
+    [
+     "we are",
+     "we're"
+    ],
+    [
+     "she is",
+     "she's"
+    ],
+    [
+     "I am",
+     "I'm"
+    ],
+    [
+     "they are",
+     "they're"
+    ],
+    [
+     "it is",
+     "it's"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    [
+     "I have 28 years.",
+     "I'm 28."
+    ],
+    [
+     "We have cold.",
+     "We're cold."
+    ],
+    [
+     "Is hot today.",
+     "It's hot today."
+    ],
+    [
+     "She is doctor.",
+     "She's a doctor."
+    ],
+    [
+     "You is right.",
+     "You're right."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Put the words in order",
+   "consigne": "Put the words in the right order to make a sentence.",
+   "items": [
+    [
+     "a / is / she / nurse",
+     "She is a nurse."
+    ],
+    [
+     "at / we / home / are",
+     "We are at home."
+    ],
+    [
+     "is / it / o'clock / ten",
+     "It is ten o'clock."
+    ],
+    [
+     "from / I / Canada / am",
+     "I am from Canada."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Your turn",
+   "consigne": "Write four true sentences about you with “to be”: your name, your age, your job or studies, how you feel today.",
+   "items": [
+    [
+     "Example answer",
+     "I'm John. I'm 34. I'm an accountant. Today I'm a bit tired but happy."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "I am · you are · he / she / it is · we are · they are. When you speak: I'm, you're, he's, she's, it's, we're, they're.",
+  "Age, hunger, thirst, cold, heat, fear, right, wrong: use “to be”.",
+  "Always a subject: “It's late”, “It's raining”.",
+  "Before a job: a / an (She's a nurse. He's an engineer.)."
+ ],
+ "liens": [
+  2,
+  4,
+  10,
+  39
+ ],
+ "refs": [
+  "bc-be",
+  "cam-verbs"
+ ]
+}

@@ -1,0 +1,225 @@
+{
+ "n": 224,
+ "niveau": "C1",
+ "titre": "Everyday idioms",
+ "intro": "Everyday idioms (moods, relationships, money, surprises, conversation) are everywhere in series, podcasts and conversations between friends. At C1 you need to understand them instantly and use a few of them with no mistakes in form.",
+ "objectifs": [
+  "Understand about forty everyday idioms, organised by theme.",
+  "Avoid word-for-word translations of idioms from your own language.",
+  "Master their grammar: what can change (tense, possessive), what cannot, and why the passive is almost impossible.",
+  "Recognise shortened proverbs (“Speak of the devil…”, “When in Rome…”) and British and American variants."
+ ],
+ "sections": [
+  {
+   "titre": "Moods and emotions",
+   "texte": [
+    "Many emotion idioms use images of the body or the sky. They are very common in speech and messages; in formal writing, a simple adjective is usually better (delighted, nervous, exhausted)."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Plain equivalent"],
+    "lignes": [
+     ["be over the moon", "be extremely happy", "delighted"],
+     ["be on cloud nine", "be extremely happy, in a dreamy way", "elated"],
+     ["be down in the dumps", "feel sad and low", "depressed, miserable"],
+     ["have butterflies in your stomach", "feel nervous before something", "nervous"],
+     ["be at the end of your tether (BrE) / rope (AmE)", "have no patience or energy left", "exhausted, desperate"],
+     ["get cold feet", "suddenly become too nervous to do something", "lose your nerve"],
+     ["let off steam", "release strong feelings or energy", "relax, unwind"],
+     ["a weight off your shoulders", "a great relief", "a relief"]
+    ]
+   },
+   "exemples": [
+    ["She was over the moon when she got the scholarship.", "Extremely happy."],
+    ["He got cold feet a week before the wedding.", "He suddenly became too nervous to go ahead."]
+   ]
+  },
+  {
+   "titre": "Relationships",
+   "texte": [
+    "These idioms describe how well people get on, their conflicts and their reconciliations. The image can be surprising: “get on like a house on fire” (get on extremely well) has nothing to do with danger."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["get on like a house on fire", "get on extremely well", "My mum and my wife get on like a house on fire."],
+     ["see eye to eye (with sb)", "agree (often negative)", "We don't always see eye to eye on money."],
+     ["give sb the cold shoulder", "deliberately ignore sb", "After the argument, she gave me the cold shoulder."],
+     ["rub sb up the wrong way (BrE) / rub sb the wrong way (AmE)", "annoy sb", "His tone really rubs me up the wrong way."],
+     ["clear the air", "talk openly to end a tension", "We had a long talk to clear the air."],
+     ["bury the hatchet", "end a quarrel and become friends again", "The two brothers finally buried the hatchet."]
+    ]
+   },
+   "exemples": [
+    ["We don't see eye to eye on politics, but we're still close.", "“See eye to eye” is mostly used in the negative."]
+   ]
+  },
+  {
+   "titre": "Money, time and the unexpected",
+   "texte": [
+    "Money idioms are essential for talking about the cost of living; idioms of time and surprise appear in every story."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["cost an arm and a leg", "be very expensive", "Rent in Vancouver costs an arm and a leg."],
+     ["make ends meet", "have just enough money to live", "They work two jobs to make ends meet."],
+     ["tighten your belt", "spend less money", "We'll have to tighten our belts this year."],
+     ["splash out (on sth) (BrE)", "spend a lot on something special", "We splashed out on a new sofa."],
+     ["on a shoestring", "with very little money", "They travelled around Asia on a shoestring."],
+     ["out of the blue", "suddenly and unexpectedly", "He called me out of the blue after ten years."],
+     ["once in a blue moon", "very rarely", "I only eat meat once in a blue moon."],
+     ["in the nick of time", "just in time", "We got to the station in the nick of time."],
+     ["a blessing in disguise", "something bad that has a good result", "Losing that job was a blessing in disguise."],
+     ["the last straw", "the final problem that makes you lose patience", "The noise at 3 a.m. was the last straw."]
+    ]
+   },
+   "exemples": [
+    ["With two children and one salary, it's hard to make ends meet.", "“Make” changes form; the rest is fixed."],
+    ["Missing the bus turned out to be a blessing in disguise.", "The bad event had a good result."]
+   ]
+  },
+  {
+   "titre": "Talking, revealing, keeping quiet",
+   "texte": [
+    "These idioms comment on conversation itself: telling a secret, getting to the point, making a social mistake, guessing right. Note the variants: “beat about the bush” (BrE) / “beat around the bush” (AmE), “put your foot in it” (BrE) / “put your foot in your mouth” (AmE), “take sth with a pinch of salt” (BrE) / “with a grain of salt” (AmE)."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["spill the beans / let the cat out of the bag", "reveal a secret", "Who spilled the beans about the party?"],
+     ["beat about the bush", "avoid saying something directly", "Stop beating about the bush and tell me."],
+     ["cut to the chase", "get to the main point", "Let me cut to the chase: I'm leaving."],
+     ["hit the nail on the head", "describe something exactly right", "You've hit the nail on the head."],
+     ["put your foot in it", "say something embarrassing by mistake", "I put my foot in it by mentioning his ex."],
+     ["bite your tongue", "stop yourself from saying something", "I wanted to argue, but I bit my tongue."],
+     ["take sth with a pinch of salt", "not completely believe sth", "Take online reviews with a pinch of salt."]
+    ]
+   },
+   "exemples": [
+    ["I really put my foot in it when I asked about her job.", "The possessive agrees with the subject (my, his, her…)."]
+   ]
+  },
+  {
+   "titre": "The grammar of idioms and shortened proverbs",
+   "texte": [
+    "What changes: the tense of the verb (spill / spilled / has spilled the beans) and the possessive, which agrees with the subject (I bit my tongue, she bit her tongue). What does not change: nouns, articles, prepositions and word order. You cannot say “spill the bean” or “a house in fire”.",
+    "The passive is almost always impossible: “The beans were spilled by Tom” loses the idiomatic meaning and sounds like a joke. Keep the active voice.",
+    "Native speakers often shorten a well-known proverb: “Speak of the devil!”, “When in Rome…” (do as the Romans do), “Too many cooks…” (spoil the broth). Recognising the beginning is enough to understand the reference."
+   ],
+   "exemples": [
+    ["Speak of the devil! We were just talking about you.", "Said when someone arrives just as you mention them (the full proverb ends “and he shall appear”)."],
+    ["I don't usually eat insects, but when in Rome…", "A reference to “When in Rome, do as the Romans do”."]
+   ],
+   "note": "Past of “spill”: spilled (everywhere) or spilt (mainly British)."
+  }
+ ],
+ "formule": "Verb in the right tense + fixed chunk (nouns, articles, prepositions unchanged) + matching possessive; active voice; informal or neutral register",
+ "prononciation": [
+  "Stress falls on the words that carry the image: over the MOON, a BLESSing in disGUISE, the last STRAW.",
+  "“tether” is /ˈteðə/ (BrE), with the voiced /ð/ of “the”.",
+  "“hatchet” is /ˈhætʃɪt/, with the open /æ/ of “cat”.",
+  "“an arm and a leg” is linked: /ən ˈɑːm ən ə ˈleɡ/, with “and” reduced to /ən/.",
+  "In shortened proverbs, the voice stays up (rising or level tone) on the last word: “When in ROME…”"
+ ],
+ "erreurs": [
+  ["It costs the eyes of the head.", "It costs an arm and a leg.", "A translation from French; in English it is an arm and a leg."],
+  ["Stop turning around the pot.", "Stop beating about / around the bush.", "The English idiom is “beat about the bush”."],
+  ["That was the drop that overflowed the vase.", "That was the last straw.", "From “the straw that broke the camel's back”."],
+  ["Talk of the wolf!", "Speak / Talk of the devil!", "In English it is the devil, not the wolf."],
+  ["They get on like a house in fire.", "They get on like a house on fire.", "Fixed preposition: “on fire”."],
+  ["I have butterflies in the stomach.", "I have butterflies in my stomach.", "English uses a possessive with parts of the body."],
+  ["The beans were spilled by my sister.", "My sister spilled the beans.", "Idioms are very rarely used in the passive."],
+  ["She's in the seventh sky.", "She's on cloud nine. / She's over the moon.", "English says “cloud nine”."]
+ ],
+ "dialogue": {
+  "contexte": "Two friends have coffee in Liège; one describes a difficult week.",
+  "lignes": [
+   ["Chloé", "You look exhausted. What's up?", "A friendly opening question."],
+   ["Fatou", "Honestly, I'm at the end of my tether. My landlord put the rent up out of the blue.", "No patience left; a sudden rise."],
+   ["Chloé", "Again? Rent here costs an arm and a leg already.", "It is very expensive."],
+   ["Fatou", "I know. And then my boss gave me the cold shoulder all week. That was the last straw.", "He ignored her; the final problem."],
+   ["Chloé", "Did you talk to him? Sometimes you need to clear the air.", "Talk openly to end the tension."],
+   ["Fatou", "I did. I didn't beat about the bush. And guess what? He offered me a transfer to the Namur office.", "She spoke directly."],
+   ["Chloé", "So the whole thing was a blessing in disguise!", "A bad situation with a good result."],
+   ["Fatou", "Exactly. Cheaper rent, and a team I get on with like a house on fire. It's a weight off my shoulders.", "Great relationships and a great relief."]
+  ]
+ },
+ "mots": [
+  ["over the moon", "They were over the moon with the news.", "extremely happy"],
+  ["cold feet", "She got cold feet before the interview.", "sudden nervousness that stops you acting"],
+  ["see eye to eye", "We rarely see eye to eye on music.", "agree with someone"],
+  ["cold shoulder", "He gave his neighbour the cold shoulder.", "deliberate unfriendliness"],
+  ["make ends meet", "Many students struggle to make ends meet.", "have just enough money to live"],
+  ["shoestring", "They started the business on a shoestring.", "a very small budget (on a shoestring)"],
+  ["out of the blue", "The offer came out of the blue.", "unexpectedly"],
+  ["last straw", "The delay was the last straw.", "the final problem that makes you lose patience"],
+  ["spill the beans", "Don't spill the beans about the surprise.", "tell a secret"],
+  ["pinch of salt", "Take his promises with a pinch of salt.", "with doubt; not completely believing"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Match idiom and meaning",
+   "consigne": "Explain the idiom in plain English.",
+   "items": [
+    ["once in a blue moon", "very rarely"],
+    ["in the nick of time", "just in time"],
+    ["bury the hatchet", "end a quarrel and make peace"],
+    ["let off steam", "release strong feelings or energy"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Write the missing word of the idiom.",
+   "items": [
+    ["Let me cut to the ___: we can't afford it.", "chase"],
+    ["You've hit the nail on the ___.", "head"],
+    ["I wanted to answer back, but I bit my ___.", "tongue"],
+    ["With prices rising, we all have to tighten our ___.", "belts"],
+    ["They get on like a house ___ fire.", "on"],
+    ["My brother put his foot ___ it at dinner.", "in"]
+   ]
+  },
+  {
+   "titre": "3. Choose the idiom",
+   "consigne": "Rewrite the sentence, replacing the words in brackets with an idiom from the lesson.",
+   "items": [
+    ["She was [extremely happy] with her results.", "She was over the moon with her results."],
+    ["He [suddenly decided not to do it] the day before the race.", "He got cold feet the day before the race."],
+    ["Who [revealed the secret]?", "Who spilled the beans? / Who let the cat out of the bag?"],
+    ["We [never agree] with our neighbours.", "We never see eye to eye with our neighbours."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct the mistake (often a translated or altered idiom).",
+   "items": [
+    ["This phone costs the eyes of the head.", "This phone costs an arm and a leg."],
+    ["Talk of the wolf, here's Sam!", "Speak of the devil, here's Sam!"],
+    ["I always have butterflies in the stomach before exams.", "I always have butterflies in my stomach before exams."]
+   ]
+  },
+  {
+   "titre": "5. Say it with an idiom",
+   "consigne": "Rewrite the sentence with an idiom.",
+   "items": [
+    ["Stop avoiding the subject and say it.", "Stop beating about the bush (AmE: around the bush) and say it."],
+    ["With one salary, it's hard to have enough money to live.", "With one salary, it's hard to make ends meet."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "In 4–5 sentences, tell the story of something unexpected that happened to you. Use at least three idioms from the lesson.",
+   "items": [
+    ["Example answer", "Last year, my company closed its Yaoundé office out of the blue, and I was down in the dumps for weeks. Money was tight, so we had to tighten our belts and live on a shoestring. Then a former colleague called me and offered me a job in a start-up. Looking back, losing that job was a blessing in disguise."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Group idioms by theme (emotions, relationships, money, time, conversation) and learn them in full sentences.",
+  "Only the tense and the possessive change; nouns, articles and prepositions are fixed; no passive.",
+  "Beware of translating: cost an arm and a leg, beat about the bush, the last straw, speak of the devil.",
+  "Know the variants: beat about (BrE) / around (AmE) the bush; a pinch (BrE) / a grain (AmE) of salt; the end of your tether (BrE) / rope (AmE)."
+ ],
+ "liens": [177, 221, 240, 263, 265],
+ "refs": ["bc-c1", "cam-using"]
+}

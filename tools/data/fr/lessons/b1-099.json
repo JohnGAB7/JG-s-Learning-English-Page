@@ -1,0 +1,190 @@
+{
+ "n": 99,
+ "niveau": "B1",
+ "titre": "Le zéro conditionnel (vérités générales)",
+ "intro": "Le zéro conditionnel (If you heat ice, it melts) exprime ce qui arrive toujours quand une condition est remplie : lois de la nature, habitudes, règles, modes d'emploi. Il utilise le présent simple dans les deux parties.",
+ "objectifs": [
+  "Construire le zéro conditionnel avec if / when + présent simple, présent simple.",
+  "L'utiliser pour les faits scientifiques, les habitudes, les règles et les consignes.",
+  "Le distinguer du premier conditionnel (situation précise et future).",
+  "Utiliser l'impératif et les modaux dans la partie résultat pour les consignes."
+ ],
+ "sections": [
+  {
+   "titre": "La structure",
+   "texte": [
+    "Condition : if (ou when, whenever) + présent simple. Résultat : présent simple. Les deux parties sont au présent, parce que ce n'est pas un événement unique : c'est vrai à chaque fois.",
+    "If peut presque toujours être remplacé par when ou whenever sans changer le sens : « If / When you mix red and blue, you get purple. » C'est le test le plus simple pour reconnaître un zéro conditionnel."
+   ],
+   "tableau": {
+    "entetes": ["Condition (if / when + présent)", "Résultat (présent)"],
+    "lignes": [
+     ["If you heat water to 100 °C,", "it boils."],
+     ["When it rains,", "the roads get slippery."],
+     ["If I drink coffee after 6 p.m.,", "I can't sleep."],
+     ["If you don't water plants,", "they die."]
+    ]
+   }
+  },
+  {
+   "titre": "Les vérités générales et scientifiques",
+   "texte": [
+    "C'est l'usage le plus connu : les lois de la nature et les faits toujours vrais. On l'utilise beaucoup dans les cours de sciences, de géographie, d'économie.",
+    "En français, on utilise aussi le présent dans les deux parties (« Si on chauffe la glace, elle fond »), donc la structure est facile ; le piège est surtout d'utiliser will par erreur."
+   ],
+   "exemples": [
+    ["If you heat ice, it melts.", "Si on chauffe de la glace, elle fond."],
+    ["Plants die if they don't get enough light.", "Les plantes meurent si elles ne reçoivent pas assez de lumière."],
+    ["When demand rises, prices go up.", "Quand la demande augmente, les prix montent."]
+   ]
+  },
+  {
+   "titre": "Les habitudes et les réactions personnelles",
+   "texte": [
+    "On l'emploie aussi pour parler de ce qui nous arrive toujours, de nos habitudes ou de nos réactions : « If I'm stressed, I eat chocolate. » Ce n'est pas une loi universelle, mais c'est vrai pour moi à chaque fois.",
+    "Pour une habitude passée, on met les deux verbes au prétérit : « When I was a child, if it rained, we stayed inside and played cards. »"
+   ],
+   "exemples": [
+    ["If I don't have breakfast, I feel tired all morning.", "Habitude : chaque fois."],
+    ["My grandmother gets angry if we arrive late.", "Réaction habituelle."],
+    ["When we lived in Garoua, if it was too hot, we slept on the terrace.", "Habitude passée : prétérit des deux côtés."]
+   ]
+  },
+  {
+   "titre": "Règles et modes d'emploi : impératif et modaux",
+   "texte": [
+    "Pour donner une consigne générale, le résultat est souvent à l'impératif : « If the alarm rings, leave the building. » On le trouve sur les affiches, les notices, les règlements.",
+    "On peut aussi utiliser un modal (can, must, should) : « If you are under 18, you can't vote. » / « If you feel dizzy, you should sit down. »"
+   ],
+   "tableau": {
+    "entetes": ["Contexte", "Exemple"],
+    "lignes": [
+     ["Sécurité", "If there is a fire, don't use the lift."],
+     ["Mode d'emploi", "If the light turns red, press the reset button."],
+     ["Règlement", "If you lose your card, you must pay a fee."],
+     ["Santé", "If you have a fever, drink plenty of water."]
+    ]
+   }
+  },
+  {
+   "titre": "Zéro ou premier conditionnel ?",
+   "texte": [
+    "Zéro : vrai à chaque fois, en général (présent + présent). Premier : une situation précise, dans le futur (présent + will).",
+    "« If you press this button, the machine stops » (c'est comme ça qu'elle fonctionne, toujours). « If you press this button now, the machine will stop » (là, maintenant, une seule fois).",
+    "Signal utile : quand on peut dire « whenever » ou « every time », c'est le zéro conditionnel. Quand il y a tomorrow, tonight, next week, c'est le premier."
+   ],
+   "exemples": [
+    ["If you mix oil and water, they don't combine.", "Toujours vrai : zéro."],
+    ["If you mix these colours, your painting will look dark.", "Cette fois-ci, résultat prévu : premier."]
+   ]
+  }
+ ],
+ "formule": "If / When + présent simple, présent simple (If you heat ice, it melts.)",
+ "prononciation": [
+  "Le -s de la 3e personne est indispensable et s'entend : melts /melts/, boils /bɔɪlz/, rises /ˈraɪzɪz/. Trois prononciations : /s/, /z/, /ɪz/.",
+  "when /wen/ et if /ɪf/ sont souvent faibles en début de phrase ; l'accent tombe sur le verbe et le nom importants : « If you HEAT ICE, it MELTS. »",
+  "Intonation : montée à la fin de la condition, descente à la fin du résultat.",
+  "whenever /wenˈevə/ : accent sur la deuxième syllabe."
+ ],
+ "erreurs": [
+  ["If you heat the ice, it melts.", "If you heat ice, it melts.", "Vérité générale : pas d'article devant un nom indénombrable pris au sens général (le français dit « la glace »)."],
+  ["If water freeze, it become ice.", "If water freezes, it becomes ice.", "N'oublie pas le -s de la 3e personne."],
+  ["When I will be tired, I go to bed.", "When I'm tired, I go to bed.", "Jamais will après when / if."],
+  ["If you will press the button, the door opens.", "If you press the button, the door opens.", "Présent simple dans la condition."],
+  ["If it rains, people are taking umbrellas.", "If it rains, people take umbrellas.", "Habitude générale : présent simple, pas présent continu."],
+  ["If there will be a fire, use the stairs.", "If there is a fire, use the stairs.", "Consigne : if + présent, impératif."]
+ ],
+ "dialogue": {
+  "contexte": "Une classe de sciences dans un lycée de Liège. Mme Dubois explique une expérience à ses élèves, Théo et Aïcha.",
+  "lignes": [
+   ["Mme Dubois", "What happens if you put salt on ice?", "Qu'est-ce qui se passe si on met du sel sur la glace ?"],
+   ["Théo", "It melts faster.", "Elle fond plus vite."],
+   ["Mme Dubois", "Exactly. That's why the city puts salt on the roads when it snows.", "Exactement. C'est pour ça que la ville met du sel sur les routes quand il neige."],
+   ["Aïcha", "And if the temperature is very low, does salt still work?", "Et si la température est très basse, le sel marche toujours ?"],
+   ["Mme Dubois", "Good question. If it's colder than about minus ten, salt doesn't work very well.", "Bonne question. S'il fait plus froid qu'environ moins dix, le sel ne marche pas très bien."],
+   ["Théo", "In Cameroon, my cousins never see snow. If it rains a lot, the roads just get muddy.", "Au Cameroun, mes cousins ne voient jamais la neige. S'il pleut beaucoup, les routes deviennent juste boueuses."],
+   ["Mme Dubois", "That's right. Now, safety first: if you spill anything, tell me immediately.", "C'est juste. Maintenant, la sécurité d'abord : si vous renversez quelque chose, dites-le-moi tout de suite."],
+   ["Aïcha", "And if we finish early, can we try with sugar?", "Et si on finit tôt, on peut essayer avec du sucre ?"]
+  ]
+ },
+ "mots": [
+  ["melt", "Ice melts if you leave it in the sun.", "fondre"],
+  ["boil", "Water boils at 100 °C.", "bouillir"],
+  ["freeze", "Water freezes at 0 °C.", "geler"],
+  ["whenever", "Whenever I travel, I get a cold.", "chaque fois que"],
+  ["temperature", "If the temperature drops, the lake freezes.", "la température"],
+  ["slippery", "The roads get slippery when it snows.", "glissant(e)"],
+  ["fee", "If you pay late, you pay a fee.", "les frais"],
+  ["spill", "If you spill water on a laptop, it can break.", "renverser (un liquide)"],
+  ["dizzy", "If I stand up too fast, I feel dizzy.", "pris(e) de vertiges"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Associer",
+   "consigne": "Associe les débuts et les fins : a) it turns into steam. b) I get a headache. c) you get green. d) leave the building.",
+   "items": [
+    ["If you mix blue and yellow, …", "c) you get green."],
+    ["If water boils, …", "a) it turns into steam."],
+    ["If I don't drink enough water, …", "b) I get a headache."],
+    ["If the fire alarm rings, …", "d) leave the building."]
+   ]
+  },
+  {
+   "titre": "2. Conjuguer",
+   "consigne": "Mets les verbes au présent simple (zéro conditionnel).",
+   "items": [
+    ["If you ___ (drop) a glass, it ___ (break).", "drop … breaks"],
+    ["When my phone battery ___ (be) low, the screen ___ (get) darker.", "is … gets"],
+    ["If people ___ (not / sleep) enough, they ___ (feel) irritable.", "don't sleep … feel"],
+    ["My dog ___ (bark) if someone ___ (ring) the bell.", "barks … rings"],
+    ["If you ___ (not / pay) the bill, they ___ (cut) the electricity.", "don't pay … cut"]
+   ]
+  },
+  {
+   "titre": "3. Zéro ou premier ?",
+   "consigne": "Choisis la bonne forme.",
+   "items": [
+    ["If you heat metal, it (expands / will expand). (toujours)", "expands"],
+    ["If you call me tonight, I (tell / will tell) you everything.", "will tell"],
+    ["When I'm nervous, I (talk / will talk) too much.", "talk"],
+    ["If it rains tomorrow, the match (is / will be) cancelled.", "will be"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["If you press this button, the machine stop.", "If you press this button, the machine stops."],
+    ["When the sun will set, it gets cold in the desert.", "When the sun sets, it gets cold in the desert."],
+    ["If there will be an emergency, call 112.", "If there is an emergency, call 112."],
+    ["If my brother is hungry, he is getting angry.", "If my brother is hungry, he gets angry."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Si on chauffe de la glace, elle fond.", "If you heat ice, it melts."],
+    ["Quand je bois du café le soir, je ne dors pas.", "When I drink coffee in the evening, I don't sleep. / I can't sleep."],
+    ["Si vous perdez votre ticket, vous devez payer une amende.", "If you lose your ticket, you must pay a fine."],
+    ["Si tu as de la fièvre, bois beaucoup d'eau.", "If you have a fever, drink a lot of water."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 4 phrases au zéro conditionnel : un fait scientifique, une de tes habitudes, une règle de ton école ou de ton travail, et une consigne de sécurité (impératif).",
+   "items": [
+    ["Exemple de réponse", "If you freeze water, it turns into ice. If I go to bed late, I feel tired the next day. At my company, if you work on Saturday, you get a day off. If you smell gas, open the windows and leave the house."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "If / When + présent simple, présent simple : ce qui arrive toujours.",
+  "Usages : lois de la nature, habitudes, règles, modes d'emploi.",
+  "If peut être remplacé par when / whenever sans changer le sens.",
+  "Résultat à l'impératif ou avec un modal pour les consignes.",
+  "Situation précise et future → premier conditionnel (will)."
+ ],
+ "liens": [6, 95, 96, 100],
+ "refs": ["bc-cond-012", "bc-presentsimple"]
+}

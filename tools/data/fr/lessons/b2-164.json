@@ -1,0 +1,201 @@
+{
+ "n": 164,
+ "niveau": "B2",
+ "titre": "Le passif avec les modaux et les temps parfaits",
+ "intro": "« The form must be signed », « The parcel should have been delivered yesterday », « By June, the school will have been finished » : les formes passives longues sont indispensables dans la vie professionnelle (consignes, comptes rendus, réclamations, suivi de projet). Cette leçon complète la leçon 151 en détaillant les modaux, les temps parfaits et les infinitifs passifs.",
+ "objectifs": [
+  "Former le passif avec les modaux (can / must / should / might be done).",
+  "Former le passif aux temps parfaits : has been done, had been done, will have been done.",
+  "Employer les modaux au passé passif : should / must / could / might have been done.",
+  "Utiliser l'infinitif et le gérondif passifs (to be told, being interrupted) et « need doing »."
+ ],
+ "sections": [
+  {
+   "titre": "Modal + be + participe passé",
+   "texte": [
+    "Après un modal (can, could, must, should, may, might, will, would) ou après « have to / ought to / be going to », le passif se forme avec « be » à la base verbale + participe passé.",
+    "Ces formes sont typiques des consignes, des règlements et des modes d'emploi : « Bags must not be left unattended », « This medicine should be taken with food ».",
+    "Négation : modal + not + be + participe : « It can't be done today. » Question : modal + sujet + be + participe : « Can it be fixed? »"
+   ],
+   "exemples": [
+    ["All forms must be completed in black ink.", "Tous les formulaires doivent être remplis à l'encre noire."],
+    ["This medicine should be taken with food.", "Ce médicament doit être pris pendant les repas."],
+    ["The meeting might be postponed.", "La réunion pourrait être reportée."],
+    ["Can the order be changed?", "Peut-on modifier la commande ?"]
+   ]
+  },
+  {
+   "titre": "Les temps parfaits au passif",
+   "texte": [
+    "Present perfect : has / have been + participe. Il présente un résultat actuel : « The flight has been cancelled » (le vol est annulé, maintenant).",
+    "Past perfect : had been + participe. Il indique une action antérieure à un autre moment du passé : « When we arrived, the food had already been eaten. »",
+    "Future perfect : will have been + participe. Il indique qu'une action sera terminée avant un moment futur, souvent avec « by » : « By June, the new school will have been built. »",
+    "Rappel : avec une date ou un moment passé précis, on emploie le prétérit passif, pas le present perfect : « The bridge was built in 1932 », pas « has been built in 1932 »."
+   ],
+   "tableau": {
+    "entetes": ["Temps", "Forme passive", "Exemple"],
+    "lignes": [
+     ["Present perfect", "has / have been + participe", "Your application has been received."],
+     ["Past perfect", "had been + participe", "The room had been cleaned before we arrived."],
+     ["Future perfect", "will have been + participe", "The results will have been published by Monday."],
+     ["Present perfect (négation)", "hasn't / haven't been + participe", "The invoice hasn't been paid yet."],
+     ["Question", "Has / Have + sujet + been + participe ?", "Have the tickets been sent?"]
+    ]
+   }
+  },
+  {
+   "titre": "Modal + have been + participe : le passé",
+   "texte": [
+    "Pour un reproche, une déduction ou une possibilité dans le passé au passif : modal + have been + participe passé.",
+    "« should have been done » : reproche ou regret (ça aurait dû être fait). « must have been done » : déduction (ça a dû être fait). « could / might have been done » : possibilité non réalisée ou hypothèse. « can't have been done » : impossibilité.",
+    "Ces formes sont très utiles pour se plaindre poliment sans accuser personne : « This problem could have been avoided » (on aurait pu éviter ce problème)."
+   ],
+   "exemples": [
+    ["The parcel should have been delivered yesterday.", "Le colis aurait dû être livré hier."],
+    ["The window must have been left open.", "On a dû laisser la fenêtre ouverte (déduction)."],
+    ["This accident could have been avoided.", "Cet accident aurait pu être évité."],
+    ["The email can't have been sent: it's still in the drafts.", "Le courriel n'a pas pu être envoyé."]
+   ]
+  },
+  {
+   "titre": "L'infinitif et le gérondif passifs",
+   "texte": [
+    "Après un verbe suivi de « to » (want, expect, hope, need, would like…), l'infinitif passif est « to be + participe » : « I want to be told the truth » (je veux qu'on me dise la vérité).",
+    "Après un verbe suivi de -ing (hate, like, enjoy, avoid, remember…) ou une préposition, le gérondif passif est « being + participe » : « I hate being interrupted. »",
+    "Formes au passé : « to have been + participe » et « having been + participe » : « She was lucky to have been chosen », « He denied having been paid »."
+   ],
+   "exemples": [
+    ["Everyone wants to be listened to.", "Tout le monde veut être écouté (la préposition reste)."],
+    ["She hates being called by her surname.", "Elle déteste qu'on l'appelle par son nom de famille."],
+    ["He's afraid of being fired.", "Il a peur d'être licencié."],
+    ["I'm glad to have been invited.", "Je suis heureux d'avoir été invité."]
+   ]
+  },
+  {
+   "titre": "« Need doing » et les pièges de forme",
+   "texte": [
+    "En anglais britannique, « need + -ing » a un sens passif : « The car needs washing » = « The car needs to be washed ». On dit aussi « The walls want painting » (familier).",
+    "Ne pas confondre : « The car needs to wash » est faux (la voiture ne se lave pas elle-même).",
+    "Les formes très longues comme « has been being done » existent à peine : on les évite. Préférez « has been under repair » ou une tournure active."
+   ],
+   "exemples": [
+    ["The grass needs cutting.", "Il faut tondre la pelouse."],
+    ["Your shoes need to be cleaned.", "Équivalent plus neutre."],
+    ["The road has been under repair for months.", "Au lieu de « has been being repaired »."]
+   ]
+  }
+ ],
+ "formule": "modal + be + participe · has / had / will have + been + participe · modal + have been + participe · to be / being + participe",
+ "prononciation": [
+  "« been » est faible dans la chaîne parlée : /bɪn/ : « It's been done » /ɪts bɪn ˈdʌn/.",
+  "« should have been » se réduit à /ˈʃʊdəv bɪn/ à l'oral rapide, voire /ˈʃʊdə bɪn/. L'accent tombe sur le participe : « It should've been DONE. »",
+  "« must be » : le t de « must » disparaît souvent devant « be » : /ˈmʌs bi/.",
+  "Pour un reproche, on peut accentuer le modal : « It SHOULD have been sent yesterday! »",
+  "« being » /ˈbiːɪŋ/ (deux syllabes) ≠ « been » /biːn/ ou /bɪn/."
+ ],
+ "erreurs": [
+  ["The report must be finish by Friday.", "The report must be finished by Friday.", "Après « be » : participe passé."],
+  ["The work should have done yesterday.", "The work should have been done yesterday.", "Passif au passé : should have been + participe."],
+  ["The house has been built in 1990.", "The house was built in 1990.", "Date passée précise : prétérit passif."],
+  ["By next week, the work will have completed.", "By next week, the work will have been completed.", "Futur antérieur passif : will have been + participe."],
+  ["I don't like to be interrupt.", "I don't like being interrupted. (ou : to be interrupted)", "Gérondif ou infinitif passif + participe passé."],
+  ["The car needs to wash.", "The car needs washing (needs to be washed).", "need + -ing a un sens passif ; « to wash » serait actif."],
+  ["It can't be did today.", "It can't be done today.", "Participe passé : done."]
+ ],
+ "dialogue": {
+  "contexte": "À Dakar, réunion de chantier pour la construction d'une école. Mme Sow, cheffe de projet, fait le point avec l'ingénieur, M. Ndiaye.",
+  "lignes": [
+   ["Mme Sow", "So, where are we? The roof should have been finished last week.", "Alors, où en sommes-nous ? Le toit aurait dû être terminé la semaine dernière."],
+   ["M. Ndiaye", "I know. The materials had been ordered in April, but the delivery was delayed at the port.", "Je sais. Les matériaux avaient été commandés en avril, mais la livraison a été retardée au port."],
+   ["Mme Sow", "Has the problem been solved now?", "Le problème a-t-il été résolu ?"],
+   ["M. Ndiaye", "Yes. Everything has been delivered, and the work can be completed in ten days.", "Oui. Tout a été livré, et les travaux peuvent être terminés en dix jours."],
+   ["Mme Sow", "Good. The classrooms must be inspected before the opening in October.", "Bien. Les salles de classe doivent être inspectées avant l'ouverture en octobre."],
+   ["M. Ndiaye", "Don't worry. By the end of September, everything will have been checked and approved.", "Ne vous inquiétez pas. D'ici fin septembre, tout aura été vérifié et approuvé."],
+   ["Mme Sow", "I hope so. I don't want to be told about any more delays.", "J'espère bien. Je ne veux plus qu'on me parle de retards."],
+   ["M. Ndiaye", "Understood. This delay could have been avoided, and it won't happen again.", "Compris. Ce retard aurait pu être évité, et ça ne se reproduira pas."]
+  ]
+ },
+ "mots": [
+  ["deadline", "The deadline is next Friday.", "la date limite, l'échéance"],
+  ["schedule", "We are two weeks behind schedule.", "le calendrier, le planning (behind schedule = en retard)"],
+  ["delay", "The delivery was delayed at the port.", "retarder ; un retard"],
+  ["complete", "The building will be completed in May.", "terminer, achever"],
+  ["approve", "The plans have been approved.", "approuver, valider"],
+  ["inspect", "The site must be inspected every month.", "inspecter, contrôler"],
+  ["contractor", "The contractor has promised to finish on time.", "l'entrepreneur, le prestataire"],
+  ["submit", "All reports must be submitted by noon.", "soumettre, remettre"],
+  ["invoice", "The invoice hasn't been paid yet.", "une facture"],
+  ["avoid", "This mistake could have been avoided.", "éviter"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Reconnaître la forme",
+   "consigne": "Donne le nom de la forme passive.",
+   "items": [
+    ["The tickets have been sold.", "Present perfect passif (have been + participe)."],
+    ["The room had been cleaned before we arrived.", "Past perfect passif (had been + participe)."],
+    ["The results will have been published by Monday.", "Futur antérieur passif (will have been + participe)."],
+    ["The form should have been signed.", "Modal au passé passif (should have been + participe)."]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec la forme passive qui convient du verbe entre parenthèses.",
+   "items": [
+    ["All forms must ___ (complete) in black ink.", "be completed"],
+    ["Look at the board: our flight ___ (cancel).", "has been cancelled"],
+    ["When we arrived, all the food ___ already ___ (eat).", "had already been eaten"],
+    ["By the end of the year, the new metro line ___ (build).", "will have been built"],
+    ["This letter ___ (should / send) last week!", "should have been sent"],
+    ["I hate ___ (tell) what to do.", "being told"]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Mets ces phrases au passif (sans complément d'agent).",
+   "items": [
+    ["They have repaired the bridge.", "The bridge has been repaired."],
+    ["Someone had already booked the room.", "The room had already been booked."],
+    ["You can't use this lift during a fire.", "This lift can't be used during a fire."],
+    ["They should have warned us.", "We should have been warned."],
+    ["The workers will have finished the school by June.", "The school will have been finished by June."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["The report must be finish by Friday.", "The report must be finished by Friday."],
+    ["The work should have done yesterday.", "The work should have been done yesterday."],
+    ["The house has been built in 1990.", "The house was built in 1990."],
+    ["The car needs to wash.", "The car needs washing. (ou : The car needs to be washed.)"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec une forme passive.",
+   "items": [
+    ["Le colis aurait dû être livré hier.", "The parcel should have been delivered yesterday."],
+    ["Ce document doit être signé par le directeur.", "This document must be signed by the director."],
+    ["Quand je suis arrivé, la réunion avait été annulée.", "When I arrived, the meeting had been cancelled."],
+    ["Les résultats auront été publiés d'ici lundi.", "The results will have been published by Monday."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court courriel de réclamation (4 phrases) à un fournisseur dont la livraison est en retard. Utilise au moins quatre passifs différents (modal, present perfect, past perfect, should / could have been).",
+   "items": [
+    ["Exemple de réponse", "Our order was placed on 3 May and it should have been delivered last Friday. We had been promised delivery within five days. So far, none of our emails have been answered. This situation could have been avoided, and we expect the goods to be sent by tomorrow at the latest."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Modal + be + participe : must be signed, can be done, should be taken.",
+  "has / have been, had been, will have been + participe pour les temps parfaits.",
+  "Modal + have been + participe : should have been done (reproche), must have been done (déduction), could have been avoided.",
+  "Infinitif passif : to be told ; gérondif passif : being interrupted.",
+  "Date passée précise → prétérit passif (was built in 1990) ; « needs washing » = needs to be washed."
+ ],
+ "liens": [151, 156, 110, 152, 205],
+ "refs": ["bc-adv-passives", "bc-passives"]
+}

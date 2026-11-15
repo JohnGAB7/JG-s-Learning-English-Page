@@ -1,0 +1,192 @@
+{
+"n": 34,
+"niveau": "A1",
+"titre": "Would like (demander poliment)",
+"intro": "« Would like » est la façon polie de dire ce qu’on veut : « I'd like a coffee, please » (je voudrais un café). C’est aussi la formule pour offrir et inviter : « Would you like some tea? » Indispensable au restaurant, dans les magasins et au travail.",
+"objectifs": [
+ "Former would like + nom et would like + to + verbe, avec la forme courte I'd like.",
+ "Faire une demande polie au lieu de « I want ».",
+ "Offrir et inviter avec Would you like…? et répondre (Yes, please / I'd love to).",
+ "Ne pas confondre « like » (aimer en général) et « would like » (vouloir maintenant)."
+],
+"sections": [
+ {
+  "titre": "La forme",
+  "texte": [
+   "« Would like » a la même forme à toutes les personnes : I would like, she would like, they would like. Pas de s à « like » ! À l’oral, on utilise presque toujours la forme courte : I'd like, you'd like, she'd like, we'd like.",
+   "On peut mettre un nom après : « I'd like a sandwich. » Pour un verbe, il faut « to » : « I'd like to go home. »",
+   "Question : « Would you like…? » Réponses courtes : « Yes, please. » / « No, thank you. » (pour une offre) ou « Yes, I would. » / « No, I wouldn't. »"
+  ],
+  "tableau": {
+   "entetes": ["Forme", "Structure", "Exemple"],
+   "lignes": [
+    ["Affirmative + nom", "sujet + 'd like + nom", "I'd like a glass of water."],
+    ["Affirmative + verbe", "sujet + 'd like + to + verbe", "She'd like to study in Canada."],
+    ["Question", "Would + sujet + like…?", "Would you like some cake?"],
+    ["Question en Wh-", "Wh- + would + sujet + like…?", "What would you like to drink?"],
+    ["Réponse à une offre", "Yes, please. / No, thank you.", "Would you like tea? — Yes, please."]
+   ]
+  },
+  "note": "Au négatif, « I wouldn't like… » existe mais est rare pour refuser. Pour décliner poliment, on dit plutôt « No, thank you » ou « I'd rather not » (je préfère ne pas)."
+ },
+ {
+  "titre": "Demander poliment",
+  "texte": [
+   "« I want… » est correct mais peut sembler direct, voire impoli, avec un serveur, un vendeur ou un inconnu. « I'd like… » est la formule neutre et polie, comme « je voudrais » en français.",
+   "On ajoute souvent « please » : « I'd like a ticket to Ghent, please. » Au restaurant, on entend aussi « Can I have…? », « Could I have…? » et « I'll have… »."
+  ],
+  "exemples": [
+   ["I'd like a return ticket to Lyon, please.", "Je voudrais un aller-retour pour Lyon, s’il vous plaît."],
+   ["We'd like to book a table for four.", "Nous voudrions réserver une table pour quatre."],
+   ["Could I have the bill, please?", "Je pourrais avoir l’addition, s’il vous plaît ? (US : the check)"]
+  ]
+ },
+ {
+  "titre": "Offrir et inviter",
+  "texte": [
+   "« Would you like + nom? » sert à offrir : « Would you like a biscuit? » (Tu veux un biscuit ?). « Would you like to + verbe? » sert à inviter : « Would you like to come to my party? »",
+   "Pour accepter une invitation : « Yes, I'd love to! » (avec « to » à la fin, sans répéter le verbe). Pour refuser poliment : « I'd love to, but I can't. I'm busy on Saturday. »",
+   "Pour accepter une offre : « Yes, please. » ; pour refuser : « No, thank you. » / « No, thanks. » On ne répond pas « Yes, I like » !"
+  ],
+  "exemples": [
+   ["Would you like some more rice? — No, thank you. I'm full.", "Tu veux encore du riz ? — Non merci. J’ai assez mangé."],
+   ["Would you like to have dinner with us on Friday? — I'd love to!", "Tu veux dîner avec nous vendredi ? — Avec plaisir !"],
+   ["Would you like to come to the cinema? — I'd love to, but I'm working.", "Tu veux venir au cinéma ? — J’aimerais bien, mais je travaille."]
+  ]
+ },
+ {
+  "titre": "Like ou would like ?",
+  "texte": [
+   "« Like » (leçon 33) exprime un goût général et permanent : « I like coffee » (j’aime le café). « Would like » exprime un souhait précis, maintenant : « I'd like a coffee » (je voudrais un café).",
+   "Les questions sont très différentes : « Do you like tea? » (Aimes-tu le thé ?) demande un goût ; « Would you like a tea? » (Veux-tu un thé ?) est une offre."
+  ],
+  "tableau": {
+   "entetes": ["Like (goût général)", "Would like (souhait précis)"],
+   "lignes": [
+    ["I like dancing.", "I'd like to dance with you."],
+    ["Do you like coffee? — Yes, I do.", "Would you like a coffee? — Yes, please."],
+    ["She likes travelling.", "She'd like to travel to Japan."],
+    ["like + -ing / nom", "would like + to + verbe / nom"]
+   ]
+  }
+ },
+ {
+  "titre": "Would like + quelqu’un + to",
+  "texte": [
+   "Pour dire ce qu’on veut que quelqu’un d’autre fasse, on utilise « would like + personne + to + verbe ». Le français utilise « que + subjonctif », mais l’anglais n’a jamais « that » ici.",
+   "Cette structure est très utile au travail et pour présenter quelqu’un."
+  ],
+  "exemples": [
+   ["I'd like you to meet my colleague, Ana.", "J’aimerais te présenter ma collègue Ana (litt. : que tu rencontres)."],
+   ["We'd like you to check this document.", "Nous voudrions que vous vérifiiez ce document."]
+  ]
+ }
+],
+"formule": "I'd like + nom · I'd like to + verbe · Would you like…? — Yes, please. / I'd love to!",
+"prononciation": [
+ "« would » se prononce /wʊd/ : le l ne se prononce pas. « Would » et « wood » (le bois) se prononcent pareil.",
+ "Dans « I'd like », le d est à peine audible : /aɪd ˈlaɪk/. Écoutez bien : « I like » et « I'd like » se ressemblent beaucoup à l’oral.",
+ "« Would you » se lie : /ˈwʊdʒu/ ou /ˈwʊdʒə/ (« woudjou »).",
+ "« to » est faible dans « I'd like to go » /tə/, mais fort en fin de phrase : « I'd love to! » /tuː/.",
+ "Une offre monte à la fin : « Would you like some TEA? ↗ »."
+],
+"erreurs": [
+ ["I want a coffee. (au serveur)", "I'd like a coffee, please.", "« I want » peut paraître impoli ; « I'd like » est la formule polie."],
+ ["I would like go to Paris.", "I would like to go to Paris.", "Would like + to + verbe."],
+ ["Do you like a coffee? (pour offrir)", "Would you like a coffee?", "Pour offrir : « Would you like…? »."],
+ ["Would you like some tea? — Yes, I like.", "Would you like some tea? — Yes, please.", "Pour accepter une offre : Yes, please."],
+ ["I'd like going to the beach.", "I'd like to go to the beach.", "Après would like : to + verbe, pas -ing."],
+ ["She'd likes a new phone.", "She'd like a new phone.", "Pas de s après « would »."],
+ ["Would you like to come? — Yes, I'd love.", "Would you like to come? — Yes, I'd love to.", "On garde « to » à la fin."],
+ ["I would like that you come.", "I'd like you to come.", "would like + personne + to + verbe, jamais « that »."]
+],
+"dialogue": {
+ "contexte": "Dans un restaurant de plage à Kribi, au Cameroun. Nadia et son collègue belge Pieter commandent.",
+ "lignes": [
+  ["Waiter", "Good evening. Would you like something to drink?", "Bonsoir. Voulez-vous boire quelque chose ?"],
+  ["Nadia", "Yes, please. I'd like a fresh pineapple juice.", "Oui, s’il vous plaît. Je voudrais un jus d’ananas frais."],
+  ["Pieter", "And I'd like a bottle of water, please.", "Et moi, je voudrais une bouteille d’eau, s’il vous plaît."],
+  ["Waiter", "Of course. And what would you like to eat?", "Bien sûr. Et que voulez-vous manger ?"],
+  ["Nadia", "I'd like the grilled fish with plantain.", "Je voudrais le poisson braisé avec du plantain."],
+  ["Pieter", "The same for me. I'd like to try the local food.", "La même chose pour moi. J’aimerais goûter la cuisine locale."],
+  ["Waiter", "Would you like some chilli sauce?", "Voulez-vous de la sauce pimentée ?"],
+  ["Pieter", "Yes, please, but just a little!", "Oui, s’il vous plaît, mais juste un peu !"],
+  ["Nadia", "Pieter, would you like to visit the waterfalls tomorrow?", "Pieter, tu voudrais visiter les chutes demain ?"],
+  ["Pieter", "I'd love to!", "Avec plaisir !"]
+ ]
+},
+"mots": [
+ ["menu", "Can I see the menu, please?", "le menu, la carte"],
+ ["order", "Are you ready to order?", "commander ; une commande"],
+ ["waiter", "The waiter is very friendly.", "un serveur (une serveuse : waitress)"],
+ ["bill", "Could I have the bill, please?", "l’addition (US : check)"],
+ ["starter", "I'd like soup as a starter.", "une entrée (US : appetizer)"],
+ ["main course", "What would you like for your main course?", "le plat principal"],
+ ["dessert", "Would you like a dessert?", "le dessert"],
+ ["invite", "I'd like to invite you to dinner.", "inviter"],
+ ["offer", "Thank you for the offer.", "une offre ; offrir, proposer"],
+ ["tip", "We'd like to leave a tip.", "un pourboire"]
+],
+"exercices": [
+ {
+  "titre": "1. Like ou would like ?",
+  "consigne": "Complète avec like, likes ou 'd like.",
+  "items": [
+   ["I ___ a cup of tea, please.", "'d like"],
+   ["I ___ tea. I drink it every morning.", "like"],
+   ["She ___ dancing. She goes every Saturday.", "likes"],
+   ["We ___ to book a table for two.", "'d like"],
+   ["Do you ___ jazz?", "like"],
+   ["Would you ___ some water?", "like"]
+  ]
+ },
+ {
+  "titre": "2. To ou a ?",
+  "consigne": "Complète avec to ou a.",
+  "items": [
+   ["I'd like ___ visit Canada.", "to"],
+   ["Would you like ___ sandwich?", "a"],
+   ["She'd like ___ new phone.", "a"],
+   ["We'd like ___ book a room.", "to"]
+  ]
+ },
+ {
+  "titre": "3. Être poli",
+  "consigne": "Rends la demande plus polie avec I'd like ou Would you like.",
+  "items": [
+   ["I want a glass of water.", "I'd like a glass of water, please."],
+   ["I want to pay.", "I'd like to pay, please."],
+   ["Do you want a coffee?", "Would you like a coffee?"],
+   ["Do you want to come with us?", "Would you like to come with us?"],
+   ["We want the bill.", "We'd like the bill, please."]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je voudrais un thé, s’il vous plaît.", "I'd like a tea, please. / I'd like a cup of tea, please."],
+   ["Voulez-vous du gâteau ? — Oui, s’il vous plaît.", "Would you like some cake? — Yes, please."],
+   ["Elle voudrait étudier à Montréal.", "She'd like to study in Montreal."],
+   ["Tu veux venir à ma fête ? — Avec plaisir !", "Would you like to come to my party? — I'd love to!"],
+   ["J’aimerais que tu rencontres mon frère.", "I'd like you to meet my brother."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Tu es au restaurant. Écris ta commande (boisson, plat, dessert) en trois phrases avec I'd like, puis invite un ami à faire quelque chose ce week-end avec Would you like to…?",
+  "items": [
+   ["Exemple de réponse", "I'd like a glass of orange juice, please. For my main course, I'd like the chicken with rice. And I'd like a chocolate cake for dessert. Would you like to go to the beach with me on Saturday?"]
+  ]
+ }
+],
+"a_retenir": [
+ "I'd like + nom (I'd like a coffee) ; I'd like + to + verbe (I'd like to go). Pas de s, pas de -ing.",
+ "« I'd like » est plus poli que « I want ».",
+ "Offre : Would you like…? — Yes, please. / No, thank you.",
+ "Invitation : Would you like to…? — I'd love to! / I'd love to, but I can't.",
+ "like = aimer (en général) ; would like = vouloir (maintenant). I'd like you to meet… (sans « that »)."
+],
+"liens": [26, 31, 33, 57, 79],
+"refs": ["bc-a1a2", "cam-using"]
+}

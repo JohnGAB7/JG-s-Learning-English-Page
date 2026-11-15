@@ -1,0 +1,232 @@
+{
+ "n": 225,
+ "niveau": "C1",
+ "titre": "Le registre formel à l’écrit",
+ "intro": "Rapport, lettre officielle, dossier de candidature, article : l'anglais formel obéit à des règles précises de vocabulaire, de grammaire et de ton. Les maîtriser permet d'écrire un texte sérieux sans tomber dans la lourdeur ni dans les calques du français administratif.",
+ "objectifs": [
+  "Identifier les marques d'un écrit formel : lexique, constructions impersonnelles, absence de contractions, connecteurs.",
+  "Transformer un texte courant en texte formel (et l'inverse) en gardant un anglais clair.",
+  "Ponctuer et placer correctement les connecteurs formels (however, moreover, consequently).",
+  "Éviter les gallicismes administratifs (« I remain at your disposal », « actually », « In this report we will see »)."
+ ],
+ "sections": [
+  {
+   "titre": "Qu'est-ce qui rend un texte formel ?",
+   "texte": [
+    "Le registre formel n'est pas une question de mots compliqués, mais d'un ensemble de choix cohérents : un lexique précis et souvent d'origine latine, des phrases complètes sans contractions, un ton impersonnel et objectif, des liens logiques explicites.",
+    "Le but reste la clarté. L'anglais moderne, notamment avec le mouvement « Plain English » au Royaume-Uni et aux États-Unis, sanctionne la pompe : « utilise » au lieu de « use », ou « commence » au lieu de « start », paraissent souvent prétentieux. Formel ne veut pas dire obscur."
+   ],
+   "tableau": {
+    "entetes": ["Trait", "Courant / familier", "Formel"],
+    "lignes": [
+     ["Contractions", "We can't confirm it.", "We cannot confirm this."],
+     ["Verbes à particule", "We'll look into the problem.", "We will investigate the problem."],
+     ["Sujet personnel", "We found that costs went up.", "Costs were found to have increased."],
+     ["Quantité", "a lot of complaints", "a considerable number of complaints"],
+     ["Intensité", "a really big problem", "a significant / serious problem"],
+     ["Liens", "So we stopped the project.", "Consequently, the project was discontinued."]
+    ]
+   }
+  },
+  {
+   "titre": "Le choix des mots",
+   "texte": [
+    "Le formel préfère souvent un verbe simple d'un seul mot, d'origine latine, à un verbe à particule ou à « get ». La leçon 243 approfondira ces paires ; retenez ici les plus fréquentes.",
+    "Évitez les mots vagues (thing, stuff, nice, big, a lot) et les intensifs émotifs (really, totally, awful). Remplacez-les par un terme exact : « a major obstacle », « a substantial increase », « a serious concern »."
+   ],
+   "tableau": {
+    "entetes": ["Courant", "Formel", "Exemple formel"],
+    "lignes": [
+     ["get", "obtain, receive, become", "Applicants must obtain a visa before arrival."],
+     ["need", "require", "Further information is required."],
+     ["ask for", "request", "We request a copy of the invoice."],
+     ["find out", "establish, determine, discover", "The audit aims to establish the cause."],
+     ["help", "assist", "Our staff will assist you."],
+     ["enough", "sufficient", "There is insufficient evidence."],
+     ["about", "approximately, regarding", "Approximately 300 people attended."],
+     ["before / after", "prior to / following", "Following the meeting, a report was issued."]
+    ]
+   },
+   "exemples": [
+    ["We need to find out why sales went down.", "Courant : need, find out, went down."],
+    ["It is necessary to determine the causes of the decline in sales.", "Formel : structure impersonnelle, verbe latin, nom (decline)."]
+   ],
+   "note": "Ne transformez pas tout : « use », « start », « show » sont parfaitement acceptables dans un rapport. « Utilise » et « commence » sont réservés à des contextes techniques ou très solennels."
+  },
+  {
+   "titre": "La grammaire du formel",
+   "texte": [
+    "Pas de contractions : cannot, do not, it is. La négation privilégie « no » et « not any » sous leur forme la plus nette : « There is no evidence » plutôt que « There isn't any evidence ».",
+    "Constructions impersonnelles et passif pour mettre l'accent sur l'action plutôt que sur l'acteur : « It has been decided that… », « Applications must be submitted by 1 May ».",
+    "Dans les relatives, « whom » après une préposition, et la préposition placée devant le pronom : « the committee to which the report was sent » (courant : « the committee the report was sent to »).",
+    "Certaines inversions conditionnelles appartiennent au registre formel des lettres : « Should you require further information, please contact… » (= If you require…)."
+   ],
+   "exemples": [
+    ["The candidates to whom the offer was made have all accepted.", "Préposition + whom : marque forte du formel."],
+    ["Should you have any questions, please contact the HR department.", "Inversion conditionnelle typique des courriers."],
+    ["It is recommended that all staff complete the training.", "Impersonnel : la recommandation n'est attribuée à personne."]
+   ]
+  },
+  {
+   "titre": "Connecteurs et construction des phrases",
+   "texte": [
+    "Les connecteurs formels relient deux phrases complètes. « However », « moreover », « consequently », « nevertheless » ne relient pas deux propositions avec une simple virgule : on met un point ou un point-virgule avant, et une virgule après.",
+    "Évitez de commencer une phrase par « And », « But » ou « So » dans un écrit très formel ; préférez « In addition », « However », « Therefore ». En milieu de phrase, « but » et « so » restent possibles.",
+    "La subordination (although, whereas, provided that, in order to) donne un style plus dense que l'enchaînement de phrases courtes reliées par « and »."
+   ],
+   "tableau": {
+    "entetes": ["Fonction", "Connecteurs formels"],
+    "lignes": [
+     ["Ajout", "moreover, furthermore, in addition"],
+     ["Opposition", "however, nevertheless, whereas, by contrast"],
+     ["Conséquence", "consequently, therefore, as a result, thus"],
+     ["Condition", "provided that, in the event that, unless"],
+     ["But", "in order to, so as to, with a view to (+ -ing)"]
+    ]
+   },
+   "exemples": [
+    ["The budget was approved; however, the timeline remains uncertain.", "Point-virgule avant however, virgule après."],
+    ["The project was delayed. Consequently, costs increased by 10 %.", "Deux phrases distinctes : connecteur en tête de la seconde."],
+    ["Funding will continue provided that the targets are met.", "« Provided that » : à condition que."]
+   ]
+  },
+  {
+   "titre": "Le ton : objectif et impersonnel",
+   "texte": [
+    "Le formel évite le « you » générique (« You can see that… ») : on dit « It can be seen that… » ou « As Table 2 shows… ». Il évite aussi les questions rhétoriques (« So what does this mean? ») et les points d'exclamation.",
+    "Dans un rapport ou un article, « I » et « we » ne sont pas interdits, surtout en sciences, mais ils restent sobres : « We propose… », « This report argues… ». Un objet inanimé peut être sujet d'un verbe d'action : « This report examines… », « The data show… ».",
+    "Les jugements s'expriment avec mesure : « This approach has significant limitations » plutôt que « This approach is terrible »."
+   ],
+   "exemples": [
+    ["As Figure 3 shows, demand fell sharply in 2024.", "Au lieu de « You can see in Figure 3 that… »."],
+    ["This report examines the impact of the new tax.", "Au lieu de « In this report, we will see… » (calque)."]
+   ]
+  },
+  {
+   "titre": "Les gallicismes administratifs à éviter",
+   "texte": [
+    "Le français administratif a ses formules toutes faites, qui ne se traduisent pas mot à mot. Les anglophones écrivent plus court et plus direct, même en registre formel.",
+    "« Actually » signifie « en fait », jamais « actuellement » (= currently, at present). « Eventually » signifie « finalement ». « Sensible » signifie « raisonnable », pas « sensible » (= sensitive)."
+   ],
+   "tableau": {
+    "entetes": ["Calque à éviter", "Formulation anglaise"],
+    "lignes": [
+     ["I remain at your disposal for any further information.", "Please do not hesitate to contact me if you require further information."],
+     ["In this report, we will see the causes of…", "This report examines the causes of…"],
+     ["Actually, the company employs 200 people.", "The company currently employs 200 people."],
+     ["I would be grateful if you could send me it.", "I would be grateful if you could send it to me."],
+     ["Please accept, Sir, my distinguished salutations.", "Yours faithfully, (Dear Sir or Madam) / Yours sincerely, (Dear Ms Lee)"]
+    ]
+   }
+  }
+ ],
+ "formule": "Formel = lexique précis (souvent latin) + phrases complètes sans contractions + impersonnel / passif + connecteurs explicites + ton mesuré, sans pompe",
+ "prononciation": [
+  "À la lecture à voix haute d'un texte formel, les formes pleines se prononcent mais restent naturelles : « cannot » /ˈkænɒt/ (BrE), accent sur la première syllabe.",
+  "Les connecteurs en tête de phrase forment un groupe à part, suivi d'une pause : « However, | the results… », « Consequently, | the project… ».",
+  "« furthermore » /ˌfɜːðəˈmɔː/, accent principal sur « more » ; « moreover » /mɔːrˈəʊvə/, accent sur « o ».",
+  "« require » /rɪˈkwaɪə/ et « sufficient » /səˈfɪʃənt/ : accent sur la deuxième syllabe.",
+  "« whom » se prononce /huːm/ : le w est muet."
+ ],
+ "erreurs": [
+  ["I remain at your disposal.", "Please do not hesitate to contact me.", "Calque de « je reste à votre disposition », peu naturel en anglais."],
+  ["Actually, unemployment is at 7 %.", "Currently / At present, unemployment is at 7 %.", "« Actually » = en fait ; « actuellement » = currently."],
+  ["The results are good, however the costs are high.", "The results are good; however, the costs are high.", "« However » ne relie pas deux phrases avec une simple virgule."],
+  ["We can't accept your proposal.", "We cannot accept your proposal.", "Pas de contractions dans un écrit formel."],
+  ["You can see that prices have risen.", "It can be seen that prices have risen. / As the data show, prices have risen.", "Le « you » générique est trop familier."],
+  ["We need to look into the thing about the delays.", "The causes of the delays need to be investigated.", "Verbe à particule et mot vague remplacés par des termes précis."],
+  ["In this essay, we will see why…", "This essay examines why…", "Calque de « nous allons voir » : le texte devient sujet du verbe."]
+ ],
+ "dialogue": {
+  "contexte": "À Ottawa, une responsable relit l'e-mail qu'un nouveau collègue veut envoyer à un ministère.",
+  "lignes": [
+   ["Hélène", "Your email starts with “Hi guys, we got your letter”. That's too casual for a ministry.", "Ton e-mail commence par « Salut, on a reçu votre lettre ». C'est trop familier pour un ministère."],
+   ["David", "OK. “Dear Sir or Madam, we have received your letter of 3 March”?", "D'accord. « Madame, Monsieur, nous avons bien reçu votre lettre du 3 mars » ?"],
+   ["Hélène", "Much better. And here, “we need to look into it” could be “we will investigate the matter”.", "Bien mieux. Et ici, « on doit regarder ça » pourrait devenir « nous allons examiner la question »."],
+   ["David", "Should I also change “a lot of applications”?", "Je change aussi « a lot of applications » ?"],
+   ["Hélène", "Yes: “a considerable number of applications”. And remove the contractions, “can't” and “won't”.", "Oui : « un nombre considérable de demandes ». Et supprime les contractions."],
+   ["David", "I ended with “I remain at your disposal”. Is that all right?", "J'ai terminé par « je reste à votre disposition ». C'est correct ?"],
+   ["Hélène", "It sounds translated. Try “Should you require any further information, please do not hesitate to contact me.”", "Ça sonne traduit. Essaie « Si vous avez besoin d'informations complémentaires, n'hésitez pas à me contacter »."],
+   ["David", "And then “Yours faithfully”, since I don't know their name.", "Et ensuite « Yours faithfully », puisque je ne connais pas leur nom."],
+   ["Hélène", "Exactly. Formal, but still clear and short.", "Exactement. Formel, mais toujours clair et court."]
+  ]
+ },
+ "mots": [
+  ["require", "Two forms of identification are required.", "exiger, avoir besoin de (formel)"],
+  ["obtain", "Permission must be obtained in advance.", "obtenir"],
+  ["regarding", "I am writing regarding your application.", "concernant, au sujet de"],
+  ["prior to", "Please arrive prior to 9 a.m.", "avant (formel)"],
+  ["sufficient", "There is insufficient data to conclude.", "suffisant"],
+  ["consequently", "Consequently, the event was cancelled.", "par conséquent"],
+  ["whereas", "Sales rose in Quebec, whereas they fell in Ontario.", "tandis que, alors que"],
+  ["assist", "We will be happy to assist you.", "aider, assister (formel)"],
+  ["currently", "The office is currently closed.", "actuellement"],
+  ["hesitate", "Please do not hesitate to contact us.", "hésiter"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Formel ou courant ?",
+   "consigne": "Indique si la phrase est formelle ou courante.",
+   "items": [
+    ["We'll sort it out next week.", "courante"],
+    ["The matter will be resolved next week.", "formelle"],
+    ["Should you wish to attend, please register online.", "formelle"],
+    ["Loads of people turned up.", "courante"]
+   ]
+  },
+  {
+   "titre": "2. Le mot formel",
+   "consigne": "Remplace le mot ou l'expression entre crochets par un équivalent formel.",
+   "items": [
+    ["Applicants [need] a valid passport.", "require"],
+    ["We [asked for] a refund.", "requested"],
+    ["The study aims to [find out] the causes.", "determine / establish"],
+    ["[Before] the meeting, please read the report.", "Prior to"],
+    ["There is not [enough] evidence.", "sufficient"],
+    ["Our team will [help] you.", "assist"]
+   ]
+  },
+  {
+   "titre": "3. Réécrire en registre formel",
+   "consigne": "Réécris chaque phrase en anglais formel.",
+   "items": [
+    ["We can't give you the money back.", "We are unable to issue a refund. / We cannot refund the payment."],
+    ["You can see that prices went up a lot.", "It can be seen that prices increased considerably."],
+    ["So we stopped the project.", "Consequently, the project was discontinued."],
+    ["If you have any questions, just get in touch.", "Should you have any questions, please do not hesitate to contact us."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les gallicismes",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    ["Actually, the firm has 50 employees.", "Currently, the firm has 50 employees."],
+    ["In this report, we will see the main risks.", "This report examines the main risks."],
+    ["The plan is ambitious, however it is costly.", "The plan is ambitious; however, it is costly."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais formel.",
+   "items": [
+    ["Je reste à votre disposition pour tout renseignement complémentaire.", "Please do not hesitate to contact me should you require any further information."],
+    ["Nous avons bien reçu votre demande du 12 mai.", "We acknowledge receipt of your request of 12 May. / We have received your request of 12 May."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Réécris ce message en registre formel (une lettre à une administration) : « Hi, I sent you my papers a month ago and I still haven't heard anything. Can you check what's going on? Thanks! »",
+   "items": [
+    ["Exemple de réponse", "Dear Sir or Madam, I am writing regarding the documents I submitted on 4 March in support of my application. As I have not yet received a response, I would be grateful if you could inform me of the current status of my file. Should any further documents be required, please do not hesitate to contact me. Yours faithfully, Amina Bello"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Formel = un ensemble de choix cohérents : lexique précis, pas de contractions, impersonnel, connecteurs explicites, ton mesuré.",
+  "Préférez require, obtain, request, assist, prior to, sufficient… mais sans pompe : « use » et « start » restent corrects.",
+  "However / moreover / consequently : point ou point-virgule avant, virgule après.",
+  "Gallicismes : actually ≠ actuellement ; pas de « I remain at your disposal » ; « This report examines… » plutôt que « we will see »."
+ ],
+ "liens": [207, 203, 226, 238, 243],
+ "refs": ["bc-c1", "cam-using", "cam-confused"]
+}

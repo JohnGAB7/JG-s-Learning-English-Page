@@ -1,0 +1,494 @@
+{
+ "n": 235,
+ "niveau": "C1",
+ "titre": "La modalité : nuances fines",
+ "intro": "Must ou have to, needn't have ou didn't need to, could ou was able to, will qui agace, should qui attend : les modaux anglais expriment des nuances que le français rend avec « devoir » ou « pouvoir » seuls. Au niveau C1, ces nuances changent le sens d'un message, surtout dans les reproches, les consignes et les déductions.",
+ "objectifs": [
+  "Distinguer finement les obligations : must, have to, need to, be to, be supposed to, had better.",
+  "Opposer needn't have done et didn't need to do, could et was able to.",
+  "Exprimer une déduction ou un reproche au passé avec précision (can't have, may well have, should have, might have told me).",
+  "Reconnaître les emplois de will et would pour le comportement typique, le refus et l'agacement."
+ ],
+ "sections": [
+  {
+   "titre": "L'obligation : qui impose quoi ?",
+   "texte": [
+    "« Must » exprime une obligation ressentie ou imposée par le locuteur (« I must call my mother »), ou une règle écrite (« Passengers must wear seat belts »). « Have to » présente une obligation extérieure, une contrainte de la situation (« I have to wear a uniform at work »). À l'oral britannique, « have got to » est fréquent.",
+    "« Be to » sert aux consignes officielles et aux programmes : « You are to report to reception at 8 a.m. », « The minister is to visit Kigali next week. » « Be supposed to » exprime ce qui est prévu ou attendu… et souvent pas respecté : « We were supposed to finish yesterday. »",
+    "« Had better » est un avertissement pour une situation précise (sinon, conséquence désagréable) : « You'd better leave now or you'll miss the train. » Ce n'est pas un conseil général (should)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Forme",
+     "Nuance",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "must",
+      "obligation du locuteur, règle écrite",
+      "I must remember to call her."
+     ],
+     [
+      "have to / have got to",
+      "contrainte extérieure",
+      "I have to renew my visa every year."
+     ],
+     [
+      "need to",
+      "nécessité pratique",
+      "You need to update the software."
+     ],
+     [
+      "be to",
+      "consigne officielle, programme",
+      "All staff are to attend the briefing."
+     ],
+     [
+      "be supposed to",
+      "prévu, attendu (souvent non respecté)",
+      "He was supposed to call me."
+     ],
+     [
+      "had better",
+      "avertissement, situation précise",
+      "We'd better hurry."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "You are not to leave the building without permission.",
+     "« Be to » négatif : interdiction officielle."
+    ],
+    [
+     "The meeting was supposed to start at nine, but nobody was there.",
+     "Prévu, mais pas réalisé."
+    ]
+   ]
+  },
+  {
+   "titre": "L'absence d'obligation : needn't have ou didn't need to ?",
+   "texte": [
+    "Au présent, « needn't » (surtout BrE) et « don't need to / don't have to » signifient « ce n'est pas nécessaire ». « Mustn't » signifie au contraire « c'est interdit ».",
+    "Au passé, la nuance est capitale. « I needn't have bought bread » = j'en ai acheté, mais c'était inutile (action faite pour rien). « I didn't need to buy bread » = ce n'était pas nécessaire ; en général, je n'en ai pas acheté (ou le contexte ne le dit pas)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Forme",
+     "Action réalisée ?",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "needn't have + participe passé",
+      "oui, mais inutile",
+      "You needn't have waited for me. (= tu as attendu pour rien)"
+     ],
+     [
+      "didn't need to + base",
+      "en général non",
+      "I didn't need to wait; the bus came at once."
+     ],
+     [
+      "mustn't",
+      "interdiction",
+      "You mustn't park here."
+     ],
+     [
+      "don't have to",
+      "pas d'obligation",
+      "You don't have to come if you're busy."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "We needn't have booked a table — the restaurant was empty.",
+     "Réservation faite, mais inutile."
+    ],
+    [
+     "We didn't need to book a table, so we just turned up.",
+     "Pas de réservation : ce n'était pas nécessaire."
+    ]
+   ]
+  },
+  {
+   "titre": "Capacité au passé : could, was able to, managed to",
+   "texte": [
+    "« Could » exprime une capacité générale dans le passé : « She could speak three languages at the age of ten. » Pour une réussite ponctuelle dans une situation précise, on dit « was able to » ou « managed to » : « Despite the storm, we were able to / managed to land. »",
+    "Au négatif, « couldn't » convient dans les deux cas : « We couldn't find the hotel. » Avec les verbes de perception (see, hear, smell) et de compréhension, « could » reste possible pour un moment précis : « I could hear voices next door. »"
+   ],
+   "exemples": [
+    [
+     "After three hours, the firefighters managed to put out the fire.",
+     "Réussite ponctuelle après effort : managed to."
+    ],
+    [
+     "My grandfather could repair almost anything.",
+     "Capacité générale : could."
+    ]
+   ]
+  },
+  {
+   "titre": "Déduction et reproche au passé",
+   "texte": [
+    "Échelle de déduction au passé : must have done (quasi certain), may well have / probably (probable), may / might / could have (possible), can't / couldn't have (impossible). « Can't have » et « couldn't have » sont presque synonymes ; « couldn't have » est un peu plus fréquent dans les récits.",
+    "« Should have done » exprime un regret ou une critique (ce qui aurait été bien) ; « shouldn't have » le contraire. « Could have done » signale une possibilité non exploitée ou un reproche : « You could have told me! » (tu aurais pu me le dire). « Might have » peut avoir la même valeur de reproche, plus britannique : « You might have warned me. »",
+    "« Should » exprime aussi une attente logique : « They should have arrived by now » (normalement, ils devraient être arrivés)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Forme",
+     "Valeur",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "must have + pp",
+      "déduction quasi certaine",
+      "She must have missed the bus."
+     ],
+     [
+      "may well have + pp",
+      "probable",
+      "The email may well have gone to spam."
+     ],
+     [
+      "might / could have + pp",
+      "possible",
+      "He might have forgotten."
+     ],
+     [
+      "can't / couldn't have + pp",
+      "impossible",
+      "They can't have finished already."
+     ],
+     [
+      "should have + pp",
+      "regret, critique ; attente",
+      "We should have left earlier. / It should have arrived by now."
+     ],
+     [
+      "could / might have + pp",
+      "reproche, occasion manquée",
+      "You could have asked me first!"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "You might have told me the meeting was cancelled!",
+     "Reproche : « Tu aurais pu me prévenir ! »"
+    ],
+    [
+     "The parcel should have arrived yesterday. I'll call the courier.",
+     "Attente non réalisée."
+    ]
+   ]
+  },
+  {
+   "titre": "Will et would : comportement typique, refus, agacement",
+   "texte": [
+    "« Will » décrit un comportement caractéristique au présent : « She'll sit and read for hours. » « Would » fait de même au passé (habitude) : « My grandmother would tell us stories every evening. »",
+    "Accentués, « will » et « would » traduisent l'agacement : « He WILL leave the door open! » (il faut toujours qu'il…), « She WOULD say that! » (c'est bien d'elle). « Won't » et « wouldn't » expriment le refus, y compris des objets : « The car won't start. », « He wouldn't listen. »",
+    "« Would » sert aussi à adoucir une opinion : « I would think so », « I'd say it's about 20 % »."
+   ],
+   "exemples": [
+    [
+     "The printer won't print in colour.",
+     "Refus d'un objet : « won't »."
+    ],
+    [
+     "When we were kids, we would spend every summer in Kribi.",
+     "Habitude passée : would (avec un verbe d'action)."
+    ]
+   ]
+  },
+  {
+   "titre": "Pièges : « devoir » et « pouvoir » ne suffisent pas",
+   "texte": [
+    "« Il a dû oublier » = He must have forgotten (déduction), mais « Il a dû partir tôt » peut signifier « He had to leave early » (obligation). « Tu aurais dû » = You should have ; « Tu aurais pu » = You could have. Lisez le sens avant de traduire.",
+    "« Pouvoir » au passé (« j'ai pu ») = was able to / managed to pour une réussite ponctuelle, pas « I could » : « J'ai pu le joindre » = I managed to reach him."
+   ]
+  }
+ ],
+ "formule": "Choisir le modal selon la source (locuteur / situation / règle), la réalité de l'action (needn't have vs didn't need to) et le degré de certitude (must / may well / might / can't have)",
+ "prononciation": [
+  "« have » est réduit dans les modaux parfaits : « must have » /ˈmʌstəv/, « should have » /ˈʃʊdəv/, « could've ». Attention : on écrit « should have », jamais « should of ».",
+  "« needn't have » /ˈniːdnt əv/ : le t final est souvent à peine audible.",
+  "« had better » se réduit à « 'd better » /d ˈbetə/ ; « had » est presque inaudible : « You'd better go ».",
+  "Pour l'agacement, accent fort sur « will / would » : « He WILL keep interrupting. »",
+  "« supposed to » se prononce /səˈpəʊstə/ : le d ne s'entend pas."
+ ],
+ "erreurs": [
+  [
+   "I didn't need to buy milk, but I bought some — what a waste.",
+   "I needn't have bought milk — what a waste.",
+   "Action réalisée inutilement : needn't have + participe."
+  ],
+  [
+   "After many attempts, I could open the door.",
+   "After many attempts, I managed to / was able to open the door.",
+   "Réussite ponctuelle : managed to / was able to."
+  ],
+  [
+   "He must have forget the meeting.",
+   "He must have forgotten the meeting.",
+   "Modal parfait : have + participe passé."
+  ],
+  [
+   "You should of told me.",
+   "You should have told me.",
+   "« Of » est une erreur d'orthographe due à la prononciation /əv/."
+  ],
+  [
+   "You mustn't come if you're busy.",
+   "You don't have to come if you're busy.",
+   "Mustn't = interdit ; don't have to = pas obligé."
+  ],
+  [
+   "You had better to see a doctor.",
+   "You'd better see a doctor.",
+   "« Had better » + base verbale, sans to."
+  ],
+  [
+   "It can't be possible that she has lied.",
+   "She can't have lied.",
+   "Structure plus naturelle : can't have + participe."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Au lendemain d'un salon professionnel à Abidjan, deux collègues font le bilan au téléphone.",
+  "lignes": [
+   [
+    "Yasmine",
+    "The stand was supposed to be ready at eight, but the carpenters arrived at ten.",
+    "Le stand devait être prêt à huit heures, mais les menuisiers sont arrivés à dix."
+   ],
+   [
+    "Kevin",
+    "They must have got stuck in traffic. The roads were terrible.",
+    "Ils ont dû rester coincés dans les embouteillages. Les routes étaient horribles."
+   ],
+   [
+    "Yasmine",
+    "Maybe. But they could have called us! We had no idea.",
+    "Peut-être. Mais ils auraient pu nous appeler ! On n'en savait rien."
+   ],
+   [
+    "Kevin",
+    "True. Anyway, we managed to open on time in the end.",
+    "C'est vrai. Enfin, on a réussi à ouvrir à l'heure finalement."
+   ],
+   [
+    "Yasmine",
+    "Yes. And we needn't have printed 2,000 brochures — we gave away about 300.",
+    "Oui. Et on n'avait pas besoin d'imprimer 2 000 brochures : on en a distribué environ 300."
+   ],
+   [
+    "Kevin",
+    "We should have checked last year's numbers. I'll remember next time.",
+    "On aurait dû vérifier les chiffres de l'an dernier. J'y penserai la prochaine fois."
+   ],
+   [
+    "Yasmine",
+    "And the projector wouldn't work on the second day. The technician will insist on using old cables.",
+    "Et le projecteur refusait de marcher le deuxième jour. Le technicien tient toujours à utiliser de vieux câbles."
+   ],
+   [
+    "Kevin",
+    "We'd better find a new supplier before the Dakar fair, then.",
+    "On ferait mieux de trouver un nouveau fournisseur avant le salon de Dakar, alors."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "obligation",
+   "There is no obligation to buy.",
+   "obligation"
+  ],
+  [
+   "be supposed to",
+   "You're supposed to sign here.",
+   "être censé"
+  ],
+  [
+   "manage",
+   "We managed to find a hotel.",
+   "réussir à, parvenir à"
+  ],
+  [
+   "needn't",
+   "You needn't bring anything.",
+   "pas besoin de"
+  ],
+  [
+   "deduction",
+   "That's just a deduction, not a fact.",
+   "déduction"
+  ],
+  [
+   "regret",
+   "I regret not studying harder.",
+   "regretter ; regret"
+  ],
+  [
+   "reproach",
+   "Her tone was full of reproach.",
+   "reproche"
+  ],
+  [
+   "warn",
+   "You might have warned me!",
+   "prévenir, avertir"
+  ],
+  [
+   "insist on",
+   "He will insist on paying.",
+   "tenir à, insister pour"
+  ],
+  [
+   "get stuck",
+   "We got stuck in traffic for an hour.",
+   "rester coincé"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quelle nuance ?",
+   "consigne": "Indique la nuance : obligation extérieure, consigne officielle, avertissement, ou prévu mais non réalisé.",
+   "items": [
+    [
+     "I have to wear a helmet on the site.",
+     "obligation extérieure"
+    ],
+    [
+     "Candidates are to arrive 30 minutes early.",
+     "consigne officielle"
+    ],
+    [
+     "You'd better charge your phone before the trip.",
+     "avertissement"
+    ],
+    [
+     "The train was supposed to leave at six.",
+     "prévu mais non réalisé"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Needn't have ou didn't need to ?",
+   "consigne": "Complète avec la forme correcte du verbe entre parenthèses.",
+   "items": [
+    [
+     "I took an umbrella, but it didn't rain. I ___ (take) it.",
+     "needn't have taken"
+    ],
+    [
+     "The shop delivered for free, so we ___ (rent) a van. We just waited at home.",
+     "didn't need to rent"
+    ],
+    [
+     "You ___ (cook) so much food! There are only four of us.",
+     "needn't have cooked"
+    ],
+    [
+     "She already had a visa, so she ___ (apply) for one.",
+     "didn't need to apply"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Déduction ou reproche au passé",
+   "consigne": "Réécris avec un modal parfait (must / can't / might / should / could have).",
+   "items": [
+    [
+     "I'm sure she forgot her keys.",
+     "She must have forgotten her keys."
+    ],
+    [
+     "It's impossible that they finished already.",
+     "They can't have finished already."
+    ],
+    [
+     "Perhaps he took the wrong train.",
+     "He might / may / could have taken the wrong train."
+    ],
+    [
+     "It was a mistake not to leave earlier.",
+     "We should have left earlier."
+    ],
+    [
+     "Why didn't you tell me? It was possible!",
+     "You could / might have told me!"
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "After two hours, I could finally fix the leak.",
+     "After two hours, I finally managed to / was able to fix the leak."
+    ],
+    [
+     "You had better to call the bank.",
+     "You'd better call the bank."
+    ],
+    [
+     "They should of asked for permission.",
+     "They should have asked for permission."
+    ],
+    [
+     "You mustn't bring food; lunch is provided. (sens : pas nécessaire)",
+     "You don't have to / needn't bring food; lunch is provided."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais en choisissant le modal juste.",
+   "items": [
+    [
+     "Tu aurais pu me prévenir !",
+     "You could have / might have warned me!"
+    ],
+    [
+     "J'ai enfin pu le joindre.",
+     "I finally managed to reach him / get hold of him."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 4 phrases sur un événement qui s'est mal passé, en utilisant : be supposed to, needn't have, must / can't have, should have.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "Our flight to Montreal was supposed to leave at 7 p.m., but it was delayed until midnight. We needn't have rushed to the airport after all. The airline must have known about the problem for hours, so they should have sent us a message earlier."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Must (locuteur, règle) / have to (situation) / be to (consigne officielle) / be supposed to (prévu, souvent non fait) / had better + base (avertissement).",
+  "Needn't have done = fait, mais inutile ; didn't need to do = pas nécessaire (souvent pas fait).",
+  "Réussite ponctuelle : managed to / was able to, pas could ; déduction passée : must / may well / might / can't have + participe.",
+  "Should have = regret, critique ou attente ; could / might have = reproche ; will / would accentués = agacement ; won't = refus."
+ ],
+ "liens": [
+  54,
+  156,
+  222,
+  234,
+  233
+ ],
+ "refs": [
+  "bc-probability",
+  "bc-deduction-past",
+  "bc-obligation"
+ ]
+}

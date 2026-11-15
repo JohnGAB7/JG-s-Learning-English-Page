@@ -1,0 +1,221 @@
+{
+ "n": 157,
+ "niveau": "B2",
+ "titre": "Inversion after negative expressions",
+ "intro": "“Never have I seen…”, “Not only did she…”, “No sooner had we arrived than…”: when a negative or restrictive expression starts the sentence, English puts the auxiliary before the subject, as in a question. It is a way of adding emphasis, typical of speeches, articles and careful writing, and very popular in exams (FCE, IELTS, TOEIC).",
+ "objectifs": [
+  "Recognise the expressions that trigger inversion (never, rarely, little, not only, under no circumstances, not until, only when…).",
+  "Make the inversion with the right auxiliary, including do / does / did.",
+  "Use the two-part structures: no sooner… than, hardly… when, not only… but also.",
+  "Know when not to invert and choose the right register."
+ ],
+ "sections": [
+  {
+   "titre": "The principle",
+   "texte": [
+    "In a normal sentence, the negative adverb goes near the verb: “I have never seen such a mess.” For emphasis, you can put it at the start of the sentence. Then you need question order: auxiliary + subject + verb. “Never have I seen such a mess.”",
+    "The effect is solemn, dramatic or very written. In everyday speech, you hear it in speeches, sports commentary, advertising, or in jokes when people exaggerate.",
+    "After these expressions in first position, inversion is obligatory: “Never I have seen…” is wrong."
+   ],
+   "exemples": [
+    ["I have never felt so proud. → Never have I felt so proud.", "Neutral → emphatic."],
+    ["She rarely makes mistakes. → Rarely does she make mistakes.", "No auxiliary: add “does”."],
+    ["We had seldom seen such enthusiasm. → Seldom had we seen such enthusiasm.", "Past perfect: “had” comes first."]
+   ]
+  },
+  {
+   "titre": "Expressions that trigger inversion",
+   "texte": [
+    "They are negative adverbs or phrases (never, at no time, under no circumstances), adverbs of very low frequency (rarely, seldom, hardly ever), or restrictive phrases starting with “only” or “not”."
+   ],
+   "tableau": {
+    "entetes": ["Expression", "Meaning", "Example"],
+    "lignes": [
+     ["Never (before)", "not at any time (before)", "Never before had the city been so quiet."],
+     ["Rarely / Seldom", "not often", "Seldom do we receive such kind letters."],
+     ["Hardly ever", "almost never", "Hardly ever does he take a day off."],
+     ["Little", "not at all (with know, realise, imagine, suspect)", "Little did she know what was waiting for her."],
+     ["At no time", "never, not at any moment", "At no time was the public in danger."],
+     ["Under no circumstances / On no account", "never, whatever happens", "On no account should you sign this."],
+     ["In no way", "not at all", "In no way is this your fault."],
+     ["Nowhere", "in no place", "Nowhere else will you find such good coffee."],
+     ["Not once", "not a single time", "Not once did he say thank you."],
+     ["Only then / Only later", "not until that moment / later", "Only then did I understand."]
+    ]
+   }
+  },
+  {
+   "titre": "Choosing the auxiliary",
+   "texte": [
+    "Follow the rules for questions: if there is already an auxiliary (be, have, a modal), it moves before the subject. If not, add do / does / did and use the base form of the verb.",
+    "When “be” is the main verb, “be” itself moves: “Rarely is he late.”",
+    "The negative adverb already contains the negative idea, so do not add “not”: “Never have I seen…”, not “Never haven't I seen…”."
+   ],
+   "tableau": {
+    "entetes": ["Tense", "Neutral sentence", "Inversion"],
+    "lignes": [
+     ["Present simple", "He seldom calls me.", "Seldom does he call me."],
+     ["Past simple", "I didn't once see her smile.", "Not once did I see her smile."],
+     ["Be", "He is rarely late.", "Rarely is he late."],
+     ["Present perfect", "I have never been so tired.", "Never have I been so tired."],
+     ["Modal", "You should not open it in any circumstances.", "Under no circumstances should you open it."],
+     ["Future", "You won't find a better price anywhere.", "Nowhere will you find a better price."]
+    ]
+   }
+  },
+  {
+   "titre": "Not until, only when, only after, only by",
+   "texte": [
+    "With “Not until…” and “Only + a time or method expression”, the inversion happens in the main clause, not in the clause after “until / when / after”.",
+    "So the time clause keeps normal word order: “Not until I got home did I realise I had lost my wallet.” (not “did I get home”).",
+    "“Only” directly before a subject does not cause inversion: “Only John knows the code” (nobody else knows it)."
+   ],
+   "exemples": [
+    ["Not until the end of the film did we understand the title.", "We only understood at the end."],
+    ["Only when the rain stopped did we leave the shelter.", "Inversion in the main clause only."],
+    ["Only after three interviews was she offered the job.", "Passive: “was” comes first."],
+    ["Only by working together can we solve this problem.", "Method: only by + -ing."]
+   ]
+  },
+  {
+   "titre": "Two-part structures",
+   "texte": [
+    "“Not only… but (also)…”: invert the first part only. “Not only did she write the report, but she also presented it.”",
+    "“No sooner… than” and “Hardly / Scarcely / Barely… when” say that one thing happened immediately after another. They are almost always used with the past perfect in the first part and the past simple in the second.",
+    "Trap: “no sooner” goes with “than” (it is a comparative); “hardly / scarcely” go with “when” (sometimes “before”). Don't mix them."
+   ],
+   "exemples": [
+    ["Not only is the hotel cheap, but it's also right next to the beach.", "Not only… but also."],
+    ["No sooner had I sat down than the phone rang.", "Immediately after I sat down."],
+    ["Hardly had we left the house when it started to pour.", "Immediately after we left."],
+    ["Scarcely had the match begun when the lights went out.", "scarcely: more literary."]
+   ]
+  },
+  {
+   "titre": "Register and neutral alternatives",
+   "texte": [
+    "Inversion is a choice of style. In an ordinary email or conversation, the neutral version sounds more natural: “I've never seen anything like it.” Used too often, inversion sounds pompous.",
+    "It is very effective in a speech, at the end of an essay, in an official notice (“On no account should passengers leave their luggage unattended”), or for a humorous effect.",
+    "Don't confuse it with conditional inversion (Had I known…, Should you need…), studied in lesson 160, or with emphatic do / does / did (lesson 168)."
+   ],
+   "exemples": [
+    ["Neutral: I didn't realise until later. / Emphatic: Only later did I realise.", "Same meaning, different register."],
+    ["On no account should passengers leave their luggage unattended.", "Official notice."],
+    ["Never again will I eat seven doughnuts in one go!", "Humorous effect."]
+   ]
+  }
+ ],
+ "formule": "Negative / restrictive expression first + auxiliary + subject + verb (Never have I… / Rarely does she… / Not until X did we…)",
+ "prononciation": [
+  "The main stress falls on the negative expression at the start: “NEVer have I…”, “NOT ONCE did he…”. It carries the emphasis.",
+  "The inverted auxiliary is usually weak: “Never have I seen” /ˈnevə həv aɪ ˈsiːn/, “Rarely does she” /ˈreəli dəz ʃi/.",
+  "No comma and no pause after the expression: it forms one block with the auxiliary and the subject.",
+  "“seldom” /ˈseldəm/, “scarcely” /ˈskeəsli/, “circumstances” /ˈsɜːkəmstænsɪz/ or /ˈsɜːkəmstɑːnsɪz/.",
+  "In “No sooner… than”, “than” is weak: /ðən/."
+ ],
+ "erreurs": [
+  ["Never I have seen such a mess.", "Never have I seen such a mess.", "After “never” at the start: auxiliary + subject."],
+  ["Rarely he goes out.", "Rarely does he go out.", "With no auxiliary, add does and use the base form."],
+  ["Not only she speaks Arabic, but she also speaks Wolof.", "Not only does she speak Arabic, but she also speaks Wolof.", "Invert the first part."],
+  ["No sooner had I arrived when the show began.", "No sooner had I arrived than the show began.", "no sooner… than; hardly… when."],
+  ["Not until I got home I realised.", "Not until I got home did I realise.", "Invert the main clause."],
+  ["Only when did the manager arrive, we started.", "Only when the manager arrived did we start.", "The time clause keeps normal order; the main clause is inverted."],
+  ["Little he knew about the plan.", "Little did he know about the plan.", "“Little” first (negative meaning): inversion with did."]
+ ],
+ "dialogue": {
+  "contexte": "In Douala, at a farewell party, Mrs Mbarga, a director who is retiring, gives a speech. Afterwards, two employees, Serge and Laure, talk about it.",
+  "lignes": [
+   ["Mrs Mbarga", "When I joined this company in 1992, little did I know that I would stay for thirty years.", "Little did I know = I had no idea."],
+   ["Mrs Mbarga", "Not only have you been wonderful colleagues, but you have also become my second family.", "Not only + inversion… but also."],
+   ["Mrs Mbarga", "Never have I worked with people so generous. Thank you, all of you.", "Formal, emotional style."],
+   ["Serge", "What a speech! Hardly had she started when people began to cry.", "Hardly had… when: immediately after."],
+   ["Laure", "I know. Only when she mentioned the 1998 floods did I realise how much she had done for us.", "Inversion in the main clause only."],
+   ["Serge", "She never complained, did she? Not once did I hear her raise her voice.", "Not once + did + subject."],
+   ["Laure", "True. Seldom do you find a boss like that.", "Seldom + do + you."],
+   ["Serge", "And under no circumstances will I let the new director change her coffee machine!", "Humorous use of a formal structure."]
+  ]
+ },
+ "mots": [
+  ["seldom", "We seldom go to the cinema these days.", "not often (formal)"],
+  ["rarely", "Rarely have I tasted such good food.", "not often"],
+  ["scarcely", "Scarcely had we arrived when it began to snow.", "only just; almost not"],
+  ["barely", "I could barely hear her.", "only just; almost not"],
+  ["circumstances", "Under no circumstances should you share your password.", "the facts or conditions of a situation"],
+  ["on no account", "On no account must you open this door.", "never, for any reason"],
+  ["realise", "Only later did I realise my mistake.", "to understand something suddenly (US: realize)"],
+  ["no sooner", "No sooner had he left than she called.", "immediately after (used with than)"],
+  ["emphasis", "Inversion adds emphasis to a sentence.", "special importance given to something"],
+  ["formal", "Inversion is typical of formal writing.", "serious and correct in style, used in official situations"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choose",
+   "consigne": "Choose the correct word order.",
+   "items": [
+    ["Never (I have / have I) eaten such spicy food.", "have I"],
+    ["Rarely (does she / she does) arrive late.", "does she"],
+    ["Not until I saw the photos (I understood / did I understand).", "did I understand"],
+    ["Only John (knows / does John know) the password.", "knows (“only” + subject: no inversion)"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with the auxiliary + subject + the verb in brackets.",
+   "items": [
+    ["Rarely ___ (she / complain) about her job.", "does she complain"],
+    ["Never ___ (I / see) such a beautiful sunset.", "have I seen"],
+    ["Under no circumstances ___ (you / should / open) this door.", "should you open"],
+    ["Not until the next morning ___ (we / discover) the truth.", "did we discover"],
+    ["No sooner ___ (he / leave) than it started to rain.", "had he left"],
+    ["Only by working together ___ (we / can / solve) this problem.", "can we solve"]
+   ]
+  },
+  {
+   "titre": "3. Rewrite",
+   "consigne": "Rewrite the sentence starting with the word or phrase in brackets.",
+   "items": [
+    ["I have never been so embarrassed. (Never)", "Never have I been so embarrassed."],
+    ["He had no idea that he was being followed. (Little)", "Little did he know that he was being followed."],
+    ["We had just started the meeting when the power went off. (Hardly)", "Hardly had we started the meeting when the power went off."],
+    ["She wrote the report and she also presented it. (Not only)", "Not only did she write the report, but she also presented it."],
+    ["You must not leave your bag unattended in any circumstances. (Under no circumstances)", "Under no circumstances must (should) you leave your bag unattended."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["Rarely he goes to the cinema.", "Rarely does he go to the cinema."],
+    ["No sooner had we arrived when the show began.", "No sooner had we arrived than the show began. (or: Hardly had we arrived when the show began.)"],
+    ["Not until I read the letter I understood.", "Not until I read the letter did I understand."],
+    ["Only when did the manager arrive, we started.", "Only when the manager arrived did we start."]
+   ]
+  },
+  {
+   "titre": "5. Back to neutral",
+   "consigne": "Rewrite each emphatic sentence in neutral, everyday English (no inversion).",
+   "items": [
+    ["Never have I seen so many people.", "I have never seen so many people."],
+    ["Hardly had he arrived when the phone rang.", "He had only just arrived when the phone rang."],
+    ["Only after the call did I understand.", "I only understood after the call. (or: I didn't understand until after the call.)"],
+    ["Under no circumstances should you share your password.", "You should never share your password."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short speech (4–5 sentences) to thank a team, a teacher or a friend, with at least four different inversions.",
+   "items": [
+    ["Example answer", "When I started this course, little did I imagine how much I would learn. Never have I had such a patient teacher. Not only did you explain grammar clearly, but you also gave us confidence. Only now do I realise how far we have come. Seldom does a class end with so many smiles."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Negative or restrictive expression at the start → auxiliary + subject (question order).",
+  "With no auxiliary, add do / does / did: Rarely does she…, Not once did he…",
+  "Not until / Only when / Only after: the inversion is in the main clause.",
+  "No sooner… than; Hardly / Scarcely… when, with the past perfect in the first part.",
+  "Formal or emphatic: use it with care; “Only John knows” has no inversion."
+ ],
+ "liens": [160, 161, 168, 215],
+ "refs": ["bc-inversion-neg", "bc-emphasis"]
+}

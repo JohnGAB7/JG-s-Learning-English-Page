@@ -1,0 +1,194 @@
+{
+ "n": 93,
+ "niveau": "B1",
+ "titre": "The past perfect",
+ "intro": "The past perfect (had + past participle) is the “past of the past”: it shows that one past action happened before another past action. You need it to tell stories clearly and to report what people said.",
+ "objectifs": [
+  "Form the past perfect in all its forms and recognise the contraction 'd.",
+  "Show that one past action happened before another, especially with when, after, before, by the time, already and never.",
+  "Know when the past perfect is necessary and when the past simple is enough.",
+  "Meet the past perfect continuous (had been + -ing) for duration up to a past moment."
+ ],
+ "sections": [
+  {
+   "titre": "Form: had + past participle",
+   "texte": [
+    "We make the past perfect with had (the same for every subject) and the past participle: I had finished, she had left, they had gone.",
+    "In speech, had becomes 'd: I'd, you'd, she'd, we'd, they'd. Careful: 'd can also mean would (I'd like). The next word tells you: 'd + participle = had (I'd seen); 'd + base verb = would (I'd see).",
+    "Negative: hadn't + participle. Question: Had + subject + participle? Short answer: Yes, she had. / No, she hadn't."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Structure", "Example"],
+    "lignes": [
+     ["Affirmative", "subject + had + participle", "The film had started when we arrived."],
+     ["Negative", "subject + hadn't + participle", "I hadn't eaten all day."],
+     ["Question", "Had + subject + participle?", "Had you met him before?"],
+     ["Wh- question", "Wh- + had + subject + participle?", "Where had she put the keys?"],
+     ["Short answer", "Yes, subject + had. / No, subject + hadn't.", "Had they left? – Yes, they had."]
+    ]
+   }
+  },
+  {
+   "titre": "Main use: the earlier action",
+   "texte": [
+    "When we tell a story in the past simple, we use the past perfect to go back to an even earlier action. Imagine a timeline: action 1 (past perfect) → action 2 (past simple) → now.",
+    "Compare: “When I arrived, the train left” = the train left at the moment I arrived (or just after). “When I arrived, the train had left” = the train was already gone; I missed it."
+   ],
+   "exemples": [
+    ["When we got to the cinema, the film had already started.", "The film started first, then we arrived."],
+    ["She was nervous because she had never flown before.", "No experience before that moment."],
+    ["I recognised him because I had seen his photo.", "Seeing the photo came first."],
+    ["They had sold the house by the time we called.", "The sale happened before the call."]
+   ]
+  },
+  {
+   "titre": "Signal words",
+   "texte": [
+    "Some words often go with the past perfect because they show that something came earlier: already, just, never… before, by the time, by + date, until, after, before, when, because.",
+    "By the time is very typical: “By the time the police arrived, the thieves had escaped.”"
+   ],
+   "tableau": {
+    "entetes": ["Word", "Example", "Meaning"],
+    "lignes": [
+     ["already", "The guests had already left.", "before that moment"],
+     ["just", "I had just sat down when the phone rang.", "a very short time before"],
+     ["never … before", "I had never seen snow before that trip.", "not at any time before"],
+     ["by the time", "By the time I woke up, she had gone.", "when (something had already happened)"],
+     ["by + time", "By 2010, he had written five novels.", "not later than that time"],
+     ["after", "After she had finished, she went out.", "following the end of"]
+    ]
+   }
+  },
+  {
+   "titre": "When the past simple is enough",
+   "texte": [
+    "If we tell actions in the order they happened, the past simple is enough: “I opened the door, switched on the light and sat down.”",
+    "With after and before, the order is already clear, so the past perfect is possible but not necessary: “After she finished / had finished, she went out.” The past perfect stresses that the first action was completely finished.",
+    "A common mistake is to use the past perfect for the “distant past”. Distance in time doesn't matter; the order between two past moments does. “The Romans built this bridge” (not “had built”) if no later past event is mentioned."
+   ],
+   "exemples": [
+    ["I got up, had a shower and left.", "Chronological order: past simple only."],
+    ["Before I left, I checked the windows.", "Before makes the order clear: past simple is fine."]
+   ]
+  },
+  {
+   "titre": "Reported speech and the past perfect continuous",
+   "texte": [
+    "We also use the past perfect when we report words or thoughts in the past: “She said she had lost her phone” (her words: “I've lost / I lost my phone”). Lessons 104 and 105 go further.",
+    "The past perfect continuous (had been + -ing) shows that an activity continued up to a moment in the past, just as the present perfect continuous does up to now: “We had been waiting for two hours when the bus finally arrived.” It can also explain past signs: “Her eyes were red: she had been crying.”"
+   ],
+   "exemples": [
+    ["He told me he had already paid.", "Reported speech: one step back in time."],
+    ["I had been working there for ten years when the company closed.", "Duration up to a past moment."],
+    ["The ground was wet. It had been raining.", "Past signs of an earlier activity."]
+   ]
+  }
+ ],
+ "formule": "had + past participle (When I arrived, the train had left.)",
+ "prononciation": [
+  "Had is weak in the middle of a sentence: /həd/ or /əd/, and often contracted to 'd /d/: “she'd gone” /ʃiːd ɡɒn/.",
+  "The 'd is very light: listen to the difference between “I left” and “I'd left”. The /d/ links to the next word: “I'd already” /aɪd ɔːlˈredi/.",
+  "hadn't /ˈhædnt/ is always stressed: “I HADN'T seen it.”",
+  "Say by the time as one block /baɪ ðə ˈtaɪm/, with the stress on time."
+ ],
+ "erreurs": [
+  ["When I arrived, the train left already.", "When I arrived, the train had already left.", "The earlier action (the train leaving) takes the past perfect."],
+  ["I had visited Paris in 2015.", "I visited Paris in 2015.", "A single dated fact is past simple; the past perfect needs another past reference point."],
+  ["She had went home.", "She had gone home.", "After had, use the participle (gone), not the past simple."],
+  ["I didn't know him because I never met him before.", "I didn't know him because I had never met him before.", "Experience before a past moment: had never + participle."],
+  ["By the time we arrived, they finished dinner.", "By the time we arrived, they had finished dinner.", "By the time + the earlier action in the past perfect."],
+  ["He said he has lost his job.", "He said he had lost his job.", "After a reporting verb in the past, go one step back: has lost → had lost."]
+ ],
+ "dialogue": {
+  "contexte": "Lyon, Monday morning. Chloé tells her colleague Malik about her disappointing weekend in Geneva.",
+  "lignes": [
+   ["Malik", "So, how was Geneva?", "A simple past question."],
+   ["Chloé", "A disaster! When we got to the station, our train had already left.", "The train left before they arrived."],
+   ["Malik", "Oh no! Hadn't you checked the time?", "Negative question in the past perfect."],
+   ["Chloé", "We had, but the company had changed the timetable and nobody had told us.", "Short answer “We had”, then two earlier actions."],
+   ["Malik", "So what did you do?", "Back to the main story: past simple."],
+   ["Chloé", "We took the next one. By the time we arrived, the museum had closed.", "By the time + past perfect."],
+   ["Malik", "What a shame. Had you been to Geneva before?", "Experience before that weekend."],
+   ["Chloé", "No, never. But the lake was beautiful, so it wasn't all bad.", "It wasn't all bad = there were good things too."]
+  ]
+ },
+ "mots": [
+  ["by the time", "By the time I arrived, everyone had left.", "when, at the moment that (something had already happened)"],
+  ["realise", "I realised I had left my passport at home.", "to suddenly understand or notice (US: realize)"],
+  ["previously", "She had previously worked in Dakar.", "before the time you are talking about"],
+  ["miss", "We missed the bus because we had overslept.", "to be too late for a bus, train, etc."],
+  ["oversleep", "I had overslept, so I was late.", "to sleep longer than you planned"],
+  ["timetable", "They had changed the timetable.", "a list of times when buses, trains or classes happen (US: schedule)"],
+  ["discover", "The police discovered that he had lied.", "to find out something you didn't know"],
+  ["turn out", "It turned out that she had already paid.", "to be found to be true in the end"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Which happened first?",
+   "consigne": "Write the action that happened first.",
+   "items": [
+    ["When I got home, my sister had cooked dinner.", "My sister cooked dinner."],
+    ["He had left before I called him.", "He left."],
+    ["The shop had closed when we arrived.", "The shop closed."],
+    ["I realised I had forgotten my bag.", "I forgot my bag."]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb in brackets in the past perfect.",
+   "items": [
+    ["When we arrived, the concert ___ (start).", "had started"],
+    ["I was hungry because I ___ (not / eat) all day.", "hadn't eaten"],
+    ["___ you ___ (meet) her before the party?", "Had … met"],
+    ["She ___ (never / see) the sea before that holiday.", "had never seen"],
+    ["By 9 p.m., they ___ (finish) the work.", "had finished"]
+   ]
+  },
+  {
+   "titre": "3. Past simple or past perfect?",
+   "consigne": "Put one verb in the past simple and the other in the past perfect.",
+   "items": [
+    ["When I (get) to the bank, it (close).", "got … had closed"],
+    ["She (be) sad because her cat (disappear).", "was … had disappeared"],
+    ["We (not / recognise) him because he (grow) a beard.", "didn't recognise … had grown"],
+    ["By the time the taxi (arrive), we (decide) to walk home.", "arrived … had decided"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["When I arrived, the meeting already finished.", "When I arrived, the meeting had already finished."],
+    ["She had wrote the letter before lunch.", "She had written the letter before lunch."],
+    ["I had bought this car in 2019.", "I bought this car in 2019."],
+    ["He told me he has seen the film.", "He told me he had seen the film."]
+   ]
+  },
+  {
+   "titre": "5. Join the sentences",
+   "consigne": "Join the two sentences into one, using the word in brackets and the past perfect.",
+   "items": [
+    ["The bus left. Then we arrived. (When … already)", "When we arrived, the bus had already left."],
+    ["I ate poutine for the first time on that trip. (never … before)", "I had never eaten poutine before that trip."],
+    ["She said: “I've lost my keys.” (She told me…)", "She told me (that) she had lost her keys."],
+    ["It started raining two hours before we left. It was still raining. (had been)", "It had been raining for two hours when we left."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "In 4–5 sentences, tell the story of a day when everything went wrong. Use the past perfect at least three times (already, never… before, by the time…).",
+   "items": [
+    ["Example answer", "Last Monday was terrible. When I woke up, I realised my alarm hadn't rung. By the time I got to the station, my train had already left. When I finally arrived at work, the meeting had started. I had never felt so embarrassed before."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Form: had + past participle, the same for every subject; contraction 'd.",
+  "Use: the earlier of two past actions (the “past of the past”).",
+  "Signals: already, just, never… before, by the time, by + time, after, before.",
+  "No past perfect for a single dated fact or a story told in order: use the past simple.",
+  "Past perfect continuous (had been + -ing): duration up to a past moment."
+ ],
+ "liens": [42, 43, 91, 97, 104],
+ "refs": ["bc-past-perfect", "bc-past-cont"]
+}

@@ -1,0 +1,207 @@
+{
+ "n": 155,
+ "niveau": "B2",
+ "titre": "Les verbes introducteurs du discours indirect",
+ "intro": "Au lieu de répéter « he said… he said… », un bon locuteur résume l'intention : il a promis, refusé, avoué, conseillé, accusé, présenté ses excuses. Chaque verbe a sa propre construction, et c'est là que se cachent les erreurs les plus fréquentes (« suggest me to », « explain me »).",
+ "objectifs": [
+  "Choisir le verbe qui résume l'intention de la personne (promise, refuse, admit, warn, persuade…).",
+  "Connaître les cinq grandes constructions : to + infinitif, objet + to + infinitif, -ing, préposition + -ing, that + proposition.",
+  "Employer correctement suggest, recommend, explain et insist, pièges classiques pour les francophones.",
+  "Rendre un compte rendu plus précis et plus naturel."
+ ],
+ "sections": [
+  {
+   "titre": "Résumer l'intention, pas les mots",
+   "texte": [
+    "Le discours indirect avec say et tell (leçon 154) répète le contenu. Les verbes introducteurs disent ce que la personne faisait en parlant : une promesse, un refus, un aveu, un conseil, un avertissement.",
+    "Le verbe choisi remplace souvent plusieurs mots : « “OK, OK, it was me, I broke it,” he said » → « He admitted breaking it. » Le compte rendu devient plus court et plus clair.",
+    "Chaque verbe a une construction fixe, qu'il faut apprendre avec lui, comme on apprend le genre d'un nom en français."
+   ],
+   "exemples": [
+    ["“I'll definitely be there.” → She promised to be there.", "Une promesse."],
+    ["“No, I won't sign it.” → He refused to sign it.", "Un refus."],
+    ["“You should rest.” → The doctor advised me to rest.", "Un conseil."],
+    ["“Sorry I'm late.” → He apologised for being late.", "Des excuses."]
+   ]
+  },
+  {
+   "titre": "Verbe + to + infinitif / verbe + objet + to + infinitif",
+   "texte": [
+    "Certains verbes sont suivis directement de to + infinitif : la personne parle de sa propre action.",
+    "D'autres prennent un objet (la personne à qui l'on parle) avant to + infinitif : on veut faire agir quelqu'un.",
+    "La négation se place devant « to » : « She warned me not to go out alone. » Attention : « promise » ne prend pas la personne avant l'infinitif. On dit « She promised to call me », pas « She promised me to call »."
+   ],
+   "tableau": {
+    "entetes": ["Construction", "Verbes", "Exemple"],
+    "lignes": [
+     ["verbe + to + infinitif", "agree, offer, promise, refuse, threaten, decide, claim", "He offered to drive me home."],
+     ["verbe + objet + to + infinitif", "advise, ask, encourage, invite, order, persuade, remind, tell, urge, warn, beg", "She persuaded me to apply for the job."],
+     ["négation", "warn / advise / tell + objet + not to", "They warned us not to drink the tap water."]
+    ]
+   }
+  },
+  {
+   "titre": "Verbe + -ing / verbe + préposition + -ing",
+   "texte": [
+    "Admit, deny, recommend, suggest et mention sont suivis de la forme en -ing. On peut aussi utiliser « having + participe » pour insister sur l'antériorité : « He denied having taken the money. »",
+    "D'autres verbes ont une préposition, toujours suivie de -ing : apologise for, insist on, object to, confess to. Attention : après « object to » et « confess to », « to » est une préposition, donc -ing.",
+    "Le français dit « s'excuser d'être en retard », « insister pour payer » : l'anglais n'accepte pas l'infinitif ici."
+   ],
+   "tableau": {
+    "entetes": ["Construction", "Verbes", "Exemple"],
+    "lignes": [
+     ["verbe + -ing", "admit, deny, recommend, suggest, mention", "She denied knowing anything about it."],
+     ["verbe + préposition + -ing", "apologise for, insist on, object to, confess to, complain about", "He insisted on paying for everyone."],
+     ["verbe + objet + préposition + -ing", "accuse … of, blame … for, congratulate … on, thank … for, criticise … for, warn … against, forgive … for", "They accused him of lying."]
+    ]
+   },
+   "exemples": [
+    ["He admitted making a mistake.", "Il a reconnu avoir fait une erreur."],
+    ["She apologised for not calling.", "Elle s'est excusée de ne pas avoir appelé."],
+    ["My parents congratulated me on getting the job.", "Mes parents m'ont félicité d'avoir obtenu le poste."],
+    ["The guide warned us against walking alone at night.", "Le guide nous a déconseillé de marcher seuls la nuit."]
+   ]
+  },
+  {
+   "titre": "Verbe + that + proposition",
+   "texte": [
+    "Beaucoup de verbes acceptent aussi « that » + une phrase complète, avec la concordance des temps habituelle : admit, agree, announce, complain, deny, explain, insist, point out, promise, warn.",
+    "Cette construction est utile quand le sujet de la phrase rapportée est différent : « She promised that her team would finish on time. »",
+    "« Explain » se construit avec « to » devant la personne : « He explained to me that… », « He explained the rules to us ». Jamais « explain me »."
+   ],
+   "exemples": [
+    ["He pointed out that the figures were wrong.", "point out : faire remarquer."],
+    ["She complained that the room was too cold.", "complain that : se plaindre que."],
+    ["The company announced that it would close two shops.", "announce that : annoncer que."],
+    ["He explained to us that the train had been cancelled.", "explain to + personne."]
+   ]
+  },
+  {
+   "titre": "Le cas difficile de « suggest » et « recommend »",
+   "texte": [
+    "Ces deux verbes ne prennent jamais objet + to + infinitif. « She suggested me to take a taxi » est faux, même si le français dit « elle m'a suggéré de prendre un taxi ».",
+    "Trois constructions correctes : suggest + -ing (pour une idée générale ou qui inclut celui qui parle) ; suggest that + sujet + base verbale (subjonctif, plutôt formel et américain) ; suggest that + sujet + should + base verbale (britannique). À l'oral, on entend aussi le passé : « She suggested that I took a taxi. »",
+    "« Recommend » suit les mêmes règles. « I recommend you to visit » se rencontre en anglais britannique mais il vaut mieux l'éviter : préférez « I recommend visiting… » ou « I recommend that you visit… »."
+   ],
+   "exemples": [
+    ["She suggested taking a taxi.", "Idée générale (pour nous, ou pour moi)."],
+    ["She suggested that I take a taxi. / She suggested that I should take a taxi.", "Subjonctif / should."],
+    ["The doctor recommended that he stop smoking.", "« stop » sans -s : subjonctif."],
+    ["I'd recommend booking a table in advance.", "Conseil courant au restaurant."]
+   ]
+  }
+ ],
+ "formule": "promise to do · persuade sb to do · deny doing · apologise for doing · accuse sb of doing · suggest doing / that sb (should) do",
+ "prononciation": [
+  "L'accent porte sur la dernière syllabe de nombreux verbes : recomMEND /ˌrekəˈmend/, perSUADE /pəˈsweɪd/, acCUSE /əˈkjuːz/, inSIST, deNY /dɪˈnaɪ/, adMIT, reMIND.",
+  "« suggest » : /səˈdʒest/ en anglais britannique, souvent /səɡˈdʒest/ en américain.",
+  "« apologise » a quatre syllabes : /əˈpɒlədʒaɪz/, accent sur « pol ».",
+  "« threaten » /ˈθretn/ : la deuxième syllabe est presque muette. « congratulate » /kənˈɡrætʃuleɪt/.",
+  "Les prépositions sont faibles dans la chaîne parlée : « accused him of lying » /əˈkjuːzd ɪm əv ˈlaɪɪŋ/."
+ ],
+ "erreurs": [
+  ["She suggested me to take a taxi.", "She suggested taking a taxi. / She suggested (that) I (should) take a taxi.", "suggest ne prend jamais objet + to + infinitif."],
+  ["He explained me the problem.", "He explained the problem to me.", "explain + chose + to + personne."],
+  ["They accused him to steal the car.", "They accused him of stealing the car.", "accuse somebody of + -ing."],
+  ["He denied to take the money.", "He denied taking (having taken) the money.", "deny + -ing."],
+  ["She apologised to be late.", "She apologised for being late.", "apologise for + -ing."],
+  ["He insisted to pay.", "He insisted on paying.", "insist on + -ing."],
+  ["She promised me to call.", "She promised to call me.", "promise + to + infinitif, sans la personne avant."]
+ ],
+ "dialogue": {
+  "contexte": "À Bruxelles, Malik n'a pas pu assister à la réunion d'équipe. Sa collègue Elena lui en fait le compte rendu.",
+  "lignes": [
+   ["Malik", "How was the meeting? Did I miss anything important?", "Comment s'est passée la réunion ? J'ai raté quelque chose d'important ?"],
+   ["Elena", "Quite a lot! First, Julie apologised for sending the wrong figures last week.", "Pas mal de choses ! D'abord, Julie s'est excusée d'avoir envoyé les mauvais chiffres la semaine dernière."],
+   ["Malik", "Good. And did the director agree to hire someone for the project?", "Bien. Et le directeur a accepté d'embaucher quelqu'un pour le projet ?"],
+   ["Elena", "Not really. He refused to increase the budget, but he promised to look at it again in March.", "Pas vraiment. Il a refusé d'augmenter le budget, mais il a promis de réexaminer la question en mars."],
+   ["Malik", "Typical. What about the client in Kinshasa?", "Classique. Et le client à Kinshasa ?"],
+   ["Elena", "Thomas suggested sending a team there in person. Everyone agreed that it was a good idea.", "Thomas a suggéré d'y envoyer une équipe en personne. Tout le monde a reconnu que c'était une bonne idée."],
+   ["Malik", "Did anyone mention my report?", "Quelqu'un a parlé de mon rapport ?"],
+   ["Elena", "Yes, the director congratulated you on finishing it early. And he reminded everyone to submit their holiday dates by Friday.", "Oui, le directeur t'a félicité de l'avoir fini en avance. Et il a rappelé à tout le monde d'envoyer ses dates de congé avant vendredi."]
+  ]
+ },
+ "mots": [
+  ["admit", "He admitted that he was wrong.", "reconnaître, avouer"],
+  ["deny", "She denied breaking the window.", "nier"],
+  ["refuse", "They refused to answer.", "refuser"],
+  ["persuade", "I persuaded her to stay.", "persuader, convaincre"],
+  ["remind", "Remind me to call the bank.", "rappeler (à quelqu'un de faire quelque chose)"],
+  ["warn", "He warned us not to swim there.", "avertir, mettre en garde"],
+  ["accuse", "She was accused of cheating.", "accuser"],
+  ["apologise", "I apologise for the delay.", "s'excuser, présenter ses excuses (US : apologize)"],
+  ["insist", "My host insisted on driving me to the airport.", "insister"],
+  ["urge", "Doctors urge people to get vaccinated.", "exhorter, presser vivement"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quel verbe ?",
+   "consigne": "Trouve le verbe introducteur qui résume chaque phrase (promise, admit, suggest, warn).",
+   "items": [
+    ["“I'll definitely pay you back next week.”", "promise (He promised to pay me back the following week.)"],
+    ["“OK, it was me who broke the vase.”", "admit (She admitted breaking the vase.)"],
+    ["“Why don't we go by train?”", "suggest (He suggested going by train.)"],
+    ["“Don't swim here. The current is very strong.”", "warn (She warned us not to swim there.)"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec la bonne forme du verbe entre parenthèses (ajoute une préposition si nécessaire).",
+   "items": [
+    ["He refused ___ (sign) the contract.", "to sign"],
+    ["She denied ___ (take) the money.", "taking (ou having taken)"],
+    ["They accused the manager ___ (lie).", "of lying"],
+    ["My parents encouraged me ___ (study) abroad.", "to study"],
+    ["He apologised ___ (forget) my birthday.", "for forgetting"],
+    ["The doctor advised him ___ (not / eat) so much salt.", "not to eat"]
+   ]
+  },
+  {
+   "titre": "3. Rapporter avec le verbe donné",
+   "consigne": "Mets au discours indirect avec le verbe entre parenthèses.",
+   "items": [
+    ["“You should see a lawyer,” she told me. (advise)", "She advised me to see a lawyer."],
+    ["“I didn't break the window!” said Tom. (deny)", "Tom denied breaking (having broken) the window."],
+    ["“Don't forget to lock the door,” Mum said to me. (remind)", "Mum reminded me to lock the door."],
+    ["“Well done on passing your exam!” my uncle said to me. (congratulate)", "My uncle congratulated me on passing my exam."],
+    ["“Let's eat out tonight,” said Lina. (suggest)", "Lina suggested eating out that night. (ou : Lina suggested that we (should) eat out that night.)"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["She suggested me to take a taxi.", "She suggested taking a taxi. (ou : She suggested (that) I (should) take a taxi.)"],
+    ["He explained me the problem.", "He explained the problem to me."],
+    ["They accused him to steal the car.", "They accused him of stealing the car."],
+    ["I apologise to be late.", "I apologise for being late."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un verbe introducteur précis.",
+   "items": [
+    ["Il a refusé de m'aider.", "He refused to help me."],
+    ["Elle m'a convaincu de venir.", "She persuaded me to come."],
+    ["Ils m'ont remercié de les avoir aidés.", "They thanked me for helping (having helped) them."],
+    ["Le directeur a insisté pour payer le repas.", "The director insisted on paying for the meal."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Fais le compte rendu d'une réunion, d'un repas de famille ou d'une dispute (4 à 5 phrases), avec au moins cinq verbes introducteurs différents.",
+   "items": [
+    ["Exemple de réponse", "At Sunday lunch, my brother announced that he was moving to Canada. My mother begged him to stay in Belgium, but he refused to change his plans. My father congratulated him on finding a job so quickly. My aunt suggested organising a farewell party, and everyone agreed to help."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Les verbes introducteurs résument l'intention : promise, refuse, admit, deny, advise, warn, persuade, apologise…",
+  "to + infinitif (agree, offer, promise, refuse) ; objet + to + infinitif (advise, ask, persuade, remind, warn).",
+  "-ing (admit, deny, suggest, recommend) ; préposition + -ing (apologise for, insist on, accuse sb of, thank sb for).",
+  "suggest / recommend : jamais « suggest me to » → suggest doing / suggest that I (should) do.",
+  "explain something to somebody : jamais « explain me »."
+ ],
+ "liens": [154, 104, 62, 113, 180],
+ "refs": ["bc-reporting-verbs", "bc-reporting-patterns"]
+}

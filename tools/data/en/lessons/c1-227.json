@@ -1,0 +1,484 @@
+{
+ "n": 227,
+ "niveau": "C1",
+ "titre": "The language of research papers",
+ "intro": "A research paper in English follows a highly standardised structure and set of phrases: each section (introduction, methods, results, discussion) has its own verbs, tenses and expressions. Knowing them helps you read faster and write a paper that sounds like those in international journals.",
+ "objectifs": [
+  "Know the IMRaD structure and the typical phrases of each section.",
+  "Choose the right tense for each section: present for established facts, present perfect for the state of research, past simple for your own method and results.",
+  "Present results, refer to a table or figure, and state the limitations of a study.",
+  "Use abbreviations correctly (e.g., i.e., et al.) and avoid common awkward phrasing."
+ ],
+ "sections": [
+  {
+   "titre": "The IMRaD structure and its phrases",
+   "texte": [
+    "Most empirical papers follow the IMRaD plan: Introduction, Methods, Results and Discussion, preceded by an abstract (see lesson 254) and followed by a conclusion. Each section answers a question: why? how? what was found? what does it mean?",
+    "The introduction moves from general to specific: the field, what is known, what is not yet known (the gap), then the aim of the paper."
+   ],
+   "tableau": {
+    "entetes": [
+     "Section",
+     "Function",
+     "Typical phrases"
+    ],
+    "lignes": [
+     [
+      "Introduction",
+      "set the context, show the gap, state the aim",
+      "Recent years have seen a growing interest in… / However, little is known about… / This paper aims to…"
+     ],
+     [
+      "Methods",
+      "describe what was done",
+      "Participants were recruited from… / Data were analysed using… / A total of 312 responses were obtained."
+     ],
+     [
+      "Results",
+      "present without interpreting",
+      "Table 2 presents… / As shown in Figure 1,… / X was significantly higher than Y."
+     ],
+     [
+      "Discussion",
+      "interpret, compare, qualify",
+      "These findings are consistent with… / One possible explanation is that… / This study has several limitations."
+     ],
+     [
+      "Conclusion",
+      "summarise the contribution, look ahead",
+      "This study has shown that… / Future research should…"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "However, little is known about the long-term effects of remote learning.",
+     "A classic phrase to show the research gap."
+    ],
+    [
+     "This paper aims to examine how small firms in Cameroon use mobile payments.",
+     "Stating the aim: aim to + verb."
+    ]
+   ]
+  },
+  {
+   "titre": "Tenses by section",
+   "texte": [
+    "The choice of tense is not free: it tells the reader the status of the information.",
+    "Present simple: general truths and established facts, what tables show, what the paper does (“This paper argues…”, “Table 3 shows…”). Present perfect: the state of research up to now (“Several studies have examined…”). Past simple: what you did and found (method, results), and a specific dated study (“Smith (2019) found that…”)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Tense",
+     "Use",
+     "Example"
+    ],
+    "lignes": [
+     [
+      "Present simple",
+      "established facts; what the text or figure says",
+      "Sleep plays a key role in memory. / Figure 2 shows the distribution."
+     ],
+     [
+      "Present perfect",
+      "overview of research, period up to now",
+      "Few studies have addressed this question."
+     ],
+     [
+      "Past simple",
+      "your method and results; a specific study",
+      "We interviewed 40 teachers. / Ngo (2021) found a similar effect."
+     ],
+     [
+      "Modals",
+      "cautious interpretation (discussion)",
+      "This may reflect differences in income."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Previous research has focused mainly on urban areas.",
+     "Present perfect: the state of research up to now."
+    ],
+    [
+     "The questionnaire was distributed in March 2025.",
+     "Past simple passive: a specific fact of the method."
+    ]
+   ]
+  },
+  {
+   "titre": "Passive voice or “we”?",
+   "texte": [
+    "The Methods section traditionally uses the passive, because the action matters more than the person: “Samples were collected…”. But many journals now accept or encourage “we” for more direct prose: “We collected samples…”. Follow the journal's author guidelines and be consistent.",
+    "“I” is rare in experimental sciences but common in the humanities when there is a single author. “One” (“one can observe”) sounds old-fashioned and is best avoided."
+   ],
+   "exemples": [
+    [
+     "All interviews were recorded and transcribed.",
+     "Passive: the focus is on the procedure."
+    ],
+    [
+     "We hypothesised that older users would trust the app less.",
+     "“We”: an active style accepted by many journals (AmE: hypothesized)."
+    ]
+   ]
+  },
+  {
+   "titre": "Presenting and discussing results",
+   "texte": [
+    "In Results, you describe without interpreting: you refer to the table, give the figures and state what is significant. Interpretation belongs in the Discussion.",
+    "References to visuals: “as shown in Table 1”, “(see Figure 3)”, “Table 1 summarises…”. Comparisons: “significantly higher than”, “no significant difference was found between…”, “a positive correlation between X and Y”."
+   ],
+   "tableau": {
+    "entetes": [
+     "Function",
+     "Phrases"
+    ],
+    "lignes": [
+     [
+      "Referring",
+      "As shown in Table 1, … / Figure 2 illustrates… / (see Appendix A)"
+     ],
+     [
+      "Comparing",
+      "X was significantly higher / lower than Y. / No significant difference was found between…"
+     ],
+     [
+      "Relating",
+      "There was a strong positive correlation between X and Y."
+     ],
+     [
+      "Interpreting (discussion)",
+      "This suggests that… / One possible explanation is… / These results are in line with…"
+     ],
+     [
+      "Comparing with the literature",
+      "This finding is consistent with / contrasts with earlier work by…"
+     ],
+     [
+      "Limitations",
+      "This study has several limitations. First, the sample was small. / The results should be interpreted with caution."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "As shown in Table 2, satisfaction was significantly higher in the rural group.",
+     "Reference + comparison, no interpretation."
+    ],
+    [
+     "These results should be interpreted with caution, given the small sample size.",
+     "A standard limitation sentence."
+    ]
+   ]
+  },
+  {
+   "titre": "Citing other work",
+   "texte": [
+    "There are two ways to cite: author-focused (“Diallo (2020) argues that…”) or information-focused (“Mobile money has reduced transaction costs (Diallo, 2020)”). Lesson 236 looks at reporting verbs (argue, claim, suggest…) in detail.",
+    "“et al.” (Latin et alii, “and others”) is used for three or more authors in most styles: “Chen et al. (2022)”. It takes a full stop, and the verb is plural: “Chen et al. report…”."
+   ],
+   "exemples": [
+    [
+     "Chen et al. (2022) report similar results in Kenya.",
+     "“et al.” + plural verb (report)."
+    ],
+    [
+     "This pattern has been observed in other regions (e.g., Asogwa, 2019; Petit, 2023).",
+     "“e.g.” = for example, before a list that is not complete."
+    ]
+   ],
+   "note": "“e.g.” (exempli gratia) = for example; “i.e.” (id est) = that is. American English puts a comma after them (“e.g.,”); British English often leaves it out."
+  },
+  {
+   "titre": "Awkward phrasing to avoid",
+   "texte": [
+    "Some academic traditions like long sentences and elaborate announcements (“In a first time, we will see…”). Scientific English prefers shorter sentences, one main idea per sentence, and brief signposting: “Section 2 reviews the literature; Section 3 describes the method.”",
+    "Watch “actual” (= real, not current), “precise” used as a verb (“we precise that” is wrong: “we specify / clarify that”), and note that “the present study” means “this study” (correct and frequent)."
+   ]
+  }
+ ],
+ "formule": "Introduction (present / present perfect → gap → aim) · Methods (past simple, often passive) · Results (past simple + references to tables) · Discussion (present + modals, comparison, limitations)",
+ "prononciation": [
+  "“et al.” is read /et ˈæl/; “e.g.” is read /ˌiː ˈdʒiː/ or “for example”; “i.e.” /ˌaɪ ˈiː/ or “that is”.",
+  "“analysed / analyzed” is /ˈænəlaɪzd/: the final -ed is /d/; “hypothesised” is /haɪˈpɒθəsaɪzd/.",
+  "“significantly” is /sɪɡˈnɪfɪkəntli/, stressed on the second syllable.",
+  "“methodology” is /ˌmeθəˈdɒlədʒi/, main stress on “dol”, as in all words ending in -ology.",
+  "At a conference, “Table 2” is /ˈteɪbl ˈtuː/ and “Figure 3” is /ˈfɪɡə ˈθriː/ (BrE); American English says /ˈfɪɡjər/."
+ ],
+ "erreurs": [
+  [
+   "In a first time, we will present the literature.",
+   "Section 2 reviews the literature. / First, we review the literature.",
+   "“In a first time” is a translation, not English."
+  ],
+  [
+   "We precise that the sample was small.",
+   "We should point out that the sample was small. / It should be noted that the sample was small.",
+   "“Precise” is an adjective, not a verb."
+  ],
+  [
+   "Many studies showed this effect since 2010.",
+   "Many studies have shown this effect since 2010.",
+   "State of research up to now (since): present perfect."
+  ],
+  [
+   "We have interviewed 40 teachers in May 2024.",
+   "We interviewed 40 teachers in May 2024.",
+   "A dated method step: past simple."
+  ],
+  [
+   "Chen et al. reports similar results.",
+   "Chen et al. report similar results.",
+   "“et al.” = several authors: plural verb."
+  ],
+  [
+   "The actual situation of research is limited.",
+   "The current state of research is limited.",
+   "“Actual” = real; for “now”, use current."
+  ],
+  [
+   "The results prove clearly our hypothesis.",
+   "The results clearly support our hypothesis.",
+   "Adverb position (before the verb) and an overly strong verb (prove)."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "In Louvain-la-Neuve, two researchers check the draft of a paper before submission.",
+  "lignes": [
+   [
+    "Sophie",
+    "Your introduction starts with “In a first time, we will see the context.” Reviewers will notice that.",
+    "A translated phrase."
+   ],
+   [
+    "Ibrahim",
+    "Right. What about “Recent years have seen a growing interest in urban farming”?",
+    "A standard opening line."
+   ],
+   [
+    "Sophie",
+    "Perfect. Then show the gap: “However, little is known about its economic impact.”",
+    "The gap comes next."
+   ],
+   [
+    "Ibrahim",
+    "In the methods, I wrote “We have collected data in 2024.”",
+    "A tense problem."
+   ],
+   [
+    "Sophie",
+    "With a date, it's the past simple: “Data were collected in 2024”, or “We collected data”.",
+    "Passive or “we”, but past simple."
+   ],
+   [
+    "Ibrahim",
+    "And in the results, can I say the yields are higher because of the soil?",
+    "He wants to interpret too early."
+   ],
+   [
+    "Sophie",
+    "Keep that for the discussion. In the results, just write “Yields were significantly higher in Plot B (see Table 3).”",
+    "Results describe; discussion interprets."
+   ],
+   [
+    "Ibrahim",
+    "And then in the discussion: “One possible explanation is the soil quality.”",
+    "Cautious interpretation."
+   ],
+   [
+    "Sophie",
+    "Exactly. And add a sentence on limitations: the sample is small.",
+    "Every paper needs limitations."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "literature",
+   "The literature on this topic is limited.",
+   "published research on a subject"
+  ],
+  [
+   "gap",
+   "This study addresses a gap in current research.",
+   "something missing in what is known"
+  ],
+  [
+   "sample",
+   "The sample included 300 students.",
+   "the group studied, chosen from a larger population"
+  ],
+  [
+   "participant",
+   "Participants completed an online survey.",
+   "a person who takes part in a study"
+  ],
+  [
+   "findings",
+   "These findings are consistent with earlier work.",
+   "results"
+  ],
+  [
+   "consistent with",
+   "The results are consistent with our hypothesis.",
+   "in agreement with"
+  ],
+  [
+   "limitation",
+   "One limitation of this study is its size.",
+   "a weakness or limit of a study"
+  ],
+  [
+   "outline",
+   "Section 2 outlines the method.",
+   "describe the main points"
+  ],
+  [
+   "peer review",
+   "The article is currently under peer review.",
+   "evaluation of a paper by other experts"
+  ],
+  [
+   "appendix",
+   "The questionnaire is given in Appendix A.",
+   "extra material at the end of a document"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Which section of the paper?",
+   "consigne": "Say which section (Introduction, Methods, Results, Discussion) the sentence comes from.",
+   "items": [
+    [
+     "However, little is known about the role of grandparents in childcare.",
+     "Introduction"
+    ],
+    [
+     "Participants were recruited through three local schools.",
+     "Methods"
+    ],
+    [
+     "As shown in Table 4, response times were significantly shorter in Group B.",
+     "Results"
+    ],
+    [
+     "One possible explanation for this difference is the training received.",
+     "Discussion"
+    ]
+   ]
+  },
+  {
+   "titre": "2. The right tense",
+   "consigne": "Put the verb in brackets into the correct tense.",
+   "items": [
+    [
+     "Several studies ___ (examine) this issue since 2015.",
+     "have examined"
+    ],
+    [
+     "We ___ (interview) 25 nurses in June 2024.",
+     "interviewed"
+    ],
+    [
+     "Table 1 ___ (show) the characteristics of the sample.",
+     "shows"
+    ],
+    [
+     "Diallo (2019) ___ (find) a similar effect in Senegal.",
+     "found"
+    ],
+    [
+     "Water ___ (boil) at 100 °C at sea level.",
+     "boils"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Complete the phrase",
+   "consigne": "Write the missing word.",
+   "items": [
+    [
+     "These findings are consistent ___ previous research.",
+     "with"
+    ],
+    [
+     "___ shown in Figure 2, the trend is upward.",
+     "As"
+    ],
+    [
+     "This paper ___ to examine the effects of the reform.",
+     "aims"
+    ],
+    [
+     "The results should be interpreted with ___.",
+     "caution"
+    ]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    [
+     "We precise that all participants were volunteers.",
+     "It should be noted that all participants were volunteers."
+    ],
+    [
+     "Lopez et al. argues that the policy failed.",
+     "Lopez et al. argue that the policy failed."
+    ],
+    [
+     "We have collected the data in 2023.",
+     "We collected the data in 2023. / The data were collected in 2023."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Write the academic sentence",
+   "consigne": "Write a research-paper sentence that expresses the idea.",
+   "items": [
+    [
+     "Say that your study has some weaknesses.",
+     "This study has several limitations."
+    ],
+    [
+     "Say that not many studies have looked at this question.",
+     "Few studies have addressed / examined this question."
+    ],
+    [
+     "Say that readers should be careful when interpreting the results.",
+     "The results should be interpreted with caution."
+    ]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short paper introduction (4 sentences): context, what is known, the gap, the aim.",
+   "items": [
+    [
+     "Example answer",
+     "Recent years have seen a growing interest in online learning in sub-Saharan Africa. Several studies have shown that it can widen access to higher education. However, little is known about how students in rural areas cope with unstable internet connections. This paper aims to examine the strategies used by 120 students in the North-West Region of Cameroon."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "IMRaD: Introduction (context → gap → aim), Methods, Results (describe), Discussion (interpret, compare, state limitations).",
+  "Present for established facts and what the text shows; present perfect for the state of research; past simple for your method, your results and a dated study.",
+  "Key phrases: little is known about, this paper aims to, as shown in Table 1, consistent with, should be interpreted with caution.",
+  "“et al.” + plural verb; e.g. = for example, i.e. = that is; no “in a first time”, no “we precise”."
+ ],
+ "liens": [
+  226,
+  222,
+  236,
+  238,
+  254
+ ],
+ "refs": [
+  "bc-c1",
+  "cam-using"
+ ]
+}

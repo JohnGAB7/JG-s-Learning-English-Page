@@ -1,0 +1,210 @@
+{
+ "n": 67,
+ "niveau": "A2",
+ "titre": "Past questions (Did…?)",
+ "intro": "In the present, we make questions with do / does (lesson 6). In the past simple, there is one auxiliary for every person: did. The big trap: after did, the verb goes back to its base form. We say “Did you go?”, never “Did you went?”. This lesson also looks at negatives (didn't) and past questions with be (was / were).",
+ "objectifs": [
+  "Make a yes/no question in the past: Did + subject + base form?",
+  "Ask Wh- questions: Where did you go? What did she say?",
+  "Give short answers: Yes, I did. / No, I didn't.",
+  "Not use did with be: Were you tired? Was it good?"
+ ],
+ "sections": [
+  {
+   "titre": "Yes/no questions: Did + subject + base form",
+   "texte": [
+    "To ask a question in the past simple, put did before the subject, then use the base form of the verb (no -ed, no irregular form): You visited Rome. → Did you visit Rome?",
+    "Did is the same for every person: Did I…? Did he…? Did they…? There is no “dids” and no special form for he / she / it.",
+    "Did carries the past. So the main verb must not be in the past: Did she buy (not “bought”) a new phone?"
+   ],
+   "tableau": {
+    "entetes": ["Statement", "Question", "Short answer"],
+    "lignes": [
+     ["You worked late.", "Did you work late?", "Yes, I did. / No, I didn't."],
+     ["She went to Douala.", "Did she go to Douala?", "Yes, she did. / No, she didn't."],
+     ["They saw the match.", "Did they see the match?", "Yes, they did. / No, they didn't."],
+     ["It rained.", "Did it rain?", "Yes, it did. / No, it didn't."]
+    ]
+   },
+   "exemples": [
+    ["Did you sleep well?", "sleep, not slept."],
+    ["Did Marc call you yesterday?", "call, not called."],
+    ["Did they enjoy the concert? — Yes, they did.", "Short answer with did."]
+   ]
+  },
+  {
+   "titre": "Wh- questions: question word + did",
+   "texte": [
+    "Add the question word (see lesson 29) at the start: Wh- + did + subject + base form? Where did you go? What did you eat? When did they arrive?",
+    "The word order is the same with How long, How much, What time…: How long did you stay? How much did it cost? What time did the film start?",
+    "Prepositions: in English they often go at the end of the question. Who did you go with? What did you talk about?"
+   ],
+   "exemples": [
+    ["Where did you spend your holidays?", "Wh- + did + subject + base form."],
+    ["What time did you get up this morning?", "What time + did."],
+    ["Who did you meet at the party?", "Who = the object (the person you met)."],
+    ["Who did you travel with?", "Preposition at the end."]
+   ]
+  },
+  {
+   "titre": "Negatives: didn't + base form",
+   "texte": [
+    "Negatives work in the same way: subject + didn't (did not) + base form. I didn't see him. She didn't come.",
+    "Never put the verb in the past after didn't: “I didn't went” is wrong.",
+    "Negative questions show surprise: Didn't you like the film?"
+   ],
+   "exemples": [
+    ["I didn't understand the question.", "understand, not understood."],
+    ["We didn't have time to eat.", "have is a main verb here."],
+    ["Didn't you get my message?", "Surprise."]
+   ]
+  },
+  {
+   "titre": "The exception: be in the past (was / were)",
+   "texte": [
+    "With be, we do not use did. Just change the order of the subject and was / were (see lesson 39): You were tired. → Were you tired? It was expensive. → Was it expensive?",
+    "Short answers: Yes, I was. / No, it wasn't. Wh- questions: Where were you? How was your trip?",
+    "“How was…?” is very common to ask about someone's experience: How was the weekend? How was the exam?"
+   ],
+   "tableau": {
+    "entetes": ["Verb", "Question", "Negative"],
+    "lignes": [
+     ["be", "Was she at home?", "She wasn't at home."],
+     ["be", "Were they late?", "They weren't late."],
+     ["other verbs", "Did she stay at home?", "She didn't stay at home."]
+    ]
+   },
+   "exemples": [
+    ["How was your trip to Montréal?", "Not “How did your trip?”."],
+    ["Were you at the meeting? — No, I wasn't.", "Short answer with wasn't."]
+   ]
+  },
+  {
+   "titre": "Short answers with did and didn't",
+   "texte": [
+    "To answer a question with did, repeat did or didn't, not the main verb: Did you call her? — Yes, I did. (not “Yes, I called.”).",
+    "Just “Yes.” or “No.” is possible, but “Yes, I did.” is more polite and more natural.",
+    "To keep the conversation going, we often add some information: No, I didn't. I was too busy."
+   ],
+   "exemples": [
+    ["Did you lock the door? — Yes, I did.", "Not “Yes, I locked.”."],
+    ["Did the children eat everything? — No, they didn't. They weren't hungry.", "Answer + reason."]
+   ]
+  }
+ ],
+ "formule": "(Wh-) + did + subject + base form? · subject + didn't + base form · Yes, I did. / No, I didn't. · be: Was / Were + subject…?",
+ "prononciation": [
+  "did is /dɪd/; in questions it is often weak and joins the pronoun: “Did you” ≈ /ˈdɪdʒu/ (“didja”).",
+  "“Did he” often becomes /ˈdɪdi/: the h disappears in fast speech.",
+  "didn't /ˈdɪdnt/: two syllables, the final t is very light.",
+  "Intonation: yes/no questions (Did you…?) usually go up at the end ↗; Wh- questions (Where did you…?) go down ↘.",
+  "In short answers, did is stressed: Yes, I DID."
+ ],
+ "erreurs": [
+  ["Did you went to the party?", "Did you go to the party?", "After did: base form."],
+  ["Where you went last weekend?", "Where did you go last weekend?", "You need the auxiliary did and question word order."],
+  ["Did she liked the film?", "Did she like the film?", "did carries the past, not like."],
+  ["I didn't saw him.", "I didn't see him.", "After didn't: base form."],
+  ["Did you were tired?", "Were you tired?", "With be, no did."],
+  ["How did your holidays?", "How were your holidays?", "How was / were…? to ask about an experience."],
+  ["Did you call him? — Yes, I called.", "Yes, I did.", "Short answer with did."],
+  ["With who did you go?", "Who did you go with?", "Preposition at the end in everyday English."]
+ ],
+ "dialogue": {
+  "contexte": "On Monday morning, in an office in Yaoundé, Grâce asks her colleague Patrick about his weekend.",
+  "lignes": [
+   ["Grâce", "Morning, Patrick! How was your weekend?", "How was…? (be, no did)."],
+   ["Patrick", "Great, thanks. I went to Kribi with my brother.", "went: past of go."],
+   ["Grâce", "Lucky you! How did you get there? Did you drive?", "Wh- + did; yes/no question."],
+   ["Patrick", "No, I didn't. We took the bus. It was cheaper.", "Short answer."],
+   ["Grâce", "Where did you stay?", "Where + did + base form."],
+   ["Patrick", "In a small hotel near the beach. Did you do anything special?", "do is the main verb here."],
+   ["Grâce", "Not really. I stayed at home and watched a series.", "Regular past verbs."],
+   ["Patrick", "Which one? Was it good?", "Was + subject."],
+   ["Grâce", "Yes, it was. But I didn't finish it. I fell asleep!", "didn't + base form."]
+  ]
+ },
+ "mots": [
+  ["weekend", "How was your weekend?", "Saturday and Sunday"],
+  ["stay", "We stayed in a small hotel.", "live in a place for a short time"],
+  ["spend", "Where did you spend your holidays?", "use time; use money"],
+  ["trip", "Did you enjoy your trip?", "a journey to a place and back"],
+  ["get there", "How did you get there?", "arrive at a place, travel to a place"],
+  ["fall asleep", "I fell asleep in front of the TV.", "start to sleep"],
+  ["series", "I watched a new series.", "a TV programme with many episodes"],
+  ["lock", "Did you lock the door?", "close with a key"],
+  ["miss", "Did you miss the bus?", "be too late for (a bus, train…)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Yes/no questions",
+   "consigne": "Change each sentence into a question with did.",
+   "items": [
+    ["You watched the match.", "Did you watch the match?"],
+    ["She bought a new car.", "Did she buy a new car?"],
+    ["They went to Liège.", "Did they go to Liège?"],
+    ["He forgot his keys.", "Did he forget his keys?"],
+    ["It snowed last night.", "Did it snow last night?"]
+   ]
+  },
+  {
+   "titre": "2. Wh- questions",
+   "consigne": "Ask the question for the part in CAPITALS.",
+   "items": [
+    ["I went to CASABLANCA.", "Where did you go?"],
+    ["She arrived AT TEN O'CLOCK.", "What time did she arrive? / When did she arrive?"],
+    ["They ate FISH AND RICE.", "What did they eat?"],
+    ["The tickets cost 50 EUROS.", "How much did the tickets cost?"],
+    ["We stayed THREE DAYS.", "How long did you stay?"]
+   ]
+  },
+  {
+   "titre": "3. Did or was / were?",
+   "consigne": "Complete with Did, Was or Were.",
+   "items": [
+    ["___ you at home yesterday evening?", "Were"],
+    ["___ your sister call you?", "Did"],
+    ["___ the film interesting?", "Was"],
+    ["___ they enjoy the meal?", "Did"],
+    ["How ___ your exam?", "was"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["Did you saw my bag?", "Did you see my bag?"],
+    ["What you did on Sunday?", "What did you do on Sunday?"],
+    ["She didn't came to class.", "She didn't come to class."],
+    ["Did they were happy?", "Were they happy?"],
+    ["Did you finish? — Yes, I finished.", "Did you finish? — Yes, I did."]
+   ]
+  },
+  {
+   "titre": "5. What do you say?",
+   "consigne": "Write one question or sentence for each situation.",
+   "items": [
+    ["You want to know if your friend slept well last night.", "Did you sleep well?"],
+    ["Your friend went to the cinema. You want to know the person with him.", "Who did you go to the cinema with?"],
+    ["Your friend went to a concert. You want her opinion.", "How was the concert?"],
+    ["Your sister read the question, but she doesn't know the answer. (understand)", "She didn't understand the question."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write five questions to ask a friend about last weekend (one yes/no question with did, three questions with Where / What / Who, and one with How was…?). Then answer two of them.",
+   "items": [
+    ["Example answer", "Did you go out on Saturday? Where did you go? What did you do there? Who did you go with? How was it? — Yes, I did. I went to a concert with my cousin. It was fantastic!"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Questions: (Wh-) + did + subject + base form? (Did you go? Where did you go?)",
+  "Negatives: didn't + base form (I didn't see).",
+  "After did / didn't, never a past verb.",
+  "Short answers: Yes, I did. / No, I didn't.",
+  "With be, no did: Were you…? Was it…? How was…?"
+ ],
+ "liens": [29, 39, 41, 42, 68],
+ "refs": ["bc-questions", "cam-verbs"]
+}

@@ -1,0 +1,203 @@
+{
+ "n": 60,
+ "niveau": "A2",
+ "titre": "Something, anything, nothing, someone…",
+ "intro": "Quelque chose, rien, quelqu'un, personne, quelque part, nulle part, tout le monde… L'anglais construit ces mots avec some-, any-, no- et every-, selon les mêmes règles que some et any (leçon 31). Ils sont indispensables dans la conversation de tous les jours.",
+ "objectifs": [
+  "Construire et comprendre les composés en some-, any-, no-, every- (+ thing, one / body, where).",
+  "Choisir entre some- (affirmation, offre), any- (négation, question) et no- (négation avec verbe affirmatif).",
+  "Éviter la double négation : I don't know anything / I know nothing, jamais « I don't know nothing ».",
+  "Placer un adjectif ou « else » après ces mots (something nice, someone else) et accorder le verbe au singulier."
+ ],
+ "sections": [
+  {
+   "titre": "Le tableau des composés",
+   "texte": [
+    "On combine some-, any-, no-, every- avec -thing (une chose), -one ou -body (une personne) et -where (un lieu). « -one » et « -body » ont exactement le même sens ; « -body » est un peu plus familier.",
+    "« No one » s'écrit en deux mots (parfois « no-one » en britannique). Les autres composés s'écrivent en un seul mot : someone, anybody, nothing, everywhere."
+   ],
+   "tableau": {
+    "entetes": ["", "-thing (chose)", "-one / -body (personne)", "-where (lieu)"],
+    "lignes": [
+     ["some-", "something (quelque chose)", "someone / somebody (quelqu'un)", "somewhere (quelque part)"],
+     ["any-", "anything (quelque chose / rien / n'importe quoi)", "anyone / anybody (quelqu'un / personne / n'importe qui)", "anywhere (quelque part / nulle part / n'importe où)"],
+     ["no-", "nothing (rien)", "no one / nobody (personne)", "nowhere (nulle part)"],
+     ["every-", "everything (tout)", "everyone / everybody (tout le monde)", "everywhere (partout)"]
+    ]
+   }
+  },
+  {
+   "titre": "Some- ou any- ?",
+   "texte": [
+    "« Some- » s'emploie dans les phrases affirmatives : There's someone at the door. I want to eat something. On l'emploie aussi dans les questions quand on propose ou demande quelque chose et qu'on attend un « oui » : Would you like something to drink? Can someone help me?",
+    "« Any- » s'emploie dans les phrases négatives (avec not / n't) et dans la plupart des questions : I can't see anything. Is anyone there? Did you go anywhere at the weekend?"
+   ],
+   "exemples": [
+    ["I've got something for you.", "J'ai quelque chose pour toi."],
+    ["Would you like something to eat?", "Tu veux manger quelque chose ? (offre → some-)"],
+    ["I don't know anyone in this city.", "Je ne connais personne dans cette ville."],
+    ["Is there anything in the fridge?", "Il y a quelque chose dans le frigo ?"],
+    ["Let's go somewhere quiet.", "Allons quelque part au calme."]
+   ]
+  },
+  {
+   "titre": "No- et la double négation",
+   "texte": [
+    "« Nothing, no one, nobody, nowhere » contiennent déjà la négation. Le verbe reste donc AFFIRMATIF : I know nothing. Nobody called. On ne dit jamais « I don't know nothing » : en anglais standard, deux négations s'annulent ou sonnent fautives.",
+    "Il y a donc deux façons équivalentes de dire « je ne vois rien » : I can't see anything (plus courant à l'oral) / I can see nothing (plus fort, plus écrit). En sujet de phrase, seul no- est possible : Nobody knows (jamais « Anybody doesn't know »).",
+    "« Nothing / nobody » s'emploient aussi seuls en réponse : What's in the box? — Nothing. Who's there? — No one."
+   ],
+   "tableau": {
+    "entetes": ["Français", "Avec any- + not", "Avec no-"],
+    "lignes": [
+     ["Je ne vois rien.", "I can't see anything.", "I can see nothing."],
+     ["Il n'y a personne.", "There isn't anyone.", "There's no one. / There's nobody."],
+     ["Nous n'allons nulle part.", "We aren't going anywhere.", "We're going nowhere."],
+     ["Personne ne sait.", "—", "Nobody knows. / No one knows."]
+    ]
+   }
+  },
+  {
+   "titre": "Any- dans une phrase affirmative : « n'importe »",
+   "texte": [
+    "Dans une phrase affirmative, « any- » prend le sens de « n'importe quoi / qui / où » : You can sit anywhere (Tu peux t'asseoir n'importe où). Anyone can learn English (N'importe qui peut apprendre l'anglais).",
+    "« Every- » veut dire « tout, tous » : everything (tout), everyone (tout le monde), everywhere (partout). Attention : everyone / everybody prend un verbe au SINGULIER, même si le sens est pluriel : Everyone is here (Tout le monde est là)."
+   ],
+   "exemples": [
+    ["Call me anytime.", "Appelle-moi n'importe quand (anytime, surtout US ; GB : any time)."],
+    ["I'll eat anything. I'm so hungry!", "Je mangerai n'importe quoi. J'ai tellement faim !"],
+    ["Everybody loves this song.", "Tout le monde adore cette chanson (verbe au singulier)."],
+    ["There are flowers everywhere.", "Il y a des fleurs partout."]
+   ]
+  },
+  {
+   "titre": "Adjectifs, else, et les pronoms qui suivent",
+   "texte": [
+    "L'adjectif se place APRÈS ces mots, contrairement à l'habitude anglaise : something interesting (quelque chose d'intéressant), nothing new (rien de nouveau), somewhere warm (un endroit chaud). Pas de « of » : on ne dit pas « something of interesting ».",
+    "« Else » signifie « d'autre » et se place aussi après : someone else (quelqu'un d'autre), anything else? (autre chose ?), everywhere else (partout ailleurs).",
+    "On peut ajouter « to + verbe » : something to eat (quelque chose à manger), nothing to do (rien à faire), somewhere to sleep (un endroit où dormir).",
+    "Pour reprendre « someone, anyone, everyone », on utilise souvent they / their à l'oral : Someone left their umbrella. Is everyone ready? Have they got their tickets?"
+   ],
+   "exemples": [
+    ["Did you do anything special at the weekend?", "Tu as fait quelque chose de spécial ce week-end ?"],
+    ["Anything else? — No, thank you.", "Autre chose ? — Non, merci (au magasin)."],
+    ["There's nothing to do in this village.", "Il n'y a rien à faire dans ce village."],
+    ["Someone forgot their phone.", "Quelqu'un a oublié son téléphone."]
+   ]
+  }
+ ],
+ "formule": "some- (affirmation, offre) · any- (négation, question ; « n'importe » à l'affirmative) · no- + verbe affirmatif · every- + verbe singulier · something + adjectif / else / to + verbe",
+ "prononciation": [
+  "« some- » se prononce /ˈsʌm/ (comme « sum ») : something /ˈsʌmθɪŋ/, someone /ˈsʌmwʌn/.",
+  "« any- » se prononce /ˈeni/ : anything /ˈeniθɪŋ/. Le a ne se prononce pas comme le « a » français.",
+  "« nothing » /ˈnʌθɪŋ/ : o prononcé /ʌ/ comme dans « mother », pas « no » ; « nobody » /ˈnəʊbədi/ en revanche commence par « no ».",
+  "« everyone » /ˈevriwʌn/ : trois syllabes, accent sur EV-.",
+  "Le /θ/ de -thing : langue entre les dents ; ne dis pas « somesing » ni « someting »."
+ ],
+ "erreurs": [
+  ["I don't know nothing.", "I don't know anything. / I know nothing.", "Pas de double négation."],
+  ["Nobody don't know.", "Nobody knows.", "No- + verbe affirmatif."],
+  ["Everyone are here.", "Everyone is here.", "Every- + verbe au singulier."],
+  ["I want something of good.", "I want something good.", "Adjectif directement après, sans of."],
+  ["There isn't somebody at home.", "There isn't anybody at home. / There's nobody at home.", "Dans une phrase négative → any-."],
+  ["I didn't go nowhere.", "I didn't go anywhere. / I went nowhere.", "Une seule négation."],
+  ["Anybody can't come.", "Nobody can come.", "En sujet négatif : nobody / no one."],
+  ["I'm looking for other someone.", "I'm looking for someone else.", "« D'autre » = else, après le mot."]
+ ],
+ "dialogue": {
+  "contexte": "Deux collègues arrivent à une réunion dans les bureaux d'une entreprise à Lausanne.",
+  "lignes": [
+   ["Inès", "Hello? Is anyone here? The room is empty.", "Allô ? Il y a quelqu'un ? La salle est vide."],
+   ["Marco", "No, nobody's here. Maybe the meeting is somewhere else.", "Non, il n'y a personne. Peut-être que la réunion est ailleurs."],
+   ["Inès", "Did someone send an email about it?", "Quelqu'un a envoyé un e-mail à ce sujet ?"],
+   ["Marco", "Let me check… No, there's nothing in my inbox.", "Je vérifie… Non, il n'y a rien dans ma boîte de réception."],
+   ["Inès", "Look, there's something on the table. It's a note.", "Regarde, il y a quelque chose sur la table. C'est un mot."],
+   ["Marco", "It says: “Everyone is in room 4B. Coffee for everybody!”", "Il dit : « Tout le monde est en salle 4B. Café pour tous ! »"],
+   ["Inès", "Great! I didn't have anything for breakfast.", "Super ! Je n'ai rien mangé au petit-déjeuner."],
+   ["Marco", "Me neither. Let's go. I hope there's something to eat too!", "Moi non plus. Allons-y. J'espère qu'il y a aussi quelque chose à manger !"]
+  ]
+ },
+ "mots": [
+  ["something", "I've got something to tell you.", "quelque chose"],
+  ["anything", "Do you need anything?", "quelque chose (question) ; rien (négation) ; n'importe quoi"],
+  ["nothing", "There's nothing in the box.", "rien"],
+  ["someone", "Someone is calling you.", "quelqu'un"],
+  ["nobody", "Nobody answered the phone.", "personne"],
+  ["everyone", "Everyone likes her.", "tout le monde"],
+  ["somewhere", "I want to live somewhere warm.", "quelque part"],
+  ["nowhere", "There's nowhere to park.", "nulle part"],
+  ["everywhere", "I looked everywhere for my keys.", "partout"],
+  ["else", "Do you want anything else?", "d'autre"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Some- ou any- ?",
+   "consigne": "Complète avec something, anything, someone ou anyone.",
+   "items": [
+    ["There's ___ at the door.", "someone"],
+    ["I didn't buy ___ at the market.", "anything"],
+    ["Would you like ___ to drink?", "something"],
+    ["Does ___ speak Japanese here?", "anyone"],
+    ["I want to tell you ___ important.", "something"],
+    ["I can't hear ___. It's very quiet.", "anything / anyone"]
+   ]
+  },
+  {
+   "titre": "2. Avec no-",
+   "consigne": "Récris la phrase avec nothing, nobody ou nowhere (même sens).",
+   "items": [
+    ["I don't have anything to say.", "I have nothing to say. / I've got nothing to say."],
+    ["There isn't anyone in the office.", "There's nobody in the office. / There's no one in the office."],
+    ["We didn't go anywhere last summer.", "We went nowhere last summer."],
+    ["She doesn't know anything about it.", "She knows nothing about it."]
+   ]
+  },
+  {
+   "titre": "3. Every-, else, adjectif",
+   "consigne": "Complète avec le mot qui convient.",
+   "items": [
+    ["___ is ready. Let's start! (tout le monde)", "Everyone / Everybody"],
+    ["Do you want anything ___? (d'autre)", "else"],
+    ["I want to watch something ___. (drôle)", "funny"],
+    ["I looked ___ for my glasses. (partout)", "everywhere"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I didn't see nobody.", "I didn't see anybody. / I saw nobody."],
+    ["Everybody know the answer.", "Everybody knows the answer."],
+    ["Is there something of interesting on TV?", "Is there anything interesting on TV?"],
+    ["Anyone doesn't like him.", "Nobody likes him. / No one likes him."],
+    ["Can you ask other someone?", "Can you ask someone else?"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Personne n'est parfait.", "Nobody is perfect. / No one is perfect."],
+    ["Tu peux t'asseoir n'importe où.", "You can sit anywhere."],
+    ["Il n'y a rien à manger.", "There's nothing to eat. / There isn't anything to eat."],
+    ["Je voudrais aller quelque part au soleil.", "I'd like to go somewhere sunny."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris cinq phrases sur ton week-end ou ta semaine avec au moins cinq mots différents de la leçon (dont un en no- et un avec else ou un adjectif).",
+   "items": [
+    ["Exemple de réponse", "On Saturday I didn't go anywhere. I stayed at home and did nothing special. In the evening, someone from my family called me. On Sunday we went somewhere new: a small restaurant by the river. Everyone loved it."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "some- (affirmation, offre), any- (négation, question), no- (verbe affirmatif), every- (tout).",
+  "Pas de double négation : I don't know anything / I know nothing.",
+  "En sujet négatif : Nobody knows, Nothing happened.",
+  "Adjectif, else ou to + verbe après : something new, someone else, nothing to do.",
+  "everyone / everybody + verbe au singulier ; reprise avec they / their."
+ ],
+ "liens": [31, 58, 67, 70],
+ "refs": ["bc-a1a2", "cam-nouns"]
+}

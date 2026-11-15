@@ -1,0 +1,200 @@
+{
+"n": 113,
+"niveau": "B1",
+"titre": "Gerund or infinitive: changes in meaning (stop, remember…)",
+"intro": "Some verbs can be followed by an -ing form or by to + base verb, but the meaning changes completely: “I stopped smoking” (I don't smoke any more) is very different from “I stopped to smoke” (I stopped doing something else in order to smoke). This lesson presents these tricky verbs one by one.",
+"objectifs": [
+"Understand the general logic: -ing often looks at the action itself or the past; to + base looks at a later action or a purpose.",
+"Use stop, remember, forget, regret, try, go on and mean correctly with both patterns.",
+"Recognise verbs where the difference is small (like, love, begin, start).",
+"Understand “need + -ing” with a passive meaning (The car needs washing)."
+],
+"sections": [
+{
+"titre": "A useful logic",
+"texte": [
+"Reminder (lesson 62): some verbs are always followed by -ing (enjoy, avoid, finish), others always by to + base (want, decide, hope). Here we study verbs that take both, with different meanings.",
+"A tip that often helps: the -ing form refers to an action that already exists — something you are doing or have done (a memory, an ongoing activity). The to-infinitive refers to a later action, something to do (a purpose, a duty)."
+],
+"tableau": {
+"entetes": ["Verb", "+ -ing", "+ to + base"],
+"lignes": [
+["stop", "end an activity", "stop one thing in order to do another (purpose)"],
+["remember", "have a memory of doing (past)", "not forget a task (future)"],
+["forget", "lose the memory of an experience (mostly: I'll never forget…)", "not do a task because you didn't remember"],
+["regret", "be sorry about something you did", "be sorry to give bad news (formal)"],
+["try", "do something as an experiment (to see if it works)", "make an effort to do something difficult"],
+["go on", "continue the same activity", "do something new next"],
+["mean", "involve, have as a result", "intend, plan"]
+]
+}
+},
+{
+"titre": "Stop, remember, forget",
+"texte": [
+"Stop + -ing: the activity ends. Stop + to + base: you interrupt what you were doing IN ORDER TO do something else (to = purpose).",
+"Remember + -ing: you did the action and you have a memory of it. Remember + to + base: you don't forget a planned action.",
+"Forget + to + base: not do a planned thing because you didn't remember (very common). Forget + -ing is mostly used in the negative for a strong memory: “I'll never forget seeing the sea for the first time”."
+],
+"exemples": [
+["I stopped drinking coffee last year.", "I don't drink it now."],
+["On the way to Yaoundé, we stopped to buy plantains.", "We stopped driving in order to buy plantains."],
+["I remember meeting her at a conference in Dakar.", "A memory of the past."],
+["Remember to lock the door when you leave.", "A task for later."],
+["I forgot to send the invoice!", "I didn't send it."],
+["I'll never forget visiting Victoria Falls.", "A strong memory."]
+]
+},
+{
+"titre": "Try and regret",
+"texte": [
+"Try + to + base: make an effort to succeed in something difficult (you may not manage it). Try + -ing: test a solution to see if it works (the action is easy; the question is the result).",
+"Regret + -ing: be sorry about a past action. Regret + to + base (inform, tell, say, announce): a formal way of giving bad news."
+],
+"exemples": [
+["I tried to open the window, but it was stuck.", "Effort, but I failed."],
+["If you can't sleep, try drinking warm milk.", "A solution to test."],
+["I regret not learning English earlier.", "Sorry about the past."],
+["We regret to inform you that your flight has been cancelled.", "Formal bad news."]
+]
+},
+{
+"titre": "Go on and mean",
+"texte": [
+"Go on + -ing: continue the same activity (often despite something). Go on + to + base: move to a new stage, do something different next.",
+"Mean + -ing: involve, have as a consequence. Mean + to + base: intend (often in the past: I meant to call you = I planned to, but I didn't)."
+],
+"exemples": [
+["She went on talking even when the director arrived.", "She continued talking."],
+["After her degree in Lille, she went on to work for the UN.", "Her next step."],
+["The new job means moving to Ottawa.", "It involves moving."],
+["Sorry, I meant to call you yesterday.", "I intended to, but I didn't."]
+]
+},
+{
+"titre": "Little or no difference, and need + -ing",
+"texte": [
+"With begin, start, continue, the difference is very small: “It started raining / It started to rain”. We just avoid two -ing forms together: “It's starting to rain” (not “starting raining”).",
+"With like, love, hate, prefer, both forms are possible and very close. In British English, “like + -ing” focuses on enjoyment, “like + to + base” on a habit you think is good: “I like to see the dentist twice a year” (not fun, but a good idea). Note: “would like” is always followed by to + base.",
+"Need + -ing has a passive meaning: “The car needs washing” = the car needs to be washed."
+],
+"exemples": [
+["I like cooking for my friends.", "Enjoyment."],
+["I'd like to cook something special tonight.", "would like + to."],
+["The walls need painting.", "= need to be painted."]
+]
+}
+],
+"formule": "stop / remember / forget / regret / try / go on / mean + -ing (action lived, in progress) ≠ + to + base (later action, purpose)",
+"prononciation": [
+"The -ing ending is /ɪŋ/: in fast speech it can become /ɪn/ (“tryin'”), but keep /ɪŋ/ in careful speech.",
+"“to” before the base verb is weak: /tə/: I stopped to buy /aɪ ˈstɒpt tə ˈbaɪ/. The t of stopped and the t of to join together.",
+"To show contrast, stress the verb form: I stopped SMOKING / I stopped TO smoke (rare, to correct a misunderstanding).",
+"“meant” is /ment/, not /miːnt/; “regret” is /rɪˈɡret/, stressed on the second syllable."
+],
+"erreurs": [
+["I stopped to smoke two years ago. (meaning: I don't smoke now)", "I stopped smoking two years ago.", "End an activity: stop + -ing."],
+["Remember calling your mum tomorrow!", "Remember to call your mum tomorrow!", "A task for later: remember + to."],
+["I remember to see him at the party last year.", "I remember seeing him at the party last year.", "Memory of a past action: remember + -ing."],
+["I forgot locking the door.", "I forgot to lock the door.", "Not do a planned thing: forget + to."],
+["I'd like going to Canada.", "I'd like to go to Canada.", "would like + to + base."],
+["Try to restart the computer — it often works.", "Try restarting the computer — it often works.", "Testing a solution: try + -ing (try to is possible but suggests effort)."],
+["The car needs to wash.", "The car needs washing. / The car needs to be washed.", "Passive meaning: need + -ing."]
+],
+"dialogue": {
+"contexte": "Monday morning at a communications agency in Abidjan. Koffi arrives late and talks to his colleague Bintou.",
+"lignes": [
+["Bintou", "You're late! Did you forget to set your alarm?", "forget + to: a task not done."],
+["Koffi", "No, my car broke down. I stopped to buy petrol and then it didn't start again.", "stop + to: purpose."],
+["Bintou", "Oh no. Did you try calling a mechanic?", "try + -ing: a solution."],
+["Koffi", "I tried to call three, but nobody answered. In the end a taxi driver helped me.", "try + to: effort that failed."],
+["Bintou", "That car needs replacing, you know.", "need + -ing: passive meaning."],
+["Koffi", "I know. But a new car means taking out a loan. I regret not saving more last year.", "mean + -ing; regret + -ing."],
+["Bintou", "By the way, remember to send the slides to the client before ten.", "remember + to: a task."],
+["Koffi", "Yes! I meant to do it on Friday. I'll do it now and then go on working on the report.", "mean + to: intention; go on + -ing: continue."]
+]
+},
+"mots": [
+["regret", "I regret selling my old guitar.", "to feel sorry about something you did; that feeling"],
+["remind", "Remind me to call the bank.", "to make someone remember something"],
+["intend", "I intended to finish it today.", "to plan to do something"],
+["quit", "He quit smoking in 2020.", "to stop doing something; to leave a job"],
+["memory", "I have good memories of Kribi.", "something you remember; the ability to remember"],
+["attempt", "She attempted to climb Mount Cameroon.", "to try to do something difficult; a try"],
+["lock", "Did you remember to lock the door?", "to close something with a key"],
+["stuck", "The window is stuck.", "not able to move"],
+["loan", "They took out a loan to buy a house.", "money that you borrow from a bank"],
+["replace", "The printer needs replacing.", "to put a new thing in the place of an old one"]
+],
+"exercices": [
+{
+"titre": "1. What does it mean?",
+"consigne": "Choose the correct meaning (a or b).",
+"items": [
+["He stopped to talk to me. — a) he didn't talk to me any more; b) he stopped walking in order to talk to me", "b"],
+["I remember posting the letter. — a) I have a memory of posting it; b) I won't forget to post it", "a"],
+["Try adding more salt. — a) test the result with more salt; b) make a big effort to add salt", "a"],
+["She went on to study law. — a) she continued studying law; b) later, she studied law", "b"],
+["I meant to tell you. — a) it involved telling you; b) I intended to tell you", "b"]
+]
+},
+{
+"titre": "2. -ing or to + base?",
+"consigne": "Put the verb in brackets in the correct form.",
+"items": [
+["Please remember ___ (buy) some bread on the way home.", "to buy"],
+["I'll never forget ___ (see) snow for the first time in Montreal.", "seeing"],
+["We stopped ___ (have) lunch in a small village.", "to have"],
+["My father stopped ___ (work) when he was 65.", "working"],
+["I tried ___ (lift) the box, but it was too heavy.", "to lift"],
+["If the screen freezes, try ___ (press) this button.", "pressing"],
+["I regret ___ (not / tell) her the truth.", "not telling"],
+["We regret ___ (inform) you that the position has been filled.", "to inform"]
+]
+},
+{
+"titre": "3. Rewrite",
+"consigne": "Rewrite the sentence with the verb in brackets. Keep the same meaning.",
+"items": [
+["Don't forget to call the bank. (remember)", "Remember to call the bank."],
+["I'm sorry that I didn't study harder at school. (regret)", "I regret not studying harder at school."],
+["Taking this job will involve travelling a lot. (mean)", "Taking this job will mean travelling a lot."],
+["The grass is long. Someone has to cut it. (need + -ing)", "The grass needs cutting."]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake in meaning or form. Write it correctly.",
+"items": [
+["She gave up cigarettes: she stopped to smoke in May.", "She stopped smoking in May."],
+["Did you remember locking the car before we left? I'm not sure you did it.", "Did you remember to lock the car before we left?"],
+["I'd love visiting Ghana one day.", "I'd love to visit Ghana one day."]
+]
+},
+{
+"titre": "5. Say it with the verb in brackets",
+"consigne": "Rewrite each sentence using the verb in brackets + -ing or to + base.",
+"items": [
+["I didn't close the window — it went out of my mind. (forget)", "I forgot to close the window."],
+["I have a memory of playing football in this street. (remember)", "I remember playing football in this street."],
+["They continued to work despite the power cut. (go on)", "They went on working despite the power cut."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Write five true sentences about yourself with: stop + -ing, remember + -ing, remember + to, try + -ing and regret + -ing.",
+"items": [
+["Model answer", "I stopped eating meat three years ago. I remember living in a small house in Garoua when I was a child. I must remember to renew my passport next month. When I can't concentrate, I try listening to calm music. I regret not travelling more when I was a student."]
+]
+}
+],
+"a_retenir": [
+"stop + -ing = end an activity; stop + to = stop in order to do something.",
+"remember / forget + -ing = memory of a past action; + to = (not) do a planned task.",
+"try + to = make an effort; try + -ing = test a solution.",
+"regret + -ing = be sorry you did it; regret to inform = formal bad news.",
+"go on + -ing = continue; go on + to = do next; mean + -ing = involve; mean + to = intend."
+],
+"liens": [33, 62, 120, 137],
+"refs": ["bc-ing-inf-meaning", "bc-ing-inf"]
+}

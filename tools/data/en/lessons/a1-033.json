@@ -1,0 +1,198 @@
+{
+"n": 33,
+"niveau": "A1",
+"titre": "Like / love / hate + -ing",
+"intro": "Saying what you like or hate doing is important when you introduce yourself, talk about hobbies or meet new people. After like, love, hate and enjoy, English usually uses the -ing form of the verb: “I love dancing”.",
+"objectifs": [
+ "Show your feelings from very positive to very negative (love, like, don't mind, hate, can't stand).",
+ "Use like / love / hate + -ing verb or + noun.",
+ "Spell the -ing form correctly (dancing, swimming).",
+ "Ask and answer questions about free time (Do you like…? Yes, I do)."
+],
+"sections": [
+ {
+  "titre": "From love to hate",
+  "texte": [
+   "Here are the most common verbs and expressions, from the most positive to the most negative. All of them can take a noun (I love music) or an -ing verb (I love dancing).",
+   "“I don't mind” means “it's OK for me, it's not a problem”: it is neutral. In conversation, “I can't stand” is stronger than “I hate”."
+  ],
+  "tableau": {
+   "entetes": ["Expression", "Feeling", "Example"],
+   "lignes": [
+    ["love", "very positive", "I love cooking."],
+    ["really like / enjoy", "positive", "I really like reading. I enjoy walking."],
+    ["like", "positive", "I like swimming."],
+    ["quite like", "a little positive", "I quite like jazz."],
+    ["don't mind", "neutral", "I don't mind waiting."],
+    ["don't like", "negative", "I don't like running."],
+    ["hate", "very negative", "I hate ironing."],
+    ["can't stand", "very, very negative", "I can't stand queuing."]
+   ]
+  },
+  "note": "“I like Paul” means Paul is nice and you enjoy his company. “I love Paul” shows love (or very strong affection)."
+ },
+ {
+  "titre": "The structure: verb of feeling + -ing or + noun",
+  "texte": [
+   "After like, love, hate, enjoy, don't mind, can't stand, use a noun or an -ing verb. Here the -ing verb works like a noun: “swimming” = the activity of swimming.",
+   "Use the present simple: remember the s with he / she / it (“She likes dancing”) and “do / does” for questions and negatives (“Does he like cooking?”, “He doesn't like cooking”).",
+   "With a noun in a general meaning, don't use an article: “I like dogs” (all dogs), “She loves music”."
+  ],
+  "exemples": [
+   ["My brother loves playing football.", "love + -ing."],
+   ["Does your sister like travelling? — Yes, she does.", "Question and short answer."],
+   ["I don't mind working at the weekend.", "don't mind + -ing."],
+   ["We hate getting up early.", "hate + -ing."],
+   ["She can't stand cold weather.", "can't stand + noun."]
+  ]
+ },
+ {
+  "titre": "Spelling the -ing form",
+  "texte": [
+   "These are the same rules as for the present continuous (lesson 8). Usually you just add -ing.",
+   "If the verb ends in a silent e, drop the e. If a short verb ends in consonant + vowel + consonant, double the last consonant. If the verb ends in -ie, write -ying."
+  ],
+  "tableau": {
+   "entetes": ["Rule", "Examples"],
+   "lignes": [
+    ["+ ing", "read → reading, play → playing, cook → cooking"],
+    ["silent e: drop it", "dance → dancing, write → writing, ride → riding"],
+    ["consonant + vowel + consonant: double", "swim → swimming, run → running, shop → shopping"],
+    ["-ie → -ying", "lie → lying, die → dying"],
+    ["-l after a vowel (UK: double)", "travel → travelling (US: traveling)"]
+   ]
+  }
+ },
+ {
+  "titre": "-ing or to?",
+  "texte": [
+   "With like, love and hate, you can also use “to” + verb, especially in American English: “I like to swim”. For things you do for pleasure, British English prefers -ing: “I like swimming”. Both are correct.",
+   "But enjoy, don't mind and can't stand ALWAYS take -ing: “I enjoy cooking”, never “I enjoy to cook”.",
+   "Big trap: “would like” (= want, politely) takes “to”: “I'd like to go to the cinema” (lesson 34). Compare: “I like going to the cinema” (in general, I enjoy it)."
+  ],
+  "exemples": [
+   ["I like swimming. / I like to swim.", "Both are correct."],
+   ["I enjoy cooking for my friends.", "enjoy + -ing only."],
+   ["I like dancing, but tonight I'd like to stay at home.", "like + -ing (general) vs would like + to (now)."]
+  ]
+ },
+ {
+  "titre": "Talking about free time",
+  "texte": [
+   "The usual question is “What do you like doing in your free time?” or “What are your hobbies?”.",
+   "To react: “Me too!” after a positive sentence, “Me neither” after a negative sentence. Lesson 70 presents “So do I” and “Neither do I”.",
+   "“I like… very much” or “I really like…”: “very much” goes after the object, never between the verb and the object."
+  ],
+  "exemples": [
+   ["What do you like doing at the weekend? — I love going to the market.", "Question and answer about free time."],
+   ["I don't like shopping. — Me neither!", "Me neither = I don't like it either."],
+   ["I like reading very much.", "very much at the end."]
+  ]
+ }
+],
+"formule": "love / like / don't mind / hate / enjoy / can't stand + verb-ing (or + noun): I love dancing.",
+"prononciation": [
+ "The ending -ing is /ɪŋ/: a nasal sound at the back of the mouth, with no hard g at the end. “singing” = /ˈsɪŋɪŋ/.",
+ "“likes” /laɪks/ ends with /s/; “loves” /lʌvz/ and “enjoys” /ɪnˈdʒɔɪz/ end with /z/.",
+ "“love” is /lʌv/: the vowel of “but”, not an o.",
+ "“I don't mind”: the t often disappears and the n becomes m: /aɪ dəʊm ˈmaɪnd/.",
+ "Stress the feeling and the activity: “I LOVE DANCING”, “I CAN'T STAND QUEUING”."
+],
+"erreurs": [
+ ["I like swim.", "I like swimming. / I like to swim.", "After like: -ing (or to + verb)."],
+ ["I enjoy to cook.", "I enjoy cooking.", "“Enjoy” always takes -ing."],
+ ["I like the dogs.", "I like dogs.", "General meaning: no article."],
+ ["She like dancing.", "She likes dancing.", "Present simple: s with he / she / it."],
+ ["Do you like reading? — Yes, I like.", "Do you like reading? — Yes, I do.", "Short answer with “do”."],
+ ["I like very much football.", "I like football very much.", "“Very much” goes after the object."],
+ ["I hate runing.", "I hate running.", "run → running: double the n."],
+ ["I would like going to Canada.", "I would like to go to Canada.", "“Would like” takes “to”."]
+],
+"dialogue": {
+ "contexte": "In Ottawa, two students, Samira and Jake, are going to share a flat. They get to know each other.",
+ "lignes": [
+  ["Jake", "So, what do you like doing in your free time?", "The classic question."],
+  ["Samira", "I love cooking, especially Moroccan food. And I really enjoy hiking.", "love + -ing; enjoy + -ing."],
+  ["Jake", "Great! I can't cook at all, but I love eating!", "can't = not able; love + -ing."],
+  ["Samira", "Ha! And you? What are your hobbies?", "hobbies = free-time activities."],
+  ["Jake", "I like playing the guitar and watching hockey.", "like + two -ing verbs."],
+  ["Samira", "I don't mind music, but not at night, please!", "don't mind + noun."],
+  ["Jake", "Don't worry. Do you like cleaning? I hate cleaning.", "hate + -ing."],
+  ["Samira", "Me too! Let's make a cleaning plan.", "Me too = I hate it too."]
+ ]
+},
+"mots": [
+ ["enjoy", "I enjoy walking by the sea.", "get pleasure from something (+ -ing)"],
+ ["hobby", "My hobby is photography.", "an activity you do for pleasure"],
+ ["free time", "What do you do in your free time?", "time when you are not working or studying"],
+ ["hate", "I hate waiting.", "dislike very much"],
+ ["mind", "I don't mind cooking.", "be unhappy about something (mostly in negatives and questions)"],
+ ["reading", "Reading is my favourite hobby.", "the activity of reading books and texts"],
+ ["cooking", "She loves cooking for her family.", "the activity of making food"],
+ ["dancing", "Do you like dancing?", "moving your body to music"],
+ ["hiking", "We go hiking in the mountains.", "walking a long way in the country"],
+ ["shopping", "I can't stand shopping on Saturdays.", "the activity of buying things in shops"]
+],
+"exercices": [
+ {
+  "titre": "1. Spelling the -ing form",
+  "consigne": "Write the -ing form.",
+  "items": [
+   ["swim", "swimming"],
+   ["dance", "dancing"],
+   ["play", "playing"],
+   ["run", "running"],
+   ["write", "writing"],
+   ["shop", "shopping"]
+  ]
+ },
+ {
+  "titre": "2. The right form",
+  "consigne": "Put the verb in brackets in the right form.",
+  "items": [
+   ["She ___ (like) cooking.", "likes"],
+   ["I don't mind ___ (wait).", "waiting"],
+   ["Do you enjoy ___ (travel)?", "travelling (US: traveling)"],
+   ["They hate ___ (get up) early.", "getting up"],
+   ["He ___ (not like) dancing.", "doesn't like"]
+  ]
+ },
+ {
+  "titre": "3. Short answers",
+  "consigne": "Answer with a short answer.",
+  "items": [
+   ["Do you like football? (yes)", "Yes, I do."],
+   ["Does she like cooking? (no)", "No, she doesn't."],
+   ["Do they love dancing? (yes)", "Yes, they do."],
+   ["Does he hate shopping? (no)", "No, he doesn't."]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I love read.", "I love reading. / I love to read."],
+   ["I don't mind to drive.", "I don't mind driving."],
+   ["She doesn't like at all shopping.", "She doesn't like shopping at all."],
+   ["Do you like swim?", "Do you like swimming? / Do you like to swim?"],
+   ["I enjoy very much cooking for my friends.", "I really enjoy cooking for my friends. / I enjoy cooking for my friends very much."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write five sentences about what you like: use love, like, don't mind, don't like and hate (or can't stand), each with an -ing verb.",
+  "items": [
+   ["Model answer", "I love dancing at weddings. I like watching football with my friends. I don't mind cooking, but I don't like washing the dishes. I hate getting up early on Sundays, and I can't stand waiting for the bus in the rain."]
+  ]
+ }
+],
+"a_retenir": [
+ "love > like > don't mind > don't like > hate > can't stand, + -ing verb or + noun.",
+ "Present simple: She likes dancing. Does he like cooking? — Yes, he does.",
+ "Spelling: dance → dancing, swim → swimming, lie → lying, travel → travelling (US traveling).",
+ "enjoy, don't mind, can't stand: always + -ing; like / love / hate: -ing or to.",
+ "Careful: I like going (in general) ≠ I'd like to go (I want to, now)."
+],
+"liens": [6, 8, 34, 62, 70],
+"refs": ["bc-ing-inf", "cam-verbs"]
+}

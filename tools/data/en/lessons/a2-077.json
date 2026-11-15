@@ -1,0 +1,197 @@
+{
+"n": 77,
+"niveau": "A2",
+"titre": "Writing a simple email",
+"intro": "A clear email in English helps you book things, ask for information, say thank you or say sorry. An English email follows a simple plan and uses fixed phrases. This lesson gives you those phrases, from friendly to formal.",
+"objectifs": [
+ "Organise an email: subject, greeting, opening, body, closing, sign-off.",
+ "Choose the greeting and the sign-off for the situation (Hi Tom / Dear Ms Martin; Best wishes / Kind regards).",
+ "Use key phrases: I'm writing to…, Could you…?, I've attached…, I look forward to hearing from you.",
+ "Avoid common mistakes (“I write you”, “in attachment”, “Cordially”)."
+],
+"sections": [
+ {
+  "titre": "The plan of an email",
+  "texte": [
+   "A good email is short and organised. Each part has a job: the subject gives the topic in a few words, the first sentence gives the reason for writing, then come the details and the request, and finally a closing sentence.",
+   "In English, put a comma after the greeting (“Dear Anna,”) and start the next sentence with a capital letter on a new line. Leave an empty line between paragraphs, with no indent."
+  ],
+  "tableau": {
+   "entetes": ["Part", "Example", "Job"],
+   "lignes": [
+    ["Subject", "Booking for 12 May", "the topic in 2 to 5 words"],
+    ["Greeting", "Dear Mr Lambert, / Hi Sara,", "say hello in the right style"],
+    ["Opening", "I'm writing to book a room.", "say why you are writing"],
+    ["Body", "We'd like a double room for two nights. Could you…?", "details and request"],
+    ["Closing", "I look forward to hearing from you.", "finish politely"],
+    ["Sign-off + name", "Kind regards, / Best wishes, + Amina Diallo", "the last words and your name"]
+   ]
+  }
+ },
+ {
+  "titre": "Greetings and sign-offs",
+  "texte": [
+   "Formal (a company, an office, someone you don't know): “Dear Mr Lambert,” (man), “Dear Ms Lambert,” (woman, whether married or not), “Dear Sir or Madam,” (name unknown). Finish with “Kind regards,” or “Best regards,”; in a very formal letter, “Yours sincerely,” (name known) or “Yours faithfully,” (UK, name unknown).",
+   "Neutral (a colleague, a client you know): “Dear Anna,” or “Hello Anna,”; finish with “Best wishes,” or “Kind regards,”.",
+   "Friendly (a friend, family): “Hi Tom,”, “Hey Tom,” (very informal); finish with “See you soon,”, “Love,” (family, close friends), “Cheers,” (UK, informal)."
+  ],
+  "tableau": {
+   "entetes": ["Style", "Greeting", "Sign-off", "Who to?"],
+   "lignes": [
+    ["Formal, name unknown", "Dear Sir or Madam,", "Yours faithfully, (UK) / Kind regards,", "a company, an office"],
+    ["Formal, name known", "Dear Ms Dubois,", "Kind regards, / Yours sincerely,", "a manager, a teacher you don't know"],
+    ["Neutral", "Dear Paul, / Hello Paul,", "Best wishes, / Best regards,", "a colleague, a client"],
+    ["Friendly", "Hi Paul,", "See you soon, / Love, / Cheers,", "a friend, family"]
+   ]
+  },
+  "note": "In British English, “Mr”, “Ms”, “Mrs”, “Dr” have no full stop; in American English they do (Mr., Ms.). Use the family name, never the first name alone after Mr / Ms: “Dear Ms Dubois”, not “Dear Ms Claire”."
+ },
+ {
+  "titre": "Opening phrases",
+  "texte": [
+   "To say why you are writing: “I'm writing to…” (+ verb) or “I'm writing about…” (+ noun). This is the present continuous, never “I write you”.",
+   "To answer an email: “Thank you for your email.”, “Thanks for your message.” (more informal). To a friend: “I hope you're well.” / “How are you?”"
+  ],
+  "exemples": [
+   ["I'm writing to ask about your English courses.", "writing to + verb."],
+   ["I'm writing about my order number 4521.", "writing about + noun."],
+   ["Thank you for your quick reply.", "Answering an email."],
+   ["Hi Léa, I hope you're well! Thanks for the photos.", "Friendly opening."]
+  ]
+ },
+ {
+  "titre": "Asking, informing, attaching a file",
+  "texte": [
+   "To ask politely: “Could you send me…?”, “Could you tell me…?”, “I'd like to…” (lessons 34 and 57). With “please”: “Please let me know if…”.",
+   "For an attachment: “I've attached…” or “Please find attached…” (formal). Don't say “in attachment”.",
+   "To say sorry: “Sorry for the late reply.” / “I'm sorry, but I can't come on Friday.”"
+  ],
+  "exemples": [
+   ["Could you send me the price list, please?", "A polite request."],
+   ["I've attached my CV.", "An attachment."],
+   ["Please let me know if you need more information.", "An offer of help."],
+   ["Sorry for the late reply. I was on holiday.", "Saying sorry."]
+  ]
+ },
+ {
+  "titre": "Closing",
+  "texte": [
+   "Formal: “I look forward to hearing from you.” Careful: “look forward to” takes -ing (“to hearing”, not “to hear”).",
+   "Neutral: “Thanks in advance.”, “Let me know if you have any questions.”",
+   "Friendly: “See you soon!”, “Write soon!”, “Speak soon!”"
+  ],
+  "exemples": [
+   ["I look forward to hearing from you.", "Formal closing."],
+   ["Thanks in advance for your help.", "Neutral closing."],
+   ["Can't wait to see you! Love, Mariam", "Friendly closing."]
+  ]
+ }
+],
+"formule": "Dear Ms… / Hi…, — I'm writing to… — Could you…? / I've attached… — I look forward to hearing from you. — Kind regards, / Best wishes,",
+"prononciation": [
+ "“email” /ˈiːmeɪl/: stress on the first syllable (“EE-mail”).",
+ "“attached” /əˈtætʃt/: only two syllables; the -ed sounds like /t/.",
+ "“Ms” is /mɪz/ or /məz/; “Mrs” /ˈmɪsɪz/; “Mr” /ˈmɪstə/.",
+ "“sincerely” /sɪnˈsɪəli/: stress on the second syllable; “regards” /rɪˈɡɑːdz/.",
+ "To say an address: @ = “at”, . = “dot”, - = “hyphen” or “dash”, _ = “underscore”: anna.diallo@mail.com = “anna dot diallo at mail dot com”."
+],
+"erreurs": [
+ ["I write you to ask a question.", "I'm writing to ask a question.", "Fixed phrase in the present continuous, with no “you”."],
+ ["Please find in attachment my CV.", "Please find attached my CV. / I've attached my CV.", "Use “attached”."],
+ ["I wait for your answer.", "I look forward to hearing from you.", "The polite closing phrase."],
+ ["I look forward to hear from you.", "I look forward to hearing from you.", "“Look forward to” + -ing."],
+ ["Dear Madam Smith,", "Dear Ms Smith,", "With a name: Ms / Mrs / Mr + family name."],
+ ["Cordially,", "Kind regards, / Best regards,", "“Cordially” is not a normal English sign-off."],
+ ["Hello Mister,", "Dear Sir or Madam, / Hello Mr Brown,", "Don't use “Mister” alone; Mr + name."],
+ ["Dear John. I hope you are fine.", "Dear John, I hope you're well.", "Comma after the greeting; “I hope you're well” is more natural."]
+],
+"dialogue": {
+ "contexte": "In an office in Brussels, Ahmed helps his colleague Julie write an email in English to a hotel in Dublin.",
+ "lignes": [
+  ["Julie", "Ahmed, can you help me? I need to write to a hotel in Dublin.", "Asking for help."],
+  ["Ahmed", "Sure. Do you know the manager's name?", "The name decides the greeting."],
+  ["Julie", "No, I don't.", "Short answer."],
+  ["Ahmed", "Then start with “Dear Sir or Madam”. Then say why you're writing.", "Formal greeting, name unknown."],
+  ["Julie", "“I'm writing to book two single rooms for the 3rd and 4th of June.” Is that OK?", "Opening phrase."],
+  ["Ahmed", "Perfect. Now ask your question politely.", "Next part: the request."],
+  ["Julie", "“Could you tell me if breakfast is included?”", "A polite question."],
+  ["Ahmed", "Great. And finish with “I look forward to hearing from you. Kind regards.”", "Closing + sign-off."],
+  ["Julie", "Not “Cordially”?", "A common mistake."],
+  ["Ahmed", "No, nobody says that! “Kind regards” is perfect.", "The natural sign-off."]
+ ]
+},
+"mots": [
+ ["subject", "Write a clear subject line.", "the title of an email"],
+ ["attach", "I've attached the document.", "add a file to an email"],
+ ["attachment", "The attachment is too big.", "a file sent with an email"],
+ ["reply", "Thank you for your reply.", "an answer; to answer"],
+ ["forward", "Can you forward me the email?", "send an email you received to another person"],
+ ["regards", "Kind regards, Amina", "good wishes (at the end of an email)"],
+ ["inbox", "My inbox is full.", "the place where new emails arrive"],
+ ["sincerely", "Yours sincerely, Paul Martin", "used at the end of a formal letter"],
+ ["look forward to", "I look forward to meeting you.", "feel happy about something that will happen (+ -ing)"],
+ ["in advance", "Thanks in advance.", "before something happens"]
+],
+"exercices": [
+ {
+  "titre": "1. Formal or friendly?",
+  "consigne": "Write F (formal) or Fr (friendly).",
+  "items": [
+   ["Dear Sir or Madam,", "F"],
+   ["Hi Sam,", "Fr"],
+   ["Kind regards,", "F"],
+   ["See you soon!", "Fr"],
+   ["I look forward to hearing from you.", "F"],
+   ["Love, Maya", "Fr"]
+  ]
+ },
+ {
+  "titre": "2. Complete the phrases",
+  "consigne": "Complete with one word.",
+  "items": [
+   ["I'm ___ to ask about your prices.", "writing"],
+   ["I've ___ my CV.", "attached"],
+   ["I look forward to ___ from you.", "hearing"],
+   ["Thanks in ___ for your help.", "advance"],
+   ["___ you send me the timetable, please?", "Could"]
+  ]
+ },
+ {
+  "titre": "3. Make it more formal",
+  "consigne": "Rewrite in a formal style.",
+  "items": [
+   ["Hi Mr Brown,", "Dear Mr Brown,"],
+   ["Send me the price list.", "Could you send me the price list, please?"],
+   ["Write back soon!", "I look forward to hearing from you."],
+   ["Cheers, Tom", "Kind regards, Tom Mensah"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each phrase has one mistake. Write it correctly.",
+  "items": [
+   ["I write you to book a table.", "I'm writing to book a table."],
+   ["Please find in attachment the document.", "Please find attached the document. / I've attached the document."],
+   ["I look forward to hear from you.", "I look forward to hearing from you."],
+   ["Thank you for your mail of yesterday.", "Thank you for your email yesterday. / Thank you for yesterday's email."],
+   ["Cordially, Claire Dupont", "Kind regards, Claire Dupont"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write a formal email (60 to 80 words) to a language school in Toronto to ask about summer courses: dates, prices, accommodation.",
+  "items": [
+   ["Model answer", "Subject: Summer English courses. Dear Sir or Madam, I'm writing to ask about your summer English courses. I'm a 24-year-old student from Cameroon and my level is A2. Could you tell me the dates and the price of the July course? I'd also like to know if you can help with accommodation. I've attached my last English test. I look forward to hearing from you. Kind regards, Brice Nkoulou"]
+  ]
+ }
+],
+"a_retenir": [
+ "Plan: subject → greeting → reason (I'm writing to…) → details and request → closing → sign-off.",
+ "Formal: Dear Mr / Ms + family name, or Dear Sir or Madam; Kind regards / Yours sincerely / Yours faithfully.",
+ "Friendly: Hi + first name; See you soon / Love / Cheers.",
+ "Key phrases: Could you…? · I've attached… · Please let me know if… · I look forward to hearing from you (+ -ing).",
+ "Never: I write you, in attachment, Cordially, Dear Madam Smith."
+],
+"liens": [34, 57, 75, 78, 128],
+"refs": ["cam-using", "bc-capitals"]
+}

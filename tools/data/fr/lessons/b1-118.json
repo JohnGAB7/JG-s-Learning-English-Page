@@ -1,0 +1,476 @@
+{
+ "n": 118,
+ "niveau": "B1",
+ "titre": "Although, however, despite",
+ "intro": "Pour opposer deux idées, « but » ne suffit pas toujours. « Although », « however » et « despite » permettent d'exprimer la concession (« bien que », « cependant », « malgré ») de façon plus nuancée, à l'oral comme à l'écrit. Mais chacun a sa propre construction : proposition, nom ou phrase séparée.",
+ "objectifs": [
+  "Utiliser although / though / even though + sujet + verbe.",
+  "Utiliser despite / in spite of + nom, + -ing ou + the fact that.",
+  "Placer however et nevertheless correctement, avec la bonne ponctuation.",
+  "Transformer une phrase d'une structure à l'autre sans changer le sens."
+ ],
+ "sections": [
+  {
+   "titre": "Vue d'ensemble",
+   "texte": [
+    "Ces mots expriment tous un contraste : la deuxième idée est surprenante ou inattendue par rapport à la première. La différence est grammaticale : ce qui vient après le mot.",
+    "Une erreur très fréquente vient du français : « malgré » est suivi d'un nom, « bien que » d'un verbe ; c'est pareil en anglais (despite + nom, although + verbe), mais « despite of » n'existe pas."
+   ],
+   "tableau": {
+    "entetes": [
+     "Mot",
+     "Suivi de",
+     "Exemple",
+     "Équivalent français"
+    ],
+    "lignes": [
+     [
+      "but",
+      "proposition (au milieu)",
+      "It was raining, but we went out.",
+      "mais"
+     ],
+     [
+      "although / though",
+      "sujet + verbe",
+      "Although it was raining, we went out.",
+      "bien que, même si"
+     ],
+     [
+      "even though",
+      "sujet + verbe (plus fort)",
+      "Even though it was raining, we went out.",
+      "même si, alors que"
+     ],
+     [
+      "despite / in spite of",
+      "nom ou verbe-ing",
+      "Despite the rain, we went out.",
+      "malgré"
+     ],
+     [
+      "however",
+      "nouvelle phrase",
+      "It was raining. However, we went out.",
+      "cependant, pourtant"
+     ],
+     [
+      "nevertheless",
+      "nouvelle phrase (formel)",
+      "It was raining. Nevertheless, we went out.",
+      "néanmoins"
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Although, though, even though",
+   "texte": [
+    "Ces conjonctions introduisent une proposition complète (sujet + verbe). Elles peuvent se placer en tête de phrase (suivie d'une virgule) ou au milieu.",
+    "« Though » est plus courant à l'oral. « Even though » renforce le contraste (« alors même que ») et s'utilise pour un fait réel. À l'oral, « though » peut aussi se placer en fin de phrase avec le sens de « pourtant » : « It was expensive. I bought it, though. »",
+    "Attention : on ne met pas « but » dans la même phrase qu'although (« Although it was late, but… » est incorrect)."
+   ],
+   "exemples": [
+    [
+     "Although she was tired, she finished the report.",
+     "Bien qu'elle soit fatiguée, elle a fini le rapport."
+    ],
+    [
+     "I enjoyed the trip to Kinshasa, though it was very hot.",
+     "J'ai aimé le voyage à Kinshasa, même s'il faisait très chaud."
+    ],
+    [
+     "Even though he earns a lot, he never has any money.",
+     "Alors même qu'il gagne beaucoup, il n'a jamais d'argent."
+    ],
+    [
+     "The hotel was nice. The food wasn't great, though.",
+     "L'hôtel était bien. La nourriture n'était pas terrible, cela dit."
+    ]
+   ]
+  },
+  {
+   "titre": "Despite et in spite of",
+   "texte": [
+    "« Despite » et « in spite of » ont exactement le même sens. Ils sont suivis d'un nom, d'un pronom ou d'un verbe en -ing, jamais directement d'une proposition.",
+    "Pour ajouter une proposition complète, on utilise « despite the fact that » / « in spite of the fact that » + sujet + verbe. Ne jamais écrire « despite of »."
+   ],
+   "tableau": {
+    "entetes": [
+     "Structure",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "despite + nom",
+      "Despite the traffic, we arrived on time."
+     ],
+     [
+      "in spite of + nom",
+      "In spite of his age, he still plays football."
+     ],
+     [
+      "despite + verbe-ing",
+      "Despite feeling ill, she went to work."
+     ],
+     [
+      "despite the fact that + proposition",
+      "Despite the fact that it was late, the shop was open."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "We enjoyed the evening despite the rain.",
+     "Nous avons passé une bonne soirée malgré la pluie."
+    ],
+    [
+     "In spite of working hard, he didn't get a promotion.",
+     "Bien qu'il ait travaillé dur, il n'a pas eu de promotion."
+    ]
+   ]
+  },
+  {
+   "titre": "However et nevertheless : liens entre deux phrases",
+   "texte": [
+    "« However » est un adverbe de liaison : il relie deux phrases séparées, pas deux propositions dans une même phrase. On le met généralement en début de deuxième phrase, suivi d'une virgule ; il peut aussi se placer au milieu, entre virgules.",
+    "Dans une seule phrase, on peut utiliser un point-virgule : « It was raining; however, we went out. ». Mais « It was raining, however we went out » (une simple virgule) est considéré comme incorrect à l'écrit.",
+    "« Nevertheless » et « nonetheless » ont le même sens, plus formel : ils conviennent bien aux rapports et aux e-mails professionnels."
+   ],
+   "exemples": [
+    [
+     "The project was difficult. However, the team finished it on time.",
+     "Le projet était difficile. Cependant, l'équipe l'a terminé à temps."
+    ],
+    [
+     "The new phone is expensive. It is, however, very fast.",
+     "Le nouveau téléphone est cher. Il est cependant très rapide (au milieu, entre virgules)."
+    ],
+    [
+     "Sales fell in March; nevertheless, the company made a profit.",
+     "Les ventes ont baissé en mars ; néanmoins, l'entreprise a fait un bénéfice."
+    ]
+   ]
+  },
+  {
+   "titre": "Transformer d'une structure à l'autre",
+   "texte": [
+    "Il est très utile (et fréquent dans les examens) de savoir passer d'une construction à l'autre. Avec despite, il faut trouver un nom ou une forme en -ing qui correspond au verbe : « it rained » → « the rain » ; « he was ill » → « his illness » / « being ill »."
+   ],
+   "tableau": {
+    "entetes": [
+     "although",
+     "despite",
+     "however"
+    ],
+    "lignes": [
+     [
+      "Although it rained, we played.",
+      "Despite the rain, we played.",
+      "It rained. However, we played."
+     ],
+     [
+      "Although he was ill, he came.",
+      "Despite being ill, he came.",
+      "He was ill. However, he came."
+     ],
+     [
+      "Although she has a lot of experience, she didn't get the job.",
+      "Despite her experience, she didn't get the job.",
+      "She has a lot of experience. However, she didn't get the job."
+     ]
+    ]
+   }
+  }
+ ],
+ "formule": "although / even though + sujet + verbe · despite / in spite of + nom / -ing · Phrase 1. However, phrase 2.",
+ "prononciation": [
+  "« although » /ɔːlˈðəʊ/ : accent sur la 2e syllabe, th sonore /ð/, le gh est muet.",
+  "« though » /ðəʊ/ rime avec « go » ; ne pas confondre avec « through » /θruː/ ni « thought » /θɔːt/.",
+  "« however » /haʊˈevə/ : accent sur la 2e syllabe ; à l'oral on marque une petite pause après : However, | we…",
+  "« despite » /dɪˈspaɪt/ : accent sur la 2e syllabe.",
+  "À la fin d'une phrase, « though » est prononcé avec une intonation légèrement descendante-montante : It was good, though."
+ ],
+ "erreurs": [
+  [
+   "Despite of the rain, we went out.",
+   "Despite the rain, we went out. / In spite of the rain, we went out.",
+   "despite sans of ; in spite of avec of."
+  ],
+  [
+   "Although it was late, but we continued.",
+   "Although it was late, we continued.",
+   "Pas de but avec although."
+  ],
+  [
+   "Despite it was raining, we played.",
+   "Although it was raining, we played. / Despite the rain, we played.",
+   "despite + nom / -ing, pas une proposition."
+  ],
+  [
+   "It was expensive, however I bought it.",
+   "It was expensive. However, I bought it. / It was expensive, but I bought it.",
+   "however relie deux phrases (point ou point-virgule)."
+  ],
+  [
+   "Although the traffic, we arrived on time.",
+   "Despite the traffic, we arrived on time.",
+   "Devant un nom seul : despite."
+  ],
+  [
+   "In spite of be tired, he worked.",
+   "In spite of being tired, he worked.",
+   "Après in spite of : -ing."
+  ],
+  [
+   "Even she was ill, she came.",
+   "Even though she was ill, she came.",
+   "even seul n'est pas une conjonction : even though."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Deux amis, Didier et Sandrine, parlent à Liège du nouveau travail de Didier.",
+  "lignes": [
+   [
+    "Sandrine",
+    "So, how's the new job?",
+    "Alors, ce nouveau travail ?"
+   ],
+   [
+    "Didier",
+    "I like it, although the hours are long.",
+    "Ça me plaît, même si les horaires sont longs."
+   ],
+   [
+    "Sandrine",
+    "Do you have to commute every day?",
+    "Tu dois faire le trajet tous les jours ?"
+   ],
+   [
+    "Didier",
+    "Yes. Despite the distance, it only takes forty minutes by train.",
+    "Oui. Malgré la distance, ça ne prend que quarante minutes en train."
+   ],
+   [
+    "Sandrine",
+    "And your colleagues?",
+    "Et tes collègues ?"
+   ],
+   [
+    "Didier",
+    "Most are great. My manager is quite strict. However, she's always fair.",
+    "La plupart sont super. Ma responsable est assez stricte. Cependant, elle est toujours juste."
+   ],
+   [
+    "Sandrine",
+    "And the salary? You didn't seem sure about it.",
+    "Et le salaire ? Tu n'avais pas l'air convaincu."
+   ],
+   [
+    "Didier",
+    "It's lower than at my old job. I'm much happier, though.",
+    "Il est plus bas que dans mon ancien poste. Je suis beaucoup plus heureux, cela dit."
+   ],
+   [
+    "Sandrine",
+    "That's what matters. Even though money is important, it's not everything.",
+    "C'est ce qui compte. Même si l'argent est important, ce n'est pas tout."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "although",
+   "Although it was cold, we swam.",
+   "bien que, même si"
+  ],
+  [
+   "despite",
+   "Despite the noise, I slept well.",
+   "malgré"
+  ],
+  [
+   "however",
+   "It's cheap. However, it's not very good.",
+   "cependant, pourtant"
+  ],
+  [
+   "nevertheless",
+   "It was risky. Nevertheless, they did it.",
+   "néanmoins"
+  ],
+  [
+   "contrast",
+   "There's a big contrast between the two cities.",
+   "un contraste"
+  ],
+  [
+   "commute",
+   "I commute to Brussels every day.",
+   "faire le trajet domicile-travail"
+  ],
+  [
+   "strict",
+   "My manager is strict but fair.",
+   "strict, sévère"
+  ],
+  [
+   "fair",
+   "It's not fair!",
+   "juste, équitable"
+  ],
+  [
+   "salary",
+   "The salary is lower.",
+   "le salaire (mensuel / annuel)"
+  ],
+  [
+   "experience",
+   "Despite her experience, she didn't get the job.",
+   "l'expérience"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choisir le bon mot",
+   "consigne": "Choisis although, despite ou however.",
+   "items": [
+    [
+     "___ the bad weather, the match went ahead.",
+     "Despite"
+    ],
+    [
+     "___ he studied hard, he failed the exam.",
+     "Although"
+    ],
+    [
+     "The hotel was cheap. ___, it was very clean.",
+     "However"
+    ],
+    [
+     "She went to work ___ having a headache.",
+     "despite"
+    ],
+    [
+     "___ I don't like football, I watched the final.",
+     "Although"
+    ],
+    [
+     "The plan is good. It is, ___, very expensive.",
+     "however"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec la forme correcte après despite / in spite of (nom ou -ing).",
+   "items": [
+    [
+     "Despite ___ (be) very young, she runs her own company.",
+     "being"
+    ],
+    [
+     "In spite of ___ (the / delay), we caught our connection.",
+     "the delay"
+    ],
+    [
+     "Despite ___ (not / speak) French, he found a job in Quebec.",
+     "not speaking"
+    ],
+    [
+     "Despite ___ fact that it was Sunday, the shop was open.",
+     "the"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Réécris la phrase avec le mot entre parenthèses, sans changer le sens.",
+   "items": [
+    [
+     "Although it was raining, they had a picnic. (despite)",
+     "Despite the rain, they had a picnic."
+    ],
+    [
+     "Despite being tired, he went out. (although)",
+     "Although he was tired, he went out."
+    ],
+    [
+     "The car is old, but it works well. (however)",
+     "The car is old. However, it works well."
+    ],
+    [
+     "She didn't get the job although she had good qualifications. (in spite of)",
+     "She didn't get the job in spite of her good qualifications / in spite of having good qualifications."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    [
+     "Despite of the cost, we bought the house.",
+     "Despite the cost, we bought the house."
+    ],
+    [
+     "Although he was rich, but he wasn't happy.",
+     "Although he was rich, he wasn't happy."
+    ],
+    [
+     "Despite she was ill, she came to the meeting.",
+     "Although she was ill, she came to the meeting. / Despite being ill, she came to the meeting."
+    ],
+    [
+     "Even I was late, they waited for me.",
+     "Even though I was late, they waited for me."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    [
+     "Malgré la grève, j'ai pu aller au travail.",
+     "Despite the strike, I was able to get to work."
+    ],
+    [
+     "Bien qu'il soit timide, il a fait un excellent discours.",
+     "Although he is shy, he made / gave an excellent speech."
+    ],
+    [
+     "Le restaurant était cher. Cependant, le repas était délicieux.",
+     "The restaurant was expensive. However, the meal was delicious."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court paragraphe (5 phrases) sur les avantages et les inconvénients de ta ville ou de ton travail, avec although, even though, despite et however.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "I love living in Douala, although the traffic is terrible. Despite the heat, there's always a nice breeze in the evening near the river. Rent is quite high. However, food is still affordable at the local markets. Even though I sometimes miss the calm of my village, I wouldn't move."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "although / though / even though + sujet + verbe (Although it rained, …).",
+  "despite / in spite of + nom ou -ing (Despite the rain / Despite being tired) ; jamais « despite of ».",
+  "despite the fact that + proposition.",
+  "however / nevertheless : début de la 2e phrase + virgule, ou après un point-virgule.",
+  "Pas de but avec although ; « though » en fin de phrase = cela dit, pourtant (oral)."
+ ],
+ "liens": [
+  36,
+  119,
+  120,
+  149
+ ],
+ "refs": [
+  "bc-contrast",
+  "bc-c1-contrast"
+ ]
+}

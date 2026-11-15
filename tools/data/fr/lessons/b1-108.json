@@ -1,0 +1,187 @@
+{
+ "n": 108,
+ "niveau": "B1",
+ "titre": "Be able to et les autres temps de can",
+ "intro": "Can n'existe qu'au présent (can) et sous une forme passée (could). Pour parler de capacité au futur, au present perfect, après un autre modal ou après to, on utilise be able to. Il faut aussi savoir distinguer could (capacité générale passée) et was able to (réussite ponctuelle).",
+ "objectifs": [
+  "Utiliser be able to à tous les temps où can est impossible (will be able to, have been able to, to be able to).",
+  "Distinguer could (capacité générale dans le passé) et was able to / managed to (réussir à faire une chose précise).",
+  "Utiliser couldn't et wasn't able to à la négative, qui sont presque toujours interchangeables.",
+  "Exprimer la capacité avec les verbes de perception et d'esprit (can see, could hear, can remember)."
+ ],
+ "sections": [
+  {
+   "titre": "Can, could et be able to au présent",
+   "texte": [
+    "Can est un modal : il ne change pas, il est suivi de la base verbale sans to, et il n'a ni infinitif ni participe. Au présent, can est la forme normale pour la capacité : « I can swim. »",
+    "Be able to a le même sens, mais il se conjugue (I am able to, she is able to). Au présent, il est plus formel ou insiste sur la difficulté : « After the operation, he is able to walk again. »"
+   ],
+   "tableau": {
+    "entetes": ["", "can / could", "be able to"],
+    "lignes": [
+     ["Présent", "I can speak Ewondo.", "I'm able to speak Ewondo. (plus formel)"],
+     ["Passé", "I could swim when I was five.", "I was able to swim when I was five."],
+     ["Futur", "—", "I'll be able to help you tomorrow."],
+     ["Present perfect", "—", "I haven't been able to sleep."],
+     ["Après to / un modal", "—", "I want to be able to cook. / You might be able to come."]
+    ]
+   }
+  },
+  {
+   "titre": "Les temps où can est impossible",
+   "texte": [
+    "Can n'a ni futur, ni present perfect, ni infinitif, ni forme en -ing. On utilise donc be able to : will be able to (futur), have been able to (present perfect), to be able to (après want, hope, would like…), being able to (après une préposition ou comme sujet).",
+    "On ne peut pas mettre deux modaux à la suite : « You will can » ou « I might can » sont faux. On dit « You will be able to », « I might be able to »."
+   ],
+   "exemples": [
+    ["When I finish this course, I'll be able to understand films in English.", "Futur : will be able to."],
+    ["I haven't been able to call you because my phone was broken.", "Present perfect."],
+    ["I'd like to be able to play the guitar.", "Après would like to."],
+    ["Being able to speak two languages is a big advantage.", "Forme en -ing, sujet de la phrase."]
+   ]
+  },
+  {
+   "titre": "Could ou was able to au passé ?",
+   "texte": [
+    "Could exprime une capacité générale dans le passé, une compétence qu'on avait sur une période : « When I was young, I could run very fast. »",
+    "Pour une réussite précise, à un moment donné, souvent malgré une difficulté, on n'utilise pas could à l'affirmative : on dit was / were able to ou managed to. « The fire was big, but everyone was able to escape » (pas « could escape »).",
+    "À la négative, couldn't et wasn't able to sont tous les deux possibles, dans tous les cas : « I couldn't / wasn't able to find my keys. »",
+    "Exception : avec les verbes de perception (see, hear, smell, taste, feel) et d'esprit (understand, remember), could s'emploie aussi pour un moment précis : « I could see the sea from my window. »"
+   ],
+   "tableau": {
+    "entetes": ["Situation", "Forme", "Exemple"],
+    "lignes": [
+     ["capacité générale passée", "could / was able to", "My grandfather could speak three languages."],
+     ["réussite ponctuelle", "was able to / managed to", "The road was closed, but we managed to find another way."],
+     ["échec (négatif)", "couldn't / wasn't able to", "I couldn't open the door."],
+     ["perception à un moment précis", "could", "We could hear music from the street."]
+    ]
+   },
+   "exemples": [
+    ["After three hours, the firefighters were able to put out the fire.", "Réussite précise : were able to."],
+    ["Despite the traffic, she managed to arrive on time.", "Managed to : réussite malgré une difficulté."]
+   ]
+  },
+  {
+   "titre": "Could : autres sens à ne pas confondre",
+   "texte": [
+    "Could a d'autres emplois, déjà vus : demande polie (Could you help me? — leçon 57), possibilité ou déduction (It could be true — leçon 106), suggestion (We could go to the cinema) et conditionnel (If I had time, I could help — leçon 96).",
+    "Pour une capacité passée qu'on n'a pas utilisée, on emploie could have + participe : « You could have told me! » (tu aurais pu me le dire). Ce point est développé au niveau B2."
+   ],
+   "exemples": [
+    ["We could go to Kribi this weekend.", "Suggestion, pas capacité."],
+    ["You could have called me!", "Reproche : capacité non utilisée."]
+   ]
+  }
+ ],
+ "formule": "can / could (présent, passé) · will be able to · have been able to · to be able to · was able to / managed to = réussite ponctuelle",
+ "prononciation": [
+  "can est faible à l'affirmative /kən/ : « I can swim » /aɪ kən ˈswɪm/. can't est fort /kɑːnt/. La différence s'entend surtout par la voyelle et l'accent.",
+  "could /kʊd/ : le l est muet ; couldn't /ˈkʊdnt/.",
+  "able /ˈeɪbl/ : deux syllabes, la seconde est un l syllabique. « be able to » /bi ˈeɪbl tə/.",
+  "managed /ˈmænɪdʒd/ : accent sur la première syllabe, terminaison /dʒd/."
+ ],
+ "erreurs": [
+  ["I will can help you tomorrow.", "I will be able to help you tomorrow.", "Pas de futur de can : will be able to."],
+  ["I haven't could sleep.", "I haven't been able to sleep.", "Pas de present perfect de can."],
+  ["I want to can drive.", "I want to be able to drive.", "Pas d'infinitif de can : to be able to."],
+  ["The exam was hard, but I could pass it.", "The exam was hard, but I was able to (managed to) pass it.", "Réussite ponctuelle : was able to / managed to."],
+  ["She can to speak Spanish.", "She can speak Spanish.", "Pas de to après can."],
+  ["I managed to found the hotel.", "I managed to find the hotel.", "Après to, la base verbale."],
+  ["You might can come.", "You might be able to come.", "Deux modaux ne se suivent pas."]
+ ],
+ "dialogue": {
+  "contexte": "Une salle de sport à Liège. Kofi, venu d'Accra, parle avec son coach, Valérie, après une blessure au genou.",
+  "lignes": [
+   ["Valérie", "How's your knee? Can you walk normally now?", "Comment va ton genou ? Tu arrives à marcher normalement maintenant ?"],
+   ["Kofi", "Yes, I can, but I haven't been able to run for six weeks.", "Oui, mais je n'ai pas pu courir depuis six semaines."],
+   ["Valérie", "That's normal. Before the injury, how far could you run?", "C'est normal. Avant la blessure, tu pouvais courir quelle distance ?"],
+   ["Kofi", "I could run twenty kilometres easily. Last year I was able to finish the Brussels half marathon in under two hours.", "Je pouvais courir vingt kilomètres facilement. L'an dernier, j'ai réussi à finir le semi-marathon de Bruxelles en moins de deux heures."],
+   ["Valérie", "Impressive! Don't worry. If you do your exercises, you'll be able to run again next month.", "Impressionnant ! Ne t'inquiète pas. Si tu fais tes exercices, tu pourras recourir le mois prochain."],
+   ["Kofi", "I hope so. I'd love to be able to run the race again in May.", "J'espère. J'aimerais tellement pouvoir refaire la course en mai."],
+   ["Valérie", "You might be able to, but we'll see. Yesterday you managed to do all the exercises without pain, right?", "Tu pourras peut-être, mais on verra. Hier, tu as réussi à faire tous les exercices sans douleur, non ?"],
+   ["Kofi", "Yes. I couldn't believe it!", "Oui. Je n'en revenais pas !"]
+  ]
+ },
+ "mots": [
+  ["ability", "She has the ability to explain things clearly.", "la capacité, l'aptitude"],
+  ["manage to", "We managed to catch the last train.", "réussir à, arriver à"],
+  ["succeed in", "He succeeded in passing the exam.", "réussir à (+ -ing)"],
+  ["skill", "Cooking is a useful skill.", "la compétence, le savoir-faire"],
+  ["fluent", "After two years, she was able to speak fluent English.", "courant(e) (langue)"],
+  ["escape", "Everyone was able to escape from the building.", "s'échapper"],
+  ["injury", "After my injury, I couldn't play for months.", "la blessure"],
+  ["recover", "He was able to recover quickly.", "se rétablir, guérir"],
+  ["impossible", "It was impossible to sleep with that noise.", "impossible"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Can, could ou be able to ?",
+   "consigne": "Choisis la forme correcte.",
+   "items": [
+    ["I'm sorry, I (can't / won't be able to) come to your party next Saturday.", "won't be able to"],
+    ["When she was three, she (could / can) already read.", "could"],
+    ["I've (could / been able to) save some money this year.", "been able to"],
+    ["I'd like to (can / be able to) speak Chinese.", "be able to"],
+    ["(Can / Are able) you hear me?", "Can"]
+   ]
+  },
+  {
+   "titre": "2. Compléter avec be able to",
+   "consigne": "Complète avec la bonne forme de be able to.",
+   "items": [
+    ["If it stops raining, we ___ go to the beach tomorrow.", "will be able to ('ll be able to)"],
+    ["Sorry, I ___ answer your emails this week. I've been ill.", "haven't been able to"],
+    ["I love ___ work from home.", "being able to"],
+    ["You might ___ get a cheaper ticket online.", "be able to"]
+   ]
+  },
+  {
+   "titre": "3. Could ou was / were able to ?",
+   "consigne": "Choisis could ou was / were able to. Parfois les deux sont possibles.",
+   "items": [
+    ["My grandmother ___ make beautiful dresses. (compétence générale)", "could (ou was able to)"],
+    ["The bus broke down, but we ___ get a taxi.", "were able to"],
+    ["I ___ find my passport anywhere. (négatif)", "couldn't (ou wasn't able to)"],
+    ["From the hotel we ___ see the mountains.", "could"],
+    ["After many hours, the rescuers ___ reach the village.", "were able to"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["Next year I will can drive.", "Next year I will be able to drive."],
+    ["I hope to can visit you soon.", "I hope to be able to visit you soon."],
+    ["The test was difficult, but I could finish it in time.", "The test was difficult, but I was able to (managed to) finish it in time."],
+    ["He hasn't can find a job yet.", "He hasn't been able to find a job yet."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Je pourrai t'aider demain.", "I'll be able to help you tomorrow."],
+    ["Je n'ai pas pu dormir cette semaine.", "I haven't been able to sleep this week."],
+    ["Malgré la neige, nous avons réussi à arriver à l'heure.", "Despite the snow, we managed to (were able to) arrive on time."],
+    ["Quand j'étais enfant, je savais nager.", "When I was a child, I could swim."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 5 phrases sur tes capacités : une chose que tu sais faire maintenant, une que tu savais faire enfant, une réussite précise (managed to / was able to), une chose que tu n'as pas pu faire récemment et une que tu pourras faire dans le futur.",
+   "items": [
+    ["Exemple de réponse", "I can cook most Cameroonian dishes. When I was a child, I could climb trees very fast. Last month I managed to run ten kilometres without stopping. I haven't been able to read much recently because of work. After this course, I'll be able to write professional emails in English."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Can = présent ; could = passé (capacité générale).",
+  "Futur, present perfect, infinitif, -ing : be able to (will be able to, have been able to, to be able to, being able to).",
+  "Réussite ponctuelle au passé : was able to / managed to, pas could.",
+  "Négatif passé : couldn't = wasn't able to.",
+  "Jamais deux modaux à la suite : might be able to, pas might can."
+ ],
+ "liens": [28, 57, 106, 107],
+ "refs": ["bc-past-ability"]
+}

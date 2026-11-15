@@ -1,0 +1,210 @@
+{
+ "n": 160,
+ "niveau": "B2",
+ "titre": "Les inversions conditionnelles (Should you…, Had I known…)",
+ "intro": "« Should you have any questions… », « Were I in your position… », « Had I known… » : dans un style soutenu, l'anglais peut supprimer « if » et inverser le sujet et l'auxiliaire. On rencontre ces tournures dans les courriels professionnels, les contrats, les discours et la littérature. Elles donnent un ton élégant et sont très appréciées aux examens.",
+ "objectifs": [
+  "Remplacer « if » par l'inversion avec Should (1er conditionnel), Were (2e) et Had (3e et mixte).",
+  "Former les négations correctement : Had I not…, Were it not for…, Had it not been for…",
+  "Utiliser « Were + sujet + to + infinitif » pour une hypothèse peu probable.",
+  "Éviter les erreurs fréquentes (contractions, autres auxiliaires, « if » conservé)."
+ ],
+ "sections": [
+  {
+   "titre": "Le principe",
+   "texte": [
+    "Dans une condition, on peut supprimer « if » et placer l'auxiliaire devant le sujet, comme dans une question. Le sens ne change pas ; seul le registre devient plus soutenu.",
+    "Seuls trois auxiliaires permettent cette inversion : should, were et had. On ne dit pas « Did I know… » ou « Would you need… » pour exprimer une condition.",
+    "La proposition principale reste identique à celle du conditionnel correspondant. La virgule sépare les deux parties quand la condition vient en premier."
+   ],
+   "tableau": {
+    "entetes": ["Type", "Avec if", "Avec inversion"],
+    "lignes": [
+     ["1er conditionnel", "If you need help, call me.", "Should you need help, call me."],
+     ["2e conditionnel (be)", "If I were you, I would accept.", "Were I you, I would accept."],
+     ["2e conditionnel (autre verbe)", "If the company closed, 300 people would lose their jobs.", "Were the company to close, 300 people would lose their jobs."],
+     ["3e conditionnel", "If I had known, I would have come.", "Had I known, I would have come."],
+     ["Mixte", "If she had taken the job, she would be in Paris now.", "Had she taken the job, she would be in Paris now."]
+    ]
+   }
+  },
+  {
+   "titre": "Should : une éventualité (1er conditionnel)",
+   "texte": [
+    "« Should + sujet + base verbale » présente une éventualité possible mais pas forcément probable, souvent avec politesse. C'est la formule type des courriels et lettres professionnels.",
+    "La principale est au présent, à l'impératif, avec will ou un modal : « Should you have any questions, please do not hesitate to contact me. »",
+    "On peut aussi garder « if » avec should : « If you should need anything… » (un peu moins formel)."
+   ],
+   "exemples": [
+    ["Should you have any questions, please do not hesitate to contact me.", "Si vous avez des questions, n'hésitez pas…"],
+    ["Should the item arrive damaged, we will send a replacement free of charge.", "Si l'article arrive endommagé…"],
+    ["Should you change your mind, let me know.", "Si jamais tu changes d'avis…"]
+   ]
+  },
+  {
+   "titre": "Were : l'hypothèse (2e conditionnel)",
+   "texte": [
+    "Avec le verbe « be », on emploie « were » à toutes les personnes : « Were I rich… », « Were she here… ». Jamais « Was I… » dans cette tournure.",
+    "Avec un autre verbe, on utilise « Were + sujet + to + infinitif ». Cette forme insiste sur le caractère peu probable ou théorique de l'hypothèse : « Were the government to raise taxes, there would be protests. »",
+    "La principale contient would, could ou might + base verbale."
+   ],
+   "exemples": [
+    ["Were I in your position, I would speak to a lawyer.", "Si j'étais à votre place…"],
+    ["Were she to resign, the project would collapse.", "Si elle venait à démissionner…"],
+    ["Were we to lose this client, we could not pay the salaries.", "Si nous perdions ce client…"]
+   ]
+  },
+  {
+   "titre": "Had : le passé irréel (3e conditionnel et mixte)",
+   "texte": [
+    "« Had + sujet + participe passé » remplace « If + sujet + had + participe ». C'est l'inversion la plus fréquente, aussi bien à l'écrit qu'à l'oral soutenu.",
+    "La principale peut être au passé (would have + participe) ou au présent dans un conditionnel mixte (would + base verbale) : « Had I left earlier, I would be home by now. »",
+    "Au passif : « Had the bridge been repaired, the accident would never have happened. »"
+   ],
+   "exemples": [
+    ["Had I known you were in Kinshasa, I would have called you.", "Si j'avais su…"],
+    ["Had we left earlier, we wouldn't have missed the start.", "Si nous étions partis plus tôt…"],
+    ["Had she accepted the offer, she would be living in Geneva now.", "Conditionnel mixte."]
+   ]
+  },
+  {
+   "titre": "Les formes négatives",
+   "texte": [
+    "À la forme négative, on ne contracte jamais : « Had I not seen it… », pas « Hadn't I seen it… ». « Not » se place après le sujet.",
+    "Deux expressions très fréquentes : « Were it not for + nom » (s'il n'y avait pas…, sans…) pour le présent, et « Had it not been for + nom » (s'il n'y avait pas eu…, sans…) pour le passé.",
+    "Elles correspondent à « If it weren't for… / If it hadn't been for… » et au plus simple « Without… / But for… »."
+   ],
+   "exemples": [
+    ["Had I not missed the bus, I would have arrived on time.", "Si je n'avais pas raté le bus…"],
+    ["Should you not receive a reply within five days, please call us.", "Si vous ne recevez pas de réponse…"],
+    ["Were it not for my parents, I couldn't afford university.", "Sans mes parents (présent)…"],
+    ["Had it not been for your help, I would never have finished.", "Sans ton aide (passé)…"]
+   ]
+  },
+  {
+   "titre": "Registre et pièges",
+   "texte": [
+    "Ces inversions sont soutenues. Dans une conversation entre amis, « If I'd known… » est plus naturel que « Had I known… », même si cette dernière s'entend aussi.",
+    "On ne garde jamais « if » avec l'inversion : « If had I known » est faux. On ne met pas « will » après « should » : « Should you will need » est faux.",
+    "La condition inversée peut se placer après la principale, sans virgule : « I would have called you had I known. »"
+   ],
+   "exemples": [
+    ["Informal: If I'd known, I'd have come. / Formal: Had I known, I would have come.", "Même sens, registre différent."],
+    ["I would have called you had I known.", "Condition placée en fin de phrase."]
+   ]
+  }
+ ],
+ "formule": "Should + sujet + base · Were + sujet (+ to + infinitif) · Had + sujet (+ not) + participe passé — sans « if »",
+ "prononciation": [
+  "En tête de phrase, l'auxiliaire est prononcé en forme pleine : « Had I known » /hæd aɪ ˈnəʊn/, « Should you » /ʃʊd juː/.",
+  "Liaisons : « Should you » sonne souvent /ʃʊdʒuː/ ; « Were I » /wɜːr aɪ/ fait entendre le r de liaison en anglais britannique.",
+  "« Had I not » : l'accent tombe sur « not » et sur le verbe : /hæd aɪ ˈnɒt ˈmɪst/.",
+  "Intonation : montée à la fin de la condition, descente à la fin de la principale : « Had I known ↗, I would have come ↘ ».",
+  "« Were it not for » : /ˈwɜːr ɪt ˈnɒt fə/ ; « for » est faible."
+ ],
+ "erreurs": [
+  ["Should you will need help, call us.", "Should you need help, call us.", "Après should : base verbale."],
+  ["If had I known, I would have called.", "Had I known, I would have called.", "On supprime « if » quand on inverse."],
+  ["Hadn't I missed the bus, I would have arrived on time.", "Had I not missed the bus, I would have arrived on time.", "Pas de contraction : Had I not…"],
+  ["Were she to resigns, the project would stop.", "Were she to resign, the project would stop.", "to + base verbale."],
+  ["Did I have more money, I would travel.", "If I had more money, I would travel. (ou : Were I to have more money…)", "Seuls should, were et had permettent l'inversion."],
+  ["Had I known, I would come.", "Had I known, I would have come.", "Résultat passé : would have + participe."],
+  ["Was I in your position, I would accept.", "Were I in your position, I would accept.", "Inversion : toujours « were »."]
+ ],
+ "dialogue": {
+  "contexte": "Dans un cabinet d'avocats à Bruxelles, Nicolas, stagiaire, relit avec sa collègue Amélie un courriel destiné à un client canadien.",
+  "lignes": [
+   ["Amélie", "Your email is good, but it's a bit informal for this client. Look at the last line.", "Ton courriel est bien, mais un peu familier pour ce client. Regarde la dernière ligne."],
+   ["Nicolas", "“If you need anything, just ask.” Too casual?", "« Si vous avez besoin de quoi que ce soit, demandez. » Trop familier ?"],
+   ["Amélie", "A little. Try: “Should you require any further information, please do not hesitate to contact us.”", "Un peu. Essaie : « Si vous souhaitez de plus amples informations, n'hésitez pas à nous contacter. »"],
+   ["Nicolas", "Nice. And here I wrote: “If we had received the documents earlier, we would have finished.”", "Bien. Et là, j'ai écrit : « Si nous avions reçu les documents plus tôt, nous aurions fini. »"],
+   ["Amélie", "Better: “Had we received the documents earlier, the file would have been completed last week.”", "Mieux : « Si nous avions reçu les documents plus tôt, le dossier aurait été terminé la semaine dernière. »"],
+   ["Nicolas", "Should I mention the risk of a fine?", "Je devrais mentionner le risque d'amende ?"],
+   ["Amélie", "Yes: “Were the authorities to discover the error, a fine could be imposed.” Polite but clear.", "Oui : « Si les autorités venaient à découvrir l'erreur, une amende pourrait être infligée. » Poli mais clair."],
+   ["Nicolas", "Thanks. Had it not been for your help, I would have sent the first version!", "Merci. Sans ton aide, j'aurais envoyé la première version !"]
+  ]
+ },
+ "mots": [
+  ["require", "Should you require assistance, please call reception.", "avoir besoin de (soutenu), exiger"],
+  ["further", "Please contact us for further information.", "supplémentaire, complémentaire"],
+  ["hesitate", "Do not hesitate to contact me.", "hésiter"],
+  ["assistance", "We are happy to provide assistance.", "l'aide, l'assistance"],
+  ["inconvenience", "We apologise for any inconvenience.", "le désagrément, la gêne"],
+  ["query", "Should you have any queries, please email us.", "une question, une demande de renseignement"],
+  ["enclose", "Please find enclosed a copy of the contract.", "joindre (à un courrier)"],
+  ["notify", "Should the date change, we will notify you.", "informer, notifier"],
+  ["refund", "Should you be unsatisfied, we will give you a full refund.", "un remboursement ; rembourser"],
+  ["terms", "Please read the terms and conditions.", "les conditions (d'un contrat)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quel conditionnel ?",
+   "consigne": "Réécris la condition avec « if » et donne le type de conditionnel.",
+   "items": [
+    ["Should you need help, call me.", "If you need help… (1er conditionnel)"],
+    ["Had we known, we would have come.", "If we had known… (3e conditionnel)"],
+    ["Were I you, I'd accept.", "If I were you… (2e conditionnel)"],
+    ["Had she taken the job, she would be living in Paris now.", "If she had taken the job… (conditionnel mixte : passé → présent)"]
+   ]
+  },
+  {
+   "titre": "2. Should, Were ou Had ?",
+   "consigne": "Complète avec Should, Were ou Had.",
+   "items": [
+    ["___ you have any questions, please contact our office.", "Should"],
+    ["___ I in your position, I would speak to a lawyer.", "Were"],
+    ["___ we left earlier, we wouldn't have missed the start.", "Had"],
+    ["___ the government to raise taxes, many people would protest.", "Were"],
+    ["___ it not been for your help, I would have failed.", "Had"],
+    ["___ the item arrive damaged, we will send a replacement.", "Should"]
+   ]
+  },
+  {
+   "titre": "3. Réécrire avec une inversion",
+   "consigne": "Réécris chaque phrase sans « if », avec une inversion.",
+   "items": [
+    ["If you need more information, please call us.", "Should you need more information, please call us."],
+    ["If I had known about the traffic jam, I would have taken the train.", "Had I known about the traffic jam, I would have taken the train."],
+    ["If I were the manager, I would change the rules.", "Were I the manager, I would change the rules."],
+    ["If it weren't for her advice, I would be lost.", "Were it not for her advice, I would be lost."],
+    ["If they hadn't helped us, we wouldn't have finished on time.", "Had they not helped us, we wouldn't have finished on time."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["Should you will need anything, ask at reception.", "Should you need anything, ask at reception."],
+    ["Hadn't I missed the bus, I would have arrived on time.", "Had I not missed the bus, I would have arrived on time."],
+    ["If had I known, I would have called.", "Had I known, I would have called. (ou : If I had known, I would have called.)"],
+    ["Were she to resigns, the project would stop.", "Were she to resign, the project would stop."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais soutenu avec une inversion.",
+   "items": [
+    ["Si vous avez besoin d'aide, n'hésitez pas à nous contacter.", "Should you need (any) help, do not hesitate to contact us."],
+    ["Si j'avais su, je serais venu.", "Had I known, I would have come."],
+    ["Si j'étais à ta place, je refuserais.", "Were I in your position (Were I you), I would refuse."],
+    ["Sans ton aide, je n'aurais jamais réussi.", "Had it not been for your help, I would never have succeeded."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris la fin d'un courriel professionnel (3 à 4 phrases) à un client, avec au moins trois inversions conditionnelles différentes.",
+   "items": [
+    ["Exemple de réponse", "Had we been informed of the change earlier, we would have adapted the schedule. Were the delivery to be delayed again, we would offer you a 10% discount. Should you require any further information, please do not hesitate to contact me directly."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Inversion conditionnelle = on supprime « if » et on place should / were / had devant le sujet.",
+  "Should you need… (1er) · Were I you… / Were she to resign… (2e) · Had I known… (3e ou mixte).",
+  "Négation sans contraction : Had I not…, Should you not…, Were it not for…, Had it not been for…",
+  "Seuls should, were et had : jamais « Did I… », « Would you… », « Was I… ».",
+  "Registre soutenu : courriels professionnels, contrats, discours."
+ ],
+ "liens": [95, 96, 97, 158, 157, 203],
+ "refs": ["bc-inversion-cond", "bc-cond-3"]
+}

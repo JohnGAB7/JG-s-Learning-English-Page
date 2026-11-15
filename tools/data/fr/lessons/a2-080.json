@@ -1,0 +1,199 @@
+{
+"n": 80,
+"niveau": "A2",
+"titre": "À l’hôtel et en voyage",
+"intro": "Réserver une chambre, s’enregistrer, signaler un problème, passer l’aéroport et demander son chemin à la gare : en voyage, on retrouve toujours les mêmes situations et les mêmes phrases. Cette leçon vous donne les formules polies (Could I…?, I’d like…, leçons 34 et 57) et le vocabulaire indispensable, avec les différences entre anglais britannique et américain.",
+"objectifs": [
+ "Réserver une chambre et préciser le type de chambre, les dates et ce qui est compris.",
+ "S’enregistrer (check in) et quitter l’hôtel (check out) en posant les bonnes questions.",
+ "Signaler poliment un problème dans la chambre.",
+ "Se débrouiller à l’aéroport et à la gare : enregistrement, bagages, embarquement, retards."
+],
+"sections": [
+ {
+  "titre": "Réserver une chambre",
+  "texte": [
+   "Pour réserver : « I’d like to book a room for two nights, from the 12th to the 14th of May. » On précise le type de chambre : « a single room » (une personne), « a double room » (un grand lit pour deux), « a twin room » (deux lits séparés), « a family room ».",
+   "Questions utiles : « How much is it per night? » (combien par nuit ?), « Is breakfast included? » (le petit-déjeuner est-il compris ?), « Is there Wi-Fi in the room? », « Have you got any rooms available? » (avez-vous des chambres libres ?).",
+   "Piège : « a twin room » n’est pas une chambre « jumelle » mais une chambre à deux lits séparés. Si vous voulez un seul grand lit, demandez « a double room »."
+  ],
+  "tableau": {
+   "entetes": ["Anglais", "Sens", "Remarque"],
+   "lignes": [
+    ["a single room", "chambre simple", "pour une personne"],
+    ["a double room", "chambre double", "un grand lit"],
+    ["a twin room", "chambre à deux lits", "deux lits séparés"],
+    ["bed and breakfast (B&B)", "chambre d’hôtes / nuit + petit-déjeuner", "très courant au Royaume-Uni"],
+    ["half board / full board", "demi-pension / pension complète", "repas compris"]
+   ]
+  },
+  "exemples": [
+   ["I’d like to book a double room for three nights, please.", "Je voudrais réserver une chambre double pour trois nuits, s’il vous plaît."],
+   ["How much is it per night, with breakfast?", "C’est combien par nuit, avec le petit-déjeuner ?"],
+   ["Have you got any rooms available for tonight?", "Avez-vous des chambres libres pour ce soir ?"]
+  ]
+ },
+ {
+  "titre": "Arriver et partir : check in, check out",
+  "texte": [
+   "À la réception : « Hello, I’ve got a reservation. The name’s Kamga. » ou « I’d like to check in, please. » La réceptionniste demande souvent : « Can I see your passport, please? » et vous donne « your key card » (la carte-clé) et le numéro de chambre.",
+   "Questions à poser : « What time is breakfast? », « What time is check-out? » (à quelle heure faut-il libérer la chambre ?), « Can I leave my luggage here? » (puis-je laisser mes bagages ici ?).",
+   "« check in » et « check out » sont des verbes à particule (leçon 72) : « We checked in at three. » Le nom s’écrit avec un trait d’union : « Check-in is from 2 p.m. »"
+  ],
+  "exemples": [
+   ["I’d like to check in, please. I’ve got a reservation under the name Nkomo.", "Je voudrais m’enregistrer, s’il vous plaît. J’ai une réservation au nom de Nkomo."],
+   ["What time is check-out? — Eleven o’clock.", "À quelle heure faut-il libérer la chambre ? — Onze heures."],
+   ["Could I have a wake-up call at six, please?", "Pourrait-on me réveiller par téléphone à six heures ?"]
+  ]
+ },
+ {
+  "titre": "Signaler un problème",
+  "texte": [
+   "Commencez poliment : « Excuse me, I’m sorry to bother you, but… » ou « I’m afraid there’s a problem with my room. »",
+   "Problèmes fréquents : « The air conditioning doesn’t work. » / « The shower isn’t working. » (ne marche pas), « There are no towels. » (il n’y a pas de serviettes), « The room is very noisy. » (bruyante), « The room hasn’t been cleaned. »",
+   "Pour demander une solution : « Could someone come and look at it? », « Could I change rooms, please? » (pourrais-je changer de chambre ?). Attention : « change rooms » avec un s."
+  ],
+  "exemples": [
+   ["I’m afraid the heating doesn’t work in room 214.", "Je crains que le chauffage ne marche pas dans la chambre 214."],
+   ["Excuse me, there’s no hot water. Could someone come and look at it?", "Excusez-moi, il n’y a pas d’eau chaude. Quelqu’un pourrait-il venir voir ?"],
+   ["The room is very noisy. Could I change rooms, please?", "La chambre est très bruyante. Pourrais-je changer de chambre ?"]
+  ]
+ },
+ {
+  "titre": "À l’aéroport",
+  "texte": [
+   "Les étapes : « check in » (s’enregistrer) au guichet ou en ligne, « drop off your bags » (déposer ses bagages), « go through security » (passer le contrôle de sécurité), « go to the gate » (aller à la porte d’embarquement), « board the plane » (embarquer).",
+   "Vocabulaire : « a boarding pass » (une carte d’embarquement), « hand luggage » (bagage à main ; US « carry-on »), « checked luggage » (bagage en soute), « a delay » (un retard), « The flight is delayed / cancelled » (le vol est retardé / annulé ; US « canceled »).",
+   "Piège : « luggage » et « baggage » sont indénombrables (leçon 59) : on ne dit pas « two luggages » mais « two bags » ou « two pieces of luggage »."
+  ],
+  "exemples": [
+   ["Can I see your passport and boarding pass, please?", "Puis-je voir votre passeport et votre carte d’embarquement, s’il vous plaît ?"],
+   ["I’ve got one suitcase and one piece of hand luggage.", "J’ai une valise et un bagage à main."],
+   ["Our flight to Montreal is delayed by two hours.", "Notre vol pour Montréal a deux heures de retard."],
+   ["Boarding is at gate 32.", "L’embarquement se fait porte 32."]
+  ]
+ },
+ {
+  "titre": "À la gare et dans les transports",
+  "texte": [
+   "Acheter un billet : « A single to Manchester, please. » (aller simple ; US « one-way ») / « A return to Oxford, please. » (aller-retour ; US « round-trip »).",
+   "Se renseigner : « Which platform does the train to York leave from? » (de quel quai ?), « What time is the next train to London? », « Do I need to change? » (dois-je changer ?).",
+   "Demander son chemin rapidement : « Excuse me, how do I get to the city centre? » / « Is it far from here? » (est-ce loin d’ici ?)."
+  ],
+  "exemples": [
+   ["A return ticket to Brighton, please. — That’s £24.50.", "Un aller-retour pour Brighton, s’il vous plaît. — Ça fait 24,50 livres."],
+   ["Which platform does the next train to Leeds leave from? — Platform 4.", "De quel quai part le prochain train pour Leeds ? — Quai 4."],
+   ["Excuse me, how do I get to the station from here?", "Excusez-moi, comment je vais à la gare d’ici ?"]
+  ],
+  "note": "Au Royaume-Uni, « travel » est surtout un verbe ou un nom indénombrable : « I love travel » se dit, mais pour un voyage précis on dit « a trip » ou « a journey » : « Have a good trip! » (bon voyage !)."
+ }
+],
+"formule": "I’d like to book a double room for two nights. · I’d like to check in / check out, please. · I’m afraid the shower doesn’t work. · A return to…, please. · My flight is delayed.",
+"prononciation": [
+ "« hotel » /həʊˈtel/ : accent sur la deuxième syllabe, « heu-TEL », et le h se prononce.",
+ "« suite » (suite d’hôtel) se dit /swiːt/, comme « sweet ».",
+ "« luggage » /ˈlʌɡɪdʒ/ : « LEU-guidj », la fin rime avec « bridge ».",
+ "« receipt » (reçu) /rɪˈsiːt/ : le p ne se prononce pas.",
+ "« delayed » /dɪˈleɪd/ : deux syllabes, « di-LEÏD », pas trois.",
+ "« queue » (file d’attente) se dit /kjuː/, comme la lettre Q."
+],
+"erreurs": [
+ ["I'd like to reserve a chamber.", "I'd like to book a room.", "« chamber » est vieilli ou spécialisé ; une chambre d’hôtel = a room. « book » est plus courant que « reserve »."],
+ ["I have two luggages.", "I have two bags. / I have two pieces of luggage.", "« luggage » est indénombrable."],
+ ["Is the breakfast comprised?", "Is breakfast included?", "Compris = included."],
+ ["The shower doesn't function.", "The shower doesn't work. / The shower isn't working.", "Pour un appareil, on dit « work »."],
+ ["Our flight has a delay of two hours.", "Our flight is delayed by two hours. / Our flight is two hours late.", "Tournure naturelle : be delayed."],
+ ["I'd like a return-trip for Oxford.", "A return to Oxford, please.", "Aller-retour = a return (GB) / a round-trip (US) ; destination avec « to »."],
+ ["Good travel!", "Have a good trip! / Have a safe journey!", "Bon voyage = Have a good trip!"],
+ ["Can I change of room?", "Could I change rooms?", "Pas de « of » ; « rooms » au pluriel."]
+],
+"dialogue": {
+ "contexte": "Amina, de Yaoundé, arrive le soir dans un hôtel de Londres après un vol retardé.",
+ "lignes": [
+  ["Receptionist", "Good evening. How can I help you?", "Bonsoir. Que puis-je faire pour vous ?"],
+  ["Amina", "Hello. I’d like to check in, please. I’ve got a reservation under the name Abena.", "Bonjour. Je voudrais m’enregistrer. J’ai une réservation au nom d’Abena."],
+  ["Receptionist", "Yes, a single room for three nights. Can I see your passport, please?", "Oui, une chambre simple pour trois nuits. Puis-je voir votre passeport ?"],
+  ["Amina", "Here you are. Sorry I’m late, my flight was delayed.", "Voici. Désolée d’être en retard, mon vol a été retardé."],
+  ["Receptionist", "No problem. Here’s your key card. You’re in room 308, on the third floor.", "Pas de souci. Voici votre carte-clé. Vous êtes chambre 308, au troisième étage."],
+  ["Amina", "Thank you. Is breakfast included? And what time is it?", "Merci. Le petit-déjeuner est-il compris ? Et à quelle heure est-il servi ?"],
+  ["Receptionist", "Yes, it is. It’s from seven to ten in the restaurant.", "Oui. Il est servi de sept à dix heures au restaurant."],
+  ["Amina", "(Later, on the phone) Hello, I’m afraid the air conditioning doesn’t work in room 308.", "(Plus tard, au téléphone) Allô, je crains que la climatisation ne marche pas dans la chambre 308."],
+  ["Receptionist", "I’m so sorry. I’ll send someone up right away.", "Je suis vraiment désolée. J’envoie quelqu’un tout de suite."],
+  ["Amina", "Thank you very much.", "Merci beaucoup."]
+ ]
+},
+"mots": [
+ ["book", "I booked a twin room online.", "réserver"],
+ ["check in", "You can check in from 2 p.m.", "s’enregistrer (à l’hôtel, à l’aéroport)"],
+ ["check out", "We have to check out before eleven.", "libérer la chambre, quitter l’hôtel"],
+ ["available", "Have you got any rooms available?", "disponible, libre"],
+ ["luggage", "Can I leave my luggage at reception?", "les bagages (indénombrable)"],
+ ["boarding pass", "Keep your boarding pass with your passport.", "carte d’embarquement"],
+ ["delayed", "The train is delayed by twenty minutes.", "retardé, en retard"],
+ ["platform", "The train leaves from platform 6.", "quai (de gare)"],
+ ["return ticket", "A return ticket is cheaper than two singles.", "billet aller-retour (GB)"],
+ ["trip", "Have a good trip!", "voyage, déplacement"]
+],
+"exercices": [
+ {
+  "titre": "1. Quelle chambre ?",
+  "consigne": "Donne le type de chambre : single, double ou twin.",
+  "items": [
+   ["Je voyage seul.", "a single room"],
+   ["Un couple qui veut un grand lit.", "a double room"],
+   ["Deux collègues qui veulent chacun leur lit.", "a twin room"],
+   ["Deux amis qui ne veulent pas partager un lit.", "a twin room"]
+  ]
+ },
+ {
+  "titre": "2. Compléter",
+  "consigne": "Complète avec un mot.",
+  "items": [
+   ["I’d like to ___ in, please. I’ve got a reservation.", "check"],
+   ["Is breakfast ___ in the price?", "included"],
+   ["How much is it ___ night?", "per"],
+   ["The flight to Douala is ___ by an hour.", "delayed"],
+   ["Which ___ does the train to Bath leave from?", "platform"],
+   ["Can I see your passport and ___ pass, please?", "boarding"]
+  ]
+ },
+ {
+  "titre": "3. Signaler un problème",
+  "consigne": "Écris une phrase polie pour signaler le problème et demander une solution.",
+  "items": [
+   ["La douche ne marche pas.", "I’m afraid the shower doesn’t work. Could someone come and look at it?"],
+   ["Il n’y a pas de serviettes.", "Excuse me, there are no towels in my room. Could I have some, please?"],
+   ["La chambre est trop bruyante.", "I’m sorry, but my room is very noisy. Could I change rooms, please?"],
+   ["Le Wi-Fi ne marche pas.", "Excuse me, the Wi-Fi isn’t working in my room. Could you help me?"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["J’ai deux bagages.", "I’ve got two bags. / I’ve got two pieces of luggage."],
+   ["Un aller-retour pour Cambridge, s’il vous plaît.", "A return to Cambridge, please. (US : a round-trip ticket)"],
+   ["À quelle heure faut-il libérer la chambre ?", "What time is check-out?"],
+   ["Notre vol est annulé.", "Our flight is cancelled. (US : canceled)"],
+   ["Bon voyage !", "Have a good trip!"],
+   ["Avez-vous des chambres libres ce soir ?", "Have you got any rooms available tonight?"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Écris un court dialogue (6 à 8 répliques) : tu arrives à l’hôtel, tu t’enregistres, tu poses deux questions, puis tu signales un problème.",
+  "items": [
+   ["Exemple de réponse", "Receptionist: Good afternoon. Can I help you? Me: Yes, I’d like to check in, please. I’ve got a reservation under the name Fotso. Receptionist: A double room for two nights. Can I see your passport? Me: Here you are. What time is breakfast? Receptionist: From seven to half past nine. Me: And can I leave my luggage here tomorrow after check-out? Receptionist: Of course. (Later) Me: Hello, I’m afraid there’s no hot water in room 112. Could someone come and look at it? Receptionist: I’m so sorry, I’ll send someone right away."]
+  ]
+ }
+],
+"a_retenir": [
+ "Réserver : I’d like to book a single / double / twin room for two nights. Twin = deux lits séparés.",
+ "À l’hôtel : check in (arriver), check out (partir) ; Is breakfast included? What time is check-out?",
+ "Problème : I’m afraid the… doesn’t work. Could someone come and look at it? Could I change rooms?",
+ "Aéroport : boarding pass, hand luggage, gate, delayed, cancelled. « luggage » est indénombrable.",
+ "Gare : a single (aller simple) / a return (aller-retour) to… ; Which platform…? Bon voyage = Have a good trip!"
+],
+"liens": [34, 57, 59, 72, 79],
+"refs": ["cam-using", "bc-a1a2"]
+}

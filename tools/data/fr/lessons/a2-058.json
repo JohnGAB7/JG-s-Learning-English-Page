@@ -1,0 +1,202 @@
+{
+ "n": 58,
+ "niveau": "A2",
+ "titre": "Much, many, a lot of, a few, a little",
+ "intro": "Ces mots expriment une quantité : « beaucoup, peu, quelques ». Le bon choix dépend de deux questions : le nom est-il dénombrable ou indénombrable, et la phrase est-elle affirmative, négative ou interrogative ?",
+ "objectifs": [
+  "Choisir entre much (indénombrable) et many (dénombrable pluriel).",
+  "Utiliser a lot of / lots of dans les phrases affirmatives, et much / many surtout dans les négations et les questions.",
+  "Distinguer a few / a little (un peu, quelques : sens positif) et few / little (peu : sens négatif).",
+  "Poser des questions avec How much…? / How many…? et utiliser too much, too many, so many, plenty of."
+ ],
+ "sections": [
+  {
+   "titre": "Dénombrable ou indénombrable : le point de départ",
+   "texte": [
+    "Un nom dénombrable se compte : one apple, two apples ; il a un pluriel. Un nom indénombrable ne se compte pas directement : water, money, time, bread, information ; il n'a pas de pluriel et prend un verbe au singulier (la leçon 59 détaille ces noms et leurs pièges).",
+    "« Many » et « a few » vont avec les dénombrables au pluriel. « Much » et « a little » vont avec les indénombrables. « A lot of » et « lots of » vont avec les deux."
+   ],
+   "tableau": {
+    "entetes": ["", "Dénombrable pluriel (books)", "Indénombrable (money)"],
+    "lignes": [
+     ["beaucoup", "many books / a lot of books", "much money / a lot of money"],
+     ["quelques, un peu", "a few books", "a little money"],
+     ["peu (pas assez)", "few books", "little money"],
+     ["combien ?", "How many books?", "How much money?"],
+     ["trop", "too many books", "too much money"]
+    ]
+   }
+  },
+  {
+   "titre": "Much / many ou a lot of ?",
+   "texte": [
+    "Dans une phrase affirmative, l'anglais courant utilise « a lot of » ou « lots of » (plus familier) : I've got a lot of friends. She drinks lots of coffee. « Much » à l'affirmative sonne très formel ou étrange : on ne dit pas « I have much money ».",
+    "Dans les négations et les questions, « much » et « many » sont naturels : I haven't got much time. Are there many people? « A lot of » reste possible : Have you got a lot of work?",
+    "« Many » s'emploie un peu plus facilement à l'affirmative que « much », surtout à l'écrit : Many people think that… Et après « too, so, as, very », much et many sont normaux à l'affirmative : There are too many cars. I've got so much work!"
+   ],
+   "exemples": [
+    ["There are a lot of tourists in Bruges in August.", "Il y a beaucoup de touristes à Bruges en août."],
+    ["We don't have much money this month.", "Nous n'avons pas beaucoup d'argent ce mois-ci."],
+    ["Did you take many photos?", "Tu as pris beaucoup de photos ?"],
+    ["I've got so much homework tonight!", "J'ai tellement de devoirs ce soir !"]
+   ],
+   "note": "Sans nom, on dit « a lot » (et non « a lot of ») : I like it a lot. Thanks a lot. Et « much » seul est très fréquent dans les négations : I don't eat much."
+  },
+  {
+   "titre": "A few / a little : un petit peu, quelques",
+   "texte": [
+    "« A few » + dénombrable pluriel signifie « quelques » (un petit nombre, mais suffisant) : I've got a few friends in Lyon. « A little » + indénombrable signifie « un peu de » : Can I have a little milk?",
+    "« A little » s'emploie aussi devant un adjectif ou seul, au sens de « un peu » : I'm a little tired. Plus courant à l'oral : « a bit » (I'm a bit tired, a bit of sugar)."
+   ],
+   "exemples": [
+    ["Wait a few minutes, please.", "Attends quelques minutes, s'il te plaît."],
+    ["I speak a little Spanish.", "Je parle un peu espagnol."],
+    ["Add a little salt.", "Ajoute un peu de sel."]
+   ]
+  },
+  {
+   "titre": "Few / little sans « a » : un sens négatif",
+   "texte": [
+    "Sans « a », le sens change : « few » et « little » veulent dire « peu, pas assez », avec une idée négative ou de regret. Comparer : I've got a few friends (j'ai quelques amis, ça va) / I've got few friends (j'ai peu d'amis, c'est triste).",
+    "Ces formes sont un peu soutenues. À l'oral, on dit souvent « not many / not much » : I haven't got many friends. There isn't much hope."
+   ],
+   "tableau": {
+    "entetes": ["Phrase", "Sens", "Traduction"],
+    "lignes": [
+     ["We have a little time.", "positif : c'est suffisant", "Nous avons un peu de temps."],
+     ["We have little time.", "négatif : pas assez", "Nous avons peu de temps."],
+     ["A few people came.", "positif : quelques-uns", "Quelques personnes sont venues."],
+     ["Few people came.", "négatif : presque personne", "Peu de gens sont venus."]
+    ]
+   }
+  },
+  {
+   "titre": "Autres expressions utiles",
+   "texte": [
+    "« Plenty of » (largement assez de) va avec les deux types de noms : We've got plenty of time. There are plenty of chairs.",
+    "« Too much / too many » = trop (plus que nécessaire) : too much sugar, too many people. Ne confonds pas avec « very much » : I like it very much (je l'aime beaucoup), où « much » est un adverbe.",
+    "« How much » sert aussi à demander un prix : How much is this jacket? How much does it cost?"
+   ],
+   "exemples": [
+    ["Don't hurry. We've got plenty of time.", "Pas de précipitation. On a largement le temps."],
+    ["There's too much noise in this café.", "Il y a trop de bruit dans ce café."],
+    ["How much are the tickets? — Twelve euros each.", "Combien coûtent les billets ? — Douze euros chacun."]
+   ]
+  }
+ ],
+ "formule": "many / a few + pluriel · much / a little + indénombrable · a lot of + les deux · much / many surtout en négation et en question",
+ "prononciation": [
+  "« a lot of » se lie : /ə ˈlɒt əv/, souvent /əˈlɒdə/ en anglais américain rapide (« a lotta »).",
+  "« much » /mʌtʃ/ et « many » /ˈmeni/ : le a de many se prononce comme le e de « bed ».",
+  "« a few » /ə ˈfjuː/ : le « a » est faible et ne doit pas disparaître, sinon le sens devient négatif (few).",
+  "« a little » /ə ˈlɪtl/ : en américain, le t ressemble à un d rapide (/ˈlɪdl/).",
+  "Dans « How much is it? », l'accent tombe sur MUCH, la voix descend à la fin."
+ ],
+ "erreurs": [
+  ["I have much friends.", "I have a lot of friends.", "Many pour les dénombrables ; à l'affirmative, a lot of est plus naturel."],
+  ["How many money have you got?", "How much money have you got?", "Money est indénombrable → much."],
+  ["There isn't many traffic.", "There isn't much traffic.", "Traffic est indénombrable."],
+  ["I've got a lot of homeworks.", "I've got a lot of homework.", "Homework est indénombrable, sans -s."],
+  ["I like it a lot of.", "I like it a lot.", "Sans nom après : a lot."],
+  ["Can I have a few water?", "Can I have a little water?", "Water est indénombrable → a little."],
+  ["There are too much cars.", "There are too many cars.", "Cars est dénombrable → too many."],
+  ["I speak little English, it's fine.", "I speak a little English.", "Sans « a », le sens devient négatif."]
+ ],
+ "dialogue": {
+  "contexte": "Deux amis préparent un dîner pour huit personnes dans une colocation à Montréal.",
+  "lignes": [
+   ["Lucie", "How many people are coming tonight?", "Combien de personnes viennent ce soir ?"],
+   ["Omar", "Eight. So we need a lot of rice. How much rice have we got?", "Huit. Donc il nous faut beaucoup de riz. Combien de riz avons-nous ?"],
+   ["Lucie", "Not much. Only a little. And there are only a few tomatoes.", "Pas beaucoup. Juste un peu. Et il n'y a que quelques tomates."],
+   ["Omar", "OK, I'll go to the shop. Do we need many drinks?", "D'accord, je vais au magasin. Il nous faut beaucoup de boissons ?"],
+   ["Lucie", "No, we've got plenty of juice. But buy a few bottles of water.", "Non, on a largement assez de jus. Mais achète quelques bouteilles d'eau."],
+   ["Omar", "And bread? We haven't got much.", "Et le pain ? On n'en a pas beaucoup."],
+   ["Lucie", "Buy two baguettes. Don't buy too many sweets this time!", "Achète deux baguettes. N'achète pas trop de bonbons cette fois !"],
+   ["Omar", "Ha ha, OK. I've got very little money anyway.", "Ha ha, d'accord. De toute façon, j'ai très peu d'argent."]
+  ]
+ },
+ "mots": [
+  ["quantity", "We need a small quantity of sugar.", "la quantité"],
+  ["plenty of", "There's plenty of food.", "largement assez de, beaucoup de"],
+  ["amount", "A large amount of money.", "la quantité, le montant (avec un indénombrable)"],
+  ["number", "A large number of people.", "le nombre (avec un dénombrable)"],
+  ["enough", "Have we got enough chairs?", "assez (de)"],
+  ["spare", "Have you got any spare time?", "libre, disponible ; de rechange"],
+  ["several", "I've got several questions.", "plusieurs"],
+  ["bottle", "Buy a few bottles of water.", "la bouteille"],
+  ["traffic", "There isn't much traffic today.", "la circulation (indénombrable)"],
+  ["noise", "There's too much noise.", "le bruit"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Much ou many ?",
+   "consigne": "Complète avec much ou many.",
+   "items": [
+    ["How ___ sisters have you got?", "many"],
+    ["I haven't got ___ time.", "much"],
+    ["Are there ___ shops in your town?", "many"],
+    ["She doesn't drink ___ coffee.", "much"],
+    ["How ___ is this bag?", "much"],
+    ["There aren't ___ students today.", "many"]
+   ]
+  },
+  {
+   "titre": "2. A few ou a little ?",
+   "consigne": "Complète avec a few ou a little.",
+   "items": [
+    ["Can I ask you ___ questions?", "a few"],
+    ["I need ___ help with this exercise.", "a little"],
+    ["We're staying in Kribi for ___ days.", "a few"],
+    ["Put ___ oil in the pan.", "a little"],
+    ["There are ___ biscuits left.", "a few"]
+   ]
+  },
+  {
+   "titre": "3. Choisir la forme naturelle",
+   "consigne": "Choisis la forme la plus naturelle à l'oral.",
+   "items": [
+    ["I've got (much / a lot of) work this week.", "a lot of"],
+    ["We don't have (much / many) bread.", "much"],
+    ["There are (too much / too many) people here.", "too many"],
+    ["Thank you (a lot / a lot of)!", "a lot"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["How many money do you need?", "How much money do you need?"],
+    ["I have much friends in Ghent.", "I have a lot of friends in Ghent."],
+    ["There's too many sugar in this tea.", "There's too much sugar in this tea."],
+    ["Can you give me a few information?", "Can you give me a little information? / Can you give me some information?"],
+    ["We've got a lot of homeworks.", "We've got a lot of homework."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Il n'y a pas beaucoup de circulation aujourd'hui.", "There isn't much traffic today."],
+    ["J'ai quelques amis à Toronto.", "I've got a few friends in Toronto. / I have a few friends in Toronto."],
+    ["Combien de personnes travaillent ici ?", "How many people work here?"],
+    ["Nous avons largement le temps.", "We've got plenty of time. / We have plenty of time."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Décris ta ville ou ta cuisine en cinq phrases avec much, many, a lot of, a few et a little.",
+   "items": [
+    ["Exemple de réponse", "There are a lot of restaurants in my town, but there aren't many parks. There isn't much traffic at night. In my kitchen there are a few apples and a little cheese. I haven't got much time to cook during the week."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "many / a few / few + pluriel ; much / a little / little + indénombrable ; a lot of + les deux.",
+  "Affirmatif : a lot of ; négatif et question : much / many.",
+  "a few / a little = quelques, un peu (positif) ; few / little = peu (négatif).",
+  "How many + pluriel ? How much + indénombrable ? How much is it? = prix.",
+  "too much / too many = trop ; plenty of = largement assez ; sans nom : a lot."
+ ],
+ "liens": [30, 31, 48, 59],
+ "refs": ["bc-quantifiers", "bc-countable"]
+}

@@ -1,0 +1,200 @@
+{
+"n": 25,
+"niveau": "A1",
+"titre": "Colours and clothes",
+"intro": "We use colours and clothes to describe people, to go shopping and to choose what to wear. Two points need care: the colour goes before the noun, and some clothes are always plural (trousers, jeans).",
+"objectifs": [
+ "Name colours and make them more exact (light blue, dark green, bright red).",
+ "Name common clothes and accessories, with British and American differences.",
+ "Use words that are always plural correctly: trousers, jeans, shorts, a pair of…",
+ "Choose the right verb: wear, carry, put on, take off, try on."
+],
+"sections": [
+ {
+  "titre": "Colours",
+  "texte": [
+   "A colour adjective goes before the noun and never takes an s: “a red car”, “red cars”. After “be”, it is alone: “The car is red.”",
+   "To be more exact: “light” (pale), “dark” (deep), “bright” (strong and shining): “light blue”, “dark green”. In speaking you can add “-ish”: “greenish” (more or less green).",
+   "The question is “What colour is it?”. Spelling: “colour”, “grey” in British English; “color”, “gray” in American English."
+  ],
+  "tableau": {
+   "entetes": ["Colour", "Example", "Colour", "Example"],
+   "lignes": [
+    ["red", "a red apple", "black", "black coffee"],
+    ["blue", "the blue sky", "white", "white snow"],
+    ["green", "green grass", "grey (US gray)", "grey clouds"],
+    ["yellow", "a yellow taxi", "brown", "brown eyes"],
+    ["orange", "an orange T-shirt", "pink", "pink flowers"],
+    ["purple", "a purple dress", "beige", "beige trousers"]
+   ]
+  },
+  "exemples": [
+   ["What colour is your car? — It's dark blue.", "Question and answer."],
+   ["I love bright colours.", "bright = strong."],
+   ["She's got a light grey coat.", "light = pale."]
+  ],
+  "note": "“Maroon” is a very dark red. For the colour of chocolate or wood, say “brown”."
+ },
+ {
+  "titre": "Clothes and accessories",
+  "texte": [
+   "The word “clothes” is always plural and has no singular. For one thing, say “a piece of clothing” or use its name. “Cloth” (no e, no s) means material, or a piece of material for cleaning."
+  ],
+  "tableau": {
+   "entetes": ["Group", "British English", "Note"],
+   "lignes": [
+    ["Tops", "a shirt · a T-shirt · a blouse · a jumper · a jacket · a coat", "US: sweater for jumper"],
+    ["Bottoms", "trousers · jeans · shorts · a skirt", "US: pants for trousers"],
+    ["One piece", "a dress · a suit", "a suit = jacket + trousers or skirt"],
+    ["Feet", "shoes · trainers · boots · sandals · socks", "US: sneakers for trainers"],
+    ["Accessories", "a hat · a cap · a scarf · a belt · a tie · a bag", "a tie: for a shirt"]
+   ]
+  },
+  "exemples": [
+   ["He's wearing a white shirt and a black tie.", "Colour before each noun."],
+   ["Take a jumper. It's cold in the evening.", "jumper = sweater."]
+  ],
+  "note": "In British English, “pants” means underwear! For the clothes on your legs, say “trousers” in the UK and “pants” in the USA and Canada."
+ },
+ {
+  "titre": "Clothes that are always plural",
+  "texte": [
+   "Clothes with two equal parts (two legs) are always plural in English: trousers, jeans, shorts, pyjamas (US pajamas), tights. The verb is plural: “My jeans are new.”",
+   "To count them, say “a pair of”: “a pair of jeans”, “two pairs of trousers”. Never say “a jean” or “a trouser”.",
+   "The same is true for “glasses” and “scissors”. We also count shoes and socks in pairs: “a pair of shoes”."
+  ],
+  "exemples": [
+   ["My new jeans are too long.", "Plural verb: are."],
+   ["I need a pair of black trousers for work.", "a pair of + plural noun."],
+   ["These shorts are very comfortable.", "these + plural."]
+  ]
+ },
+ {
+  "titre": "Wear, carry, put on, take off, try on",
+  "texte": [
+   "“Wear” is for clothes, glasses or jewellery on your body. “Carry” is for things you hold and take with you (a bag, a child, a suitcase).",
+   "“Put on” = start to wear; “take off” = remove; “try on” = wear something in a shop to check it; “get dressed” = put on your clothes.",
+   "For what you are wearing today, use the present continuous; for a habit, use the present simple (lesson 9): “Today I'm wearing jeans, but I usually wear a suit.”"
+  ],
+  "tableau": {
+   "entetes": ["Verb", "Meaning", "Example"],
+   "lignes": [
+    ["wear", "have on your body", "She always wears a hat."],
+    ["carry", "hold and take with you", "He's carrying a big suitcase."],
+    ["put on", "start to wear", "Put on your coat!"],
+    ["take off", "remove", "Please take off your shoes."],
+    ["try on", "wear to check in a shop", "Can I try on this dress?"]
+   ]
+  },
+  "exemples": [
+   ["Today I'm wearing jeans, but I usually wear a suit.", "Now vs habit."],
+   ["Put on your boots, it's raining.", "put on = start to wear."]
+  ]
+ }
+],
+"formule": "colour + clothes (a red dress) · a pair of + jeans / trousers / shoes · wear (on your body) ≠ carry (in your hand)",
+"prononciation": [
+ "“colour” /ˈkʌlə/: the first o sounds like the u in “but”.",
+ "“clothes” /kləʊðz/: one syllable. Many English speakers just say /kləʊz/, like “close”.",
+ "“shirt” /ʃɜːt/ and “skirt” /skɜːt/ have the same long vowel /ɜː/, like in “bird”.",
+ "“suit” /suːt/ rhymes with “boot”; you don't say the i.",
+ "“purple” /ˈpɜːpl/ and “orange” /ˈɒrɪndʒ/: stress on the first syllable; the end of “orange” sounds like “-rinj”."
+],
+"erreurs": [
+ ["a shirt blue", "a blue shirt", "The colour goes before the noun."],
+ ["blues shoes", "blue shoes", "Adjectives never take an s."],
+ ["My trouser is black.", "My trousers are black.", "Trousers, jeans, shorts: always plural."],
+ ["I want a jean.", "I want a pair of jeans. / I want some jeans.", "Count them with “a pair of”."],
+ ["I carry a suit to work.", "I wear a suit to work.", "Clothes on your body: “wear”."],
+ ["Which colour is your car?", "What colour is your car?", "The normal question is “What colour…?”."],
+ ["It's cold, wear your coat!", "It's cold, put on your coat!", "The action of starting to wear: “put on”."],
+ ["I need new cloths.", "I need new clothes.", "“Clothes” = things you wear; “cloth” = material."]
+],
+"dialogue": {
+ "contexte": "In Lyon, Chloé helps her friend Ibrahim choose clothes for a wedding.",
+ "lignes": [
+  ["Ibrahim", "What do I wear to the wedding on Saturday?", "wear + clothes."],
+  ["Chloé", "What about your dark blue suit and a white shirt?", "“What about…?” = a suggestion."],
+  ["Ibrahim", "Good idea. And a tie? I've got a red one and a green one.", "“one” = tie, so we don't repeat it."],
+  ["Chloé", "The red one. Red and dark blue look great together.", "Colours as nouns: red, dark blue."],
+  ["Ibrahim", "And shoes? My black shoes are old.", "Plural: shoes are."],
+  ["Chloé", "Let's go to the shops. You need a new pair.", "a pair (of shoes)."],
+  ["Ibrahim", "OK. Can I wear my trainers to the party after?", "trainers = sports shoes (US sneakers)."],
+  ["Chloé", "Ha! Maybe. But take off your tie first!", "take off = remove."]
+ ]
+},
+"mots": [
+ ["shirt", "He's wearing a white shirt.", "a piece of clothing with buttons and a collar"],
+ ["trousers", "These trousers are too short.", "clothing for your legs (US: pants)"],
+ ["dress", "What a beautiful dress!", "one piece of clothing for a woman, top and skirt together"],
+ ["skirt", "She's got a long black skirt.", "clothing for women that hangs from the waist"],
+ ["jacket", "Take a jacket, it's windy.", "a short coat"],
+ ["shoes", "I need new shoes.", "things you wear on your feet"],
+ ["coat", "Put on your coat.", "a long, warm piece of clothing you wear outside"],
+ ["wear", "I wear glasses.", "have clothes or glasses on your body"],
+ ["put on", "Put on your hat, it's sunny.", "start to wear clothes"],
+ ["pair", "I need a new pair of jeans.", "two things of the same kind used together"]
+],
+"exercices": [
+ {
+  "titre": "1. Mixing colours",
+  "consigne": "What colour do you get?",
+  "items": [
+   ["blue + yellow", "green"],
+   ["red + white", "pink"],
+   ["black + white", "grey (US gray)"],
+   ["red + yellow", "orange"],
+   ["blue + red", "purple"]
+  ]
+ },
+ {
+  "titre": "2. Is or are?",
+  "consigne": "Complete with is or are.",
+  "items": [
+   ["My jeans ___ new.", "are"],
+   ["This dress ___ beautiful.", "is"],
+   ["Your shoes ___ dirty.", "are"],
+   ["Her trousers ___ black.", "are"],
+   ["My jacket ___ warm.", "is"],
+   ["These shorts ___ comfortable.", "are"]
+  ]
+ },
+ {
+  "titre": "3. The right verb",
+  "consigne": "Complete with put on, wears, carries or take off.",
+  "items": [
+   ["It's cold. ___ your coat!", "Put on"],
+   ["He always ___ a suit at work.", "wears"],
+   ["She ___ her bag in her hand.", "carries"],
+   ["___ your shoes, please. The floor is clean.", "Take off"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["She's wearing a dress red.", "She's wearing a red dress."],
+   ["My trousers is grey.", "My trousers are grey. (US: My pants are gray.)"],
+   ["I've got two jeans.", "I've got two pairs of jeans."],
+   ["Which colour is your bag?", "What colour is your bag?"],
+   ["Can I try these shoes on me?", "Can I try on these shoes? / Can I try these shoes on?"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "In three or four sentences, describe what you are wearing today and what you usually wear for work or school. Give the colours.",
+  "items": [
+   ["Model answer", "Today I'm wearing blue jeans, a grey jumper and white trainers. At work I usually wear black trousers, a shirt and a dark jacket. My favourite colour is green, so I often wear a green scarf."]
+  ]
+ }
+],
+"a_retenir": [
+ "The colour goes before the noun and never changes: a red car, red cars. Question: What colour is it?",
+ "trousers, jeans, shorts, pyjamas, glasses: always plural; to count them: a pair of.",
+ "wear = on your body; carry = in your hands; put on = start to wear; take off = remove; try on = check in a shop.",
+ "UK / US: trousers / pants, jumper / sweater, trainers / sneakers, colour / color, grey / gray.",
+ "clothes (things you wear) ≠ cloth (material)."
+],
+"liens": [8, 9, 24, 35, 38],
+"refs": ["cam-adj", "cam-nouns"]
+}

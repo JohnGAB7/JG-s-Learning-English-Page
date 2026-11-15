@@ -1,0 +1,191 @@
+{
+"n": 117,
+"niveau": "B1",
+"titre": "So and such",
+"intro": "“So” and “such” make an adjective or a noun stronger: “It was so hot!”, “It was such a hot day!”. They also express a result with “that”: “so tired that I fell asleep”. The rule is simple, but the two words are often confused.",
+"objectifs": [
+"Use so + adjective / adverb and such (a / an) + (adjective) + noun.",
+"Choose between so many / so much / so few / so little and such a lot of.",
+"Express a result with so … that and such … that.",
+"Tell so / such apart from very and avoid “so a” or “such beautiful”."
+],
+"sections": [
+{
+"titre": "So + adjective or adverb",
+"texte": [
+"“So” goes before an adjective on its own (with no noun after it) or before an adverb. It is more expressive than “very”: it often shows an emotion or reaction (surprise, admiration, annoyance).",
+"The difference from very: “very” just gives information (“The film was very long”); “so” adds emotion or leads to a result (“The film was so long! I nearly fell asleep”)."
+],
+"exemples": [
+["The view from Mount Cameroon is so beautiful!", "so + adjective: emotion."],
+["You speak so quickly — I can't follow you.", "so + adverb."],
+["I'm so happy you came!", "so + adjective."]
+]
+},
+{
+"titre": "Such + (a / an) + adjective + noun",
+"texte": [
+"“Such” goes before a noun phrase. With a singular countable noun, put “a / an” AFTER such: such a + (adjective) + noun. With a plural or uncountable noun, there is no article: such + (adjective) + noun.",
+"Remember: “so + adjective” when the adjective is alone; “such + noun” as soon as there is a noun."
+],
+"tableau": {
+"entetes": ["Pattern", "Example", "Note"],
+"lignes": [
+["so + adjective", "The day was so hot.", "no noun"],
+["such a + adjective + singular noun", "It was such a hot day.", "a after such"],
+["such + adjective + plural noun", "They are such kind people.", "no article"],
+["such + adjective + uncountable noun", "We had such good weather.", "no article"],
+["such a + noun (no adjective)", "He's such a liar!", "a strong opinion"]
+]
+}
+},
+{
+"titre": "So many, so much, such a lot of",
+"texte": [
+"Before a quantity, use so + many / much / few / little: so many people (countable), so much traffic (uncountable), so few chairs, so little time.",
+"“Such a lot of” is the informal equivalent for both kinds of noun: such a lot of work, such a lot of problems. Don't say “such many” or “so a lot of”."
+],
+"exemples": [
+["There were so many people at the concert in Abidjan!", "so many + plural."],
+["I have so much work this week.", "so much + uncountable."],
+["We had such a lot of fun at the wedding.", "such a lot of + uncountable."]
+]
+},
+{
+"titre": "Result: so … that / such … that",
+"texte": [
+"Add “that” + a clause to show the result. In speech, “that” is often left out: “I was so tired I fell asleep on the bus.”",
+"The same patterns apply: so + adjective / adverb / quantity + that; such (a) + noun + that."
+],
+"exemples": [
+["The exam was so difficult that half the class failed.", "so + adjective + that."],
+["It was such a good film that I watched it twice.", "such a + adjective + noun + that."],
+["She drove so fast that she got a fine.", "so + adverb + that."],
+["There was so much noise that we couldn't talk.", "so much + noun + that."]
+]
+},
+{
+"titre": "Other uses and register",
+"texte": [
+"“So” is very common in speech, especially for emotions: “I'm so sorry”, “Thank you so much”, “It's so nice to see you”. In formal writing, people often prefer extremely, very, particularly.",
+"“Such” can also mean “of this kind, like that”: “I've never seen such a thing”; “such as” = “for example, like”: “fruit such as mangoes and papayas”.",
+"In a question you can say “Why are you so angry?”; for an exclamation you can also use “how”: “How beautiful!” = “It's so beautiful!”."
+],
+"exemples": [
+["Thank you so much for your help.", "A very common spoken phrase."],
+["The shop sells tropical fruit such as mangoes and pineapples.", "such as = for example."]
+]
+}
+],
+"formule": "so + adjective / adverb · such (a / an) + (adjective) + noun · so many / much + noun · … (that) + result",
+"prononciation": [
+"“so” is often lengthened and stressed for emotion: It was SOOO good! /səʊ/ (UK).",
+"“such” is /sʌtʃ/: a short u as in “cup”, and /tʃ/ at the end as in “match”.",
+"In “such a”, the words link: /ˈsʌtʃ ə/, almost “sutcha”.",
+"In “so … that”, “that” is weak: /ðət/; the stress is on so and the adjective: so TIRED that…"
+],
+"erreurs": [
+["It was so a beautiful day.", "It was such a beautiful day.", "With a noun: such a, not so a."],
+["They are so nice people.", "They are such nice people.", "Adjective + plural noun: such."],
+["She's such kind.", "She's so kind.", "Adjective alone: so."],
+["It was a such good idea.", "It was such a good idea.", "The article goes after such."],
+["There were such many cars.", "There were so many cars.", "Quantity: so many / so much."],
+["I was so tired as I fell asleep.", "I was so tired (that) I fell asleep.", "The result is introduced by that (or nothing)."],
+["We had such a good weather.", "We had such good weather.", "weather is uncountable: no a."]
+],
+"dialogue": {
+"contexte": "Kevin is back from a weekend at the Montreal jazz festival and tells his colleague Aïcha about it.",
+"lignes": [
+["Aïcha", "So, how was the jazz festival?", "Here “so” just starts the conversation."],
+["Kevin", "Amazing! There were so many people that we could hardly move.", "so many … that."],
+["Aïcha", "And the music?", "A short question."],
+["Kevin", "It was such good music. The last band was so talented that everyone was dancing.", "such + uncountable; so + adjective + that."],
+["Aïcha", "Lucky you! Was the weather OK?", "A common reaction."],
+["Kevin", "We had such a hot weekend — 32 degrees! And the concerts finished so late.", "such a + adjective + noun; so + adverb."],
+["Aïcha", "You must be so tired.", "so + adjective."],
+["Kevin", "I am! I had such a lot of fun, but I need a holiday after my holiday!", "such a lot of."]
+]
+},
+"mots": [
+["so", "I'm so glad you're here.", "very (with emotion); to such a degree"],
+["such", "It was such a long trip.", "very (before a noun phrase); of this kind"],
+["talented", "She's such a talented singer.", "with a natural ability to do something well"],
+["exhausted", "I was so exhausted that I slept for ten hours.", "extremely tired"],
+["crowded", "The market was so crowded.", "full of people"],
+["hardly", "We could hardly hear each other.", "almost not"],
+["fine", "He got a fine for driving so fast.", "money you pay as a punishment"],
+["delicious", "It was such a delicious meal.", "with a very good taste"],
+["boring", "The lecture was so boring.", "not interesting"],
+["such as", "I love fruit such as mangoes.", "for example"]
+],
+"exercices": [
+{
+"titre": "1. So or such?",
+"consigne": "Complete with so or such (a / an if needed).",
+"items": [
+["The soup is ___ hot that I can't eat it.", "so"],
+["It was ___ interesting book.", "such an"],
+["They are ___ friendly neighbours.", "such"],
+["Why are you ___ angry?", "so"],
+["We had ___ bad luck on our trip.", "such"],
+["He runs ___ fast!", "so"],
+["It's ___ beautiful city.", "such a"]
+]
+},
+{
+"titre": "2. So many, so much, such a lot of",
+"consigne": "Complete with so many, so much or such a lot of (sometimes two answers).",
+"items": [
+["There's ___ traffic in Lagos.", "so much / such a lot of"],
+["I've got ___ emails to answer.", "so many / such a lot of"],
+["She spent ___ money on clothes.", "so much / such a lot of"],
+["There were ___ mistakes in the report.", "so many / such a lot of"]
+]
+},
+{
+"titre": "3. Join with so / such … that",
+"consigne": "Join the two sentences with so … that or such … that.",
+"items": [
+["The film was boring. I fell asleep.", "The film was so boring that I fell asleep."],
+["It was a long queue. We left.", "It was such a long queue that we left."],
+["She was nervous. She couldn't speak.", "She was so nervous that she couldn't speak."],
+["They are good friends. They talk every day.", "They are such good friends that they talk every day."]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["It was so a nice evening.", "It was such a nice evening."],
+["He's such rude!", "He's so rude!"],
+["We had such a terrible weather.", "We had such terrible weather."],
+["There were such many people.", "There were so many people."]
+]
+},
+{
+"titre": "5. Rewrite",
+"consigne": "Rewrite with the word in brackets. Keep the same meaning.",
+"items": [
+["The house is so pretty! (such)", "It's such a pretty house!"],
+["I was very tired, so I went home early. (so … that)", "I was so tired that I went home early."],
+["There was a lot of noise — too much! (so much)", "There was so much noise!"]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Describe a memorable event (party, trip, concert, match) in five sentences with so, such and at least two results with that.",
+"items": [
+["Model answer", "Last year I went to my cousin's wedding in Bafoussam. It was such a big wedding — there were more than 500 guests! The food was so delicious that I ate three plates. The music was so loud that I couldn't hear my phone. It was such a wonderful day."]
+]
+}
+],
+"a_retenir": [
+"so + adjective / adverb alone (so hot, so quickly).",
+"such + (a / an) + (adjective) + noun (such a hot day, such kind people, such good weather).",
+"so many / so much / so few / so little + noun; such a lot of + noun.",
+"Result: so / such … (that) + clause.",
+"Never “so a” or “a such”; no a with uncountable nouns (such good weather)."
+],
+"liens": [48, 119, 140],
+"refs": ["bc-so-such", "cam-adj"]
+}

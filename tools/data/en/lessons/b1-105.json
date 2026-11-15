@@ -1,0 +1,195 @@
+{
+ "n": 105,
+ "niveau": "B1",
+ "titre": "Reported questions",
+ "intro": "Reporting a question needs two more changes than reporting a statement: the word order becomes the order of a statement, and the auxiliary do / does / did disappears. “Where do you live?” becomes “She asked me where I lived.” We also report requests and orders with ask / tell + someone + to.",
+ "objectifs": [
+  "Report a wh- question with asked + question word + subject + verb (no inversion, no do).",
+  "Report a yes/no question with if or whether.",
+  "Apply the tense, pronoun and time-word changes from lesson 104.",
+  "Report a request or an order with ask / tell + person + (not) to + verb."
+ ],
+ "sections": [
+  {
+   "titre": "Wh- questions",
+   "texte": [
+    "Keep the question word (what, where, when, why, how, who, which, how much…), then use statement word order: subject + verb. There is no question mark.",
+    "The auxiliary do / does / did disappears, and the main verb takes the backshifted tense: “Where do you work?” → “He asked me where I worked.” “What did you buy?” → “She asked me what I had bought.”",
+    "The most common reporting verbs are ask, want to know and wonder. Ask can be followed by a person (asked me) or not (asked)."
+   ],
+   "tableau": {
+    "entetes": ["Direct question", "Reported question"],
+    "lignes": [
+     ["“Where do you live?”", "She asked me where I lived."],
+     ["“What are you doing?”", "He asked me what I was doing."],
+     ["“Why did you leave?”", "They asked her why she had left."],
+     ["“How much does it cost?”", "I asked how much it cost."],
+     ["“When will you arrive?”", "She wanted to know when I would arrive."],
+     ["“Who has taken my pen?”", "He asked who had taken his pen."]
+    ]
+   }
+  },
+  {
+   "titre": "Yes/no questions: if / whether",
+   "texte": [
+    "For a question that has a yes or no answer, use if or whether, then statement word order. “Are you hungry?” → “She asked me if I was hungry.”",
+    "Whether is a little more formal and is used especially when there are two options: “He asked whether I wanted tea or coffee.” We also say “whether or not”."
+   ],
+   "exemples": [
+    ["“Do you speak French?” → She asked me if I spoke French.", "Do disappears; speak → spoke."],
+    ["“Have you seen my keys?” → He asked if I had seen his keys.", "Present perfect → past perfect."],
+    ["“Can you help me?” → She asked me whether I could help her.", "Can → could."],
+    ["“Is it raining?” → He wanted to know if it was raining.", "Statement order: it was."]
+   ]
+  },
+  {
+   "titre": "Pronouns, tenses and time words",
+   "texte": [
+    "All the rules from lesson 104 apply: tenses move back after a past reporting verb, and pronouns, possessives, and time and place words change (tomorrow → the next day, here → there).",
+    "If the reporting verb is in the present (He asks / wants to know), there is no backshift: “The customer wants to know when the parcel will arrive.”"
+   ],
+   "exemples": [
+    ["“Will you come to my party tomorrow?” → She asked me if I would come to her party the next day.", "will → would; my → her; tomorrow → the next day."],
+    ["“What time does this shop close?” → The tourist wants to know what time this shop closes.", "Present reporting verb: no backshift."]
+   ]
+  },
+  {
+   "titre": "Requests and orders: ask / tell + to",
+   "texte": [
+    "To report a polite request (Could you…? Please…), use ask + person + to + verb. To report an order or instruction (imperative), use tell + person + to + verb.",
+    "In the negative, not goes before to: “Don't be late” → “She told me not to be late.” Not “She told me don't be late”. (“to not be late” is heard in speech, but avoid it in careful English.)"
+   ],
+   "tableau": {
+    "entetes": ["Direct speech", "Reported speech"],
+    "lignes": [
+     ["“Could you open the window, please?”", "She asked me to open the window."],
+     ["“Sit down.”", "The teacher told us to sit down."],
+     ["“Please don't smoke here.”", "He asked us not to smoke there."],
+     ["“Don't touch that!”", "My mother told me not to touch it."]
+    ]
+   },
+   "exemples": [
+    ["My boss asked me to send the report before Friday.", "Polite request → asked + to."],
+    ["The police officer told the driver not to move.", "Negative order → told + not to."]
+   ]
+  },
+  {
+   "titre": "Polite indirect questions",
+   "texte": [
+    "The same structure (question word + subject + verb) is used in polite indirect questions in the present: “Could you tell me where the station is?”, “Do you know what time it starts?”. This is the topic of lesson 114.",
+    "The trap is the same in both cases: keeping the inversion of the direct question. “Can you tell me where is the station?” is wrong."
+   ],
+   "exemples": [
+    ["Do you know where the post office is?", "Not “where is the post office”."]
+   ]
+  }
+ ],
+ "formule": "asked (+ person) + wh- / if / whether + subject + verb (tense moved back) · asked / told + person + (not) to + verb",
+ "prononciation": [
+  "asked /ɑːskt/ (US /æskt/): three consonants at the end, s-k-t. Don't say “ask”: the -ed /t/ must be heard.",
+  "A reported question doesn't have question intonation: the voice falls at the end, like a statement. “She asked me where I LIVED ↘.”",
+  "whether /ˈweðə/ sounds like weather.",
+  "In “told me not to”, the stress falls on not: “She told me NOT to wait.”"
+ ],
+ "erreurs": [
+  ["She asked me where did I live.", "She asked me where I lived.", "No did and no inversion in a reported question."],
+  ["He asked me where was the station.", "He asked me where the station was.", "Statement order: subject + verb."],
+  ["She asked me do I like coffee.", "She asked me if I liked coffee.", "Yes/no question: if / whether."],
+  ["He asked me what time is it.", "He asked me what time it was.", "Statement order and backshift."],
+  ["She asked if I was hungry?", "She asked if I was hungry.", "No question mark."],
+  ["He told me don't call him.", "He told me not to call him.", "Negative order: told + person + not to."],
+  ["She said me to wait.", "She told me to wait. / She asked me to wait.", "Don't use say + person + to for orders: use tell or ask."]
+ ],
+ "dialogue": {
+  "contexte": "Brussels, after a job interview. Olivier tells his flatmate Emmanuel, from Kinshasa, about the questions he was asked.",
+  "lignes": [
+   ["Emmanuel", "So, what did they ask you?", "A direct question."],
+   ["Olivier", "First, they asked me why I wanted to work for them.", "Why + subject + verb."],
+   ["Emmanuel", "Classic. What else?", "What else = what other things."],
+   ["Olivier", "The manager asked me if I had ever managed a team, and how many people I had worked with.", "If + past perfect; how many + subject + verb."],
+   ["Emmanuel", "Did they ask whether you spoke Dutch?", "Whether = if."],
+   ["Olivier", "Yes! And they wanted to know when I could start.", "Can → could."],
+   ["Emmanuel", "That sounds positive. Anything else?", "Anything else = any other thing."],
+   ["Olivier", "At the end, they asked me to send them two references and told me not to worry about the test.", "Asked + to; told + not to."]
+  ]
+ },
+ "mots": [
+  ["ask", "She asked me where I lived.", "to say or write a question"],
+  ["wonder", "I wonder if she's coming.", "to ask yourself something"],
+  ["want to know", "He wanted to know how much it cost.", "to want information"],
+  ["whether", "They asked whether I was free on Monday.", "if (more formal)"],
+  ["enquire", "A customer enquired whether the shop was open.", "to ask for information (formal; US: inquire)"],
+  ["order", "The officer ordered them to stop.", "to tell someone to do something, with authority"],
+  ["remind", "She reminded me to buy bread.", "to help someone remember something"],
+  ["reference", "They asked me to send two references.", "a letter or contact from someone who knows your work"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choose the right sentence",
+   "consigne": "Choose the correct reported question (a or b).",
+   "items": [
+    ["“Where are you going?” a) She asked me where was I going. b) She asked me where I was going.", "b"],
+    ["“Do you like jazz?” a) He asked if I liked jazz. b) He asked did I like jazz.", "a"],
+    ["“What time is it?” a) I asked what time it was. b) I asked what time was it.", "a"],
+    ["“Don't shout!” a) She told us to not shouting. b) She told us not to shout.", "b"]
+   ]
+  },
+  {
+   "titre": "2. Wh- questions",
+   "consigne": "Report the question, starting with “She asked me…”.",
+   "items": [
+    ["“Where do you work?”", "She asked me where I worked."],
+    ["“What are you reading?”", "She asked me what I was reading."],
+    ["“Why did you call?”", "She asked me why I had called."],
+    ["“How long will you stay?”", "She asked me how long I would stay."],
+    ["“Who is your teacher?”", "She asked me who my teacher was."]
+   ]
+  },
+  {
+   "titre": "3. Yes/no questions",
+   "consigne": "Report the question with if or whether, starting with “He asked (me)…”.",
+   "items": [
+    ["“Are you married?”", "He asked me if (whether) I was married."],
+    ["“Can you drive?”", "He asked me if (whether) I could drive."],
+    ["“Have you finished the report?”", "He asked me if (whether) I had finished the report."],
+    ["“Do you want tea or coffee?”", "He asked me whether I wanted tea or coffee."]
+   ]
+  },
+  {
+   "titre": "4. Requests and orders",
+   "consigne": "Report with asked / told + person + (not) to.",
+   "items": [
+    ["The doctor to me: “Stay in bed.”", "The doctor told me to stay in bed."],
+    ["My friend to me: “Could you lend me your car?”", "My friend asked me to lend him (her) my car."],
+    ["The guide to the tourists: “Don't take photos.”", "The guide told the tourists not to take photos."],
+    ["My neighbour to us: “Please don't make noise after ten.”", "My neighbour asked us not to make noise after ten."]
+   ]
+  },
+  {
+   "titre": "5. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["She asked me where did I buy my shoes.", "She asked me where I had bought my shoes. / She asked me where I bought my shoes."],
+    ["They asked us were we tired.", "They asked us if (whether) we were tired."],
+    ["He told me don't be late.", "He told me not to be late."],
+    ["I asked her how old is she.", "I asked her how old she was."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Think of an interview, a doctor's appointment or a first meeting. In 4–5 sentences, report the questions you were asked, and one request or order.",
+   "items": [
+    ["Example answer", "Last week I went to the doctor's. She asked me how long I had had the cough. She wanted to know if I smoked and whether I was taking any medicine. Then she asked me to breathe deeply. At the end, she told me to drink a lot of water and not to go to work for two days."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Reported wh- question: asked + question word + subject + verb (no do, no inversion).",
+  "Yes/no question: asked + if / whether + subject + verb.",
+  "Backshift and pronoun changes as for statements.",
+  "No question mark and no rising intonation.",
+  "Request: asked + person + to; order: told + person + to; negative: not to."
+ ],
+ "liens": [29, 104, 114, 154],
+ "refs": ["bc-reported-q", "bc-reported"]
+}

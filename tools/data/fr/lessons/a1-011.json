@@ -1,0 +1,206 @@
+{
+ "n": 11,
+ "niveau": "A1",
+ "titre": "Les articles a, an, the",
+ "intro": "« A / an » correspond à « un, une », « the » à « le, la, les ». Mais l'anglais n'emploie pas toujours l'article là où le français le met : « J'aime le café » se dit « I like coffee ». Cette leçon explique quand mettre a, an, the… ou rien.",
+ "objectifs": [
+  "Choisir entre a et an selon le son (et non la lettre) qui suit.",
+  "Employer « a / an » pour une chose non précise, un métier ou une première mention.",
+  "Employer « the » pour une chose précise, déjà connue ou unique.",
+  "Savoir quand ne pas mettre d'article : généralités, repas, langues, sports, la plupart des pays, at home, by bus."
+ ],
+ "sections": [
+  {
+   "titre": "A ou an ? C'est le son qui décide",
+   "texte": [
+    "« A » et « an » ont le même sens. On met « an » devant un mot qui commence par un SON voyelle, et « a » devant un son consonne. C'est la prononciation qui compte, pas l'orthographe.",
+    "Ainsi, « hour » commence par un h muet (son voyelle) → an hour ; « university » commence par le son /j/ (comme « you ») → a university. Pour les sigles, on regarde le nom de la première lettre : an MBA (/em/), a UFO (/juː/)."
+   ],
+   "tableau": {
+    "entetes": ["Article", "Devant", "Exemples"],
+    "lignes": [
+     ["a", "son consonne", "a book, a car, a house, a big apple"],
+     ["a", "u et eu prononcés /juː/ ; o prononcé /w/", "a university, a European city, a one-way ticket"],
+     ["an", "son voyelle", "an apple, an egg, an idea, an old man, an umbrella"],
+     ["an", "h muet", "an hour, an honest person, an heir"],
+     ["an", "sigle commençant par un son voyelle", "an MP, an X-ray, an FBI agent"]
+    ]
+   },
+   "note": "C'est le mot juste après l'article qui compte : an apple mais a red apple ; a house mais an old house."
+  },
+  {
+   "titre": "Quand utiliser a / an",
+   "texte": [
+    "« A / an » s'utilise seulement devant un nom dénombrable au singulier. Il n'a pas de pluriel : au pluriel, on ne met rien ou « some » (leçon 31) : a book → books / some books.",
+    "Usages : une chose ou personne parmi d'autres, non précise ; la première fois qu'on en parle ; un métier ou une catégorie (obligatoire en anglais, absent en français) ; le sens de « un seul » ; la fréquence et le prix (twice a week, 3 euros a kilo) ; les exclamations (What a beautiful day!)."
+   ],
+   "exemples": [
+    ["I need a pen.", "J'ai besoin d'un stylo (n'importe lequel)."],
+    ["She's an engineer.", "Elle est ingénieure (métier : article obligatoire)."],
+    ["We go to the gym three times a week.", "Nous allons à la salle trois fois par semaine."],
+    ["What a nice surprise!", "Quelle bonne surprise !"]
+   ]
+  },
+  {
+   "titre": "Quand utiliser the",
+   "texte": [
+    "« The » est le même au singulier et au pluriel, avec les noms dénombrables et indénombrables. Il indique que l'on sait de quoi on parle.",
+    "Usages : une chose déjà mentionnée (première fois a, ensuite the) ; une chose précisée par la suite de la phrase (the man in the blue shirt) ; une chose évidente dans la situation (Close the door, the kitchen) ; une chose unique (the sun, the moon, the world, the internet) ; certains lieux et médias (the cinema, the theatre, the radio) ; les instruments de musique (play the piano) ; les noms de famille au pluriel (the Martins) ; les mers, fleuves et océans (the Atlantic, the Seine), et les pays au nom pluriel ou composé (the UK, the USA, the Netherlands)."
+   ],
+   "exemples": [
+    ["I've got a cat and a dog. The cat is black.", "J'ai un chat et un chien. Le chat est noir (deuxième mention)."],
+    ["The woman in the red coat is my aunt.", "La femme au manteau rouge est ma tante (précisée)."],
+    ["Can you open the window?", "Tu peux ouvrir la fenêtre ? (celle de la pièce)"],
+    ["The sun is very hot today.", "Le soleil est très chaud aujourd'hui (unique)."],
+    ["She plays the guitar.", "Elle joue de la guitare (instrument)."]
+   ]
+  },
+  {
+   "titre": "Pas d'article : le grand piège des francophones",
+   "texte": [
+    "Pour parler d'une chose en général, l'anglais n'utilise PAS d'article, avec les pluriels et les indénombrables : I like cats (j'aime les chats, en général), Coffee is expensive (le café est cher), Life is beautiful (la vie est belle). Si on dit « the cats », on parle de chats précis.",
+    "Pas d'article non plus devant : les repas (have breakfast, at lunch), les langues et matières (English is easy, I study history), les sports (play football), la plupart des pays, villes et continents (France, Paris, Africa), les jours, mois et fêtes (on Monday, in June, at Christmas), et dans des expressions fixes : at home, at work, at school, in bed, go to school, go to bed, by bus, by car."
+   ],
+   "tableau": {
+    "entetes": ["Français", "Anglais", "Pourquoi"],
+    "lignes": [
+     ["J'aime la musique.", "I like music.", "généralité"],
+     ["Les enfants aiment le chocolat.", "Children love chocolate.", "généralité, pluriel + indénombrable"],
+     ["L'anglais est utile.", "English is useful.", "langue"],
+     ["Je déjeune à midi.", "I have lunch at noon.", "repas"],
+     ["Il joue au tennis.", "He plays tennis.", "sport"],
+     ["Elle est à la maison / au travail.", "She's at home / at work.", "expression fixe"],
+     ["Je vais au travail en bus.", "I go to work by bus.", "expressions fixes"]
+    ]
+   },
+   "note": "Comparer : « I like music » (la musique en général) / « I like the music in this film » (la musique précise de ce film)."
+  },
+  {
+   "titre": "Récapitulatif : a, the ou rien ?",
+   "texte": [
+    "Pour choisir, pose-toi deux questions. 1) Est-ce précis, connu des deux personnes, ou unique ? → the. 2) Sinon, est-ce un dénombrable singulier ? → a / an. Sinon (pluriel ou indénombrable en général) → pas d'article.",
+    "Le « the » se prononce /ðə/ devant un son consonne (the book) et souvent /ði/ devant un son voyelle (the apple), mais beaucoup de locuteurs disent /ðə/ partout aujourd'hui."
+   ],
+   "exemples": [
+    ["There's a bank near here. The bank opens at nine.", "Il y a une banque près d'ici. La banque ouvre à neuf heures."],
+    ["Dogs are friendly, but the dog next door is noisy.", "Les chiens sont gentils, mais le chien d'à côté est bruyant."]
+   ]
+  }
+ ],
+ "formule": "a + son consonne · an + son voyelle · the = précis / connu / unique · Ø = généralité (pluriel, indénombrable), repas, langues, sports, at home, by bus",
+ "prononciation": [
+  "« a » est presque toujours faible : /ə/ (a book /ə bʊk/). La forme forte /eɪ/ ne s'entend que pour insister.",
+  "« an » se lie au mot suivant : an apple /ə ˈnæpl/, an hour /ə ˈnaʊə/.",
+  "« the » : /ðə/ devant un son consonne (the car), /ði/ devant un son voyelle (the end). Forme forte /ðiː/ pour insister : « THE best ».",
+  "Le son /ð/ de « the » : langue entre les dents, voix qui vibre. Ne dis pas « ze » ni « de ».",
+  "Ne laisse pas tomber le petit /ə/ de « a » : « She's a nurse » (trois syllabes : /ʃiːz ə ˈnɜːs/)."
+ ],
+ "erreurs": [
+  ["I like the dogs.", "I like dogs.", "Généralité au pluriel : pas d'article."],
+  ["The life is beautiful.", "Life is beautiful.", "Indénombrable en général : pas d'article."],
+  ["She is doctor.", "She's a doctor.", "Métier au singulier : a / an obligatoire."],
+  ["a hour", "an hour", "Le h est muet : son voyelle → an."],
+  ["an university", "a university", "« university » commence par le son /j/ → a."],
+  ["I speak the English.", "I speak English.", "Pas d'article devant une langue."],
+  ["He plays the football.", "He plays football.", "Pas d'article devant un sport ; mais play the piano (instrument)."],
+  ["I'm at the home.", "I'm at home.", "Expression fixe sans article."]
+ ],
+ "dialogue": {
+  "contexte": "Deux amis cherchent un restaurant le soir à Bruxelles.",
+  "lignes": [
+   ["Yanis", "I'm hungry. Is there a good restaurant near here?", "J'ai faim. Il y a un bon restaurant près d'ici ?"],
+   ["Laura", "Yes, there's an Italian restaurant and a Cameroonian restaurant on the next street.", "Oui, il y a un restaurant italien et un restaurant camerounais dans la rue suivante."],
+   ["Yanis", "I love Cameroonian food! Is the Cameroonian restaurant expensive?", "J'adore la cuisine camerounaise ! Le restaurant camerounais est cher ?"],
+   ["Laura", "No, it isn't. And the owner is very friendly. She's a chef from Douala.", "Non. Et la patronne est très sympa. C'est une cheffe de Douala."],
+   ["Yanis", "Great. What time does it close?", "Super. À quelle heure ça ferme ?"],
+   ["Laura", "At eleven. We've got an hour and a half.", "À onze heures. On a une heure et demie."],
+   ["Yanis", "Perfect. I usually have dinner at home, so this is a nice change!", "Parfait. D'habitude je dîne à la maison, donc ça change agréablement !"],
+   ["Laura", "Let's go by tram. The stop is just there.", "Allons-y en tram. L'arrêt est juste là."]
+  ]
+ },
+ "mots": [
+  ["umbrella", "Take an umbrella. It's raining.", "un parapluie"],
+  ["hour", "The film is two hours long.", "une heure (durée)"],
+  ["university", "She studies at a university in Ghent.", "une université"],
+  ["owner", "The owner of the shop is my uncle.", "le ou la propriétaire"],
+  ["sun", "The sun is shining.", "le soleil"],
+  ["world", "It's the biggest city in the world.", "le monde"],
+  ["breakfast", "I have breakfast at seven.", "le petit-déjeuner"],
+  ["lunch", "What do you eat for lunch?", "le déjeuner"],
+  ["dinner", "We have dinner at eight.", "le dîner"],
+  ["piano", "My son plays the piano.", "le piano"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. A ou an ?",
+   "consigne": "Complète avec a ou an.",
+   "items": [
+    ["___ orange", "an"],
+    ["___ hour", "an"],
+    ["___ university", "a"],
+    ["___ old car", "an"],
+    ["___ European country", "a"],
+    ["___ honest answer", "an"]
+   ]
+  },
+  {
+   "titre": "2. A, an, the ou rien ?",
+   "consigne": "Complète avec a, an, the ou Ø (pas d'article).",
+   "items": [
+    ["My father is ___ architect.", "an"],
+    ["I've got a sister and a brother. ___ sister lives in Lille.", "The"],
+    ["___ moon is very bright tonight.", "The"],
+    ["I don't like ___ coffee.", "Ø"],
+    ["She plays ___ violin.", "the"],
+    ["We go to work by ___ bus.", "Ø"]
+   ]
+  },
+  {
+   "titre": "3. Généralité ou chose précise ?",
+   "consigne": "Choisis la bonne phrase.",
+   "items": [
+    ["(Cats / The cats) are independent animals.", "Cats"],
+    ["(Music / The music) in this café is too loud.", "The music"],
+    ["(English / The English) is an international language.", "English"],
+    ["(Water / The water) in this bottle is cold.", "The water"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["My mother is nurse.", "My mother is a nurse."],
+    ["I have the lunch at one o'clock.", "I have lunch at one o'clock."],
+    ["The life is short.", "Life is short."],
+    ["We study at an university in Liège.", "We study at a university in Liège."],
+    ["She's at the work now.", "She's at work now."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["J'aime le sport et la musique.", "I like sport and music. (US : sports)"],
+    ["Mon frère est ingénieur.", "My brother is an engineer."],
+    ["Ferme la porte, s'il te plaît.", "Close the door, please. / Shut the door, please."],
+    ["Elle va à l'école en vélo.", "She goes to school by bike."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris quatre phrases sur toi : ton métier (a / an), une chose que tu aimes en général (pas d'article), une chose précise chez toi (the), et une habitude avec une expression fixe (at home, by bus…).",
+   "items": [
+    ["Exemple de réponse", "I'm an accountant. I love books and good coffee. The kitchen in my flat is very small. I usually go to work by train, and I have dinner at home."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "a + son consonne, an + son voyelle : a university, an hour.",
+  "a / an : un parmi d'autres, première mention, métier (She's a nurse), fréquence (twice a week).",
+  "the : déjà connu, précisé, unique, instrument (play the piano).",
+  "Pas d'article pour les généralités : I like cats, Life is short, Coffee is good.",
+  "Pas d'article : repas, langues, sports, at home, at work, go to bed, by bus."
+ ],
+ "liens": [1, 12, 13, 16, 31],
+ "refs": ["bc-articles", "bc-articles-zero"]
+}

@@ -1,0 +1,199 @@
+{
+"n": 116,
+"niveau": "B1",
+"titre": "Quantifiers: each, every, all, whole",
+"intro": "“Each”, “every”, “all” and “whole” all express the idea of a total, but they work differently: singular or plural, with or without “of”, before or after the noun. Knowing them well avoids mistakes like “every students” or “the whole money”.",
+"objectifs": [
+"Tell the difference between each (one by one) and every (all, as a group).",
+"Use all with a plural or uncountable noun, and all (of) the / all of us.",
+"Use the whole + singular countable noun and tell it apart from all.",
+"Choose between all day and every day, and make the verb agree correctly."
+],
+"sections": [
+{
+"titre": "Every and each: always singular",
+"texte": [
+"“Every” and “each” are followed by a SINGULAR countable noun and a singular verb: every student has, each room has.",
+"The difference in meaning is often small. “Every” sees the group as a whole (all, with no exceptions); “each” focuses on the members one by one, separately. “Each” can be used for two things; “every” needs at least three.",
+"Don't confuse “every day” (each day) with “everyday” (adjective: ordinary, normal: everyday life)."
+],
+"tableau": {
+"entetes": ["Every", "Each"],
+"lignes": [
+["Every child in the class passed. (all of them)", "Each child received a certificate. (one by one)"],
+["I go jogging every morning.", "Each morning is a new chance. (each one separately)"],
+["— (not with 2)", "She had a bag in each hand. (2 hands)"],
+["every two weeks (once in two weeks)", "—"],
+["almost every, nearly every, not every", "—"]
+]
+}
+},
+{
+"titre": "Each of, every one of, and the position of each",
+"texte": [
+"Before a determiner (the, my, these…) or a pronoun (us, them), use “each of” or “every one of” (two words). “Every of” does not exist.",
+"“Each” can also go after the subject or at the end of the sentence: “They each got a prize”, “The tickets cost 20 dollars each”."
+],
+"exemples": [
+["Each of the rooms has a balcony.", "each of + the + plural; singular verb."],
+["Every one of my cousins came to the wedding.", "All of them, with no exception."],
+["The children each have their own laptop.", "each after the subject."],
+["These mangoes cost 500 francs each.", "each at the end = per item."]
+]
+},
+{
+"titre": "All: plural, uncountable and pronouns",
+"texte": [
+"“All” goes before a plural or uncountable noun, with a plural or singular verb depending on the noun: “All students must register”, “All information is confidential”.",
+"Before the, my, these… you can say “all the” or “all of the” (same meaning): “all (of) the money”. Before a pronoun, “of” is needed: “all of us”, “all of them”. You can also say “we all”, “they all” (all after the subject, or after be / the helper verb: They are all here, We have all seen it).",
+"For people and things in general, use “everyone / everybody” and “everything” rather than “all” alone: “Everyone was happy” (not “All were happy”, which is very literary). These words take a singular verb."
+],
+"exemples": [
+["All my friends live in Montreal.", "all + my + plural."],
+["All of us were surprised.", "= We were all surprised."],
+["Everything is ready.", "Not “All is ready”."],
+["Everyone has a role in this project.", "Singular verb."]
+]
+},
+{
+"titre": "Whole: “complete” before a singular noun",
+"texte": [
+"“Whole” means “complete, entire” and goes between the determiner and a singular countable noun: the whole day, my whole life, a whole cake.",
+"We don't use “whole” with uncountable nouns: say “all the money”, not “the whole money”. With singular nouns, “all the” and “the whole” are often both possible, but “all the day” is rare: say “all day” or “the whole day”."
+],
+"tableau": {
+"entetes": ["With whole", "With all", "Meaning"],
+"lignes": [
+["the whole day", "all day", "from morning to evening"],
+["the whole family", "all the family", "every member of the family"],
+["my whole life", "all my life", "from birth until now"],
+["— (not with uncountable nouns)", "all the money / all the water", "the total amount"],
+["a whole pizza", "—", "a complete pizza"]
+]
+}
+},
+{
+"titre": "All day or every day?",
+"texte": [
+"A common trap: “all day” means “from morning to evening” (duration); “every day” means “each day” (frequency). The same with all week / every week, all night / every night.",
+"In the negative, “not all” and “not every” mean “some, but not all”: “Not all students passed” (some failed). “None” or “no” mean “not one”."
+],
+"exemples": [
+["I worked all day on Saturday.", "Duration: the whole day."],
+["I work every day except Sunday.", "Frequency."],
+["Not every hotel accepts dogs.", "Some do, some don't."]
+]
+}
+],
+"formule": "every / each + singular noun + singular verb · each of / all of + the / pronoun · all + plural or uncountable · the whole + singular countable",
+"prononciation": [
+"“each” is /iːtʃ/, with a long i; don't confuse it with “itch” /ɪtʃ/.",
+"“every” has two syllables: /ˈevri/ (the middle e is silent).",
+"“whole” /həʊl/ (UK) sounds exactly like “hole”: the w is silent.",
+"“all” /ɔːl/: a long vowel and a dark l; “all of us” links: /ˈɔːl əv ʌs/."
+],
+"erreurs": [
+["Every students must bring an ID card.", "Every student must bring an ID card.", "every + singular noun."],
+["Each of the rooms have a TV.", "Each of the rooms has a TV.", "each (of): singular verb."],
+["Every of my friends came.", "Every one of my friends came. / All my friends came.", "“every of” does not exist."],
+["I spent the whole money.", "I spent all the money.", "whole is not used with uncountable nouns."],
+["I watched TV every day yesterday.", "I watched TV all day yesterday.", "Duration (the whole day): all day."],
+["All is ready for the party.", "Everything is ready for the party.", "For things in general: everything."],
+["All of people were happy.", "All (of) the people were happy. / Everyone was happy.", "all of + the / pronoun, not all of + noun alone."]
+],
+"dialogue": {
+"contexte": "Ibrahim is organising a team seminar in a hotel near Dakar. He phones the receptionist, Mrs Sow.",
+"lignes": [
+["Ibrahim", "Hello. I'd like to confirm our booking for twenty people next week.", "Polite opening."],
+["Mrs Sow", "Of course. Each participant will have a single room with a sea view.", "each + singular."],
+["Ibrahim", "Perfect. Does every room have Wi-Fi?", "every + singular + does."],
+["Mrs Sow", "Yes, all our rooms have free Wi-Fi. And breakfast is served every day from 7 to 10.", "all + plural; every day = frequency."],
+["Ibrahim", "Good. We'll need the meeting room all day on Tuesday.", "all day = duration."],
+["Mrs Sow", "No problem. The whole floor will be reserved for your group.", "the whole + singular."],
+["Ibrahim", "Excellent. Can we pay for everything with one invoice?", "everything = all the things."],
+["Mrs Sow", "Certainly. All of the costs will be on one invoice. The rooms are 60,000 francs each per night.", "all of the; each = per room."]
+]
+},
+"mots": [
+["each", "Each guest gets a welcome drink.", "every one of two or more, seen separately"],
+["every", "I call my mother every Sunday.", "all the members of a group of three or more"],
+["whole", "I read the whole book in one night.", "complete, all of something"],
+["entire", "The entire village came to the wedding.", "whole (more formal)"],
+["everyone", "Everyone was on time.", "every person"],
+["everything", "Everything is under control.", "all things"],
+["participant", "Each participant receives a certificate.", "a person who takes part in an activity"],
+["certificate", "All students get a certificate.", "an official document that proves something"],
+["everyday", "These are everyday problems.", "ordinary, happening every day"],
+["per", "It costs 50 euros per person.", "for each"]
+],
+"exercices": [
+{
+"titre": "1. Every or each?",
+"consigne": "Complete with every or each (sometimes both are possible).",
+"items": [
+["She wore a ring on ___ hand.", "each"],
+["I check my emails ___ morning.", "every (or each)"],
+["___ of the players received a medal.", "Each"],
+["The bus comes ___ ten minutes.", "every"],
+["Almost ___ house in the street has a garden.", "every"]
+]
+},
+{
+"titre": "2. All, whole or every?",
+"consigne": "Complete with all, whole or every.",
+"items": [
+["I spent the ___ weekend studying.", "whole"],
+["___ the water in the bottle has gone.", "All"],
+["We were ___ very tired after the trip.", "all"],
+["She goes to the gym ___ Monday and Thursday.", "every"],
+["He ate a ___ chicken by himself!", "whole"],
+["___ of them speak French.", "All"]
+]
+},
+{
+"titre": "3. All day or every day?",
+"consigne": "Choose all day / every day, all night / every night.",
+"items": [
+["It rained ___ yesterday — we couldn't go out at all.", "all day"],
+["I take the metro to work ___.", "every day"],
+["The baby cried ___, so we didn't sleep.", "all night"],
+["He watches the news ___ at eight.", "every night / every day"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["Every children need love.", "Every child needs love. / All children need love."],
+["Each of the students have a laptop.", "Each of the students has a laptop."],
+["She lost the whole money.", "She lost all the money."],
+["All was perfect.", "Everything was perfect."]
+]
+},
+{
+"titre": "5. Rewrite",
+"consigne": "Rewrite with the word in brackets. Keep the same meaning.",
+"items": [
+["All the members of the family came. (whole)", "The whole family came."],
+["We paid 10 euros, and every one of us paid the same. (each)", "We each paid 10 euros. / Each of us paid 10 euros."],
+["Some hotels are expensive, but some aren't. (not all)", "Not all hotels are expensive."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Describe the rules or habits of your workplace or school in five sentences with each, every, all and whole.",
+"items": [
+["Model answer", "At my language school in Lille, every student takes a test on the first day. Each class has twelve students at most. All the teachers are native speakers. We have a speaking exam every month. Last Friday we spent the whole afternoon preparing a presentation."]
+]
+}
+],
+"a_retenir": [
+"every / each + singular noun + singular verb (every student has).",
+"each = one by one (also for 2); every = all, the whole group (at least 3).",
+"each of / every one of / all of + the, my… or a pronoun (all of us); never “every of”.",
+"the whole + singular countable noun; with uncountable nouns: all the money.",
+"all day = duration; every day = frequency; everything / everyone + singular verb."
+],
+"liens": [31, 58, 65, 115],
+"refs": ["cam-nouns", "bc-b1b2"]
+}

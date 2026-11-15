@@ -1,0 +1,217 @@
+{
+ "n": 162,
+ "niveau": "B2",
+ "titre": "Les propositions participiales",
+ "intro": "« Not knowing what to do, she called her sister », « Built in 1880, the bridge is still in use », « Having finished the report, he went home » : les propositions participiales condensent une idée de temps, de cause ou de conséquence en quelques mots. Elles rendent un texte plus fluide et plus élégant, surtout à l'écrit (articles, récits, rapports).",
+ "objectifs": [
+  "Employer le participe présent (-ing) pour une action simultanée, une cause ou une conséquence.",
+  "Employer le participe passé pour un sens passif (Built in 1880…) et « Having + participe » pour une action antérieure.",
+  "Réduire une proposition relative : the people living here, the cars parked outside.",
+  "Éviter le « participe en l'air » (dangling participle) et le calque « Arrived at the station, he… »."
+ ],
+ "sections": [
+  {
+   "titre": "Le principe : un sujet commun",
+   "texte": [
+    "Une proposition participiale n'a pas de sujet exprimé ni de verbe conjugué. Elle remplace une subordonnée (because…, when…, after…, which…) et rend la phrase plus courte.",
+    "Règle d'or : le sujet sous-entendu de la participiale doit être le même que celui de la proposition principale. « Feeling tired, I went to bed » : c'est « I » qui se sentait fatigué.",
+    "Ces structures sont surtout écrites et soutenues. À l'oral, on préfère souvent la subordonnée complète : « Because I was tired, I went to bed. »"
+   ],
+   "tableau": {
+    "entetes": ["Forme", "Sens", "Exemple"],
+    "lignes": [
+     ["-ing", "actif, même moment ou cause", "Feeling tired, I went to bed early."],
+     ["participe passé", "passif", "Built in 1880, the bridge is still in use."],
+     ["Having + participe", "actif, action antérieure", "Having finished the report, he went home."],
+     ["Having been + participe", "passif, action antérieure", "Having been warned, we took umbrellas."],
+     ["Not + participe", "négation", "Not knowing the way, we asked for help."]
+    ]
+   }
+  },
+  {
+   "titre": "Le participe présent (-ing)",
+   "texte": [
+    "Il exprime une action active du sujet, et selon le contexte : une action simultanée (pendant que), une action immédiatement suivie d'une autre, une cause (comme, parce que) ou une conséquence placée après une virgule (ce qui…).",
+    "Pour la conséquence, la participiale vient en fin de phrase : « The storm hit the coast, destroying hundreds of houses » (et a détruit / ce qui a détruit).",
+    "Le français utilise souvent le gérondif « en + participe » : « en sortant », « en ouvrant la porte ». En anglais, on peut ajouter une conjonction pour plus de clarté : while waiting, when leaving, by working."
+   ],
+   "exemples": [
+    ["Opening the door, she saw a huge parcel on the floor.", "En ouvrant la porte (action presque simultanée)."],
+    ["Knowing that he was tired, I didn't call him.", "Sachant qu'il était fatigué (cause)."],
+    ["The train broke down near Charleroi, causing long delays.", "Ce qui a causé de longs retards (conséquence)."],
+    ["Smiling, the teacher handed back our tests.", "En souriant (manière)."]
+   ]
+  },
+  {
+   "titre": "Le participe passé : le sens passif",
+   "texte": [
+    "Le participe passé seul a un sens passif : le sujet subit l'action. « Built in 1880, the bridge… » = The bridge, which was built in 1880, …",
+    "Il peut aussi exprimer une condition ou une cause : « Used correctly, this tool can save you hours » (s'il est utilisé correctement). « Shocked by the news, she sat down » (parce qu'elle était choquée).",
+    "Très fréquent dans les guides touristiques, les présentations d'entreprises et la presse : « Founded in 1998, the company now employs 500 people. »"
+   ],
+   "exemples": [
+    ["Written in 1958, Things Fall Apart is still widely read.", "Écrit en 1958…"],
+    ["Located near the river, the hotel has beautiful views.", "Situé près du fleuve…"],
+    ["Used correctly, this app can save you hours.", "Condition : si elle est bien utilisée."],
+    ["Asked about the delay, the manager refused to comment.", "Interrogé sur le retard…"]
+   ]
+  },
+  {
+   "titre": "Having + participe : l'action antérieure",
+   "texte": [
+    "« Having + participe passé » indique clairement que la première action est terminée avant la seconde (après avoir…). Elle exprime aussi souvent une cause.",
+    "Au passif : « Having been + participe » (après avoir été…). « Having been told the news, he called his mother. »",
+    "Grand piège pour les francophones : « Arrivé à la gare, il m'a appelé ». En anglais, « Arrived at the station, he called me » est impossible, car « arrive » n'a pas de passif. On dit : « Having arrived at the station… », « On arriving at the station… » ou simplement « When he arrived at the station… »."
+   ],
+   "exemples": [
+    ["Having finished her degree, she moved to Toronto.", "Après avoir terminé ses études…"],
+    ["Having lived in Brussels for ten years, I know the city well.", "Ayant vécu à Bruxelles… (cause)."],
+    ["Having been rejected twice, he decided to try another company.", "Après avoir été refusé deux fois…"],
+    ["On arriving in Yaoundé, we went straight to the hotel.", "Dès notre arrivée à Yaoundé…"]
+   ]
+  },
+  {
+   "titre": "Les relatives réduites",
+   "texte": [
+    "Une proposition relative peut souvent être réduite : on supprime le pronom relatif et l'auxiliaire. Participe présent pour le sens actif, participe passé pour le sens passif.",
+    "Attention : la forme en -ing ne correspond pas seulement à une forme progressive. « People living near the airport » = people who live (et non seulement « who are living ») near the airport.",
+    "On ne peut pas réduire ainsi une action unique terminée au sens actif : « The man who called you yesterday » ne devient pas « The man calling you yesterday »."
+   ],
+   "tableau": {
+    "entetes": ["Relative complète", "Relative réduite"],
+    "lignes": [
+     ["The woman who is sitting next to me is from Kigali.", "The woman sitting next to me is from Kigali."],
+     ["People who live near the airport complain about the noise.", "People living near the airport complain about the noise."],
+     ["The cars that are parked outside belong to the hotel.", "The cars parked outside belong to the hotel."],
+     ["Most goods that are sold here are made locally.", "Most goods sold here are made locally."]
+    ]
+   }
+  },
+  {
+   "titre": "Conjonctions, négation et participe en l'air",
+   "texte": [
+    "On peut garder une conjonction devant la participiale pour préciser le sens : after / before / since / while / when + -ing ; when / once / if / unless / until + participe passé. « After finishing work, I went to the gym. » « Once opened, the jar must be kept in the fridge. »",
+    "La négation se place devant le participe : « Not knowing what to do… », « Not having received an answer… ». Jamais « Knowing not… ».",
+    "Le participe en l'air (dangling participle) est l'erreur la plus grave : « Walking down the street, a car hit me » signifie que c'est la voiture qui marchait ! Il faut que les deux sujets coïncident : « Walking down the street, I was hit by a car » ou « While I was walking down the street, a car hit me »."
+   ],
+   "exemples": [
+    ["While waiting for the bus, I read the news.", "Conjonction + -ing."],
+    ["Once opened, the milk must be used within three days.", "Conjonction + participe passé."],
+    ["Not having heard from her, I started to worry.", "Négation avec Having."]
+   ]
+  }
+ ],
+ "formule": "-ing (actif) · participe passé (passif) · Having + participe (avant) · Not + participe — même sujet que la principale",
+ "prononciation": [
+  "Une participiale en tête de phrase se termine par une légère montée et une pause (la virgule) : « Feeling tired ↗, | I went to bed ↘ ».",
+  "« -ing » se prononce /ɪŋ/ : un seul son nasal, sans /g/ final audible. Évitez /ɪn/ dans un style soutenu.",
+  "« Having » /ˈhævɪŋ/ est accentué sur la première syllabe et n'est jamais réduit.",
+  "Participes en -ed : /t/, /d/ ou /ɪd/ : located /ləʊˈkeɪtɪd/, surrounded /səˈraʊndɪd/, parked /pɑːkt/.",
+  "Une participiale de conséquence en fin de phrase est précédée d'une pause : « The train broke down, | causing long delays. »"
+ ],
+ "erreurs": [
+  ["Walking to work, the rain started.", "Walking to work, I was caught in the rain. / While I was walking to work, it started to rain.", "Le sujet de la participiale doit être celui de la principale."],
+  ["Arrived at the hotel, we had a shower.", "Having arrived at the hotel (When we arrived at the hotel), we had a shower.", "« arrive » n'a pas de passif : pas de participe passé seul."],
+  ["After finish my homework, I watched TV.", "After finishing my homework, I watched TV.", "Après une préposition / conjonction : -ing."],
+  ["Knowing not the answer, she stayed silent.", "Not knowing the answer, she stayed silent.", "« Not » devant le participe."],
+  ["Having finish the report, she went home.", "Having finished the report, she went home.", "Having + participe passé."],
+  ["The man stood at the door is my uncle.", "The man standing at the door is my uncle.", "Sens actif : -ing (« stood » ici est familier et régional)."],
+  ["Made in Belgium, I love this chocolate.", "Made in Belgium, this chocolate is delicious.", "C'est le chocolat qui est fabriqué, pas « I »."]
+ ],
+ "dialogue": {
+  "contexte": "Visite guidée du Vieux-Québec. Le guide, Étienne, accompagne Kemi, touriste venue de Lagos.",
+  "lignes": [
+   ["Étienne", "Founded in 1608, Quebec City is one of the oldest cities in North America.", "Fondée en 1608, Québec est l'une des plus anciennes villes d'Amérique du Nord."],
+   ["Kemi", "Is that why it has walls all around it?", "C'est pour ça qu'elle est entourée de remparts ?"],
+   ["Étienne", "Exactly. Surrounded by stone walls, the old town was easy to defend.", "Exactement. Entourée de murs de pierre, la vieille ville était facile à défendre."],
+   ["Kemi", "And that huge building on the hill?", "Et cet immense bâtiment sur la colline ?"],
+   ["Étienne", "That's the Château Frontenac. Built as a hotel in 1893, it overlooks the St Lawrence River.", "C'est le Château Frontenac. Construit comme hôtel en 1893, il domine le Saint-Laurent."],
+   ["Kemi", "It's beautiful. Having seen so many photos, I feel as if I already know it.", "Il est magnifique. Après avoir vu tant de photos, j'ai l'impression de le connaître déjà."],
+   ["Étienne", "Most people visiting the city say that. Walking down these streets, you really feel the history.", "La plupart des visiteurs disent ça. En marchant dans ces rues, on sent vraiment l'histoire."],
+   ["Kemi", "Not knowing much French, I was worried, but everyone has been so kind.", "Comme je ne parle pas beaucoup français, j'étais inquiète, mais tout le monde a été très gentil."]
+  ]
+ },
+ "mots": [
+  ["located", "The hotel is located near the station.", "situé(e)"],
+  ["surrounded", "The village is surrounded by hills.", "entouré(e)"],
+  ["overlook", "Our room overlooks the sea.", "donner sur, surplomber"],
+  ["landmark", "The Atomium is a famous Brussels landmark.", "un monument emblématique, un point de repère"],
+  ["heritage", "The old town is a World Heritage Site.", "le patrimoine"],
+  ["wander", "We wandered around the old streets.", "flâner, se promener sans but"],
+  ["settler", "The first settlers arrived in 1608.", "un colon, un pionnier"],
+  ["fortified", "It was a fortified city.", "fortifié(e)"],
+  ["stroll", "Let's take a stroll along the river.", "une balade ; se balader"],
+  ["approximately", "The tour takes approximately two hours.", "environ, approximativement"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quel sens ?",
+   "consigne": "Explique le sens de la participiale (cause, passif, action antérieure, conséquence).",
+   "items": [
+    ["Feeling tired, I went to bed early.", "Cause : because I felt tired."],
+    ["Built in 1910, the station is a historic monument.", "Passif : the station, which was built in 1910."],
+    ["Having finished dinner, we went for a walk.", "Action antérieure : after we had finished dinner."],
+    ["The storm hit the coast, destroying hundreds of houses.", "Conséquence : and as a result it destroyed hundreds of houses."]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec la forme participiale qui convient du verbe entre parenthèses.",
+   "items": [
+    ["___ (not / know) the way, we asked a police officer.", "Not knowing"],
+    ["___ (write) in 1958, the novel is still popular today.", "Written"],
+    ["___ (finish) her degree, she moved to Toronto.", "Having finished"],
+    ["The woman ___ (sit) next to me on the train was from Kigali.", "sitting"],
+    ["Most of the goods ___ (sell) in this shop are made locally.", "sold"],
+    ["___ (tell) the news, he immediately called his mother.", "Having been told (ou : Told)"]
+   ]
+  },
+  {
+   "titre": "3. Combiner",
+   "consigne": "Combine les deux phrases avec une proposition participiale.",
+   "items": [
+    ["She opened the letter. She found a cheque inside.", "Opening the letter, she found a cheque inside."],
+    ["I had lived in Brussels for years. I knew the city well.", "Having lived in Brussels for years, I knew the city well."],
+    ["The painting was stolen in 1990. It was found last week.", "Stolen in 1990, the painting was found last week."],
+    ["He was afraid of being late. He took a taxi.", "Being afraid of being late (ou : Afraid of being late), he took a taxi."],
+    ["The train broke down. This caused long delays.", "The train broke down, causing long delays."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["Walking to work, the rain started.", "Walking to work, I was caught in the rain. (ou : While I was walking to work, it started to rain.)"],
+    ["Arrived at the hotel, we had a shower.", "Having arrived at the hotel (On arriving at the hotel / When we arrived at the hotel), we had a shower."],
+    ["After finish my homework, I watched TV.", "After finishing my homework, I watched TV."],
+    ["Knowing not the answer, she stayed silent.", "Not knowing the answer, she stayed silent."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec une proposition participiale.",
+   "items": [
+    ["Arrivée à Douala, elle a appelé sa mère.", "Having arrived in Douala (On arriving in Douala), she called her mother."],
+    ["Construit en 1880, ce pont est le plus ancien de la ville.", "Built in 1880, this bridge is the oldest in the city (town)."],
+    ["Ne sachant pas quoi dire, il est resté silencieux.", "Not knowing what to say, he remained (stayed) silent."],
+    ["Les étudiants vivant sur le campus paient moins.", "Students living on campus pay less."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Présente un lieu que tu connais bien (ville, monument, entreprise) en 4 phrases, comme un guide, avec au moins quatre participiales de types différents.",
+   "items": [
+    ["Exemple de réponse", "Known as Cameroon's economic capital, Douala is the country's largest city. Located on the Wouri River, it has the busiest port in the region. Walking through the Akwa district, you can see colonial buildings next to modern towers. Having visited it many times, I still discover something new every trip."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Participiale = subordonnée réduite, sans sujet ni verbe conjugué, surtout à l'écrit.",
+  "-ing = actif (simultané, cause, conséquence) ; participe passé = passif ; Having + participe = action antérieure.",
+  "Relatives réduites : people living here (who live), cars parked outside (that are parked).",
+  "Négation : Not knowing…, Not having heard… ; conjonctions possibles : after finishing, once opened.",
+  "Même sujet obligatoire ; jamais « Arrived at the station, he… » → Having arrived / When he arrived."
+ ],
+ "liens": [101, 163, 151, 171],
+ "refs": ["bc-participle"]
+}

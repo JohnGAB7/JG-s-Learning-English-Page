@@ -1,0 +1,189 @@
+{
+"n": 44,
+"niveau": "A2",
+"titre": "“Used to” (past habits)",
+"intro": "“Used to” is for things that were true in the past but are not true now: a past habit or a past situation. It is very useful to compare your life before and now.",
+"objectifs": [
+"Form “used to” in positive, negative and question forms.",
+"Talk about past habits and past situations that have changed.",
+"Contrast the past (used to) with the present (usually / now).",
+"Avoid confusion with “be used to” and with the past simple for one action."
+],
+"sections": [
+{
+"titre": "The form",
+"texte": [
+"“Used to” is followed by the base verb. It is the same for every subject: I used to, she used to, they used to.",
+"In negatives and questions, we use did, and the “d” of used disappears because did already shows the past. So we write “didn't use to” and “Did you use to…?”. (You may see “didn't used to”, but careful writing does not accept it.)"
+],
+"tableau": {
+"entetes": ["Form", "Pattern", "Example"],
+"lignes": [
+["positive", "subject + used to + base", "I used to live in Garoua."],
+["negative", "subject + didn't use to + base", "I didn't use to like coffee."],
+["negative (another way)", "subject + never used to + base", "He never used to call me."],
+["question", "Did + subject + use to + base?", "Did you use to play the piano?"],
+["short answer", "Yes, I did. / No, I didn't.", "Did she use to smoke? — Yes, she did."]
+]
+},
+"note": "“Used to” is only for the past. For a present habit, use the present simple with usually: “I usually get up at 6” (never “I use to get up at 6”)."
+},
+{
+"titre": "Use 1: past habits",
+"texte": [
+"We talk about actions we repeated in the past and do not do now. We often show the contrast with the present: “but now…”, “not any more”, “any longer”."
+],
+"exemples": [
+["I used to walk to school every day.", "A repeated past action; I don't do it now."],
+["We used to spend our holidays in Kribi.", "A past habit."],
+["She used to work late, but now she leaves at five.", "Contrast: before / now."]
+]
+},
+{
+"titre": "Use 2: past states and situations",
+"texte": [
+"“Used to” is also for states that have changed: where you lived, what you liked, what a person or a place looked like. It is great for comparing “before” and “now”."
+],
+"exemples": [
+["There used to be a cinema in this street.", "The cinema is not there now."],
+["He used to have long hair.", "His hair is short now."],
+["I didn't use to like vegetables, but now I love them.", "A changed state (like)."]
+]
+},
+{
+"titre": "Used to or past simple?",
+"texte": [
+"The past simple can also describe a past habit, especially with a length of time: “I lived in Lille for five years”. But “used to” stresses that the situation is finished and has changed.",
+"“Used to” is not possible for one single action, or when you say how many times something happened."
+],
+"tableau": {
+"entetes": ["Situation", "Correct", "Wrong"],
+"lignes": [
+["past habit", "I used to go / I went to the gym every week.", "—"],
+["one action", "I went to the gym yesterday.", "I used to go to the gym yesterday."],
+["number of times", "I visited Ghent three times.", "I used to visit Ghent three times."],
+["exact length of time", "I lived in Lille for five years.", "I used to live in Lille for five years. (avoid)"]
+]
+}
+},
+{
+"titre": "Don't confuse it with “be used to”",
+"texte": [
+"“Be used to + noun / verb-ing” means “be familiar with something, find it normal”. It is a different structure and it exists in the present: “I'm used to the cold.” You will study it at B1.",
+"For now, remember: used to + base verb = finished past habit; be used to + -ing = find something normal."
+],
+"exemples": [
+["I used to live in Canada.", "I lived there before, not now."],
+["I'm used to living in Canada.", "Living in Canada is normal for me now."]
+]
+}
+],
+"formule": "used to + base verb · didn't use to + base · Did … use to + base?",
+"prononciation": [
+"“used to” is /ˈjuːs tə/, with an s sound, like “juice” + “tuh”. The two t sounds join into one.",
+"Do not confuse it with the past of the verb “use”: “I used a knife” /juːzd/, with a z sound.",
+"“to” is weak /tə/ before a consonant (used to live /ˈjuːs tə lɪv/) and often /tu/ before a vowel (used to eat).",
+"In fast speech, “Did you use to…?” often sounds like /ˈdɪdʒə ˈjuːs tə/."
+],
+"erreurs": [
+["I use to get up at 6.", "I usually get up at 6.", "There is no present “use to”: use usually + present simple."],
+["I didn't used to like tea.", "I didn't use to like tea.", "After did / didn't: use to (no d)."],
+["Did you used to play football?", "Did you use to play football?", "The same rule in questions."],
+["She used to living in Paris.", "She used to live in Paris.", "Used to + base verb, not -ing."],
+["I used to go to the cinema last night.", "I went to the cinema last night.", "One action: past simple, never used to."],
+["When I was young, I was used to play outside.", "When I was young, I used to play outside.", "No “was”: “was used to” means “was familiar with”."]
+],
+"dialogue": {
+"contexte": "A grandfather, Joseph, shows old photos of Bafoussam to his granddaughter Inès, who lives in Brussels.",
+"lignes": [
+["Inès", "Grandpa, is that you? You used to have so much hair!", "used to + have: a past state."],
+["Joseph", "Ha! Yes, and I used to wear these big glasses.", "A past habit."],
+["Inès", "Where did you use to live?", "Wh- question: did + use to."],
+["Joseph", "In a small house near the market. There used to be a big tree in front of it.", "There used to be = there was before."],
+["Inès", "Did you use to walk to school?", "Yes / no question."],
+["Joseph", "Yes, every day — five kilometres! We didn't use to have a car.", "Negative: didn't use to."],
+["Inès", "Wow. Now I take the metro for two stops!", "Present simple for now."],
+["Joseph", "Times change, my dear.", "A common expression."]
+]
+},
+"mots": [
+["childhood", "I spent my childhood in Garoua.", "the time when you are a child"],
+["anymore", "She doesn't live here anymore.", "not now, when it was true before (UK also: any more)"],
+["nowadays", "Nowadays everyone has a phone.", "at the present time, compared with the past"],
+["neighbourhood", "Our neighbourhood used to be quiet.", "the area of a town where you live (US: neighborhood)"],
+["habit", "Smoking was a bad habit.", "something you do often and regularly"],
+["remember", "I remember my first teacher.", "to keep something in your mind from the past"],
+["grow up", "I grew up in Liège.", "to change from a child into an adult"],
+["change", "The city has changed a lot.", "to become different"],
+["once", "We once had a dog.", "at some time in the past"]
+],
+"exercices": [
+{
+"titre": "1. The right form",
+"consigne": "Choose the right form: used to, use to or usually.",
+"items": [
+["I ___ play tennis, but I stopped last year.", "used to"],
+["Did you ___ live in the city centre?", "use to"],
+["Now I ___ cycle to work.", "usually"],
+["We didn't ___ have a TV.", "use to"],
+["There ___ be a bakery here.", "used to"]
+]
+},
+{
+"titre": "2. Complete",
+"consigne": "Complete with the correct form of used to and the verb in brackets.",
+"items": [
+["My father ___ (work) in a bank.", "used to work"],
+["I ___ (not / eat) fish when I was a child.", "didn't use to eat"],
+["___ you ___ (have) a pet?", "Did … use to have"],
+["They ___ (live) in Toulouse before they moved to Quebec.", "used to live"],
+["She ___ (not / speak) English, but now she's fluent.", "didn't use to speak"]
+]
+},
+{
+"titre": "3. Before and now",
+"consigne": "Use used to or didn't use to to describe the past.",
+"items": [
+["Now I drink tea. (before: coffee)", "I used to drink coffee."],
+["Now he goes to the gym. (before: not)", "He didn't use to go to the gym."],
+["Now this street is busy. (before: quiet)", "This street used to be quiet."],
+["Now they have a car. (before: not)", "They didn't use to have a car."]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["I use to go to bed late.", "I usually go to bed late. (present habit) / I used to go to bed late. (past habit)"],
+["Did she used to work here?", "Did she use to work here?"],
+["We used to going to the beach.", "We used to go to the beach."],
+["I used to see him yesterday.", "I saw him yesterday."]
+]
+},
+{
+"titre": "5. Make questions",
+"consigne": "Write the question with used to.",
+"items": [
+["you / live / in Lomé?", "Did you use to live in Lomé?"],
+["he / like / sport?", "Did he use to like sport?"],
+["where / you / play / when you were children?", "Where did you use to play when you were children?"]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Compare your life ten years ago and today in five sentences (at least three with used to / didn't use to).",
+"items": [
+["Model answer", "Ten years ago I used to live with my parents in Douala. I used to take a taxi to university every day. I didn't use to cook at all! Now I live alone in Brussels and I cook every evening. I usually go to work by tram."]
+]
+}
+],
+"a_retenir": [
+"Used to + base verb = a past habit or situation that has changed.",
+"Negative: didn't use to; question: Did … use to …? (no d after did).",
+"No present “use to”: say I usually…",
+"No used to for one action or with a number of times (past simple).",
+"Don't confuse it with be used to + -ing (find something normal)."
+],
+"liens": [7, 41, 42, 43],
+"refs": ["bc-used-to", "bc-past-habits"]
+}

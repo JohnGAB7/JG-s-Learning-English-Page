@@ -1,0 +1,202 @@
+{
+"n": 29,
+"niveau": "A1",
+"titre": "Wh- questions (what, where, who…)",
+"intro": "Question words (what, where, when, who, why, how…) make open questions: questions that ask for information. The secret is word order: question word + auxiliary + subject + verb.",
+"objectifs": [
+ "Know the question words and their meaning: what, where, when, who, why, how, which, whose.",
+ "Make questions in the right order with be, do / does, can and the present continuous.",
+ "Use How + adjective (how old, how often, how far) and What + noun (what time, what colour).",
+ "Put the preposition at the end of the question (Where are you from?)."
+],
+"sections": [
+ {
+  "titre": "Question words",
+  "texte": [
+   "Most of them start with “wh-”, so we call them Wh- words; “how” is in the same family. The question word always comes at the start of the question."
+  ],
+  "tableau": {
+   "entetes": ["Word", "It asks about…", "Example"],
+   "lignes": [
+    ["what", "a thing, an idea", "What's your name?"],
+    ["where", "a place", "Where do you live?"],
+    ["when", "a time", "When is your birthday?"],
+    ["who", "a person", "Who is that man?"],
+    ["why", "a reason", "Why are you sad?"],
+    ["how", "a way, a state", "How do you go to work?"],
+    ["which", "a choice from a small group", "Which bus goes to the centre?"],
+    ["whose", "the owner", "Whose phone is this?"]
+   ]
+  },
+  "note": "We usually answer “Why?” with “because”: “Why are you tired? — Because I work at night.”"
+ },
+ {
+  "titre": "Word order: Wh- + auxiliary + subject + verb",
+  "texte": [
+   "In English, you can't keep the order of a statement in a question (“Where you live?” is wrong). You need an auxiliary before the subject.",
+   "With “be”, “can” or the present continuous, the auxiliary is already there: just put it before the subject. With the present simple, add “do” or “does”; the main verb is then in the base form (no s).",
+   "Remember QASI: Question word, Auxiliary, Subject, Infinitive (base verb)."
+  ],
+  "tableau": {
+   "entetes": ["Tense / verb", "Question word", "Auxiliary", "Subject", "Verb + rest"],
+   "lignes": [
+    ["be", "Where", "is", "your office?", "—"],
+    ["present simple", "Where", "do", "you", "live?"],
+    ["present simple (he/she/it)", "What time", "does", "the shop", "open?"],
+    ["present continuous", "What", "are", "you", "doing?"],
+    ["can", "How many languages", "can", "she", "speak?"]
+   ]
+  },
+  "exemples": [
+   ["Where does your sister work? — In a bank.", "does + work (no s)."],
+   ["What are you reading? — A novel.", "Present continuous."],
+   ["Why is the shop closed?", "be: is before the subject."]
+  ]
+ },
+ {
+  "titre": "How + adjective, What / Which + noun",
+  "texte": [
+   "“How” goes with an adjective or adverb to ask about a measure: how old (age), how tall (height), how far (distance), how long (time), how often (frequency). “How much / how many” are in lesson 30.",
+   "“What” and “which” go with a noun: what time, what colour, what kind of music. Use “which” when the choice is small and known (Which one, the red or the blue?) and “what” when the choice is open.",
+   "“Whose” + noun asks about the owner: “Whose car is this? — It's Marc's.” Don't confuse it with “Who's” (= who is), which sounds the same."
+  ],
+  "exemples": [
+   ["How old is your daughter? — She's six.", "Age: How old + be."],
+   ["How often do you go to the gym? — Twice a week.", "Frequency."],
+   ["How far is the airport? — About ten kilometres.", "Distance."],
+   ["What kind of music do you like?", "Open choice."],
+   ["Which colour do you want, blue or green?", "Small, known choice."]
+  ]
+ },
+ {
+  "titre": "The preposition at the end",
+  "texte": [
+   "When a verb has a preposition (be from, talk to, look at, wait for), the preposition stays at the end of the question in normal English: “Where are you from?”, not “From where are you?”.",
+   "This is the normal form in speaking and in writing."
+  ],
+  "exemples": [
+   ["Where are you from? — I'm from Cameroon.", "be from."],
+   ["Who are you waiting for?", "wait for."],
+   ["What are you looking at?", "look at."]
+  ]
+ },
+ {
+  "titre": "When “who” or “what” is the subject",
+  "texte": [
+   "When “who” or “what” is the subject of the verb (you ask WHO does the action), don't use “do / does”: “Who lives here?”. Compare: “Who do you love?” (“you” is the subject).",
+   "At this level, learn the common questions: “Who wants coffee?”, “What happens next?”. Lesson 68 looks at this in more detail."
+  ],
+  "exemples": [
+   ["Who knows the answer?", "who = subject: no does."],
+   ["Who does Marie know here?", "Marie = subject: does is necessary."]
+  ]
+ }
+],
+"formule": "Question word + auxiliary (is / are / do / does / can) + subject + verb…? — Where do you live?",
+"prononciation": [
+ "In what, where, when, why, which, “wh” sounds like /w/: /wɒt/, /weə/, /wen/, /waɪ/. But who, whose and whom start with /h/: /huː/, /huːz/.",
+ "In a Wh- question, the voice goes down at the end (like a statement): “Where do you LIVE? ↘”.",
+ "In fast speech, “do you” gets short: “Where do you live?” ≈ /ˈweə dʒə ˈlɪv/; “What do you” ≈ /ˈwɒdʒə/.",
+ "Common short forms: what's /wɒts/, where's /weəz/, who's /huːz/, how's /haʊz/.",
+ "“Whose” and “who's” sound exactly the same: /huːz/. The context shows the difference."
+],
+"erreurs": [
+ ["Where you live?", "Where do you live?", "You need the auxiliary “do” before the subject."],
+ ["Where does she lives?", "Where does she live?", "After “does”, use the base verb, no s."],
+ ["What age have you?", "How old are you?", "Ask about age with “How old + be”."],
+ ["From where are you?", "Where are you from?", "The preposition stays at the end."],
+ ["How is called your brother?", "What's your brother called? / What's your brother's name?", "Ask about names with What's … called? / What's … name?"],
+ ["Why you are late?", "Why are you late?", "With “be”, put the verb before the subject."],
+ ["Who is this bag?", "Whose bag is this?", "Ask about the owner with “whose”."],
+ ["Who does live here?", "Who lives here?", "When “who” is the subject, no “do / does”."]
+],
+"dialogue": {
+ "contexte": "At a conversation café in Montreal, Julie meets Emmanuel, who is new from Cameroon.",
+ "lignes": [
+  ["Julie", "Hi! What's your name?", "what + be."],
+  ["Emmanuel", "I'm Emmanuel. Nice to meet you.", "A polite phrase."],
+  ["Julie", "Where are you from, Emmanuel?", "Preposition at the end."],
+  ["Emmanuel", "I'm from Bamenda, in Cameroon.", "Answer with “from”."],
+  ["Julie", "Cool! Why are you in Montreal?", "why + be."],
+  ["Emmanuel", "Because I'm a student at the university. I study engineering.", "Answer to why: because."],
+  ["Julie", "And how often do you come to this café?", "how often = frequency."],
+  ["Emmanuel", "Every Thursday. What about you? What do you do?", "“What do you do?” = What's your job?"],
+  ["Julie", "I'm a nurse. Which language do you want to practise tonight, English or French?", "which = a choice of two."],
+  ["Emmanuel", "English, please!", "A short answer."]
+ ]
+},
+"mots": [
+ ["what", "What's your job?", "used to ask about a thing or information"],
+ ["where", "Where is the station?", "used to ask about a place"],
+ ["when", "When is the meeting?", "used to ask about a time"],
+ ["who", "Who is your teacher?", "used to ask about a person"],
+ ["why", "Why are you tired?", "used to ask about a reason"],
+ ["how", "How do you spell your name?", "used to ask about the way to do something"],
+ ["which", "Which bus goes to the airport?", "used to ask about a choice from a small group"],
+ ["whose", "Whose keys are these?", "used to ask who something belongs to"],
+ ["how often", "How often do you cook?", "used to ask how many times something happens"],
+ ["how far", "How far is your office?", "used to ask about distance"]
+],
+"exercices": [
+ {
+  "titre": "1. The right question word",
+  "consigne": "Complete with what, where, when, who, why, how or whose.",
+  "items": [
+   ["___ do you live? — In Lille.", "Where"],
+   ["___ is your birthday? — In May.", "When"],
+   ["___ is that woman? — She's my aunt.", "Who"],
+   ["___ are you sad? — Because my cat is ill.", "Why"],
+   ["___ do you go to work? — By bus.", "How"],
+   ["___ umbrella is this? — It's mine.", "Whose"]
+  ]
+ },
+ {
+  "titre": "2. Put the words in order",
+  "consigne": "Put the words in the right order to make a question.",
+  "items": [
+   ["live / where / you / do", "Where do you live?"],
+   ["does / what time / start / the film", "What time does the film start?"],
+   ["you / are / what / doing", "What are you doing?"],
+   ["from / is / where / he", "Where is he from?"]
+  ]
+ },
+ {
+  "titre": "3. Ask the question",
+  "consigne": "Write the question for the part in CAPITAL LETTERS.",
+  "items": [
+   ["I live IN DOUALA.", "Where do you live?"],
+   ["She's TWENTY-FIVE.", "How old is she?"],
+   ["The film starts AT EIGHT.", "What time does the film start?"],
+   ["It's ANNA'S bag.", "Whose bag is it?"],
+   ["I go to the gym TWICE A WEEK.", "How often do you go to the gym?"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each question has one mistake. Write it correctly.",
+  "items": [
+   ["From where are you?", "Where are you from?"],
+   ["What age has your brother?", "How old is your brother?"],
+   ["Where she works?", "Where does she work?"],
+   ["How is called your sister?", "What's your sister's name? / What's your sister called?"],
+   ["Who does live here?", "Who lives here?"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "You meet a new colleague. Write five different questions with five different question words.",
+  "items": [
+   ["Model answer", "What's your name? Where are you from? Where do you live? How do you come to work? What do you do at the weekend?"]
+  ]
+ }
+],
+"a_retenir": [
+ "Order: question word + auxiliary + subject + verb (QASI): Where do you live? What are you doing?",
+ "Present simple: do / does + base verb (Where does she work?).",
+ "How old / how often / how far / how long; What time / what colour / what kind of; which = small choice; whose = owner.",
+ "The preposition stays at the end: Where are you from? Who are you waiting for?",
+ "The voice goes down at the end of a Wh- question."
+],
+"liens": [4, 6, 30, 67, 68],
+"refs": ["bc-questions", "cam-sentences"]
+}

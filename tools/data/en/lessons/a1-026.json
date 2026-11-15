@@ -1,0 +1,208 @@
+{
+"n": 26,
+"niveau": "A1",
+"titre": "Food and meals",
+"intro": "Everyone talks about food: what we eat, when we eat and what we like. This lesson gives you the key words and the common traps: “have breakfast”, uncountable words like “bread”, and confusing words (raisins, chips).",
+"objectifs": [
+ "Name the meals and say what you eat with “have breakfast / lunch / dinner”.",
+ "Know the most common foods and drinks.",
+ "Count uncountable food with a glass of, a piece of, a cup of…",
+ "Talk about what you like and describe a dish (delicious, spicy, sweet)."
+],
+"sections": [
+ {
+  "titre": "The meals of the day",
+  "texte": [
+   "The three meals are “breakfast” (morning), “lunch” (midday) and “dinner” (evening). A little food between meals is “a snack”.",
+   "To say you eat a meal, use “have”, not “take”: “I have breakfast at seven.” Don't use an article before the meal: “have lunch”, not “have the lunch”.",
+   "To say what you eat at a meal, use “for”: “What do you have for breakfast? — I have bread and tea.”"
+  ],
+  "exemples": [
+   ["I have breakfast at half past six.", "have + meal, no article."],
+   ["What do you have for lunch? — Usually rice and fish.", "for + meal."],
+   ["We have dinner with the family on Sundays.", "A habit: present simple."]
+  ],
+  "note": "In Britain, the evening meal is also called “tea” (in the north) or “supper” (a light, late meal). In the USA, “dinner” is always the evening meal."
+ },
+ {
+  "titre": "Food and drink",
+  "texte": [
+   "Here are the most useful words in groups. Many foods (rice, bread, meat, cheese, water) are uncountable: they have no plural and don't take “a”."
+  ],
+  "tableau": {
+   "entetes": ["Group", "Words", "Countable?"],
+   "lignes": [
+    ["Fruit", "an apple · a banana · an orange · a mango · a pineapple · grapes", "yes (but “fruit” in general: no)"],
+    ["Vegetables", "a tomato · a potato · an onion · a carrot · beans · salad", "mostly yes"],
+    ["Meat and fish", "chicken · beef · pork · fish · eggs", "eggs yes; meat no"],
+    ["Basics", "bread · rice · pasta · plantain · cassava", "no"],
+    ["Dairy", "milk · cheese · butter · yoghurt", "no"],
+    ["Drinks", "water · tea · coffee · juice · soft drinks", "no (but “a coffee” in a café)"]
+   ]
+  },
+  "exemples": [
+   ["I eat a lot of fruit and vegetables.", "“fruit” is usually singular in general."],
+   ["Do you want chicken or fish?", "No article: uncountable meat."]
+  ]
+ },
+ {
+  "titre": "Counting things you can't count",
+  "texte": [
+   "Some foods are countable: an apple, two apples, an egg. Others are uncountable: bread, rice, water, milk, meat, cheese, sugar. Don't say “a bread” or “two waters” (but in a café, “two coffees” means two cups of coffee).",
+   "To talk in general, use the noun alone: “I like bread.” For an amount that is not exact, use “some” (lesson 31): “I'd like some water.”",
+   "To count, add a quantity word or a container: a glass of water, a piece of bread. Lessons 30 and 31 look at this in more detail."
+  ],
+  "tableau": {
+   "entetes": ["Quantity word", "Examples", "Note"],
+   "lignes": [
+    ["a glass of", "a glass of water / milk / juice", "cold drinks"],
+    ["a cup of", "a cup of tea / coffee", "hot drinks"],
+    ["a bottle of", "a bottle of water / oil", "a closed container"],
+    ["a piece of", "a piece of bread / cake / cheese", "a part of something"],
+    ["a slice of", "a slice of bread / pizza", "a thin, flat piece"],
+    ["a bowl of", "a bowl of rice / soup", "a deep round dish"],
+    ["a kilo of", "a kilo of rice / tomatoes", "1,000 grams"]
+   ]
+  },
+  "exemples": [
+   ["Can I have a glass of water, please?", "A polite request."],
+   ["I eat two slices of bread for breakfast.", "The quantity word takes the plural: slices."]
+  ]
+ },
+ {
+  "titre": "Saying what you like and describing a dish",
+  "texte": [
+   "Your tastes: “I like fish”, “I don't like coffee”, “My favourite food is ndolé”. Your diet: “I'm vegetarian” (I don't eat meat), “I don't eat pork”.",
+   "To describe a dish: delicious, tasty (with a good taste), spicy / hot (with a lot of chilli), sweet (with sugar), salty (with salt), fresh (new, not old).",
+   "Careful: “cook” is a verb (to make food) and a noun (a person who cooks). “A cooker” is a machine in the kitchen (US: a stove), not a person!"
+  ],
+  "exemples": [
+   ["This soup is delicious!", "A very good taste."],
+   ["Be careful, the sauce is very spicy.", "A lot of chilli."],
+   ["My father is a great cook.", "cook = a person."]
+  ]
+ },
+ {
+  "titre": "Confusing food words",
+  "texte": [
+   "Some words look like words in other languages but have a different meaning, and some change between British and American English."
+  ],
+  "tableau": {
+   "entetes": ["Word", "Real meaning", "Careful"],
+   "lignes": [
+    ["raisins", "dried grapes", "fresh ones = grapes"],
+    ["chips (UK)", "long pieces of fried potato", "US: fries; thin dry ones: crisps (UK), chips (US)"],
+    ["biscuits (UK)", "small, dry, sweet cakes", "US: cookies"],
+    ["entrée (US)", "the main course", "first course: starter (UK), appetizer (US)"],
+    ["marmalade", "jam made from oranges", "other fruit: jam"],
+    ["dessert /dɪˈzɜːt/", "sweet food after a meal", "desert /ˈdezət/ = a dry, sandy place"]
+   ]
+  }
+ }
+],
+"formule": "have breakfast / lunch / dinner · What do you have for breakfast? · a glass of water, a piece of bread",
+"prononciation": [
+ "“vegetable” has three syllables: /ˈvedʒtəbl/ (“vedj-te-bl”), not four.",
+ "“breakfast” /ˈbrekfəst/: “brek-fest”, not “break-fast”.",
+ "Don't mix up “chicken” /ˈtʃɪkɪn/ (the bird, the meat) and “kitchen” /ˈkɪtʃɪn/ (the room): the “ch” sound moves.",
+ "“dessert” /dɪˈzɜːt/ has the stress at the end; “desert” /ˈdezət/ has the stress at the start.",
+ "“bread” /bred/ and “fruit” /fruːt/: you hear only one vowel; the i in “fruit” is silent."
+],
+"erreurs": [
+ ["I take my breakfast at 7.", "I have breakfast at 7.", "For a meal: “have”, with no article."],
+ ["Can I have a bread?", "Can I have some bread? / Can I have a piece of bread?", "“Bread” is uncountable."],
+ ["I eat a rice every day.", "I eat rice every day.", "No “a” before an uncountable noun."],
+ ["I love raisins, especially fresh ones.", "I love grapes.", "Fresh = grapes; dried = raisins."],
+ ["My mother is a good cooker.", "My mother is a good cook.", "“Cooker” = the machine for cooking."],
+ ["We have the lunch at noon.", "We have lunch at noon.", "No article before breakfast, lunch, dinner."],
+ ["I eat many fruits.", "I eat a lot of fruit.", "In general, “fruit” is used as an uncountable noun."],
+ ["I'd like a cup of tea with a milk.", "I'd like a cup of tea with milk.", "“Milk” is uncountable: no “a”."]
+],
+"dialogue": {
+ "contexte": "In Douala, two colleagues, Brice and Hannah (from Canada), choose a restaurant for lunch.",
+ "lignes": [
+  ["Brice", "It's one o'clock. Let's have lunch!", "have lunch: no article."],
+  ["Hannah", "Good idea. I'm hungry. What do people eat here for lunch?", "for + meal."],
+  ["Brice", "Try ndolé. It's a dish with leaves, peanuts and meat or fish.", "A dish from Cameroon."],
+  ["Hannah", "Is it spicy?", "spicy = with chilli."],
+  ["Brice", "Not very. And you can have it with plantain or rice.", "Uncountable: no “a”."],
+  ["Hannah", "Perfect. I love plantain. And to drink?", "“to drink” = for a drink."],
+  ["Brice", "A bottle of water for me, and a fresh juice for you?", "Quantity word: a bottle of."],
+  ["Hannah", "Yes, please. Mango juice! This is a delicious lunch.", "“a delicious lunch”: article because of the adjective."]
+ ]
+},
+"mots": [
+ ["breakfast", "I have breakfast at seven.", "the first meal of the day"],
+ ["lunch", "Let's have lunch together.", "the meal in the middle of the day"],
+ ["dinner", "Dinner is ready!", "the main meal in the evening"],
+ ["snack", "I have a snack at four o'clock.", "a little food between meals"],
+ ["vegetable", "Eat your vegetables!", "a plant we eat, like a carrot or an onion"],
+ ["meat", "I don't eat meat.", "food from animals, like beef or chicken"],
+ ["rice", "We have rice with fish.", "small white or brown grains that we cook"],
+ ["delicious", "This cake is delicious.", "with a very good taste"],
+ ["spicy", "I love spicy food.", "with a strong, hot taste"],
+ ["cook", "My brother is a good cook.", "to make food; a person who makes food"]
+],
+"exercices": [
+ {
+  "titre": "1. Which meal?",
+  "consigne": "Give the name of the meal.",
+  "items": [
+   ["The meal in the morning", "breakfast"],
+   ["The meal in the middle of the day", "lunch"],
+   ["The main meal in the evening", "dinner"],
+   ["A little food between meals", "a snack"]
+  ]
+ },
+ {
+  "titre": "2. The right quantity word",
+  "consigne": "Complete with glass, cup, piece, bowl, bottle or bar.",
+  "items": [
+   ["a ___ of water (to drink now)", "glass"],
+   ["a ___ of tea", "cup"],
+   ["a ___ of bread", "piece (or slice)"],
+   ["a ___ of rice", "bowl"],
+   ["a ___ of oil", "bottle"],
+   ["a ___ of chocolate", "bar"]
+  ]
+ },
+ {
+  "titre": "3. A, an or nothing?",
+  "consigne": "Complete with a, an or — (nothing).",
+  "items": [
+   ["I eat ___ apple every day.", "an"],
+   ["She drinks ___ water with her meals.", "— (nothing)"],
+   ["We have ___ rice for lunch.", "— (nothing)"],
+   ["Do you want ___ banana?", "a"],
+   ["He has ___ egg for breakfast.", "an"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I take breakfast at eight o'clock.", "I have breakfast at eight o'clock."],
+   ["I'd like a water, please.", "I'd like a glass of water, please. / I'd like some water, please."],
+   ["I love fresh raisins.", "I love grapes."],
+   ["My brother is a very good cooker.", "My brother is a very good cook."],
+   ["What do you have at lunch?", "What do you have for lunch?"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Describe your meals on a normal day in four or five sentences: what you eat and drink, and when. Say what your favourite food is.",
+  "items": [
+   ["Model answer", "I have breakfast at seven: two slices of bread with butter and a cup of coffee. For lunch I usually have rice and chicken. At four o'clock I have a snack, often a banana. I have dinner at eight with my family. My favourite food is grilled fish with plantain."]
+  ]
+ }
+],
+"a_retenir": [
+ "have breakfast / lunch / dinner (not take, no article); What do you have for lunch?",
+ "bread, rice, water, milk, meat, cheese: uncountable, no “a”, no plural.",
+ "To count: a glass of, a cup of, a bottle of, a piece of, a slice of, a bowl of.",
+ "Careful: grapes (fresh) vs raisins (dried); chips (UK) = fries (US); a cook = a person, a cooker = a machine.",
+ "To describe a dish: delicious, tasty, spicy, sweet, salty, fresh."
+],
+"liens": [6, 30, 31, 34, 79],
+"refs": ["bc-countable", "cam-nouns"]
+}

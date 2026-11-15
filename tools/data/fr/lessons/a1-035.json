@@ -1,0 +1,204 @@
+{
+"n": 35,
+"niveau": "A1",
+"titre": "Les adjectifs : place et ordre",
+"intro": "En anglais, l’adjectif est invariable et se place devant le nom : « a red car », « red cars ». Quand on en met plusieurs, ils suivent un ordre précis (opinion, taille, âge, couleur, origine, matière). Cette leçon vous évite les erreurs les plus fréquentes des francophones.",
+"objectifs": [
+ "Placer l’adjectif devant le nom ou après un verbe comme be, look, feel.",
+ "Utiliser l’adjectif sans accord : pas de pluriel, pas de féminin.",
+ "Mettre plusieurs adjectifs dans le bon ordre (a beautiful old wooden table).",
+ "Utiliser un nom comme adjectif (a coffee cup, a bus stop)."
+],
+"sections": [
+ {
+  "titre": "Devant le nom ou après le verbe",
+  "texte": [
+   "L’adjectif se place devant le nom : « a big house », « an interesting book ». En français, beaucoup d’adjectifs viennent après le nom (une voiture rouge) ; en anglais, jamais dans ce cas : « a red car ».",
+   "Il peut aussi se placer après certains verbes : be, look (avoir l’air), feel (se sentir), seem (sembler), get / become (devenir), taste (avoir le goût), smell (sentir) : « The house is big. », « You look tired. », « This soup tastes good. »",
+   "« A » ou « an » dépend du son du mot qui suit immédiatement, donc souvent de l’adjectif : « a car » mais « an old car » ; « an apple » mais « a big apple »."
+  ],
+  "exemples": [
+   ["We live in a small flat.", "Nous habitons dans un petit appartement."],
+   ["The flat is small but comfortable.", "L’appartement est petit mais confortable (après be)."],
+   ["You look happy today!", "Tu as l’air heureux aujourd’hui !"],
+   ["It's an expensive restaurant.", "C’est un restaurant cher (an devant le son voyelle de « expensive »)."]
+  ]
+ },
+ {
+  "titre": "L’adjectif est invariable",
+  "texte": [
+   "L’adjectif anglais ne s’accorde jamais : pas de s au pluriel, pas de forme féminine. « A tall man, a tall woman, tall people. »",
+   "On ne peut pas non plus utiliser un adjectif seul comme nom pour une personne au singulier : on ajoute « one », « man », « woman », « person » : « the new one », « a rich man ». (« The rich » existe, mais pour un groupe général.)"
+  ],
+  "tableau": {
+   "entetes": ["Français", "Anglais"],
+   "lignes": [
+    ["un homme grand", "a tall man"],
+    ["une femme grande", "a tall woman"],
+    ["des enfants grands", "tall children"],
+    ["les personnes importantes", "the important people"],
+    ["la rouge (la robe)", "the red one"]
+   ]
+  },
+  "exemples": [
+   ["I've got two black cats.", "J’ai deux chats noirs (black reste invariable)."],
+   ["Which dress do you want? — The blue one.", "Quelle robe veux-tu ? — La bleue."]
+  ]
+ },
+ {
+  "titre": "L’ordre de plusieurs adjectifs",
+  "texte": [
+   "Quand il y a plusieurs adjectifs devant le nom, l’anglais suit un ordre assez fixe. L’adjectif d’opinion (ce que je pense) vient en premier, puis les faits : taille, âge, forme, couleur, origine, matière, et enfin l’usage, juste avant le nom.",
+   "Dans la pratique, on met rarement plus de deux ou trois adjectifs. Retenez surtout : opinion → taille → âge → couleur → origine → matière.",
+   "Deux couleurs sont reliées par « and » : « a black and white cat »."
+  ],
+  "tableau": {
+   "entetes": ["1. Opinion", "2. Taille", "3. Âge", "4. Forme", "5. Couleur", "6. Origine", "7. Matière", "Nom"],
+   "lignes": [
+    ["a beautiful", "", "old", "", "", "", "wooden", "table"],
+    ["a lovely", "small", "", "", "", "Italian", "", "restaurant"],
+    ["", "a big", "", "round", "", "", "", "plate"],
+    ["", "", "an old", "", "red", "", "", "car"],
+    ["nice", "", "", "", "black", "", "leather", "shoes"]
+   ]
+  },
+  "exemples": [
+   ["She's got a beautiful old wooden table.", "Elle a une belle vieille table en bois."],
+   ["We often eat in a lovely small Italian restaurant.", "Nous mangeons souvent dans un charmant petit restaurant italien."],
+   ["He's wearing black leather shoes.", "Il porte des chaussures en cuir noir."]
+  ],
+  "note": "Moyen mnémotechnique : OSASCOMP (Opinion, Size, Age, Shape, Colour, Origin, Material, Purpose)."
+ },
+ {
+  "titre": "Les adjectifs qui se placent seulement après le verbe",
+  "texte": [
+   "Quelques adjectifs commençant par « a- » se mettent seulement après le verbe : afraid, alone, asleep, awake, alive. On dit « The baby is asleep », mais pas « an asleep baby » : on dit « a sleeping baby ».",
+   "De même, « ill » (malade) s’utilise surtout après le verbe en anglais britannique : « She's ill. » Devant le nom, on dit « a sick child »."
+  ],
+  "exemples": [
+   ["Don't make noise, the baby is asleep.", "Ne fais pas de bruit, le bébé dort."],
+   ["I'm afraid of dogs. — He's a frightened child.", "J’ai peur des chiens. — C’est un enfant effrayé (afraid → frightened devant le nom)."]
+  ]
+ },
+ {
+  "titre": "Un nom utilisé comme adjectif",
+  "texte": [
+   "L’anglais met souvent un nom devant un autre nom pour le décrire. Le premier nom joue le rôle d’adjectif et reste au singulier : « a shoe shop » (un magasin de chaussures), « a bus stop » (un arrêt de bus), « a coffee cup » (une tasse à café).",
+   "Le mot le plus important est le dernier : « a coffee cup » est une tasse ; « a cup of coffee » est le café dans la tasse.",
+   "Ces groupes peuvent aussi prendre un adjectif devant : « a new shoe shop », « a big football match »."
+  ],
+  "exemples": [
+   ["There's a bus stop in front of the school.", "Il y a un arrêt de bus devant l’école."],
+   ["My sister works in a shoe shop.", "Ma sœur travaille dans un magasin de chaussures (shoe au singulier)."],
+   ["Let's watch the football match tonight.", "Regardons le match de football ce soir."]
+  ]
+ }
+],
+"formule": "(a / an) + opinion + taille + âge + forme + couleur + origine + matière + NOM · be / look / feel + adjectif",
+"prononciation": [
+ "Dans un groupe adjectif + nom, l’accent principal tombe sur le nom : « a big HOUSE », « a red CAR ».",
+ "Dans un nom composé (nom + nom), l’accent tombe sur le premier nom : « a COFFEE cup », « a BUS stop », « a SHOE shop ».",
+ "« an » se lie au mot suivant : « an old car » = /ən ˈəʊld kɑː/ ≈ « a-nold car ».",
+ "« interesting » se dit en trois syllabes : /ˈɪntrəstɪŋ/ (« in-tres-ting »), accent au début.",
+ "« comfortable » : /ˈkʌmftəbl/, trois syllabes ; « beautiful » : /ˈbjuːtɪfl/, accent sur « beau »."
+],
+"erreurs": [
+ ["I've got a car red.", "I've got a red car.", "L’adjectif se place devant le nom."],
+ ["They are reds cars.", "They are red cars.", "L’adjectif ne prend pas de s."],
+ ["a French old house", "an old French house", "L’âge vient avant l’origine."],
+ ["the persons importants", "the important people", "Adjectif devant le nom, invariable ; « people » au pluriel."],
+ ["a shoes shop", "a shoe shop", "Le nom utilisé comme adjectif reste au singulier."],
+ ["an asleep baby", "a sleeping baby", "« Asleep » se place seulement après le verbe."],
+ ["She is a woman very nice.", "She's a very nice woman.", "Very + adjectif se place devant le nom."],
+ ["a wooden big table", "a big wooden table", "La taille vient avant la matière."]
+],
+"dialogue": {
+ "contexte": "À l’aéroport de Bruxelles, Moana a perdu son sac. Elle le décrit à l’agent du bureau des objets trouvés.",
+ "lignes": [
+  ["Agent", "Good morning. How can I help you?", "Bonjour. Que puis-je faire pour vous ?"],
+  ["Moana", "I can't find my bag. I think it's on the plane from Montreal.", "Je ne trouve pas mon sac. Je pense qu’il est dans l’avion de Montréal."],
+  ["Agent", "OK. What does it look like?", "D’accord. À quoi ressemble-t-il ?"],
+  ["Moana", "It's a small black leather bag.", "C’est un petit sac en cuir noir."],
+  ["Agent", "Is it a backpack or a handbag?", "C’est un sac à dos ou un sac à main ?"],
+  ["Moana", "A handbag. It's got a long thin strap and a little silver key ring.", "Un sac à main. Il a une longue bandoulière fine et un petit porte-clés argenté."],
+  ["Agent", "Let me check… Is this your bag?", "Je vérifie… C’est votre sac ?"],
+  ["Moana", "No, that's a big brown bag. Mine is black.", "Non, celui-là est un grand sac marron. Le mien est noir."],
+  ["Agent", "And this one?", "Et celui-ci ?"],
+  ["Moana", "Yes! That's it! Thank you so much!", "Oui ! C’est lui ! Merci beaucoup !"]
+ ]
+},
+"mots": [
+ ["beautiful", "What a beautiful garden!", "beau, belle, magnifique"],
+ ["ugly", "That building is really ugly.", "laid, moche"],
+ ["huge", "They live in a huge house.", "énorme, immense"],
+ ["tiny", "My kitchen is tiny.", "minuscule"],
+ ["modern", "I like modern furniture.", "moderne"],
+ ["round", "We've got a round table.", "rond"],
+ ["wooden", "a wooden chair", "en bois"],
+ ["leather", "a leather jacket", "le cuir ; en cuir"],
+ ["plastic", "Don't use plastic bags.", "le plastique ; en plastique"],
+ ["cotton", "a white cotton shirt", "le coton ; en coton"]
+],
+"exercices": [
+ {
+  "titre": "1. La place de l’adjectif",
+  "consigne": "Ajoute l’adjectif entre parenthèses à la bonne place.",
+  "items": [
+   ["I've got a car. (new)", "I've got a new car."],
+   ["They are students. (French)", "They are French students."],
+   ["It's a book. (interesting)", "It's an interesting book."],
+   ["She lives in a house. (big)", "She lives in a big house."],
+   ["You look today. (tired)", "You look tired today."]
+  ]
+ },
+ {
+  "titre": "2. L’ordre des adjectifs",
+  "consigne": "Mets les adjectifs dans le bon ordre devant le nom.",
+  "items": [
+   ["a ___ bag (blue / small)", "a small blue bag"],
+   ["a ___ house (old / beautiful)", "a beautiful old house"],
+   ["a ___ car (Italian / red)", "a red Italian car"],
+   ["a ___ table (wooden / round)", "a round wooden table"],
+   ["___ shoes (leather / black)", "black leather shoes"],
+   ["a ___ man (young / tall)", "a tall young man"]
+  ]
+ },
+ {
+  "titre": "3. Nom + nom",
+  "consigne": "Forme un nom composé.",
+  "items": [
+   ["a cup for coffee", "a coffee cup"],
+   ["a station for buses", "a bus station"],
+   ["a shop that sells shoes", "a shoe shop"],
+   ["a match of football", "a football match"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["une voiture blanche", "a white car"],
+   ["des fleurs rouges", "red flowers"],
+   ["une belle robe en coton", "a beautiful cotton dress"],
+   ["un vieil homme sympathique", "a nice old man / a friendly old man"],
+   ["Le bébé dort. (utilise asleep)", "The baby is asleep."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Décris trois objets que tu aimes (un vêtement, un meuble, un objet personnel) en utilisant au moins deux adjectifs pour chacun, dans le bon ordre.",
+  "items": [
+   ["Exemple de réponse", "I love my old blue jeans. In my living room there's a big round wooden table. And I always carry a small black leather wallet."]
+  ]
+ }
+],
+"a_retenir": [
+ "Adjectif devant le nom (a red car) ou après be / look / feel / seem (The car is red).",
+ "Invariable : pas de s, pas de féminin (red cars, a tall woman).",
+ "Ordre : opinion – taille – âge – forme – couleur – origine – matière – nom (a beautiful old wooden table).",
+ "afraid, alone, asleep, awake, alive : seulement après le verbe.",
+ "Nom + nom : le premier reste au singulier (a shoe shop, a bus stop)."
+],
+"liens": [24, 25, 46, 88, 121],
+"refs": ["cam-adj", "bc-a1a2"]
+}

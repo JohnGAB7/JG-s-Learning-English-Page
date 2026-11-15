@@ -1,0 +1,190 @@
+{
+"n": 54,
+"niveau": "A2",
+"titre": "Must and have to",
+"intro": "“Must” and “have to” both express obligation (something is necessary). In positive sentences they often mean almost the same, but the feeling and the grammar are different: must is a modal verb that never changes, have to works like a normal verb.",
+"objectifs": [
+"Form must + base verb and have to / has to + base verb correctly.",
+"Tell the difference between the speaker's own obligation (must) and an outside obligation (have to).",
+"Talk about obligation in the past (had to) and the future (will have to).",
+"Ask about obligation with “Do I have to…?”."
+],
+"sections": [
+{
+"titre": "The form of must",
+"texte": [
+"“Must” is a modal verb: it does not change with the subject (no -s) and it is followed directly by the base verb, without to.",
+"Questions with must (“Must I…?”) exist but sound formal or old-fashioned; we almost always say “Do I have to…?”. The negative mustn't has a special meaning: see lesson 55."
+],
+"exemples": [
+["I must call my mother tonight.", "I think it's important."],
+["You must wear a seatbelt.", "A strong obligation."],
+["Passengers must show their tickets.", "A written rule."]
+]
+},
+{
+"titre": "The form of have to",
+"texte": [
+"“Have to” works like a normal verb: has to for he / she / it, and do / does / did in questions and negatives.",
+"In spoken British English, you also hear “have got to” (I've got to go) with the same meaning, especially for one particular obligation."
+],
+"tableau": {
+"entetes": ["Form", "Pattern", "Example"],
+"lignes": [
+["positive", "subject + have to / has to + base", "She has to work on Saturdays."],
+["question", "Do / Does + subject + have to + base?", "Do we have to pay now?"],
+["short answer", "Yes, you do. / No, you don't.", "Does he have to come? — Yes, he does."],
+["past", "subject + had to + base", "I had to wait for an hour."],
+["future", "subject + will have to + base", "You'll have to take a taxi."]
+]
+}
+},
+{
+"titre": "The difference: who makes the obligation?",
+"texte": [
+"“Must” often shows an obligation that comes from the speaker: their opinion, a personal decision, or a rule they make. It is also common in written rules and signs.",
+"“Have to” usually shows an outside obligation: a law, a rule, a boss, a timetable, a situation you don't control. In everyday conversation, have to is much more common than must."
+],
+"tableau": {
+"entetes": ["must (personal obligation / written rule)", "have to (outside obligation)"],
+"lignes": [
+["I must stop eating so much sugar. (my decision)", "I have to take my medicine twice a day. (the doctor said so)"],
+["You must visit us in Dakar! (friendly insistence)", "You have to get a visa to visit Canada. (the law)"],
+["I must study tonight. (I feel it's necessary)", "I have to start work at 7. (my contract)"]
+]
+},
+"note": "In many sentences both are possible and the difference is small. If you are not sure, “have to” is almost always correct in speech."
+},
+{
+"titre": "Past and future: only have to",
+"texte": [
+"“Must” has no past or future form. For a past obligation use “had to”; for a future obligation use “will have to”.",
+"Never say “I musted” or “I will must”."
+],
+"exemples": [
+["We had to leave early because of the rain.", "Past obligation."],
+["Did you have to show your passport?", "Past question with did."],
+["You'll have to book in advance.", "Future obligation."]
+]
+},
+{
+"titre": "Must for a strong recommendation",
+"texte": [
+"In speech, “must” is often used to recommend something with enthusiasm: a film, a restaurant, a visit. It is not a real obligation, but very strong advice.",
+"For softer advice, use “should” (lesson 56)."
+],
+"exemples": [
+["You must try the grilled fish in Kribi. It's delicious!", "Enthusiastic recommendation."],
+["You must see this film.", "I really recommend it."]
+]
+}
+],
+"formule": "must + base (never changes) · have to / has to + base · had to (past) · will have to (future)",
+"prononciation": [
+"“must” is often weak: /məst/ or even /məs/ before a consonant (I must go /aɪ məs ˈɡəʊ/). For emphasis, say /mʌst/.",
+"“have to” is /ˈhæf tə/ with an f sound, not v; “has to” is /ˈhæs tə/ with an s; “had to” is /ˈhæt tə/.",
+"“have got to” often sounds like /ˈɡɒtə/ in speech: I've got to go /aɪv ˈɡɒtə ˈɡəʊ/ (sometimes written “gotta” in text messages — avoid it in writing).",
+"In “mustn't” /ˈmʌsnt/, the first t is silent."
+],
+"erreurs": [
+["I must to go.", "I must go.", "No to after must."],
+["She musts work.", "She must work.", "must never takes -s."],
+["He have to leave.", "He has to leave.", "he / she / it: has to."],
+["I musted wait.", "I had to wait.", "must has no past form: had to."],
+["Do I must pay?", "Do I have to pay?", "Question: Do I have to…?"],
+["You will must call him.", "You will have to call him.", "Future: will have to."],
+["Did you had to work?", "Did you have to work?", "After did: have to (base form)."]
+],
+"dialogue": {
+"contexte": "Jean-Paul is starting a new job in a hospital in Liège. A colleague, Nathalie, explains the rules.",
+"lignes": [
+["Nathalie", "Welcome! First, you have to wear your badge at all times.", "A hospital rule: have to."],
+["Jean-Paul", "OK. Do I have to sign in when I arrive?", "Question: Do I have to…?"],
+["Nathalie", "Yes, you do. And you have to wash your hands before you enter each room.", "Short answer: Yes, you do."],
+["Jean-Paul", "Of course. What time does my shift start?", "Asking about the timetable."],
+["Nathalie", "At seven. Yesterday the new nurse had to start at six because of an emergency.", "Past obligation: had to."],
+["Jean-Paul", "I see. I must buy a good alarm clock!", "Personal obligation: must."],
+["Nathalie", "Ha! And you must try the cafeteria's soup. It's the best in Liège.", "Recommendation: must."]
+]
+},
+"mots": [
+["rule", "You have to follow the rules.", "something that tells you what you must or must not do"],
+["law", "It's the law: you must wear a helmet.", "the system of official rules of a country"],
+["allowed", "Dogs aren't allowed here.", "permitted"],
+["uniform", "The staff have to wear a uniform.", "special clothes that people wear at work or school"],
+["shift", "My shift starts at seven.", "a period of work time, e.g. 7 a.m. to 3 p.m."],
+["sign", "You must sign the form.", "to write your name on a document; a notice with information"],
+["seatbelt", "You must wear a seatbelt.", "a belt in a car or plane that keeps you in your seat"],
+["necessary", "Is it necessary to book?", "needed"],
+["in advance", "You have to pay in advance.", "before something happens"],
+["deadline", "The deadline is Friday.", "the last time or day to finish something"]
+],
+"exercices": [
+{
+"titre": "1. Must, have to or has to?",
+"consigne": "Complete with must, have to or has to (sometimes more than one answer is possible).",
+"items": [
+["My sister ___ wear a uniform at school.", "has to"],
+["I ___ remember to buy bread.", "must (or have to)"],
+["Students ___ arrive before 8:30.", "have to (or must, in written rules)"],
+["He ___ take the bus because his car is broken.", "has to"],
+["You ___ come to our wedding! We'd love to see you.", "must"]
+]
+},
+{
+"titre": "2. Past and future",
+"consigne": "Change the obligation to the time in brackets, using have to.",
+"items": [
+["I have to work late. (yesterday)", "I had to work late yesterday."],
+["She has to take an exam. (next year)", "She'll have to take an exam next year."],
+["We have to wait. (last week)", "We had to wait last week."],
+["Do you have to wear a tie? (yesterday, question)", "Did you have to wear a tie yesterday?"]
+]
+},
+{
+"titre": "3. Ask the question",
+"consigne": "Write the question with do / does / did + have to.",
+"items": [
+["you / pay / now", "Do you have to pay now?"],
+["she / work / on Sundays", "Does she have to work on Sundays?"],
+["they / show / their passports (past)", "Did they have to show their passports?"],
+["I / bring / anything", "Do I have to bring anything?"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["You must to be careful.", "You must be careful."],
+["She have to call the bank.", "She has to call the bank."],
+["Yesterday I must leave early.", "Yesterday I had to leave early."],
+["Does he has to come?", "Does he have to come?"]
+]
+},
+{
+"titre": "5. Say it another way",
+"consigne": "Write a sentence with must or have to that means the same.",
+"items": [
+["It's necessary for me to go now.", "I must go now. / I have to go now."],
+["Is it necessary for me to book?", "Do I have to book?"],
+["It was necessary for us to take a taxi.", "We had to take a taxi."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Describe the obligations of your job or studies in five sentences (present, past, and one recommendation with must).",
+"items": [
+["Model answer", "I'm a bank clerk in Yaoundé. I have to start work at 7:30 and I have to wear a suit. I don't like it, but it's a rule. Last month I had to work every Saturday because a colleague was ill. If you visit Yaoundé, you must try the restaurants in Bastos!"]
+]
+}
+],
+"a_retenir": [
+"must + base: never changes, no to (I must go, she must go).",
+"have to / has to + base: changes with the subject; questions with do / does (Do I have to…?).",
+"must = personal obligation or written rule; have to = outside obligation (law, job).",
+"Past: had to; future: will have to (must has no past form).",
+"You must try / see… = enthusiastic recommendation."
+],
+"liens": [28, 55, 56, 57],
+"refs": ["bc-obligation", "cam-verbs"]
+}

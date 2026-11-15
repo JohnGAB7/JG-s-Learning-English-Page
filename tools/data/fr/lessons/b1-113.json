@@ -1,0 +1,200 @@
+{
+"n": 113,
+"niveau": "B1",
+"titre": "Gérondif ou infinitif : changement de sens (stop, remember…)",
+"intro": "Certains verbes peuvent être suivis d'un verbe en -ing ou de to + base, mais le sens change complètement : « I stopped smoking » (j'ai arrêté de fumer) n'a rien à voir avec « I stopped to smoke » (je me suis arrêté pour fumer). Cette leçon présente ces verbes pièges, un par un.",
+"objectifs": [
+"Comprendre la logique générale : -ing regarde souvent l'action elle-même ou le passé, to + base l'action à venir ou le but.",
+"Utiliser correctement stop, remember, forget, regret, try, go on et mean avec les deux constructions.",
+"Reconnaître les verbes où la différence est faible (like, love, begin, start).",
+"Comprendre « need + -ing » au sens passif (The car needs washing)."
+],
+"sections": [
+{
+"titre": "Une logique utile",
+"texte": [
+"Rappel (leçon 62) : certains verbes sont toujours suivis de -ing (enjoy, avoid, finish), d'autres toujours de to + base (want, decide, hope). Ici, on étudie les verbes qui acceptent les deux, avec un sens différent.",
+"Une astuce aide souvent : la forme en -ing renvoie à une action qui existe déjà, qu'on vit ou qu'on a vécue (souvenir, activité en cours). L'infinitif avec to renvoie à une action postérieure, à faire ou à venir (but, devoir)."
+],
+"tableau": {
+"entetes": ["Verbe", "+ -ing", "+ to + base"],
+"lignes": [
+["stop", "arrêter une activité", "s'arrêter pour faire autre chose (but)"],
+["remember", "se souvenir d'avoir fait (passé)", "penser à faire (devoir à venir)"],
+["forget", "ne jamais oublier une expérience (surtout : I'll never forget + -ing)", "oublier de faire"],
+["regret", "regretter d'avoir fait", "regretter de devoir annoncer (formel)"],
+["try", "essayer pour voir (une solution, un test)", "essayer de faire (un effort difficile)"],
+["go on", "continuer la même activité", "passer à autre chose ensuite"],
+["mean", "impliquer, signifier", "avoir l'intention de"]
+]
+}
+},
+{
+"titre": "Stop, remember, forget",
+"texte": [
+"Stop + -ing : on arrête l'activité. Stop + to + base : on interrompt ce qu'on faisait POUR faire autre chose (to = but).",
+"Remember + -ing : on a fait l'action et on s'en souvient (souvenir). Remember + to + base : on pense à faire une action prévue (mémoire de ce qu'on doit faire).",
+"Forget + to + base : oublier de faire une chose prévue (très courant). Forget + -ing s'utilise surtout à la forme négative pour un souvenir marquant : « I'll never forget seeing the sea for the first time »."
+],
+"exemples": [
+["I stopped drinking coffee last year.", "J'ai arrêté de boire du café l'an dernier."],
+["On the way to Yaoundé, we stopped to buy plantains.", "Sur la route de Yaoundé, nous nous sommes arrêtés pour acheter des plantains."],
+["I remember meeting her at a conference in Dakar.", "Je me souviens de l'avoir rencontrée à une conférence à Dakar."],
+["Remember to lock the door when you leave.", "Pense à fermer la porte à clé en partant."],
+["I forgot to send the invoice!", "J'ai oublié d'envoyer la facture !"],
+["I'll never forget visiting Victoria Falls.", "Je n'oublierai jamais ma visite des chutes Victoria."]
+]
+},
+{
+"titre": "Try et regret",
+"texte": [
+"Try + to + base : faire un effort pour réussir quelque chose de difficile (on n'est pas sûr d'y arriver). Try + -ing : tester une solution pour voir si elle marche (l'action est facile, la question est son effet).",
+"Regret + -ing : regretter une action passée. Regret + to + base (inform, tell, say, announce) : formule formelle pour annoncer une mauvaise nouvelle (« nous avons le regret de vous informer »)."
+],
+"exemples": [
+["I tried to open the window, but it was stuck.", "J'ai essayé d'ouvrir la fenêtre, mais elle était bloquée (effort, échec)."],
+["If you can't sleep, try drinking warm milk.", "Si tu n'arrives pas à dormir, essaie de boire du lait chaud (solution à tester)."],
+["I regret not learning English earlier.", "Je regrette de ne pas avoir appris l'anglais plus tôt."],
+["We regret to inform you that your flight has been cancelled.", "Nous avons le regret de vous informer que votre vol a été annulé."]
+]
+},
+{
+"titre": "Go on et mean",
+"texte": [
+"Go on + -ing : continuer la même activité (souvent malgré quelque chose). Go on + to + base : passer à une nouvelle étape, faire ensuite autre chose.",
+"Mean + -ing : impliquer, avoir pour conséquence. Mean + to + base : avoir l'intention de (souvent au passé : I meant to call you = j'avais l'intention de t'appeler)."
+],
+"exemples": [
+["She went on talking even when the director arrived.", "Elle a continué de parler même quand la directrice est arrivée."],
+["After her degree in Lille, she went on to work for the UN.", "Après son diplôme à Lille, elle est ensuite allée travailler pour l'ONU."],
+["The new job means moving to Ottawa.", "Le nouveau poste implique de déménager à Ottawa."],
+["Sorry, I meant to call you yesterday.", "Désolé, j'avais l'intention de t'appeler hier."]
+]
+},
+{
+"titre": "Peu ou pas de différence, et need + -ing",
+"texte": [
+"Avec begin, start, continue, la différence est minime : « It started raining / It started to rain ». On évite seulement deux -ing de suite : « It's starting to rain » (et non « starting raining »).",
+"Avec like, love, hate, prefer, les deux formes sont possibles et très proches. En anglais britannique, « like + -ing » insiste sur le plaisir, « like + to + base » sur l'habitude jugée bonne : « I like to see the dentist twice a year » (pas un plaisir, mais une bonne idée). Attention : « would like » est toujours suivi de to + base.",
+"Need + -ing a un sens passif : « The car needs washing » = la voiture a besoin d'être lavée (= needs to be washed)."
+],
+"exemples": [
+["I like cooking for my friends.", "J'aime cuisiner pour mes amis (plaisir)."],
+["I'd like to cook something special tonight.", "J'aimerais cuisiner quelque chose de spécial ce soir (would like + to)."],
+["The walls need painting.", "Les murs ont besoin d'être repeints."]
+]
+}
+],
+"formule": "stop / remember / forget / regret / try / go on / mean + -ing (action vécue, en cours) ≠ + to + base (action à venir, but)",
+"prononciation": [
+"La terminaison -ing est /ɪŋ/ : dans le discours rapide, elle peut devenir /ɪn/ (« tryin' »), mais garde /ɪŋ/ dans un registre soigné.",
+"« to » devant la base est faible : /tə/ : I stopped to buy /aɪ ˈstɒpt tə ˈbaɪ/. Le t de stopped et celui de to se fondent.",
+"Pour marquer le contraste, on accentue la forme verbale : I stopped SMOKING / I stopped TO smoke (rare, pour corriger un malentendu).",
+"« meant » se prononce /ment/, pas /miːnt/ ; « regret » /rɪˈɡret/ avec l'accent sur la 2e syllabe."
+],
+"erreurs": [
+["I stopped to smoke two years ago. (= j'ai arrêté de fumer)", "I stopped smoking two years ago.", "Arrêter une activité : stop + -ing."],
+["Remember calling your mum tomorrow!", "Remember to call your mum tomorrow!", "Penser à faire (futur) : remember + to."],
+["I remember to see him at the party last year.", "I remember seeing him at the party last year.", "Souvenir d'une action passée : remember + -ing."],
+["I forgot locking the door.", "I forgot to lock the door.", "Oublier de faire : forget + to."],
+["I'd like going to Canada.", "I'd like to go to Canada.", "would like + to + base."],
+["Try to restart the computer — it often works.", "Try restarting the computer — it often works.", "Tester une solution : try + -ing (try to est possible mais suggère un effort)."],
+["The car needs to wash.", "The car needs washing. / The car needs to be washed.", "Sens passif : need + -ing."]
+],
+"dialogue": {
+"contexte": "Lundi matin, dans une agence de communication à Abidjan. Koffi arrive en retard et parle avec sa collègue Bintou.",
+"lignes": [
+["Bintou", "You're late! Did you forget to set your alarm?", "Tu es en retard ! Tu as oublié de mettre ton réveil ?"],
+["Koffi", "No, my car broke down. I stopped to buy petrol and then it didn't start again.", "Non, ma voiture est tombée en panne. Je me suis arrêté pour prendre de l'essence et elle n'a plus redémarré."],
+["Bintou", "Oh no. Did you try calling a mechanic?", "Oh non. Tu as essayé d'appeler un mécanicien ?"],
+["Koffi", "I tried to call three, but nobody answered. In the end a taxi driver helped me.", "J'ai essayé d'en appeler trois, mais personne n'a répondu. Finalement, un chauffeur de taxi m'a aidé."],
+["Bintou", "That car needs replacing, you know.", "Cette voiture a besoin d'être remplacée, tu sais."],
+["Koffi", "I know. But a new car means taking out a loan. I regret not saving more last year.", "Je sais. Mais une nouvelle voiture implique de prendre un crédit. Je regrette de ne pas avoir économisé plus l'an dernier."],
+["Bintou", "By the way, remember to send the slides to the client before ten.", "Au fait, pense à envoyer les diapositives au client avant dix heures."],
+["Koffi", "Yes! I meant to do it on Friday. I'll do it now and then go on working on the report.", "Oui ! J'avais l'intention de le faire vendredi. Je le fais maintenant, puis je continue le rapport."]
+]
+},
+"mots": [
+["regret", "I regret selling my old guitar.", "regretter ; un regret"],
+["remind", "Remind me to call the bank.", "rappeler (à quelqu'un) de faire"],
+["intend", "I intended to finish it today.", "avoir l'intention de"],
+["quit", "He quit smoking in 2020.", "arrêter, abandonner ; quitter (un emploi)"],
+["memory", "I have good memories of Kribi.", "un souvenir ; la mémoire"],
+["attempt", "She attempted to climb Mount Cameroon.", "tenter ; une tentative"],
+["lock", "Did you remember to lock the door?", "fermer à clé"],
+["stuck", "The window is stuck.", "coincé, bloqué"],
+["loan", "They took out a loan to buy a house.", "un prêt, un crédit"],
+["replace", "The printer needs replacing.", "remplacer"]
+],
+"exercices": [
+{
+"titre": "1. Quel sens ?",
+"consigne": "Choisis le sens correct de la phrase (a ou b).",
+"items": [
+["He stopped to talk to me. — a) il a arrêté de me parler ; b) il s'est arrêté pour me parler", "b"],
+["I remember posting the letter. — a) je me souviens de l'avoir postée ; b) je pense à la poster", "a"],
+["Try adding more salt. — a) teste en ajoutant du sel ; b) fais un gros effort pour ajouter du sel", "a"],
+["She went on to study law. — a) elle a continué ses études de droit ; b) elle a ensuite fait des études de droit", "b"],
+["I meant to tell you. — a) ça signifiait te le dire ; b) j'avais l'intention de te le dire", "b"]
+]
+},
+{
+"titre": "2. -ing ou to + base ?",
+"consigne": "Mets le verbe entre parenthèses à la forme correcte.",
+"items": [
+["Please remember ___ (buy) some bread on the way home.", "to buy"],
+["I'll never forget ___ (see) snow for the first time in Montreal.", "seeing"],
+["We stopped ___ (have) lunch in a small village.", "to have"],
+["My father stopped ___ (work) when he was 65.", "working"],
+["I tried ___ (lift) the box, but it was too heavy.", "to lift"],
+["If the screen freezes, try ___ (press) this button.", "pressing"],
+["I regret ___ (not / tell) her the truth.", "not telling"],
+["We regret ___ (inform) you that the position has been filled.", "to inform"]
+]
+},
+{
+"titre": "3. Reformuler",
+"consigne": "Réécris la phrase avec le verbe entre parenthèses, sans changer le sens.",
+"items": [
+["Don't forget to call the bank. (remember)", "Remember to call the bank."],
+["I'm sorry that I didn't study harder at school. (regret)", "I regret not studying harder at school."],
+["Taking this job will involve travelling a lot. (mean)", "Taking this job will mean travelling a lot."],
+["The grass is long. Someone has to cut it. (need + -ing)", "The grass needs cutting."]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur de sens ou de forme. Réécris-la correctement.",
+"items": [
+["She gave up cigarettes: she stopped to smoke in May.", "She stopped smoking in May."],
+["Did you remember locking the car before we left? I'm not sure you did it.", "Did you remember to lock the car before we left?"],
+["I'd love visiting Ghana one day.", "I'd love to visit Ghana one day."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["J'ai oublié de fermer la fenêtre.", "I forgot to close the window."],
+["Je me souviens d'avoir joué au foot dans cette rue.", "I remember playing football in this street."],
+["Ils ont continué à travailler malgré la panne d'électricité.", "They went on working despite the power cut."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Écris cinq phrases vraies sur toi avec : stop + -ing, remember + -ing, remember + to, try + -ing et regret + -ing.",
+"items": [
+["Exemple de réponse", "I stopped eating meat three years ago. I remember living in a small house in Garoua when I was a child. I must remember to renew my passport next month. When I can't concentrate, I try listening to calm music. I regret not travelling more when I was a student."]
+]
+}
+],
+"a_retenir": [
+"stop + -ing = arrêter ; stop + to = s'arrêter pour.",
+"remember / forget + -ing = souvenir d'une action passée ; + to = penser / oublier de faire.",
+"try + to = faire un effort ; try + -ing = tester une solution.",
+"regret + -ing = regretter d'avoir fait ; regret to inform = avoir le regret d'annoncer.",
+"go on + -ing = continuer ; go on + to = passer ensuite à ; mean + -ing = impliquer ; mean + to = avoir l'intention de."
+],
+"liens": [33, 62, 120, 137],
+"refs": ["bc-ing-inf-meaning", "bc-ing-inf"]
+}

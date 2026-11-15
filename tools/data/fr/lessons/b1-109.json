@@ -1,0 +1,407 @@
+{
+ "n": 109,
+ "niveau": "B1",
+ "titre": "Le futur continu",
+ "intro": "Le futur continu (will be + -ing) décrit une action qui sera en cours à un moment précis du futur : « This time tomorrow, I'll be flying to Douala. » Il sert aussi à parler d'actions prévues dans le cours normal des choses et à poser des questions polies sur les projets de quelqu'un.",
+ "objectifs": [
+  "Former le futur continu à l'affirmative, à la négative et à l'interrogative.",
+  "Décrire une action en cours à un moment précis du futur (this time tomorrow, at 8 p.m. on Friday).",
+  "Parler d'une action qui aura lieu de toute façon, dans le cours normal des choses.",
+  "Poser une question polie sur les projets de quelqu'un (Will you be using the car tonight?) et le distinguer du futur simple."
+ ],
+ "sections": [
+  {
+   "titre": "La forme : will be + -ing",
+   "texte": [
+    "Le futur continu se forme avec will be (identique à toutes les personnes) et le verbe en -ing : I will be working, she will be working. À l'oral : I'll be, she'll be ; négation : won't be + -ing.",
+    "Question : Will + sujet + be + -ing ? Réponse courte : Yes, I will. / No, I won't. Le français n'a pas de forme équivalente : on traduit souvent par « je serai en train de » ou simplement par un futur."
+   ],
+   "tableau": {
+    "entetes": [
+     "Forme",
+     "Structure",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Affirmative",
+      "sujet + will be + -ing",
+      "At ten tomorrow, I'll be sitting my exam."
+     ],
+     [
+      "Négative",
+      "sujet + won't be + -ing",
+      "We won't be watching the match tonight."
+     ],
+     [
+      "Question",
+      "Will + sujet + be + -ing ?",
+      "Will you be working on Saturday?"
+     ],
+     [
+      "Réponse courte",
+      "Yes, sujet + will. / No, sujet + won't.",
+      "Will she be coming? – Yes, she will."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Usage 1 : une action en cours à un moment du futur",
+   "texte": [
+    "On se projette à un moment précis du futur et on décrit ce qui sera en train de se passer : l'action aura commencé avant ce moment et continuera après. C'est le même principe que le présent continu (maintenant) ou le prétérit continu (à un moment du passé), mais au futur.",
+    "Signaux fréquents : this time tomorrow / next week, at + heure + jour, when + présent simple, all day / all evening tomorrow."
+   ],
+   "exemples": [
+    [
+     "This time next week, I'll be lying on a beach in Kribi.",
+     "La semaine prochaine à la même heure, je serai allongé sur une plage."
+    ],
+    [
+     "Don't call at eight. We'll be having dinner.",
+     "N'appelle pas à huit heures : nous serons en train de dîner."
+    ],
+    [
+     "When you arrive, I'll be waiting for you at the station.",
+     "Quand tu arriveras, je t'attendrai à la gare."
+    ],
+    [
+     "Tomorrow afternoon, the team will be presenting the project to the client.",
+     "Action en cours demain après-midi."
+    ]
+   ]
+  },
+  {
+   "titre": "Usage 2 : ce qui arrivera de toute façon",
+   "texte": [
+    "Le futur continu présente aussi une action future comme allant de soi, faisant partie du programme normal, sans idée de décision ou d'intention : « I'll be seeing Paul at work tomorrow, so I can give him the book. » (je le verrai de toute façon, c'est mon collègue).",
+    "Ce sens est très courant dans les annonces : « We'll be landing in Montreal in twenty minutes. » / « The shop will be closing in ten minutes. »"
+   ],
+   "exemples": [
+    [
+     "I'll be passing the pharmacy on my way home. Do you need anything?",
+     "Je passerai devant de toute façon."
+    ],
+    [
+     "Ladies and gentlemen, we'll be arriving in Brussels in fifteen minutes.",
+     "Annonce dans un train."
+    ]
+   ]
+  },
+  {
+   "titre": "Usage 3 : la question polie sur les projets",
+   "texte": [
+    "« Will you be + -ing…? » permet de demander poliment ce que quelqu'un a prévu, sans avoir l'air de lui demander un service ou de faire pression. C'est souvent une préparation à une demande.",
+    "Comparer : « Will you come to the meeting? » (demande ou invitation : tu veux bien venir ?) / « Will you be coming to the meeting? » (simple question : est-ce que c'est prévu ?)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Futur simple (will + verbe)",
+     "Futur continu (will be + -ing)"
+    ],
+    "lignes": [
+     [
+      "Will you use the car tonight? (demande, peut-être un reproche)",
+      "Will you be using the car tonight? (question neutre : je pourrais l'emprunter ?)"
+     ],
+     [
+      "Will you help me? (demande d'aide)",
+      "Will you be staying long? (simple information)"
+     ],
+     [
+      "I'll call you at six. (promesse, décision)",
+      "I'll be driving at six. (action en cours à ce moment)"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Will you be needing the meeting room this afternoon?",
+     "Question polie avant de demander la salle."
+    ]
+   ]
+  },
+  {
+   "titre": "Limites et règles à respecter",
+   "texte": [
+    "Comme pour tous les temps continus, les verbes d'état (know, like, want, believe, own, belong) ne se mettent pas au futur continu : « I'll know the results tomorrow » (pas « I'll be knowing »).",
+    "Après when, if, as soon as, until, on utilise le présent (simple ou continu), jamais will be : « When I'm working in Toronto, I'll visit you » (pas « When I'll be working »)."
+   ],
+   "exemples": [
+    [
+     "I'll know the answer tomorrow.",
+     "Verbe d'état : futur simple."
+    ]
+   ]
+  }
+ ],
+ "formule": "will be + verbe-ing (This time tomorrow, I'll be flying to Douala.)",
+ "prononciation": [
+  "I'll be se prononce /aɪl bi/ : le 'll est léger mais doit s'entendre. Sans lui, on entendrait « I be », qui est faux.",
+  "won't be /wəʊnt bi/ : le t se lie au b et devient presque inaudible.",
+  "Dans une question polie, la voix monte doucement à la fin : « Will you be using the car tonight ↗? »",
+  "L'accent tombe sur le verbe en -ing et sur le repère de temps : « This time TOMORROW, I'll be FLYING. »"
+ ],
+ "erreurs": [
+  [
+   "This time tomorrow I will flying to Paris.",
+   "This time tomorrow I will be flying to Paris.",
+   "Il faut be entre will et le verbe en -ing."
+  ],
+  [
+   "Tomorrow at nine I'll work.",
+   "Tomorrow at nine I'll be working.",
+   "Action en cours à un moment précis du futur : futur continu."
+  ],
+  [
+   "I'll be knowing the results next week.",
+   "I'll know the results next week.",
+   "Verbe d'état : pas de forme continue."
+  ],
+  [
+   "When I'll be living in Ottawa, I'll learn to skate.",
+   "When I'm living in Ottawa, I'll learn to skate.",
+   "Après when : présent, pas will."
+  ],
+  [
+   "Will you be help me tomorrow?",
+   "Will you help me tomorrow? / Will you be helping me tomorrow?",
+   "Will be + -ing, ou will + base verbale."
+  ],
+  [
+   "She will is working at six.",
+   "She will be working at six.",
+   "Après will, be à la base verbale."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Un vendredi à Paris. Clémence organise une visioconférence avec son collègue Joseph, originaire de Douala et basé à Montréal.",
+  "lignes": [
+   [
+    "Clémence",
+    "Joseph, will you be working on Monday morning? I'd like to set up a call.",
+    "Joseph, est-ce que tu travailleras lundi matin ? J'aimerais organiser un appel."
+   ],
+   [
+    "Joseph",
+    "Yes, but at nine I'll be visiting a client in Laval.",
+    "Oui, mais à neuf heures je serai en visite chez un client à Laval."
+   ],
+   [
+    "Clémence",
+    "What about eight, before your visit?",
+    "Et à huit heures, avant ta visite ?"
+   ],
+   [
+    "Joseph",
+    "At eight I'll probably be driving to work. Could we say eleven, my time?",
+    "À huit heures, je serai sûrement en train d'aller au travail en voiture. On pourrait dire onze heures, heure de Montréal ?"
+   ],
+   [
+    "Clémence",
+    "Eleven in Montreal is five o'clock in Paris. I'll be finishing a meeting then, but it's fine.",
+    "Onze heures à Montréal, c'est dix-sept heures à Paris. Je serai en train de finir une réunion, mais ça va."
+   ],
+   [
+    "Joseph",
+    "Perfect. Will you be sending the documents before the call?",
+    "Parfait. Tu enverras les documents avant l'appel ?"
+   ],
+   [
+    "Clémence",
+    "Yes, I'll be writing the report all weekend, so you'll have it on Sunday night.",
+    "Oui, je vais rédiger le rapport tout le week-end, donc tu l'auras dimanche soir."
+   ],
+   [
+    "Joseph",
+    "Great. I'll be waiting for it!",
+    "Super. Je l'attendrai !"
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "this time tomorrow",
+   "This time tomorrow, I'll be sitting on the plane.",
+   "demain à la même heure"
+  ],
+  [
+   "land",
+   "We'll be landing in ten minutes.",
+   "atterrir"
+  ],
+  [
+   "set up",
+   "Can we set up a meeting for Monday?",
+   "organiser, mettre en place"
+  ],
+  [
+   "video call",
+   "I'll be on a video call at ten.",
+   "l'appel vidéo, la visio"
+  ],
+  [
+   "on my way",
+   "I'll be passing the bakery on my way home.",
+   "en chemin, sur ma route"
+  ],
+  [
+   "schedule",
+   "Let me check my schedule for next week.",
+   "l'emploi du temps, le planning"
+  ],
+  [
+   "available",
+   "Will you be available on Friday?",
+   "disponible"
+  ],
+  [
+   "time zone",
+   "Montreal and Paris are in different time zones.",
+   "le fuseau horaire"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Reconnaître l'usage",
+   "consigne": "Indique si la phrase exprime une action en cours à un moment du futur (A), une action qui arrivera de toute façon (B) ou une question polie (C).",
+   "items": [
+    [
+     "At midnight, we'll be dancing at the party.",
+     "A"
+    ],
+    [
+     "Will you be using your laptop this evening?",
+     "C"
+    ],
+    [
+     "I'll be seeing Fatou at the meeting anyway.",
+     "B"
+    ],
+    [
+     "This time next year, she'll be studying in Montreal.",
+     "A"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Mets le verbe au futur continu.",
+   "items": [
+    [
+     "At eight tomorrow, I ___ (travel) to Ghent.",
+     "will be travelling ('ll be travelling)"
+    ],
+    [
+     "Don't phone at six; the children ___ (have) their bath.",
+     "will be having"
+    ],
+    [
+     "___ you ___ (use) the car tomorrow?",
+     "Will … be using"
+    ],
+    [
+     "We ___ (not / work) on Monday; it's a holiday.",
+     "won't be working"
+    ],
+    [
+     "This time next month, they ___ (live) in their new house.",
+     "will be living"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Futur simple ou futur continu ?",
+   "consigne": "Choisis la forme la plus naturelle.",
+   "items": [
+    [
+     "I promise I (will call / will be calling) you tonight.",
+     "will call"
+    ],
+    [
+     "At 3 p.m. tomorrow, I (will take / will be taking) my driving test.",
+     "will be taking"
+    ],
+    [
+     "I (will know / will be knowing) the results on Friday.",
+     "will know"
+    ],
+    [
+     "It's heavy. – Don't worry, I (will carry / will be carrying) it.",
+     "will carry"
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    [
+     "This time tomorrow I will sleeping.",
+     "This time tomorrow I will be sleeping."
+    ],
+    [
+     "When I will be travelling, I'll send you photos.",
+     "When I'm travelling, I'll send you photos."
+    ],
+    [
+     "Will you be come to the party?",
+     "Will you be coming to the party?"
+    ],
+    [
+     "She'll be wanting a coffee when she arrives.",
+     "She'll want a coffee when she arrives."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec le futur continu.",
+   "items": [
+    [
+     "Demain à cette heure-ci, je serai dans l'avion pour Montréal.",
+     "This time tomorrow, I'll be flying to Montreal. / I'll be sitting on the plane to Montreal."
+    ],
+    [
+     "N'appelle pas à midi : je serai en réunion (en train de travailler avec un client).",
+     "Don't call at noon: I'll be working with a client. / I'll be having a meeting."
+    ],
+    [
+     "Est-ce que tu utiliseras ton vélo ce week-end ?",
+     "Will you be using your bike this weekend?"
+    ],
+    [
+     "Nous atterrirons à Bruxelles dans vingt minutes.",
+     "We'll be landing in Brussels in twenty minutes."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Décris en 4 à 5 phrases ce que tu seras en train de faire demain à différentes heures (8 h, midi, 15 h, 20 h), puis pose une question polie à un ami avec Will you be…?",
+   "items": [
+    [
+     "Exemple de réponse",
+     "At eight tomorrow, I'll be taking the bus to work. At noon, I'll be having lunch with my colleagues. At three, I'll be giving a presentation to our new clients. At eight in the evening, I'll be watching the match at home. Will you be watching it too?"
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Forme : will be + -ing ; négation won't be + -ing.",
+  "Action en cours à un moment précis du futur : This time tomorrow, I'll be flying.",
+  "Action qui arrivera de toute façon : I'll be seeing him at work anyway.",
+  "Question polie sur les projets : Will you be using the car tonight?",
+  "Pas de verbes d'état au futur continu, et pas de will après when / if."
+ ],
+ "liens": [
+  8,
+  43,
+  94,
+  110
+ ],
+ "refs": [
+  "bc-future-cont-perf",
+  "bc-future-forms"
+ ]
+}

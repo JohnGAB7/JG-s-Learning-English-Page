@@ -1,0 +1,205 @@
+{
+"n": 24,
+"niveau": "A1",
+"titre": "Décrire une personne",
+"intro": "Décrire l’apparence et le caractère de quelqu’un sert tous les jours : reconnaître une personne à l’aéroport, parler d’un collègue, présenter un ami. L’anglais utilise « be » pour la taille et le caractère, et « have got » pour les cheveux et les yeux.",
+"objectifs": [
+ "Distinguer les questions « What does she look like? » (physique) et « What is she like? » (caractère).",
+ "Décrire la taille, la silhouette, l’âge, les cheveux et les yeux.",
+ "Décrire le caractère avec des adjectifs courants, sans tomber dans les faux amis.",
+ "Construire une description avec be, have got, wear et with."
+],
+"sections": [
+ {
+  "titre": "Trois questions à ne pas confondre",
+  "texte": [
+   "« What does he look like? » demande l’apparence physique : « He's tall with short hair. » « What is he like? » demande le caractère (ou une impression générale) : « He's very kind. » « How is he? » demande des nouvelles de sa santé : « He's fine, thanks. »",
+   "Dans « What is he like? », « like » n’est pas le verbe « aimer » : c’est une préposition qui veut dire « comme ». La question signifie « Comment est-il ? »."
+  ],
+  "tableau": {
+   "entetes": ["Question", "Elle demande…", "Réponse possible"],
+   "lignes": [
+    ["What does she look like?", "le physique", "She's tall and slim. She's got long hair."],
+    ["What is she like?", "le caractère", "She's friendly and funny."],
+    ["How is she?", "la santé, le moral", "She's fine. / She's a bit tired."]
+   ]
+  },
+  "exemples": [
+   ["What does your new boss look like? — She's short with grey hair.", "À quoi ressemble ta nouvelle patronne ? — Elle est petite, avec des cheveux gris."],
+   ["What's your new boss like? — She's very patient.", "Comment est ta nouvelle patronne ? — Elle est très patiente."]
+  ]
+ },
+ {
+  "titre": "La taille, la silhouette et l’âge : be + adjectif",
+  "texte": [
+   "Pour la taille, la silhouette et l’âge, on utilise « be » + adjectif. Les adjectifs ne prennent jamais de s : « They're tall », pas « They're talls ».",
+   "Pour donner la taille exacte, on utilise aussi « be » : « He's one metre eighty » ou « He's 1.80 m (tall) ». Au Royaume-Uni et aux États-Unis, on entend aussi les pieds et les pouces : « He's six feet tall ».",
+   "Politesse : « fat » (gros) est vexant. On dit plutôt « a bit overweight » ou « big ». De même, pour une personne âgée, « elderly » est plus poli que « old »."
+  ],
+  "tableau": {
+   "entetes": ["Thème", "Adjectifs", "Français"],
+   "lignes": [
+    ["Taille", "tall · short · medium height", "grand · petit · de taille moyenne"],
+    ["Silhouette", "slim · thin · well-built · a bit overweight", "mince · maigre · bien bâti · un peu fort"],
+    ["Âge", "young · middle-aged · old / elderly", "jeune · d’âge moyen · âgé"],
+    ["Âge (environ)", "in his twenties · in her forties", "il a la vingtaine · elle a la quarantaine"],
+    ["Impression", "good-looking · pretty · handsome", "beau / belle · jolie · bel homme"]
+   ]
+  },
+  "exemples": [
+   ["My brother is tall and slim.", "Mon frère est grand et mince."],
+   ["She's in her thirties.", "Elle a la trentaine."]
+  ],
+  "note": "« Short » s’oppose à « tall » pour une personne, et à « long » pour les cheveux. On ne dit pas « He is little » pour un adulte : on dit « He's short »."
+ },
+ {
+  "titre": "Les cheveux, les yeux et les détails : have got / wear / with",
+  "texte": [
+   "Pour les cheveux, les yeux, la barbe, on utilise « have got » ou « have » : « She's got brown eyes. » / « She has brown eyes. »",
+   "« Hair » (les cheveux) est indénombrable : il reste au singulier, sans « a » et sans s. « Her hair is long. » Le pluriel « hairs » désigne quelques poils ou cheveux isolés.",
+   "Ordre des adjectifs devant « hair » : la longueur, puis la forme, puis la couleur : « long curly black hair ». La leçon 35 revient sur l’ordre des adjectifs.",
+   "Pour les vêtements et les lunettes, on utilise « wear » : « He wears glasses. » On peut aussi utiliser « with » : « the woman with red hair », « a man with a beard »."
+  ],
+  "tableau": {
+   "entetes": ["Longueur", "Forme", "Couleur"],
+   "lignes": [
+    ["long · short · shoulder-length", "straight · curly · wavy", "black · brown · fair / blonde · red · grey · white"]
+   ]
+  },
+  "exemples": [
+   ["He's got short curly black hair.", "Il a les cheveux noirs, courts et frisés (ordre : longueur, forme, couleur)."],
+   ["My grandfather is bald and he has a white beard.", "Mon grand-père est chauve et il a une barbe blanche."],
+   ["She wears glasses.", "Elle porte des lunettes."],
+   ["Who's the man with the moustache?", "Qui est l’homme à la moustache ?"]
+  ],
+  "note": "En français, on dit « les cheveux noirs » ; en anglais, il n’y a pas d’article : « She has black hair », jamais « She has the black hair »."
+ },
+ {
+  "titre": "Le caractère",
+  "texte": [
+   "Pour le caractère, on utilise « be » + adjectif : « She's kind. » On peut nuancer avec « very » (très), « quite » (assez) et « a bit » (un peu). « A bit » s’utilise surtout avec un défaut : « He's a bit lazy. »",
+   "Attention aux faux amis : « sympathetic » veut dire « compatissant », pas « sympathique » (dites « nice » ou « friendly »). « Sensible » veut dire « raisonnable » ; « sensible » en français se dit « sensitive »."
+  ],
+  "tableau": {
+   "entetes": ["Qualité", "Contraire", "Français"],
+   "lignes": [
+    ["friendly", "unfriendly", "aimable, sympathique · froid, peu aimable"],
+    ["kind", "unkind", "gentil · méchant"],
+    ["hard-working", "lazy", "travailleur · paresseux"],
+    ["patient", "impatient", "patient · impatient"],
+    ["chatty / outgoing", "shy / quiet", "bavard, sociable · timide, calme"],
+    ["generous", "mean (GB) / stingy", "généreux · radin"],
+    ["funny", "serious", "drôle · sérieux"]
+   ]
+  },
+  "exemples": [
+   ["My colleague is very friendly but a bit shy.", "Mon collègue est très sympathique mais un peu timide."],
+   ["Our teacher is quite strict but very funny.", "Notre professeur est assez strict mais très drôle."]
+  ]
+ }
+],
+"formule": "be + taille / caractère (He's tall and kind) · have got + cheveux / yeux (He's got short black hair) · wear glasses",
+"prononciation": [
+ "« hair » /heə/ et « her » /hɜː/ ne se prononcent pas pareil : dans « hair », on entend « hè-e ». Le h est soufflé.",
+ "« eyes » /aɪz/ se prononce comme « I's » ; le s final est un /z/.",
+ "« beard » /bɪəd/ rime avec « here'd » ; « bald » /bɔːld/ ressemble au mot « bold ».",
+ "« moustache » se dit /məˈstɑːʃ/ en anglais britannique, avec l’accent sur la deuxième syllabe.",
+ "« What does she look like? » : l’accent tombe sur LOOK et LIKE ; « does » est faible /dəz/."
+],
+"erreurs": [
+ ["He has blue eyes and blonds hairs.", "He has blue eyes and blond hair.", "« Hair » est indénombrable ; l’adjectif ne prend jamais de s."],
+ ["She is very sympathic.", "She's very nice. / She's very friendly.", "« Sympathique » se dit nice ou friendly ; « sympathetic » veut dire compatissant."],
+ ["How is your brother? — He's tall and slim.", "What does your brother look like? — He's tall and slim.", "« How is he? » demande la santé ; pour le physique : « What does he look like? »."],
+ ["She has the long hair.", "She has long hair.", "Pas d’article devant « hair » dans une description."],
+ ["He has long hair black.", "He has long black hair.", "L’adjectif se place devant le nom : longueur + couleur + hair."],
+ ["He measures 1.80 m.", "He's 1.80 m tall. / He's one metre eighty.", "Pour la taille d’une personne, on utilise « be »."],
+ ["My sister is very sensible, she cries at every film.", "My sister is very sensitive.", "Faux ami : sensible = raisonnable ; sensible (fr) = sensitive."],
+ ["What is like your sister?", "What is your sister like?", "« Like » se place à la fin de la question."]
+],
+"dialogue": {
+ "contexte": "Marc doit aller chercher la cousine de sa femme à l’aéroport de Montréal. Il ne l’a jamais vue.",
+ "lignes": [
+  ["Marc", "What does your cousin look like? I don't know her.", "À quoi ressemble ta cousine ? Je ne la connais pas."],
+  ["Awa", "She's quite tall and slim, and she's got long curly black hair.", "Elle est assez grande et mince, et elle a de longs cheveux noirs frisés."],
+  ["Marc", "Does she wear glasses?", "Elle porte des lunettes ?"],
+  ["Awa", "Yes, big red glasses. And she's in her twenties.", "Oui, de grandes lunettes rouges. Et elle a la vingtaine."],
+  ["Marc", "OK. And what's she like? I'm a bit nervous.", "D’accord. Et elle est comment ? Je suis un peu stressé."],
+  ["Awa", "Don't worry, she's really friendly and very funny. She's a bit chatty!", "Ne t’inquiète pas, elle est vraiment sympa et très drôle. Elle est un peu bavarde !"],
+  ["Marc", "Great. So: a tall woman with red glasses and curly hair.", "Parfait. Donc : une grande femme avec des lunettes rouges et des cheveux frisés."],
+  ["Awa", "Exactly. Her name is Fatou. Here's her number.", "Exactement. Elle s’appelle Fatou. Voici son numéro."]
+ ]
+},
+"mots": [
+ ["tall", "My son is very tall.", "grand (pour une personne)"],
+ ["short", "She's short and slim.", "petit (taille) ; court (cheveux)"],
+ ["slim", "He's tall and slim.", "mince"],
+ ["curly", "She has curly hair.", "frisé, bouclé"],
+ ["straight", "I've got long straight hair.", "raide (cheveux) ; droit"],
+ ["beard", "My uncle has a grey beard.", "la barbe"],
+ ["glasses", "I wear glasses for reading.", "les lunettes"],
+ ["friendly", "The neighbours are very friendly.", "aimable, sympathique"],
+ ["shy", "Don't be shy!", "timide"],
+ ["funny", "My cousin is really funny.", "drôle, amusant"]
+],
+"exercices": [
+ {
+  "titre": "1. Look like ou like ?",
+  "consigne": "Quelle question correspond à la réponse : « What does he/she look like? » ou « What is he/she like? » ?",
+  "items": [
+   ["… — He's tall with short hair.", "What does he look like?"],
+   ["… — He's very kind and funny.", "What is he like?"],
+   ["… — She's got long curly hair.", "What does she look like?"],
+   ["… — She's quite shy.", "What is she like?"]
+  ]
+ },
+ {
+  "titre": "2. Les contraires",
+  "consigne": "Donne le contraire.",
+  "items": [
+   ["tall (person)", "short"],
+   ["long (hair)", "short"],
+   ["curly (hair)", "straight"],
+   ["shy", "chatty / outgoing"],
+   ["lazy", "hard-working"],
+   ["friendly", "unfriendly"]
+  ]
+ },
+ {
+  "titre": "3. Remettre dans l’ordre",
+  "consigne": "Remets les mots dans l’ordre pour faire une phrase correcte.",
+  "items": [
+   ["hair / she / long / has / black", "She has long black hair."],
+   ["got / beard / he's / a", "He's got a beard."],
+   ["eyes / brown / has / he", "He has brown eyes."],
+   ["wears / glasses / my teacher", "My teacher wears glasses."]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Elle a les cheveux courts et blonds.", "She has short blonde hair. / She's got short fair hair."],
+   ["Mon voisin est très sympathique.", "My neighbour is very nice. / My neighbour is very friendly."],
+   ["Il a la quarantaine.", "He's in his forties."],
+   ["Comment est ton professeur ? (caractère)", "What's your teacher like?"],
+   ["L’homme à la barbe est mon oncle.", "The man with the beard is my uncle."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Décris une personne que tu connais bien : son physique (taille, cheveux, yeux) et son caractère, en quatre ou cinq phrases.",
+  "items": [
+   ["Exemple de réponse", "My best friend is called Samuel. He's in his thirties. He's tall and well-built, and he's got short black hair and brown eyes. He wears glasses. He's very kind and funny, but he's a bit lazy!"]
+  ]
+ }
+],
+"a_retenir": [
+ "What does she look like? = le physique ; What is she like? = le caractère ; How is she? = la santé.",
+ "be + taille, âge, caractère : She's tall, young and friendly.",
+ "have got + cheveux / yeux : He's got short curly black hair (longueur, forme, couleur). « Hair » reste au singulier, sans article.",
+ "wear glasses ; the man with a beard.",
+ "Faux amis : sympathique = nice / friendly ; sensible (fr) = sensitive."
+],
+"liens": [1, 5, 23, 35],
+"refs": ["cam-adj", "bc-a1a2"]
+}

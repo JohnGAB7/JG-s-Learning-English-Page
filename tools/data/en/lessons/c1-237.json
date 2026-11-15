@@ -1,0 +1,211 @@
+{
+ "n": 237,
+ "niveau": "C1",
+ "titre": "Participles and absolute clauses (Weather permitting…)",
+ "intro": "“Weather permitting, we'll eat outside”, “The meeting over, everyone left”, “With prices rising, families are cutting back”: participle and absolute clauses pack an idea of time, cause or condition into a few words. They make writing dense and elegant, as long as you avoid the dangling participle.",
+ "objectifs": [
+  "Build absolute clauses with their own subject (Weather permitting, The work done, There being no…).",
+  "Use “with + noun + participle” to express a circumstance (With the deadline approaching…).",
+  "Master perfect, passive and negative participles (Having finished…, Having been warned…, Not knowing…).",
+  "Spot and correct dangling participles, and know the accepted exceptions (generally speaking, given that, considering)."
+ ],
+ "sections": [
+  {
+   "titre": "Review: the participle and its implied subject",
+   "texte": [
+    "A participle clause with no subject (“Walking home, I met Paul”) must take the subject of the main clause: I was the one walking. It expresses time, cause, manner or condition.",
+    "Present participle (-ing): active, simultaneous or causal (“Feeling tired, she went to bed”). Past participle: passive meaning (“Built in 1890, the bridge is still in use”). Perfect participle: an earlier action (“Having read the report, he called the client”)."
+   ],
+   "tableau": {
+    "entetes": ["Form", "Meaning", "Example"],
+    "lignes": [
+     ["-ing", "active, simultaneous, cause", "Knowing the risks, she still agreed."],
+     ["Past participle", "passive", "Written in 1950, the novel is still popular."],
+     ["Having + pp", "earlier action (active)", "Having signed the contract, we started work."],
+     ["Having been + pp", "earlier action (passive)", "Having been warned, they stayed at home."],
+     ["Not + participle", "negative", "Not knowing what to say, I kept quiet."]
+    ]
+   },
+   "exemples": [
+    ["Not having received a reply, I sent a second email.", "Negative perfect participle: “not” goes before having."],
+    ["Having been told the news, she called her family.", "Passive perfect participle: she had been told."]
+   ]
+  },
+  {
+   "titre": "Absolute clauses: a subject of their own",
+   "texte": [
+    "An absolute clause has its own subject, different from the main clause: “The rain having stopped, we went out” (the rain stopped; we went out). It is formal, common in writing and in narratives.",
+    "Several expressions are fixed and very common: “Weather permitting” (if the weather is good enough), “All things considered”, “Other things being equal”, “That said”, “God willing”, “Time permitting”.",
+    "With “there”: “There being no further questions, the meeting was closed.”"
+   ],
+   "exemples": [
+    ["Weather permitting, the ceremony will take place in the garden.", "A fixed absolute: if the weather allows."],
+    ["The work done, the builders packed up and left.", "Own subject (the work) + past participle."],
+    ["All things considered, it was a successful year.", "= Taking everything into account."],
+    ["There being no objections, the motion was approved.", "Absolute with there: the style of minutes."]
+   ]
+  },
+  {
+   "titre": "With + noun + participle: the circumstance",
+   "texte": [
+    "The most frequent absolute in everyday English is introduced by “with”: with + noun + -ing / past participle / adjective / phrase. It expresses a cause, a circumstance or a setting, in speech as in writing.",
+    "“Without” also works: “Without anyone noticing, he left the room.”"
+   ],
+   "tableau": {
+    "entetes": ["Structure", "Example", "Meaning"],
+    "lignes": [
+     ["with + noun + -ing", "With prices rising, families are spending less.", "cause"],
+     ["with + noun + pp", "With the project finished, we can relax.", "cause, earlier action"],
+     ["with + noun + adjective", "He fell asleep with the window open.", "circumstance"],
+     ["with + noun + preposition", "She stood there with her hands in her pockets.", "manner, setting"],
+     ["without + noun + -ing", "They left without anyone seeing them.", "negative circumstance"]
+    ]
+   },
+   "exemples": [
+    ["With the elections only a month away, the parties are campaigning hard.", "= Because the elections are only a month away…"]
+   ]
+  },
+  {
+   "titre": "The dangling participle trap",
+   "texte": [
+    "If the implied subject of the participle is not the subject of the main clause, the sentence is wrong and sometimes comic: “Walking down the street, the trees looked beautiful” says the trees were walking. Either change the subject of the main clause (“Walking down the street, I noticed the trees”) or use a full clause (“As I walked down the street, the trees…”).",
+    "This is one of the mistakes most often marked by examiners, in academic English and in exams (IELTS, Cambridge)."
+   ],
+   "tableau": {
+    "entetes": ["Dangling", "Correct"],
+    "lignes": [
+     ["Having finished the report, the computer crashed.", "Having finished the report, I saw the computer crash. / Just after I had finished the report, the computer crashed."],
+     ["Arriving late, the meeting had already started.", "Arriving late, I found that the meeting had already started."],
+     ["Built in 1890, tourists love the bridge.", "Built in 1890, the bridge is loved by tourists."]
+    ]
+   }
+  },
+  {
+   "titre": "Accepted exceptions and reduced relative clauses",
+   "texte": [
+    "Some participles have become linkers and do not need a shared subject: generally / broadly / strictly speaking, judging by / from, considering (that), given (that), assuming (that), provided / providing (that), talking of, based on (in everyday use). “Considering his age, he did very well” is perfectly correct.",
+    "Participles also reduce relative clauses: “the people living next door” (= who live), “the documents attached” (= which are attached), “a decision taken yesterday” (= which was taken). This is very common in reports and emails."
+   ],
+   "exemples": [
+    ["Judging by the queue, the new bakery is a success.", "An accepted exception."],
+    ["Given the circumstances, we had no choice.", "A fixed linker: considering the circumstances."],
+    ["Anyone wishing to attend should register by Friday.", "Reduced relative: anyone who wishes…"]
+   ]
+  },
+  {
+   "titre": "Patterns that don't work in English",
+   "texte": [
+    "Some languages use a past participle alone with verbs of movement (“Arrived at the station, he called”). In English this is impossible: say “Having arrived / On arriving / When he arrived at the station, he called”.",
+    "For the means of doing something, use by + -ing, not in + -ing: “By working hard, you'll succeed.” For “at the moment of”, use on + -ing or when: “On arriving, I…”."
+   ]
+  }
+ ],
+ "formule": "Participle clause: participle + complement, subject = that of the main clause · Absolute clause: OWN SUBJECT + participle (Weather permitting; The work done; With prices rising)",
+ "prononciation": [
+  "A participle or absolute clause forms its own intonation group, separated by a pause: “Weather permitting, | we'll eat outside.”",
+  "“permitting” /pəˈmɪtɪŋ/ is stressed on “mit”; the t between vowels is often tapped in American English.",
+  "“Having been told” /ˈhævɪŋ bɪn ˈtəʊld/: “been” is reduced to /bɪn/.",
+  "“considered” /kənˈsɪdəd/ (BrE): three syllables, stress on “si”.",
+  "In “With prices rising”, the stress falls on “prices” and “rising”."
+ ],
+ "erreurs": [
+  ["Arrived at the airport, I called my wife.", "When I arrived / Having arrived at the airport, I called my wife.", "A past participle alone cannot express “after arriving”."],
+  ["Walking to work, the rain started.", "As I was walking to work, it started to rain. / Walking to work, I got caught in the rain.", "Dangling participle: the rain wasn't walking."],
+  ["Having not finished, she stayed late.", "Not having finished, she stayed late.", "“Not” goes before the participle."],
+  ["The weather permitting, we'll go.", "Weather permitting, we'll go.", "A fixed expression, with no article."],
+  ["With rising the prices, people buy less.", "With prices rising, people buy less.", "Order: with + noun + participle."],
+  ["Being finished the work, we left.", "The work (being) finished, we left. / Once the work was finished, we left.", "The subject of the absolute comes before the participle."],
+  ["In working hard, you will succeed.", "By working hard, you will succeed.", "For the means, use by + -ing."]
+ ],
+ "dialogue": {
+  "contexte": "In Victoria, British Columbia, a wedding planner goes over the plan with the groom.",
+  "lignes": [
+   ["Kim", "Weather permitting, the ceremony will be on the lawn at four.", "A fixed absolute."],
+   ["Ali", "And if it rains?", "A condition."],
+   ["Kim", "With the marquee already booked, we can move everyone inside in ten minutes.", "with + noun + participle: cause."],
+   ["Ali", "Great. Having seen the forecast, I'm a bit worried, to be honest.", "Perfect participle: earlier action."],
+   ["Kim", "Judging by the last few days, it'll clear up by the afternoon.", "An accepted exception."],
+   ["Ali", "I hope so. And the guests coming from Montreal?", "Reduced relative: who are coming."],
+   ["Kim", "Their flight landing at noon, they'll be at the hotel by two. The shuttle's arranged.", "An absolute clause with its own subject (formal)."],
+   ["Ali", "All things considered, it sounds like everything's under control.", "A fixed absolute."]
+  ]
+ },
+ "mots": [
+  ["permitting", "Time permitting, we'll take questions.", "if it allows"],
+  ["absolute", "This is an absolute clause.", "(grammar) with its own subject, not linked to the main clause"],
+  ["dangling", "Avoid dangling participles in essays.", "not correctly linked to a subject"],
+  ["considering", "Considering the cost, it's a good deal.", "taking into account"],
+  ["given", "Given the delay, we'll start at ten.", "because of; considering"],
+  ["judging by", "Judging by his face, the news was bad.", "basing your opinion on"],
+  ["marquee", "The reception was held in a marquee.", "a large tent for events (BrE)"],
+  ["clear up", "The sky should clear up this afternoon.", "become bright after rain or clouds"],
+  ["objection", "There being no objection, we'll proceed.", "a reason against something"],
+  ["under control", "Don't worry, everything is under control.", "well managed"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Participle or absolute clause?",
+   "consigne": "Say whether the opening clause is a participle clause (same subject) or an absolute clause (own subject).",
+   "items": [
+    ["Feeling unwell, Marc went home early.", "participle clause"],
+    ["The guests having left, we started cleaning.", "absolute clause"],
+    ["With the shops closed, the streets were empty.", "absolute clause (with)"],
+    ["Built in 1920, the station has just been renovated.", "participle clause"]
+   ]
+  },
+  {
+   "titre": "2. Condense",
+   "consigne": "Rewrite using a participle or absolute clause.",
+   "items": [
+    ["If the weather permits, we'll have a barbecue.", "Weather permitting, we'll have a barbecue."],
+    ["After she had finished her degree, she moved to Calgary.", "Having finished her degree, she moved to Calgary."],
+    ["Because prices are rising, people are buying less.", "With prices rising, people are buying less."],
+    ["As there was no bus, we walked.", "There being no bus, we walked."],
+    ["Because he didn't know the way, he asked a policeman.", "Not knowing the way, he asked a policeman."]
+   ]
+  },
+  {
+   "titre": "3. Fix the dangling participle",
+   "consigne": "Rewrite the sentence so that the participle has the right subject.",
+   "items": [
+    ["Having eaten lunch, the train left.", "Having eaten lunch, we caught the train. / After we had eaten lunch, the train left."],
+    ["Driving to Kingston, a deer jumped onto the road.", "While I was driving to Kingston, a deer jumped onto the road."],
+    ["Written in a hurry, the teacher found many mistakes in the essay.", "Written in a hurry, the essay contained many mistakes."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    ["Arrived at the hotel, she took a shower.", "Having arrived / When she arrived at the hotel, she took a shower."],
+    ["Having not understood, he asked again.", "Not having understood, he asked again."],
+    ["With falling the temperature, the lake froze.", "With the temperature falling, the lake froze."],
+    ["The time permitting, we'll visit the museum.", "Time permitting, we'll visit the museum."]
+   ]
+  },
+  {
+   "titre": "5. Rewrite with a participle structure",
+   "consigne": "Rewrite each sentence with a participle or absolute structure.",
+   "items": [
+    ["When everything is taken into account, it was a good decision.", "All things considered, it was a good decision."],
+    ["Because the children were asleep, we could finally talk.", "The children asleep, we could finally talk. / With the children asleep, we could finally talk."],
+    ["Because of the delay, we'll start at ten. (Given…)", "Given the delay, we'll start at ten."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short paragraph (4 sentences) announcing an outdoor event, using at least three structures from the lesson.",
+   "items": [
+    ["Example answer", "Weather permitting, our community picnic will take place in Stanley Park on Saturday. With more than 200 families registered, it promises to be our biggest event yet. Anyone wishing to help should contact the organisers by Thursday. Having learnt from last year, we will also provide shaded areas and free water."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "A participle clause with no subject takes the subject of the main clause; otherwise it dangles (a frequent mistake).",
+  "Absolute clause = own subject + participle: Weather permitting, The work done, There being no…, All things considered.",
+  "With + noun + participle / adjective: With prices rising, with the window open — very common.",
+  "Not goes before the participle; no “Arrived at…” on its own; by + -ing for the means."
+ ],
+ "liens": [162, 232, 238, 247, 285],
+ "refs": ["bc-participle", "bc-c1"]
+}

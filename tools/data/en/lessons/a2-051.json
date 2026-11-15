@@ -1,0 +1,220 @@
+{
+"n": 51,
+"niveau": "A2",
+"titre": "The present perfect: a first look",
+"intro": "The present perfect (I have worked, she has seen) connects the past and the present. It is one of the most difficult tenses for learners, so this lesson takes it step by step.",
+"objectifs": [
+"Form the present perfect with have / has + past participle, in all forms.",
+"Know the most common irregular past participles.",
+"Use the present perfect for life experience and for a past action with a result now.",
+"Choose between the present perfect and the past simple: is there a finished past time?"
+],
+"sections": [
+{
+"titre": "The form",
+"texte": [
+"The present perfect uses the helper verb have (has for he / she / it) + the past participle. Short forms: I've, you've, he's / she's / it's, we've, they've; negative haven't / hasn't.",
+"Be careful: “he's” can mean “he is” or “he has”. The next word tells you: “he's tired” (is) / “he's finished” (has + past participle)."
+],
+"tableau": {
+"entetes": ["Form", "Pattern", "Example"],
+"lignes": [
+["positive", "subject + have / has + past participle", "I've finished. She's visited Quebec."],
+["negative", "subject + haven't / hasn't + past participle", "We haven't eaten. He hasn't called."],
+["question", "Have / Has + subject + past participle?", "Have you seen my keys?"],
+["short answer", "Yes, I have. / No, she hasn't.", "Has he arrived? — No, he hasn't."]
+]
+}
+},
+{
+"titre": "The past participle",
+"texte": [
+"For regular verbs, the past participle is the same as the past simple: base + -ed (worked, played, studied, stopped).",
+"For irregular verbs, it is the third column of the list (go – went – gone). Some verbs have the same past simple and past participle; others don't, so learn both."
+],
+"tableau": {
+"entetes": ["Base", "Past simple", "Past participle"],
+"lignes": [
+["be", "was / were", "been"],
+["go", "went", "gone"],
+["do", "did", "done"],
+["see", "saw", "seen"],
+["eat", "ate", "eaten"],
+["have", "had", "had"],
+["make", "made", "made"],
+["take", "took", "taken"],
+["write", "wrote", "written"],
+["buy", "bought", "bought"],
+["lose", "lost", "lost"],
+["meet", "met", "met"]
+]
+}
+},
+{
+"titre": "Use 1: life experience",
+"texte": [
+"Use the present perfect to say what you have done (or not) in your life until now, without saying when. The experience matters, not the time.",
+"The words “ever” and “never” are very common with this use: you will study them in detail in the next lesson (52)."
+],
+"exemples": [
+["I've visited Canada twice.", "In my life, until now."],
+["She has worked in three countries.", "Her experience."],
+["We've never eaten ndolé.", "never = not at any time."]
+]
+},
+{
+"titre": "Use 2: a past action with a result now",
+"texte": [
+"We also use it for a recent action when we can see the result now. The present situation is what matters.",
+"Often a present sentence could say the same thing: “I've lost my keys” = I don't have my keys now."
+],
+"exemples": [
+["I've lost my keys. I can't open the door.", "Result: I can't get in."],
+["Look! It has stopped raining.", "Result: it isn't raining now."],
+["He's broken his leg, so he can't play.", "Result: he can't play now."]
+]
+},
+{
+"titre": "Present perfect or past simple?",
+"texte": [
+"The golden rule: when you say (or think of) a finished past time — yesterday, last week, in 2019, two days ago, when I was a child — use the past simple, never the present perfect.",
+"In conversation, we often start with the present perfect (the experience), then change to the past simple for the details (when, where, how)."
+],
+"tableau": {
+"entetes": ["Present perfect (no finished time)", "Past simple (finished time)"],
+"lignes": [
+["I've been to Senegal.", "I went to Senegal in 2022."],
+["She's lost her phone.", "She lost her phone yesterday."],
+["Have you seen the film?", "When did you see it?"]
+]
+},
+"exemples": [
+["I've met the new manager. I met her this morning.", "Experience, then the detail in the past simple."],
+["Have you ever been to Brussels? — Yes, I went there last summer.", "Question in the present perfect, answer with a time in the past simple."]
+]
+},
+{
+"titre": "Been or gone?",
+"texte": [
+"The verb go has two possible participles in the present perfect, with different meanings. “Has been to” = went there and came back (experience). “Has gone to” = went there and is still there (not here now)."
+],
+"exemples": [
+["Paul has been to Dakar.", "He went and came back."],
+["Paul has gone to Dakar.", "He is in Dakar now."]
+]
+}
+],
+"formule": "have / has + past participle (worked, seen, gone, been…)",
+"prononciation": [
+"In speech, have and has are contracted and very short: I've /aɪv/, we've /wiːv/, she's /ʃiːz/. Listen for the small /v/ or /z/ sound.",
+"In a question, “have” is weak: Have you seen…? /həv juː ˈsiːn/. In a short answer, it is strong: Yes, I HAVE /hæv/.",
+"“haven't” /ˈhævnt/ and “hasn't” /ˈhæznt/ are never weak.",
+"“been” is /biːn/ (UK) or /bɪn/ (US); “gone” /ɡɒn/ (UK) / /ɡɔːn/ (US); “done” /dʌn/ rhymes with “sun”."
+],
+"erreurs": [
+["I have seen him yesterday.", "I saw him yesterday.", "Finished past time (yesterday): past simple."],
+["She have finished.", "She has finished.", "he / she / it: has."],
+["I have went to London.", "I have been to London.", "After have: past participle (gone / been), not the past simple."],
+["Have you eat?", "Have you eaten?", "eat → ate → eaten: you need the participle."],
+["When have you arrived?", "When did you arrive?", "When asks about the time: past simple."],
+["He has gone to Paris twice.", "He has been to Paris twice.", "For experience (there and back): been."],
+["She is arrived.", "She has arrived.", "The helper is always have, never be, even with verbs of movement."]
+],
+"dialogue": {
+"contexte": "In Brussels, Clémence is interviewing Olivier for a job in a travel agency.",
+"lignes": [
+["Clémence", "So, Olivier, have you worked in tourism before?", "Question about experience."],
+["Olivier", "Yes, I have. I worked in a hotel in Liège for two years.", "Short answer, then a finished period: past simple."],
+["Clémence", "Great. Which countries have you visited?", "Experience, no time."],
+["Olivier", "I've been to Morocco, Cameroon and Canada. I went to Canada last year.", "been to (experience); last year → past simple."],
+["Clémence", "Have you ever organised a group trip?", "ever = at any time in your life."],
+["Olivier", "No, I haven't, but I've helped my manager with several trips.", "Negative short answer."],
+["Clémence", "OK. And have you read our job description?", "Result now: do you know it?"],
+["Olivier", "Yes, I have. I've prepared some ideas for your website, too.", "Result: the ideas are ready."]
+]
+},
+"mots": [
+["experience", "She has a lot of experience.", "knowledge or skill you get from doing something"],
+["already", "I've already eaten.", "before now, or sooner than expected"],
+["several", "I've been there several times.", "more than two but not many"],
+["twice", "We've met twice.", "two times"],
+["recently", "Have you seen him recently?", "not long ago"],
+["lately", "I haven't slept well lately.", "in the last few days or weeks"],
+["break", "He's broken his arm.", "to damage something so it is in pieces (break – broke – broken)"],
+["finish", "Have you finished your homework?", "to complete something"],
+["abroad", "Have you ever lived abroad?", "in or to another country"]
+],
+"exercices": [
+{
+"titre": "1. The past participle",
+"consigne": "Write the past participle.",
+"items": [
+["go", "gone (or been)"],
+["see", "seen"],
+["write", "written"],
+["play", "played"],
+["eat", "eaten"],
+["take", "taken"],
+["buy", "bought"],
+["do", "done"]
+]
+},
+{
+"titre": "2. Have or has?",
+"consigne": "Complete with have, has, haven't or hasn't.",
+"items": [
+["My brother ___ lost his wallet.", "has"],
+["___ you finished your lunch?", "Have"],
+["We ___ seen that film. (negative)", "haven't"],
+["She ___ called me today. (negative)", "hasn't"],
+["They ___ moved to a new flat.", "have"]
+]
+},
+{
+"titre": "3. Present perfect or past simple?",
+"consigne": "Put the verb in the present perfect or the past simple.",
+"items": [
+["I ___ (visit) Morocco three times.", "'ve visited"],
+["I ___ (visit) Morocco in 2021.", "visited"],
+["Oh no! I ___ (forget) my password.", "'ve forgotten"],
+["She ___ (start) her new job last Monday.", "started"],
+["___ you ___ (ever / be) to Canada?", "Have … ever been"]
+]
+},
+{
+"titre": "4. Been or gone?",
+"consigne": "Complete with been or gone.",
+"items": [
+["Where's Amina? — She's ___ to the bank. She'll be back soon.", "gone"],
+["I've ___ to Ghent twice. It's beautiful.", "been"],
+["My parents aren't here. They've ___ to Yaoundé for a week.", "gone"]
+]
+},
+{
+"titre": "5. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["I have finished it two hours ago.", "I finished it two hours ago."],
+["He have bought a new car.", "He has bought a new car."],
+["Have you wrote the email?", "Have you written the email?"],
+["When have you met her?", "When did you meet her?"]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Write five sentences about your experiences: three in the present perfect, then two in the past simple with details.",
+"items": [
+["Model answer", "I've lived in two countries. I've learned to drive and I've visited many cities in Africa. I visited Accra in 2023 and I loved it. I learned to drive when I was 19."]
+]
+}
+],
+"a_retenir": [
+"Present perfect = have / has + past participle (worked, seen, gone, been, done).",
+"Life experience with no time: I've been to Canada.",
+"Past action with a result now: I've lost my keys.",
+"Finished past time (yesterday, in 2020, ago, When…?) = past simple, never present perfect.",
+"been to = went and came back; gone to = went and is still there."
+],
+"liens": [41, 42, 52, 53, 91],
+"refs": ["bc-present-perfect", "cam-verbs"]
+}

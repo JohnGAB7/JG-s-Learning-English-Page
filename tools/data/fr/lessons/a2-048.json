@@ -1,0 +1,193 @@
+{
+"n": 48,
+"niveau": "A2",
+"titre": "« Too » et « enough »",
+"intro": "« Too » (trop) exprime un excès, « enough » (assez) une quantité ou un degré suffisant. Ces deux mots permettent d'expliquer pourquoi quelque chose est possible ou impossible : « trop cher pour moi », « pas assez grand pour nous ».",
+"objectifs": [
+"Placer correctement too (avant l'adjectif) et enough (après l'adjectif, avant le nom).",
+"Utiliser too much / too many avec les noms indénombrables et dénombrables.",
+"Construire too … to et (not) … enough to pour exprimer une conséquence.",
+"Distinguer too (trop), very (très) et too (aussi)."
+],
+"sections": [
+{
+"titre": "Too + adjectif / adverbe : l'excès",
+"texte": [
+"« Too » se place devant un adjectif ou un adverbe. Il signifie « plus que nécessaire ou que souhaitable » : il a donc presque toujours un sens négatif, de problème.",
+"Ne pas confondre avec « very » (très), qui indique seulement un degré élevé, sans problème. « This bag is very expensive » (il est très cher, mais je peux l'acheter) ; « This bag is too expensive » (trop cher : je ne l'achète pas)."
+],
+"exemples": [
+["This coffee is too hot. I can't drink it.", "Ce café est trop chaud. Je ne peux pas le boire."],
+["You're driving too fast!", "Tu conduis trop vite ! (too + adverbe)"],
+["It's very cold, but it's not too cold for a walk.", "Il fait très froid, mais pas trop froid pour une promenade."]
+]
+},
+{
+"titre": "Too much / too many + nom",
+"texte": [
+"Devant un nom, on n'utilise pas « too » seul : on dit « too much » avec un nom indénombrable et « too many » avec un nom dénombrable au pluriel (les quantités seront approfondies dans les leçons 58 et 59).",
+"« Too much » peut aussi suivre un verbe : « You work too much »."
+],
+"tableau": {
+"entetes": ["Structure", "Nom", "Exemple"],
+"lignes": [
+["too much + indénombrable", "sugar, money, time, noise, traffic", "There's too much traffic in Lagos."],
+["too many + pluriel", "people, cars, mistakes, questions", "There are too many people on this bus."],
+["verbe + too much", "—", "He talks too much."],
+["too little / too few", "(trop peu)", "too little time, too few chairs"]
+]
+}
+},
+{
+"titre": "Enough : la bonne place",
+"texte": [
+"« Enough » change de place selon le mot qu'il accompagne : il se place APRÈS un adjectif ou un adverbe, mais AVANT un nom.",
+"À la forme négative, « not … enough » signifie « pas assez » : c'est souvent le contraire de too. « The room isn't big enough » = « The room is too small »."
+],
+"tableau": {
+"entetes": ["Structure", "Exemple", "Traduction"],
+"lignes": [
+["adjectif + enough", "Are you warm enough?", "Tu as assez chaud ?"],
+["adverbe + enough", "She didn't run fast enough.", "Elle n'a pas couru assez vite."],
+["enough + nom", "We have enough chairs.", "Nous avons assez de chaises."],
+["enough + nom indénombrable", "I don't have enough money.", "Je n'ai pas assez d'argent."],
+["verbe + enough", "Did you sleep enough?", "Tu as assez dormi ?"]
+]
+}
+},
+{
+"titre": "Too … to / enough … to : la conséquence",
+"texte": [
+"On ajoute « to + base verbale » pour expliquer la conséquence : « too + adjectif + to » (trop … pour) et « adjectif + enough + to » (assez … pour).",
+"Pour préciser la personne, on ajoute « for + nom / pronom » avant to : « too difficult for me to understand ».",
+"Attention : avec cette structure, on ne répète pas l'objet à la fin. On dit « The box is too heavy to carry », pas « too heavy to carry it »."
+],
+"exemples": [
+["He's too young to drive.", "Il est trop jeune pour conduire."],
+["She's old enough to vote.", "Elle a l'âge de voter (assez âgée pour)."],
+["The text was too difficult for me to understand.", "Le texte était trop difficile à comprendre pour moi."],
+["We don't have enough time to visit Ghent.", "Nous n'avons pas assez de temps pour visiter Gand."]
+]
+},
+{
+"titre": "Too = aussi : un autre sens",
+"texte": [
+"En fin de phrase, « too » signifie « aussi » dans une phrase affirmative : « I like jazz too ». Le contexte et la place permettent de distinguer les deux sens.",
+"Dans une phrase négative, « aussi » se dit « either » : « I don't like jazz either »."
+],
+"exemples": [
+["I'm hungry. — Me too!", "J'ai faim. — Moi aussi !"],
+["She speaks Ewe and French too.", "Elle parle éwé et aussi français."]
+]
+}
+],
+"formule": "too + adjectif (+ to + base) · too much / too many + nom · adjectif + enough (+ to + base) · enough + nom",
+"prononciation": [
+"« too » se prononce /tuː/, comme « two » et « to » (forme pleine). Il n'est jamais réduit, il est souvent accentué : It's TOO expensive.",
+"« enough » se prononce /ɪˈnʌf/ : le gh final se prononce /f/, l'accent est sur la 2e syllabe.",
+"Dans « enough to », le f et le t se suivent sans voyelle : /ɪˈnʌf tə/.",
+"Pour exprimer l'agacement, on allonge souvent « too » : « It's toooo hot! »."
+],
+"erreurs": [
+["This shirt is enough big.", "This shirt is big enough.", "enough se place après l'adjectif."],
+["We don't have money enough.", "We don't have enough money.", "enough se place avant le nom."],
+["There is too many traffic.", "There is too much traffic.", "traffic est indénombrable : too much."],
+["It's too much expensive.", "It's too expensive.", "Devant un adjectif : too seul."],
+["The film was too good!", "The film was very good! / The film was really good!", "too exprime un excès négatif ; pour un compliment : very / really."],
+["The suitcase is too heavy to carry it.", "The suitcase is too heavy to carry.", "Pas d'objet répété après too … to."],
+["I don't like it too.", "I don't like it either.", "Dans une phrase négative, « aussi » = either."]
+],
+"dialogue": {
+"contexte": "Kevin et Aïssatou cherchent une salle pour l'anniversaire de leur mère à Yaoundé.",
+"lignes": [
+["Kevin", "What do you think of this room?", "Que penses-tu de cette salle ?"],
+["Aïssatou", "It's nice, but it's too small. We invited eighty people.", "Elle est jolie, mais trop petite. Nous avons invité quatre-vingts personnes."],
+["Kevin", "Right, it isn't big enough. And the garden one?", "C'est vrai, elle n'est pas assez grande. Et celle avec le jardin ?"],
+["Aïssatou", "That one is big enough, but it's too expensive for us.", "Celle-là est assez grande, mais trop chère pour nous."],
+["Kevin", "Do we have enough money if we share with our cousins?", "On a assez d'argent si on partage avec nos cousins ?"],
+["Aïssatou", "Maybe. But there are too many steps — Mum's knees are too weak to climb them.", "Peut-être. Mais il y a trop de marches : les genoux de maman sont trop fragiles pour les monter."],
+["Kevin", "Good point. Let's look for a place on the ground floor.", "Bonne remarque. Cherchons un endroit au rez-de-chaussée."],
+["Aïssatou", "Yes, and not too far from her house.", "Oui, et pas trop loin de chez elle."]
+]
+},
+"mots": [
+["enough", "Is there enough food for everyone?", "assez, suffisamment"],
+["too", "It's too late to call him.", "trop ; aussi (en fin de phrase)"],
+["heavy", "This box is too heavy for me.", "lourd"],
+["tight", "These shoes are too tight.", "serré"],
+["loose", "The trousers are too loose.", "large, ample"],
+["spicy", "The soup is too spicy for the children.", "épicé, pimenté"],
+["afford", "We can't afford a new car.", "avoir les moyens de"],
+["space", "There isn't enough space in the car.", "la place, l'espace"],
+["strong", "He isn't strong enough to lift it.", "fort, solide"],
+["weak", "She was too weak to walk.", "faible"]
+],
+"exercices": [
+{
+"titre": "1. Too ou enough ?",
+"consigne": "Complète avec too ou enough.",
+"items": [
+["I can't reach the shelf. I'm not tall ___.", "enough"],
+["The music is ___ loud. Please turn it down.", "too"],
+["Do you have ___ time to help me?", "enough"],
+["It's ___ cold to go swimming.", "too"],
+["Is the water warm ___ for a bath?", "enough"]
+]
+},
+{
+"titre": "2. Too much ou too many ?",
+"consigne": "Complète avec too much ou too many.",
+"items": [
+["There are ___ cars in the city centre.", "too many"],
+["You put ___ salt in the soup.", "too much"],
+["She drinks ___ coffee.", "too much"],
+["I made ___ mistakes in the test.", "too many"]
+]
+},
+{
+"titre": "3. Placer enough",
+"consigne": "Ajoute enough au bon endroit.",
+"items": [
+["The room isn't big.", "The room isn't big enough."],
+["We don't have plates.", "We don't have enough plates."],
+["He didn't study.", "He didn't study enough."],
+["Are you old to drive?", "Are you old enough to drive?"]
+]
+},
+{
+"titre": "4. Transformer",
+"consigne": "Réécris la phrase avec le mot entre parenthèses, sans changer le sens.",
+"items": [
+["The bag is too small. (big enough)", "The bag isn't big enough."],
+["She isn't old enough to vote. (too young)", "She's too young to vote."],
+["The tea is too hot. I can't drink it. (too … to)", "The tea is too hot to drink."],
+["The car is too expensive. We can't buy it. (enough money)", "We don't have enough money to buy the car."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["Ce pantalon est trop serré.", "These trousers are too tight."],
+["Il n'y a pas assez de chaises.", "There aren't enough chairs."],
+["Je suis trop fatigué pour sortir.", "I'm too tired to go out."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Décris un logement, une ville ou un travail qui ne te convient pas, en quatre ou cinq phrases avec too, too much / many et (not) enough.",
+"items": [
+["Exemple de réponse", "My first flat in Paris was terrible. It was too small for two people and the kitchen wasn't big enough to cook properly. There was too much noise from the street and too many stairs. And the rent was too high, so I didn't have enough money to go out."]
+]
+}
+],
+"a_retenir": [
+"too + adjectif / adverbe = trop (problème) ; very = très (pas de problème).",
+"too much + indénombrable, too many + pluriel.",
+"adjectif + enough, mais enough + nom.",
+"too … to / … enough to + base verbale (pas d'objet répété à la fin).",
+"too en fin de phrase = aussi ; dans une phrase négative : either."
+],
+"liens": [46, 58, 59, 35],
+"refs": ["bc-enough", "cam-adj"]
+}

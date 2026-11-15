@@ -1,0 +1,207 @@
+{
+"n": 119,
+"niveau": "B1",
+"titre": "Les connecteurs de cause et de conséquence",
+"intro": "Pour expliquer pourquoi quelque chose arrive et ce qui en résulte, l'anglais dispose de nombreux connecteurs : because, because of, due to, since, so, therefore, as a result… Bien les choisir rend un discours clair et un texte écrit plus convaincant, à condition de respecter la construction de chacun.",
+"objectifs": [
+"Exprimer la cause avec because, as, since (+ proposition) et because of, due to, owing to, thanks to (+ nom).",
+"Exprimer la conséquence avec so, that's why, which is why et, à l'écrit, therefore, as a result, consequently.",
+"Choisir le connecteur adapté au registre (oral, e-mail, rapport).",
+"Ponctuer correctement les connecteurs placés en début de phrase."
+],
+"sections": [
+{
+"titre": "La cause + proposition : because, as, since",
+"texte": [
+"« Because » introduit une cause, surtout quand c'est l'information nouvelle et importante. Il se place généralement après la proposition principale ; en début de phrase, c'est possible mais plus rare à l'écrit soigné. On l'utilise seul pour répondre à « Why…? » à l'oral : « Why are you late? — Because I missed the bus. »",
+"« As » et « since » (puisque, comme) introduisent une cause déjà connue ou évidente pour l'interlocuteur. On les place souvent en début de phrase. « Since » peut aussi signifier « depuis » : le contexte permet de trancher."
+],
+"exemples": [
+["I stayed at home because I had a fever.", "Je suis resté à la maison parce que j'avais de la fièvre (information nouvelle)."],
+["As it was raining, we took a taxi.", "Comme il pleuvait, nous avons pris un taxi (cause connue)."],
+["Since you're here, can you help me with this box?", "Puisque tu es là, tu peux m'aider avec ce carton ?"]
+]
+},
+{
+"titre": "La cause + nom : because of, due to, owing to, thanks to",
+"texte": [
+"Devant un nom ou un pronom, on n'utilise pas « because » seul mais « because of ». « Due to » et « owing to » ont le même sens, en registre plus formel (annonces, rapports).",
+"« Thanks to » (grâce à) introduit une cause positive. Pour une cause négative, on n'utilise pas « thanks to » sauf ironiquement.",
+"En anglais soigné, « due to » s'utilise traditionnellement après le verbe be : « The delay was due to the storm ». Aujourd'hui, « Due to the storm, the flight was delayed » est très courant et accepté."
+],
+"tableau": {
+"entetes": ["Connecteur", "Registre", "Exemple"],
+"lignes": [
+["because of + nom", "courant", "The match was cancelled because of the rain."],
+["due to + nom", "formel", "The train is delayed due to a technical problem."],
+["owing to + nom", "très formel (GB)", "Owing to illness, the concert has been postponed."],
+["thanks to + nom", "courant, positif", "Thanks to your help, we finished on time."]
+]
+},
+"exemples": [
+["We couldn't land because of the fog.", "Nous n'avons pas pu atterrir à cause du brouillard."],
+["Thanks to the new road, the trip to Kribi takes two hours.", "Grâce à la nouvelle route, le trajet jusqu'à Kribi prend deux heures."]
+]
+},
+{
+"titre": "La conséquence à l'oral : so, that's why, which is why",
+"texte": [
+"« So » (donc, alors) introduit le résultat, au milieu de la phrase, souvent après une virgule. C'est le connecteur de conséquence le plus fréquent à l'oral et dans les e-mails.",
+"« That's why » (c'est pour ça que) commence une nouvelle phrase ; « which is why » relie deux propositions dans la même phrase.",
+"Attention : « so » de conséquence ≠ « so that » (pour que, but : leçon 120)."
+],
+"exemples": [
+["I missed the last bus, so I walked home.", "J'ai raté le dernier bus, alors je suis rentré à pied."],
+["She lived in Toronto for five years. That's why her English is so good.", "Elle a vécu cinq ans à Toronto. C'est pour ça que son anglais est si bon."],
+["The shop was closed, which is why I couldn't buy any bread.", "Le magasin était fermé, c'est pourquoi je n'ai pas pu acheter de pain."]
+]
+},
+{
+"titre": "La conséquence à l'écrit : therefore, as a result, consequently",
+"texte": [
+"Dans un rapport, un e-mail professionnel ou un essai, on utilise des connecteurs plus formels. Ils commencent souvent une nouvelle phrase et sont suivis d'une virgule ; « therefore » peut aussi se placer au milieu, devant le verbe principal.",
+"« As a result » (par conséquent, en conséquence) est neutre et très utile ; « consequently » et « therefore » sont plus formels ; « thus » est très formel ou académique."
+],
+"tableau": {
+"entetes": ["Connecteur", "Place typique", "Exemple"],
+"lignes": [
+["as a result", "début de phrase + virgule", "Prices rose sharply. As a result, sales fell."],
+["therefore", "début de phrase ou devant le verbe", "The data is incomplete. We therefore need more time."],
+["consequently", "début de phrase + virgule", "The road was closed. Consequently, deliveries were late."],
+["as a result of + nom", "cause + nom", "As a result of the strike, schools were closed."]
+]
+},
+"exemples": [
+["Fuel prices have increased. As a result, bus tickets will cost more from June.", "Le prix du carburant a augmenté. En conséquence, les tickets de bus coûteront plus cher à partir de juin."],
+["The supplier was late. We were therefore unable to deliver on time.", "Le fournisseur était en retard. Nous n'avons donc pas pu livrer à temps."]
+]
+},
+{
+"titre": "Cause ou conséquence ? Bien orienter la phrase",
+"texte": [
+"Une même situation peut s'exprimer en partant de la cause ou de la conséquence. Il faut veiller à ne pas inverser le lien logique : « because » est suivi de la CAUSE, « so » est suivi de la CONSÉQUENCE.",
+"À l'écrit, on évite de commencer trop de phrases par « So » ou « Because » ; on varie les connecteurs pour un texte fluide."
+],
+"tableau": {
+"entetes": ["Départ cause → conséquence", "Départ conséquence ← cause"],
+"lignes": [
+["It was late, so we went home.", "We went home because it was late."],
+["There was a storm. As a result, the flight was cancelled.", "The flight was cancelled because of / due to the storm."],
+["As he was ill, he stayed in bed.", "He stayed in bed because he was ill."]
+]
+}
+}
+],
+"formule": "cause : because / as / since + proposition · because of / due to / thanks to + nom — conséquence : so / that's why · therefore / as a result (écrit)",
+"prononciation": [
+"« because » se réduit souvent à /bɪˈkɒz/ ou /kəz/ à l'oral rapide (parfois écrit « 'cause » ou « cos » dans les messages informels).",
+"« due to » /ˈdjuː tə/ (GB) ou /ˈduː tə/ (US).",
+"« therefore » /ˈðeəfɔː/ : accent sur la 1re syllabe ; « consequently » /ˈkɒnsɪkwəntli/ : accent sur la 1re syllabe.",
+"À l'oral, on marque une pause et une intonation montante avant « so » : It was late, ↗ | so we left. ↘",
+"« owing » se prononce /ˈəʊɪŋ/, comme « go » + « ing »."
+],
+"erreurs": [
+["The flight was cancelled because the storm.", "The flight was cancelled because of the storm.", "Devant un nom : because of."],
+["Because of it was late, we left.", "Because it was late, we left.", "Devant une proposition : because seul."],
+["Thanks to the traffic, I was late.", "Because of the traffic, I was late.", "thanks to = cause positive."],
+["I was tired, therefore I went to bed.", "I was tired, so I went to bed. / I was tired. Therefore, I went to bed.", "therefore commence une nouvelle phrase (ou après un point-virgule) ; à l'oral : so."],
+["It's why I called you.", "That's why I called you.", "« C'est pour ça que » = that's why."],
+["I didn't go so I was ill.", "I didn't go because I was ill.", "Lien logique inversé : la cause suit because."],
+["As a result the strike, the shops closed.", "As a result of the strike, the shops closed.", "Devant un nom : as a result of."]
+],
+"dialogue": {
+"contexte": "Réunion téléphonique entre Paul, responsable logistique à Anvers, et sa cliente Mme Eyenga, à Douala.",
+"lignes": [
+["Mrs Eyenga", "Paul, our shipment hasn't arrived. Can you explain why?", "Paul, notre envoi n'est pas arrivé. Pouvez-vous expliquer pourquoi ?"],
+["Paul", "I'm very sorry. The ship left Antwerp late because of a strike at the port.", "Je suis vraiment désolé. Le navire a quitté Anvers en retard à cause d'une grève au port."],
+["Mrs Eyenga", "I see. So when will it arrive?", "Je vois. Alors, quand arrivera-t-il ?"],
+["Paul", "Since the strike ended on Monday, the ship is now at sea. It should reach Douala on the 20th.", "Comme la grève s'est terminée lundi, le navire est maintenant en mer. Il devrait arriver à Douala le 20."],
+["Mrs Eyenga", "That's a week late. As a result, we'll miss an important sale.", "C'est une semaine de retard. Par conséquent, nous allons manquer une vente importante."],
+["Paul", "I understand. That's why we'd like to offer you a 10% discount on this order.", "Je comprends. C'est pourquoi nous aimerions vous offrir une remise de 10 % sur cette commande."],
+["Mrs Eyenga", "Thank you. Thanks to your quick reaction, I can inform my clients today.", "Merci. Grâce à votre réaction rapide, je peux informer mes clients aujourd'hui."],
+["Paul", "I'll send you an email with the new date, so you'll have everything in writing.", "Je vous envoie un e-mail avec la nouvelle date, comme ça vous aurez tout par écrit."]
+]
+},
+"mots": [
+["cause", "What was the cause of the accident?", "la cause ; causer"],
+["consequence", "Climate change has serious consequences.", "une conséquence"],
+["reason", "The reason for the delay is a strike.", "la raison (the reason for + nom)"],
+["result", "As a result, prices went up.", "le résultat"],
+["due to", "The delay was due to bad weather.", "dû à, en raison de"],
+["therefore", "It is therefore necessary to act.", "donc, par conséquent"],
+["strike", "There's a train strike tomorrow.", "une grève"],
+["delay", "We apologise for the delay.", "un retard ; retarder"],
+["shipment", "The shipment arrived in Douala.", "un envoi, une cargaison"],
+["lead to", "Stress can lead to health problems.", "mener à, entraîner"]
+],
+"exercices": [
+{
+"titre": "1. Because ou because of ?",
+"consigne": "Complète avec because ou because of.",
+"items": [
+["We stayed inside ___ the heat.", "because of"],
+["We stayed inside ___ it was too hot.", "because"],
+["She got the job ___ her excellent English.", "because of"],
+["He was late ___ his alarm didn't ring.", "because"],
+["The road is closed ___ an accident.", "because of"]
+]
+},
+{
+"titre": "2. Cause ou conséquence ?",
+"consigne": "Complète avec so, as, due to, thanks to, as a result ou that's why.",
+"items": [
+["___ it was a holiday, all the shops were closed.", "As"],
+["I forgot my wallet, ___ I couldn't pay.", "so"],
+["The match was postponed ___ heavy rain.", "due to"],
+["___ my teacher's advice, I passed the exam.", "Thanks to"],
+["Unemployment rose. ___, many families had less money.", "As a result"],
+["He's from Quebec. ___ he speaks French.", "That's why"]
+]
+},
+{
+"titre": "3. Transformer",
+"consigne": "Réécris la phrase avec le connecteur entre parenthèses.",
+"items": [
+["The flight was cancelled because there was a storm. (because of)", "The flight was cancelled because of the storm."],
+["It was late, so we took a taxi. (as)", "As it was late, we took a taxi."],
+["Because of the strike, the schools closed. (as a result)", "There was a strike. As a result, the schools closed."],
+["She trained hard. She won the race. (thanks to)", "Thanks to her hard training, she won the race."]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["I stayed home because the rain.", "I stayed home because of the rain."],
+["Thanks to the bad weather, we cancelled the picnic.", "Because of the bad weather, we cancelled the picnic."],
+["It's why I'm learning English.", "That's why I'm learning English."],
+["Because of he was ill, he didn't come.", "Because he was ill, he didn't come."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["Comme il n'y avait plus de places, nous sommes partis.", "As there were no seats left, we left. / As there were no more seats, we left."],
+["Le vol a été retardé en raison du brouillard.", "The flight was delayed due to / because of the fog."],
+["Grâce à toi, j'ai trouvé un appartement.", "Thanks to you, I found a flat / an apartment."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Explique en cinq ou six phrases pourquoi tu apprends l'anglais et ce que cela change pour toi, avec au moins cinq connecteurs différents de la leçon.",
+"items": [
+["Exemple de réponse", "I'm learning English because I want to work for an international company. As my current job is only in French, I don't practise much at work. That's why I study online every evening. Thanks to these lessons, I can now read professional emails easily. As a result, my manager has asked me to join the export team, so I'll need even better English soon!"]
+]
+}
+],
+"a_retenir": [
+"because / as / since + proposition ; because of / due to / owing to + nom.",
+"thanks to = cause positive (grâce à).",
+"Conséquence à l'oral : so, that's why, which is why.",
+"Conséquence à l'écrit : as a result, therefore, consequently (en début de phrase + virgule).",
+"because + CAUSE ; so + CONSÉQUENCE : ne pas inverser le lien."
+],
+"liens": [36, 75, 118, 120, 149],
+"refs": ["cam-sentences", "bc-b1b2"]
+}

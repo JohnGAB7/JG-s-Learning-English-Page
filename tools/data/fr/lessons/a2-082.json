@@ -1,0 +1,199 @@
+{
+"n": 82,
+"niveau": "A2",
+"titre": "La météo",
+"intro": "En Grande-Bretagne, parler du temps qu’il fait est presque un sport national : c’est la façon la plus simple d’engager la conversation. Cette leçon vous apprend à décrire le temps (It’s sunny, It’s raining), à parler des températures et des saisons, à comprendre une prévision et à réagir naturellement (Lovely day, isn’t it?).",
+"objectifs": [
+ "Décrire le temps qu’il fait avec « It’s + adjectif » et « It’s + verbe en -ing ».",
+ "Distinguer le nom, l’adjectif et le verbe : rain / rainy / it’s raining.",
+ "Parler des températures et des saisons, et comprendre une prévision météo.",
+ "Utiliser la météo pour faire la conversation (small talk)."
+],
+"sections": [
+ {
+  "titre": "Le sujet « it »",
+  "texte": [
+   "Pour la météo, l’anglais utilise toujours le sujet « it », comme le « il » de « il pleut » : « It’s cold. » « It’s raining. » « It was windy yesterday. »",
+   "Pour demander : « What’s the weather like? » (quel temps fait-il ?) ou « What’s the weather like in Douala today? » Attention : ici « like » ne veut pas dire « aimer » mais « comment ».",
+   "« weather » (le temps qu’il fait) est indénombrable : on dit « nice weather », « bad weather », jamais « a nice weather ». Ne confondez pas avec « time » (le temps qui passe) ni avec « whether » (si), qui se prononce pareil."
+  ],
+  "exemples": [
+   ["What’s the weather like today? — It’s sunny and warm.", "Quel temps fait-il aujourd’hui ? — Il fait beau et chaud."],
+   ["It was very cold in Montreal last week.", "Il faisait très froid à Montréal la semaine dernière."],
+   ["We had lovely weather on holiday.", "Nous avons eu un temps magnifique en vacances."]
+  ]
+ },
+ {
+  "titre": "Nom, adjectif, verbe",
+  "texte": [
+   "Beaucoup de mots de la météo existent en trois formes. Le nom (« rain », « sun », « wind »), l’adjectif en -y (« rainy », « sunny », « windy ») et parfois le verbe (« to rain », « to snow »).",
+   "On dit « It’s sunny / cloudy / windy / foggy » (adjectif), mais « It’s raining / snowing » (verbe au présent continu : en ce moment). « It rains a lot in Wales » = présent simple pour une habitude.",
+   "Orthographe : « sun » → « sunny », « fog » → « foggy » (consonne doublée) ; « rain » → « rainy », « cloud » → « cloudy »."
+  ],
+  "tableau": {
+   "entetes": ["Nom", "Adjectif", "Verbe / phrase"],
+   "lignes": [
+    ["the sun", "sunny", "It’s sunny. / The sun is shining."],
+    ["rain", "rainy", "It’s raining. / It rains a lot."],
+    ["snow", "snowy", "It’s snowing."],
+    ["wind", "windy", "It’s windy."],
+    ["cloud", "cloudy", "It’s cloudy."],
+    ["fog", "foggy", "It’s foggy."],
+    ["a storm", "stormy", "There’s a storm."]
+   ]
+  },
+  "exemples": [
+   ["Take an umbrella, it’s raining.", "Prends un parapluie, il pleut."],
+   ["It’s very windy on the beach today.", "Il y a beaucoup de vent sur la plage aujourd’hui."],
+   ["It often snows in Quebec in January.", "Il neige souvent au Québec en janvier."]
+  ]
+ },
+ {
+  "titre": "Températures et sensations",
+  "texte": [
+   "Du plus froid au plus chaud : « freezing » (glacial), « cold », « cool » (frais), « warm » (doux, agréablement chaud), « hot », « boiling » (familier : très chaud).",
+   "Les degrés : « It’s 25 degrees. » / « It’s minus five. » (−5). Au Royaume-Uni et au Canada, on utilise les degrés Celsius ; aux États-Unis, Fahrenheit (25 °C ≈ 77 °F).",
+   "Piège : pour une personne, on dit « I’m cold » / « I’m hot » (j’ai froid / chaud), pas « I have cold ». Et « humid » = humide (air lourd) ; « wet » = mouillé, pluvieux."
+  ],
+  "exemples": [
+   ["It’s freezing this morning! It’s minus three.", "Il fait un froid glacial ce matin ! Il fait moins trois."],
+   ["It’s about thirty degrees in Yaoundé today.", "Il fait environ trente degrés à Yaoundé aujourd’hui."],
+   ["Can you close the window? I’m cold.", "Tu peux fermer la fenêtre ? J’ai froid."]
+  ]
+ },
+ {
+  "titre": "Les saisons et les prévisions",
+  "texte": [
+   "Les saisons : « spring », « summer », « autumn » (US « fall »), « winter » ; « in summer », « in the winter ». Dans les pays tropicaux : « the rainy season » et « the dry season ».",
+   "Les prévisions (« the weather forecast ») utilisent le futur : « It’s going to rain this afternoon. » (indice visible, leçon 45) ; « Tomorrow will be sunny. » ; « There will be showers in the north. » (des averses).",
+   "Pour réagir : « I hope it’ll be sunny at the weekend. » « What’s the forecast for tomorrow? »"
+  ],
+  "exemples": [
+   ["Look at those black clouds. It’s going to rain.", "Regarde ces nuages noirs. Il va pleuvoir."],
+   ["The forecast says it will be warm and sunny tomorrow.", "La météo dit qu’il fera doux et ensoleillé demain."],
+   ["In Cameroon, the rainy season starts in March in the south.", "Au Cameroun, la saison des pluies commence en mars dans le sud."]
+  ]
+ },
+ {
+  "titre": "La météo pour faire la conversation",
+  "texte": [
+   "Les Britanniques commencent souvent une conversation par la météo, avec une question-tag (leçon 69) : « Lovely day, isn’t it? » « Cold today, isn’t it? » « Terrible weather, isn’t it? »",
+   "La réponse attendue est courte et d’accord : « Yes, beautiful! » / « Yes, it’s freezing! » / « I know, it hasn’t stopped raining all week. »",
+   "Expressions utiles : « It’s pouring (down). » / « It’s raining cats and dogs. » (il pleut des cordes, la seconde est un peu vieillie), « I’m soaked! » (je suis trempé), « What a lovely day! »"
+  ],
+  "exemples": [
+   ["Lovely weather, isn’t it? — Yes, it’s beautiful!", "Il fait beau, hein ? — Oui, magnifique !"],
+   ["It’s pouring! I’m soaked.", "Il pleut à verse ! Je suis trempé."],
+   ["Cold today, isn’t it? — Yes, it’s freezing!", "Il fait froid aujourd’hui, hein ? — Oui, un froid glacial !"]
+  ]
+ }
+],
+"formule": "What’s the weather like? · It’s sunny / cloudy / windy / cold. · It’s raining / snowing. · It’s 20 degrees. · It’s going to rain. · Lovely day, isn’t it?",
+"prononciation": [
+ "« weather » /ˈweðə/ et « whether » /ˈweðə/ se prononcent de la même façon ; le th est sonore /ð/, comme dans « the ».",
+ "« weather » ≠ « water » /ˈwɔːtə/ : ne confondez pas « WÈ-zeu » et « WAU-teu ».",
+ "« cloudy » /ˈklaʊdi/ : « KLAO-di », avec la diphtongue de « now ».",
+ "« degrees » /dɪˈɡriːz/ : accent sur « GREEZ », s final sonore /z/.",
+ "« autumn » /ˈɔːtəm/ : le n final ne se prononce pas.",
+ "« Lovely day, isn’t it? » : intonation descendante ↘ sur « isn’t it » : on ne pose pas une vraie question, on attend un accord."
+],
+"erreurs": [
+ ["It makes cold.", "It’s cold.", "Pour la météo : It’s + adjectif."],
+ ["It’s a nice weather.", "It’s nice weather. / The weather is nice.", "« weather » est indénombrable : pas de « a »."],
+ ["How is the weather like?", "What’s the weather like?", "Avec « like », la question commence par « What »."],
+ ["It’s rainy now, take an umbrella.", "It’s raining now, take an umbrella.", "En ce moment : It’s raining (verbe)."],
+ ["I have cold.", "I’m cold.", "Avoir froid = be cold."],
+ ["It’s sunny today, it doesn’t it?", "It’s sunny today, isn’t it?", "Tag : is → isn’t it."],
+ ["It’s raining a lot in London in general.", "It rains a lot in London.", "Habitude : présent simple."],
+ ["The time is beautiful today.", "The weather is beautiful today.", "Le temps qu’il fait = the weather."]
+],
+"dialogue": {
+ "contexte": "À un arrêt de bus à Édimbourg, Mrs Reid parle avec Léa, une étudiante belge qui vient d’arriver.",
+ "lignes": [
+  ["Mrs Reid", "Terrible weather, isn’t it?", "Quel temps affreux, hein ?"],
+  ["Léa", "Yes, it’s freezing! Is it always like this in Scotland?", "Oui, il fait un froid glacial ! C’est toujours comme ça en Écosse ?"],
+  ["Mrs Reid", "Not always. It rains a lot, but we have some lovely days in summer.", "Pas toujours. Il pleut beaucoup, mais on a de belles journées en été."],
+  ["Léa", "What’s the weather like in summer?", "Quel temps fait-il en été ?"],
+  ["Mrs Reid", "It’s usually cool, about eighteen degrees. Where are you from?", "En général il fait frais, environ dix-huit degrés. Vous venez d’où ?"],
+  ["Léa", "I’m from Belgium. The weather is similar there, but it’s less windy.", "Je viens de Belgique. Le temps est similaire là-bas, mais il y a moins de vent."],
+  ["Mrs Reid", "Well, the forecast says it’s going to snow tonight.", "Eh bien, la météo dit qu’il va neiger ce soir."],
+  ["Léa", "Really? I hope it’ll be sunny at the weekend.", "Vraiment ? J’espère qu’il fera beau ce week-end."],
+  ["Mrs Reid", "Don’t count on it! Ah, here’s my bus. Nice talking to you.", "N’y comptez pas trop ! Ah, voici mon bus. Ravie de vous avoir parlé."]
+ ]
+},
+"mots": [
+ ["weather", "What’s the weather like in Paris?", "le temps (météo, indénombrable)"],
+ ["sunny", "It’s sunny and warm today.", "ensoleillé"],
+ ["cloudy", "It’s cloudy, but it isn’t raining.", "nuageux"],
+ ["windy", "It’s too windy to go sailing.", "venteux, il y a du vent"],
+ ["shower", "There will be showers this afternoon.", "une averse"],
+ ["freezing", "It’s freezing outside, wear a coat.", "glacial"],
+ ["warm", "It’s a warm evening.", "doux, agréablement chaud"],
+ ["forecast", "Have you seen the weather forecast?", "la prévision (météo)"],
+ ["umbrella", "Don’t forget your umbrella.", "un parapluie"],
+ ["soaked", "I walked home in the rain and I’m soaked.", "trempé"]
+],
+"exercices": [
+ {
+  "titre": "1. Nom → adjectif",
+  "consigne": "Donne l’adjectif de météo.",
+  "items": [
+   ["sun", "sunny"],
+   ["cloud", "cloudy"],
+   ["wind", "windy"],
+   ["fog", "foggy"],
+   ["storm", "stormy"]
+  ]
+ },
+ {
+  "titre": "2. Adjectif ou verbe ?",
+  "consigne": "Choisis la bonne forme.",
+  "items": [
+   ["Take your umbrella. It’s (rainy / raining).", "raining"],
+   ["It’s very (snowing / snowy) in the mountains in winter. It snows a lot.", "snowy"],
+   ["Look outside! It’s (snowing / snowy)!", "snowing"],
+   ["It’s (wind / windy) today. Hold your hat!", "windy"],
+   ["It (rains / is raining) a lot in Ireland.", "rains"]
+  ]
+ },
+ {
+  "titre": "3. Compléter",
+  "consigne": "Complète avec un mot.",
+  "items": [
+   ["What’s the weather ___ in Ottawa?", "like"],
+   ["It’s minus ten. It’s ___!", "freezing"],
+   ["Look at those clouds. It’s ___ to rain.", "going"],
+   ["Lovely day, ___ it?", "isn’t"],
+   ["Have you seen the weather ___ for tomorrow?", "forecast"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Il fait froid.", "It’s cold."],
+   ["J’ai chaud.", "I’m hot."],
+   ["Quel temps fait-il à Bruxelles ?", "What’s the weather like in Brussels?"],
+   ["Il fait un temps magnifique.", "The weather is lovely. / It’s lovely weather."],
+   ["Il pleut à verse.", "It’s pouring (down)."],
+   ["Il fera ensoleillé demain.", "It will be sunny tomorrow."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Décris en 5 ou 6 phrases le temps qu’il fait aujourd’hui chez toi, le temps habituel selon les saisons, et la prévision pour demain.",
+  "items": [
+   ["Exemple de réponse", "Today in Douala it’s hot and humid. It’s about thirty-two degrees and it’s cloudy. It rains a lot here, especially in the rainy season, from March to November. In the dry season it’s sunny and very hot. The forecast says it’s going to rain tomorrow afternoon, so I’ll take my umbrella."]
+  ]
+ }
+],
+"a_retenir": [
+ "Toujours le sujet « it » : It’s cold. It’s raining. What’s the weather like?",
+ "Adjectif pour décrire (sunny, cloudy, windy, foggy) ; verbe en -ing pour ce qui se passe maintenant (It’s raining / snowing).",
+ "« weather » est indénombrable : nice weather (pas « a nice weather »). Avoir froid = I’m cold.",
+ "Prévisions : It’s going to rain (indice visible) ; It will be sunny tomorrow.",
+ "Conversation : Lovely day, isn’t it? — Yes, beautiful!"
+],
+"liens": [45, 49, 59, 69, 135],
+"refs": ["bc-a1a2", "cam-adj"]
+}

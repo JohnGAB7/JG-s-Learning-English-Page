@@ -1,0 +1,407 @@
+{
+ "n": 1,
+ "niveau": "A1",
+ "titre": "Le verbe « to be » (être)",
+ "intro": "Le verbe le plus utile de l'anglais : il sert à dire qui l'on est, comment on va, où l'on se trouve, quel âge on a et quel temps il fait.",
+ "objectifs": [
+  "Conjuguer « to be » au présent à toutes les personnes, en forme pleine et en forme courte.",
+  "Savoir quand l'anglais utilise « to be » alors que le français utilise « avoir » ou « faire » (l'âge, la faim, le froid, la météo).",
+  "Construire des phrases simples pour parler de soi : identité, métier, humeur, lieu."
+ ],
+ "sections": [
+  {
+   "titre": "Les formes du présent",
+   "texte": [
+    "« To be » est irrégulier : il a trois formes au présent, am, is et are. Il faut les apprendre par cœur, car elles reviennent dans presque toutes les phrases.",
+    "La forme courte (contraction) est celle qu'on entend à l'oral et qu'on lit dans les messages. La forme pleine s'utilise à l'écrit soigné ou pour insister."
+   ],
+   "tableau": {
+    "entetes": [
+     "Sujet",
+     "Forme pleine",
+     "Forme courte",
+     "Traduction"
+    ],
+    "lignes": [
+     [
+      "I",
+      "I am",
+      "I'm",
+      "je suis"
+     ],
+     [
+      "you",
+      "you are",
+      "you're",
+      "tu es / vous êtes"
+     ],
+     [
+      "he",
+      "he is",
+      "he's",
+      "il est"
+     ],
+     [
+      "she",
+      "she is",
+      "she's",
+      "elle est"
+     ],
+     [
+      "it",
+      "it is",
+      "it's",
+      "il / elle est (chose, animal, météo)"
+     ],
+     [
+      "we",
+      "we are",
+      "we're",
+      "nous sommes"
+     ],
+     [
+      "they",
+      "they are",
+      "they're",
+      "ils / elles sont"
+     ]
+    ]
+   },
+   "note": "« You » sert à la fois pour « tu » et pour « vous » (singulier poli ou pluriel). Le verbe reste toujours « are »."
+  },
+  {
+   "titre": "Les usages de « to be »",
+   "texte": [
+    "On l'utilise pour dire qui on est ou ce qu'on fait dans la vie (identité, nationalité, métier), comment on se sent, où on se trouve, et pour décrire une personne ou une chose."
+   ],
+   "exemples": [
+    [
+     "I'm Marie. I'm French.",
+     "Identité et nationalité : je suis Marie, je suis française."
+    ],
+    [
+     "He's a nurse.",
+     "Métier : il est infirmier (avec a / an devant le métier)."
+    ],
+    [
+     "We're tired but happy.",
+     "Humeur, état : nous sommes fatigués mais heureux."
+    ],
+    [
+     "They're in Yaoundé.",
+     "Lieu : ils sont à Yaoundé."
+    ],
+    [
+     "The room is small.",
+     "Description : la chambre est petite."
+    ]
+   ]
+  },
+  {
+   "titre": "Quand le français dit « avoir » ou « faire »",
+   "texte": [
+    "Plusieurs expressions françaises avec « avoir » ou « faire » se disent avec « to be » en anglais. C'est la source d'erreur numéro un des francophones."
+   ],
+   "tableau": {
+    "entetes": [
+     "Français",
+     "Anglais"
+    ],
+    "lignes": [
+     [
+      "J'ai 30 ans.",
+      "I'm 30. / I'm 30 years old."
+     ],
+     [
+      "J'ai faim. J'ai soif.",
+      "I'm hungry. I'm thirsty."
+     ],
+     [
+      "J'ai froid. J'ai chaud.",
+      "I'm cold. I'm hot."
+     ],
+     [
+      "J'ai peur.",
+      "I'm afraid. / I'm scared."
+     ],
+     [
+      "J'ai raison. Tu as tort.",
+      "I'm right. You're wrong."
+     ],
+     [
+      "Il fait beau. Il fait froid.",
+      "It's sunny. It's cold."
+     ],
+     [
+      "Je suis en retard.",
+      "I'm late."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Le sujet est obligatoire",
+   "texte": [
+    "En anglais, une phrase a toujours un sujet. Quand il n'y a pas de personne, on utilise « it » : pour l'heure, la météo, la distance ou une situation.",
+    "On ne dit jamais « Is late » ou « Is raining » : il faut « It's late », « It's raining »."
+   ],
+   "exemples": [
+    [
+     "It's nine o'clock.",
+     "Il est neuf heures."
+    ],
+    [
+     "It's far from here.",
+     "C'est loin d'ici."
+    ],
+    [
+     "It's important.",
+     "C'est important."
+    ]
+   ]
+  }
+ ],
+ "formule": "I am · you are · he / she / it is · we are · they are",
+ "prononciation": [
+  "« I'm » se prononce /aɪm/, comme le mot anglais « time » sans le t.",
+  "« you're » /jɔː/ et « your » se prononcent presque pareil ; « they're », « their » et « there » se prononcent tous /ðeə/.",
+  "Dans « he's », « she's », « it's », le s final se prononce /z/ après une voyelle (he's, she's) et /s/ après le t (it's).",
+  "Le « th » de « they » se prononce avec la langue entre les dents, en faisant vibrer la voix : /ð/. Ce n'est ni un z ni un d."
+ ],
+ "erreurs": [
+  [
+   "I have 25 years.",
+   "I'm 25.",
+   "L'âge se dit avec « to be », jamais avec « have »."
+  ],
+  [
+   "I have hungry.",
+   "I'm hungry.",
+   "La faim, la soif, le froid, la peur : « to be » + adjectif."
+  ],
+  [
+   "Is cold today.",
+   "It's cold today.",
+   "Le sujet « it » est obligatoire."
+  ],
+  [
+   "She is teacher.",
+   "She's a teacher.",
+   "Devant un métier au singulier, on met toujours a ou an."
+  ],
+  [
+   "They is happy.",
+   "They're happy.",
+   "Avec they, we et you : toujours « are »."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Premier jour dans une formation. Deux personnes se rencontrent.",
+  "lignes": [
+   [
+    "Anna",
+    "Hi! I'm Anna. Are you new here?",
+    "Salut ! Je suis Anna. Tu es nouveau ici ?"
+   ],
+   [
+    "Karim",
+    "Yes, I am. I'm Karim. I'm from Douala.",
+    "Oui. Je suis Karim. Je viens de Douala."
+   ],
+   [
+    "Anna",
+    "Nice to meet you, Karim. Are you a student?",
+    "Enchantée, Karim. Tu es étudiant ?"
+   ],
+   [
+    "Karim",
+    "No, I'm not. I'm a nurse. And you?",
+    "Non. Je suis infirmier. Et toi ?"
+   ],
+   [
+    "Anna",
+    "I'm a teacher. Oh, it's nine o'clock. We're late!",
+    "Je suis enseignante. Oh, il est neuf heures. Nous sommes en retard !"
+   ],
+   [
+    "Karim",
+    "Oh no! Let's go. I'm ready.",
+    "Oh non ! On y va. Je suis prêt."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "student",
+   "I am a student.",
+   "un étudiant, une étudiante"
+  ],
+  [
+   "ready",
+   "Are you ready?",
+   "prêt(e)"
+  ],
+  [
+   "tired",
+   "I'm tired tonight.",
+   "fatigué(e)"
+  ],
+  [
+   "busy",
+   "She is very busy.",
+   "occupé(e)"
+  ],
+  [
+   "hungry",
+   "We're hungry. Let's eat!",
+   "affamé(e), qui a faim"
+  ],
+  [
+   "late",
+   "Sorry, I'm late.",
+   "en retard"
+  ],
+  [
+   "home",
+   "They are at home.",
+   "la maison (chez soi)"
+  ],
+  [
+   "happy",
+   "My parents are happy.",
+   "heureux, heureuse, content(e)"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choisir la bonne forme",
+   "consigne": "Complète avec am, is ou are.",
+   "items": [
+    [
+     "I ___ happy.",
+     "am"
+    ],
+    [
+     "They ___ in Brussels.",
+     "are"
+    ],
+    [
+     "My brother ___ a developer.",
+     "is"
+    ],
+    [
+     "You ___ very kind.",
+     "are"
+    ],
+    [
+     "It ___ cold today.",
+     "is"
+    ],
+    [
+     "We ___ at the office.",
+     "are"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Forme courte",
+   "consigne": "Écris la forme courte.",
+   "items": [
+    [
+     "we are",
+     "we're"
+    ],
+    [
+     "she is",
+     "she's"
+    ],
+    [
+     "I am",
+     "I'm"
+    ],
+    [
+     "they are",
+     "they're"
+    ],
+    [
+     "it is",
+     "it's"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Traduire (attention aux pièges)",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    [
+     "J'ai 28 ans.",
+     "I'm 28."
+    ],
+    [
+     "Nous avons froid.",
+     "We're cold."
+    ],
+    [
+     "Il fait chaud.",
+     "It's hot."
+    ],
+    [
+     "Elle est médecin.",
+     "She's a doctor."
+    ],
+    [
+     "Tu as raison.",
+     "You're right."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Remettre dans l'ordre",
+   "consigne": "Remets les mots dans l'ordre pour faire une phrase correcte.",
+   "items": [
+    [
+     "a / is / she / nurse",
+     "She is a nurse."
+    ],
+    [
+     "at / we / home / are",
+     "We are at home."
+    ],
+    [
+     "is / it / o'clock / ten",
+     "It is ten o'clock."
+    ],
+    [
+     "from / I / Canada / am",
+     "I am from Canada."
+    ]
+   ]
+  },
+  {
+   "titre": "4. À toi",
+   "consigne": "Écris quatre phrases vraies sur toi avec « to be » : ton nom, ton âge, ton métier ou tes études, ton humeur aujourd'hui.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "I'm John. I'm 34. I'm an accountant. Today I'm a bit tired but happy."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "I am · you are · he / she / it is · we are · they are, et à l'oral : I'm, you're, he's, she's, it's, we're, they're.",
+  "Âge, faim, soif, froid, chaud, peur, raison, tort : « to be » en anglais.",
+  "Toujours un sujet : « It's late », « It's raining ».",
+  "Devant un métier : a / an (She's a nurse, He's an engineer)."
+ ],
+ "liens": [
+  2,
+  4,
+  10,
+  39
+ ],
+ "refs": [
+  "bc-be",
+  "cam-verbs"
+ ]
+}

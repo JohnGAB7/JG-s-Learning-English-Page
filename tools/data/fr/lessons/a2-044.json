@@ -1,0 +1,189 @@
+{
+"n": 44,
+"niveau": "A2",
+"titre": "« Used to » (avant, autrefois)",
+"intro": "« Used to » permet de parler de ce qui était vrai avant mais ne l'est plus : une habitude ou une situation passée. C'est souvent la meilleure traduction de l'imparfait d'habitude (« avant, je jouais au foot »).",
+"objectifs": [
+"Former « used to » à l'affirmatif, au négatif et à l'interrogatif.",
+"Parler d'habitudes et de situations passées qui ont changé.",
+"Opposer le passé (used to) et le présent (usually / now).",
+"Éviter les confusions avec « be used to » et avec le prétérit d'une action unique."
+],
+"sections": [
+{
+"titre": "La forme",
+"texte": [
+"« Used to » est suivi de la base verbale. Il a la même forme à toutes les personnes : I used to, she used to, they used to.",
+"À la négation et à l'interrogation, on utilise did : le « d » de used disparaît, car did porte déjà le passé. On écrit donc « didn't use to » et « Did you use to…? ». (La graphie « didn't used to » se voit, mais elle est considérée comme incorrecte dans l'écrit soigné.)"
+],
+"tableau": {
+"entetes": ["Forme", "Structure", "Exemple"],
+"lignes": [
+["affirmative", "sujet + used to + base", "I used to live in Garoua."],
+["négative", "sujet + didn't use to + base", "I didn't use to like coffee."],
+["négative (variante)", "sujet + never used to + base", "He never used to call me."],
+["question", "Did + sujet + use to + base ?", "Did you use to play the piano?"],
+["réponse courte", "Yes, I did. / No, I didn't.", "Did she use to smoke? — Yes, she did."]
+]
+},
+"note": "« Used to » n'existe qu'au passé. Pour une habitude présente, on utilise le présent simple avec usually : « I usually get up at 6 » (et jamais « I use to get up at 6 »)."
+},
+{
+"titre": "Usage 1 : les habitudes passées",
+"texte": [
+"On parle d'actions répétées dans le passé qui ne se font plus aujourd'hui. Le contraste avec le présent est souvent implicite ou exprimé par « but now… », « not any more », « any longer »."
+],
+"exemples": [
+["I used to walk to school every day.", "Avant, j'allais à l'école à pied tous les jours."],
+["We used to spend our holidays in Kribi.", "Nous passions nos vacances à Kribi (autrefois)."],
+["She used to work late, but now she leaves at five.", "Avant, elle travaillait tard, mais maintenant elle part à 17 h."]
+]
+},
+{
+"titre": "Usage 2 : les états et situations passés",
+"texte": [
+"« Used to » sert aussi pour des états qui ont changé : où l'on habitait, ce qu'on aimait, à quoi ressemblait une personne ou un lieu. C'est très utile pour comparer « avant » et « maintenant »."
+],
+"exemples": [
+["There used to be a cinema in this street.", "Il y avait un cinéma dans cette rue (il n'existe plus)."],
+["He used to have long hair.", "Il avait les cheveux longs avant."],
+["I didn't use to like vegetables, but now I love them.", "Avant je n'aimais pas les légumes, mais maintenant je les adore."]
+]
+},
+{
+"titre": "Used to ou prétérit ?",
+"texte": [
+"Le prétérit peut aussi exprimer une habitude passée, surtout avec un repère de durée : « I lived in Lille for five years ». Mais « used to » insiste sur le fait que la situation est terminée et a changé.",
+"En revanche, « used to » est impossible pour une action unique ou pour préciser combien de fois une action s'est produite."
+],
+"tableau": {
+"entetes": ["Situation", "Correct", "Incorrect"],
+"lignes": [
+["habitude passée", "I used to go / I went to the gym every week.", "—"],
+["action unique", "I went to the gym yesterday.", "I used to go to the gym yesterday."],
+["nombre de fois", "I visited Ghent three times.", "I used to visit Ghent three times."],
+["durée précise", "I lived in Lille for five years.", "I used to live in Lille for five years. (à éviter)"]
+]
+}
+},
+{
+"titre": "Ne pas confondre avec « be used to »",
+"texte": [
+"« Be used to + nom / verbe-ing » signifie « être habitué à ». C'est une structure différente, qui existe au présent : « I'm used to the cold » (je suis habitué au froid). Elle sera étudiée au niveau B1.",
+"Pour l'instant, retiens : used to + base verbale = habitude passée terminée ; be used to + -ing = être habitué."
+],
+"exemples": [
+["I used to live in Canada.", "J'ai vécu au Canada (avant, plus maintenant)."],
+["I'm used to living in Canada.", "Je suis habitué à vivre au Canada."]
+]
+}
+],
+"formule": "used to + base verbale · didn't use to + base · Did … use to + base ?",
+"prononciation": [
+"« used to » se prononce /ˈjuːs tə/, avec un s sourd, comme « juice » + « tuh ». Les deux t se fondent en un seul.",
+"Ne pas confondre avec le verbe « use » (utiliser) au prétérit : « I used a knife » /juːzd/, avec un z.",
+"« to » est réduit à /tə/ devant une consonne (used to live /ˈjuːs tə lɪv/) et souvent /tu/ devant une voyelle (used to eat).",
+"Dans la question, « Did you use to…? » se prononce souvent /ˈdɪdʒə ˈjuːs tə/ à l'oral rapide."
+],
+"erreurs": [
+["I use to get up at 6.", "I usually get up at 6.", "« Used to » n'existe pas au présent : on utilise usually + présent simple."],
+["I didn't used to like tea.", "I didn't use to like tea.", "Après did / didn't : use to (sans d)."],
+["Did you used to play football?", "Did you use to play football?", "Même règle à l'interrogatif."],
+["She used to living in Paris.", "She used to live in Paris.", "Used to + base verbale, pas -ing."],
+["I used to go to the cinema last night.", "I went to the cinema last night.", "Action unique : prétérit, jamais used to."],
+["When I was young, I was used to play outside.", "When I was young, I used to play outside.", "Pas de « was » : « was used to » = être habitué à."]
+],
+"dialogue": {
+"contexte": "Un grand-père, Joseph, montre de vieilles photos de Bafoussam à sa petite-fille Inès, qui vit à Bruxelles.",
+"lignes": [
+["Inès", "Grandpa, is that you? You used to have so much hair!", "Papi, c'est toi ? Tu avais tellement de cheveux !"],
+["Joseph", "Ha! Yes, and I used to wear these big glasses.", "Ha ! Oui, et je portais ces grosses lunettes."],
+["Inès", "Where did you use to live?", "Où est-ce que tu habitais ?"],
+["Joseph", "In a small house near the market. There used to be a big tree in front of it.", "Dans une petite maison près du marché. Il y avait un grand arbre devant."],
+["Inès", "Did you use to walk to school?", "Tu allais à l'école à pied ?"],
+["Joseph", "Yes, every day — five kilometres! We didn't use to have a car.", "Oui, tous les jours, cinq kilomètres ! Nous n'avions pas de voiture."],
+["Inès", "Wow. Now I take the metro for two stops!", "Waouh. Moi, je prends le métro pour deux arrêts !"],
+["Joseph", "Times change, my dear.", "Les temps changent, ma chérie."]
+]
+},
+"mots": [
+["childhood", "I spent my childhood in Garoua.", "l'enfance"],
+["anymore", "She doesn't live here anymore.", "ne… plus (en fin de phrase ; GB écrit aussi « any more »)"],
+["nowadays", "Nowadays everyone has a phone.", "de nos jours"],
+["neighbourhood", "Our neighbourhood used to be quiet.", "le quartier (US : neighborhood)"],
+["habit", "Smoking was a bad habit.", "une habitude"],
+["remember", "I remember my first teacher.", "se souvenir de"],
+["grow up", "I grew up in Liège.", "grandir"],
+["change", "The city has changed a lot.", "changer"],
+["once", "We once had a dog.", "une fois ; autrefois"]
+],
+"exercices": [
+{
+"titre": "1. Bonne forme",
+"consigne": "Choisis la bonne forme : used to, use to ou usually.",
+"items": [
+["I ___ play tennis, but I stopped last year.", "used to"],
+["Did you ___ live in the city centre?", "use to"],
+["Now I ___ cycle to work.", "usually"],
+["We didn't ___ have a TV.", "use to"],
+["There ___ be a bakery here.", "used to"]
+]
+},
+{
+"titre": "2. Compléter",
+"consigne": "Complète avec la forme correcte de used to et le verbe entre parenthèses.",
+"items": [
+["My father ___ (work) in a bank.", "used to work"],
+["I ___ (not / eat) fish when I was a child.", "didn't use to eat"],
+["___ you ___ (have) a pet?", "Did … use to have"],
+["They ___ (live) in Toulouse before they moved to Quebec.", "used to live"],
+["She ___ (not / speak) English, but now she's fluent.", "didn't use to speak"]
+]
+},
+{
+"titre": "3. Avant / maintenant",
+"consigne": "Transforme avec used to ou didn't use to pour décrire le passé.",
+"items": [
+["Now I drink tea. (before: coffee)", "I used to drink coffee."],
+["Now he goes to the gym. (before: not)", "He didn't use to go to the gym."],
+["Now this street is busy. (before: quiet)", "This street used to be quiet."],
+["Now they have a car. (before: not)", "They didn't use to have a car."]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["I use to go to bed late.", "I usually go to bed late. (habitude présente) / I used to go to bed late. (habitude passée)"],
+["Did she used to work here?", "Did she use to work here?"],
+["We used to going to the beach.", "We used to go to the beach."],
+["I used to see him yesterday.", "I saw him yesterday."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais avec used to.",
+"items": [
+["Avant, j'habitais à Lomé.", "I used to live in Lomé."],
+["Il n'aimait pas le sport avant.", "He didn't use to like sport."],
+["Est-ce que vous jouiez dehors quand vous étiez petits ?", "Did you use to play outside when you were children?"]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Compare ta vie il y a dix ans et ta vie aujourd'hui en cinq phrases (au moins trois avec used to / didn't use to).",
+"items": [
+["Exemple de réponse", "Ten years ago I used to live with my parents in Douala. I used to take a taxi to university every day. I didn't use to cook at all! Now I live alone in Brussels and I cook every evening. I usually go to work by tram."]
+]
+}
+],
+"a_retenir": [
+"Used to + base verbale = habitude ou situation passée qui a changé.",
+"Négatif : didn't use to ; question : Did … use to … ? (sans d après did).",
+"Pas de « used to » au présent : I usually…",
+"Pas de used to pour une action unique ni avec un nombre de fois (prétérit).",
+"Ne pas confondre avec be used to + -ing (être habitué à)."
+],
+"liens": [7, 41, 42, 43],
+"refs": ["bc-used-to", "bc-past-habits"]
+}

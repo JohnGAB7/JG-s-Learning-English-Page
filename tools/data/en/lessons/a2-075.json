@@ -1,0 +1,212 @@
+{
+"n": 75,
+"niveau": "A2",
+"titre": "Sequencing words: so, then, after that",
+"intro": "To tell a story, explain a recipe or describe your day, you need to put the steps in order (first, then, after that, finally) and show results (so). These small words make a story clear and natural.",
+"objectifs": [
+ "Put the steps of a story in order with first, then, next, after that, later, finally.",
+ "Show a result with so and know how it is different from because.",
+ "Use before and after correctly (+ noun, + -ing, + clause), and don't say “After, we…”.",
+ "Choose between finally, in the end, at the end and eventually."
+],
+"sections": [
+ {
+  "titre": "Putting steps in order",
+  "texte": [
+   "Sequencing words usually go at the start of the sentence, with a comma after them in writing (the comma is optional after “then”).",
+   "Start with “First” or “First of all”, continue with “Then”, “Next”, “After that”, “Later”, and finish with “Finally”.",
+   "“Then” is the most common in speech, often as “and then”. Use different words: “then… then… then…” sounds heavy."
+  ],
+  "tableau": {
+   "entetes": ["Word", "Use", "Example"],
+   "lignes": [
+    ["First / First of all", "the first step", "First, I had a shower."],
+    ["Then / And then", "the next step", "Then I made breakfast."],
+    ["Next", "the next step (instructions)", "Next, add the onions."],
+    ["After that / Afterwards", "after the step before", "After that, we went to the beach."],
+    ["Later / Later on", "some time after", "Later, my cousins arrived."],
+    ["Finally", "the last step", "Finally, we had dinner."]
+   ]
+  },
+  "exemples": [
+   ["First, we visited the old town. Then we had lunch by the river.", "Two steps."],
+   ["After that, we took the train back to Namur.", "The next step."],
+   ["Finally, we got home at midnight.", "The last step."]
+  ]
+ },
+ {
+  "titre": "So: the result",
+  "texte": [
+   "“So” introduces the result of a situation. We often put a comma before it: “It was raining, so we stayed at home.”",
+   "“So” and “because” show the same link in opposite directions: “because” introduces the cause, “so” the result. “We stayed at home because it was raining.” = “It was raining, so we stayed at home.”",
+   "In careful writing, don't start a new sentence with “So” to link it to the sentence before. In speech, “So, …” at the start is also used to begin or sum up: “So, how was your trip?”"
+  ],
+  "tableau": {
+   "entetes": ["Cause", "Result with so", "Same idea with because"],
+   "lignes": [
+    ["I was tired.", "I was tired, so I went to bed early.", "I went to bed early because I was tired."],
+    ["The bus didn't come.", "The bus didn't come, so I took a taxi.", "I took a taxi because the bus didn't come."],
+    ["She's ill.", "She's ill, so she isn't coming.", "She isn't coming because she's ill."]
+   ]
+  },
+  "exemples": [
+   ["The shop was closed, so we went to the market.", "Cause, so + result."],
+   ["I didn't have any cash, so I paid by card.", "Cause, so + result."]
+  ]
+ },
+ {
+  "titre": "Before and after: a trap",
+  "texte": [
+   "“Before” and “after” are prepositions or conjunctions: they need something after them. Say “after lunch” (+ noun), “after eating” (+ -ing) or “after we ate” (+ clause).",
+   "“After, we went…” alone at the start of a sentence is a very common mistake. Say “After that, …” or “Afterwards, …”.",
+   "“Before” alone at the end of a sentence means “at an earlier time”: “I've never been there before.”"
+  ],
+  "tableau": {
+   "entetes": ["Wrong", "Right"],
+   "lignes": [
+    ["After, we watched a film.", "After that, we watched a film. / Afterwards, we watched a film."],
+    ["After to eat, we went out.", "After eating, we went out. / After we ate, we went out."],
+    ["Before to leave, close the window.", "Before leaving, close the window. / Before you leave, close the window."]
+   ]
+  },
+  "exemples": [
+   ["After dinner, we played cards.", "after + noun."],
+   ["Before going to bed, I always read a little.", "before + -ing."]
+  ]
+ },
+ {
+  "titre": "Finally, in the end, at the end, eventually",
+  "texte": [
+   "“Finally” marks the last step in a list, or something that happens after a long wait: “Finally, the bus arrived.”",
+   "“In the end” gives the final result after changes or hesitation: “We wanted to go to the beach, but in the end we stayed at home.”",
+   "“At the end of” + noun = at the last part of a place or time: “at the end of the film”, “at the end of the street”. “Eventually” means “after a long time”; it does not mean “possibly”."
+  ],
+  "exemples": [
+   ["We waited for two hours. Finally, the plane took off.", "After a long wait."],
+   ["I wanted the red phone, but in the end I bought the black one.", "The final result after a change."],
+   ["Everybody cried at the end of the film.", "at the end of + noun."]
+  ],
+  "note": "For something that may happen, say “possibly” or “maybe”: “I can possibly come on Friday.”"
+ },
+ {
+  "titre": "A complete story",
+  "texte": [
+   "Here is a short story in the past that uses the linking words. Notice the variety and the commas."
+  ],
+  "exemples": [
+   ["First of all, we drove to Kribi early in the morning.", "First step."],
+   ["Then we found a small hotel near the beach.", "Next step."],
+   ["The sea was very calm, so we went swimming.", "Result."],
+   ["After that, we had grilled fish for lunch.", "Next step."],
+   ["In the end, we stayed three days instead of two!", "Final result after a change of plan."]
+  ]
+ }
+],
+"formule": "First, … Then … After that, … Finally, … · cause, so + result · after + noun / -ing / clause",
+"prononciation": [
+ "“then” is /ðen/ with a voiced th (tongue between the teeth); don't confuse it with “than” /ðən/.",
+ "“afterwards” /ˈɑːftəwədz/: stress at the start; in British English you don't say the r (US: /ˈæftərwərdz/, often “afterward”).",
+ "In speech, “So” is often long when you are thinking: “Sooo… what do we do now?”",
+ "Make a small pause after a linking word at the start: “First, | we went…”, “After that, | we…”.",
+ "“eventually” /ɪˈventʃuəli/: stress on the second syllable (“i-VEN-choo-uh-lee”)."
+],
+"erreurs": [
+ ["After, we went to the cinema.", "After that, we went to the cinema. / Afterwards, we went to the cinema.", "Don't use “after” alone like this at the start."],
+ ["After to eat, we left.", "After eating, we left. / After we ate, we left.", "After “after”: noun, -ing or clause, never “to”."],
+ ["I was tired, because I went to bed.", "I was tired, so I went to bed.", "Result = so; because = cause."],
+ ["At the end, we decided to stay.", "In the end, we decided to stay.", "Final result after hesitation = in the end."],
+ ["I can eventually come tomorrow. (meaning maybe)", "I can possibly come tomorrow. / Maybe I can come tomorrow.", "eventually = after a long time."],
+ ["Firstly we went to the beach, then, then we ate, then we slept.", "First, we went to the beach. Then we had lunch. After that, we had a rest.", "Use different words and clear sentences."],
+ ["In the end of the film, she dies.", "At the end of the film, she dies.", "“At the end of” + noun for an exact moment."]
+],
+"dialogue": {
+ "contexte": "In Liège, Nora tells her colleague Samuel how she cooked a meal for her mother's birthday.",
+ "lignes": [
+  ["Samuel", "So, how was your mum's birthday?", "“So” to start a topic."],
+  ["Nora", "Great, but busy! First, I went to the market on Saturday morning.", "First step."],
+  ["Samuel", "What did you cook?", "Past simple question."],
+  ["Nora", "Chicken yassa. I cut the onions, then I put the chicken in a lemon sauce.", "then = next step."],
+  ["Samuel", "Sounds delicious. And after that?", "Asking for the next step."],
+  ["Nora", "After that, I made a cake, but the oven stopped working!", "A problem."],
+  ["Samuel", "Oh no! What did you do?", "Asking about a solution."],
+  ["Nora", "I called my neighbour, so I baked it in her kitchen.", "so = result."],
+  ["Samuel", "Good idea! And in the end?", "Asking for the final result."],
+  ["Nora", "In the end, everything was perfect. Finally, at ten o'clock, we sang “Happy Birthday”.", "Final result + last step."]
+ ]
+},
+"mots": [
+ ["first", "First, read the instructions.", "before anything else"],
+ ["then", "Then turn left.", "after that; next"],
+ ["next", "Next, add some salt.", "in the following step"],
+ ["after that", "After that, we had coffee.", "after the thing just mentioned"],
+ ["afterwards", "We can talk afterwards.", "at a later time; after something"],
+ ["later", "See you later!", "at a time after now"],
+ ["finally", "Finally, the bus arrived.", "as the last step; after a long wait"],
+ ["in the end", "In the end, we stayed at home.", "after everything; as a final result"],
+ ["so", "It was late, so I took a taxi.", "used to show a result"],
+ ["eventually", "She eventually found a job.", "after a long time"]
+],
+"exercices": [
+ {
+  "titre": "1. Choose the linking word",
+  "consigne": "Choose the right word.",
+  "items": [
+   ["(First / Finally), wash your hands. Then start cooking.", "First"],
+   ["It was cold, (so / because) I put on a jumper.", "so"],
+   ["(After / After that), we went home.", "After that"],
+   ["We wanted to fly, but (in the end / at the end) we took the train.", "in the end"],
+   ["I read the menu, and (then / before) I ordered.", "then"],
+   ["Everybody clapped (in the end / at the end) of the concert.", "at the end"]
+  ]
+ },
+ {
+  "titre": "2. So or because?",
+  "consigne": "Complete with so or because.",
+  "items": [
+   ["I missed the bus, ___ I was late for work.", "so"],
+   ["I was late for work ___ I missed the bus.", "because"],
+   ["The restaurant was full, ___ we ate at home.", "so"],
+   ["She stayed in bed ___ she had a fever.", "because"],
+   ["It was sunny, ___ we went to the beach.", "so"]
+  ]
+ },
+ {
+  "titre": "3. Complete the story",
+  "consigne": "Complete with First, Then, After that, in the end or Finally (use each one once).",
+  "items": [
+   ["___, we got up early and had breakfast.", "First"],
+   ["___ we took the bus to the city centre.", "Then"],
+   ["___, we visited the museum for two hours.", "After that"],
+   ["We wanted to eat in a restaurant, but ___ we bought sandwiches in the park.", "in the end"],
+   ["___, we came home at seven, very tired but happy.", "Finally"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["After, we went to the cinema.", "After that, we went to the cinema. / Afterwards, we went to the cinema."],
+   ["After to eat, he left.", "After eating, he left. / After he ate, he left."],
+   ["It was raining, because we stayed at home.", "It was raining, so we stayed at home."],
+   ["I wasn't sure, but at the end I chose the blue dress.", "I wasn't sure, but in the end I chose the blue dress."],
+   ["I can eventually come on Monday, but I'm not sure.", "I can possibly come on Monday, but I'm not sure. / Maybe I can come on Monday."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Tell the story of a recent day (a trip, a party, a day at work) in five or six sentences in the past. Use first, then, after that, so and finally or in the end.",
+  "items": [
+   ["Model answer", "Last Saturday was my cousin's wedding. First, I went to the hairdresser's at eight. Then I put on my new dress and took a taxi to the church. The ceremony was very long, so the children were tired. After that, we all went to a big restaurant and danced for hours. In the end, I got home at three in the morning!"]
+  ]
+ }
+],
+"a_retenir": [
+ "Order: first (of all) → then / next → after that / afterwards → later → finally.",
+ "so = result (It was late, so I left); because = cause (I left because it was late).",
+ "after + noun / -ing / clause; alone at the start: After that or Afterwards, never “After, …”.",
+ "finally = last step; in the end = final result; at the end of + noun; eventually = after a long time.",
+ "Put a comma after a linking word at the start: First, … After that, …"
+],
+"liens": [36, 41, 42, 76, 119],
+"refs": ["cam-sentences", "bc-a1a2"]
+}

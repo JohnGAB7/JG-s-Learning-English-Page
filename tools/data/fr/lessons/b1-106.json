@@ -1,0 +1,423 @@
+{
+ "n": 106,
+ "niveau": "B1",
+ "titre": "Les modaux de déduction au présent (must, might, can’t)",
+ "intro": "Must, might, may, could et can't servent à faire des déductions : dire à quel point on est sûr de quelque chose à partir d'indices. « She must be tired » (elle doit être fatiguée, j'en suis presque sûr), « He can't be at home » (il ne peut pas être chez lui). C'est très courant dans la conversation.",
+ "objectifs": [
+  "Exprimer une quasi-certitude positive avec must et négative avec can't (ou couldn't).",
+  "Exprimer une possibilité avec might, may et could, et une possibilité négative avec might not / may not.",
+  "Utiliser la forme continue (must be working) pour une action en cours.",
+  "Éviter les deux grands pièges : mustn't pour une déduction négative, et la traduction mot à mot de « il doit / il peut »."
+ ],
+ "sections": [
+  {
+   "titre": "Une échelle de certitude",
+   "texte": [
+    "Ces modaux se placent sur une échelle, de « presque sûr que oui » à « presque sûr que non ». Ils sont suivis de la base verbale, sans to, et ne prennent pas de -s à la 3e personne.",
+    "On fait une déduction à partir d'indices : ce qu'on voit, ce qu'on entend, ce qu'on sait. Si on est complètement sûr, on n'utilise pas de modal : « He's at home » (je le vois)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Certitude",
+     "Modal",
+     "Exemple",
+     "Sens"
+    ],
+    "lignes": [
+     [
+      "≈ 95 % oui",
+      "must",
+      "She must be at work.",
+      "Elle doit être au travail (j'en suis presque sûr)."
+     ],
+     [
+      "≈ 50 % ",
+      "might / may / could",
+      "She might be at work.",
+      "Elle est peut-être au travail."
+     ],
+     [
+      "≈ 50 % non",
+      "might not / may not",
+      "She might not be at work.",
+      "Elle n'est peut-être pas au travail."
+     ],
+     [
+      "≈ 95 % non",
+      "can't / couldn't",
+      "She can't be at work.",
+      "Elle ne peut pas être au travail (impossible)."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Must : presque sûr que oui",
+   "texte": [
+    "Must exprime une conclusion logique à partir d'indices forts. On l'utilise beaucoup pour réagir à ce que dit quelqu'un : « You must be exhausted! » (après un long voyage), « That must be difficult. »",
+    "Attention : must a aussi le sens d'obligation (You must wear a helmet), étudié à la leçon 107. Le contexte permet de faire la différence."
+   ],
+   "exemples": [
+    [
+     "The lights are on. They must be at home.",
+     "Les lumières sont allumées : ils doivent être chez eux."
+    ],
+    [
+     "You've been travelling for 20 hours. You must be tired.",
+     "Tu dois être fatigué (réaction)."
+    ],
+    [
+     "She speaks four languages. She must be very good at languages.",
+     "Conclusion logique."
+    ]
+   ]
+  },
+  {
+   "titre": "Can't : presque sûr que non",
+   "texte": [
+    "Le contraire de must (déduction) n'est pas mustn't mais can't. « He can't be hungry, he's just eaten » (il ne peut pas avoir faim, il vient de manger). Couldn't est possible avec le même sens.",
+    "Mustn't signifie seulement l'interdiction (You mustn't park here). C'est l'erreur la plus fréquente : « He mustn't be at home » ne veut pas dire « il ne doit pas être chez lui » au sens de déduction."
+   ],
+   "exemples": [
+    [
+     "That can't be Ahmed. He's in Toronto this week.",
+     "Ça ne peut pas être Ahmed."
+    ],
+    [
+     "You can't be serious!",
+     "Tu plaisantes ! (ce n'est pas possible)"
+    ],
+    [
+     "It can't be far now. We've been walking for an hour.",
+     "Ça ne peut plus être loin."
+    ]
+   ]
+  },
+  {
+   "titre": "Might, may, could : peut-être",
+   "texte": [
+    "Might, may et could expriment une possibilité, sans certitude. Might est le plus courant à l'oral ; may est un peu plus formel ; could est fréquent pour des hypothèses.",
+    "À la négative, on utilise might not ou may not (peut-être pas). Couldn't, lui, signifie l'impossibilité (= can't) : « He might not be at home » (il n'est peut-être pas chez lui) ≠ « He couldn't be at home » (il ne peut pas être chez lui).",
+    "Le français dit souvent « peut-être » + indicatif ; l'anglais préfère souvent un modal : « Il est peut-être malade » = He might be ill (ou Maybe he's ill)."
+   ],
+   "exemples": [
+    [
+     "Where's Fatou? – I'm not sure. She might be in the library.",
+     "Possible."
+    ],
+    [
+     "Take an umbrella. It may rain later.",
+     "Possible (un peu plus formel)."
+    ],
+    [
+     "The noise could be the neighbours.",
+     "Hypothèse."
+    ],
+    [
+     "He might not know about the meeting.",
+     "Peut-être qu'il ne sait pas."
+    ]
+   ]
+  },
+  {
+   "titre": "Forme continue et questions",
+   "texte": [
+    "Pour une déduction sur une action en cours, on utilise modal + be + -ing : « He isn't answering. He must be driving. » / « She might be sleeping. »",
+    "Dans les questions, on utilise could ou might (plutôt que may ou must) : « Could she be lost? », « Who could that be? » On pose aussi souvent la question avec « Do you think…? » : « Do you think she's lost? »"
+   ],
+   "exemples": [
+    [
+     "They aren't answering. They must be having dinner.",
+     "Action en cours."
+    ],
+    [
+     "Someone's at the door. Who could it be?",
+     "Question de déduction."
+    ]
+   ]
+  }
+ ],
+ "formule": "must / might / may / could / can't + base verbale (ou + be + -ing) — must = sûr que oui, can't = sûr que non",
+ "prononciation": [
+  "must est faible en déduction neutre /məst/, souvent sans t devant une consonne : « She must be tired » /ʃi məs bi ˈtaɪəd/.",
+  "can't /kɑːnt/ en anglais britannique, /kænt/ en anglais américain. Le t final est souvent peu audible : la voyelle longue et l'accent montrent la négation.",
+  "might /maɪt/ : le gh est muet. may /meɪ/.",
+  "Pour insister sur la conclusion, on accentue le modal : « You MUST be joking! », « It CAN'T be true! »",
+  "couldn't /ˈkʊdnt/ : le l est muet."
+ ],
+ "erreurs": [
+  [
+   "He mustn't be at home: his car isn't here.",
+   "He can't be at home: his car isn't here.",
+   "Déduction négative : can't, pas mustn't (= interdiction)."
+  ],
+  [
+   "She must to be tired.",
+   "She must be tired.",
+   "Pas de to après un modal."
+  ],
+  [
+   "He musts be rich.",
+   "He must be rich.",
+   "Pas de -s sur un modal."
+  ],
+  [
+   "Maybe she might be ill.",
+   "She might be ill. / Maybe she's ill.",
+   "Maybe et might font double emploi."
+  ],
+  [
+   "He couldn't be at home, I'm not sure.",
+   "He might not be at home, I'm not sure.",
+   "Doute négatif : might not ; couldn't = impossible."
+  ],
+  [
+   "They must be work now.",
+   "They must be working now.",
+   "Action en cours : must be + -ing."
+  ],
+  [
+   "May she be lost?",
+   "Could she be lost? / Do you think she's lost?",
+   "Dans une question de déduction : could ou might, pas may."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Un samedi soir à Montréal. Marie et son mari Tchami attendent leur fille Inès, qui devait rentrer à 20 heures.",
+  "lignes": [
+   [
+    "Marie",
+    "It's nine o'clock. Inès should be home by now.",
+    "Il est vingt et une heures. Inès devrait être rentrée."
+   ],
+   [
+    "Tchami",
+    "She must be with Léa. They always study together on Saturdays.",
+    "Elle doit être avec Léa. Elles étudient toujours ensemble le samedi."
+   ],
+   [
+    "Marie",
+    "She can't be with Léa. Léa's family is in Quebec City this weekend.",
+    "Elle ne peut pas être avec Léa. La famille de Léa est à Québec ce week-end."
+   ],
+   [
+    "Tchami",
+    "Then she might be at the library. It closes at ten.",
+    "Alors elle est peut-être à la bibliothèque. Elle ferme à vingt-deux heures."
+   ],
+   [
+    "Marie",
+    "I've called her three times. She isn't answering.",
+    "Je l'ai appelée trois fois. Elle ne répond pas."
+   ],
+   [
+    "Tchami",
+    "Her phone might be on silent. Or she could be on the bus.",
+    "Son téléphone est peut-être en silencieux. Ou elle est peut-être dans le bus."
+   ],
+   [
+    "Marie",
+    "Listen! Someone's at the door. Who could it be?",
+    "Écoute ! Quelqu'un est à la porte. Qui ça peut être ?"
+   ],
+   [
+    "Tchami",
+    "That must be her. Yes, it's Inès! You must be hungry, darling.",
+    "Ça doit être elle. Oui, c'est Inès ! Tu dois avoir faim, ma chérie."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "certain",
+   "I'm not certain, but she might be ill.",
+   "certain(e), sûr(e)"
+  ],
+  [
+   "possible",
+   "It's possible that he's lost.",
+   "possible"
+  ],
+  [
+   "obviously",
+   "He's smiling: obviously he's happy.",
+   "manifestement"
+  ],
+  [
+   "exhausted",
+   "You must be exhausted after the trip.",
+   "épuisé(e)"
+  ],
+  [
+   "joke",
+   "You must be joking!",
+   "plaisanter"
+  ],
+  [
+   "evidence",
+   "There's no evidence that he was here.",
+   "la preuve, les indices (indénombrable)"
+  ],
+  [
+   "guess",
+   "I guess he must be at work.",
+   "deviner, supposer"
+  ],
+  [
+   "clue",
+   "Her wet umbrella is a clue: it must be raining.",
+   "l'indice"
+  ],
+  [
+   "on silent",
+   "My phone was on silent.",
+   "en mode silencieux"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quel degré de certitude ?",
+   "consigne": "Indique si la phrase exprime : presque sûr que oui (S), possible (P) ou presque sûr que non (N).",
+   "items": [
+    [
+     "He can't be the thief.",
+     "N"
+    ],
+    [
+     "They might be in the garden.",
+     "P"
+    ],
+    [
+     "You must be Sophie's brother.",
+     "S"
+    ],
+    [
+     "It could be a mistake.",
+     "P"
+    ],
+    [
+     "She can't be 50! She looks 30.",
+     "N"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Must ou can't ?",
+   "consigne": "Complète avec must ou can't.",
+   "items": [
+    [
+     "He's been working all night. He ___ be exhausted.",
+     "must"
+    ],
+    [
+     "That ___ be the right answer. It doesn't make sense.",
+     "can't"
+    ],
+    [
+     "She's wearing a wedding ring. She ___ be married.",
+     "must"
+    ],
+    [
+     "You ___ be hungry. You've just had a big lunch.",
+     "can't"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Réécrire avec un modal",
+   "consigne": "Réécris la phrase avec must, might ou can't.",
+   "items": [
+    [
+     "I'm sure he's at work.",
+     "He must be at work."
+    ],
+    [
+     "Perhaps she's at the gym.",
+     "She might (may / could) be at the gym."
+    ],
+    [
+     "I'm sure this isn't your bag.",
+     "This can't be your bag."
+    ],
+    [
+     "Perhaps they don't know the address.",
+     "They might not (may not) know the address."
+    ],
+    [
+     "I'm sure she's sleeping now.",
+     "She must be sleeping now."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    [
+     "He mustn't be Canadian: he doesn't speak English or French.",
+     "He can't be Canadian: he doesn't speak English or French."
+    ],
+    [
+     "She might to be at home.",
+     "She might be at home."
+    ],
+    [
+     "They must be watch TV: I can hear it.",
+     "They must be watching TV: I can hear it."
+    ],
+    [
+     "Maybe he might come later.",
+     "He might come later. / Maybe he'll come later."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un modal de déduction.",
+   "items": [
+    [
+     "Tu dois être fatigué après ce voyage.",
+     "You must be tired after that trip."
+    ],
+    [
+     "Ce n'est pas possible, ça ne peut pas être vrai !",
+     "That can't be true!"
+    ],
+    [
+     "Elle est peut-être malade.",
+     "She might (may / could) be ill."
+    ],
+    [
+     "Ils doivent être en train de dîner.",
+     "They must be having dinner."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Ton collègue n'est pas venu au travail ce matin et ne répond pas au téléphone. Écris 4 hypothèses avec must, might, could et can't, en expliquant chaque fois l'indice.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "He can't be on holiday, because his holiday starts next month. He might be ill: he was coughing yesterday. He could be stuck in traffic, because there was an accident on the motorway. His phone must be switched off, because it goes straight to voicemail."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "must = presque sûr que oui ; can't = presque sûr que non (jamais mustn't pour une déduction).",
+  "might / may / could = possible ; might not / may not = peut-être pas.",
+  "Modal + base verbale, sans to ni -s.",
+  "Action en cours : must / might / can't + be + -ing.",
+  "Questions de déduction : Could / Might…? ou Do you think…?"
+ ],
+ "liens": [
+  28,
+  54,
+  107,
+  156
+ ],
+ "refs": [
+  "bc-deduction-present"
+ ]
+}

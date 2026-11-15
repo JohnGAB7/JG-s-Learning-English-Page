@@ -1,0 +1,229 @@
+{
+ "n": 154,
+ "niveau": "B2",
+ "titre": "Le discours indirect",
+ "intro": "Raconter ce que quelqu'un a dit, demandé ou ordonné est indispensable dans la vie quotidienne comme au travail : compte rendu de réunion, message transmis, conversation racontée. Au niveau B2, il faut maîtriser tout le système : concordance des temps, repères de temps et de lieu, questions et ordres, et savoir quand on ne change rien.",
+ "objectifs": [
+  "Appliquer la concordance des temps (backshift) à tous les temps et aux modaux.",
+  "Savoir quand la concordance n'est pas nécessaire (vérité toujours valable, verbe introducteur au présent).",
+  "Adapter les pronoms et les repères de temps et de lieu (the day before, the following week, there).",
+  "Rapporter questions, demandes et ordres sans erreur d'ordre des mots."
+ ],
+ "sections": [
+  {
+   "titre": "Say ou tell ?",
+   "texte": [
+    "« Say » et « tell » signifient tous les deux « dire », mais leur construction diffère. « Tell » est toujours suivi de la personne à qui l'on parle : tell somebody (that)… « Say » s'emploie sans la personne, ou avec « to » : say (to somebody) (that)…",
+    "« That » est facultatif après say et tell, surtout à l'oral : « She said (that) she was tired. »",
+    "Expressions figées avec tell : tell the truth, tell a lie, tell a story, tell a joke, tell the time, tell the difference. Avec say : say hello, say goodbye, say sorry, say a few words."
+   ],
+   "exemples": [
+    ["She said (that) she was tired.", "say + phrase."],
+    ["She told me (that) she was tired.", "tell + personne + phrase."],
+    ["He said to me that he was sorry.", "say to + personne : correct mais moins fréquent."],
+    ["He told us a funny story.", "tell a story : expression figée."]
+   ]
+  },
+  {
+   "titre": "La concordance des temps (backshift)",
+   "texte": [
+    "Quand le verbe introducteur est au passé (said, told, asked), on recule en général d'un temps dans le passé, parce que les paroles ont été prononcées avant le moment où on les rapporte. C'est la même logique qu'en français : « Il a dit qu'il était fatigué. »",
+    "Le past perfect, ainsi que would, could, should, might et ought to, ne changent pas : ils ne peuvent pas reculer davantage.",
+    "« Must » peut rester « must » ou devenir « had to » quand il exprime une obligation."
+   ],
+   "tableau": {
+    "entetes": ["Paroles directes", "Discours indirect", "Exemple rapporté"],
+    "lignes": [
+     ["present simple: “I live in Lille.”", "past simple", "He said he lived in Lille."],
+     ["present continuous: “I'm working.”", "past continuous", "She said she was working."],
+     ["present perfect: “I've finished.”", "past perfect", "He said he had finished."],
+     ["past simple: “I saw her.”", "past perfect (ou past simple)", "She said she had seen her."],
+     ["will: “I'll call you.”", "would", "He said he would call me."],
+     ["can: “I can swim.”", "could", "She said she could swim."],
+     ["may: “It may rain.”", "might", "He said it might rain."],
+     ["must: “I must go.”", "had to / must", "She said she had to go."],
+     ["would, could, should, might, past perfect", "pas de changement", "He said he would love to come."]
+    ]
+   }
+  },
+  {
+   "titre": "Quand ne pas changer le temps",
+   "texte": [
+    "Si le verbe introducteur est au présent, au present perfect ou au futur, aucun changement : « She says she's tired », « He's told me he's leaving ».",
+    "Si ce qui est dit est toujours vrai au moment où on le rapporte (une vérité générale, une situation qui dure), la concordance est facultative : « He said he lives in Lille » (il y vit toujours). On recule si la situation a changé ou si on prend de la distance.",
+    "Quand on rapporte très vite des paroles qui viennent d'être dites, on garde souvent le temps d'origine : « Sorry, what did you say? » – « I said I'm hungry! »",
+    "Le prétérit peut rester au prétérit quand l'ordre des événements est clair : « She said she arrived on Monday » est courant à l'oral."
+   ],
+   "exemples": [
+    ["Ama says she can't come tonight.", "Verbe introducteur au présent : pas de changement."],
+    ["Our teacher said the Earth goes round the Sun.", "Vérité générale : « goes » reste possible."],
+    ["Tom told me he lives near the station, so we can walk to his place.", "Toujours vrai et important maintenant."],
+    ["Tom told me he lived near the station, but he's moved since then.", "Ce n'est plus vrai : backshift."]
+   ]
+  },
+  {
+   "titre": "Pronoms, temps et lieux",
+   "texte": [
+    "Les pronoms et possessifs changent selon qui parle : « I'll help you », said Marie → Marie said she would help me.",
+    "Les repères de temps et de lieu changent seulement si le moment ou l'endroit ont changé. Si l'on rapporte le jour même, « today » reste « today »."
+   ],
+   "tableau": {
+    "entetes": ["Discours direct", "Discours indirect (autre moment / lieu)"],
+    "lignes": [
+     ["now", "then, at that time"],
+     ["today / tonight", "that day / that night"],
+     ["yesterday", "the day before, the previous day"],
+     ["tomorrow", "the next day, the following day"],
+     ["last week", "the week before, the previous week"],
+     ["next month", "the following month, the month after"],
+     ["two years ago", "two years before, two years earlier"],
+     ["here", "there"],
+     ["this / these", "that / those (ou the)"]
+    ]
+   },
+   "exemples": [
+    ["“I'll see you tomorrow,” Paul said. → Paul said he would see me the next day.", "Rapporté plusieurs jours après."],
+    ["“We arrived here two days ago,” they said. → They said they had arrived there two days before.", "Temps, lieu et repère changent."]
+   ]
+  },
+  {
+   "titre": "Rapporter des questions",
+   "texte": [
+    "Une question rapportée n'est plus une question : on remet l'ordre sujet + verbe, on supprime do / does / did et le point d'interrogation.",
+    "Questions fermées (oui / non) : if ou whether. Questions ouvertes : on garde le mot interrogatif (where, why, how much…).",
+    "Verbes introducteurs : ask, want to know, wonder. Ces points ont été vus au B1 (leçon 105) ; à ce niveau, il faut les appliquer sans réfléchir, en combinant avec la concordance des temps."
+   ],
+   "exemples": [
+    ["“Where do you work?” → She asked me where I worked.", "Pas de « did », ordre sujet + verbe."],
+    ["“Have you seen my keys?” → He asked if I had seen his keys.", "Question fermée : if."],
+    ["“Will you be there?” → They wanted to know whether I would be there.", "whether : un peu plus formel."]
+   ]
+  },
+  {
+   "titre": "Rapporter des ordres et des demandes",
+   "texte": [
+    "Pour un ordre : tell + personne + to + infinitif. Pour une demande polie : ask + personne + to + infinitif.",
+    "À la forme négative, « not » se place devant « to » : « He told me not to worry. » Ne dites pas « He told me to not worry » dans un écrit soigné, et jamais « He told me don't worry ».",
+    "D'autres verbes précisent l'intention (advise, warn, remind, invite, suggest…) : ils sont étudiés dans la leçon 155."
+   ],
+   "exemples": [
+    ["“Sit down, please.” → She asked us to sit down.", "Demande polie : ask."],
+    ["“Don't touch the screen!” → He told the children not to touch the screen.", "Ordre négatif : not to."],
+    ["“Could you send me the file?” → My manager asked me to send her the file.", "Une question polie devient souvent ask + to."]
+   ]
+  }
+ ],
+ "formule": "said (that) / told + personne (that) + temps reculé ; asked + if / wh- + sujet + verbe ; told / asked + personne + (not) to + infinitif",
+ "prononciation": [
+  "« said » se prononce /sed/ et « says » /sez/, pas /seɪz/.",
+  "« that » est faible, /ðət/, et souvent omis à l'oral : « She said she'd come » /ʃi sed ʃiːd ˈkʌm/.",
+  "Les contractions 'd (would / had) sont très fréquentes : « He said he'd finished » (= had), « He said he'd call » (= would). C'est le verbe qui suit qui permet de distinguer : participe → had ; base verbale → would.",
+  "Une question rapportée a l'intonation descendante d'une affirmation : « She asked where I lived ↘ », sans montée finale.",
+  "« whether » /ˈweðə/ se prononce exactement comme « weather »."
+ ],
+ "erreurs": [
+  ["She said me that she was busy.", "She told me (that) she was busy.", "« say » ne prend pas directement la personne ; il faut « tell me » ou « said to me »."],
+  ["She told that she was busy.", "She said that she was busy.", "« tell » doit être suivi de la personne."],
+  ["He asked me where did I work.", "He asked me where I worked.", "Dans une question rapportée : ordre sujet + verbe, pas de « did »."],
+  ["She asked if was I ready.", "She asked if I was ready.", "Pas d'inversion après if / whether."],
+  ["He told me don't touch it.", "He told me not to touch it.", "Ordre négatif : not to + base verbale."],
+  ["Last month she said she will call me the next day.", "Last month she said she would call me the next day.", "L'appel prévu est passé : will → would."],
+  ["They told to us to wait.", "They told us to wait.", "tell + personne, sans « to »."]
+ ],
+ "dialogue": {
+  "contexte": "À Lyon, Inès raconte à sa colocataire Chloé son entretien d'embauche téléphonique avec une entreprise canadienne.",
+  "lignes": [
+   ["Chloé", "So? What did they say?", "Alors ? Qu'est-ce qu'ils ont dit ?"],
+   ["Inès", "The recruiter said she had read my CV and that she was very impressed.", "La recruteuse a dit qu'elle avait lu mon CV et qu'elle était très impressionnée."],
+   ["Chloé", "That's great! Did she ask you anything difficult?", "Génial ! Elle t'a posé des questions difficiles ?"],
+   ["Inès", "She asked me why I wanted to leave France and whether I had ever worked in English.", "Elle m'a demandé pourquoi je voulais quitter la France et si j'avais déjà travaillé en anglais."],
+   ["Chloé", "And what did you tell her?", "Et tu lui as dit quoi ?"],
+   ["Inès", "I told her I'd spent a year in Ottawa and that I loved the job market there.", "Je lui ai dit que j'avais passé un an à Ottawa et que j'adorais le marché du travail là-bas."],
+   ["Chloé", "So when will you know?", "Et tu sauras quand ?"],
+   ["Inès", "She said they would call me back the following week, and she told me not to worry about the visa.", "Elle a dit qu'ils me rappelleraient la semaine suivante, et elle m'a dit de ne pas m'inquiéter pour le visa."]
+  ]
+ },
+ "mots": [
+  ["message", "Can I leave a message for Mr Ndongo?", "un message"],
+  ["mention", "She mentioned that she was moving.", "mentionner, dire en passant"],
+  ["reply", "He replied that he was too busy.", "répondre"],
+  ["repeat", "Could you repeat what she said?", "répéter"],
+  ["whether", "I asked whether the shop was open.", "si (dans une question indirecte)"],
+  ["previous", "He said he had called the previous day.", "précédent(e), d'avant"],
+  ["following", "They promised to come the following week.", "suivant(e)"],
+  ["quote", "Can I quote you on that?", "citer (les paroles de quelqu'un)"],
+  ["word for word", "She repeated the conversation word for word.", "mot pour mot"],
+  ["gossip", "Don't believe all the office gossip.", "les commérages, les ragots"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Reculer le temps",
+   "consigne": "Donne la forme du verbe au discours indirect (verbe introducteur : said).",
+   "items": [
+    ["“I work in a bank.” → He said he ___ in a bank.", "worked"],
+    ["“I'm leaving.” → She said she ___.", "was leaving"],
+    ["“We've finished.” → They said they ___.", "had finished"],
+    ["“I'll call you.” → He said he ___ me.", "would call"]
+   ]
+  },
+  {
+   "titre": "2. Rapporter des affirmations",
+   "consigne": "Mets au discours indirect. Le récit a lieu plusieurs jours plus tard, ailleurs.",
+   "items": [
+    ["“I can't come to the party,” said Marc.", "Marc said (that) he couldn't come to the party."],
+    ["“We're moving to Montreal next month,” they told me.", "They told me (that) they were moving to Montreal the following month."],
+    ["“I saw your sister yesterday,” Awa said.", "Awa said (that) she had seen my sister the day before (the previous day)."],
+    ["“You must be on time tomorrow,” the manager told us.", "The manager told us (that) we had to (must) be on time the next day."],
+    ["“I've never been to Brussels,” she said.", "She said (that) she had never been to Brussels."],
+    ["“The meeting may be cancelled,” he said.", "He said (that) the meeting might be cancelled."]
+   ]
+  },
+  {
+   "titre": "3. Questions, demandes et ordres",
+   "consigne": "Mets au discours indirect.",
+   "items": [
+    ["“Where do you live?” she asked me.", "She asked me where I lived."],
+    ["“Are you coming tonight?” he asked me.", "He asked me if (whether) I was coming that night."],
+    ["“Why did you leave early?” my boss asked me.", "My boss asked me why I had left early."],
+    ["“Please close the window,” she said to me.", "She asked me to close the window."],
+    ["“Don't be late!” Mum told us.", "Mum told us not to be late."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["She said me that she was busy.", "She told me (that) she was busy. (ou : She said (that) she was busy.)"],
+    ["He asked me where did I work.", "He asked me where I worked."],
+    ["They told to us to wait outside.", "They told us to wait outside."],
+    ["She asked if was I hungry.", "She asked if I was hungry."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Il m'a dit qu'il était malade.", "He told me (that) he was ill. (ou : He said he was ill.)"],
+    ["Elle m'a demandé si j'avais fini.", "She asked me if (whether) I had finished."],
+    ["Le médecin m'a dit de ne pas courir pendant un mois.", "The doctor told me not to run for a month."],
+    ["Ils ont dit qu'ils viendraient le lendemain.", "They said (that) they would come the next (following) day."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Rapporte en 4 ou 5 phrases une conversation récente (avec un collègue, un ami, un vendeur…) : une affirmation, une question, une demande et une promesse.",
+   "items": [
+    ["Exemple de réponse", "Yesterday my colleague Samuel told me he was exhausted because he had worked all weekend. He asked me whether I could help him with a report. I said I was busy that afternoon but that I would help him the next morning. He asked me not to tell our manager, and I promised I wouldn't."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "say (that)… / tell + personne (that)… : « She told me », jamais « She said me ».",
+  "Après un verbe introducteur au passé, on recule d'un temps ; would, could, should, might et le past perfect ne changent pas.",
+  "Pas de changement si le verbe introducteur est au présent ; changement facultatif si c'est toujours vrai.",
+  "Questions rapportées : if / whether ou mot interrogatif + sujet + verbe, sans do / did ni point d'interrogation.",
+  "Ordres et demandes : tell / ask + personne + (not) to + infinitif."
+ ],
+ "liens": [104, 105, 114, 155],
+ "refs": ["bc-reported", "bc-reported-q"]
+}

@@ -1,0 +1,212 @@
+{
+ "n": 222,
+ "niveau": "C1",
+ "titre": "Hedging: the language of caution",
+ "intro": "Measuring exactly how certain you are is what makes a report, an article or a professional email credible, rather than one that claims too much or dares to say nothing. This lesson goes beyond the “may / might” of B2.",
+ "objectifs": [
+  "Use the six families of hedges: modals, verbs, adjectives and adverbs, quantifiers, approximators and impersonal structures.",
+  "Place a claim precisely on a scale of certainty (will, is likely to, may, could conceivably…).",
+  "Combine caution and confidence: hedge what is uncertain and state clearly what is established.",
+  "Avoid over-hedging (“It might possibly perhaps suggest…”) and common false friends (eventually, according to me)."
+ ],
+ "sections": [
+  {
+   "titre": "Why hedge: precision, not weakness",
+   "texte": [
+    "In professional and academic English, an overconfident claim (“This proves that…”) sounds naive or arrogant if the evidence is limited. Hedging is not a lack of courage: it is a way of being exact about your level of certainty, and of leaving room for the reader to disagree.",
+    "The principle: a statement = a proposition + a level of confidence. Choose the hedge that matches the evidence, no more and no less. What is established is stated (“The survey was conducted in 2025”); what is interpreted is hedged (“The results suggest that…”)."
+   ],
+   "exemples": [
+    ["The data prove that remote work increases productivity.", "Too categorical: one study almost never “proves” a general relationship."],
+    ["The data suggest that remote work may increase productivity in some sectors.", "Hedged: cautious verb + modal + limited scope."]
+   ]
+  },
+  {
+   "titre": "The six families of hedges",
+   "texte": [
+    "You have several tools, and you should vary them to avoid repetition. In one paragraph, alternate a verb, an adjective and a quantifier rather than writing “may” three times."
+   ],
+   "tableau": {
+    "entetes": ["Family", "Examples", "Model sentence"],
+    "lignes": [
+     ["Modals", "may, might, could, would", "This could explain the delay."],
+     ["Lexical verbs", "suggest, indicate, appear to, seem to, tend to", "Older clients tend to prefer phone contact."],
+     ["Adjectives and adverbs", "likely, possible, probably, arguably, presumably, apparently", "This is arguably the most important factor."],
+     ["Quantifiers and frequency", "some, many, most, often, in some cases, generally", "In most cases, the treatment is effective."],
+     ["Approximators", "approximately, roughly, around, to some extent, somewhat", "Costs rose by roughly 8 %."],
+     ["Impersonal structures", "It is possible that…, There is some evidence that…, It has been suggested that…", "There is some evidence that the policy reduced waiting times."]
+    ]
+   },
+   "exemples": [
+    ["Rising interest rates appear to have slowed demand.", "“appear to” + perfect infinitive (have slowed): caution about a past fact."],
+    ["To some extent, the problem is cultural rather than technical.", "“To some extent” = partly, but not completely."]
+   ]
+  },
+  {
+   "titre": "The scale of certainty",
+   "texte": [
+    "Hedges are not interchangeable: each one corresponds to a degree of probability. Risk reports and analyses use this scale almost as if it were numerical.",
+    "Watch the structure: “likely” is an adjective. Say “Prices are likely to rise” or “It is likely that prices will rise”. “Prices will likely rise”, with likely used as an adverb, is very common in American English; in careful British English, “will probably” or “are likely to” is preferred."
+   ],
+   "tableau": {
+    "entetes": ["Degree", "Wording", "Example"],
+    "lignes": [
+     ["almost certain", "will almost certainly, is bound to", "The merger will almost certainly be approved."],
+     ["very probable", "is highly likely to, in all likelihood", "In all likelihood, rates will stay high."],
+     ["probable", "is likely to, should, probably", "The new system should reduce errors."],
+     ["possible", "may, might, could, it is possible that", "Sales may recover in spring."],
+     ["improbable", "is unlikely to, there is little chance that", "The bill is unlikely to pass this year."],
+     ["very improbable", "could conceivably, it is highly unlikely that", "It is highly unlikely that the error was deliberate."]
+    ]
+   },
+   "note": "Here “should” expresses a reasonable expectation, not an obligation: “The parcel should arrive tomorrow.”"
+  },
+  {
+   "titre": "Distancing and limiting the scope",
+   "texte": [
+    "A second kind of hedging says where a claim comes from or how far it applies. You attribute (“According to the 2024 census…”, “As far as we know…”) or you limit (“Within the limits of this sample…”, “at least in the short term”).",
+    "In speech and emails, you also soften an opinion or a disagreement: “I'd have thought…”, “I'm not entirely sure that's the case”, “It seems to me that…”. Conditional “would” adds politeness: “I would argue that…”, “I would suggest that…”."
+   ],
+   "exemples": [
+    ["As far as we can tell, no customer data was lost.", "An honest, cautious statement in a press release."],
+    ["These findings apply, at least in the short term, to urban areas only.", "The scope is limited in time and place."],
+    ["I'd have thought the deadline was a bit tight.", "A softened disagreement."],
+    ["I would argue that the second option is more sustainable.", "A firm opinion, presented politely."]
+   ]
+  },
+  {
+   "titre": "Too much or too little: finding the balance",
+   "texte": [
+    "Over-hedging weakens a text and can even sound evasive: “It might possibly be suggested that this could perhaps indicate…”. One or two markers per claim are enough; double hedges such as “may possibly” or “could perhaps” are best avoided in writing.",
+    "On the other hand, you boost what is firmly established: clearly, undoubtedly, it is evident that, the evidence strongly indicates. A good text alternates both: it states the fact, then hedges the interpretation."
+   ],
+   "tableau": {
+    "entetes": ["Over-hedged (avoid)", "Balanced"],
+    "lignes": [
+     ["It may possibly be the case that sales might fall.", "Sales may fall."],
+     ["This could perhaps seem to suggest a link.", "This suggests a possible link."],
+     ["I think that maybe it's probably too expensive.", "I think it's probably too expensive."]
+    ]
+   },
+   "exemples": [
+    ["Unemployment clearly fell in 2025; the reasons, however, are less certain.", "A booster for the fact, a hedge for the interpretation."]
+   ]
+  },
+  {
+   "titre": "False friends and traps",
+   "texte": [
+    "“Eventually” means “in the end, after a long time”, never “possibly”. For the idea of “possibly, if needed”, use possibly, potentially or if necessary.",
+    "“According to me” is not idiomatic: say “In my view”, “In my opinion” or “As I see it”. “According to” introduces an outside source (according to the report).",
+    "“Arguably” does not mean “in a doubtful way”: it means “one could reasonably argue that”, and it usually supports the claim (“This is arguably her best novel” = there are good reasons to call it her best)."
+   ]
+  }
+ ],
+ "formule": "Claim = proposition + suitable hedge (modal / verb / adverb / quantifier / approximator / impersonal structure), one or two markers at most",
+ "prononciation": [
+  "A hedge at the start of a sentence forms its own group, followed by a short pause and a rising or level tone: “Arguably, | this is the key factor.”",
+  "“arguably” is /ˈɑːɡjuəbli/, stressed on the first syllable; “presumably” is /prɪˈzjuːməbli/, stressed on the second.",
+  "“likely” is /ˈlaɪkli/, with the /aɪ/ of “like”.",
+  "In speech, a cautious modal is often stressed to show doubt: “It MIGHT work” (= but I'm not sure).",
+  "“I'd have thought” reduces to /aɪd əv ˈθɔːt/: “have” becomes /əv/."
+ ],
+ "erreurs": [
+  ["We could eventually meet on Monday.", "We could possibly meet on Monday.", "“Eventually” = in the end; for “possibly, if needed” use possibly / potentially."],
+  ["According to me, the plan is too risky.", "In my view, the plan is too risky.", "“According to” refers to an outside source, not to yourself."],
+  ["The results may possibly indicate a trend.", "The results may indicate a trend.", "A double hedge: one is enough."],
+  ["Prices are likely rise next year.", "Prices are likely to rise next year.", "“Be likely” is followed by “to” + infinitive."],
+  ["It seems that sales to have dropped.", "Sales seem to have dropped. / It seems that sales have dropped.", "Two different structures that must not be mixed."],
+  ["This study proves that the drug works for everyone.", "This study suggests that the drug is effective for most patients.", "Too general and too certain for a single study."],
+  ["It is not excluded that prices rise.", "Prices may well rise. / It cannot be ruled out that prices will rise.", "A translation from French; English says “cannot be ruled out” or “may well”."]
+ ],
+ "dialogue": {
+  "contexte": "In Toronto, an analyst and her manager review a report on falling sales before sending it to the board.",
+  "lignes": [
+   ["Martin", "Your draft says “The new pricing caused the drop in sales.” Can we really say that?", "He questions a claim that is too certain."],
+   ["Priya", "Probably not. We only have three months of data. Maybe “appears to have contributed to”?", "She proposes a hedged verb."],
+   ["Martin", "Much better. And the figure of 15 %? That's from the regional teams.", "The figure comes from another source."],
+   ["Priya", "Then I'll write “roughly 15 %, according to regional estimates”.", "An approximator plus attribution."],
+   ["Martin", "Good. But don't hedge everything. The drop itself is clear in our own figures.", "Established facts should be stated clearly."],
+   ["Priya", "True. So: “Sales clearly fell in the third quarter; the new pricing appears to have been one factor.”", "Booster for the fact, hedge for the cause."],
+   ["Martin", "Perfect. And for the forecast?", "Now the prediction."],
+   ["Priya", "“Sales are likely to recover in the spring, at least in the eastern region.”", "Probability + limited scope."]
+  ]
+ },
+ "mots": [
+  ["arguably", "This is arguably the best option we have.", "it could reasonably be argued that"],
+  ["presumably", "Presumably, the delay was caused by the strike.", "probably, as you would expect"],
+  ["likely", "Prices are likely to rise.", "probable; expected to happen"],
+  ["tend", "Younger users tend to buy online.", "usually behave in a particular way"],
+  ["indicate", "The figures indicate a slight improvement.", "show or suggest"],
+  ["to some extent", "To some extent, the crisis was predictable.", "partly, but not completely"],
+  ["approximately", "Approximately 40 % of staff responded.", "close to an exact number; roughly"],
+  ["evidence", "There is little evidence that the policy works.", "facts that show something is true (uncountable)"],
+  ["tentative", "These are only tentative conclusions.", "not certain or final"],
+  ["conceivably", "The project could conceivably be finished by June.", "possibly, though it is not very likely"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Rank by certainty",
+   "consigne": "Say how certain the sentence is: almost certain, probable, possible or improbable.",
+   "items": [
+    ["The scheme is bound to fail without funding.", "almost certain"],
+    ["Inflation is likely to remain above 3 %.", "probable"],
+    ["The change might affect older users.", "possible"],
+    ["The board is unlikely to approve the plan.", "improbable"]
+   ]
+  },
+  {
+   "titre": "2. Hedge the claim",
+   "consigne": "Rewrite the sentence with the hedge in brackets.",
+   "items": [
+    ["The new policy reduced absences. (appear to)", "The new policy appears to have reduced absences."],
+    ["Small firms prefer short contracts. (tend to)", "Small firms tend to prefer short contracts."],
+    ["Demand will fall. (likely)", "Demand is likely to fall. / It is likely that demand will fall."],
+    ["The problem is technical. (to some extent)", "To some extent, the problem is technical."],
+    ["Costs rose by 12 %. (roughly)", "Costs rose by roughly 12 %."]
+   ]
+  },
+  {
+   "titre": "3. Remove the over-hedging",
+   "consigne": "Rewrite the sentence with only one marker of caution.",
+   "items": [
+    ["It may possibly be the case that the market might slow down.", "The market may slow down."],
+    ["This could perhaps seem to suggest a link between the two.", "This suggests a possible link between the two."],
+    ["I think that maybe the price is probably too high.", "I think the price is probably too high."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one typical mistake. Correct it.",
+   "items": [
+    ["According to me, we should wait.", "In my view, we should wait."],
+    ["We could eventually postpone the meeting if necessary.", "We could possibly postpone the meeting if necessary."],
+    ["Sales are likely increase in May.", "Sales are likely to increase in May."],
+    ["The survey proves that all customers are satisfied.", "The survey suggests that most customers are satisfied."]
+   ]
+  },
+  {
+   "titre": "5. Rewrite with the structure given",
+   "consigne": "Rewrite each sentence using the words in brackets, keeping the meaning.",
+   "items": [
+    ["It seems that the results confirm our hypothesis. (appear)", "The results appear to confirm our hypothesis."],
+    ["It is unlikely that the project will be finished before June. (unlikely to)", "The project is unlikely to be finished before June."],
+    ["The crisis was partly predictable. (extent)", "To some extent, the crisis was predictable."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short paragraph (4–5 sentences) commenting on a figure from your field. State the fact clearly, then hedge the interpretation and the forecast.",
+   "items": [
+    ["Example answer", "Our customer complaints clearly fell by around 20 % last year. This appears to be linked to the new online help centre, although the change in staff training may also have played a role. Complaints are likely to stabilise this year, at least in the French-speaking market. However, these conclusions remain tentative, as the data cover only twelve months."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Hedging means being precise about certainty: state facts, hedge interpretations and forecasts.",
+  "Six families: modals, verbs (suggest, appear to, tend to), adjectives / adverbs (likely, arguably), quantifiers (most, in some cases), approximators (roughly, to some extent), impersonal structures (There is some evidence that…).",
+  "One or two markers per claim; no double hedges (may possibly).",
+  "Traps: eventually = in the end; “In my view”, not “according to me”; “be likely to + infinitive”."
+ ],
+ "liens": [170, 204, 169, 227, 235],
+ "refs": ["bc-probability", "bc-c1", "cam-using"]
+}

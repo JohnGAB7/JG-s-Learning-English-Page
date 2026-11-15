@@ -1,0 +1,216 @@
+{
+ "n": 61,
+ "niveau": "A2",
+ "titre": "Adverbs of manner (-ly)",
+ "intro": "Adverbs of manner say how you do something: slowly, well, carefully. Most of them are formed with -ly (slow → slowly). But some very common ones are irregular (good → well, fast, hard), and their position in the sentence follows strict rules.",
+ "objectifs": [
+  "Form an -ly adverb from an adjective, with the spelling rules.",
+  "Know the irregular adverbs: well, fast, hard, late, early, and the false friends hardly and lately.",
+  "Put the adverb in the right place: after the verb and its object, never between them.",
+  "Choose between an adjective and an adverb, especially after look, feel, sound, smell, taste."
+ ],
+ "sections": [
+  {
+   "titre": "Adjective or adverb?",
+   "texte": [
+    "An adjective describes a noun (a slow car, she is careful). An adverb of manner describes a verb: the way someone does the action (the car moves slowly, she drives carefully).",
+    "Compare: He's a careful driver (adjective, before the noun driver) / He drives carefully (adverb, after the verb drives). Both sentences have the same meaning."
+   ],
+   "exemples": [
+    ["She's a quiet person. She speaks quietly.", "quiet → quietly."],
+    ["The test was easy. I passed it easily.", "easy → easily."],
+    ["He's a bad singer. He sings badly.", "bad → badly."]
+   ]
+  },
+  {
+   "titre": "Forming the adverb: spelling rules",
+   "texte": [
+    "Usually, add -ly to the adjective: slow → slowly, careful → carefully (double l, because careful already ends in l), quick → quickly.",
+    "Some endings change the spelling."
+   ],
+   "tableau": {
+    "entetes": ["Adjective ending", "Rule", "Examples"],
+    "lignes": [
+     ["most adjectives", "+ ly", "quick → quickly, bad → badly, careful → carefully, polite → politely"],
+     ["consonant + y", "y → ily", "easy → easily, happy → happily, angry → angrily"],
+     ["-le (after a consonant)", "e → y", "gentle → gently, simple → simply, possible → possibly, terrible → terribly"],
+     ["-ic", "+ ally", "fantastic → fantastically, automatic → automatically (exception: public → publicly)"],
+     ["-ll", "+ y", "full → fully, dull → dully"],
+     ["-ue", "remove the e", "true → truly"]
+    ]
+   }
+  },
+  {
+   "titre": "Irregular adverbs and false friends",
+   "texte": [
+    "The adverb of “good” is “well”: She's a good cook. She cooks well. This is the most common irregular adverb, and the one learners forget most.",
+    "Some adverbs have the same form as the adjective: fast (a fast car / he drives fast), hard (hard work / she works hard), late (a late train / I arrived late), early (an early flight / we left early), straight (go straight on). Never say “fastly”.",
+    "Be careful: “hardly” and “lately” exist, but with a DIFFERENT meaning. Hardly = almost not (I can hardly hear you). Lately = recently (I've been tired lately)."
+   ],
+   "tableau": {
+    "entetes": ["Adjective", "Adverb", "Trap"],
+    "lignes": [
+     ["good", "well", "“goodly” doesn't exist"],
+     ["fast", "fast", "“fastly” doesn't exist"],
+     ["hard (difficult, with effort)", "hard (with effort)", "hardly = almost not"],
+     ["late (not on time)", "late (not on time)", "lately = recently"],
+     ["early", "early", "same form"]
+    ]
+   },
+   "exemples": [
+    ["You speak English very well!", "good → well."],
+    ["Don't drive so fast!", "fast = adverb too."],
+    ["She works hard, but she hardly sleeps.", "hard ≠ hardly."]
+   ],
+   "note": "Adjectives that already end in -ly (friendly, lovely, lonely, silly, ugly) have no adverb. Say “in a friendly way”: She smiled in a friendly way."
+  },
+  {
+   "titre": "Position of adverbs of manner",
+   "texte": [
+    "An adverb of manner goes after the verb, or after the object if there is one. Golden rule: NEVER put it between the verb and its object. Say: He speaks English well (not “He speaks well English”).",
+    "For emphasis, some adverbs can go before the verb: She quickly closed the door. But “well” and the adverbs with the same form as the adjective (fast, hard) always go after."
+   ],
+   "tableau": {
+    "entetes": ["Pattern", "Example"],
+    "lignes": [
+     ["verb + adverb", "She runs fast."],
+     ["verb + object + adverb", "She plays the piano beautifully."],
+     ["adverb + verb (emphasis)", "He slowly opened the letter."],
+     ["❌ verb + adverb + object", "❌ She plays beautifully the piano."]
+    ]
+   },
+   "exemples": [
+    ["Please read the instructions carefully.", "Object, then adverb."],
+    ["He answered the question correctly.", "Object, then adverb."]
+   ]
+  },
+  {
+   "titre": "Look, feel, sound… + adjective",
+   "texte": [
+    "After be, look, feel, sound, smell, taste, seem, become and get, use an ADJECTIVE, not an adverb: you describe the subject, not an action. You look tired. This soup tastes good. The idea sounds great.",
+    "Compare: She looks happy (her appearance: adjective) / She looked at me happily (the action of looking: adverb).",
+    "Special case: “well” can be an adjective meaning “healthy”: I don't feel well (I feel ill). “I feel good” means I feel happy, in good form."
+   ],
+   "exemples": [
+    ["Your plan sounds interesting.", "sound + adjective."],
+    ["The flowers smell lovely.", "smell + adjective."],
+    ["Are you OK? You don't look well.", "well = healthy."]
+   ]
+  }
+ ],
+ "formule": "adjective + ly → adverb (slowly, carefully, easily, gently) · good → well · fast, hard, late, early = same form · verb + object + adverb",
+ "prononciation": [
+  "The -ly ending is weak: /li/. The stress stays on the same syllable as the adjective: CAREful → CAREfully /ˈkeəfəli/.",
+  "“-fully” sounds like /fəli/, not “full-y”: beautifully /ˈbjuːtɪfli/.",
+  "“-ically”: you often hear only /ɪkli/ at the end: fantastically /fænˈtæstɪkli/.",
+  "“well” /wel/: one vowel sound, as in “bell”, with a clear l at the end.",
+  "“hardly” /ˈhɑːdli/: don't confuse it with “hard” when you speak; -ly changes the whole meaning."
+ ],
+ "erreurs": [
+  ["He speaks well English.", "He speaks English well.", "Don't separate the verb and its object."],
+  ["She sings very good.", "She sings very well.", "The adverb of good is well."],
+  ["He drives fastly.", "He drives fast.", "Fast is the same as an adjective and an adverb."],
+  ["I work hardly.", "I work hard.", "Hard = with effort; hardly = almost not."],
+  ["You look tiredly.", "You look tired.", "After look, feel, sound…: adjective."],
+  ["The soup tastes well.", "The soup tastes good.", "After taste: adjective."],
+  ["She answered friendly.", "She answered in a friendly way.", "Friendly is an adjective; it has no -ly adverb."],
+  ["He did it easyly.", "He did it easily.", "Consonant + y → ily."]
+ ],
+ "dialogue": {
+  "contexte": "After a driving lesson in Namur, an instructor talks to her student.",
+  "lignes": [
+   ["Instructor", "Well done, Kevin. You drove very carefully today.", "carefully: how he drove."],
+   ["Kevin", "Thanks! But I parked the car badly, didn't I?", "verb + object + adverb."],
+   ["Instructor", "A little. You need to turn the wheel more slowly. And you sometimes brake too hard.", "more slowly; hard = adverb."],
+   ["Kevin", "I know. I get nervous when cars drive fast behind me.", "get + adjective; drive fast."],
+   ["Instructor", "That's normal. Just breathe deeply and stay calm.", "stay + adjective (calm)."],
+   ["Kevin", "Do you think I'm ready for the test?", "A question."],
+   ["Instructor", "Almost. You learn quickly and you listen well. Two more lessons, and you'll pass easily.", "quickly, well, easily."],
+   ["Kevin", "That sounds great! See you on Thursday.", "sound + adjective."]
+  ]
+ },
+ "mots": [
+  ["carefully", "Drive carefully. The road is wet.", "with attention, to avoid mistakes or danger"],
+  ["slowly", "Can you speak more slowly, please?", "at a low speed"],
+  ["quickly", "She finished her work quickly.", "fast, in a short time"],
+  ["well", "He plays the guitar well.", "in a good way"],
+  ["badly", "I slept badly last night.", "in a bad way"],
+  ["hard", "They work hard every day.", "with a lot of effort"],
+  ["easily", "You can easily find the station.", "with no difficulty"],
+  ["quietly", "Please close the door quietly.", "making very little noise"],
+  ["politely", "He asked politely.", "in a polite, respectful way"],
+  ["loudly", "Don't talk so loudly!", "making a lot of noise"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Make the adverb",
+   "consigne": "Write the adverb of the adjective.",
+   "items": [
+    ["slow", "slowly"],
+    ["happy", "happily"],
+    ["gentle", "gently"],
+    ["good", "well"],
+    ["fast", "fast"],
+    ["careful", "carefully"]
+   ]
+  },
+  {
+   "titre": "2. Adjective or adverb?",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["She's a (quick / quickly) learner.", "quick"],
+    ["She learns (quick / quickly).", "quickly"],
+    ["This cake tastes (delicious / deliciously).", "delicious"],
+    ["He speaks Spanish (perfect / perfectly).", "perfectly"],
+    ["You look (sad / sadly). What's wrong?", "sad"]
+   ]
+  },
+  {
+   "titre": "3. Rewrite",
+   "consigne": "Rewrite the sentence with the verb in brackets and an adverb.",
+   "items": [
+    ["She's a good dancer. (dance)", "She dances well."],
+    ["He's a hard worker. (work)", "He works hard."],
+    ["They're careful drivers. (drive)", "They drive carefully."],
+    ["My brother is a fast runner. (run)", "My brother runs fast."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["She speaks very well French.", "She speaks French very well."],
+    ["You did the exercise very good.", "You did the exercise very well."],
+    ["The music sounds beautifully.", "The music sounds beautiful."],
+    ["He works very hardly.", "He works very hard."],
+    ["Please drive slow in the village.", "Please drive slowly in the village."]
+   ]
+  },
+  {
+   "titre": "5. Complete the sentence",
+   "consigne": "Complete with the right adverb or adjective from the word in brackets.",
+   "items": [
+    ["Speak more ___, please. I don't understand. (slow)", "slowly"],
+    ["He plays football very ___. (good)", "well"],
+    ["I can ___ hear you. The music is too loud. (hard)", "hardly"],
+    ["This dish smells ___. (good)", "good"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write five sentences about how you (or people you know) do things: speak a language, cook, drive, work, sleep. Use at least one irregular adverb (well, fast, hard).",
+   "items": [
+    ["Example answer", "I speak French fluently and English quite well. My father cooks badly, but he cleans the kitchen carefully. My sister drives too fast. I usually work hard on Mondays. On Sundays I sleep late and wake up slowly."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Adjective + ly → adverb; easy → easily, gentle → gently, fantastic → fantastically.",
+  "good → well; fast, hard, late, early: same form. hardly = almost not, lately = recently.",
+  "Position: verb + object + adverb (She speaks English well).",
+  "After be, look, feel, sound, smell, taste, seem: adjective (You look tired).",
+  "friendly, lovely, lonely are adjectives: in a friendly way."
+ ],
+ "liens": [7, 35, 46, 66],
+ "refs": ["cam-adj", "bc-a1a2"]
+}

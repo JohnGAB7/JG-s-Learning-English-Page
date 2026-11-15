@@ -1,0 +1,209 @@
+{
+ "n": 152,
+ "niveau": "B2",
+ "titre": "The passive with reporting verbs",
+ "intro": "“It is said that…”, “He is believed to have…”: English reports opinions, rumours and unconfirmed news with verbs like say, believe and expect in the passive. This is the language of newspapers, reports and careful conversation.",
+ "objectifs": [
+  "Use both patterns: “It is said that…” and “He is said to…”.",
+  "Choose the right infinitive (to do, to be doing, to have done, to have been done) for the time of the action.",
+  "Use “There is said to be…” and report past opinions (“It was thought that…”).",
+  "Choose between the passive pattern and adverbs like reportedly, allegedly and apparently."
+ ],
+ "sections": [
+  {
+   "titre": "The verbs and what they do",
+   "texte": [
+    "Reporting verbs tell us what people say or think: say, think, believe, expect, report, consider, know, understand, estimate, claim, allege, suppose, rumour.",
+    "In the passive, they let you present information without saying exactly who gave it, and without saying that you yourself are sure. Journalists, researchers and careful colleagues use them to show that the information comes from somewhere else or is not confirmed.",
+    "“Rumour” is almost only used in the passive: “It is rumoured that…”, “She is rumoured to be leaving.” “Allege” (to say something is true without proof) is typical of legal and crime news."
+   ],
+   "tableau": {
+    "entetes": ["Verb", "Meaning", "How certain the information is"],
+    "lignes": [
+     ["know", "be sure of a fact", "an established fact"],
+     ["report", "give news", "media information, not always checked"],
+     ["believe / think", "have an opinion", "a general opinion"],
+     ["expect", "think something will happen", "a prediction (future)"],
+     ["estimate", "calculate roughly", "an approximate number"],
+     ["claim / allege", "say without proof", "a disputed or unproven statement"],
+     ["rumour", "people are saying", "just a rumour"]
+    ]
+   }
+  },
+  {
+   "titre": "Pattern 1: It is said that + clause",
+   "texte": [
+    "The simplest pattern is: It + be + past participle + that + a full clause. “It” is an empty subject.",
+    "The verb in the “that” clause keeps its normal tense: “It is believed that the fire started in the kitchen.”",
+    "This pattern is a little heavier and more formal. It is useful when the subject of the clause is long, or when you want to avoid a complicated infinitive."
+   ],
+   "exemples": [
+    ["It is said that the castle is haunted.", "A general belief."],
+    ["It is believed that the thieves escaped through the roof.", "The clause keeps the past simple."],
+    ["It is expected that interest rates will rise.", "A prediction."],
+    ["It has been reported that several flights were delayed.", "The reporting verb can be in other tenses."]
+   ]
+  },
+  {
+   "titre": "Pattern 2: subject + be said + to-infinitive",
+   "texte": [
+    "You can also make the person or thing you are talking about the subject: subject + be + past participle + to-infinitive. This is the more elegant pattern and the most common one in the press.",
+    "The form of the infinitive shows the time relation between the reporting (“people say…”) and the action that is reported.",
+    "Note: with “say”, this pattern exists only in the passive. “They say him to be rich” is impossible; say “He is said to be rich”."
+   ],
+   "tableau": {
+    "entetes": ["Time of the reported action", "Infinitive", "Example"],
+    "lignes": [
+     ["same time (state, habit)", "to + base form", "He is said to live in Lagos."],
+     ["in progress now", "to be + -ing", "The two leaders are reported to be meeting right now."],
+     ["earlier (finished action)", "to have + past participle", "The suspect is believed to have left the country."],
+     ["earlier, with duration", "to have been + -ing", "She is thought to have been working there for years."],
+     ["future (mainly with expect)", "to + base form", "The minister is expected to resign."],
+     ["passive, same time", "to be + past participle", "The painting is thought to be kept in a private collection."],
+     ["passive, earlier", "to have been + past participle", "Two people are known to have been injured."]
+    ]
+   }
+  },
+  {
+   "titre": "Past reports and “There is said to be”",
+   "texte": [
+    "If the opinion itself is in the past, the reporting verb is in the past simple: “It was thought that the Earth was flat” → “The Earth was thought to be flat.” The infinitive follows the same logic: an earlier action needs to have + past participle.",
+    "With “there is / there are”, keep “there” as the subject: “There are thought to be about 300 species of birds in the park.” “There is said to be a hidden room in the house.”",
+    "Transform like this: It is said that there is… → There is said to be…; It is believed that there were… → There are believed to have been…"
+   ],
+   "exemples": [
+    ["The ship was believed to have sunk near the coast.", "A past opinion about an even earlier event."],
+    ["At the time, the drug was considered to be safe.", "People considered it safe then."],
+    ["There are estimated to be 2,000 people in the stadium.", "An approximate number."],
+    ["There is rumoured to be a new album on the way.", "Just a rumour."]
+   ]
+  },
+  {
+   "titre": "Other ways to report: adverbs and informal phrases",
+   "texte": [
+    "Some languages use a conditional form for unconfirmed news. English does not use “would” for this. Use the passive with a reporting verb, or an adverb.",
+    "The adverbs reportedly (according to the media), allegedly (according to an accusation), apparently (from what I have heard) and supposedly (people say so, but I doubt it) do the same job with a normal verb.",
+    "In everyday speech, people also say “They say (that)…”, “People think…” or “Apparently…”. The passive with reporting verbs is mainly written or formal.",
+    "Trap: “be supposed to” can also mean an obligation or an expectation: “You're supposed to wear a helmet” (it's the rule). The context tells you which meaning is intended."
+   ],
+   "exemples": [
+    ["The president is said to be ill. / The president is reportedly ill.", "Two ways to give unconfirmed news."],
+    ["The suspect is believed to have left the country.", "The police think so, but it is not certain."],
+    ["The CEO allegedly hid the losses from investors.", "An accusation, not a proven fact."],
+    ["Apparently, the restaurant is closing next month.", "Informal: I have heard this."]
+   ]
+  }
+ ],
+ "formule": "It is said that + clause  ↔  Subject + is said + to do / to be doing / to have done",
+ "prononciation": [
+  "“said” is /sed/, never /seɪd/ like “say”.",
+  "“thought” is /θɔːt/: voiceless “th” with the tongue between the teeth, then a long vowel.",
+  "“to have” is reduced in “to have left”: /tə həv ˈleft/, or /təv ˈleft/ in fast speech. The stress is on the past participle.",
+  "“alleged” is /əˈledʒd/ (two syllables) but “allegedly” is /əˈledʒɪdli/ (four syllables): the -edly ending is pronounced /ɪd/. The same goes for “reportedly” /rɪˈpɔːtɪdli/ and “supposedly” /səˈpəʊzɪdli/.",
+  "In “It is believed that…”, “that” is weak: /ðət/."
+ ],
+ "erreurs": [
+  ["He is said that he is very rich.", "He is said to be very rich. / It is said that he is very rich.", "Don't mix the two patterns."],
+  ["It is said him to be very rich.", "He is said to be very rich.", "With the infinitive, the person becomes the subject."],
+  ["The suspect is believed to leave the country last week.", "The suspect is believed to have left the country last week.", "An earlier action needs to have + past participle."],
+  ["The minister is expected resigning today.", "The minister is expected to resign today.", "Reporting verbs in the passive are followed by a to-infinitive."],
+  ["It says that the mayor is corrupt.", "It is said that the mayor is corrupt.", "“It says” refers to a text (the article says…); for a general report, use the passive."],
+  ["The president would be ill.", "The president is said (reported) to be ill.", "English does not use “would” for unconfirmed news."]
+ ],
+ "dialogue": {
+  "contexte": "The newsroom of an online newspaper in Brussels. Lucie, a journalist, checks an article with her editor, Pieter.",
+  "lignes": [
+   ["Pieter", "Your headline says the coach has resigned. Is that confirmed?", "He wants a confirmed fact."],
+   ["Lucie", "Not officially. But he's widely believed to have handed in his letter yesterday.", "to have + past participle: an earlier action."],
+   ["Pieter", "Then we can't write it as a fact. Say he is reported to have resigned.", "Reporting verb to avoid stating it as true."],
+   ["Lucie", "Fine. And the club is expected to make a statement this afternoon.", "expect + to-infinitive: future."],
+   ["Pieter", "Good. What about the players? Do we know how they feel?", "A normal question."],
+   ["Lucie", "Some of them are said to be furious. There are also rumoured to be problems with the owner.", "“There are rumoured to be”: there stays as the subject."],
+   ["Pieter", "Rumoured by whom? Be careful with that one.", "He asks for the source."],
+   ["Lucie", "Two sources. But I'll write that it is alleged, not that it is known.", "Different verbs show different levels of certainty."]
+  ]
+ },
+ "mots": [
+  ["reportedly", "The singer has reportedly cancelled her tour.", "according to what people or the media say"],
+  ["allegedly", "He allegedly accepted money from the company.", "according to an accusation that is not proven"],
+  ["apparently", "Apparently, the shop is closing.", "based on what you have heard"],
+  ["rumour", "There's a rumour that she's leaving.", "a story that may not be true (US: rumor)"],
+  ["allege", "It is alleged that the documents were false.", "to say someone did something wrong, without proof"],
+  ["estimate", "The damage is estimated at two million euros.", "to guess a number or amount roughly"],
+  ["source", "According to a reliable source, the deal is done.", "a person or document that gives information"],
+  ["widely", "She is widely considered the best player.", "by many people"],
+  ["confirm", "The news has not been confirmed.", "to say that something is definitely true"],
+  ["deny", "The company denies the claims.", "to say that something is not true"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choose the right form",
+   "consigne": "Choose the correct option.",
+   "items": [
+    ["The director is said (to be / being) very demanding.", "to be"],
+    ["It is believed (that / to) the plane landed safely.", "that"],
+    ["The thief is thought (to enter / to have entered) through a window last night.", "to have entered"],
+    ["There (is said / are said) to be thousands of species in the forest.", "are said"]
+   ]
+  },
+  {
+   "titre": "2. Complete with the infinitive",
+   "consigne": "Complete with the right form of the infinitive of the verb in brackets.",
+   "items": [
+    ["The singer is thought ___ (live) in Lagos now.", "to live"],
+    ["The fire is believed ___ (start) in the kitchen.", "to have started"],
+    ["The two leaders are reported ___ (discuss) the crisis at this moment.", "to be discussing"],
+    ["Over 3,000 people are estimated ___ (attend) last night's concert.", "to have attended"],
+    ["The new stadium is expected ___ (complete) by 2028.", "to be completed"],
+    ["The documents are known ___ (steal) in 2019.", "to have been stolen"]
+   ]
+  },
+  {
+   "titre": "3. Transform",
+   "consigne": "Rewrite each sentence starting with the subject in square brackets.",
+   "items": [
+    ["It is said that [the president] is ill.", "The president is said to be ill."],
+    ["It is believed that [the thieves] escaped through the roof.", "The thieves are believed to have escaped through the roof."],
+    ["It is expected that [the company] will announce job cuts.", "The company is expected to announce job cuts."],
+    ["It is reported that [the minister] is negotiating with the unions.", "The minister is reported to be negotiating with the unions."],
+    ["It was thought that [the painting] had been destroyed.", "The painting was thought to have been destroyed."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["He is said that he speaks seven languages.", "He is said to speak seven languages. (or: It is said that he speaks seven languages.)"],
+    ["The suspect is believed to leave the country yesterday.", "The suspect is believed to have left the country yesterday."],
+    ["It is said him to be very generous.", "He is said to be very generous."],
+    ["The prime minister is expected resigning today.", "The prime minister is expected to resign today."]
+   ]
+  },
+  {
+   "titre": "5. From conversation to news report",
+   "consigne": "Rewrite these informal sentences with a reporting verb in the passive (pattern 2 if possible).",
+   "items": [
+    ["People say she's the best lawyer in Douala.", "She is said to be the best lawyer in Douala."],
+    ["Everyone thinks the fire started in the kitchen.", "The fire is thought (believed) to have started in the kitchen."],
+    ["We expect the price of petrol to rise.", "The price of petrol is expected to rise."],
+    ["Apparently there are more than 200 species of birds in this park.", "There are said (thought) to be more than 200 species of birds in this park."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short news item (4 sentences) about unconfirmed information (sport, politics, a celebrity, a company). Use at least three reporting verbs in the passive with different infinitives.",
+   "items": [
+    ["Example answer", "A famous Canadian tech company is reported to be planning a move to Brussels. Its founder is said to have visited several offices in the city last month. The move is expected to create about 500 jobs. However, the company is believed to be negotiating with other European cities as well."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Two patterns: It is said that + clause / Subject + is said + to-infinitive.",
+  "The infinitive shows the time: to do (same time or future), to be doing (in progress), to have done (earlier), to have been done (passive, earlier).",
+  "There is / are said to be…; past opinion: was thought to…",
+  "For unconfirmed news, use this passive or reportedly / allegedly, never “would”.",
+  "“They say him to be” is impossible: with say, the infinitive pattern exists only in the passive."
+ ],
+ "liens": [151, 104, 155, 185, 164],
+ "refs": ["bc-adv-passives", "bc-passives"]
+}

@@ -1,0 +1,213 @@
+{
+ "n": 5,
+ "niveau": "A1",
+ "titre": "“Have got” (possession)",
+ "intro": "In spoken British English, “have got” is the most common way to talk about things you own, your family, how people look, illnesses and appointments.",
+ "objectifs": [
+  "Use “have got” in the present in positive sentences, negatives and questions, with short forms.",
+  "Give correct short answers (Yes, I have. / No, she hasn't.).",
+  "Use “have got” for possessions, family, appearance, health and plans in your diary.",
+  "Know when you can't use “have got” (actions, age, the past), and use “have / do you have”, which is more common in American English."
+ ],
+ "sections": [
+  {
+   "titre": "Positive sentences",
+   "texte": [
+    "“Have got” has two words: have (or has for he, she, it) + got. It simply means “have”: “got” doesn't add any idea of the past.",
+    "When we speak, we almost always use short forms: I've got, she's got. Be careful: “'s” can mean “is” (she's French) or “has” (she's got a car). The word “got” tells you that it means “has”."
+   ],
+   "tableau": {
+    "entetes": ["Subject", "Full form", "Short form", "Example"],
+    "lignes": [
+     ["I", "I have got", "I've got", "I've got a bike."],
+     ["you", "you have got", "you've got", "You've got a message."],
+     ["he / she / it", "he has got", "he's got", "She's got two children."],
+     ["we", "we have got", "we've got", "We've got a big garden."],
+     ["they", "they have got", "they've got", "They've got a dog."]
+    ]
+   },
+   "note": "Only he / she / it changes: he / she / it HAS got. Never say “she have got”."
+  },
+  {
+   "titre": "Negatives, questions and short answers",
+   "texte": [
+    "Like “to be”, “have got” doesn't use “do”. For the negative, add not after have / has (haven't got, hasn't got). For a question, put have / has before the subject (Have you got…?).",
+    "In short answers, use only have / has, without got: Yes, I have. No, she hasn't. Like with “to be”, no short form after Yes: don't say “Yes, I've”."
+   ],
+   "tableau": {
+    "entetes": ["Negative", "Question", "Yes", "No"],
+    "lignes": [
+     ["I haven't got a car.", "Have you got a car?", "Yes, I have.", "No, I haven't."],
+     ["He hasn't got a job.", "Has he got a job?", "Yes, he has.", "No, he hasn't."],
+     ["We haven't got time.", "Have we got time?", "Yes, we have.", "No, we haven't."],
+     ["They haven't got a TV.", "Have they got a TV?", "Yes, they have.", "No, they haven't."]
+    ]
+   },
+   "exemples": [
+    ["Have you got a pen? — Yes, I have. Here you are.", "A short answer, then you give the pen."],
+    ["She hasn't got any brothers or sisters.", "any in negatives (lesson 31)."],
+    ["What have you got in your bag?", "A Wh- question."]
+   ]
+  },
+  {
+   "titre": "What we use “have got” for",
+   "texte": [
+    "Use “have got” for a situation, not an action: things you own, family and friends, how a person looks, illnesses, and plans in your diary."
+   ],
+   "exemples": [
+    ["I've got a new phone.", "Possession."],
+    ["We've got three children.", "Family."],
+    ["Amina has got long black hair and brown eyes.", "Appearance."],
+    ["I've got a headache. / He's got a cold.", "Health."],
+    ["Sorry, I've got a meeting at three.", "Plans in your diary."],
+    ["Have you got any questions?", "A common phrase at the end of a presentation."]
+   ],
+   "note": "“Hair” (on your head) is uncountable and has no article: She's got long hair (not “a long hair” or “long hairs”)."
+  },
+  {
+   "titre": "When you can't use “have got”",
+   "texte": [
+    "Don't use “have got” for actions. For breakfast, a shower, a good time or a party, use “have” alone: I have breakfast at seven, We have a party on Saturday. (You will see this “have” again with the present simple, lesson 6.)",
+    "Don't use it for age (I'm 20, not “I've got 20 years”) or in the past: in the past, just say “had” (I had a dog when I was a child). Don't use it after “to” or a modal either: say “You need to have a passport”, not “to have got”."
+   ],
+   "tableau": {
+    "entetes": ["Wrong", "Right", "Why"],
+    "lignes": [
+     ["I've got breakfast at 7.", "I have breakfast at 7.", "Action → have alone."],
+     ["I've got 25 years.", "I'm 25.", "Age → to be."],
+     ["I had got a cat in 2010.", "I had a cat in 2010.", "Past → had."]
+    ]
+   }
+  },
+  {
+   "titre": "“Have got” or “have”? British and American English",
+   "texte": [
+    "For possession, you can also use “have” alone, like a normal verb. Then it uses do / does in negatives and questions: I don't have a car. Do you have a car? — Yes, I do.",
+    "“Have got” is more common in spoken British English and a little informal. “Have” + do is normal in American English and also very common in the UK, especially in writing. Both are correct. Just don't mix them in one sentence: never say “Do you have got…?” or “Have you got…? — Yes, I do”."
+   ],
+   "tableau": {
+    "entetes": ["", "Have got (mostly British)", "Have (American and British)"],
+    "lignes": [
+     ["Positive", "She's got a car.", "She has a car."],
+     ["Negative", "She hasn't got a car.", "She doesn't have a car."],
+     ["Question", "Has she got a car?", "Does she have a car?"],
+     ["Short answer", "Yes, she has. / No, she hasn't.", "Yes, she does. / No, she doesn't."]
+    ]
+   },
+   "note": "In informal American English, you also hear “I got a car” (without have). It is very informal: don't write it."
+  }
+ ],
+ "formule": "I / you / we / they have got ('ve got) · he / she / it has got ('s got) · haven't / hasn't got · Have you got…? — Yes, I have.",
+ "prononciation": [
+  "Short forms “I've got” /aɪv ɡɒt/ and “she's got” /ʃiːz ɡɒt/: the v and z are light but you must hear them, or it sounds like “I got”.",
+  "“got” is /ɡɒt/ in British English (short, open o) and /ɡɑːt/ in American English.",
+  "“haven't” /ˈhævnt/ and “hasn't” /ˈhæznt/: two syllables, stress on the first; the final t is often very light.",
+  "In a question, “have” is weak: Have you got…? /həv juː ɡɒt/. In a short answer, it is strong: Yes, I HAVE /hæv/.",
+  "Breathe out the h in “have” and “has”. Don't say “I 'ave”."
+ ],
+ "erreurs": [
+  ["She have got a car.", "She has got a car. / She's got a car.", "he / she / it: has."],
+  ["Do you have got a pen?", "Have you got a pen? / Do you have a pen?", "Don't mix do and have got."],
+  ["Have you got a car? — Yes, I've got.", "Yes, I have.", "Short answer: have / has alone, without got."],
+  ["I've got 30 years.", "I'm 30.", "Age uses “to be”."],
+  ["I've got a shower every morning.", "I have a shower every morning.", "Action → have alone, not have got."],
+  ["She's got blue eye and a long hair.", "She's got blue eyes and long hair.", "Eyes is plural; hair is uncountable, no a."],
+  ["I don't have got a bike.", "I haven't got a bike. / I don't have a bike.", "The negative of have got is haven't got."]
+ ],
+ "dialogue": {
+  "contexte": "Two neighbours talk on the stairs of a building in Liège. One of them is new.",
+  "lignes": [
+   ["Chloé", "Hi! I'm Chloé, your new neighbour. Have you got a minute?", "A polite question with have got."],
+   ["Didier", "Sure. Welcome! Have you got everything for the flat?", "flat = apartment (British)."],
+   ["Chloé", "Almost. But I haven't got a drill. Have you got one?", "Negative, then question with “one”."],
+   ["Didier", "Yes, I have. I can bring it tonight. Have you got children?", "Short answer without got."],
+   ["Chloé", "Yes, I've got a son. He's six. And he's got a very noisy dog!", "Age with “to be”: He's six."],
+   ["Didier", "No problem. We've got a cat, so they can be friends.", "We've got = we have got."],
+   ["Chloé", "Great. Oh, sorry, I've got an appointment at five. See you later!", "Have got for a plan in your diary."],
+   ["Didier", "See you!", "A relaxed goodbye."]
+  ]
+ },
+ "mots": [
+  ["car", "Have you got a car?", "a vehicle with four wheels for a few people"],
+  ["phone", "I've got a new phone.", "a device to call and send messages"],
+  ["key", "Have you got the key?", "a small metal thing that opens a door"],
+  ["hair", "She's got short hair.", "what grows on your head (uncountable)"],
+  ["eyes", "He's got green eyes.", "the parts of your face that you see with"],
+  ["cold", "I've got a cold.", "a common, mild illness of the nose and throat"],
+  ["headache", "She's got a headache.", "a pain in your head"],
+  ["appointment", "I've got an appointment at the dentist's.", "a time you agree to see someone, like a doctor"],
+  ["pet", "Have you got any pets?", "an animal that lives with you at home"],
+  ["time", "Sorry, I haven't got time now.", "minutes and hours free for something"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Have or has?",
+   "consigne": "Complete with have or has.",
+   "items": [
+    ["I ___ got two sisters.", "have"],
+    ["My father ___ got a beard.", "has"],
+    ["We ___ got a small flat.", "have"],
+    ["___ she got a bike?", "Has"],
+    ["They ___ got a lot of friends.", "have"],
+    ["It ___ got four doors.", "has"]
+   ]
+  },
+  {
+   "titre": "2. Negative and question",
+   "consigne": "Write the sentence in the negative, then as a question.",
+   "items": [
+    ["She's got a car.", "She hasn't got a car. / Has she got a car?"],
+    ["You've got my number.", "You haven't got my number. / Have you got my number?"],
+    ["They've got a garden.", "They haven't got a garden. / Have they got a garden?"],
+    ["He's got a cold.", "He hasn't got a cold. / Has he got a cold?"]
+   ]
+  },
+  {
+   "titre": "3. Short answers",
+   "consigne": "Give a short answer (yes or no, as shown).",
+   "items": [
+    ["Have you got a pen? (yes)", "Yes, I have."],
+    ["Has Marie got a brother? (no)", "No, she hasn't."],
+    ["Have they got a dog? (yes)", "Yes, they have."],
+    ["Has the hotel got a pool? (no)", "No, it hasn't."]
+   ]
+  },
+  {
+   "titre": "4. Have got or another verb?",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I've got 18 years.", "I'm 18."],
+    ["We've got lunch at one o'clock.", "We have lunch at one o'clock."],
+    ["Do you have got a pen?", "Have you got a pen? / Do you have a pen?"],
+    ["He have got blue eyes.", "He has got blue eyes. / He's got blue eyes."],
+    ["She's got a long black hair.", "She's got long black hair."]
+   ]
+  },
+  {
+   "titre": "5. Change to “have got”",
+   "consigne": "Rewrite the sentence with “have got” (short form).",
+   "items": [
+    ["My head hurts. (I / a headache)", "I've got a headache."],
+    ["He doesn't have a car.", "He hasn't got a car."],
+    ["Do you have any pets?", "Have you got any pets?"],
+    ["We have a meeting at ten.", "We've got a meeting at ten."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write four true sentences with “have got”: something you have, something you haven't got, your family, and how you look (hair, eyes).",
+   "items": [
+    ["Example answer", "I've got a laptop but I haven't got a car. I've got two brothers and a sister. I've got short brown hair and dark eyes."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "I / you / we / they've got · he / she / it's got (= has got).",
+  "Negative: haven't got / hasn't got. Question: Have you got…? Has she got…?",
+  "Short answer without got: Yes, I have. / No, she hasn't.",
+  "For possessions and states, never for actions (I have breakfast), age (I'm 25) or the past (I had).",
+  "The same idea with do: Do you have…? — Yes, I do. Don't mix the two."
+ ],
+ "liens": [1, 4, 6, 23, 24],
+ "refs": ["bc-havegot", "bc-a1a2"]
+}

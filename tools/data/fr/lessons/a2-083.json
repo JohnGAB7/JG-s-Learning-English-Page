@@ -1,0 +1,202 @@
+{
+"n": 83,
+"niveau": "A2",
+"titre": "Le travail et les métiers",
+"intro": "« What do you do? » est l’une des premières questions qu’on vous posera. Cette leçon vous apprend à dire votre métier (avec l’article « a » !), à décrire votre travail et vos horaires, à parler de votre lieu de travail et de vos conditions, et à évoquer un changement de poste. Vous y retrouverez le présent simple pour les habitudes et le présent continu pour les situations temporaires.",
+"objectifs": [
+ "Demander et dire son métier avec « I’m a / an… » et « I work as… ».",
+ "Décrire ses tâches, ses horaires et son lieu de travail.",
+ "Utiliser les bonnes prépositions : work for, work in, work at, work on, work as.",
+ "Parler de recherche d’emploi et de conditions de travail (full-time, salary, apply for…)."
+],
+"sections": [
+ {
+  "titre": "Dire son métier",
+  "texte": [
+   "La question naturelle est « What do you do? » (que faites-vous dans la vie ?) ou « What do you do for a living? ». « What’s your job? » existe mais est plus direct.",
+   "Réponse : « I’m a nurse. » « She’s an engineer. » En anglais, l’article « a / an » est obligatoire devant un métier au singulier, contrairement au français (« je suis infirmière »). Au pluriel : « They’re teachers. »",
+   "Autres réponses : « I work as a receptionist. » (je travaille comme…), « I’m self-employed. » (je suis indépendant), « I’m unemployed / I’m looking for a job. » (au chômage), « I’m retired. » (à la retraite), « I’m a student. »"
+  ],
+  "exemples": [
+   ["What do you do? — I’m an accountant.", "Que faites-vous ? — Je suis comptable."],
+   ["My sister works as a nurse in a big hospital.", "Ma sœur travaille comme infirmière dans un grand hôpital."],
+   ["My father is retired. He was a taxi driver.", "Mon père est à la retraite. Il était chauffeur de taxi."]
+  ]
+ },
+ {
+  "titre": "Les métiers courants",
+  "texte": [
+   "Beaucoup de métiers se forment avec -er, -or, -ist ou -ian : « teach → teacher », « act → actor », « science → scientist », « electric → electrician ».",
+   "La plupart des noms de métiers sont neutres en anglais : « a doctor », « a teacher », « a lawyer » s’appliquent aux hommes et aux femmes. Aujourd’hui on préfère « a police officer » (plutôt que policeman / policewoman), « a firefighter » (plutôt que fireman), « a flight attendant » (plutôt que steward / stewardess), « an actor » pour tous.",
+   "Faux amis : « a librarian » = bibliothécaire (une librairie = a bookshop) ; « a chemist » (GB) = un pharmacien ; « a physician » (surtout US) = un médecin, pas un physicien (« a physicist »)."
+  ],
+  "tableau": {
+   "entetes": ["Métier", "Où ?", "Que fait-il / elle ?"],
+   "lignes": [
+    ["a nurse", "in a hospital", "looks after patients"],
+    ["a mechanic", "in a garage", "repairs cars"],
+    ["a lawyer", "in an office / at court", "gives legal advice"],
+    ["a farmer", "on a farm", "grows food, keeps animals"],
+    ["a shop assistant (US: sales clerk)", "in a shop", "helps customers"],
+    ["a software developer", "in an office / at home", "writes computer programs"],
+    ["an electrician", "in people’s homes", "installs and repairs electrical systems"]
+   ]
+  },
+  "exemples": [
+   ["She’s a software developer. She writes apps for banks.", "Elle est développeuse. Elle écrit des applis pour des banques."],
+   ["He’s a farmer. He grows cocoa and coffee.", "Il est agriculteur. Il cultive du cacao et du café."],
+   ["My cousin is a librarian at the university.", "Mon cousin est bibliothécaire à l’université."]
+  ]
+ },
+ {
+  "titre": "Work for, in, at, on, as",
+  "texte": [
+   "« work for » + entreprise / patron : « I work for a bank. » « She works for Mr Diallo. »",
+   "« work in » + secteur ou lieu général : « I work in marketing / in tourism / in an office / in a hospital. » « work at » + lieu précis : « He works at the Hilton / at Brussels Airport. »",
+   "« work as » + métier : « I work as a translator. » « work on » + projet : « We’re working on a new website. » « work from home » : télétravailler."
+  ],
+  "exemples": [
+   ["I work for a telecom company in Douala.", "Je travaille pour une entreprise de télécoms à Douala."],
+   ["She works in finance, at a big bank in Toronto.", "Elle travaille dans la finance, dans une grande banque à Toronto."],
+   ["This month we’re working on a new project.", "Ce mois-ci, nous travaillons sur un nouveau projet."],
+   ["I work from home on Mondays and Fridays.", "Je télétravaille le lundi et le vendredi."]
+  ]
+ },
+ {
+  "titre": "Décrire son travail et ses horaires",
+  "texte": [
+   "Pour les habitudes, le présent simple : « I start at eight and finish at five. » « I deal with customers. » (je m’occupe des clients), « I’m responsible for the accounts. » (je suis responsable de…), « I travel a lot for work. »",
+   "Pour une situation temporaire, le présent continu (leçon 9) : « I’m working in Brussels this month. » « I’m training a new colleague at the moment. »",
+   "Horaires et contrats : « full-time » (temps plein), « part-time » (temps partiel), « shifts » (travail posté : « I work night shifts »), « overtime » (heures supplémentaires), « a day off » (un jour de congé), « on holiday » (US « on vacation »)."
+  ],
+  "exemples": [
+   ["I work full-time, from Monday to Friday.", "Je travaille à temps plein, du lundi au vendredi."],
+   ["Nurses often work night shifts.", "Les infirmières travaillent souvent de nuit."],
+   ["I’m responsible for ten people in my team.", "Je suis responsable de dix personnes dans mon équipe."]
+  ]
+ },
+ {
+  "titre": "Chercher un emploi, changer de poste",
+  "texte": [
+   "Le vocabulaire : « a job » (un emploi, dénombrable), « work » (le travail, indénombrable : on ne dit pas « a work »), « a career » (une carrière), « a colleague » (un collègue), « a boss / a manager » (un chef / un responsable).",
+   "Les étapes : « look for a job », « apply for a job » (postuler), « send your CV » (US « résumé »), « have an interview » (passer un entretien), « get the job », « earn » (gagner) « a salary » (un salaire annuel) ou « wages » (un salaire à l’heure ou à la semaine).",
+   "Changer : « I’ve just changed jobs. » « She got a promotion. » (une promotion) ; « He lost his job. » ; « I resigned » ou « I quit » (j’ai démissionné, « quit » est plus familier)."
+  ],
+  "exemples": [
+   ["I’m looking for a new job. I applied for three jobs last week.", "Je cherche un nouvel emploi. J’ai postulé à trois offres la semaine dernière."],
+   ["She had an interview yesterday and she got the job!", "Elle a passé un entretien hier et elle a eu le poste !"],
+   ["He earns a good salary, but he works long hours.", "Il gagne un bon salaire, mais il fait de longues journées."]
+  ],
+  "note": "Piège : « I have a lot of work » (indénombrable), mais « I have two jobs » (dénombrable). Et « travel » ne se dit pas pour un trajet domicile-travail : on dit « commute » (« I commute to work by train »)."
+ }
+],
+"formule": "What do you do? — I’m a / an + métier. · I work as a… · I work for + entreprise / in + secteur / at + lieu. · I’m responsible for… · I work full-time / part-time.",
+"prononciation": [
+ "« engineer » /ˌendʒɪˈnɪə/ : accent sur la dernière syllabe, « en-dji-NIEU ».",
+ "« accountant » /əˈkaʊntənt/ : accent sur « COUN ».",
+ "« colleague » /ˈkɒliːɡ/ : accent sur la première syllabe, « KO-lig », et la fin « -eague » se dit /iːɡ/.",
+ "« career » /kəˈrɪə/ : accent sur la deuxième syllabe, « keu-RIEU » ; ne confondez pas avec « Korea ».",
+ "« nurse » /nɜːs/ : la voyelle /ɜː/ comme dans « bird », « work » /wɜːk/ aussi.",
+ "« What do you do? » se dit souvent très vite : /wɒdʒə ˈduː/, « wotcha DOU ? »."
+],
+"erreurs": [
+ ["I am teacher.", "I am a teacher.", "Article obligatoire devant un métier."],
+ ["What is your work?", "What do you do?", "Question naturelle pour le métier."],
+ ["I have found a work.", "I have found a job.", "« work » est indénombrable ; un emploi = a job."],
+ ["I work in Orange.", "I work for Orange.", "Entreprise : work for."],
+ ["I'm responsible of the team.", "I'm responsible for the team.", "responsible for."],
+ ["She postulated for the job.", "She applied for the job.", "Postuler = apply for."],
+ ["He works like a waiter.", "He works as a waiter.", "Comme (fonction) = as."],
+ ["My sister is librarian in a bookshop.", "My sister is a bookseller. / She works in a bookshop.", "librarian = bibliothécaire ; librairie = bookshop."]
+],
+"dialogue": {
+ "contexte": "Lors d’un mariage à Ottawa, Samuel (Camerounais) fait la connaissance de Claire, une invitée canadienne.",
+ "lignes": [
+  ["Claire", "So, what do you do, Samuel?", "Alors, que faites-vous dans la vie, Samuel ?"],
+  ["Samuel", "I’m an engineer. I work for a solar energy company.", "Je suis ingénieur. Je travaille pour une entreprise d’énergie solaire."],
+  ["Claire", "That sounds interesting! What does your job involve?", "Ça a l’air intéressant ! En quoi consiste votre travail ?"],
+  ["Samuel", "I design solar panels for schools and hospitals. I travel a lot for work.", "Je conçois des panneaux solaires pour des écoles et des hôpitaux. Je voyage beaucoup pour le travail."],
+  ["Claire", "Do you like it?", "Ça vous plaît ?"],
+  ["Samuel", "Yes, I love it, but I work long hours. And you?", "Oui, j’adore, mais je fais de longues journées. Et vous ?"],
+  ["Claire", "I’m a nurse. I work at the General Hospital, but only part-time now.", "Je suis infirmière. Je travaille à l’Hôpital général, mais seulement à temps partiel maintenant."],
+  ["Samuel", "Do you work night shifts?", "Vous travaillez de nuit ?"],
+  ["Claire", "Sometimes. And at the moment I’m studying to become a midwife.", "Parfois. Et en ce moment, j’étudie pour devenir sage-femme."],
+  ["Samuel", "Wow, good luck with that!", "Waouh, bonne chance !"]
+ ]
+},
+"mots": [
+ ["job", "She’s got a new job in a bank.", "un emploi, un poste"],
+ ["colleague", "My colleagues are very friendly.", "un(e) collègue"],
+ ["full-time", "I work full-time, forty hours a week.", "à temps plein"],
+ ["part-time", "He’s got a part-time job at the weekend.", "à temps partiel"],
+ ["shift", "I’m on the night shift this week.", "un poste (horaires de travail posté)"],
+ ["apply for", "I want to apply for that job.", "postuler à, faire une demande de"],
+ ["interview", "I’ve got a job interview on Monday.", "un entretien"],
+ ["salary", "The salary is good, but the hours are long.", "un salaire (annuel)"],
+ ["retired", "My grandmother is retired.", "à la retraite"],
+ ["self-employed", "He’s self-employed: he’s a photographer.", "indépendant, à son compte"]
+],
+"exercices": [
+ {
+  "titre": "1. Quel métier ?",
+  "consigne": "Lis la description et donne le métier avec « a » ou « an ».",
+  "items": [
+   ["This person repairs cars.", "a mechanic"],
+   ["This person looks after patients in a hospital.", "a nurse"],
+   ["This person works in a library.", "a librarian"],
+   ["This person installs and repairs electrical systems.", "an electrician"],
+   ["This person grows food and keeps animals.", "a farmer"]
+  ]
+ },
+ {
+  "titre": "2. La bonne préposition",
+  "consigne": "Complète avec for, in, at, as ou on.",
+  "items": [
+   ["I work ___ a big insurance company.", "for"],
+   ["She works ___ a waitress at the weekend.", "as"],
+   ["He works ___ tourism.", "in"],
+   ["We’re working ___ a new app this month.", "on"],
+   ["My mother works ___ Douala Airport.", "at"],
+   ["I’m responsible ___ the budget.", "for"]
+  ]
+ },
+ {
+  "titre": "3. Job ou work ?",
+  "consigne": "Complète avec « job » ou « work ».",
+  "items": [
+   ["I’ve got a lot of ___ today.", "work"],
+   ["She’s got a new ___ in Montreal.", "job"],
+   ["I go to ___ by bus.", "work"],
+   ["He’s looking for a part-time ___.", "job"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je suis infirmière.", "I’m a nurse."],
+   ["Que faites-vous dans la vie ?", "What do you do?"],
+   ["Il travaille comme serveur.", "He works as a waiter."],
+   ["J’ai postulé à un emploi hier.", "I applied for a job yesterday."],
+   ["Elle travaille à temps partiel.", "She works part-time."],
+   ["Je cherche du travail.", "I’m looking for work. / I’m looking for a job."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Présente ton travail (ou celui d’un proche) en 5 ou 6 phrases : métier, employeur ou secteur, tâches, horaires, ce que tu aimes ou n’aimes pas.",
+  "items": [
+   ["Exemple de réponse", "I’m an accountant. I work for a small transport company in Yaoundé. I’m responsible for the accounts and I deal with our banks and customers. I work full-time, from eight to five, and I work from home on Fridays. I like my colleagues and my job is interesting, but sometimes I have to work overtime at the end of the month. Next year I’d like to apply for a manager’s job."]
+  ]
+ }
+],
+"a_retenir": [
+ "What do you do? — I’m a nurse / an engineer. L’article « a / an » est obligatoire devant un métier.",
+ "work for + entreprise · in + secteur / lieu · at + lieu précis · as + fonction · on + projet.",
+ "« a job » est dénombrable, « work » est indénombrable : I’ve got a lot of work / a new job.",
+ "Habitudes au présent simple (I start at eight), situation temporaire au présent continu (I’m working in Brussels this month).",
+ "Vocabulaire : full-time, part-time, shifts, apply for, interview, salary, retired, self-employed."
+],
+"liens": [6, 8, 9, 59, 84],
+"refs": ["bc-a1a2", "cam-nouns"]
+}

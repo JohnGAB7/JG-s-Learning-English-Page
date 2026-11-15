@@ -1,0 +1,193 @@
+{
+ "n": 98,
+ "niveau": "B1",
+ "titre": "I wish / if only",
+ "intro": "I wish et if only servent à dire qu'on aimerait que la réalité soit différente, maintenant ou dans le passé. Ils fonctionnent comme les conditionnels : on « recule » d'un temps pour marquer la distance avec la réalité.",
+ "objectifs": [
+  "Exprimer un souhait sur le présent avec wish / if only + prétérit (ou could).",
+  "Exprimer un regret sur le passé avec wish / if only + past perfect.",
+  "Distinguer wish (situation irréelle) de hope (situation possible) et de want.",
+  "Employer if only pour un souhait plus fort et plus émotif."
+ ],
+ "sections": [
+  {
+   "titre": "Souhait sur le présent : wish + prétérit",
+   "texte": [
+    "Pour une situation présente qu'on voudrait différente, on met le verbe après wish au prétérit. Le prétérit ne parle pas du passé : il signale que ce n'est pas la réalité, comme dans le deuxième conditionnel.",
+    "Le français dit « j'aimerais avoir », « je voudrais que ce soit » ou « dommage que… ». L'anglais utilise une seule structure : sujet + wish + sujet + prétérit. That est possible mais souvent omis (I wish that I had…).",
+    "Avec be, on emploie were à toutes les personnes dans un registre soigné (I wish I were, I wish it were). Was est courant à l'oral."
+   ],
+   "tableau": {
+    "entetes": ["Réalité", "Souhait", "Traduction"],
+    "lignes": [
+     ["I don't have a car.", "I wish I had a car.", "J'aimerais avoir une voiture."],
+     ["I live far from my family.", "I wish I lived closer to my family.", "J'aimerais habiter plus près de ma famille."],
+     ["It's Monday.", "I wish it were (was) Friday.", "Si seulement on était vendredi."],
+     ["She's always late.", "I wish she weren't always late.", "Dommage qu'elle soit toujours en retard."],
+     ["It's raining.", "I wish it wasn't raining.", "J'aimerais qu'il ne pleuve pas (en ce moment)."]
+    ]
+   }
+  },
+  {
+   "titre": "Wish + could : une capacité qu'on n'a pas",
+   "texte": [
+    "Pour parler d'une capacité ou d'une possibilité qu'on n'a pas, on utilise wish + could + base verbale (could = prétérit de can).",
+    "C'est très fréquent pour les langues, les compétences ou les situations bloquées : « I wish I could stay longer » (j'aimerais pouvoir rester plus longtemps)."
+   ],
+   "exemples": [
+    ["I wish I could speak Spanish.", "J'aimerais savoir parler espagnol."],
+    ["I wish I could come to your wedding, but I'll be in Canada.", "J'aimerais pouvoir venir à ton mariage, mais je serai au Canada."],
+    ["My son wishes he could drive.", "Mon fils aimerait savoir conduire."]
+   ]
+  },
+  {
+   "titre": "Regret sur le passé : wish + past perfect",
+   "texte": [
+    "Pour regretter quelque chose qui s'est passé (ou qui ne s'est pas passé), on met le verbe au past perfect (had + participe). C'est le même recul que dans le troisième conditionnel.",
+    "Le français dit « je regrette de… » ou « j'aurais dû / j'aurais aimé… ». « I wish I hadn't said that » = je regrette d'avoir dit ça. On peut aussi utiliser regret + -ing (I regret saying that) ou should have + participe (I should have listened)."
+   ],
+   "exemples": [
+    ["I wish I had studied harder at school.", "Je regrette de ne pas avoir travaillé davantage à l'école."],
+    ["She wishes she hadn't sold her car.", "Elle regrette d'avoir vendu sa voiture."],
+    ["I wish I'd taken more photos in Kribi.", "J'aurais aimé prendre plus de photos à Kribi."]
+   ]
+  },
+  {
+   "titre": "If only : la version forte",
+   "texte": [
+    "If only a le même sens que I wish et suit les mêmes temps, mais il est plus émotif, souvent exclamatif : « If only I had more time! » (si seulement j'avais plus de temps !).",
+    "If only s'emploie souvent seul, sans proposition principale, et se termine par un point d'exclamation. Il peut aussi commencer une phrase conditionnelle : « If only you had told me, I could have helped. »"
+   ],
+   "exemples": [
+    ["If only I knew the answer!", "Si seulement je connaissais la réponse ! (présent)"],
+    ["If only we hadn't missed the train!", "Si seulement nous n'avions pas raté le train ! (passé)"]
+   ]
+  },
+  {
+   "titre": "Wish, hope ou want ?",
+   "texte": [
+    "Hope = un souhait possible, réaliste ; il est suivi d'un temps normal (présent ou will) : « I hope you pass your exam » (j'espère que tu réussiras). Wish = une situation irréelle ou impossible à changer : « I wish I were younger ».",
+    "Want + to ou want + quelqu'un + to : simple volonté (I want to leave, I want you to stay). On ne dit jamais « I wish you to… » dans la langue courante.",
+    "Wish + nom s'emploie dans des formules figées de vœux : « I wish you a happy birthday », « We wish you good luck », « Best wishes ». Pour aller plus loin (wish + would pour se plaindre du comportement de quelqu'un : « I wish you would stop »), voir la leçon 159."
+   ],
+   "tableau": {
+    "entetes": ["Verbe", "Sens", "Exemple"],
+    "lignes": [
+     ["hope + présent / will", "souhait possible", "I hope it doesn't rain tomorrow."],
+     ["wish + prétérit", "présent irréel", "I wish it weren't raining."],
+     ["wish + past perfect", "regret passé", "I wish I had brought an umbrella."],
+     ["wish + nom (formules)", "vœux", "I wish you a merry Christmas."]
+    ]
+   }
+  }
+ ],
+ "formule": "wish / if only + prétérit (présent irréel) · wish / if only + past perfect (regret passé)",
+ "prononciation": [
+  "wish /wɪʃ/ : i court comme dans « it », pas /wiːʃ/. wishes /ˈwɪʃɪz/ a deux syllabes.",
+  "If only /ɪf ˈəʊnli/ : accent sur only, et souvent aussi sur le verbe : « If ONLY I'd LISTENED! »",
+  "Dans « I wish I'd known », le 'd est très léger mais il change tout : sans lui, la phrase parle du présent.",
+  "Dans « I wish I were », were est faible /wə/ : /aɪ ˈwɪʃ aɪ wə/.",
+  "Un soupir ou une intonation descendante accompagne souvent le regret : « I wish I could ↘. »"
+ ],
+ "erreurs": [
+  ["I wish I have more time.", "I wish I had more time.", "Souhait sur le présent : prétérit après wish."],
+  ["I wish I can swim.", "I wish I could swim.", "Can devient could après wish."],
+  ["I wish I didn't say that yesterday.", "I wish I hadn't said that yesterday.", "Regret sur le passé : past perfect."],
+  ["I wish you pass your exam.", "I hope you pass your exam.", "Souhait possible : hope, pas wish."],
+  ["I wish I would be taller.", "I wish I were taller.", "Pas de would pour parler de soi : were / prétérit."],
+  ["I wish you to come to my party.", "I'd like you to come to my party. / I hope you can come to my party.", "Wish + quelqu'un + to est très formel et rare ; on dit would like ou hope."]
+ ],
+ "dialogue": {
+  "contexte": "Montréal, en février. Kevin, arrivé de Libreville il y a un an, parle avec sa collègue Julie à la sortie du bureau.",
+  "lignes": [
+   ["Kevin", "It's minus twenty again. I wish it were summer!", "Il fait encore moins vingt. J'aimerais tellement qu'on soit en été !"],
+   ["Julie", "You'll get used to it. Do you miss Gabon?", "Tu vas t'y habituer. Le Gabon te manque ?"],
+   ["Kevin", "A lot. I wish my parents lived closer. I can't visit them often.", "Beaucoup. J'aimerais que mes parents habitent plus près. Je ne peux pas leur rendre visite souvent."],
+   ["Julie", "I hope you can go back this summer.", "J'espère que tu pourras y retourner cet été."],
+   ["Kevin", "Me too. And I wish I'd bought a warmer coat before the winter!", "Moi aussi. Et j'aurais dû acheter un manteau plus chaud avant l'hiver !"],
+   ["Julie", "If only you'd asked me! I know a great shop.", "Si seulement tu m'avais demandé ! Je connais une super boutique."],
+   ["Kevin", "Really? I wish I could go there now.", "C'est vrai ? J'aimerais pouvoir y aller maintenant."],
+   ["Julie", "Come on, it's open until nine. Let's go!", "Allez, c'est ouvert jusqu'à vingt et une heures. On y va !"]
+  ]
+ },
+ "mots": [
+  ["wish", "I wish I had more free time.", "souhaiter (que ce soit différent)"],
+  ["if only", "If only I knew the answer!", "si seulement"],
+  ["regret", "I regret not learning to swim.", "regretter"],
+  ["hope", "I hope you feel better soon.", "espérer"],
+  ["miss", "I miss my family in Libreville.", "manquer (quelqu'un me manque)"],
+  ["get used to", "You'll get used to the cold.", "s'habituer à"],
+  ["closer", "I wish we lived closer.", "plus près"],
+  ["should have", "I should have listened to you.", "aurais dû"],
+  ["best wishes", "Best wishes for your new job!", "meilleurs vœux, tous mes vœux"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Présent ou passé ?",
+   "consigne": "Dis si le souhait porte sur le présent (P) ou si c'est un regret sur le passé (R).",
+   "items": [
+    ["I wish I had a bigger flat.", "P"],
+    ["I wish I had listened to my teacher.", "R"],
+    ["If only she were here!", "P"],
+    ["He wishes he hadn't moved to the city.", "R"]
+   ]
+  },
+  {
+   "titre": "2. Compléter (présent)",
+   "consigne": "Complète avec la bonne forme du verbe pour un souhait sur le présent.",
+   "items": [
+    ["I don't have a car. I wish I ___ a car.", "had"],
+    ["I can't swim. I wish I ___ swim.", "could"],
+    ["My flat is very small. I wish it ___ bigger.", "were (was)"],
+    ["We live in a noisy street. I wish we ___ in a quiet street.", "lived"],
+    ["He doesn't speak English. He wishes he ___ English.", "spoke (could speak)"]
+   ]
+  },
+  {
+   "titre": "3. Compléter (passé)",
+   "consigne": "Complète pour exprimer un regret sur le passé.",
+   "items": [
+    ["I didn't go to the concert. I wish I ___ to the concert.", "had gone"],
+    ["She said something rude. She wishes she ___ it.", "hadn't said"],
+    ["We didn't take any photos. If only we ___ some photos!", "had taken"],
+    ["I ate too much cake. I wish I ___ so much.", "hadn't eaten"]
+   ]
+  },
+  {
+   "titre": "4. Wish ou hope ?",
+   "consigne": "Choisis wish ou hope et mets le verbe à la bonne forme si nécessaire.",
+   "items": [
+    ["I ___ you have a good trip to Dakar.", "hope"],
+    ["I ___ I were on holiday right now.", "wish"],
+    ["We ___ the weather will be nice tomorrow.", "hope"],
+    ["She ___ she had studied medicine.", "wishes"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec wish ou if only.",
+   "items": [
+    ["J'aimerais savoir jouer de la guitare.", "I wish I could play the guitar."],
+    ["Je regrette de ne pas l'avoir appelée.", "I wish I had called her."],
+    ["Si seulement il ne pleuvait pas !", "If only it wasn't (weren't) raining!"],
+    ["Elle regrette d'avoir quitté son travail.", "She wishes she hadn't left her job."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 4 phrases vraies : deux souhaits sur ta vie actuelle (wish + prétérit / could) et deux regrets sur ton passé (wish / if only + past perfect).",
+   "items": [
+    ["Exemple de réponse", "I wish I had more time to read. I wish I could speak Dutch, because many of my colleagues in Brussels speak it. I wish I had started learning English earlier. If only I hadn't sold my old guitar!"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Présent irréel : wish / if only + prétérit (I wish I had…, I wish it were…).",
+  "Capacité qu'on n'a pas : wish + could (I wish I could swim).",
+  "Regret passé : wish / if only + past perfect (I wish I had listened).",
+  "Souhait possible et réaliste : hope + présent / will, pas wish.",
+  "If only = wish, en plus fort et plus émotif."
+ ],
+ "liens": [96, 97, 159, 99],
+ "refs": ["bc-wish"]
+}

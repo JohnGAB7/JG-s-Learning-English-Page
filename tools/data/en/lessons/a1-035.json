@@ -1,0 +1,204 @@
+{
+"n": 35,
+"niveau": "A1",
+"titre": "Adjectives: position and order",
+"intro": "In English, adjectives never change and go before the noun: “a red car”, “red cars”. When you use several adjectives, they follow an order (opinion, size, age, colour, origin, material). This lesson helps you avoid the most common mistakes.",
+"objectifs": [
+ "Put the adjective before the noun or after a verb like be, look, feel.",
+ "Use adjectives with no plural and no female form.",
+ "Put several adjectives in the right order (a beautiful old wooden table).",
+ "Use a noun like an adjective (a coffee cup, a bus stop)."
+],
+"sections": [
+ {
+  "titre": "Before the noun or after the verb",
+  "texte": [
+   "An adjective goes before the noun: “a big house”, “an interesting book”. Never after the noun: “a red car”, not “a car red”.",
+   "It can also go after some verbs: be, look, feel, seem, get / become, taste, smell: “The house is big.”, “You look tired.”, “This soup tastes good.”",
+   "“A” or “an” depends on the sound of the next word, so often on the adjective: “a car” but “an old car”; “an apple” but “a big apple”."
+  ],
+  "exemples": [
+   ["We live in a small flat.", "Before the noun."],
+   ["The flat is small but comfortable.", "After be."],
+   ["You look happy today!", "After look."],
+   ["It's an expensive restaurant.", "an + vowel sound of “expensive”."]
+  ]
+ },
+ {
+  "titre": "Adjectives never change",
+  "texte": [
+   "English adjectives have no plural and no female form: “a tall man, a tall woman, tall people.”",
+   "You can't use an adjective alone as a noun for one person or thing: add “one”, “man”, “woman”, “person”: “the new one”, “a rich man”. (“The rich” exists, but for a whole group.)"
+  ],
+  "tableau": {
+   "entetes": ["Wrong", "Right"],
+   "lignes": [
+    ["a man tall", "a tall man"],
+    ["two talls women", "two tall women"],
+    ["talls children", "tall children"],
+    ["the persons importants", "the important people"],
+    ["the red (the dress)", "the red one"]
+   ]
+  },
+  "exemples": [
+   ["I've got two black cats.", "“black” has no s."],
+   ["Which dress do you want? — The blue one.", "one = dress."]
+  ]
+ },
+ {
+  "titre": "The order of several adjectives",
+  "texte": [
+   "When there are several adjectives before a noun, English follows a fairly fixed order. Opinion (what you think) comes first, then facts: size, age, shape, colour, origin, material, and finally purpose, just before the noun.",
+   "In practice, we rarely use more than two or three adjectives. Remember: opinion → size → age → colour → origin → material.",
+   "Join two colours with “and”: “a black and white cat”."
+  ],
+  "tableau": {
+   "entetes": ["1. Opinion", "2. Size", "3. Age", "4. Shape", "5. Colour", "6. Origin", "7. Material", "Noun"],
+   "lignes": [
+    ["a beautiful", "", "old", "", "", "", "wooden", "table"],
+    ["a lovely", "small", "", "", "", "Italian", "", "restaurant"],
+    ["", "a big", "", "round", "", "", "", "plate"],
+    ["", "", "an old", "", "red", "", "", "car"],
+    ["nice", "", "", "", "black", "", "leather", "shoes"]
+   ]
+  },
+  "exemples": [
+   ["She's got a beautiful old wooden table.", "opinion – age – material."],
+   ["We often eat in a lovely small Italian restaurant.", "opinion – size – origin."],
+   ["He's wearing black leather shoes.", "colour – material."]
+  ],
+  "note": "To remember: OSASCOMP (Opinion, Size, Age, Shape, Colour, Origin, Material, Purpose)."
+ },
+ {
+  "titre": "Adjectives that go only after the verb",
+  "texte": [
+   "Some adjectives that start with “a-” go only after the verb: afraid, alone, asleep, awake, alive. Say “The baby is asleep”, not “an asleep baby”: say “a sleeping baby”.",
+   "In British English, “ill” is also used mostly after the verb: “She's ill.” Before a noun, say “a sick child”."
+  ],
+  "exemples": [
+   ["Don't make noise, the baby is asleep.", "asleep after be."],
+   ["I'm afraid of dogs. — He's a frightened child.", "afraid after the verb; frightened before the noun."]
+  ]
+ },
+ {
+  "titre": "A noun used like an adjective",
+  "texte": [
+   "English often puts a noun before another noun to describe it. The first noun works like an adjective and stays singular: “a shoe shop”, “a bus stop”, “a coffee cup”.",
+   "The main word is the last one: “a coffee cup” is a cup; “a cup of coffee” is the coffee in the cup.",
+   "These groups can take an adjective too: “a new shoe shop”, “a big football match”."
+  ],
+  "exemples": [
+   ["There's a bus stop in front of the school.", "bus + stop."],
+   ["My sister works in a shoe shop.", "“shoe” is singular."],
+   ["Let's watch the football match tonight.", "football + match."]
+  ]
+ }
+],
+"formule": "(a / an) + opinion + size + age + shape + colour + origin + material + NOUN · be / look / feel + adjective",
+"prononciation": [
+ "In adjective + noun, the main stress is on the noun: “a big HOUSE”, “a red CAR”.",
+ "In noun + noun, the stress is on the first noun: “a COFFEE cup”, “a BUS stop”, “a SHOE shop”.",
+ "“an” links to the next word: “an old car” = /ən ˈəʊld kɑː/ ≈ “a-nold car”.",
+ "“interesting” has three syllables: /ˈɪntrəstɪŋ/ (“in-tres-ting”), stress at the start.",
+ "“comfortable”: /ˈkʌmftəbl/, three syllables; “beautiful”: /ˈbjuːtɪfl/, stress on “beau”."
+],
+"erreurs": [
+ ["I've got a car red.", "I've got a red car.", "The adjective goes before the noun."],
+ ["They are reds cars.", "They are red cars.", "Adjectives never take an s."],
+ ["a French old house", "an old French house", "Age comes before origin."],
+ ["the persons importants", "the important people", "Adjective before the noun, no s; “people” is the plural of “person”."],
+ ["a shoes shop", "a shoe shop", "A noun used like an adjective stays singular."],
+ ["an asleep baby", "a sleeping baby", "“Asleep” goes only after the verb."],
+ ["She is a woman very nice.", "She's a very nice woman.", "Very + adjective goes before the noun."],
+ ["a wooden big table", "a big wooden table", "Size comes before material."]
+],
+"dialogue": {
+ "contexte": "At Brussels airport, Moana can't find her bag. She describes it to the man at the lost property office.",
+ "lignes": [
+  ["Agent", "Good morning. How can I help you?", "A polite offer of help."],
+  ["Moana", "I can't find my bag. I think it's on the plane from Montreal.", "can't = not able."],
+  ["Agent", "OK. What does it look like?", "A question about appearance."],
+  ["Moana", "It's a small black leather bag.", "size – colour – material."],
+  ["Agent", "Is it a backpack or a handbag?", "Two kinds of bag."],
+  ["Moana", "A handbag. It's got a long thin strap and a little silver key ring.", "Two adjectives before each noun."],
+  ["Agent", "Let me check… Is this your bag?", "Let me = I will."],
+  ["Moana", "No, that's a big brown bag. Mine is black.", "Adjective after be: is black."],
+  ["Agent", "And this one?", "one = bag."],
+  ["Moana", "Yes! That's it! Thank you so much!", "“That's it” = that is the right one."]
+ ]
+},
+"mots": [
+ ["beautiful", "What a beautiful garden!", "very nice to look at"],
+ ["ugly", "That building is really ugly.", "not nice to look at"],
+ ["huge", "They live in a huge house.", "very, very big"],
+ ["tiny", "My kitchen is tiny.", "very, very small"],
+ ["modern", "I like modern furniture.", "new and in the style of today"],
+ ["round", "We've got a round table.", "in the shape of a circle"],
+ ["wooden", "a wooden chair", "made of wood"],
+ ["leather", "a leather jacket", "animal skin used for shoes, bags and clothes"],
+ ["plastic", "Don't use plastic bags.", "a light material made in factories"],
+ ["cotton", "a white cotton shirt", "a soft material made from a plant"]
+],
+"exercices": [
+ {
+  "titre": "1. The position of the adjective",
+  "consigne": "Add the adjective in brackets in the right place.",
+  "items": [
+   ["I've got a car. (new)", "I've got a new car."],
+   ["They are students. (French)", "They are French students."],
+   ["It's a book. (interesting)", "It's an interesting book."],
+   ["She lives in a house. (big)", "She lives in a big house."],
+   ["You look today. (tired)", "You look tired today."]
+  ]
+ },
+ {
+  "titre": "2. The order of adjectives",
+  "consigne": "Put the adjectives in the right order before the noun.",
+  "items": [
+   ["a ___ bag (blue / small)", "a small blue bag"],
+   ["a ___ house (old / beautiful)", "a beautiful old house"],
+   ["a ___ car (Italian / red)", "a red Italian car"],
+   ["a ___ table (wooden / round)", "a round wooden table"],
+   ["___ shoes (leather / black)", "black leather shoes"],
+   ["a ___ man (young / tall)", "a tall young man"]
+  ]
+ },
+ {
+  "titre": "3. Noun + noun",
+  "consigne": "Make a compound noun.",
+  "items": [
+   ["a cup for coffee", "a coffee cup"],
+   ["a station for buses", "a bus station"],
+   ["a shop that sells shoes", "a shoe shop"],
+   ["a match of football", "a football match"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each phrase or sentence has one mistake. Write it correctly.",
+  "items": [
+   ["a car white", "a white car"],
+   ["reds flowers", "red flowers"],
+   ["a cotton beautiful dress", "a beautiful cotton dress"],
+   ["an old nice man", "a nice old man"],
+   ["Look, an asleep baby.", "Look, a sleeping baby. / Look, the baby is asleep."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Describe three things you like (a piece of clothing, a piece of furniture, a personal thing). Use at least two adjectives for each, in the right order.",
+  "items": [
+   ["Model answer", "I love my old blue jeans. In my living room there's a big round wooden table. And I always carry a small black leather wallet."]
+  ]
+ }
+],
+"a_retenir": [
+ "Adjective before the noun (a red car) or after be / look / feel / seem (The car is red).",
+ "Adjectives never change: no s, no female form (red cars, a tall woman).",
+ "Order: opinion – size – age – shape – colour – origin – material – noun (a beautiful old wooden table).",
+ "afraid, alone, asleep, awake, alive: only after the verb.",
+ "Noun + noun: the first noun stays singular (a shoe shop, a bus stop)."
+],
+"liens": [24, 25, 46, 88, 121],
+"refs": ["cam-adj", "bc-a1a2"]
+}

@@ -1,0 +1,626 @@
+{
+ "n": 112,
+ "niveau": "B1",
+ "titre": "Les verbes à particule du travail",
+ "intro": "Au bureau, les anglophones utilisent sans cesse des verbes à particule : on « sets up a meeting », on « follows up » un client, on « hands in » un rapport. Les connaître permet de comprendre les collègues et d'écrire des e-mails naturels, moins rigides qu'avec les seuls verbes d'origine latine.",
+ "objectifs": [
+  "Connaître une trentaine de verbes à particule courants du monde professionnel, classés par situation.",
+  "Savoir s'ils sont séparables ou non et placer correctement le complément.",
+  "Choisir entre le verbe à particule (plus courant) et son équivalent formel selon le registre.",
+  "Les utiliser dans des situations réelles : réunions, projets, téléphone, ressources humaines."
+ ],
+ "sections": [
+  {
+   "titre": "Organiser les réunions",
+   "texte": [
+    "Les réunions se planifient, se déplacent et s'annulent avec des verbes à particule. Attention à « bring forward » (avancer, mettre plus tôt) et « put off / push back » (repousser) : le français « avancer une réunion » se traduit par « bring forward », pas « move on »."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verbe",
+     "Sens",
+     "Type",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "set up",
+      "organiser, fixer",
+      "séparable",
+      "Can you set up a meeting with the client?"
+     ],
+     [
+      "call off",
+      "annuler",
+      "séparable",
+      "They called the meeting off. (= cancelled it)"
+     ],
+     [
+      "put off / push back",
+      "repousser, reporter",
+      "séparable",
+      "Let's push it back to Thursday."
+     ],
+     [
+      "bring forward",
+      "avancer (une date)",
+      "séparable",
+      "We've brought the deadline forward to Monday."
+     ],
+     [
+      "go over / run through",
+      "passer en revue",
+      "inséparable",
+      "Let's go over the figures before the meeting."
+     ],
+     [
+      "bring up",
+      "aborder (un sujet)",
+      "séparable",
+      "She brought up the budget problem."
+     ],
+     [
+      "sum up",
+      "résumer, récapituler",
+      "séparable",
+      "To sum up, sales are rising."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The director has called off tomorrow's meeting.",
+     "La directrice a annulé la réunion de demain."
+    ],
+    [
+     "Could we bring the call forward to 9 a.m.?",
+     "Pourrait-on avancer l'appel à 9 h ?"
+    ]
+   ]
+  },
+  {
+   "titre": "Mener des tâches et des projets",
+   "texte": [
+    "Ces verbes décrivent le travail lui-même : prendre en charge, réaliser, examiner, rendre. Plusieurs sont inséparables (deal with, look into) : le complément se place toujours après la particule, même un pronom (deal with it)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verbe",
+     "Sens",
+     "Type",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "carry out",
+      "réaliser, effectuer",
+      "séparable",
+      "We carried out a survey of 500 customers."
+     ],
+     [
+      "deal with",
+      "s'occuper de, traiter",
+      "inséparable",
+      "I'll deal with the complaint."
+     ],
+     [
+      "look into",
+      "étudier, examiner",
+      "inséparable",
+      "We're looking into the problem."
+     ],
+     [
+      "take on",
+      "accepter, prendre en charge ; embaucher",
+      "séparable",
+      "She took on a new project. / We're taking on two engineers."
+     ],
+     [
+      "hand in",
+      "remettre, rendre (un document)",
+      "séparable",
+      "Please hand in your report by Friday."
+     ],
+     [
+      "work out / figure out",
+      "trouver, comprendre",
+      "séparable",
+      "We need to work out the cost."
+     ],
+     [
+      "follow up (on)",
+      "assurer le suivi, relancer",
+      "séparable / inséparable",
+      "I'll follow up with the supplier. / I'll follow up on your request."
+     ],
+     [
+      "fall behind",
+      "prendre du retard",
+      "sans complément",
+      "We're falling behind schedule."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "We need to look into why the sales fell in May.",
+     "Nous devons examiner pourquoi les ventes ont baissé en mai (inséparable : look into it)."
+    ],
+    [
+     "I'm afraid we're falling behind with the Kinshasa project.",
+     "Je crains que nous prenions du retard sur le projet de Kinshasa."
+    ]
+   ]
+  },
+  {
+   "titre": "Au téléphone et par e-mail",
+   "texte": [
+    "Ces expressions sont indispensables pour les appels et la correspondance. « Get back to someone » (revenir vers quelqu'un, répondre plus tard) est l'une des formules les plus utiles dans un e-mail professionnel."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verbe",
+     "Sens",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "get back to (someone)",
+      "recontacter, répondre plus tard",
+      "I'll get back to you by Monday."
+     ],
+     [
+      "get through (to)",
+      "réussir à joindre",
+      "I couldn't get through to the bank."
+     ],
+     [
+      "put (someone) through",
+      "passer, transférer un appel",
+      "I'll put you through to Mr Mbarga."
+     ],
+     [
+      "hold on / hang on",
+      "patienter (au téléphone)",
+      "Hold on a moment, please."
+     ],
+     [
+      "call back / ring back (GB)",
+      "rappeler",
+      "Can she call you back later?"
+     ],
+     [
+      "catch up (on / with)",
+      "rattraper (le retard), faire le point",
+      "Let's catch up after lunch. / I need to catch up on my emails."
+     ],
+     [
+      "send out",
+      "envoyer (à plusieurs personnes)",
+      "We sent out the invitations last week."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Thanks for your email. I'll get back to you as soon as possible.",
+     "Merci pour votre e-mail. Je reviens vers vous dès que possible."
+    ],
+    [
+     "Hold on, I'll put you through to the accounts department.",
+     "Ne quittez pas, je vous passe le service comptabilité."
+    ]
+   ]
+  },
+  {
+   "titre": "Carrière et ressources humaines",
+   "texte": [
+    "Pour parler d'emploi, de recrutement et de départs. « Lay off » signifie licencier pour raison économique (sans faute de l'employé) ; « fire » ou « sack » (GB, familier) signifie renvoyer pour faute ou insuffisance."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verbe",
+     "Sens",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "apply for",
+      "postuler à, faire une demande de",
+      "She applied for a job in Toronto."
+     ],
+     [
+      "take over",
+      "reprendre, succéder",
+      "Paul will take over from me next month."
+     ],
+     [
+      "hand over",
+      "transmettre, passer le relais",
+      "I'll hand over my files before I leave."
+     ],
+     [
+      "step down",
+      "démissionner, quitter son poste (haut responsable)",
+      "The CEO stepped down in May."
+     ],
+     [
+      "lay off",
+      "licencier (raison économique)",
+      "The factory laid off 200 workers."
+     ],
+     [
+      "get on (well) with",
+      "bien s'entendre avec",
+      "I get on well with my colleagues."
+     ],
+     [
+      "turn down",
+      "refuser",
+      "He turned down the promotion."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Who will take over when Mrs Ateba retires?",
+     "Qui va reprendre le poste quand Mme Ateba partira à la retraite ?"
+    ],
+    [
+     "I applied for three jobs in Montreal last month.",
+     "J'ai postulé à trois emplois à Montréal le mois dernier."
+    ]
+   ]
+  },
+  {
+   "titre": "Registre : verbe à particule ou verbe formel ?",
+   "texte": [
+    "Dans un e-mail interne, une réunion ou une conversation, le verbe à particule est naturel et chaleureux. Dans un document officiel, un contrat ou une lettre très formelle, on préfère souvent l'équivalent d'origine latine.",
+    "Ne pas croire que les verbes à particule sont « familiers » : « carry out a survey », « deal with a complaint » apparaissent dans des rapports très sérieux. Mais le français pousse souvent à choisir le mot latin (« postpone », « investigate ») là où un anglophone dirait « put off », « look into »."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verbe à particule (courant)",
+     "Équivalent formel"
+    ],
+    "lignes": [
+     [
+      "call off",
+      "cancel"
+     ],
+     [
+      "put off",
+      "postpone"
+     ],
+     [
+      "look into",
+      "investigate"
+     ],
+     [
+      "carry out",
+      "conduct, perform"
+     ],
+     [
+      "hand in",
+      "submit"
+     ],
+     [
+      "take on (staff)",
+      "recruit, hire"
+     ],
+     [
+      "get back to",
+      "reply to, contact again"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "We're looking into what went wrong.",
+     "Nous examinons ce qui n'a pas marché (oral, e-mail)."
+    ],
+    [
+     "The company is investigating the incident.",
+     "L'entreprise enquête sur l'incident (communiqué officiel)."
+    ]
+   ]
+  }
+ ],
+ "formule": "verbe + particule (+ complément) : séparable → set it up ; inséparable → deal with it",
+ "prononciation": [
+  "L'accent principal tombe sur la particule : call OFF, set UP, hand IN, look INto (sur la 1re syllabe de into).",
+  "Les verbes à particule se lient au mot suivant : carry out a survey /ˌkæri ˈaʊt ə ˈsɜːveɪ/, set it up /ˌse tɪ ˈtʌp/.",
+  "« follow-up » (nom : le suivi) porte l'accent sur la première syllabe : a FOLlow-up ; le verbe « follow up » sur la particule : I'll follow UP.",
+  "Même règle pour « set-up », « hand-over », « lay-offs » : nom accentué au début, verbe accentué sur la particule."
+ ],
+ "erreurs": [
+  [
+   "We need to advance the meeting.",
+   "We need to bring the meeting forward.",
+   "« Avancer une réunion » = bring forward."
+  ],
+  [
+   "I'll deal it with.",
+   "I'll deal with it.",
+   "deal with est inséparable."
+  ],
+  [
+   "I'll come back to you tomorrow.",
+   "I'll get back to you tomorrow.",
+   "« Revenir vers vous » (répondre) = get back to you."
+  ],
+  [
+   "The meeting was called out.",
+   "The meeting was called off.",
+   "Annuler = call off."
+  ],
+  [
+   "Can you set it the meeting up?",
+   "Can you set the meeting up? / Can you set it up?",
+   "Un seul complément : le nom ou le pronom."
+  ],
+  [
+   "She postulated for the job.",
+   "She applied for the job.",
+   "« Postuler » = apply for (postulate = poser comme hypothèse)."
+  ],
+  [
+   "We hand on our reports every Friday.",
+   "We hand in our reports every Friday.",
+   "Rendre un document = hand in."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Réunion d'équipe en visioconférence entre Montréal et Douala. Sandra, responsable de projet, fait le point avec Eric et Nadine.",
+  "lignes": [
+   [
+    "Sandra",
+    "OK, let's start. First, let's go over the action points from last week.",
+    "Bon, commençons. D'abord, passons en revue les actions de la semaine dernière."
+   ],
+   [
+    "Eric",
+    "I've carried out the customer survey. I'll send out the results this afternoon.",
+    "J'ai réalisé l'enquête clients. J'envoie les résultats cet après-midi."
+   ],
+   [
+    "Sandra",
+    "Great. Nadine, did you deal with the supplier problem?",
+    "Parfait. Nadine, tu t'es occupée du problème avec le fournisseur ?"
+   ],
+   [
+    "Nadine",
+    "Not completely. I couldn't get through to them yesterday. I'll follow up this morning.",
+    "Pas complètement. Je n'ai pas réussi à les joindre hier. Je relance ce matin."
+   ],
+   [
+    "Sandra",
+    "Thanks. Now, the client wants to bring the launch forward to 15 March.",
+    "Merci. Maintenant, le client veut avancer le lancement au 15 mars."
+   ],
+   [
+    "Eric",
+    "That's tight. We're already falling behind. Could we push it back a week instead?",
+    "C'est serré. Nous prenons déjà du retard. On pourrait plutôt le repousser d'une semaine ?"
+   ],
+   [
+    "Sandra",
+    "I'll bring it up with them and get back to you by tomorrow.",
+    "Je vais en parler avec eux et je reviens vers vous d'ici demain."
+   ],
+   [
+    "Nadine",
+    "And if they say no, we may need to take on a freelancer.",
+    "Et s'ils disent non, il faudra peut-être engager un freelance."
+   ],
+   [
+    "Sandra",
+    "Good idea. To sum up: Eric sends the survey, Nadine calls the supplier, I talk to the client.",
+    "Bonne idée. Pour résumer : Eric envoie l'enquête, Nadine appelle le fournisseur, je parle au client."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "deadline",
+   "The deadline has been brought forward.",
+   "la date limite, l'échéance"
+  ],
+  [
+   "schedule",
+   "We're behind schedule.",
+   "le planning, le calendrier"
+  ],
+  [
+   "survey",
+   "We carried out a survey.",
+   "une enquête, un sondage"
+  ],
+  [
+   "supplier",
+   "I'll follow up with the supplier.",
+   "un fournisseur"
+  ],
+  [
+   "launch",
+   "The launch is in March.",
+   "le lancement ; lancer"
+  ],
+  [
+   "complaint",
+   "Who's dealing with this complaint?",
+   "une réclamation, une plainte"
+  ],
+  [
+   "freelancer",
+   "We hired a freelancer for the website.",
+   "un travailleur indépendant, un freelance"
+  ],
+  [
+   "promotion",
+   "She turned down the promotion.",
+   "une promotion (avancement)"
+  ],
+  [
+   "staff",
+   "We're taking on new staff.",
+   "le personnel"
+  ],
+  [
+   "action point",
+   "Let's go over the action points.",
+   "une action à mener (après une réunion)"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Associer",
+   "consigne": "Donne le verbe à particule qui correspond au verbe formel.",
+   "items": [
+    [
+     "cancel",
+     "call off"
+    ],
+    [
+     "postpone",
+     "put off / push back"
+    ],
+    [
+     "investigate",
+     "look into"
+    ],
+    [
+     "submit (a report)",
+     "hand in"
+    ],
+    [
+     "recruit",
+     "take on"
+    ],
+    [
+     "conduct (a survey)",
+     "carry out"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec la particule qui convient (up, off, with, into, forward, back, through, behind).",
+   "items": [
+    [
+     "The manager called ___ the meeting because half the team was ill.",
+     "off"
+    ],
+    [
+     "Can you look ___ why the invoice hasn't been paid?",
+     "into"
+    ],
+    [
+     "I tried to call Mr Ngono, but I couldn't get ___.",
+     "through"
+    ],
+    [
+     "We're falling ___ schedule. We need more people.",
+     "behind"
+    ],
+    [
+     "The client asked us to bring the deadline ___ by two days.",
+     "forward"
+    ],
+    [
+     "I'll get ___ to you after I speak to my boss.",
+     "back"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Pronom et ordre des mots",
+   "consigne": "Remplace le complément entre crochets par un pronom et place-le correctement.",
+   "items": [
+    [
+     "Could you set up [the video call]?",
+     "Could you set it up?"
+    ],
+    [
+     "I'll deal with [the complaints] tomorrow.",
+     "I'll deal with them tomorrow."
+    ],
+    [
+     "Please hand in [your timesheet] on Friday.",
+     "Please hand it in on Friday."
+    ],
+    [
+     "The board turned down [our proposal].",
+     "The board turned it down."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    [
+     "We must advance the meeting to 10 a.m.",
+     "We must bring the meeting forward to 10 a.m."
+    ],
+    [
+     "I'll come back to you with an answer.",
+     "I'll get back to you with an answer."
+    ],
+    [
+     "She postulated for a job in Brussels.",
+     "She applied for a job in Brussels."
+    ],
+    [
+     "Can you look it into?",
+     "Can you look into it?"
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un verbe à particule.",
+   "items": [
+    [
+     "La réunion est annulée.",
+     "The meeting has been called off. / They've called off the meeting."
+    ],
+    [
+     "Je vous passe le service client.",
+     "I'll put you through to customer service."
+    ],
+    [
+     "Elle s'entend bien avec son nouveau chef.",
+     "She gets on well with her new boss."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court e-mail (5 à 7 phrases) à ton équipe pour faire le point sur un projet, avec au moins six verbes à particule de cette leçon.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "Hi all, Here's a quick update on the website project. We've carried out the user tests and Marie will send out the report tomorrow. Unfortunately, we're falling behind schedule, so I've asked the client to push the launch back to 30 June. I'm still looking into the hosting problem and I'll get back to you on Friday. Could someone set up a call with the designer next week? Thanks, Joël"
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Réunions : set up, call off, put off / push back, bring forward, go over, sum up.",
+  "Tâches : carry out, deal with, look into, take on, hand in, work out, follow up.",
+  "Téléphone / e-mail : get back to, get through, put through, hold on, catch up.",
+  "Carrière : apply for, take over, hand over, step down, lay off, get on with.",
+  "Inséparables : deal with it, look into it ; séparables : set it up, call it off."
+ ],
+ "liens": [
+  72,
+  111,
+  127,
+  128
+ ],
+ "refs": [
+  "bc-phrasal",
+  "cam-verbs"
+ ]
+}

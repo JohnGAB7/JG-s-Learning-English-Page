@@ -1,0 +1,202 @@
+{
+"n": 83,
+"niveau": "A2",
+"titre": "Work and jobs",
+"intro": "“What do you do?” is one of the first questions people will ask you. In this lesson you learn to say your job (with the article “a”!), describe your work and your hours, talk about where you work and your conditions, and mention a change of job. You will use the present simple for habits and the present continuous for temporary situations.",
+"objectifs": [
+ "Ask and say what someone does with “I’m a / an…” and “I work as…”.",
+ "Describe your tasks, your working hours and your workplace.",
+ "Use the right prepositions: work for, work in, work at, work on, work as.",
+ "Talk about looking for a job and working conditions (full-time, salary, apply for…)."
+],
+"sections": [
+ {
+  "titre": "Saying your job",
+  "texte": [
+   "The natural question is “What do you do?” or “What do you do for a living?”. “What’s your job?” exists but is more direct.",
+   "Answer: “I’m a nurse.” “She’s an engineer.” In English the article “a / an” is necessary before a job in the singular. In the plural: “They’re teachers.”",
+   "Other answers: “I work as a receptionist.”, “I’m self-employed.” (I work for myself), “I’m unemployed / I’m looking for a job.”, “I’m retired.” (I stopped working because of my age), “I’m a student.”"
+  ],
+  "exemples": [
+   ["What do you do? — I’m an accountant.", "an before a vowel sound."],
+   ["My sister works as a nurse in a big hospital.", "work as + job."],
+   ["My father is retired. He was a taxi driver.", "Past job: was a…"]
+  ]
+ },
+ {
+  "titre": "Common jobs",
+  "texte": [
+   "Many job words end in -er, -or, -ist or -ian: “teach → teacher”, “act → actor”, “science → scientist”, “electric → electrician”.",
+   "Most job words are neutral in English: “a doctor”, “a teacher”, “a lawyer” are for men and women. Today people prefer “a police officer” (not policeman / policewoman), “a firefighter” (not fireman), “a flight attendant” (not steward / stewardess), and “an actor” for everyone.",
+   "Words that confuse learners: “a librarian” works in a library (a shop that sells books = a bookshop); “a chemist” (UK) = a pharmacist; “a physician” (mainly US) = a doctor, not a physicist."
+  ],
+  "tableau": {
+   "entetes": ["Job", "Where?", "What does he / she do?"],
+   "lignes": [
+    ["a nurse", "in a hospital", "looks after patients"],
+    ["a mechanic", "in a garage", "repairs cars"],
+    ["a lawyer", "in an office / at court", "gives legal advice"],
+    ["a farmer", "on a farm", "grows food, keeps animals"],
+    ["a shop assistant (US: sales clerk)", "in a shop", "helps customers"],
+    ["a software developer", "in an office / at home", "writes computer programs"],
+    ["an electrician", "in people’s homes", "installs and repairs electrical systems"]
+   ]
+  },
+  "exemples": [
+   ["She’s a software developer. She writes apps for banks.", "Job + what she does."],
+   ["He’s a farmer. He grows cocoa and coffee.", "grow = produce plants."],
+   ["My cousin is a librarian at the university.", "librarian = library."]
+  ]
+ },
+ {
+  "titre": "Work for, in, at, on, as",
+  "texte": [
+   "“work for” + company / boss: “I work for a bank.” “She works for Mr Diallo.”",
+   "“work in” + sector or general place: “I work in marketing / in tourism / in an office / in a hospital.” “work at” + a specific place: “He works at the Hilton / at Brussels Airport.”",
+   "“work as” + job: “I work as a translator.” “work on” + project: “We’re working on a new website.” “work from home”: do your job at home."
+  ],
+  "exemples": [
+   ["I work for a telecom company in Douala.", "work for + company."],
+   ["She works in finance, at a big bank in Toronto.", "in + sector, at + place."],
+   ["This month we’re working on a new project.", "work on + project (temporary: present continuous)."],
+   ["I work from home on Mondays and Fridays.", "work from home."]
+  ]
+ },
+ {
+  "titre": "Describing your work and hours",
+  "texte": [
+   "For habits, use the present simple: “I start at eight and finish at five.” “I deal with customers.” (I help and talk to them), “I’m responsible for the accounts.”, “I travel a lot for work.”",
+   "For a temporary situation, use the present continuous (lesson 9): “I’m working in Brussels this month.” “I’m training a new colleague at the moment.”",
+   "Hours and contracts: “full-time”, “part-time”, “shifts” (fixed periods of work, e.g. “I work night shifts”), “overtime” (extra hours), “a day off”, “on holiday” (US “on vacation”)."
+  ],
+  "exemples": [
+   ["I work full-time, from Monday to Friday.", "full-time = about 35–40 hours a week."],
+   ["Nurses often work night shifts.", "shift = a period of work."],
+   ["I’m responsible for ten people in my team.", "responsible for."]
+  ]
+ },
+ {
+  "titre": "Looking for a job, changing jobs",
+  "texte": [
+   "Vocabulary: “a job” (countable), “work” (uncountable: never “a work” for a job), “a career”, “a colleague” (a person you work with), “a boss / a manager”.",
+   "The steps: “look for a job”, “apply for a job”, “send your CV” (US “résumé”), “have an interview”, “get the job”, “earn a salary” (money paid every year or month) or “wages” (money paid per hour or week).",
+   "Changes: “I’ve just changed jobs.” “She got a promotion.” (a better job in the same company); “He lost his job.”; “I resigned” or “I quit” (I left my job; “quit” is more informal)."
+  ],
+  "exemples": [
+   ["I’m looking for a new job. I applied for three jobs last week.", "apply for."],
+   ["She had an interview yesterday and she got the job!", "have an interview, get the job."],
+   ["He earns a good salary, but he works long hours.", "earn = receive money for work."]
+  ],
+  "note": "Careful: “I have a lot of work” (uncountable), but “I have two jobs” (countable). And for the daily trip to work, say “commute”: “I commute to work by train.”"
+ }
+],
+"formule": "What do you do? — I’m a / an + job. · I work as a… · I work for + company / in + sector / at + place. · I’m responsible for… · I work full-time / part-time.",
+"prononciation": [
+ "“engineer” /ˌendʒɪˈnɪə/: stress on the last syllable, “en-ji-NEER”.",
+ "“accountant” /əˈkaʊntənt/: stress on “COUNT”.",
+ "“colleague” /ˈkɒliːɡ/: stress on the first syllable, “KOL-eeg”.",
+ "“career” /kəˈrɪə/: stress on the second syllable, “kuh-REER”; don’t confuse it with “Korea”.",
+ "“nurse” /nɜːs/: the vowel /ɜː/ as in “bird”; “work” /wɜːk/ too.",
+ "“What do you do?” is often very fast: /wɒdʒə ˈduː/, “wotcha DOO?”."
+],
+"erreurs": [
+ ["I am teacher.", "I am a teacher.", "Use “a / an” before a job."],
+ ["What is your work?", "What do you do?", "The natural question about jobs."],
+ ["I have found a work.", "I have found a job.", "“work” is uncountable; use “a job”."],
+ ["I work in Orange.", "I work for Orange.", "Company: work for."],
+ ["I'm responsible of the team.", "I'm responsible for the team.", "responsible for."],
+ ["She postulated for the job.", "She applied for the job.", "The verb is “apply for”."],
+ ["He works like a waiter.", "He works as a waiter.", "Job / role: as."],
+ ["My sister is librarian in a bookshop.", "My sister is a bookseller. / She works in a bookshop.", "A librarian works in a library."]
+],
+"dialogue": {
+ "contexte": "At a wedding in Ottawa, Samuel (from Cameroon) meets Claire, a Canadian guest.",
+ "lignes": [
+  ["Claire", "So, what do you do, Samuel?", "The natural question."],
+  ["Samuel", "I’m an engineer. I work for a solar energy company.", "an + job; work for + company."],
+  ["Claire", "That sounds interesting! What does your job involve?", "involve = what tasks are part of it."],
+  ["Samuel", "I design solar panels for schools and hospitals. I travel a lot for work.", "Present simple: habits."],
+  ["Claire", "Do you like it?", "A simple follow-up question."],
+  ["Samuel", "Yes, I love it, but I work long hours. And you?", "long hours = many hours."],
+  ["Claire", "I’m a nurse. I work at the General Hospital, but only part-time now.", "at + specific place."],
+  ["Samuel", "Do you work night shifts?", "shifts."],
+  ["Claire", "Sometimes. And at the moment I’m studying to become a midwife.", "Temporary: present continuous. A midwife helps women give birth."],
+  ["Samuel", "Wow, good luck with that!", "Encouraging."]
+ ]
+},
+"mots": [
+ ["job", "She’s got a new job in a bank.", "the regular work you are paid for"],
+ ["colleague", "My colleagues are very friendly.", "a person you work with"],
+ ["full-time", "I work full-time, forty hours a week.", "for all the normal working hours"],
+ ["part-time", "He’s got a part-time job at the weekend.", "for only some of the normal working hours"],
+ ["shift", "I’m on the night shift this week.", "a fixed period of work, e.g. at night"],
+ ["apply for", "I want to apply for that job.", "ask officially for a job, often in writing"],
+ ["interview", "I’ve got a job interview on Monday.", "a meeting where an employer asks you questions"],
+ ["salary", "The salary is good, but the hours are long.", "money you are paid for your job every year or month"],
+ ["retired", "My grandmother is retired.", "no longer working because of age"],
+ ["self-employed", "He’s self-employed: he’s a photographer.", "working for yourself, not for a company"]
+],
+"exercices": [
+ {
+  "titre": "1. Which job?",
+  "consigne": "Read the description and give the job with “a” or “an”.",
+  "items": [
+   ["This person repairs cars.", "a mechanic"],
+   ["This person looks after patients in a hospital.", "a nurse"],
+   ["This person works in a library.", "a librarian"],
+   ["This person installs and repairs electrical systems.", "an electrician"],
+   ["This person grows food and keeps animals.", "a farmer"]
+  ]
+ },
+ {
+  "titre": "2. The right preposition",
+  "consigne": "Complete with for, in, at, as or on.",
+  "items": [
+   ["I work ___ a big insurance company.", "for"],
+   ["She works ___ a waitress at the weekend.", "as"],
+   ["He works ___ tourism.", "in"],
+   ["We’re working ___ a new app this month.", "on"],
+   ["My mother works ___ Douala Airport.", "at"],
+   ["I’m responsible ___ the budget.", "for"]
+  ]
+ },
+ {
+  "titre": "3. Job or work?",
+  "consigne": "Complete with “job” or “work”.",
+  "items": [
+   ["I’ve got a lot of ___ today.", "work"],
+   ["She’s got a new ___ in Montreal.", "job"],
+   ["I go to ___ by bus.", "work"],
+   ["He’s looking for a part-time ___.", "job"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I’m nurse.", "I’m a nurse."],
+   ["What do you do in the life?", "What do you do?"],
+   ["He works like a waiter.", "He works as a waiter."],
+   ["I applied to a job yesterday.", "I applied for a job yesterday."],
+   ["She works part-times.", "She works part-time."],
+   ["I’m looking for a work.", "I’m looking for work. / I’m looking for a job."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Present your job (or a relative’s job) in 5 or 6 sentences: job, employer or sector, tasks, hours, what you like or don’t like.",
+  "items": [
+   ["Model answer", "I’m an accountant. I work for a small transport company in Yaoundé. I’m responsible for the accounts and I deal with our banks and customers. I work full-time, from eight to five, and I work from home on Fridays. I like my colleagues and my job is interesting, but sometimes I have to work overtime at the end of the month. Next year I’d like to apply for a manager’s job."]
+  ]
+ }
+],
+"a_retenir": [
+ "What do you do? — I’m a nurse / an engineer. Always use “a / an” before a job.",
+ "work for + company · in + sector / place · at + specific place · as + role · on + project.",
+ "“a job” is countable, “work” is uncountable: I’ve got a lot of work / a new job.",
+ "Habits: present simple (I start at eight); temporary situations: present continuous (I’m working in Brussels this month).",
+ "Vocabulary: full-time, part-time, shifts, apply for, interview, salary, retired, self-employed."
+],
+"liens": [6, 8, 9, 59, 84],
+"refs": ["bc-a1a2", "cam-nouns"]
+}

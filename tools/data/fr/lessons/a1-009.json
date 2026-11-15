@@ -1,0 +1,209 @@
+{
+ "n": 9,
+ "niveau": "A1",
+ "titre": "Présent simple ou présent continu ?",
+ "intro": "Le français a un seul présent, l'anglais en a deux. Savoir choisir entre « I work » et « I'm working » est l'une des clés de l'anglais : cette leçon rassemble les critères, les mots signaux et les verbes pièges.",
+ "objectifs": [
+  "Choisir entre présent simple et présent continu selon le sens : habitude ou action en cours, permanent ou temporaire.",
+  "Repérer les mots signaux de chaque temps.",
+  "Reconnaître les verbes d'état qui restent au présent simple (know, want, like…).",
+  "Comprendre les verbes à double sens (think, have, see, taste) et la différence entre « What do you do? » et « What are you doing? »."
+ ],
+ "sections": [
+  {
+   "titre": "La règle de base en un tableau",
+   "texte": [
+    "Le présent simple regarde la vie en général : ce qui se répète, ce qui est vrai, ce qui dure. Le présent continu regarde le moment : ce qui est en train de se passer ou ce qui est provisoire.",
+    "Pose-toi la question : « Est-ce une habitude ou une vérité ? » → présent simple. « Est-ce en cours maintenant, ou seulement pour une période limitée ? » → présent continu."
+   ],
+   "tableau": {
+    "entetes": ["Présent simple", "Présent continu"],
+    "lignes": [
+     ["habitude : I walk to work.", "action en cours : I'm walking to work now."],
+     ["situation permanente : She lives in Douala.", "situation temporaire : She's living with a friend this month."],
+     ["vérité générale : Water boils at 100 °C.", "changement en cours : The water is getting hot."],
+     ["horaire : The train leaves at 8.", "projet organisé : I'm leaving tomorrow (leçon 50)."],
+     ["verbes d'état : I know, I want, I like.", "verbes d'action seulement."]
+    ]
+   }
+  },
+  {
+   "titre": "Les mots signaux",
+   "texte": [
+    "Certains mots orientent fortement le choix. Ce ne sont pas des règles absolues, mais de très bons indices.",
+    "Présent simple : always, usually, often, sometimes, never, every day / week, on Mondays, at the weekend, once a week, in general.",
+    "Présent continu : now, right now, at the moment, today, this week / month / year, these days, currently, Look!, Listen!"
+   ],
+   "exemples": [
+    ["I usually drink tea, but today I'm drinking coffee.", "D'habitude je bois du thé, mais aujourd'hui je bois du café."],
+    ["He works in Liège, but this week he's working in Namur.", "Il travaille à Liège, mais cette semaine il travaille à Namur."],
+    ["Listen! The neighbours are arguing again.", "Écoute ! Les voisins se disputent encore."],
+    ["We go to the market every Saturday.", "Nous allons au marché tous les samedis."]
+   ]
+  },
+  {
+   "titre": "« What do you do? » ou « What are you doing? »",
+   "texte": [
+    "Ces deux questions se ressemblent, mais leur sens est très différent. « What do you do? » (présent simple) demande le métier : que fais-tu dans la vie ? « What are you doing? » (présent continu) demande l'activité du moment : qu'es-tu en train de faire ?",
+    "De même, « Where do you live? » demande l'adresse permanente, tandis que « Where are you staying? » demande où l'on loge pendant un séjour."
+   ],
+   "exemples": [
+    ["What do you do? — I'm a pharmacist.", "Que fais-tu dans la vie ? — Je suis pharmacien."],
+    ["What are you doing? — I'm looking for my keys.", "Qu'est-ce que tu fais ? — Je cherche mes clés."],
+    ["Where are you staying? — At a hotel near the station.", "Où loges-tu ? — Dans un hôtel près de la gare."]
+   ]
+  },
+  {
+   "titre": "Les verbes d'état",
+   "texte": [
+    "Les verbes d'état décrivent une pensée, un sentiment, une perception ou une possession, pas une action. On les emploie normalement au présent simple, même pour parler de l'instant présent.",
+    "C'est un piège classique : le français dit « je veux un café maintenant » et l'apprenant pense « maintenant = -ing ». Mais « want » est un verbe d'état : I want a coffee now."
+   ],
+   "tableau": {
+    "entetes": ["Catégorie", "Verbes", "Exemple"],
+    "lignes": [
+     ["goûts, sentiments", "like, love, hate, prefer, want, need", "I need help now."],
+     ["pensée, connaissance", "know, understand, believe, remember, forget, mean, think (= avoir une opinion)", "Do you understand me?"],
+     ["perception", "see, hear, smell, taste (involontaires)", "I can't see anything. / I hear music."],
+     ["possession, appartenance", "have (= posséder), own, belong", "This bag belongs to Ana."],
+     ["description", "seem, look like, cost, weigh, contain", "This phone costs 300 euros."]
+    ]
+   },
+   "note": "À l'oral, on entend parfois « I'm loving it » (slogan publicitaire) : c'est un usage familier et expressif, à éviter dans tes phrases."
+  },
+  {
+   "titre": "Les verbes à double sens",
+   "texte": [
+    "Quelques verbes sont des verbes d'état dans un sens et des verbes d'action dans un autre. Dans le sens « action », ils acceptent le présent continu.",
+    "Le plus courant : « think ». I think it's a good idea (= mon opinion, état) / I'm thinking about my holiday (= je réfléchis, action)."
+   ],
+   "tableau": {
+    "entetes": ["Verbe", "Sens d'état (présent simple)", "Sens d'action (présent continu)"],
+    "lignes": [
+     ["think", "I think you're right. (opinion)", "I'm thinking about it. (réfléchir)"],
+     ["have", "She has two cars. (posséder)", "She's having lunch. (manger)"],
+     ["see", "I see what you mean. (comprendre)", "I'm seeing the doctor at five. (rencontrer)"],
+     ["taste", "This soup tastes good. (avoir un goût)", "He's tasting the soup. (goûter)"],
+     ["look", "You look tired. (sembler)", "I'm looking at the map. (regarder)"]
+    ]
+   },
+   "exemples": [
+    ["What do you think of my new haircut?", "Qu'est-ce que tu penses de ma nouvelle coupe ? (opinion)"],
+    ["What are you thinking about?", "À quoi penses-tu ? (réflexion en cours)"]
+   ]
+  }
+ ],
+ "formule": "Habitude, vérité, permanent, état → I work / I know · En cours, temporaire, changement → I'm working",
+ "prononciation": [
+  "Dans les phrases au présent continu, l'auxiliaire est réduit et lié : she's working /ʃiːz ˈwɜːkɪŋ/, we're /wɪə/ ou /wə/.",
+  "Ne laisse pas tomber le -s du présent simple : she works /wɜːks/, ni la forme courte du continu : she's working. Ce sont les deux sons qui distinguent les temps à l'oral.",
+  "« What do you do? » se dit souvent /wɒt də jə ˈduː/, avec l'accent sur le dernier « do ». « What are you doing? » : accent sur DO-ing.",
+  "Pour contraster deux phrases, on accentue les mots signaux : I USUALLY drink tea, but TODAY I'm drinking coffee."
+ ],
+ "erreurs": [
+  ["I'm knowing her very well.", "I know her very well.", "« Know » est un verbe d'état : présent simple."],
+  ["Look! The bus comes.", "Look! The bus is coming.", "Action en cours (Look!) → présent continu."],
+  ["I'm going to the gym every Monday.", "I go to the gym every Monday.", "Habitude (every Monday) → présent simple."],
+  ["What are you doing? — I'm a teacher.", "What do you do? — I'm a teacher.", "Pour le métier, on demande « What do you do? »."],
+  ["She's having a new car.", "She has a new car. / She's got a new car.", "« Have » = posséder : présent simple."],
+  ["I'm not understanding this exercise.", "I don't understand this exercise.", "« Understand » est un verbe d'état."],
+  ["Water is boiling at 100 degrees.", "Water boils at 100 degrees.", "Vérité générale → présent simple."]
+ ],
+ "dialogue": {
+  "contexte": "Dans un train entre Paris et Bruxelles, deux voyageurs font connaissance.",
+  "lignes": [
+   ["Hugo", "Excuse me, is this seat free? — Thanks. Are you going to Brussels too?", "Excusez-moi, cette place est libre ? — Merci. Vous allez aussi à Bruxelles ?"],
+   ["Awa", "Yes. I live in Paris, but I'm working in Brussels this month.", "Oui. J'habite à Paris, mais je travaille à Bruxelles ce mois-ci."],
+   ["Hugo", "Oh, really? What do you do?", "Ah bon ? Que faites-vous dans la vie ?"],
+   ["Awa", "I'm a translator. I usually work at home, but now I'm helping a team at the European Parliament.", "Je suis traductrice. D'habitude je travaille chez moi, mais en ce moment j'aide une équipe au Parlement européen."],
+   ["Hugo", "Interesting! And what are you reading?", "Intéressant ! Et qu'est-ce que vous lisez ?"],
+   ["Awa", "A novel by a Cameroonian writer. I love it. Do you know Léonora Miano?", "Un roman d'une autrice camerounaise. Je l'adore. Vous connaissez Léonora Miano ?"],
+   ["Hugo", "Yes, I know her books! I think they're excellent.", "Oui, je connais ses livres ! Je pense qu'ils sont excellents."],
+   ["Awa", "Oh look, we're arriving. The train is slowing down.", "Oh regardez, nous arrivons. Le train ralentit."]
+  ]
+ },
+ "mots": [
+  ["usually", "I usually take the train.", "d'habitude"],
+  ["currently", "She's currently living in Ghent.", "actuellement"],
+  ["these days", "I'm very busy these days.", "ces temps-ci"],
+  ["stay", "Where are you staying?", "loger, séjourner ; rester"],
+  ["know", "Do you know the answer?", "savoir, connaître"],
+  ["believe", "I believe you.", "croire"],
+  ["prefer", "I prefer tea to coffee.", "préférer"],
+  ["belong", "This book belongs to me.", "appartenir"],
+  ["cost", "How much does it cost?", "coûter"],
+  ["seem", "He seems happy today.", "sembler, avoir l'air"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Habitude ou maintenant ?",
+   "consigne": "Choisis la bonne forme.",
+   "items": [
+    ["I (go / am going) to work by bike every day.", "go"],
+    ["Be quiet! The baby (sleeps / is sleeping).", "is sleeping"],
+    ["She (doesn't eat / isn't eating) meat. She's vegetarian.", "doesn't eat"],
+    ["Where's Paul? — He (has / is having) a shower.", "is having"],
+    ["I (don't know / am not knowing) his address.", "don't know"],
+    ["This week we (work / are working) on a new project.", "are working"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Mets le verbe entre parenthèses au présent simple ou au présent continu.",
+   "items": [
+    ["My father ___ (cook) every Sunday, but today my mother ___ (cook).", "cooks … is cooking"],
+    ["___ you ___ (understand) the question?", "Do … understand"],
+    ["Look! It ___ (snow).", "is snowing / 's snowing"],
+    ["Nadia ___ (not / work) today. She's ill.", "isn't working / is not working"],
+    ["This bag ___ (belong) to my sister.", "belongs"]
+   ]
+  },
+  {
+   "titre": "3. Verbes à double sens",
+   "consigne": "Complète avec la bonne forme de think, have ou look.",
+   "items": [
+    ["I ___ it's a great idea. (think)", "think"],
+    ["Quiet, please! I ___ about the answer. (think)", "'m thinking / am thinking"],
+    ["We ___ dinner now. Can I call you later? (have)", "'re having / are having"],
+    ["You ___ tired. Go to bed! (look)", "look"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I'm wanting a glass of water.", "I want a glass of water."],
+    ["He plays football now.", "He's playing football now. / He is playing football now."],
+    ["Are you liking this music?", "Do you like this music?"],
+    ["They're visiting their grandmother every summer.", "They visit their grandmother every summer."],
+    ["What are you doing? — I'm an engineer.", "What do you do? — I'm an engineer."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Je travaille à Québec, mais cette semaine je travaille à Montréal.", "I work in Québec City, but this week I'm working in Montréal."],
+    ["Tu comprends ? — Non, je ne comprends pas.", "Do you understand? — No, I don't (understand)."],
+    ["Qu'est-ce que tu fais ? — Je prépare le dîner.", "What are you doing? — I'm making dinner. / I'm cooking dinner."],
+    ["Je pense que tu as raison.", "I think you're right."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court paragraphe (4 à 5 phrases) qui oppose ta routine habituelle et ce que tu fais cette semaine ou aujourd'hui. Utilise au moins un verbe d'état.",
+   "items": [
+    ["Exemple de réponse", "I usually work in an office in Lille, and I take the metro every morning. But this week I'm working from home because my daughter is ill. Right now she's sleeping and I'm writing emails. I love my job, but I prefer working at the office."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Présent simple : habitudes, vérités, situations permanentes, horaires, verbes d'état.",
+  "Présent continu : action en cours, situation temporaire, changement en cours.",
+  "Mots signaux : every day, usually, never → simple ; now, at the moment, this week, Look! → continu.",
+  "Verbes d'état (know, want, like, need, understand, belong) : présent simple même maintenant.",
+  "Think, have, see, taste, look changent de sens : I think so (opinion) / I'm thinking (réflexion)."
+ ],
+ "liens": [6, 7, 8, 50],
+ "refs": ["bc-presentsimple", "bc-stative"]
+}

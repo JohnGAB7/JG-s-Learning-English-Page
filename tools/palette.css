@@ -1,0 +1,124 @@
+/* ==========================================================================
+   JG's Learning English — colour palette
+   The single source of truth for every colour on the site. The build also
+   rewrites the inherited theme files (main.css, premium.css) so that they
+   point to these variables instead of their own hard-coded values.
+   Rules: forest green + ivory are the base; soft gold is for accents only;
+   each workshop colour marks the same workshop everywhere.
+   ========================================================================== */
+
+:root {
+  /* ----- Brand palette ---------------------------------------------- */
+  --forest:        #173A36;   /* Forest Green: base, hero, headings */
+  --ivory:         #F7F5EF;   /* Ivory: page background */
+  --soft-gold:     #C9A96E;   /* Soft Gold: accents only */
+  --sage:          #A8B8A2;   /* Sage Green: secondary accents */
+  --deep-teal:     #315C57;   /* Deep Teal: links, labels */
+  --warm-white:    #FFFEFA;   /* Warm White: cards, panels */
+  --charcoal:      #292D2B;   /* Charcoal: body text */
+  --muted-grey:    #777D77;   /* Muted Grey: captions on large text only */
+
+  /* ----- The six workshops ------------------------------------------ */
+  --ws-listening:     #7896A8;  /* Listening Studio */
+  --ws-pronunciation: #B97858;  /* Pronunciation Lab */
+  --ws-reading:       #8FA58A;  /* Reading Room */
+  --ws-writing:       #B98268;  /* Writing Workshop */
+  --ws-vocabulary:    #C9A96E;  /* Vocabulary & Expressions */
+  --ws-memory:        #547F80;  /* Memory & Review */
+
+  /* ----- Derived shades (kept here so nothing is hard-coded elsewhere) */
+  --forest-deep:   #0F2926;
+  --forest-2:      #21504A;
+  --forest-rgb:    23, 58, 54;
+  --gold-rgb:      201, 169, 110;
+  --teal-rgb:      49, 92, 87;
+  --ivory-rgb:     247, 245, 239;
+  --on-dark:       #F7F5EF;   /* text on forest */
+  --on-dark-muted: #CDD5CC;   /* secondary text on forest (AA) */
+  --gold-on-dark:  #D9BF8C;   /* gold text on forest (AA) */
+
+  --radius:        22px;
+  --shadow:        0 24px 64px rgba(var(--forest-rgb), .10);
+}
+
+/* ----- Light theme (default) ----------------------------------------- */
+:root,
+:root[data-theme="light"] {
+  --ink:        var(--forest);
+  --ink-2:      var(--deep-teal);
+  --ink-3:      #3E4743;
+  --text:       var(--charcoal);
+  --muted:      #5D635D;           /* Muted Grey darkened to reach 4.5:1 on ivory */
+  --muted-2:    var(--muted-grey);
+  --paper:      var(--ivory);
+  --paper-2:    #EFEBE1;
+  --surface:    var(--warm-white);
+  --surface-2:  #FAF8F2;
+  --line:       #E3DFD3;
+  --line-2:     #CEC8B8;
+  --teal:       var(--deep-teal);
+  --teal-2:     #3D6F69;
+  --teal-ink:   var(--forest);
+  --teal-soft:  #E7EEEA;
+  --gold:       var(--soft-gold);
+  --gold-2:     #B8955A;
+  --gold-soft:  #F4EDDF;
+  --gold-line:  #E6D6B5;
+  --gold-text:  #7F6230;           /* gold for small text on light backgrounds (AA) */
+  --gold-deep:  #97753D;           /* gold for large numerals on light backgrounds (3:1) */
+  --on-gold:    var(--forest);     /* text on a gold button */
+}
+
+/* ----- Dark theme (follows the system, or the toggle) ------------------ */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink:        var(--ivory);
+    --ink-2:      #E2DED2;
+    --ink-3:      #CFCBBE;
+    --text:       #E6E3D9;
+    --muted:      #AFB6AE;
+    --muted-2:    #8E968D;
+    --paper:      #0D1C1A;
+    --paper-2:    #112421;
+    --surface:    #142A27;
+    --surface-2:  #19322E;
+    --line:       #24403B;
+    --line-2:     #345650;
+    --teal:       var(--sage);
+    --teal-2:     #BCCAB6;
+    --teal-ink:   #D5DED2;
+    --teal-soft:  #1C3833;
+    --gold:       var(--soft-gold);
+    --gold-2:     #D9BF8C;
+    --gold-soft:  #2E2B1E;
+    --gold-line:  #4A4129;
+    --gold-text:  var(--soft-gold);
+    --gold-deep:  var(--soft-gold);
+    --on-gold:    var(--forest-deep);
+  }
+}
+:root[data-theme="dark"] {
+  --ink:        var(--ivory);
+  --ink-2:      #E2DED2;
+  --ink-3:      #CFCBBE;
+  --text:       #E6E3D9;
+  --muted:      #AFB6AE;
+  --muted-2:    #8E968D;
+  --paper:      #0D1C1A;
+  --paper-2:    #112421;
+  --surface:    #142A27;
+  --surface-2:  #19322E;
+  --line:       #24403B;
+  --line-2:     #345650;
+  --teal:       var(--sage);
+  --teal-2:     #BCCAB6;
+  --teal-ink:   #D5DED2;
+  --teal-soft:  #1C3833;
+  --gold:       var(--soft-gold);
+  --gold-2:     #D9BF8C;
+  --gold-soft:  #2E2B1E;
+  --gold-line:  #4A4129;
+  --gold-text:  var(--soft-gold);
+  --gold-deep:  var(--soft-gold);
+  --on-gold:    var(--forest-deep);
+}

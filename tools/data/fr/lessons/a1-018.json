@@ -1,0 +1,205 @@
+{
+ "n": 18,
+ "niveau": "A1",
+ "titre": "Les prépositions de temps (at, on, in)",
+ "intro": "At, on et in servent à situer un moment : at 8 o'clock, on Monday, in June. Le choix suit une logique simple, du plus précis (at) au plus large (in), avec quelques expressions fixes à retenir.",
+ "objectifs": [
+  "Utiliser at pour l'heure et les moments précis, on pour les jours et les dates, in pour les mois, les saisons, les années et les parties de la journée.",
+  "Retenir les exceptions : at night, at the weekend, on Monday morning.",
+  "Savoir quand ne pas mettre de préposition : this, next, last, every, today, tomorrow.",
+  "Utiliser from… to, until, before et after pour une durée ou un repère simple."
+ ],
+ "sections": [
+  {
+   "titre": "La pyramide : at, on, in",
+   "texte": [
+    "Imagine une pyramide : en haut, le plus précis (at + une heure) ; au milieu, un jour (on) ; en bas, les périodes plus longues (in + mois, saison, année, siècle).",
+    "C'est la nature du moment qui décide, pas le verbe ni la langue maternelle."
+   ],
+   "tableau": {
+    "entetes": ["Préposition", "Avec", "Exemples"],
+    "lignes": [
+     ["at", "l'heure, un moment précis", "at 7 o'clock, at half past six, at noon, at midnight, at lunchtime, at the moment"],
+     ["at", "les fêtes (période entière), le week-end (GB)", "at Christmas, at Easter, at the weekend"],
+     ["on", "les jours", "on Monday, on Fridays, on my birthday, on Christmas Day"],
+     ["on", "les dates", "on 5 May, on 21 March 2026"],
+     ["in", "les mois, saisons, années, siècles", "in June, in (the) winter, in 2025, in the 21st century"],
+     ["in", "les parties de la journée", "in the morning, in the afternoon, in the evening"]
+    ]
+   },
+   "exemples": [
+    ["The meeting is at ten o'clock.", "La réunion est à dix heures."],
+    ["I don't work on Sundays.", "Je ne travaille pas le dimanche."],
+    ["My birthday is in April.", "Mon anniversaire est en avril."],
+    ["We go to the beach in summer.", "Nous allons à la plage en été."]
+   ]
+  },
+  {
+   "titre": "Les exceptions à connaître",
+   "texte": [
+    "On dit « in the morning / in the afternoon / in the evening », mais « at night » (la nuit, le soir tard) sans article.",
+    "Quand on précise le jour, c'est « on » qui l'emporte : on Monday morning, on Friday evening, on the morning of 3 May.",
+    "Le week-end : « at the weekend » en anglais britannique, « on the weekend » en anglais américain. Pour les fêtes : « at Christmas » (la période de Noël), mais « on Christmas Day » (le jour du 25)."
+   ],
+   "exemples": [
+    ["I can't sleep at night.", "Je n'arrive pas à dormir la nuit."],
+    ["See you on Saturday afternoon!", "À samedi après-midi !"],
+    ["What do you do at the weekend?", "Que fais-tu le week-end ? (GB ; US : on the weekend)"],
+    ["We visit our family at Christmas.", "Nous rendons visite à notre famille à Noël."]
+   ]
+  },
+  {
+   "titre": "Pas de préposition",
+   "texte": [
+    "On ne met ni at, ni on, ni in devant this, next, last, every, ni devant today, tomorrow, yesterday, tonight. On dit « next Monday », pas « on next Monday » ; « this morning », pas « in this morning ».",
+    "C'est une erreur fréquente, car le français dit parfois « le » ou « ce » à la place : « lundi prochain » → next Monday ; « tous les jours » → every day ; « ce soir » → tonight / this evening."
+   ],
+   "tableau": {
+    "entetes": ["Faux", "Correct"],
+    "lignes": [
+     ["on next Friday", "next Friday"],
+     ["in this morning", "this morning"],
+     ["at tomorrow", "tomorrow"],
+     ["on every Monday", "every Monday"],
+     ["in last year", "last year"]
+    ]
+   },
+   "exemples": [
+    ["I'm busy this afternoon.", "Je suis occupé cet après-midi."],
+    ["Our exam is next Thursday.", "Notre examen est jeudi prochain."]
+   ]
+  },
+  {
+   "titre": "Dire une date",
+   "texte": [
+    "À l'écrit britannique : on 5 May ou on 5th May ; à l'écrit américain : on May 5 ou on May 5th. À l'oral, on dit le nombre ordinal : « on the fifth of May » (GB) ou « on May fifth » (US). Les nombres ordinaux (first, second, third…) sont détaillés aux leçons 22 et 89.",
+    "Pour une année seule : in 2026 (« in twenty twenty-six »). Pour un mois et une année : in May 2026."
+   ],
+   "exemples": [
+    ["The concert is on 14 July.", "Le concert est le 14 juillet (oral : on the fourteenth of July)."],
+    ["She was born in 1998.", "Elle est née en 1998 (« born » : forme passive à retenir telle quelle)."]
+   ]
+  },
+  {
+   "titre": "From… to, until, before, after",
+   "texte": [
+    "Pour une période avec un début et une fin : « from … to … » ou « from … until … » : The shop is open from 9 to 6. « Until » (ou « till », plus familier) marque la limite de fin : I work until five.",
+    "« Before » (avant) et « after » (après) se placent devant un moment ou un nom : before lunch, after work, after ten o'clock. Pour une durée dans le futur, « in » veut dire « dans » : The bus leaves in ten minutes (dans dix minutes)."
+   ],
+   "exemples": [
+    ["The bank is open from Monday to Friday.", "La banque est ouverte du lundi au vendredi."],
+    ["I'm at the office until six.", "Je suis au bureau jusqu'à six heures."],
+    ["Let's meet after work.", "Retrouvons-nous après le travail."],
+    ["The film starts in five minutes.", "Le film commence dans cinq minutes."]
+   ]
+  }
+ ],
+ "formule": "at + heure / moment précis / night / the weekend · on + jour / date · in + mois / saison / année / the morning · Ø + this / next / last / every / today / tomorrow",
+ "prononciation": [
+  "Dans la phrase, « at » est faible : /ət/ (at six /ət ˈsɪks/). Le moment porte l'accent.",
+  "« on » /ɒn/ et « in » /ɪn/ se lient au mot suivant quand il commence par une voyelle : on_April, in_August.",
+  "Les jours de la semaine sont accentués sur la première syllabe : MONday /ˈmʌndeɪ/, WEDnesday /ˈwenzdeɪ/ (le premier d est muet), THURSday /ˈθɜːzdeɪ/.",
+  "« until » /ənˈtɪl/ : accent sur la deuxième syllabe.",
+  "Dans une date à l'oral, « the » et « of » sont faibles : on the fifth of May /ɒn ðə ˈfɪfθ əv ˈmeɪ/."
+ ],
+ "erreurs": [
+  ["in Monday", "on Monday", "Jour → on."],
+  ["at June", "in June", "Mois → in."],
+  ["in 8 o'clock", "at 8 o'clock", "Heure → at."],
+  ["in the night", "at night", "Expression fixe : at night."],
+  ["on next week", "next week", "Pas de préposition devant next, last, this, every."],
+  ["in Monday morning", "on Monday morning", "Jour précisé → on."],
+  ["I work since 9 to 5.", "I work from 9 to 5.", "Période avec début et fin : from… to."],
+  ["The bus leaves after ten minutes. (dans dix minutes)", "The bus leaves in ten minutes.", "« Dans » + durée future = in."]
+ ],
+ "dialogue": {
+  "contexte": "Deux collègues de Bruxelles organisent une réunion avec un client canadien.",
+  "lignes": [
+   ["Sarah", "When is the meeting with the Canadian client?", "Quand a lieu la réunion avec le client canadien ?"],
+   ["Ben", "It's on Thursday, at three o'clock our time.", "C'est jeudi, à quinze heures, heure de chez nous."],
+   ["Sarah", "Thursday? I'm at the dentist's in the afternoon. Can we do it in the morning?", "Jeudi ? Je suis chez le dentiste l'après-midi. On peut la faire le matin ?"],
+   ["Ben", "Not really. In Montréal it's six hours earlier, so nine in the morning here is three in the morning for them.", "Pas vraiment. À Montréal, il est six heures plus tôt : neuf heures du matin ici, c'est trois heures du matin chez eux."],
+   ["Sarah", "Ha! They don't work at night! What about next Monday?", "Ha ! Ils ne travaillent pas la nuit ! Et lundi prochain ?"],
+   ["Ben", "Monday is fine. They're free from eight to eleven, their time.", "Lundi, c'est bon. Ils sont libres de huit à onze heures, heure de chez eux."],
+   ["Sarah", "Perfect. So on Monday at four, our time. I'm in the office until six.", "Parfait. Donc lundi à seize heures, heure de chez nous. Je suis au bureau jusqu'à dix-huit heures."],
+   ["Ben", "Great. I'm sending them an email in five minutes.", "Super. Je leur envoie un e-mail dans cinq minutes."]
+  ]
+ },
+ "mots": [
+  ["morning", "I run in the morning.", "le matin"],
+  ["afternoon", "See you on Friday afternoon.", "l'après-midi"],
+  ["evening", "We eat in the evening.", "le soir"],
+  ["night", "The street is quiet at night.", "la nuit"],
+  ["weekend", "What are you doing at the weekend?", "le week-end"],
+  ["birthday", "My birthday is on 12 August.", "l'anniversaire"],
+  ["season", "Summer is my favourite season.", "la saison"],
+  ["until", "The shop is open until eight.", "jusqu'à"],
+  ["noon", "Let's have lunch at noon.", "midi"],
+  ["midnight", "The party ends at midnight.", "minuit"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. At, on ou in ?",
+   "consigne": "Complète avec at, on ou in.",
+   "items": [
+    ["___ 6.30", "at"],
+    ["___ Tuesday", "on"],
+    ["___ October", "in"],
+    ["___ 2030", "in"],
+    ["___ night", "at"],
+    ["___ my birthday", "on"],
+    ["___ the evening", "in"],
+    ["___ Christmas", "at"]
+   ]
+  },
+  {
+   "titre": "2. Compléter la phrase",
+   "consigne": "Complète avec at, on, in ou Ø (pas de préposition).",
+   "items": [
+    ["I'm meeting Ana ___ Saturday morning.", "on"],
+    ["We're going to Kribi ___ next week.", "Ø"],
+    ["The train leaves ___ ten minutes.", "in"],
+    ["My grandfather was born ___ 1950.", "in"],
+    ["Call me ___ tomorrow.", "Ø"],
+    ["The shop opens ___ noon.", "at"]
+   ]
+  },
+  {
+   "titre": "3. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I go to the gym in Mondays.", "I go to the gym on Mondays."],
+    ["The film starts in 8 o'clock.", "The film starts at 8 o'clock."],
+    ["She works in the night.", "She works at night."],
+    ["See you on next Friday!", "See you next Friday!"],
+    ["The café is open since 7 to 11.", "The café is open from 7 to 11."]
+   ]
+  },
+  {
+   "titre": "4. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Je me lève à six heures le matin.", "I get up at six in the morning. / I get up at six o'clock in the morning."],
+    ["Nous ne travaillons pas le week-end.", "We don't work at the weekend. (US : on the weekend / on weekends)"],
+    ["Mon anniversaire est le 3 mars.", "My birthday is on 3 March. / My birthday is on the third of March."],
+    ["Il fait froid en hiver au Canada.", "It's cold in winter in Canada."]
+   ]
+  },
+  {
+   "titre": "5. À toi",
+   "consigne": "Décris ta semaine en cinq phrases avec at, on, in et une expression sans préposition (every, next…).",
+   "items": [
+    ["Exemple de réponse", "I start work at eight in the morning. On Wednesdays I finish at three. I play football every Saturday. In summer, we often eat outside in the evening. Next month I'm on holiday."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "at + heure, moment précis, night, Christmas, the weekend (GB).",
+  "on + jour, date, Monday morning, my birthday.",
+  "in + mois, saison, année, siècle, the morning / afternoon / evening.",
+  "Pas de préposition devant this, next, last, every, today, tomorrow, tonight.",
+  "from… to / until pour une période ; in + durée = dans (in ten minutes)."
+ ],
+ "liens": [17, 21, 22, 89],
+ "refs": ["bc-prep-time", "cam-prep"]
+}

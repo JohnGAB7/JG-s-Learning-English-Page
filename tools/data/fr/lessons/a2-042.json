@@ -1,0 +1,207 @@
+{
+"n": 42,
+"niveau": "A2",
+"titre": "Le prétérit des verbes irréguliers",
+"intro": "Les verbes les plus fréquents de l'anglais (go, have, make, see, take…) sont irréguliers : leur prétérit ne se forme pas avec -ed et doit s'apprendre. Bonne nouvelle : la négation et la question restent exactement les mêmes qu'avec les verbes réguliers.",
+"objectifs": [
+"Connaître le prétérit d'une quarantaine de verbes irréguliers très fréquents.",
+"Mémoriser les verbes par groupes de formes semblables plutôt qu'en liste brute.",
+"Utiliser didn't et Did … ? avec la base verbale, même pour un verbe irrégulier.",
+"Raconter un voyage ou une journée en mêlant verbes réguliers et irréguliers."
+],
+"sections": [
+{
+"titre": "Le principe",
+"texte": [
+"Un verbe irrégulier a une forme de prétérit particulière : go → went, see → saw, buy → bought. Comme pour les verbes réguliers, cette forme est la même à toutes les personnes (I went, she went, they went).",
+"Dans les listes de verbes irréguliers, on trouve trois colonnes : base verbale, prétérit, participe passé (go – went – gone). Pour cette leçon, seule la 2e colonne compte. Le participe passé servira avec le present perfect (leçon 51)."
+],
+"exemples": [
+["I went to Kribi last weekend.", "Je suis allé à Kribi le week-end dernier."],
+["She bought a new phone yesterday.", "Elle a acheté un nouveau téléphone hier."],
+["We had a great time.", "Nous avons passé un super moment."]
+]
+},
+{
+"titre": "Apprendre par groupes",
+"texte": [
+"Il existe environ 150 verbes irréguliers courants, mais une cinquantaine suffit pour la vie quotidienne. On les retient mieux par familles de formes."
+],
+"tableau": {
+"entetes": ["Groupe", "Base → prétérit", "Sens"],
+"lignes": [
+["forme identique", "put → put, cut → cut, cost → cost, hit → hit, let → let", "mettre, couper, coûter, frapper, laisser"],
+["finale en -ought / -aught", "buy → bought, bring → brought, think → thought, teach → taught, catch → caught", "acheter, apporter, penser, enseigner, attraper"],
+["changement de voyelle", "sit → sat, begin → began, drink → drank, swim → swam, run → ran, come → came", "s'asseoir, commencer, boire, nager, courir, venir"],
+["finale en -ew", "know → knew, grow → grew, fly → flew, draw → drew, throw → threw", "savoir, grandir, voler, dessiner, lancer"],
+["finale en -t", "sleep → slept, feel → felt, leave → left, keep → kept, meet → met, send → sent, spend → spent", "dormir, ressentir, partir, garder, rencontrer, envoyer, dépenser"],
+["-o- au prétérit", "get → got, write → wrote, speak → spoke, drive → drove, ride → rode, wake → woke, break → broke", "obtenir, écrire, parler, conduire, monter (vélo), se réveiller, casser"],
+["formes très irrégulières", "go → went, be → was / were, have → had, do → did, make → made, say → said, see → saw, take → took, give → gave, eat → ate, find → found, tell → told, hear → heard, lose → lost", "aller, être, avoir, faire, faire / fabriquer, dire, voir, prendre, donner, manger, trouver, raconter, entendre, perdre"]
+]
+},
+"note": "Astuce : apprends 5 verbes par jour en disant une phrase vraie avec chacun (« Yesterday I drank three coffees »). La répétition dans un contexte personnel fixe la forme."
+},
+{
+"titre": "Négation et question : retour à la base",
+"texte": [
+"À la forme négative et interrogative, l'irrégularité disparaît : did / didn't porte le passé, et le verbe principal revient à sa base. C'est la même règle que pour les verbes réguliers (leçon 41).",
+"Attention au verbe « to be » : il ne prend jamais did. On dit « I wasn't », « Were you…? » (leçon 39)."
+],
+"tableau": {
+"entetes": ["Affirmatif", "Négatif", "Question"],
+"lignes": [
+["I went.", "I didn't go.", "Did you go?"],
+["She saw it.", "She didn't see it.", "Did she see it?"],
+["They ate fish.", "They didn't eat fish.", "Did they eat fish?"],
+["He had time.", "He didn't have time.", "Did he have time?"],
+["I was tired.", "I wasn't tired.", "Were you tired?"]
+]
+},
+"exemples": [
+["We didn't take the bus; we took a taxi.", "Nous n'avons pas pris le bus ; nous avons pris un taxi."],
+["What did you buy at the market?", "Qu'est-ce que tu as acheté au marché ?"],
+["Did you hear the news? — Yes, I did.", "Tu as entendu la nouvelle ? — Oui."]
+]
+},
+{
+"titre": "Did, verbe principal : « faire »",
+"texte": [
+"« Do » est à la fois un auxiliaire et un verbe principal qui signifie « faire ». Au prétérit, le verbe principal donne « did ». On peut donc avoir deux fois did / do dans une même phrase.",
+"Ce n'est pas une erreur : le premier est l'auxiliaire, le second le verbe « faire »."
+],
+"exemples": [
+["I did my homework.", "J'ai fait mes devoirs (did = verbe principal)."],
+["I didn't do my homework.", "Je n'ai pas fait mes devoirs (didn't = auxiliaire + do = faire)."],
+["What did you do on Sunday?", "Qu'as-tu fait dimanche ?"]
+]
+},
+{
+"titre": "Pièges d'orthographe et de sens",
+"texte": [
+"Certains prétérits se ressemblent ou ressemblent à d'autres mots : il faut bien les distinguer.",
+"read → read : même orthographe, mais prononciation différente (/riːd/ au présent, /red/ au passé). Le contexte et le repère de temps indiquent le temps.",
+"leave → left (partir, quitter) et live → lived (vivre) ; feel → felt (ressentir) et fall → fell (tomber) ; lose → lost (perdre) et loose (adjectif : desserré)."
+],
+"exemples": [
+["I read that book last year.", "read /red/ : je l'ai lu l'an dernier."],
+["She left Paris in 2018.", "Elle a quitté Paris en 2018 (leave → left)."],
+["He fell and felt a pain in his knee.", "Il est tombé et a senti une douleur au genou."]
+]
+}
+],
+"formule": "sujet + prétérit irrégulier (went, saw, took…) · didn't + base · Did + sujet + base … ?",
+"prononciation": [
+"Les formes en -ought / -aught se prononcent toutes /ɔːt/ : bought /bɔːt/, thought /θɔːt/, taught /tɔːt/, caught /kɔːt/. Le gh est muet.",
+"« said » se prononce /sed/, pas /seɪd/ ; « says » se prononce /sez/.",
+"« read » au passé = /red/, comme la couleur « red ».",
+"« saw » /sɔː/ et « sore » se prononcent pareil en anglais britannique ; « ate » se dit /et/ (GB) ou /eɪt/ (GB et US).",
+"« went » /went/ : le e est ouvert comme dans « pet » ; « wanted » /ˈwɒntɪd/ est un autre verbe (want)."
+],
+"erreurs": [
+["I goed to the market.", "I went to the market.", "go est irrégulier : went."],
+["Did you went to school?", "Did you go to school?", "Après did, toujours la base verbale."],
+["She didn't saw me.", "She didn't see me.", "didn't + base, même pour un verbe irrégulier."],
+["I buyed a shirt.", "I bought a shirt.", "buy → bought (/bɔːt/)."],
+["Yesterday I take the train.", "Yesterday I took the train.", "Avec yesterday, il faut le prétérit (took)."],
+["Did you were happy?", "Were you happy?", "« to be » ne prend pas did."],
+["We drinked tea.", "We drank tea.", "drink → drank (changement de voyelle)."]
+],
+"dialogue": {
+"contexte": "Fatou rentre d'un voyage au Canada. Son amie Claire l'appelle depuis Lyon.",
+"lignes": [
+["Claire", "Welcome back! How was Canada?", "Bon retour ! C'était comment, le Canada ?"],
+["Fatou", "Amazing! I flew to Montreal and then I took the train to Quebec City.", "Génial ! J'ai pris l'avion pour Montréal, puis le train pour Québec."],
+["Claire", "Did you see the snow?", "Tu as vu la neige ?"],
+["Fatou", "Yes, I did! It was minus fifteen. I bought a big coat on the first day.", "Oui ! Il faisait moins quinze. J'ai acheté un gros manteau le premier jour."],
+["Claire", "Ha! What did you eat?", "Ha ! Qu'est-ce que tu as mangé ?"],
+["Fatou", "I ate poutine three times. And I met some very friendly people.", "J'ai mangé de la poutine trois fois. Et j'ai rencontré des gens très sympas."],
+["Claire", "Did you speak French or English?", "Tu as parlé français ou anglais ?"],
+["Fatou", "Both! But I didn't understand the Quebec accent at first.", "Les deux ! Mais je n'ai pas compris l'accent québécois au début."]
+]
+},
+"mots": [
+["trip", "We had a short trip to Ghent.", "un voyage, une excursion"],
+["fly", "I flew to Montreal in May.", "prendre l'avion ; voler"],
+["buy", "She bought some souvenirs.", "acheter"],
+["meet", "We met at the airport.", "rencontrer ; retrouver"],
+["leave", "The bus left at seven.", "partir, quitter"],
+["spend", "I spent a week in Dakar.", "passer (du temps) ; dépenser"],
+["lose", "He lost his passport.", "perdre"],
+["forget", "I forgot my umbrella.", "oublier"],
+["understand", "Did you understand the guide?", "comprendre"],
+["bring", "They brought a cake.", "apporter, amener"]
+],
+"exercices": [
+{
+"titre": "1. Trouver le prétérit",
+"consigne": "Écris le prétérit de chaque verbe irrégulier.",
+"items": [
+["go", "went"],
+["see", "saw"],
+["take", "took"],
+["buy", "bought"],
+["eat", "ate"],
+["write", "wrote"],
+["think", "thought"],
+["put", "put"]
+]
+},
+{
+"titre": "2. Compléter le récit",
+"consigne": "Mets les verbes au prétérit.",
+"items": [
+["Last year I ___ (go) to Belgium for the first time.", "went"],
+["I ___ (leave) Douala on a Friday night.", "left"],
+["The flight ___ (be) long, so I ___ (sleep) a lot.", "was … slept"],
+["In Brussels I ___ (meet) my cousin at the station.", "met"],
+["We ___ (have) dinner and ___ (drink) some hot chocolate.", "had … drank"]
+]
+},
+{
+"titre": "3. Négatif et question",
+"consigne": "Mets la phrase à la forme demandée.",
+"items": [
+["She found her keys. (négatif)", "She didn't find her keys."],
+["They came by car. (question)", "Did they come by car?"],
+["He told the truth. (négatif)", "He didn't tell the truth."],
+["You did the shopping. (question)", "Did you do the shopping?"],
+["I was at home. (négatif)", "I wasn't at home."]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["I catched the bus at 8.", "I caught the bus at 8."],
+["Did you saw the film?", "Did you see the film?"],
+["We didn't went out.", "We didn't go out."],
+["He teached maths in Yaoundé.", "He taught maths in Yaoundé."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["J'ai oublié mon téléphone à la maison.", "I forgot my phone at home."],
+["Ils ne sont pas venus à la fête.", "They didn't come to the party."],
+["Qu'est-ce que tu as dit ?", "What did you say?"]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Raconte un voyage ou une sortie en cinq ou six phrases avec au moins cinq verbes irréguliers différents.",
+"items": [
+["Exemple de réponse", "Last month I went to Ghent with two friends. We took the train from Brussels and got there at ten. We saw the old castle and ate waffles in a small café. I bought a postcard for my mother. We didn't spend much money, but we had a wonderful day."]
+]
+}
+],
+"a_retenir": [
+"Les verbes les plus fréquents sont irréguliers : went, had, did, made, saw, took, got, said…",
+"Une seule forme de prétérit pour toutes les personnes.",
+"Négation et question : didn't / Did + base (didn't go, Did you see…?).",
+"« to be » n'utilise jamais did : wasn't, weren't, Was…? Were…?",
+"Apprends les verbes par groupes (bought / thought / taught ; slept / felt / kept…)."
+],
+"liens": [39, 41, 43, 51, 76],
+"refs": ["bc-a1a2", "cam-verbs"]
+}

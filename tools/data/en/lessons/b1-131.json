@@ -1,0 +1,200 @@
+{
+ "n": 131,
+ "niveau": "B1",
+ "titre": "Explaining a problem and proposing a solution",
+ "intro": "At work, at school or in daily life, you often need to report a problem clearly, explain its cause and its consequences, and then suggest a solution without sounding aggressive. This lesson gives you the phrases and structures to do it naturally, in speech and in an email.",
+ "objectifs": [
+  "Present a problem clearly and politely (There's a problem with…, I'm afraid…).",
+  "Explain the cause and the consequences (because of, due to, as a result, so).",
+  "Suggest one or more solutions with could, why don't we, how about, I suggest, if we…",
+  "React to a suggestion and agree on the next step."
+ ],
+ "sections": [
+  {
+   "titre": "Announcing the problem",
+   "texte": [
+    "English speakers often “soften” bad news with I'm afraid, unfortunately, it seems that or I think we have a small problem. This shows that you are calm and want to cooperate, not to blame anyone.",
+    "Then describe the problem with precise facts: what, when, since when. The present perfect is very useful for a problem that continues (The printer hasn't worked since Monday) or that has just happened (The client has cancelled the order)."
+   ],
+   "tableau": {
+    "entetes": ["Phrase", "Register", "Example"],
+    "lignes": [
+     ["There's a problem with…", "neutral", "There's a problem with the delivery."],
+     ["I'm afraid (that)…", "polite", "I'm afraid the report won't be ready on time."],
+     ["Unfortunately,…", "polite, written", "Unfortunately, the system crashed this morning."],
+     ["It seems that…", "careful", "It seems that some emails haven't arrived."],
+     ["We've got a bit of a problem.", "informal, softened", "We've got a bit of a problem with the budget."],
+     ["The thing is,…", "spoken", "The thing is, the room is too small for 30 people."]
+    ]
+   }
+  },
+  {
+   "titre": "Explaining the cause and the consequences",
+   "texte": [
+    "For the cause: because + clause (because the supplier is late), because of / due to + noun (because of the strike, due to bad weather). Due to is more formal and very common in announcements and emails.",
+    "For the consequences: so (spoken), as a result, this means that, which means that. “The train was cancelled, which means that I'll be two hours late.”"
+   ],
+   "exemples": [
+    ["The flight was delayed due to a technical problem.", "Formal cause: due to + noun."],
+    ["We can't start the meeting because the projector isn't working.", "Because + subject + verb."],
+    ["The server was down all morning. As a result, we lost several orders.", "Consequence in a new sentence."],
+    ["Two people are ill, which means that we'll need extra help on Saturday.", "Which means that links the consequence to the whole idea before."]
+   ]
+  },
+  {
+   "titre": "Suggesting a solution",
+   "texte": [
+    "Suggest a solution with polite forms that leave room for discussion: We could…, Why don't we…?, How about / What about + -ing?, I suggest (that) we…, One option would be to…, If we…, we could…",
+    "Be careful with suggest: I suggest that we leave early / I suggest leaving early, but never “I suggest us to leave”. After how about / what about, use -ing: How about calling the supplier?"
+   ],
+   "tableau": {
+    "entetes": ["Structure", "Example"],
+    "lignes": [
+     ["We could + base verb", "We could ask another supplier."],
+     ["Why don't we + base verb?", "Why don't we move the meeting to Thursday?"],
+     ["How about / What about + -ing?", "How about working from home tomorrow?"],
+     ["I suggest (that) we + base verb", "I suggest (that) we call the client today."],
+     ["I suggest + -ing", "I suggest postponing the launch."],
+     ["One solution would be to + base verb", "One solution would be to hire a temporary assistant."],
+     ["If we…, we could / we'd…", "If we started earlier, we'd finish on time."]
+    ]
+   },
+   "exemples": [
+    ["The room is too small. Why don't we book the conference hall instead?", "A suggestion in question form."],
+    ["If we send the documents by email, the client will get them today.", "First conditional for a realistic solution."]
+   ]
+  },
+  {
+   "titre": "Reacting and agreeing",
+   "texte": [
+    "To accept: That's a good idea. / That sounds good. / That could work. / Let's do that. To express a doubt: That might be difficult because… / I'm not sure that would work. / The only problem is…",
+    "To finish, sum up the decision and the next step: So, to sum up, we'll… / OK, so I'll call them and you'll update the file. / Let's meet again on Friday to check."
+   ],
+   "exemples": [
+    ["That could work, but the only problem is the cost.", "Agreement with a reservation."],
+    ["OK, so I'll contact the supplier and you'll inform the team.", "Sharing out the tasks."]
+   ]
+  },
+  {
+   "titre": "In writing: the structure of an email",
+   "texte": [
+    "An email that reports a problem often follows four steps: 1) the context (I'm writing about / regarding…), 2) the problem (Unfortunately…), 3) the proposed solution (I would suggest… / Would it be possible to…?), 4) the next step (Please let me know if this works for you).",
+    "Stay factual, avoid direct blame (You didn't send…) and prefer neutral or passive sentences (The documents haven't been received yet)."
+   ],
+   "exemples": [
+    ["I'm writing regarding order no. 4521. Unfortunately, two items were missing.", "Context, then the problem."],
+    ["Would it be possible to send them by Friday? Please let me know if this works for you.", "Solution and next step."]
+   ]
+  }
+ ],
+ "formule": "I'm afraid there's a problem with… · because of / due to… · We could… / Why don't we…? / How about + -ing? / I suggest (that) we…",
+ "prononciation": [
+  "I'm afraid /aɪm əˈfreɪd/: stress on -fraid; I'm links smoothly to afraid.",
+  "In “Why don't we…?”, don't is often reduced: /waɪ dəʊn wi/. The voice goes down at the end, because it is a suggestion, not a real question.",
+  "suggest is /səˈdʒest/ in British English (often /səɡˈdʒest/ in American English); stress on the second syllable.",
+  "due to /ˈdjuː tə/ (UK) or /ˈduː tə/ (US).",
+  "To sound softer, speak a little more slowly and stress the positive words: “That's a GOOD idea, but…”"
+ ],
+ "erreurs": [
+  ["I suggest you to call the client.", "I suggest (that) you call the client. / I suggest calling the client.", "Suggest + that + subject + verb, or suggest + -ing; never suggest + person + to."],
+  ["How about to move the meeting?", "How about moving the meeting?", "How about / What about + -ing."],
+  ["The flight was cancelled due to the weather was bad.", "The flight was cancelled due to bad weather. / … because the weather was bad.", "Due to / because of + noun; because + clause."],
+  ["Why we don't take a taxi?", "Why don't we take a taxi?", "Question word order: Why don't we…?"],
+  ["We have a problem of delivery.", "We have a problem with the delivery.", "A problem with + noun."],
+  ["The printer doesn't work since Monday.", "The printer hasn't worked since Monday.", "A problem that started in the past and continues: present perfect."]
+ ],
+ "dialogue": {
+  "contexte": "A small travel agency in Dakar. Aïssatou, the manager, and her colleague Julien, from Lyon, discover a booking problem.",
+  "lignes": [
+   ["Julien", "Aïssatou, I'm afraid there's a problem with the group booking for Saint-Louis.", "Softened announcement: I'm afraid."],
+   ["Aïssatou", "What's happened?", "Present perfect: a recent event with a result now."],
+   ["Julien", "The hotel has cancelled ten rooms due to renovation work. So twenty people have nowhere to stay.", "Cause (due to) and consequence (so)."],
+   ["Aïssatou", "Oh no. The group arrives on Friday, which means we only have three days.", "Which means: the consequence."],
+   ["Julien", "We could book rooms in the guesthouse next door. It's small, but it's very nice.", "First suggestion: we could."],
+   ["Aïssatou", "That could work. Why don't we also ask the hotel for a discount on the other rooms?", "Reaction, then a second suggestion."],
+   ["Julien", "Good idea. I suggest we call them this morning.", "I suggest + we + base verb."],
+   ["Aïssatou", "OK. So you'll call the guesthouse and I'll speak to the hotel manager. Let's check again at two.", "Sharing the tasks and fixing the next step."]
+  ]
+ },
+ "mots": [
+  ["issue", "There's an issue with the payment system.", "a problem or subject that people discuss (more neutral than problem)"],
+  ["solve", "We need to solve this problem quickly.", "to find an answer to a problem"],
+  ["solution", "One solution would be to hire more staff.", "a way of solving a problem"],
+  ["due to", "The train was late due to snow.", "because of"],
+  ["suggest", "I suggest that we wait until Monday.", "to give an idea for people to think about"],
+  ["option", "We have two options.", "one of several things you can choose"],
+  ["fix", "Can you fix the printer?", "to repair something or deal with a problem"],
+  ["postpone", "We'll have to postpone the meeting.", "to move an event to a later time"],
+  ["workaround", "Until it's repaired, here's a workaround.", "a way of avoiding a problem without solving it completely"],
+  ["sort out", "Don't worry, I'll sort it out.", "to deal with a problem successfully"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Problem, cause or solution?",
+   "consigne": "Say if the sentence announces a problem (P), explains a cause (C) or suggests a solution (S).",
+   "items": [
+    ["I'm afraid the delivery hasn't arrived.", "P"],
+    ["It's because of the strike at the port.", "C"],
+    ["How about asking another company?", "S"],
+    ["The meeting was cancelled due to illness.", "C"],
+    ["We could work on Saturday morning.", "S"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with because, because of, due to, so or which means that.",
+   "items": [
+    ["The shop is closed ___ the public holiday.", "because of (due to)"],
+    ["I can't come ___ my car has broken down.", "because"],
+    ["The bus was late, ___ I missed the start of the class.", "so"],
+    ["Two drivers are ill, ___ some deliveries will be late.", "which means that (so)"]
+   ]
+  },
+  {
+   "titre": "3. Suggest a solution",
+   "consigne": "Rewrite the suggestion with the structure in brackets.",
+   "items": [
+    ["Let's change the date. (Why don't we…?)", "Why don't we change the date?"],
+    ["Let's take the train. (How about…?)", "How about taking the train?"],
+    ["We should call the technician. (I suggest that…)", "I suggest that we call the technician."],
+    ["Hire a temporary assistant. (One solution would be…)", "One solution would be to hire a temporary assistant."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I suggest you to send the file again.", "I suggest (that) you send the file again. / I suggest sending the file again."],
+    ["What about to meet on Thursday?", "What about meeting on Thursday?"],
+    ["The internet doesn't work since yesterday.", "The internet hasn't worked since yesterday."],
+    ["There's a problem of the heating.", "There's a problem with the heating."]
+   ]
+  },
+  {
+   "titre": "5. Make it more polite",
+   "consigne": "Rewrite each direct sentence in a softer, more professional way.",
+   "items": [
+    ["The report isn't ready for Friday. (I'm afraid…)", "I'm afraid the report won't be ready on Friday."],
+    ["The flight was cancelled. The weather was bad. (due to)", "The flight was cancelled due to bad weather."],
+    ["Move the meeting to Monday! (Why don't we…?)", "Why don't we postpone the meeting until Monday? / Why don't we move the meeting to Monday?"],
+    ["Ask the client what they think! (I suggest…)", "I suggest (that) we ask the client's opinion. / I suggest asking the client."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short email (5–6 sentences) to a colleague: the projector in the meeting room isn't working and the client presentation is tomorrow. Announce the problem, explain the consequence, suggest two solutions and finish.",
+   "items": [
+    ["Model answer", "Hi Marc, I'm afraid there's a problem with the projector in the meeting room: it hasn't worked since this morning. This means that we can't show our slides to the client tomorrow. We could book the small conference room, which has a screen. Another option would be to send the slides to the client in advance and present them on a laptop. Could you let me know which you prefer by 5 p.m.? Thanks, Awa"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Announce: I'm afraid… / Unfortunately… / There's a problem with…",
+  "Cause: because + clause; because of / due to + noun.",
+  "Consequence: so, as a result, which means that…",
+  "Solution: We could… / Why don't we…? / How about + -ing? / I suggest (that) we… / I suggest + -ing.",
+  "Finish: So, I'll… and you'll… / Let's check again on…"
+ ],
+ "liens": [95, 119, 127, 128, 132],
+ "refs": ["bc-b1b2", "cam-using"]
+}

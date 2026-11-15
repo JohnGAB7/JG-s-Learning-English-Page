@@ -1,0 +1,470 @@
+{
+ "n": 237,
+ "niveau": "C1",
+ "titre": "Les participes et absolus (Weather permitting…)",
+ "intro": "« Weather permitting, we'll eat outside », « The meeting over, everyone left », « With prices rising, families are cutting back » : les propositions participiales et absolues condensent une idée de temps, de cause ou de condition en quelques mots. Elles rendent l'écrit dense et élégant, à condition d'éviter le piège du participe « en l'air » (dangling participle).",
+ "objectifs": [
+  "Construire des propositions absolues avec leur propre sujet (Weather permitting, The work done, There being no…).",
+  "Utiliser la structure « with + nom + participe » pour exprimer une circonstance (With the deadline approaching…).",
+  "Maîtriser les participes parfaits, passifs et négatifs (Having finished…, Having been warned…, Not knowing…).",
+  "Repérer et corriger les participes mal rattachés, et connaître les exceptions admises (generally speaking, given that, considering)."
+ ],
+ "sections": [
+  {
+   "titre": "Rappel : le participe et son sujet implicite",
+   "texte": [
+    "Une proposition participiale sans sujet (« Walking home, I met Paul ») prend obligatoirement le sujet de la proposition principale : c'est moi qui marchais. Elle exprime le temps, la cause, la manière ou la condition.",
+    "Participe présent (-ing) : action active, simultanée ou cause (« Feeling tired, she went to bed »). Participe passé : sens passif (« Built in 1890, the bridge is still in use »). Participe parfait : action antérieure (« Having read the report, he called the client »)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Forme",
+     "Valeur",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "-ing",
+      "actif, simultané, cause",
+      "Knowing the risks, she still agreed."
+     ],
+     [
+      "Participe passé",
+      "passif",
+      "Written in 1950, the novel is still popular."
+     ],
+     [
+      "Having + pp",
+      "antériorité (actif)",
+      "Having signed the contract, we started work."
+     ],
+     [
+      "Having been + pp",
+      "antériorité (passif)",
+      "Having been warned, they stayed at home."
+     ],
+     [
+      "Not + participe",
+      "négation",
+      "Not knowing what to say, I kept quiet."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Not having received a reply, I sent a second email.",
+     "Participe parfait négatif : « not » se place devant having."
+    ],
+    [
+     "Having been told the news, she called her family.",
+     "Participe parfait passif : elle avait été informée."
+    ]
+   ]
+  },
+  {
+   "titre": "Les propositions absolues : un sujet propre",
+   "texte": [
+    "Une proposition absolue a son propre sujet, différent de celui de la principale : « The rain having stopped, we went out » (c'est la pluie qui s'est arrêtée, nous qui sommes sortis). Elle est soutenue, fréquente à l'écrit et dans les récits.",
+    "Plusieurs expressions sont figées et très courantes : « Weather permitting » (si le temps le permet), « All things considered » (tout bien considéré), « Other things being equal » (toutes choses égales par ailleurs), « That said » (cela dit), « God willing », « Time permitting ».",
+    "Avec « there » : « There being no further questions, the meeting was closed » (aucune autre question n'étant posée)."
+   ],
+   "exemples": [
+    [
+     "Weather permitting, the ceremony will take place in the garden.",
+     "« Si le temps le permet » : absolu figé."
+    ],
+    [
+     "The work done, the builders packed up and left.",
+     "Sujet propre (the work) + participe passé."
+    ],
+    [
+     "All things considered, it was a successful year.",
+     "« Tout bien considéré »."
+    ],
+    [
+     "There being no objections, the motion was approved.",
+     "Absolu avec there : style de procès-verbal."
+    ]
+   ]
+  },
+  {
+   "titre": "With + nom + participe : la circonstance",
+   "texte": [
+    "La forme la plus fréquente de l'absolu en anglais courant est introduite par « with » : with + nom + -ing / participe passé / adjectif / complément. Elle exprime une cause, une circonstance ou un décor, à l'oral comme à l'écrit.",
+    "« Without » existe aussi : « Without anyone noticing, he left the room. »"
+   ],
+   "tableau": {
+    "entetes": [
+     "Structure",
+     "Exemple",
+     "Valeur"
+    ],
+    "lignes": [
+     [
+      "with + nom + -ing",
+      "With prices rising, families are spending less.",
+      "cause"
+     ],
+     [
+      "with + nom + pp",
+      "With the project finished, we can relax.",
+      "cause, antériorité"
+     ],
+     [
+      "with + nom + adjectif",
+      "He fell asleep with the window open.",
+      "circonstance"
+     ],
+     [
+      "with + nom + préposition",
+      "She stood there with her hands in her pockets.",
+      "manière, décor"
+     ],
+     [
+      "without + nom + -ing",
+      "They left without anyone seeing them.",
+      "circonstance négative"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "With the elections only a month away, the parties are campaigning hard.",
+     "« Les élections n'étant plus qu'à un mois… »"
+    ]
+   ]
+  },
+  {
+   "titre": "Le piège du participe mal rattaché (dangling participle)",
+   "texte": [
+    "Si le sujet implicite du participe n'est pas celui de la principale, la phrase devient fautive, parfois comique : « Walking down the street, the trees looked beautiful » dit que les arbres se promenaient. Il faut soit changer le sujet de la principale (« Walking down the street, I noticed the trees »), soit revenir à une subordonnée (« As I walked down the street, the trees… »).",
+    "C'est l'une des fautes les plus relevées par les correcteurs, en anglais académique comme dans les examens (IELTS, Cambridge)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Mal rattaché",
+     "Correct"
+    ],
+    "lignes": [
+     [
+      "Having finished the report, the computer crashed.",
+      "Having finished the report, I saw the computer crash. / Just after I had finished the report, the computer crashed."
+     ],
+     [
+      "Arriving late, the meeting had already started.",
+      "Arriving late, I found that the meeting had already started."
+     ],
+     [
+      "Built in 1890, tourists love the bridge.",
+      "Built in 1890, the bridge is loved by tourists."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Les exceptions admises et les relatives réduites",
+   "texte": [
+    "Certains participes sont devenus des connecteurs et n'ont pas besoin de sujet commun : generally / broadly / strictly speaking, judging by / from, considering (that), given (that), assuming (that), provided / providing (that), talking of, based on (dans l'usage courant). « Considering his age, he did very well » est parfaitement correct.",
+    "Les participes servent aussi à réduire une relative : « the people living next door » (= who live), « the documents attached » (= which are attached), « a decision taken yesterday » (= which was taken). C'est très fréquent dans les rapports et les e-mails."
+   ],
+   "exemples": [
+    [
+     "Judging by the queue, the new bakery is a success.",
+     "« À en juger par » : exception admise."
+    ],
+    [
+     "Given the circumstances, we had no choice.",
+     "« Étant donné » : connecteur figé."
+    ],
+    [
+     "Anyone wishing to attend should register by Friday.",
+     "Relative réduite : anyone who wishes…"
+    ]
+   ]
+  },
+  {
+   "titre": "Calques à éviter",
+   "texte": [
+    "Le français utilise le participe passé seul avec les verbes de mouvement : « Arrivé à la gare, il a appelé ». En anglais, « Arrived at the station, he called » est impossible : on dit « Having arrived / On arriving / When he arrived at the station, he called ».",
+    "Le gérondif « en + -ant » ne se traduit pas toujours par -ing : « En arrivant » = On arriving / When I arrived ; « En travaillant dur, tu réussiras » = By working hard, you'll succeed (moyen = by)."
+   ]
+  }
+ ],
+ "formule": "Participiale : participe + complément, sujet = celui de la principale · Absolue : SUJET PROPRE + participe (Weather permitting ; The work done ; With prices rising)",
+ "prononciation": [
+  "La proposition participiale ou absolue forme un groupe intonatif séparé par une pause : « Weather permitting, | we'll eat outside. »",
+  "« permitting » /pəˈmɪtɪŋ/ : accent sur « mit » ; le t intervocalique est souvent battu en américain /pɚˈmɪɾɪŋ/.",
+  "« Having been told » /ˈhævɪŋ bɪn ˈtəʊld/ : « been » réduit /bɪn/.",
+  "« considered » /kənˈsɪdəd/ (BrE) : trois syllabes, accent sur « si ».",
+  "Dans « With prices rising », l'accent tombe sur « prices » et « rising »."
+ ],
+ "erreurs": [
+  [
+   "Arrived at the airport, I called my wife.",
+   "When I arrived / Having arrived at the airport, I called my wife.",
+   "Calque du participe passé français des verbes de mouvement."
+  ],
+  [
+   "Walking to work, the rain started.",
+   "As I was walking to work, it started to rain. / Walking to work, I got caught in the rain.",
+   "Participe mal rattaché : la pluie ne marche pas."
+  ],
+  [
+   "Having not finished, she stayed late.",
+   "Not having finished, she stayed late.",
+   "« Not » se place devant le participe."
+  ],
+  [
+   "The weather permitting, we'll go.",
+   "Weather permitting, we'll go.",
+   "Expression figée, sans article."
+  ],
+  [
+   "With rising the prices, people buy less.",
+   "With prices rising, people buy less.",
+   "Ordre : with + nom + participe."
+  ],
+  [
+   "Being finished the work, we left.",
+   "The work (being) finished, we left. / Once the work was finished, we left.",
+   "Le sujet de l'absolue précède le participe."
+  ],
+  [
+   "In working hard, you will succeed.",
+   "By working hard, you will succeed.",
+   "Moyen = by + -ing, pas in."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "À Victoria (Colombie-Britannique), l'organisatrice d'un mariage fait le point avec le futur marié.",
+  "lignes": [
+   [
+    "Kim",
+    "Weather permitting, the ceremony will be on the lawn at four.",
+    "Si le temps le permet, la cérémonie aura lieu sur la pelouse à seize heures."
+   ],
+   [
+    "Ali",
+    "And if it rains?",
+    "Et s'il pleut ?"
+   ],
+   [
+    "Kim",
+    "With the marquee already booked, we can move everyone inside in ten minutes.",
+    "Le chapiteau étant déjà réservé, nous pouvons faire entrer tout le monde en dix minutes."
+   ],
+   [
+    "Ali",
+    "Great. Having seen the forecast, I'm a bit worried, to be honest.",
+    "Super. Après avoir vu la météo, je suis un peu inquiet, pour être honnête."
+   ],
+   [
+    "Kim",
+    "Judging by the last few days, it'll clear up by the afternoon.",
+    "À en juger par ces derniers jours, ça devrait se dégager dans l'après-midi."
+   ],
+   [
+    "Ali",
+    "I hope so. And the guests coming from Montreal?",
+    "J'espère. Et les invités venant de Montréal ?"
+   ],
+   [
+    "Kim",
+    "Their flight landing at noon, they'll be at the hotel by two. The shuttle's arranged.",
+    "Leur vol atterrissant à midi, ils seront à l'hôtel à quatorze heures. La navette est prévue."
+   ],
+   [
+    "Ali",
+    "All things considered, it sounds like everything's under control.",
+    "Tout bien considéré, on dirait que tout est sous contrôle."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "permitting",
+   "Time permitting, we'll take questions.",
+   "si… le permet"
+  ],
+  [
+   "absolute",
+   "This is an absolute clause.",
+   "absolu (grammaire)"
+  ],
+  [
+   "dangling",
+   "Avoid dangling participles in essays.",
+   "mal rattaché, « en l'air »"
+  ],
+  [
+   "considering",
+   "Considering the cost, it's a good deal.",
+   "étant donné, vu"
+  ],
+  [
+   "given",
+   "Given the delay, we'll start at ten.",
+   "étant donné"
+  ],
+  [
+   "judging by",
+   "Judging by his face, the news was bad.",
+   "à en juger par"
+  ],
+  [
+   "marquee",
+   "The reception was held in a marquee.",
+   "grande tente, chapiteau (BrE)"
+  ],
+  [
+   "clear up",
+   "The sky should clear up this afternoon.",
+   "se dégager, s'éclaircir"
+  ],
+  [
+   "objection",
+   "There being no objection, we'll proceed.",
+   "objection"
+  ],
+  [
+   "under control",
+   "Don't worry, everything is under control.",
+   "sous contrôle, maîtrisé"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Participiale ou absolue ?",
+   "consigne": "Indique si la proposition en tête est une participiale (même sujet) ou une absolue (sujet propre).",
+   "items": [
+    [
+     "Feeling unwell, Marc went home early.",
+     "participiale"
+    ],
+    [
+     "The guests having left, we started cleaning.",
+     "absolue"
+    ],
+    [
+     "With the shops closed, the streets were empty.",
+     "absolue (with)"
+    ],
+    [
+     "Built in 1920, the station has just been renovated.",
+     "participiale"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Condenser",
+   "consigne": "Réécris en utilisant une proposition participiale ou absolue.",
+   "items": [
+    [
+     "If the weather permits, we'll have a barbecue.",
+     "Weather permitting, we'll have a barbecue."
+    ],
+    [
+     "After she had finished her degree, she moved to Calgary.",
+     "Having finished her degree, she moved to Calgary."
+    ],
+    [
+     "Because prices are rising, people are buying less.",
+     "With prices rising, people are buying less."
+    ],
+    [
+     "As there was no bus, we walked.",
+     "There being no bus, we walked."
+    ],
+    [
+     "Because he didn't know the way, he asked a policeman.",
+     "Not knowing the way, he asked a policeman."
+    ]
+   ]
+  },
+  {
+   "titre": "3. Corriger le participe mal rattaché",
+   "consigne": "Réécris la phrase pour que le participe ait le bon sujet.",
+   "items": [
+    [
+     "Having eaten lunch, the train left.",
+     "Having eaten lunch, we caught the train. / After we had eaten lunch, the train left."
+    ],
+    [
+     "Driving to Kingston, a deer jumped onto the road.",
+     "While I was driving to Kingston, a deer jumped onto the road."
+    ],
+    [
+     "Written in a hurry, the teacher found many mistakes in the essay.",
+     "Written in a hurry, the essay contained many mistakes."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "Arrived at the hotel, she took a shower.",
+     "Having arrived / When she arrived at the hotel, she took a shower."
+    ],
+    [
+     "Having not understood, he asked again.",
+     "Not having understood, he asked again."
+    ],
+    [
+     "With falling the temperature, the lake froze.",
+     "With the temperature falling, the lake froze."
+    ],
+    [
+     "The time permitting, we'll visit the museum.",
+     "Time permitting, we'll visit the museum."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec une structure participiale ou absolue.",
+   "items": [
+    [
+     "Tout bien considéré, c'était une bonne décision.",
+     "All things considered, it was a good decision."
+    ],
+    [
+     "Les enfants endormis, nous avons enfin pu parler.",
+     "The children asleep, we could finally talk. / With the children asleep, we could finally talk."
+    ],
+    [
+     "Étant donné le retard, nous commencerons à dix heures.",
+     "Given the delay, we'll start at ten."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court paragraphe (4 phrases) annonçant un événement en plein air, avec au moins trois structures de la leçon.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "Weather permitting, our community picnic will take place in Stanley Park on Saturday. With more than 200 families registered, it promises to be our biggest event yet. Anyone wishing to help should contact the organisers by Thursday. Having learnt from last year, we will also provide shaded areas and free water."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Participiale sans sujet = même sujet que la principale ; sinon, participe mal rattaché (faute fréquente).",
+  "Absolue = sujet propre + participe : Weather permitting, The work done, There being no…, All things considered.",
+  "With + nom + participe / adjectif : With prices rising, with the window open — très courant.",
+  "Not se place devant le participe ; pas de « Arrived at… » à la française ; by + -ing pour le moyen."
+ ],
+ "liens": [
+  162,
+  232,
+  238,
+  247,
+  285
+ ],
+ "refs": [
+  "bc-participle",
+  "bc-c1"
+ ]
+}

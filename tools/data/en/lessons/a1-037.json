@@ -1,0 +1,203 @@
+{
+"n": 37,
+"niveau": "A1",
+"titre": "Asking for directions",
+"intro": "Asking for and giving directions is a very practical skill, when you travel and in your own town. This lesson gives you polite questions, instructions (with the imperative), places (opposite, next to, at the traffic lights) and expressions of distance.",
+"objectifs": [
+ "Ask for directions politely (Excuse me, how do I get to…?).",
+ "Understand and give directions: go straight on, turn left, take the second right.",
+ "Say where a place is: on the left, opposite, next to, on the corner.",
+ "Talk about distance and time (It's a five-minute walk) and check that you understand."
+],
+"sections": [
+ {
+  "titre": "Asking the way",
+  "texte": [
+   "Always start with “Excuse me” to get a stranger's attention politely. Then you can ask in several ways.",
+   "“How do I get to…?” is the most natural question. “How can I go to…?” is understood but less natural."
+  ],
+  "tableau": {
+   "entetes": ["Question", "Use"],
+   "lignes": [
+    ["Excuse me, where's the station?", "a simple question"],
+    ["How do I get to the museum?", "the most natural question"],
+    ["Is there a pharmacy near here?", "you don't know if there is one"],
+    ["Can you tell me the way to the hospital?", "very polite"],
+    ["Is it far from here?", "asking about distance"],
+    ["Sorry, I'm lost. Where are we on this map?", "when you don't know where you are"]
+   ]
+  },
+  "note": "If you don't know the answer: “Sorry, I'm not from here.” or “Sorry, I don't know.”"
+ },
+ {
+  "titre": "Giving directions: the imperative",
+  "texte": [
+   "We give directions with the imperative (lesson 32): a verb with no subject. Join the steps with “then” and “after that”.",
+   "British English says “straight on”; American English says “straight ahead”. Say “turn left / right” with no preposition: never “turn on the left”."
+  ],
+  "tableau": {
+   "entetes": ["Direction", "Note"],
+   "lignes": [
+    ["Go straight on. (US go straight ahead)", "don't turn"],
+    ["Turn left / Turn right.", "no preposition"],
+    ["Take the first left / the second right.", "the first / second street"],
+    ["Go along this street.", "follow the street"],
+    ["Go past the church.", "walk in front of it and continue"],
+    ["Cross the road / the bridge.", "go to the other side"],
+    ["Go up / down the hill.", "higher / lower"],
+    ["At the traffic lights, turn right.", "UK: traffic lights (plural)"],
+    ["At the roundabout, take the second exit.", "US: traffic circle"],
+    ["Go to the end of the street.", "until the street stops"]
+   ]
+  },
+  "exemples": [
+   ["Go straight on, then take the second left.", "Two steps with “then”."],
+   ["Turn right at the traffic lights and go past the bank.", "at + place."],
+   ["Cross the bridge and the hotel is on your left.", "on your left / right."]
+  ]
+ },
+ {
+  "titre": "Saying where the place is",
+  "texte": [
+   "To say where the place is, use prepositions of place (lesson 17): “on the left / right”, “next to”, “opposite” (US also “across from”), “between”, “on the corner of”, “at the end of”.",
+   "Careful: “in front of” means just before something, on the same side. If the place is on the other side of the street, say “opposite”.",
+   "With a street name: “It's on King Street” (UK); with a town or area, use “in”: “in the city centre”."
+  ],
+  "exemples": [
+   ["The pharmacy is opposite the post office.", "On the other side of the street."],
+   ["The café is on the corner of Rue Royale and Rue Neuve.", "Where two streets meet."],
+   ["It's between the bank and the supermarket.", "between A and B."]
+  ]
+ },
+ {
+  "titre": "Distance and time",
+  "texte": [
+   "For distance: “It's about 300 metres.” (US meters), “It's near here.”, “It isn't far.”, “It's quite far.” Say “near the station” (no “from”) but “far from the station”.",
+   "For time: “It's a five-minute walk.” (no s on minute, because it works like an adjective) or “It's five minutes' walk.” / “It's five minutes on foot.” / “It's ten minutes by bus.”",
+   "For transport: “Take bus number 12 and get off at the third stop.” A useful phrase: “You can't miss it!” (It's very easy to see.)"
+  ],
+  "exemples": [
+   ["Is it far? — No, it's a five-minute walk.", "Time on foot."],
+   ["The airport is far from the city centre. Take a taxi.", "far from."],
+   ["Take the metro and get off at Central Station.", "get off = leave the train or bus."]
+  ]
+ },
+ {
+  "titre": "Checking you understand",
+  "texte": [
+   "Don't be afraid to ask someone to repeat: “Sorry, can you say that again, please?”, “Can you speak more slowly, please?”.",
+   "Repeat the directions to check, with your voice going up: “So, I go straight on and turn left at the bank?” Then say thank you: “Thanks a lot!”, “Thank you very much!”"
+  ],
+  "exemples": [
+   ["Sorry, can you say that again, please?", "Asking someone to repeat."],
+   ["So, the second right, then it's on my left?", "Checking."]
+  ]
+ }
+],
+"formule": "Excuse me, how do I get to…? — Go straight on, turn left at…, take the second right. It's on the left / opposite…",
+"prononciation": [
+ "“straight” is /streɪt/, like “great”: don't say the gh.",
+ "“opposite” /ˈɒpəzɪt/: stress on the first syllable; the end sounds like “-zit”.",
+ "“Excuse me” /ɪkˈskjuːz miː/: the s in “excuse” (verb) is /z/.",
+ "In “roundabout” and “crossroads”, the stress is at the start: ROUNDabout, CROSSroads.",
+ "To check, your voice goes up at the end: “The second LEFT? ↗”."
+],
+"erreurs": [
+ ["Turn on the left.", "Turn left.", "“Turn left / right” with no preposition."],
+ ["The museum is in the left.", "The museum is on the left.", "Use “on the left”."],
+ ["It's at five minutes from here.", "It's five minutes from here. / It's a five-minute walk.", "No “at” before a distance."],
+ ["It's near from the station.", "It's near the station.", "“near” with no “from” (but “far from”)."],
+ ["It's in front of the bank. (on the other side of the street)", "It's opposite the bank.", "On the other side = opposite."],
+ ["Take the second street at left.", "Take the second left. / Take the second street on the left.", "Say “on the left”."],
+ ["It's a five-minutes walk.", "It's a five-minute walk.", "Before a noun, “five-minute” is an adjective: no s."],
+ ["How I go to the station?", "How do I get to the station?", "You need the auxiliary “do” in the question."]
+],
+"dialogue": {
+ "contexte": "In Brussels, Ama, a tourist from Ghana, is looking for the Grand-Place. She asks a man in the street, Luc.",
+ "lignes": [
+  ["Ama", "Excuse me, how do I get to the Grand-Place?", "Polite start + natural question."],
+  ["Luc", "Oh, it's easy. Go straight on along this street.", "Imperative."],
+  ["Ama", "Straight on. OK.", "She repeats to remember."],
+  ["Luc", "At the traffic lights, turn left. Then take the second right.", "Two steps with “then”."],
+  ["Ama", "Sorry, can you say that again, please?", "Asking to repeat."],
+  ["Luc", "Sure. Left at the lights, then the second right. You go past a big chocolate shop.", "go past = walk in front of it."],
+  ["Ama", "So, left at the lights, second right, past the chocolate shop. Is it far?", "Checking + distance."],
+  ["Luc", "No, it's a ten-minute walk. The square is at the end of that street. You can't miss it!", "ten-minute: no s."],
+  ["Ama", "Thank you very much!", "Saying thank you."],
+  ["Luc", "You're welcome. Enjoy Brussels!", "Answer to thank you."]
+ ]
+},
+"mots": [
+ ["straight on", "Go straight on for 200 metres.", "forward, without turning (US: straight ahead)"],
+ ["left", "Turn left at the church.", "the side of your body where most people have their heart"],
+ ["right", "The bank is on the right.", "the opposite side to left"],
+ ["opposite", "The bus stop is opposite the school.", "on the other side, facing something"],
+ ["corner", "The shop is on the corner.", "the place where two streets meet"],
+ ["traffic lights", "Stop at the traffic lights.", "red, yellow and green lights for cars"],
+ ["roundabout", "Take the first exit at the roundabout.", "a round place where roads meet (US: traffic circle)"],
+ ["cross", "Cross the road carefully.", "go from one side to the other"],
+ ["far", "Is the station far?", "a long way away"],
+ ["lost", "Excuse me, I'm lost.", "not knowing where you are"]
+],
+"exercices": [
+ {
+  "titre": "1. Complete the directions",
+  "consigne": "Complete with on, at, past, opposite, straight or the.",
+  "items": [
+   ["Go ___ on.", "straight"],
+   ["Turn left ___ the traffic lights.", "at"],
+   ["The bank is ___ the right.", "on"],
+   ["Go ___ the church and turn right.", "past"],
+   ["The café is ___ the station, on the other side of the road.", "opposite"],
+   ["Take ___ second left.", "the"]
+  ]
+ },
+ {
+  "titre": "2. Ask the question",
+  "consigne": "Write a polite question for each situation.",
+  "items": [
+   ["You are looking for the station.", "Excuse me, how do I get to the station? / Excuse me, where's the station?"],
+   ["You want to know if there is a bank near here.", "Excuse me, is there a bank near here?"],
+   ["You want to know if the museum is far.", "Is the museum far from here?"],
+   ["You didn't understand.", "Sorry, can you say that again, please?"]
+  ]
+ },
+ {
+  "titre": "3. Correct the mistake",
+  "consigne": "Each direction has one mistake. Write it correctly.",
+  "items": [
+   ["Turn at left.", "Turn left."],
+   ["Go straight.", "Go straight on. (US: Go straight ahead.)"],
+   ["Take the second at right.", "Take the second right. / Take the second street on the right."],
+   ["Cross on the road.", "Cross the road. / Cross the street."],
+   ["It's in face of the post office.", "It's opposite the post office. (US: It's across from the post office.)"]
+  ]
+ },
+ {
+  "titre": "4. Is it far?",
+  "consigne": "Answer “Is it far?” with the information given.",
+  "items": [
+   ["5 minutes on foot", "No, it's a five-minute walk. / It's five minutes on foot."],
+   ["2 km", "It's about two kilometres."],
+   ["20 minutes by bus", "It's twenty minutes by bus."],
+   ["very close", "No, it's very near. / It's just round the corner."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Explain to a visitor how to go from your home (or your work) to a place near it: a station, a market, a pharmacy. Write four or five sentences.",
+  "items": [
+   ["Model answer", "Go out of my building and turn right. Go straight on along Avenue Kennedy for about 300 metres. At the roundabout, take the second exit. Go past the big supermarket. The pharmacy is on the left, opposite the bus stop. It's a ten-minute walk."]
+  ]
+ }
+],
+"a_retenir": [
+ "Ask: Excuse me, how do I get to…? / Where's…? / Is there a … near here?",
+ "Give directions with the imperative: go straight on, turn left / right, take the first left, go past, cross.",
+ "Say where: on the left / right, opposite, next to, between, on the corner, at the end of.",
+ "Distance: It's a five-minute walk / near the station / far from the station.",
+ "Check: Sorry, can you say that again? So, I turn left at the bank?"
+],
+"liens": [17, 32, 71, 85],
+"refs": ["bc-prep-place", "cam-prep"]
+}

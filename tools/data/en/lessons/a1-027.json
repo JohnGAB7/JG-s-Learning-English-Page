@@ -1,0 +1,214 @@
+{
+"n": 27,
+"niveau": "A1",
+"titre": "The home and its rooms",
+"intro": "We describe our home when we introduce ourselves, look for a flat, invite someone or explain where something is. This lesson gives you rooms, furniture and sentences to describe a home, with the traps of floors and “at home”.",
+"objectifs": [
+ "Name types of home, rooms and common furniture.",
+ "Describe your home with there is / there are, have got and adjectives.",
+ "Use floors correctly (ground floor, first floor) and upstairs / downstairs.",
+ "Use “at home” and “go home” correctly."
+],
+"sections": [
+ {
+  "titre": "Homes and floors",
+  "texte": [
+   "A home in a building is “a flat” in British English and “an apartment” in American and Canadian English. “A house” is a building for one family; “a studio” (UK also “studio flat”) is a flat with one main room.",
+   "Floors: in British English, the floor at street level is “the ground floor” and the floor above it is “the first floor”. In American English, the floor at street level is “the first floor”! Use the preposition “on”: “on the second floor”.",
+   "“Upstairs” = on a higher floor; “downstairs” = on a lower floor. Use them with no preposition: “The bedrooms are upstairs.”"
+  ],
+  "tableau": {
+   "entetes": ["Meaning", "British English", "American English"],
+   "lignes": [
+    ["a home in a building", "a flat", "an apartment"],
+    ["the floor at street level", "the ground floor", "the first floor"],
+    ["the floor above it", "the first floor", "the second floor"],
+    ["the floor under the street", "the basement", "the basement"],
+    ["a machine to go up and down", "the lift", "the elevator"]
+   ]
+  },
+  "exemples": [
+   ["I live in a flat on the fourth floor.", "British English."],
+   ["The bathroom is upstairs.", "No preposition before upstairs."]
+  ]
+ },
+ {
+  "titre": "Rooms",
+  "texte": [
+   "Many room names are compound words: bed + room = bedroom, bath + room = bathroom. Say “in the kitchen”, “in the living room”.",
+   "“Toilet” is the room with a toilet at home (UK informal: “the loo”). In a public place, say “the toilets” or “the ladies / the gents” (UK) and “the restroom” (US). “Bathroom” is the room with a bath or shower; Americans also use it for the toilet."
+  ],
+  "tableau": {
+   "entetes": ["Room", "What you do there", "Note"],
+   "lignes": [
+    ["the living room", "watch TV, meet friends", "UK also: sitting room, lounge"],
+    ["the kitchen", "cook", "—"],
+    ["the dining room", "eat", "—"],
+    ["the bedroom", "sleep", "—"],
+    ["the bathroom", "wash, have a shower", "US: also the toilet"],
+    ["the toilet", "go to the toilet", "UK informal: the loo"],
+    ["the hall", "come in, take off your coat", "the space at the door"],
+    ["the garden", "grow flowers, play outside", "US: yard"],
+    ["the garage", "park the car", "—"],
+    ["the balcony", "get some air", "outside a flat"]
+   ]
+  },
+  "exemples": [
+   ["The children are in the garden.", "in + room or place."],
+   ["Our flat has got two bedrooms and a small kitchen.", "have got to describe a home."]
+  ],
+  "note": "Careful: “a cave” is a big hole in a mountain or under the ground. The room under a house for wine or old things is “the cellar” (or “the basement”). For the room where you sleep, say “bedroom”, not “chamber”."
+ },
+ {
+  "titre": "Furniture and equipment",
+  "texte": [
+   "“Furniture” is uncountable: “There's a lot of furniture.” For one thing, say “a piece of furniture”.",
+   "“A cupboard” has doors and shelves, often in the kitchen; “a wardrobe” is a tall cupboard for clothes (US: “closet”)."
+  ],
+  "tableau": {
+   "entetes": ["Room", "Furniture and equipment", "Note"],
+   "lignes": [
+    ["living room", "a sofa · an armchair · a coffee table · a TV · a lamp · a carpet", "sofa: for two or more people"],
+    ["kitchen", "a fridge · a cooker · a sink · a cupboard · a table", "US: stove for cooker"],
+    ["bedroom", "a bed · a wardrobe · a desk · a mirror · a chair", "US: closet for wardrobe"],
+    ["bathroom", "a shower · a bath · a washbasin · a towel", "US: bathtub for bath"]
+   ]
+  },
+  "exemples": [
+   ["There's a big sofa in the living room.", "There's + one thing."],
+   ["The plates are in the cupboard next to the fridge.", "Preposition of place."]
+  ]
+ },
+ {
+  "titre": "Describing your home",
+  "texte": [
+   "To describe a home, use tools you know: “there is / there are” (lesson 16), prepositions of place (lesson 17) and “have got” (lesson 5).",
+   "Useful adjectives: big / small, bright (with a lot of light), dark, quiet, noisy, modern, old, comfortable, clean, tidy (everything in its place), messy.",
+   "For renting: “rent” (the money you pay every month; to pay to live somewhere), “a landlord / a landlady” (the owner), “a neighbour” (US neighbor)."
+  ],
+  "exemples": [
+   ["There are three bedrooms upstairs and there's a kitchen downstairs.", "there are + plural; there's + singular."],
+   ["My flat is small but very bright.", "be + adjectives."],
+   ["The rent is 750 euros a month.", "a month = every month."]
+  ]
+ },
+ {
+  "titre": "“At home”, “go home”",
+  "texte": [
+   "“At home” = in your house or flat: “I'm at home.” Don't say “at the house” for your own home.",
+   "With a verb of movement, use “home” with no preposition: “go home”, “come home”, “get home” (arrive at home). Never “go to home”.",
+   "For someone else's home: “at Paul's” / “to Paul's”, or “at Paul's house / flat”."
+  ],
+  "exemples": [
+   ["Are you at home tonight?", "at home = in your home."],
+   ["I go home at six o'clock.", "No “to” before home."],
+   ["The party is at Julie's flat.", "Someone else's home."]
+  ]
+ }
+],
+"formule": "There is / There are + room / furniture + place · on the first floor · upstairs / downstairs · at home, go home",
+"prononciation": [
+ "“cupboard” is /ˈkʌbəd/: don't say the p (“kub-ed”).",
+ "“comfortable” has three syllables: /ˈkʌmftəbl/ (“kumf-te-bl”), with the stress at the start.",
+ "“furniture” /ˈfɜːnɪtʃə/: stress on the first syllable, “ch” at the end.",
+ "In compound words, stress the first word: BEDroom, BATHroom, LIVing room.",
+ "“kitchen” /ˈkɪtʃɪn/: two short i sounds, with “ch” in the middle."
+],
+"erreurs": [
+ ["I go to home.", "I go home.", "No preposition between a verb of movement and “home”."],
+ ["I'm at the house tonight.", "I'm at home tonight.", "Your own home = at home."],
+ ["There are many furnitures.", "There's a lot of furniture.", "“Furniture” is uncountable."],
+ ["My flat is at the first floor.", "My flat is on the first floor.", "Use “on” with floors."],
+ ["I sleep in my chamber.", "I sleep in my bedroom.", "The room for sleeping = a bedroom."],
+ ["We keep the wine in the cave.", "We keep the wine in the cellar.", "A cave is a hole in a mountain."],
+ ["There is two bedrooms.", "There are two bedrooms.", "“There are” before a plural."]
+],
+"dialogue": {
+ "contexte": "In Brussels, Yasmine visits a flat to rent with the landlord, Mr Peeters.",
+ "lignes": [
+  ["Mr Peeters", "Welcome! The flat is on the third floor. There's a lift.", "on + floor."],
+  ["Yasmine", "Great. How many bedrooms are there?", "Question with “are there”."],
+  ["Mr Peeters", "There are two bedrooms, and a bathroom with a shower.", "There are + plural."],
+  ["Yasmine", "Oh, the living room is very bright! Is the furniture included?", "furniture = singular verb “is”."],
+  ["Mr Peeters", "Yes: the sofa, the table, the beds and the wardrobes.", "A list of furniture."],
+  ["Yasmine", "And the kitchen? Is there a fridge?", "Question with “is there”."],
+  ["Mr Peeters", "Yes, there's a fridge and a new cooker. And there's a small balcony.", "cooker = machine for cooking."],
+  ["Yasmine", "It's perfect. What's the rent?", "rent = money every month."],
+  ["Mr Peeters", "Nine hundred euros a month.", "a month = every month."]
+ ]
+},
+"mots": [
+ ["flat", "I live in a small flat.", "a home on one floor of a building (US: apartment)"],
+ ["kitchen", "The kitchen is next to the living room.", "the room where you cook"],
+ ["bedroom", "My bedroom is upstairs.", "the room where you sleep"],
+ ["bathroom", "The bathroom has a shower.", "the room where you wash"],
+ ["living room", "We watch TV in the living room.", "the room where you relax and meet people"],
+ ["floor", "We live on the second floor.", "a level of a building; the ground you walk on in a room"],
+ ["furniture", "The furniture is modern.", "tables, chairs, beds and so on (uncountable)"],
+ ["upstairs", "The children are upstairs.", "on a higher floor"],
+ ["garden", "There are flowers in the garden.", "land next to a house with grass or flowers"],
+ ["rent", "The rent is high in Paris.", "money you pay every month to live in a place"]
+],
+"exercices": [
+ {
+  "titre": "1. Which room?",
+  "consigne": "In which room do you do these things?",
+  "items": [
+   ["You sleep here.", "the bedroom"],
+   ["You cook here.", "the kitchen"],
+   ["You have a shower here.", "the bathroom"],
+   ["You watch TV with your family here.", "the living room"],
+   ["You park the car here.", "the garage"],
+   ["You grow flowers here.", "the garden"]
+  ]
+ },
+ {
+  "titre": "2. Where is it?",
+  "consigne": "In which room do you usually find this?",
+  "items": [
+   ["a bed", "the bedroom"],
+   ["a fridge", "the kitchen"],
+   ["a sofa", "the living room"],
+   ["a shower", "the bathroom"]
+  ]
+ },
+ {
+  "titre": "3. There is or there are?",
+  "consigne": "Complete with There's or There are.",
+  "items": [
+   ["___ three bedrooms in the house.", "There are"],
+   ["___ a big kitchen.", "There's"],
+   ["___ a lot of furniture in the living room.", "There's"],
+   ["___ two bathrooms upstairs.", "There are"],
+   ["___ a small garden behind the house.", "There's"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I'm at the home.", "I'm at home."],
+   ["My flat is in the ground floor.", "My flat is on the ground floor. (US: My apartment is on the first floor.)"],
+   ["There are a lot of furnitures.", "There's a lot of furniture."],
+   ["I go to home at 6 p.m.", "I go home at 6 p.m."],
+   ["The bedrooms are at upstairs.", "The bedrooms are upstairs."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Describe your home in four or five sentences: the type of home, the floor, the rooms, your favourite room and what is in it.",
+  "items": [
+   ["Model answer", "I live in a flat in Yaoundé. It's on the second floor. There are two bedrooms, a living room, a kitchen and a bathroom. My favourite room is the living room: it's bright and there's a big comfortable sofa. There's also a small balcony with plants."]
+  ]
+ }
+],
+"a_retenir": [
+ "flat (UK) / apartment (US); ground floor (UK) = street level; first floor (UK) = the floor above; on the first floor.",
+ "Rooms: living room, kitchen, bedroom, bathroom, dining room, hall, garden.",
+ "“Furniture” is uncountable: a lot of furniture, a piece of furniture.",
+ "at home (in your home); go home, come home (no “to”).",
+ "To describe: There's a…, There are…, upstairs / downstairs, bright, quiet, comfortable."
+],
+"liens": [5, 16, 17, 30],
+"refs": ["bc-there", "bc-prep-place"]
+}

@@ -1,0 +1,420 @@
+{
+ "n": 232,
+ "niveau": "C1",
+ "titre": "L’ellipse avancée",
+ "intro": "L'anglais supprime volontiers ce qui est déjà clair : « I haven't finished, but Sara has », « Anna ordered fish, and Tom pasta », « Coming? », « If necessary, call me ». Maîtriser l'ellipse rend votre anglais plus naturel à l'oral et plus fluide à l'écrit, à condition de connaître ce qu'on peut supprimer — et ce qu'on doit garder.",
+ "objectifs": [
+  "Pratiquer l'ellipse après un auxiliaire, y compris avec be, been et les modaux parfaits (It should be. — It may have been.).",
+  "Utiliser l'ellipse avec to (I'd love to), le gapping (Anna ordered fish, and Tom pasta) et l'ellipse dans les comparatives.",
+  "Reconnaître l'ellipse situationnelle de l'oral (Sounds good. — Seen Tom?) et l'ellipse dans les subordonnées (If necessary, When in doubt).",
+  "Éviter les erreurs typiques : « Yes, I'm », « I think » sans so, « I didn't want » sans to, oubli de be."
+ ],
+ "sections": [
+  {
+   "titre": "L'ellipse après un auxiliaire",
+   "texte": [
+    "Le cœur de l'ellipse anglaise : on garde l'auxiliaire (ou le modal) et on supprime le reste du groupe verbal, déjà connu. « I haven't finished the report, but Sara has (finished it). » « She can't drive, but her son can. »",
+    "Si la phrase de départ n'a pas d'auxiliaire, on utilise do / does / did : « I didn't enjoy the film, but my wife did. »",
+    "Règle clé : la forme contractée est impossible en fin de phrase. On dit « Yes, I am », « I think she is », jamais « Yes, I'm » ni « I think she's »."
+   ],
+   "exemples": [
+    [
+     "“Have you paid the bill?” “No, but I will.”",
+     "On garde will ; « pay the bill » est sous-entendu."
+    ],
+    [
+     "Nobody expected him to win, but he did.",
+     "« did » remplace « won »."
+    ],
+    [
+     "“Are you ready?” “Yes, I am.”",
+     "Pas de contraction en fin d'énoncé."
+    ]
+   ]
+  },
+  {
+   "titre": "Be, been et les modaux parfaits : ce qu'il faut garder",
+   "texte": [
+    "Quand le verbe supprimé est « be », un modal ne suffit pas : il faut garder « be ». « Is the room ready? » — « It should be. » (et non « It should. »). De même : « He isn't at home, but he might be. »",
+    "Avec un passif ou un temps parfait, on peut garder plusieurs auxiliaires ; l'anglais britannique garde souvent « been » ou « done » : « Has the parcel been delivered? » — « It may have (been). » ; « Did he lock the door? » — « He might have (done). » (« done » est surtout britannique)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Question / phrase",
+     "Ellipse correcte",
+     "À éviter"
+    ],
+    "lignes": [
+     [
+      "Is it finished?",
+      "It should be.",
+      "It should."
+     ],
+     [
+      "Will they be there?",
+      "They might be.",
+      "They might."
+     ],
+     [
+      "Has it been fixed?",
+      "It may have been. / It may have.",
+      "It may."
+     ],
+     [
+      "Did she call?",
+      "She might have. / She might have done. (BrE)",
+      "She might."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "“Is the report ready?” “It should be by Friday.”",
+     "« be » obligatoire après le modal."
+    ]
+   ]
+  },
+  {
+   "titre": "L'ellipse avec « to » et dans les comparatives",
+   "texte": [
+    "Après un verbe suivi d'un infinitif (want, would like, need, try, hope, have, ought, used), on garde « to » et on supprime le verbe : « I'd love to. », « You don't have to. », « I used to. ». Supprimer aussi « to » est possible après « want » et « like » dans certaines subordonnées (« You can leave if you want (to) »).",
+    "Dans les comparatives, le second terme est presque toujours réduit : « She earns more than I do » (soutenu) / « than me » (courant) ; « as soon as possible » ; « Prices are higher than (they were) last year. »"
+   ],
+   "exemples": [
+    [
+     "“Do you want to come with us?” “I'd love to, but I can't.”",
+     "« to » seul : « I'd love to come » est sous-entendu."
+    ],
+    [
+     "She speaks Spanish better than she did a year ago.",
+     "« did » remplace « spoke Spanish »."
+    ]
+   ]
+  },
+  {
+   "titre": "Gapping et ellipse dans les phrases coordonnées",
+   "texte": [
+    "Dans deux propositions coordonnées parallèles, on peut supprimer le verbe de la seconde : c'est le gapping. « Anna ordered fish, and Tom pasta. » « Some prefer tea; others, coffee. » La virgule marque souvent l'endroit de l'ellipse. Style plutôt écrit.",
+    "Avec le même sujet, on supprime sujet et auxiliaire dans la seconde proposition : « She was tired and (she) wanted to go home. » « We can stay or (we can) leave. »"
+   ],
+   "exemples": [
+    [
+     "In 2023, exports rose by 4 %; in 2024, by 7 %.",
+     "Gapping à l'écrit : « exports rose » est sous-entendu."
+    ],
+    [
+     "He picked up his keys, (he) locked the door and (he) left.",
+     "Sujet supprimé dans une suite d'actions."
+    ]
+   ]
+  },
+  {
+   "titre": "Ellipse dans le groupe nominal et dans les subordonnées",
+   "texte": [
+    "Dans le groupe nominal, on supprime le nom après un déterminant, un possessif ou un superlatif : « Some students passed; others didn't. », « Her car is newer than mine. », « This is the best I've seen. »",
+    "Dans les subordonnées de temps, de condition ou de concession, on peut supprimer sujet + be : « If necessary, call me. », « When in doubt, ask. », « Although tired, she continued. », « Once finished, the form must be signed. ». Attention : le sujet sous-entendu doit être le même que celui de la principale (sinon, phrase « bancale » : voir leçon 237)."
+   ],
+   "exemples": [
+    [
+     "If in doubt, contact your manager.",
+     "= If you are in doubt…"
+    ],
+    [
+     "While in Douala, we visited the port.",
+     "= While we were in Douala…"
+    ]
+   ]
+  },
+  {
+   "titre": "L'ellipse situationnelle de l'oral",
+   "texte": [
+    "À l'oral et dans les messages, on supprime souvent le début de la phrase (sujet, auxiliaire, it / there) quand la situation est claire : « (Have you) Seen Tom? », « (It) Sounds great! », « (Are you) Coming? », « (I'm) Sorry, (I) can't make it. », « (There's) No problem. »",
+    "C'est très naturel entre collègues ou amis, mais à éviter à l'écrit formel. Elle complète les substitutions « so / not » vues au B2 : « I think so », « I hope not », « I'm afraid so »."
+   ],
+   "exemples": [
+    [
+     "“Coffee?” “Love one, thanks.”",
+     "= Would you like a coffee? — I'd love one."
+    ]
+   ]
+  }
+ ],
+ "formule": "Garder l'auxiliaire / le modal (+ be / been si nécessaire) ou « to », supprimer le reste déjà connu ; pas de contraction en fin d'énoncé",
+ "prononciation": [
+  "L'auxiliaire en fin d'énoncé est toujours en forme pleine et accentué : « Yes, I AM » /æm/, « She HAS » /hæz/, « I CAN » /kæn/.",
+  "Comparer : « I can swim » /aɪ kən ˈswɪm/ (réduit) et « Yes, I can » /ˈkæn/ (plein).",
+  "« to » en fin de phrase garde une voyelle pleine : « I'd love to » /tuː/, jamais /tə/.",
+  "Dans le gapping, une courte pause marque le verbe absent : « Anna ordered fish, | and Tom | pasta. »",
+  "L'accent contrastif tombe sur les éléments qui changent : « I haven't finished, but SAra HAS. »"
+ ],
+ "erreurs": [
+  [
+   "“Are you French?” “Yes, I'm.”",
+   "“Yes, I am.”",
+   "Pas de contraction en fin d'énoncé."
+  ],
+  [
+   "“Will it rain?” “I think.”",
+   "“I think so.”",
+   "Calque de « je pense » : il faut « so » (ou « I think it will »)."
+  ],
+  [
+   "I wanted to help, but I couldn't help.",
+   "I wanted to help, but I couldn't.",
+   "On ne répète pas le verbe après le modal."
+  ],
+  [
+   "“Can you come?” “I'd like, but I'm busy.”",
+   "“I'd like to, but I'm busy.”",
+   "Après like / love / want, on garde « to »."
+  ],
+  [
+   "“Is the room ready?” “It should.”",
+   "“It should be.”",
+   "Quand le verbe supprimé est be, on le garde."
+  ],
+  [
+   "He is more patient than me am.",
+   "He is more patient than I am. / than me.",
+   "« than I am » ou « than me », pas de mélange."
+  ],
+  [
+   "Although being tired, she continued.",
+   "Although tired, she continued. / Although she was tired, she continued.",
+   "Après although, on supprime sujet + be sans « being »."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Deux collègues échangent dans un open space à Bruxelles en fin de journée.",
+  "lignes": [
+   [
+    "Julie",
+    "Finished the budget yet?",
+    "Tu as fini le budget ?"
+   ],
+   [
+    "Samuel",
+    "Not yet, but Karim has. I'm still on the travel costs.",
+    "Pas encore, mais Karim, oui. J'en suis encore aux frais de déplacement."
+   ],
+   [
+    "Julie",
+    "Is the meeting with the auditors still on tomorrow?",
+    "La réunion avec les auditeurs est toujours prévue demain ?"
+   ],
+   [
+    "Samuel",
+    "It should be. Lena was going to confirm, but I don't think she has.",
+    "Normalement, oui. Lena devait confirmer, mais je ne crois pas qu'elle l'ait fait."
+   ],
+   [
+    "Julie",
+    "I can call her if you want me to.",
+    "Je peux l'appeler si tu veux."
+   ],
+   [
+    "Samuel",
+    "Would you? That'd be great. Oh, and coffee before we go?",
+    "Tu ferais ça ? Ce serait super. Oh, et un café avant de partir ?"
+   ],
+   [
+    "Julie",
+    "Love to, but I can't. My train's at six.",
+    "Avec plaisir, mais je ne peux pas. Mon train est à six heures."
+   ],
+   [
+    "Samuel",
+    "No problem. If necessary, I'll stay late and finish the figures.",
+    "Pas de souci. Si nécessaire, je resterai tard pour finir les chiffres."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "ellipsis",
+   "Ellipsis avoids repeating words.",
+   "ellipse"
+  ],
+  [
+   "omit",
+   "You can omit the verb in the second clause.",
+   "omettre"
+  ],
+  [
+   "auxiliary",
+   "Keep the auxiliary at the end.",
+   "auxiliaire"
+  ],
+  [
+   "clause",
+   "The second clause has no verb.",
+   "proposition"
+  ],
+  [
+   "redundant",
+   "Repeating the verb is redundant here.",
+   "superflu, redondant"
+  ],
+  [
+   "if necessary",
+   "If necessary, we'll extend the deadline.",
+   "si nécessaire"
+  ],
+  [
+   "when in doubt",
+   "When in doubt, check the dictionary.",
+   "dans le doute"
+  ],
+  [
+   "make it",
+   "Sorry, I can't make it tonight.",
+   "pouvoir venir, y arriver"
+  ],
+  [
+   "still on",
+   "Is the party still on?",
+   "toujours prévu, maintenu"
+  ],
+  [
+   "figures",
+   "I'll finish the figures tonight.",
+   "chiffres"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Que manque-t-il ?",
+   "consigne": "Écris les mots supprimés par l'ellipse.",
+   "items": [
+    [
+     "I haven't read the book, but my sister has.",
+     "read the book"
+    ],
+    [
+     "Anna ordered fish, and Tom pasta.",
+     "ordered"
+    ],
+    [
+     "If necessary, I'll come back tomorrow.",
+     "it is (If it is necessary)"
+    ],
+    [
+     "Sounds good to me.",
+     "It (It sounds good to me.)"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Réponses courtes",
+   "consigne": "Réponds avec une ellipse correcte (auxiliaire ou modal).",
+   "items": [
+    [
+     "“Are you tired?” (oui)",
+     "Yes, I am."
+    ],
+    [
+     "“Is the report finished?” (probablement, avec should)",
+     "It should be."
+    ],
+    [
+     "“Did Paul lock the door?” (peut-être, avec might)",
+     "He might have. / He might have done. (BrE)"
+    ],
+    [
+     "“Do you want to join us?” (oui, avec love)",
+     "I'd love to."
+    ],
+    [
+     "“Will it be expensive?” (j'espère que non)",
+     "I hope not."
+    ]
+   ]
+  },
+  {
+   "titre": "3. Supprimer la répétition",
+   "consigne": "Réécris la phrase en utilisant une ellipse.",
+   "items": [
+    [
+     "I can't come on Monday, but Lisa can come on Monday.",
+     "I can't come on Monday, but Lisa can."
+    ],
+    [
+     "She didn't like the hotel, but her husband liked the hotel.",
+     "She didn't like the hotel, but her husband did."
+    ],
+    [
+     "In 2022, sales rose by 3 %, and in 2023, sales rose by 5 %.",
+     "In 2022, sales rose by 3 %, and in 2023, by 5 %."
+    ],
+    [
+     "You can leave early if you want to leave early.",
+     "You can leave early if you want (to)."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "“Is she your manager?” “Yes, she's.”",
+     "“Yes, she is.”"
+    ],
+    [
+     "“Will they be late?” “They might.”",
+     "“They might be.”"
+    ],
+    [
+     "“Can you help me?” “I'd like, but I can't.”",
+     "“I'd like to, but I can't.”"
+    ],
+    [
+     "Although being exhausted, he kept running.",
+     "Although exhausted, he kept running. / Although he was exhausted, he kept running."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec une ellipse naturelle.",
+   "items": [
+    [
+     "« Tu viens ce soir ? » « J'aimerais bien, mais je ne peux pas. »",
+     "“Are you coming tonight?” “I'd love to, but I can't.”"
+    ],
+    [
+     "« Il fera beau demain ? » « Je pense que oui. »",
+     "“Will it be sunny tomorrow?” “I think so.”"
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court échange (5 à 6 répliques) entre deux collègues qui organisent une réunion. Utilise au moins quatre ellipses différentes.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "A: Booked the room yet? B: No, but Marie has. A: Great. Is the projector working? B: It should be. I tested it on Monday, but the IT team might have changed something. A: I'll check if you want me to. B: Would you? Thanks. A: No problem. If necessary, we can use my laptop."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "On garde l'auxiliaire ou le modal, on supprime le reste : I haven't, but Sara has. Sans auxiliaire, do / does / did.",
+  "Jamais de contraction en fin d'énoncé (Yes, I am) ; garder « be » après un modal (It should be) ; garder « to » (I'd love to).",
+  "Gapping à l'écrit (Anna ordered fish, and Tom pasta) ; ellipse dans les subordonnées (If necessary, When in doubt, Although tired).",
+  "À l'oral, ellipse situationnelle (Sounds good, Seen Tom?) ; « I think so / I hope not », jamais « I think » seul."
+ ],
+ "liens": [
+  183,
+  69,
+  230,
+  237,
+  278
+ ],
+ "refs": [
+  "bc-ellipsis",
+  "bc-repetition",
+  "bc-c1"
+ ]
+}

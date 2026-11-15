@@ -1,0 +1,195 @@
+{
+ "n": 95,
+ "niveau": "B1",
+ "titre": "Le premier conditionnel",
+ "intro": "Le premier conditionnel (If it rains, I'll stay at home) parle d'une situation future possible et réaliste, et de sa conséquence probable. On l'utilise sans cesse pour avertir, négocier, promettre et faire des projets.",
+ "objectifs": [
+  "Construire une phrase au premier conditionnel avec if + présent simple et will + base verbale.",
+  "Ne jamais mettre will dans la proposition en if (piège direct du français « si » + présent… mais aussi « quand » + futur).",
+  "Varier la conséquence avec may, might, can, should, be going to ou un impératif.",
+  "Distinguer if et when, et utiliser unless dans les cas simples."
+ ],
+ "sections": [
+  {
+   "titre": "La structure",
+   "texte": [
+    "Deux parties : la condition (if + présent simple) et le résultat (will / won't + base verbale). L'ordre est libre. Si la phrase commence par if, on met une virgule entre les deux parties ; si elle commence par le résultat, pas de virgule.",
+    "Le présent simple dans la proposition en if parle bien du futur. C'est comme en français (« s'il pleut demain »), donc la difficulté vient surtout de la tentation d'ajouter will par symétrie."
+   ],
+   "tableau": {
+    "entetes": ["Condition (if + présent)", "Résultat (will + base verbale)"],
+    "lignes": [
+     ["If it rains tomorrow,", "we'll stay at home."],
+     ["If you don't hurry,", "you'll miss the bus."],
+     ["If she gets the job,", "she'll move to Toronto."],
+     ["If they don't call,", "I won't wait for them."]
+    ]
+   },
+   "exemples": [
+    ["We'll stay at home if it rains tomorrow.", "Ordre inversé : pas de virgule."],
+    ["If you study regularly, you'll pass the exam.", "Situation réaliste, conséquence probable."]
+   ]
+  },
+  {
+   "titre": "Les questions et les négations",
+   "texte": [
+    "La question porte en général sur le résultat : What will you do if…? / Will you come if…? La négation peut se trouver dans l'une ou l'autre partie, ou dans les deux.",
+    "Avec if, on emploie souvent any, anyone, anything dans une phrase affirmative : « If anyone calls, take a message. »"
+   ],
+   "exemples": [
+    ["What will you do if you don't get a visa?", "Que feras-tu si tu n'obtiens pas de visa ?"],
+    ["Will you come if I invite Paul?", "Tu viendras si j'invite Paul ?"],
+    ["If you don't call me, I won't know where you are.", "Négation dans les deux parties."]
+   ]
+  },
+  {
+   "titre": "Varier la conséquence",
+   "texte": [
+    "Le résultat n'est pas toujours will. On peut le remplacer par un modal pour nuancer : may / might (peut-être), can (possibilité, permission), should (conseil), must (obligation), be going to.",
+    "Le résultat peut aussi être un impératif, très courant pour donner des consignes : « If you see Anna, tell her to call me. »"
+   ],
+   "tableau": {
+    "entetes": ["Résultat", "Exemple", "Nuance"],
+    "lignes": [
+     ["might / may", "If we leave now, we might catch the train.", "possible, pas sûr"],
+     ["can", "If you finish early, you can go home.", "permission / possibilité"],
+     ["should", "If you feel ill, you should see a doctor.", "conseil"],
+     ["must", "If you want to apply, you must register first.", "obligation"],
+     ["impératif", "If it's too hot, open the window.", "consigne"]
+    ]
+   }
+  },
+  {
+   "titre": "If ou when ? Unless ?",
+   "texte": [
+    "If = ce n'est pas sûr que ça arrive. When = on sait que ça arrivera, la question est seulement le moment. « If I see him, I'll tell him » (je ne suis pas sûr de le voir) / « When I see him, I'll tell him » (je le vois demain au bureau). Dans les deux cas : présent simple, pas will.",
+    "Unless = if… not (à moins que, sauf si) : « You won't pass unless you study » = « You won't pass if you don't study. » Unless est lui-même suivi d'un verbe affirmatif. La leçon 100 approfondit unless, as long as et provided that."
+   ],
+   "exemples": [
+    ["When I get to Yaoundé, I'll call you.", "J'arriverai sûrement à Yaoundé."],
+    ["If I get the scholarship, I'll study in Montreal.", "Pas sûr d'obtenir la bourse."],
+    ["We'll go to the beach unless it rains.", "Sauf s'il pleut."]
+   ]
+  },
+  {
+   "titre": "Usages en situation",
+   "texte": [
+    "Le premier conditionnel sert à avertir (If you touch that, you'll burn yourself), à menacer (If you're late again, you'll lose your job), à promettre ou négocier (If you help me, I'll buy you lunch), à persuader (If you buy two, you'll get one free).",
+    "Dans un registre très poli ou formel, on rencontre « If you will… » (si vous voulez bien) ou « If you should need anything… » : ce sont des cas particuliers, pas des contre-exemples à la règle."
+   ],
+   "exemples": [
+    ["If you help me move, I'll cook you dinner.", "Négociation."],
+    ["If you press this button, the machine will stop.", "Mode d'emploi."]
+   ]
+  }
+ ],
+ "formule": "If + présent simple, will / won't + base verbale (If it rains, I'll stay at home.)",
+ "prononciation": [
+  "Montée de la voix à la fin de la proposition en if, puis descente à la fin du résultat : « If it RAINS ↗, we'll stay at HOME ↘. » La pause correspond à la virgule.",
+  "'ll est très léger mais doit s'entendre : « I'll call » /aɪl kɔːl/, « we'll go » /wiːl ɡəʊ/. Sans lui, la phrase devient grammaticalement fausse.",
+  "won't /wəʊnt/ porte souvent l'accent : « I WON'T wait. »",
+  "if se prononce /ɪf/ avec un i court, comme dans « it », jamais /iːf/.",
+  "unless /ənˈles/ : accent sur la deuxième syllabe."
+ ],
+ "erreurs": [
+  ["If it will rain, we'll stay at home.", "If it rains, we'll stay at home.", "Pas de will après if dans la condition."],
+  ["When I will arrive, I'll call you.", "When I arrive, I'll call you.", "Même règle après when, as soon as, before, until."],
+  ["If you will study, you pass.", "If you study, you'll pass.", "Les temps sont inversés : présent après if, will dans le résultat."],
+  ["Unless you don't hurry, you'll be late.", "Unless you hurry, you'll be late.", "Unless contient déjà la négation (= if not)."],
+  ["If I see him I tell him.", "If I see him, I'll tell him.", "Pour une conséquence future, il faut will dans le résultat (et une virgule après la condition)."],
+  ["If she'll come, we'll start.", "If she comes, we'll start.", "'ll = will : interdit dans la condition."]
+ ],
+ "dialogue": {
+  "contexte": "Namur, dans une petite boulangerie. Lucie, la patronne, prépare un week-end chargé avec Youssef, son nouvel employé.",
+  "lignes": [
+   ["Lucie", "If it's sunny on Saturday, we'll have a lot of customers.", "S'il fait beau samedi, nous aurons beaucoup de clients."],
+   ["Youssef", "What will we do if we run out of bread?", "Qu'est-ce qu'on fera si on n'a plus de pain ?"],
+   ["Lucie", "If that happens, call me and I'll bake more.", "Si ça arrive, appelle-moi et je referai une fournée."],
+   ["Youssef", "OK. And if I finish early, can I leave at four?", "D'accord. Et si je finis tôt, je peux partir à seize heures ?"],
+   ["Lucie", "Yes, unless the shop is still full.", "Oui, sauf si la boutique est encore pleine."],
+   ["Youssef", "Fair enough. If you show me the new oven, I'll start it myself next time.", "C'est normal. Si tu me montres le nouveau four, je l'allumerai moi-même la prochaine fois."],
+   ["Lucie", "Good idea. When we close tonight, I'll show you.", "Bonne idée. Quand on fermera ce soir, je te montrerai."],
+   ["Youssef", "Perfect. If it goes well, you might get a day off!", "Parfait. Si tout se passe bien, tu auras peut-être un jour de repos !"]
+  ]
+ },
+ "mots": [
+  ["run out of", "If we run out of milk, I'll buy some.", "manquer de, ne plus avoir de"],
+  ["miss", "If you don't hurry, you'll miss the train.", "rater, manquer"],
+  ["warn", "I'm warning you: if you do that again, you'll be sorry.", "avertir, prévenir"],
+  ["unless", "I'll come unless it rains.", "à moins que, sauf si"],
+  ["in case", "Take an umbrella in case it rains.", "au cas où"],
+  ["deal", "OK, it's a deal: if you cook, I'll wash up.", "le marché, l'accord"],
+  ["scholarship", "If she gets the scholarship, she'll study abroad.", "la bourse d'études"],
+  ["get lost", "If you don't take a map, you'll get lost.", "se perdre"],
+  ["on time", "If we leave now, we'll arrive on time.", "à l'heure"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Associer",
+   "consigne": "Choisis la fin logique : a) you'll get wet. b) I'll lend you some. c) she'll be angry. d) we'll miss the start.",
+   "items": [
+    ["If you need money, …", "b) I'll lend you some."],
+    ["If we don't leave now, …", "d) we'll miss the start."],
+    ["If you go out without an umbrella, …", "a) you'll get wet."],
+    ["If you forget her birthday, …", "c) she'll be angry."]
+   ]
+  },
+  {
+   "titre": "2. Conjuguer",
+   "consigne": "Mets les verbes à la bonne forme (premier conditionnel).",
+   "items": [
+    ["If you ___ (leave) the ice cream in the sun, it ___ (melt).", "leave … 'll melt (will melt)"],
+    ["If she ___ (not / come), we ___ (start) without her.", "doesn't come … 'll start (will start)"],
+    ["What ___ you ___ (do) if the flight is cancelled?", "will … do"],
+    ["I ___ (not / go) if Marc ___ (be) there.", "won't go … is"],
+    ["If they ___ (offer) me the job, I ___ (accept) it.", "offer … 'll accept (will accept)"]
+   ]
+  },
+  {
+   "titre": "3. If, when ou unless ?",
+   "consigne": "Complète avec if, when ou unless.",
+   "items": [
+    ["I'll phone you ___ I get to the hotel tonight.", "when"],
+    ["You'll fail the test ___ you revise.", "unless"],
+    ["___ it's too expensive, we won't buy it.", "If"],
+    ["We'll eat outside ___ it's cold.", "unless"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["If I will see her, I'll give her the book.", "If I see her, I'll give her the book."],
+    ["Unless you don't stop, I'll call the police.", "Unless you stop, I'll call the police. / If you don't stop, I'll call the police."],
+    ["If you'll be late, call me.", "If you're late, call me."],
+    ["We go to the park if it's sunny tomorrow.", "We'll go to the park if it's sunny tomorrow."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["S'il pleut demain, nous resterons à la maison.", "If it rains tomorrow, we'll stay at home."],
+    ["Si tu as besoin d'aide, appelle-moi.", "If you need help, call me."],
+    ["Quand j'arriverai à Montréal, je t'enverrai un message.", "When I arrive in Montreal, I'll send you a message."],
+    ["Si nous partons maintenant, nous arriverons peut-être à l'heure.", "If we leave now, we might arrive on time."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 4 phrases au premier conditionnel sur ta semaine prochaine : une avec will, une avec might, une avec un impératif et une avec unless.",
+   "items": [
+    ["Exemple de réponse", "If I finish work early on Friday, I'll go to the cinema. If the weather is good, we might have a barbecue. If you're free on Sunday, come and have lunch with us. I won't go to the gym unless my friend comes with me."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "If + présent simple, will + base verbale : situation future possible et réaliste.",
+  "Jamais will dans la partie en if (ni après when, as soon as, until, before).",
+  "Virgule quand la phrase commence par if ; pas de virgule dans l'ordre inverse.",
+  "Résultat possible avec might, can, should, must ou un impératif.",
+  "If = pas sûr ; when = sûr ; unless = if… not."
+ ],
+ "liens": [94, 96, 99, 100, 49],
+ "refs": ["bc-cond-012"]
+}

@@ -1,0 +1,235 @@
+{
+ "n": 226,
+ "niveau": "C1",
+ "titre": "Academic collocations",
+ "intro": "In a dissertation, an article or a research report, it is word partnerships (“conduct research”, “draw a conclusion”, “a significant difference”) that make a text sound right. Perfect grammar is not enough if the collocations are translated from another language.",
+ "objectifs": [
+  "Use the main verb + noun collocations of research (conduct a study, collect data, draw a conclusion, address an issue).",
+  "Choose the expected adjective and adverb (a significant difference, closely related, widely accepted).",
+  "Use the right preposition after key nouns (an increase in, an impact on, research into).",
+  "Avoid typical learner mistakes (make a research, an important number of, realise a study)."
+ ],
+ "sections": [
+  {
+   "titre": "Why collocations matter",
+   "texte": [
+    "A collocation is a combination of words that native speakers use habitually. Logically nothing stops you saying “make a conclusion”, but English says “draw / reach a conclusion”. Readers notice the difference at once, and the text loses credibility.",
+    "In academic English, four types dominate: verb + noun (conduct research), adjective + noun (compelling evidence), adverb + adjective or verb (closely linked, clearly demonstrate) and noun + preposition (an increase in). Learn them as chunks, with an example."
+   ],
+   "exemples": [
+    ["We conducted a survey of 500 households.", "“Conduct”: the neutral, formal verb for a survey or study."],
+    ["The study draws three main conclusions.", "You “draw” a conclusion, never “make” one."]
+   ]
+  },
+  {
+   "titre": "Verb + noun: doing research and arguing",
+   "texte": [
+    "These collocations describe the stages of research: designing, collecting, analysing, concluding and discussing. “Do research” is possible in speech, but “conduct” or “carry out” is preferred in writing."
+   ],
+   "tableau": {
+    "entetes": ["Stage", "Collocations", "Example"],
+    "lignes": [
+     ["Doing the study", "conduct / carry out research, a study, an experiment, a survey", "The team carried out a series of experiments."],
+     ["Data", "collect / gather / analyse data", "Data were collected over six months."],
+     ["Hypothesis", "put forward / test / support / reject a hypothesis", "The results support our initial hypothesis."],
+     ["Evidence", "provide / present / find evidence", "The study provides strong evidence of a link."],
+     ["Problems", "raise / address / tackle an issue; pose a problem / a threat", "This chapter addresses the issue of access."],
+     ["Role", "play a (key / crucial) role in", "Education plays a crucial role in mobility."],
+     ["Conclusion", "draw / reach / come to a conclusion", "It is too early to draw firm conclusions."],
+     ["Contribution", "shed / throw light on; fill / bridge a gap (in the literature)", "This paper fills a gap in the literature."]
+    ]
+   },
+   "exemples": [
+    ["Several questions are raised by these findings.", "“Raise a question”, not “rise”."],
+    ["The report fails to address the issue of cost.", "“Address an issue” = deal with it (academic meaning of address)."]
+   ]
+  },
+  {
+   "titre": "Adjective + noun: describing precisely",
+   "texte": [
+    "An academic adjective is chosen for precision, not intensity. “A big difference” is informal; “a significant difference” is expected (and in statistics means the difference is not due to chance).",
+    "The words “evidence”, “research” and “data” have their usual adjectives: compelling / conclusive / limited evidence, extensive / recent research, reliable / limited data."
+   ],
+   "tableau": {
+    "entetes": ["Noun", "Frequent adjectives", "Example"],
+    "lignes": [
+     ["evidence", "strong, compelling, conclusive, limited, conflicting", "There is conflicting evidence on this point."],
+     ["difference", "significant, marked, slight, considerable", "We found a marked difference between groups."],
+     ["increase / decline", "sharp, steady, substantial, gradual", "There was a sharp decline in enrolment."],
+     ["role / factor", "key, crucial, major, contributing", "Price is a key factor in consumer choice."],
+     ["research", "extensive, recent, further, empirical", "Further research is needed."],
+     ["consensus / belief", "broad, general / widespread, common", "There is a broad consensus among economists."],
+     ["body", "a growing / large body of research / evidence", "A growing body of research links sleep and memory."]
+    ]
+   },
+   "exemples": [
+    ["A growing body of evidence suggests that the policy is effective.", "The verb agrees with “body” (suggests)."]
+   ]
+  },
+  {
+   "titre": "Adverb + adjective or verb",
+   "texte": [
+    "Adverbs “stick” to certain adjectives and verbs. We say “closely related”, “widely used” and “highly significant”, but not “highly used”."
+   ],
+   "tableau": {
+    "entetes": ["Collocation", "Meaning", "Example"],
+    "lignes": [
+     ["closely related / linked", "strongly connected", "Income is closely linked to education."],
+     ["widely accepted / used", "accepted / used by many people", "This model is widely used in finance."],
+     ["highly significant / effective", "very significant / effective", "The effect was highly significant."],
+     ["statistically significant", "not likely to be due to chance", "The difference is not statistically significant."],
+     ["largely due to", "mainly caused by", "The rise is largely due to inflation."],
+     ["heavily dependent on", "relying very much on", "The region is heavily dependent on tourism."],
+     ["clearly demonstrate / critically examine / briefly outline", "show clearly / examine carefully and critically / describe in a few words", "This section briefly outlines the method."]
+    ]
+   },
+   "exemples": [
+    ["Unemployment is closely linked to the level of qualification.", "Adverb + participle + preposition."]
+   ]
+  },
+  {
+   "titre": "Noun + preposition and fixed phrases",
+   "texte": [
+    "The preposition after an academic noun must be learnt. “An increase of 5 %” gives the amount; “an increase in prices” gives what changes. Also: the impact on, research into / on."
+   ],
+   "tableau": {
+    "entetes": ["Noun", "Preposition", "Example"],
+    "lignes": [
+     ["increase / decrease / rise / decline", "in (what changes) / of (the amount)", "a rise in prices of 4 %"],
+     ["impact / effect / influence", "on", "the effect of stress on memory"],
+     ["research", "into / on", "research into renewable energy"],
+     ["approach", "to", "a new approach to teaching"],
+     ["evidence", "of / for", "evidence of fraud / evidence for a theory"],
+     ["the extent", "to which", "We examine the extent to which age matters."],
+     ["fixed phrases", "in terms of, with respect to, on the basis of, in contrast to", "On the basis of these results, we recommend…"]
+    ]
+   },
+   "exemples": [
+    ["The report measures the impact of the reform on small businesses.", "impact OF the reform ON small businesses."]
+   ]
+  },
+  {
+   "titre": "Common traps",
+   "texte": [
+    "“Research”, “evidence”, “information” and “advice” are uncountable: no “researches”, “evidences” or “informations”. To count, say “a study”, “studies”, “a piece of evidence”.",
+    "“Data” is a Latin plural: “the data show” is standard in many scientific journals, but “the data shows” (uncountable) is now very common and accepted. Be consistent throughout your text.",
+    "False friends: “realise” = become aware (to carry out a study: conduct); “an experience” = something you live through (a scientific test = an experiment); “important” does not describe a quantity (an important number → a large number)."
+   ],
+   "exemples": [
+    ["Two recent studies confirm this result.", "To count pieces of research, use “studies”, not “researches”."],
+    ["The data show / The data shows a clear trend.", "Both are used; choose one and keep it throughout the text."]
+   ]
+  }
+ ],
+ "formule": "Verb + noun (conduct a study, draw a conclusion) · adjective + noun (a significant difference) · adverb + adjective (closely linked) · noun + preposition (an increase in, an impact on)",
+ "prononciation": [
+  "“conduct” changes stress: the verb is /kənˈdʌkt/ (second syllable), the noun /ˈkɒndʌkt/ (first syllable).",
+  "“research” is /rɪˈsɜːtʃ/ (BrE, stressed on the second syllable); in American English the noun is also often /ˈriːsɜːrtʃ/.",
+  "“data”: /ˈdeɪtə/ (most common) or /ˈdɑːtə/; both are correct.",
+  "“hypothesis” is /haɪˈpɒθəsɪs/; the plural “hypotheses” ends in /iːz/.",
+  "“analyse” (BrE) / “analyze” (AmE) is /ˈænəlaɪz/; the noun “analysis” /əˈnæləsɪs/ moves the stress."
+ ],
+ "erreurs": [
+  ["We made a research on migration.", "We conducted research into / on migration.", "“Research” is uncountable and goes with conduct / carry out."],
+  ["An important number of students failed.", "A large / significant number of students failed.", "“Important” does not measure quantity in English."],
+  ["We realised a study in 2024.", "We conducted / carried out a study in 2024.", "“Realise” = become aware."],
+  ["They did an experience in the lab.", "They carried out an experiment in the lab.", "A scientific test is an experiment."],
+  ["We can make the conclusion that…", "We can draw the conclusion that… / We can conclude that…", "You “draw” a conclusion."],
+  ["There are many evidences of a link.", "There is a great deal of evidence of a link.", "“Evidence” is uncountable."],
+  ["The increase of prices was sharp.", "The increase in prices was sharp.", "“Increase in” + what rises; “of” + the amount."],
+  ["This rises an important question.", "This raises an important question.", "“Raise” (transitive) ≠ “rise” (intransitive)."]
+ ],
+ "dialogue": {
+  "contexte": "At the University of Buea, a PhD student goes through the introduction of her article with her supervisor.",
+  "lignes": [
+   ["Dr Mbah", "Your first sentence says “We made a research on mobile banking.” Let's fix that.", "A typical collocation mistake."],
+   ["Esther", "“We conducted research into mobile banking”?", "Correct verb, uncountable noun, right preposition."],
+   ["Dr Mbah", "Perfect. And “an important number of users”?", "A false friend."],
+   ["Esther", "“A significant number of users”… or “a large number”, since it's not a statistical test.", "She thinks about the statistical meaning of “significant”."],
+   ["Dr Mbah", "Good thinking. Then you write that mobile money “has a big role”.", "An informal, imprecise phrase."],
+   ["Esther", "It “plays a crucial role in financial inclusion”.", "play + role + in."],
+   ["Dr Mbah", "Exactly. And how would you describe your contribution?", "Asking about the paper's value."],
+   ["Esther", "“This paper fills a gap in the literature and sheds light on rural users.”", "Two classic contribution collocations."],
+   ["Dr Mbah", "Excellent. Now it sounds like a real journal article.", "Approval."]
+  ]
+ },
+ "mots": [
+  ["conduct", "The survey was conducted online.", "organise and do (a study)"],
+  ["evidence", "The evidence is still limited.", "facts that show something is true (uncountable)"],
+  ["significant", "There was no significant change.", "large or important enough to notice; (statistics) not due to chance"],
+  ["hypothesis", "The data support the hypothesis.", "an idea to be tested"],
+  ["findings", "Our findings confirm earlier studies.", "the results of research"],
+  ["address", "The paper addresses three questions.", "deal with (a question or problem)"],
+  ["consensus", "There is no consensus on this issue.", "general agreement"],
+  ["correlation", "We found a strong correlation between the variables.", "a connection between two things that change together"],
+  ["extent", "We measure the extent to which prices changed.", "degree, how much"],
+  ["empirical", "The study is based on empirical data.", "based on observation or experiment"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choose the verb",
+   "consigne": "Choose the verb that forms the correct collocation.",
+   "items": [
+    ["to ___ a conclusion (make / draw)", "draw"],
+    ["to ___ a survey (conduct / realise)", "conduct"],
+    ["to ___ a question (raise / rise)", "raise"],
+    ["to ___ a crucial role (have / play)", "play"],
+    ["to ___ light on a problem (throw / give)", "throw (or shed)"]
+   ]
+  },
+  {
+   "titre": "2. Complete with the adjective or adverb",
+   "consigne": "Complete with: growing, closely, widely, sharp, conflicting, significant.",
+   "items": [
+    ["There was a ___ decline in sales in March.", "sharp"],
+    ["Income is ___ linked to education.", "closely"],
+    ["This method is ___ used in medicine.", "widely"],
+    ["A ___ body of research supports this view.", "growing"],
+    ["Studies have produced ___ evidence on this point.", "conflicting"],
+    ["The difference between the two groups was not statistically ___.", "significant"]
+   ]
+  },
+  {
+   "titre": "3. The right preposition",
+   "consigne": "Complete with the correct preposition.",
+   "items": [
+    ["an increase ___ unemployment", "in"],
+    ["the impact of social media ___ teenagers", "on"],
+    ["research ___ climate change", "into (or on)"],
+    ["a new approach ___ the problem", "to"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    ["We made a research on rural schools.", "We conducted research into / on rural schools."],
+    ["An important number of patients improved.", "A large / significant number of patients improved."],
+    ["The researchers did an experience on mice.", "The researchers carried out an experiment on mice."]
+   ]
+  },
+  {
+   "titre": "5. Rewrite academically",
+   "consigne": "Rewrite each sentence with an academic collocation.",
+   "items": [
+    ["It's too early to say anything for sure.", "It is too early to draw firm conclusions."],
+    ["This rise is mainly because of inflation.", "This increase is largely due to inflation."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short paragraph (4 sentences) presenting a real or imaginary study. Use at least five collocations from the lesson.",
+   "items": [
+    ["Example answer", "We conducted a survey of 800 small farmers in the West Region in order to examine the impact of mobile money on savings. Data were collected through face-to-face interviews and analysed using regression models. The findings show a significant increase in savings among users, which is largely due to lower transaction costs. These results shed light on an area that has received little attention, although further research is needed."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Learn collocations as chunks: conduct a study, collect data, draw a conclusion, address an issue, play a role.",
+  "Precise rather than intense adjectives: a significant difference, a sharp decline, compelling evidence, a growing body of research.",
+  "Prepositions: an increase in, an impact on, research into, an approach to, the extent to which.",
+  "Uncountable: research, evidence, information; false friends: realise, experience, important (for a quantity)."
+ ],
+ "liens": [175, 176, 225, 227, 238],
+ "refs": ["bc-c1", "cam-mistakes", "cam-nouns"]
+}

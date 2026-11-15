@@ -1,0 +1,203 @@
+{
+ "n": 10,
+ "niveau": "A1",
+ "titre": "Les pronoms personnels sujets et compléments",
+ "intro": "Les pronoms remplacent un nom pour éviter les répétitions : she, him, us, them… L'anglais a une forme pour le sujet (I) et une pour le complément (me), et il les place toujours après le verbe, contrairement au français (« je l'aime » → I love him).",
+ "objectifs": [
+  "Connaître les sept pronoms sujets et les sept pronoms compléments.",
+  "Placer le pronom complément après le verbe ou après une préposition.",
+  "Choisir entre he, she, it et they pour une personne, un animal ou une chose.",
+  "Éviter les pièges : It's me, Me too, my friend and I, l'ordre « give it to me »."
+ ],
+ "sections": [
+  {
+   "titre": "Sujet et complément : le tableau",
+   "texte": [
+    "Le pronom sujet fait l'action ; il se place avant le verbe. Le pronom complément reçoit l'action ; il se place après le verbe ou après une préposition (with, for, to, at…).",
+    "Deux pronoms ne changent pas : « you » (sujet et complément) et « it ». Les autres ont deux formes à apprendre."
+   ],
+   "tableau": {
+    "entetes": ["Sujet", "Complément", "Traduction", "Exemple"],
+    "lignes": [
+     ["I", "me", "je / me, moi", "I know him. He knows me."],
+     ["you", "you", "tu, vous / te, toi, vous", "I love you."],
+     ["he", "him", "il / le, lui", "He's nice. I like him."],
+     ["she", "her", "elle / la, lui, elle", "She's here. Call her."],
+     ["it", "it", "il, elle (chose) / le, la", "It's new. I like it."],
+     ["we", "us", "nous / nous", "We're ready. Wait for us!"],
+     ["they", "them", "ils, elles / les, leur, eux", "They're late. Ask them."]
+    ]
+   },
+   "note": "« I » s'écrit toujours avec une majuscule, même au milieu d'une phrase : Yesterday I… En revanche, « me » s'écrit en minuscule."
+  },
+  {
+   "titre": "La place du pronom complément",
+   "texte": [
+    "En français, le pronom complément se met avant le verbe : « je la vois », « il nous aide ». En anglais, il se met TOUJOURS après le verbe : I see her, He helps us. Ne dis jamais « I her see ».",
+    "Après une préposition, on utilise aussi la forme complément : with me, for her, to them, about us, between you and me. On ne dit pas « with I » ni « for she »."
+   ],
+   "exemples": [
+    ["I don't understand him.", "Je ne le comprends pas."],
+    ["Can you help me?", "Tu peux m'aider ?"],
+    ["This present is for you.", "Ce cadeau est pour toi."],
+    ["Come with us!", "Viens avec nous !"],
+    ["She often talks about them.", "Elle parle souvent d'eux."]
+   ]
+  },
+  {
+   "titre": "He, she, it ou they ?",
+   "texte": [
+    "En anglais, les choses n'ont pas de genre : une table, une voiture, une ville sont « it ». Le français dit « elle est belle » pour une maison ; l'anglais dit « It's beautiful ».",
+    "Pour un animal inconnu, on dit « it » ; pour un animal de compagnie que l'on connaît, on dit souvent « he » ou « she ». Pour un bébé dont on ne connaît pas le sexe, on évite « it » quand on parle d'une personne : on dit « they » ou « he or she ».",
+    "« They » s'utilise aussi au singulier pour une personne dont on ne connaît pas le genre, ou qui préfère ce pronom : Someone is at the door. What do they want? Le verbe reste au pluriel : they are."
+   ],
+   "exemples": [
+    ["I love this city. It's so lively!", "J'adore cette ville. Elle est si animée ! (une ville = it)"],
+    ["Where's my phone? — It's on the table.", "Où est mon téléphone ? — Il est sur la table."],
+    ["We've got a cat. She's ten years old.", "Nous avons une chatte. Elle a dix ans (animal familier)."],
+    ["A customer called. They want a refund.", "Un client a appelé. Il veut être remboursé (genre non précisé)."]
+   ]
+  },
+  {
+   "titre": "Pièges : It's me, Me too, my friend and I",
+   "texte": [
+    "Après « to be », dans la langue courante, on utilise la forme complément : « Who's there? — It's me. » (C'est moi). « It is I » existe mais est très formel et vieilli.",
+    "Pour réagir, on dit « Me too » (moi aussi) et « Me neither » (moi non plus), jamais « I too ». Le français « moi, je… » ne se traduit pas mot à mot : on ne dit pas « Me, I like tea », mais « I like tea » (en accentuant I) ou « Personally, I like tea ».",
+    "Quand on parle de soi et d'une autre personne, on se nomme en dernier, par politesse : « my friend and I » en sujet, « my friend and me » en complément. Astuce : enlève l'autre personne pour vérifier (I went → my friend and I went ; for me → for my friend and me)."
+   ],
+   "exemples": [
+    ["Who's speaking? — It's me, Didier.", "Qui parle ? — C'est moi, Didier."],
+    ["I'm hungry. — Me too!", "J'ai faim. — Moi aussi !"],
+    ["My sister and I live in Montréal.", "Ma sœur et moi habitons à Montréal (sujet)."],
+    ["She invited my husband and me.", "Elle nous a invités, mon mari et moi (complément)."]
+   ]
+  },
+  {
+   "titre": "Deux compléments : « give it to me »",
+   "texte": [
+    "Avec des verbes comme give, send, show, tell, bring, on peut avoir deux compléments : la chose et la personne. Avec deux noms, on peut dire « Give Ana the book » ou « Give the book to Ana ».",
+    "Quand la chose est un pronom (it, them), on met normalement la chose d'abord, puis « to » + personne : Give it to me (Donne-le-moi). La forme « Give me it » s'entend en anglais britannique familier, mais « Give it to me » est la forme sûre."
+   ],
+   "exemples": [
+    ["Can you send me the photos? — Sure, I can send them to you tonight.", "Tu peux m'envoyer les photos ? — Bien sûr, je peux te les envoyer ce soir."],
+    ["Show it to him.", "Montre-le-lui."]
+   ]
+  }
+ ],
+ "formule": "Sujet + verbe + complément : I · you · he · she · it · we · they → me · you · him · her · it · us · them",
+ "prononciation": [
+  "Les pronoms compléments sont souvent faibles et non accentués : I like him /aɪ ˈlaɪk ɪm/ (le h disparaît souvent), Call her /ˈkɔːl ə/, Tell them /ˈtel ðəm/.",
+  "On les accentue seulement pour insister ou opposer : I love HER, not HIM.",
+  "« them » /ðem/ commence par le son /ð/ (langue entre les dents, voix qui vibre) ; ne dis pas « dem » ni « zem ».",
+  "« us » /ʌs/ se prononce avec un s sourd, et « he » /hiː/ avec un h soufflé : distingue bien « he's » /hiːz/ et « is » /ɪz/.",
+  "« her » /hɜː/ forte, /ə/ faible ; « him » /hɪm/ forte, /ɪm/ faible."
+ ],
+ "erreurs": [
+  ["I him know.", "I know him.", "Le pronom complément se place après le verbe."],
+  ["She helps we.", "She helps us.", "Après le verbe : forme complément (us)."],
+  ["This is for she.", "This is for her.", "Après une préposition : forme complément."],
+  ["Where's the car? — She's in the garage.", "It's in the garage.", "Une chose = it, pas he / she."],
+  ["Me and my brother are tired.", "My brother and I are tired.", "En sujet, et par politesse : « my brother and I »."],
+  ["I'm cold. — I too.", "Me too.", "Pour réagir, on dit « Me too »."],
+  ["Me, I prefer tea.", "I prefer tea. / Personally, I prefer tea.", "L'anglais ne double pas le sujet comme « moi, je »."],
+  ["i like music.", "I like music.", "« I » prend toujours une majuscule."]
+ ],
+ "dialogue": {
+  "contexte": "Deux amies préparent l'anniversaire de leur colocataire dans leur appartement à Lyon.",
+  "lignes": [
+   ["Clara", "Is the cake ready? Paul loves chocolate. I'm sure he'll love it.", "Le gâteau est prêt ? Paul adore le chocolat. Je suis sûre qu'il va l'adorer."],
+   ["Mariam", "Yes, it's in the fridge. Where are the candles? I can't find them.", "Oui, il est au frigo. Où sont les bougies ? Je ne les trouve pas."],
+   ["Clara", "They're in my bag. Here, take them.", "Elles sont dans mon sac. Tiens, prends-les."],
+   ["Mariam", "Thanks. Are his parents coming?", "Merci. Ses parents viennent ?"],
+   ["Clara", "Yes, they are. I'm meeting them at the station. And his sister is coming with us to the restaurant.", "Oui. Je vais les chercher à la gare. Et sa sœur vient avec nous au restaurant."],
+   ["Mariam", "Great! I like her a lot.", "Super ! Je l'aime beaucoup."],
+   ["Clara", "Me too. Shh! Someone's at the door. Is it him?", "Moi aussi. Chut ! Quelqu'un est à la porte. C'est lui ?"],
+   ["Paul", "Hi, it's me! Why is it so dark in here?", "Salut, c'est moi ! Pourquoi il fait si sombre ici ?"],
+   ["Clara and Mariam", "Surprise! Happy birthday, Paul!", "Surprise ! Joyeux anniversaire, Paul !"]
+  ]
+ },
+ "mots": [
+  ["help", "Can you help me, please?", "aider"],
+  ["call", "Call me tonight.", "appeler (téléphoner)"],
+  ["ask", "Ask her. She knows.", "demander à, interroger"],
+  ["tell", "Tell them the news.", "dire à, raconter"],
+  ["send", "Send it to me by email.", "envoyer"],
+  ["show", "Show us your photos!", "montrer"],
+  ["give", "Give it to him.", "donner"],
+  ["invite", "They often invite us for dinner.", "inviter"],
+  ["visit", "We visit them every summer.", "rendre visite à, visiter"],
+  ["together", "Let's go together.", "ensemble"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Sujet → complément",
+   "consigne": "Écris le pronom complément correspondant.",
+   "items": [
+    ["I", "me"],
+    ["he", "him"],
+    ["she", "her"],
+    ["we", "us"],
+    ["they", "them"],
+    ["you", "you"]
+   ]
+  },
+  {
+   "titre": "2. Remplacer le nom",
+   "consigne": "Remplace les mots entre crochets par un pronom.",
+   "items": [
+    ["I know [Marc].", "I know him."],
+    ["Can you call [your mother]?", "Can you call her?"],
+    ["We love [this song].", "We love it."],
+    ["She lives with [her parents].", "She lives with them."],
+    ["[Anna and I] are late.", "We are late."]
+   ]
+  },
+  {
+   "titre": "3. Choisir la bonne forme",
+   "consigne": "Choisis le bon pronom.",
+   "items": [
+    ["This letter is for (she / her).", "her"],
+    ["My friend and (I / me) live in Ghent.", "I"],
+    ["Who's there? — It's (I / me).", "me"],
+    ["Where's my umbrella? — (It / She) is by the door.", "It"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I them see every day.", "I see them every day."],
+    ["Come with we!", "Come with us!"],
+    ["He likes she very much.", "He likes her very much."],
+    ["I'm tired. — I too.", "Me too."],
+    ["Me, I don't like coffee.", "I don't like coffee. / Personally, I don't like coffee."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Je l'aime bien (lui).", "I like him."],
+    ["Tu peux nous aider ?", "Can you help us?"],
+    ["Elle leur parle tous les jours.", "She talks to them every day. / She speaks to them every day."],
+    ["Donne-le-moi, s'il te plaît.", "Give it to me, please."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris quatre phrases sur des personnes et des objets importants pour toi, en utilisant au moins quatre pronoms compléments différents.",
+   "items": [
+    ["Exemple de réponse", "My grandmother lives in Bafoussam. I call her every Sunday. My cousins often visit us in summer, and we take them to the beach. I've got an old guitar; I play it every evening."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Sujet / complément : I-me, you-you, he-him, she-her, it-it, we-us, they-them.",
+  "Le complément se place après le verbe (I see her) ou après une préposition (with us).",
+  "Une chose = it ; personne de genre inconnu = they (+ are).",
+  "It's me · Me too · my friend and I (sujet) / my friend and me (complément).",
+  "Give it to me : la chose (pronom) d'abord, puis to + personne."
+ ],
+ "liens": [1, 14, 15, 64, 63],
+ "refs": ["cam-nouns", "bc-a1a2"]
+}

@@ -1,0 +1,247 @@
+{
+"n": 40,
+"niveau": "A1",
+"titre": "Révision A1 et bilan",
+"intro": "Cette leçon récapitule les notions essentielles du niveau A1 (leçons 1 à 39) dans des tableaux clairs, puis propose un test mélangé pour vérifier vos acquis avant de passer au niveau A2.",
+"objectifs": [
+ "Revoir les formes de base : to be (présent et passé), have got, présent simple et présent continu.",
+ "Revoir les déterminants et les quantités : a / an / the, pluriels, possessifs, some / any, how much / how many.",
+ "Revoir les prépositions de lieu et de temps, l’heure et les dates.",
+ "Revoir les questions, can, l’impératif, would like, like + -ing et les mots de liaison.",
+ "Faire le point sur ses forces et ses points à retravailler."
+],
+"sections": [
+ {
+  "titre": "1. « To be » au présent et au passé",
+  "texte": [
+   "« To be » sert pour l’identité, l’âge, l’état, le lieu, la météo (leçons 1, 4 et 39). Pas de « do / did » avec « to be » : on inverse le verbe et le sujet pour les questions.",
+   "Rappels : I'm 25 (pas « I have 25 years ») ; It's cold (le sujet « it » est obligatoire) ; I was born in 1998."
+  ],
+  "tableau": {
+   "entetes": ["", "Présent", "Passé"],
+   "lignes": [
+    ["Affirmatif", "I'm / you're / he's / we're / they're", "I was / you were / he was / we were / they were"],
+    ["Négatif", "I'm not / he isn't / they aren't", "I wasn't / they weren't"],
+    ["Question", "Are you…? Is she…?", "Were you…? Was she…?"],
+    ["Réponse courte", "Yes, I am. / No, she isn't.", "Yes, I was. / No, they weren't."]
+   ]
+  },
+  "exemples": [
+   ["Are you a student? — No, I'm not. I'm a nurse.", "Tu es étudiant ? — Non. Je suis infirmier."],
+   ["Where were you yesterday? — I was at home.", "Où étais-tu hier ? — À la maison."]
+  ]
+ },
+ {
+  "titre": "2. Présent simple, présent continu, have got",
+  "texte": [
+   "Présent simple (leçon 6) : habitudes et vérités ; s à la 3e personne ; do / does pour les questions et la négation. Avec les adverbes de fréquence (leçon 7) placés avant le verbe : I usually get up at 7.",
+   "Présent continu (leçons 8 et 9) : action en cours, maintenant ; be + verbe-ing. « Have got » (leçon 5) : la possession, surtout en anglais britannique."
+  ],
+  "tableau": {
+   "entetes": ["Temps", "Affirmatif", "Négatif", "Question"],
+   "lignes": [
+    ["Présent simple", "She works in a bank.", "She doesn't work on Sundays.", "Does she work here?"],
+    ["Présent continu", "She's working now.", "She isn't working today.", "Is she working?"],
+    ["Have got", "He's got two sisters.", "He hasn't got a car.", "Has he got a car?"]
+   ]
+  },
+  "exemples": [
+   ["I usually take the bus, but today I'm walking.", "D’habitude je prends le bus, mais aujourd’hui je marche."],
+   ["My brother never drinks coffee.", "Mon frère ne boit jamais de café (adverbe avant le verbe)."]
+  ]
+ },
+ {
+  "titre": "3. Les noms et les déterminants",
+  "texte": [
+   "a / an devant un singulier dénombrable (a car, an hour) ; the pour une chose précise ; rien pour une généralité (I like music) (leçon 11). Pluriels irréguliers : children, people, men, women (leçon 12).",
+   "this / these (près), that / those (loin) (leçon 13) ; my, your, his, her, its, our, their (leçon 14) ; le génitif : my sister's car, my parents' house (leçon 15).",
+   "Quantités (leçons 30 et 31) : some à l’affirmatif, any au négatif et aux questions ; how many + pluriel, how much + indénombrable ; there is / there are (leçon 16)."
+  ],
+  "tableau": {
+   "entetes": ["Notion", "Exemple correct", "Piège"],
+   "lignes": [
+    ["Métier", "She's an engineer.", "pas « She is engineer »"],
+    ["Possessif", "his wife / her husband", "his = à lui, her = à elle"],
+    ["Génitif", "Paul's car", "pas « the car of Paul »"],
+    ["Some / any", "There isn't any milk.", "pas « There isn't some milk »"],
+    ["How many / much", "How much money? How many people?", "money indénombrable, people pluriel"],
+    ["There is / are", "There are two bedrooms.", "pas « There is two bedrooms »"]
+   ]
+  },
+  "exemples": [
+   ["Those shoes are my sister's.", "Ces chaussures-là sont à ma sœur."],
+   ["How many children have they got? — Three.", "Combien d’enfants ont-ils ? — Trois."]
+  ]
+ },
+ {
+  "titre": "4. Le lieu, le temps, l’heure et les dates",
+  "texte": [
+   "Lieu (leçon 17) : in (dans), on (sur), under, next to, between, opposite, behind, in front of. Temps (leçon 18) : at + heure, on + jour / date, in + mois / année / saison.",
+   "Heure (leçon 21) : It's half past seven / a quarter to eight / seven forty-five. Dates (leçon 22) : the fourteenth of November, avec un ordinal."
+  ],
+  "tableau": {
+   "entetes": ["at", "on", "in"],
+   "lignes": [
+    ["at 7 o'clock, at night", "on Monday, on 5 May", "in July, in 2026, in summer"],
+    ["at the weekend (GB)", "on my birthday", "in the morning / evening"],
+    ["at home, at work", "on the table, on the left", "in the kitchen, in Paris"]
+   ]
+  },
+  "exemples": [
+   ["The meeting is on Tuesday at half past nine.", "La réunion est mardi à neuf heures et demie."],
+   ["My keys are on the table, next to the phone.", "Mes clés sont sur la table, à côté du téléphone."]
+  ]
+ },
+ {
+  "titre": "5. Questions, can, impératif, would like, like + -ing",
+  "texte": [
+   "Questions en Wh- (leçon 29) : mot interrogatif + auxiliaire + sujet + verbe (Where do you live?). Can (leçon 28) : + verbe sans to, sans do. Impératif (leçon 32) : verbe seul, Don't + verbe, Let's + verbe.",
+   "Like / love / hate + -ing (leçon 33) pour les goûts ; would like + to (leçon 34) pour une demande polie. Mots de liaison (leçon 36) : and, but, because, or. Adjectifs (leçon 35) : devant le nom, invariables."
+  ],
+  "tableau": {
+   "entetes": ["Notion", "Exemple"],
+   "lignes": [
+    ["Question en Wh-", "What time does the film start?"],
+    ["Can", "Can you swim? — Yes, I can."],
+    ["Impératif", "Turn left. Don't be late. Let's go!"],
+    ["Like + -ing", "I love cooking."],
+    ["Would like", "I'd like a coffee. I'd like to go home."],
+    ["Liaison", "I'm tired because I work at night, but I'm happy."],
+    ["Adjectifs", "a beautiful old wooden table"]
+   ]
+  },
+  "exemples": [
+   ["Why are you learning English? — Because I'd like to work in Canada.", "Pourquoi apprends-tu l’anglais ? — Parce que j’aimerais travailler au Canada."],
+   ["I like dancing, but I can't sing at all.", "J’aime danser, mais je ne sais pas du tout chanter."]
+  ]
+ },
+ {
+  "titre": "6. Faire le bilan",
+  "texte": [
+   "Faites le test ci-dessous sans regarder les tableaux, puis corrigez-vous. Pour chaque erreur, notez le numéro de la leçon concernée et relisez-la.",
+   "Si vous réussissez au moins 80 % du test, vous êtes prêt(e) pour le niveau A2, qui commence avec le passé des verbes réguliers (leçon 41). Sinon, revoyez en priorité « to be », le présent simple et les questions : ce sont les bases de tout le reste."
+  ]
+ }
+],
+"formule": "be · have got · présent simple / continu · a / an / the · some / any · at / on / in · Wh- + auxiliaire + sujet + verbe · can · Don't… · I'd like to… · like + -ing · was / were",
+"prononciation": [
+ "Formes courtes et formes faibles : I'm, it's, can /kən/, was /wəz/ ; mais formes fortes dans les réponses courtes : Yes, I CAN. Yes, I WAS.",
+ "Le s de la 3e personne et des pluriels : /s/ (works, cats), /z/ (plays, dogs), /ɪz/ (watches, buses).",
+ "Le th : /ð/ dans this, the, they, mother ; /θ/ dans think, three, fourth. Langue entre les dents.",
+ "Accent des nombres : thirTEEN / THIRty, fifTEEN / FIFty.",
+ "Intonation : descendante pour les questions en Wh- (Where do you LIVE? ↘), montante pour les questions oui / non (Are you READY? ↗)."
+],
+"erreurs": [
+ ["I have 30 years.", "I'm 30.", "L’âge avec « to be » (leçon 1)."],
+ ["She work in a bank.", "She works in a bank.", "s à la 3e personne du présent simple (leçon 6)."],
+ ["Where you live?", "Where do you live?", "Auxiliaire « do » dans la question (leçon 29)."],
+ ["I am agree.", "I agree.", "« Agree » est un verbe : pas de « be »."],
+ ["There is two books.", "There are two books.", "There are + pluriel (leçon 16)."],
+ ["I can to swim.", "I can swim.", "Pas de « to » après can (leçon 28)."],
+ ["I'd like going home.", "I'd like to go home.", "would like + to (leçon 34)."],
+ ["I am born in 2000.", "I was born in 2000.", "La naissance au passé (leçon 39)."]
+],
+"dialogue": {
+ "contexte": "À Montréal, dernier cours du niveau A1. La professeure, Mme Gagnon, discute avec Ibrahima, un élève sénégalais.",
+ "lignes": [
+  ["Mrs Gagnon", "So, Ibrahima, this is our last A1 class. How was the course?", "Alors, Ibrahima, c’est notre dernier cours de A1. Comment s’est passé le cours ?"],
+  ["Ibrahima", "It was great! At the start I wasn't very confident, but now I can speak a little.", "C’était super ! Au début, je n’avais pas très confiance, mais maintenant je sais parler un peu."],
+  ["Mrs Gagnon", "What do you like doing in English?", "Qu’est-ce que tu aimes faire en anglais ?"],
+  ["Ibrahima", "I love watching videos and I often listen to podcasts on the bus.", "J’adore regarder des vidéos et j’écoute souvent des podcasts dans le bus."],
+  ["Mrs Gagnon", "Very good. And what's difficult for you?", "Très bien. Et qu’est-ce qui est difficile pour toi ?"],
+  ["Ibrahima", "Questions! I sometimes forget « do » and « does ».", "Les questions ! J’oublie parfois « do » et « does »."],
+  ["Mrs Gagnon", "That's normal. Practise a little every day. Would you like some extra exercises?", "C’est normal. Entraîne-toi un peu chaque jour. Tu voudrais des exercices en plus ?"],
+  ["Ibrahima", "Yes, please! And when does the A2 course start?", "Oui, s’il vous plaît ! Et quand commence le cours A2 ?"],
+  ["Mrs Gagnon", "On Monday the 7th of December, at half past six.", "Le lundi 7 décembre, à six heures et demie."],
+  ["Ibrahima", "Perfect. See you on Monday!", "Parfait. À lundi !"]
+ ]
+},
+"mots": [
+ ["review", "Let's review the present simple.", "réviser, revoir ; une révision"],
+ ["mistake", "Everybody makes mistakes.", "une erreur, une faute"],
+ ["practise", "Practise every day.", "s’entraîner, pratiquer (US : practice)"],
+ ["remember", "I can't remember the word.", "se souvenir de, se rappeler"],
+ ["understand", "Do you understand?", "comprendre"],
+ ["improve", "My English is improving.", "s’améliorer, améliorer"],
+ ["level", "I'm at A1 level.", "le niveau"],
+ ["test", "The test is on Friday.", "un test, un contrôle"],
+ ["confident", "I feel more confident now.", "sûr de soi, en confiance"],
+ ["progress", "You're making good progress.", "le progrès (indénombrable)"]
+],
+"exercices": [
+ {
+  "titre": "1. Choisir la bonne forme",
+  "consigne": "Choisis la bonne réponse.",
+  "items": [
+   ["I (am / have) 20 years old.", "am"],
+   ["She (don't / doesn't) like coffee.", "doesn't"],
+   ["Look! It (rains / is raining).", "is raining"],
+   ["There (is / are) three chairs.", "are"],
+   ["We (was / were) in Lyon last week.", "were"],
+   ["(How much / How many) water do you drink?", "How much"]
+  ]
+ },
+ {
+  "titre": "2. Compléter",
+  "consigne": "Complète avec un seul mot.",
+  "items": [
+   ["___ you speak French? — Yes, I can.", "Can"],
+   ["Is ___ any milk in the fridge?", "there"],
+   ["This is Anna. ___ husband is a doctor.", "Her"],
+   ["I'd like ___ book a table, please.", "to"],
+   ["___ be late! The train leaves at eight.", "Don't"],
+   ["I love ___ (swim) in the sea.", "swimming"]
+  ]
+ },
+ {
+  "titre": "3. At, on ou in ?",
+  "consigne": "Complète avec at, on ou in.",
+  "items": [
+   ["The class starts ___ nine o'clock.", "at"],
+   ["My birthday is ___ March.", "in"],
+   ["See you ___ Friday!", "on"],
+   ["The keys are ___ the table.", "on"],
+   ["She lives ___ Brussels.", "in"]
+  ]
+ },
+ {
+  "titre": "4. Corriger les erreurs",
+  "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+  "items": [
+   ["He have got a new car.", "He has got a new car. / He's got a new car."],
+   ["What is your sister doing usually at the weekend?", "What does your sister usually do at the weekend?"],
+   ["I don't have no money.", "I haven't got any money. / I don't have any money."],
+   ["It's a car red.", "It's a red car."],
+   ["The children of my brother are funny.", "My brother's children are funny."],
+   ["Where you were born?", "Where were you born?"]
+  ]
+ },
+ {
+  "titre": "5. Traduire",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Il est huit heures moins le quart.", "It's a quarter to eight."],
+   ["J’ai faim et j’ai froid.", "I'm hungry and I'm cold."],
+   ["D’où viens-tu ?", "Where are you from?"],
+   ["Je voudrais un verre d’eau, s’il vous plaît.", "I'd like a glass of water, please."],
+   ["Je n’aime pas faire les magasins parce que c’est fatigant.", "I don't like shopping because it's tiring."]
+  ]
+ },
+ {
+  "titre": "6. À toi",
+  "consigne": "Présente-toi en six à huit phrases : nom, âge, ville, famille, travail ou études, une habitude, ce que tu fais en ce moment, ce que tu aimes faire, ce que tu sais faire, et où tu étais le week-end dernier.",
+  "items": [
+   ["Exemple de réponse", "Hi, I'm Clarisse. I'm 27 and I live in Yaoundé. I've got two brothers and a sister. I'm a nurse and I work in a big hospital. I usually start work at seven o'clock. At the moment I'm learning English because I'd like to work in Canada. I love dancing and I can cook very well. Last weekend I was in Kribi with my friends, and the weather was beautiful."]
+  ]
+ }
+],
+"a_retenir": [
+ "« To be » pour l’âge, les sensations, la météo : I'm 30, I'm hungry, It's cold ; au passé : was / were.",
+ "Présent simple pour les habitudes (s à la 3e personne, do / does) ; présent continu pour maintenant (be + -ing).",
+ "Questions : mot interrogatif + auxiliaire + sujet + verbe ; can et be n’utilisent pas « do ».",
+ "some / any, how much / how many, there is / there are, at / on / in : les petits mots font la grande différence.",
+ "Politesse : I'd like…, Can I…?, please ; goûts : I love + -ing."
+],
+"liens": [1, 6, 9, 29, 39],
+"refs": ["bc-a1a2", "cefr"]
+}

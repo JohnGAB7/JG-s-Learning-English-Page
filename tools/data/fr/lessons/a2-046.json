@@ -1,0 +1,203 @@
+{
+"n": 46,
+"niveau": "A2",
+"titre": "Les comparatifs",
+"intro": "Le comparatif permet de comparer deux personnes, deux choses ou deux situations : « plus grand que », « moins cher que ». En anglais, la forme dépend de la longueur de l'adjectif : -er pour les mots courts, more pour les mots longs.",
+"objectifs": [
+"Former le comparatif de supériorité des adjectifs courts (-er) et longs (more).",
+"Appliquer les règles d'orthographe et connaître les comparatifs irréguliers (better, worse, further).",
+"Utiliser than, less … than, et nuancer avec much, a lot, a bit, far.",
+"Éviter les erreurs typiques : « more bigger », « more good », « that » au lieu de « than »."
+],
+"sections": [
+{
+"titre": "Adjectifs courts : -er + than",
+"texte": [
+"Pour un adjectif d'une syllabe, on ajoute -er, puis « than » (que) devant l'élément comparé : cheap → cheaper than, old → older than, fast → faster than.",
+"Pour les adjectifs de deux syllabes terminés par -y, on applique la même règle en changeant y en i : easy → easier, happy → happier, busy → busier."
+],
+"tableau": {
+"entetes": ["Règle", "Adjectif", "Comparatif"],
+"lignes": [
+["1 syllabe : + -er", "small, cheap, tall", "smaller, cheaper, taller"],
+["finale en -e : + -r", "nice, large, safe", "nicer, larger, safer"],
+["1 voyelle + 1 consonne : on double", "big, hot, thin, wet", "bigger, hotter, thinner, wetter"],
+["consonne + -y : y → ier", "easy, heavy, funny, early", "easier, heavier, funnier, earlier"],
+["finale en -w, -x, -y après voyelle : pas de doublement", "new, slow, grey", "newer, slower, greyer"]
+]
+},
+"exemples": [
+["Lagos is bigger than Accra.", "Lagos est plus grande qu'Accra."],
+["This bag is cheaper than that one.", "Ce sac est moins cher que celui-là (litt. plus bon marché)."]
+]
+},
+{
+"titre": "Adjectifs longs : more + adjectif + than",
+"texte": [
+"Pour les adjectifs de deux syllabes qui ne finissent pas par -y, et pour tous ceux de trois syllabes ou plus, on utilise « more » devant l'adjectif, qui ne change pas.",
+"Quelques adjectifs de deux syllabes acceptent les deux formes : quiet (quieter / more quiet), simple, narrow, clever, polite. En cas de doute, « more » est rarement faux pour ces mots, mais la forme en -er est souvent plus naturelle pour quiet, simple, narrow et clever."
+],
+"exemples": [
+["English is more useful than Latin for my job.", "L'anglais est plus utile que le latin pour mon travail."],
+["The train is more comfortable than the bus.", "Le train est plus confortable que le bus."],
+["This exercise is more difficult than the first one.", "Cet exercice est plus difficile que le premier."]
+]
+},
+{
+"titre": "Les comparatifs irréguliers",
+"texte": [
+"Quelques adjectifs (et adverbes) très courants ont une forme irrégulière. Il faut les connaître par cœur, car on les emploie constamment.",
+"« Further » et « farther » signifient tous les deux « plus loin » pour une distance ; « further » est plus courant en anglais britannique et seul « further » veut aussi dire « supplémentaire » (further information)."
+],
+"tableau": {
+"entetes": ["Adjectif / adverbe", "Comparatif", "Exemple"],
+"lignes": [
+["good / well", "better", "Your English is better than mine."],
+["bad / badly", "worse", "The traffic is worse today."],
+["far", "further / farther", "Kribi is further than Limbé from Douala."],
+["much / many", "more", "I have more work this week."],
+["little (quantité)", "less", "I want less sugar, please."]
+]
+}
+},
+{
+"titre": "Than, less et les pronoms",
+"texte": [
+"« Than » se traduit par « que » dans la comparaison. Ne pas le confondre avec « that » ni avec « then » (ensuite).",
+"Après than, on utilise couramment un pronom complément : « She's taller than me ». La forme « taller than I am » est plus soignée ; « taller than I » seul sonne très formel.",
+"Pour dire « moins … que », on utilise « less + adjectif + than », surtout avec les adjectifs longs : less expensive, less important. Avec un adjectif court, on préfère souvent « not as … as » (leçon 66) : « not as old as » plutôt que « less old than »."
+],
+"exemples": [
+["My brother is older than me.", "Mon frère est plus âgé que moi."],
+["This hotel is less expensive than the one in Brussels.", "Cet hôtel est moins cher que celui de Bruxelles."],
+["You work harder than I do.", "Tu travailles plus dur que moi (than + sujet + auxiliaire)."]
+]
+},
+{
+"titre": "Nuancer et intensifier",
+"texte": [
+"Pour dire « beaucoup plus », on place much, a lot ou far devant le comparatif. Pour dire « un peu plus », on utilise a bit, a little ou slightly. On ne dit jamais « very bigger ».",
+"Pour une évolution (de plus en plus), on répète le comparatif avec and : « bigger and bigger », « more and more expensive »."
+],
+"exemples": [
+["Montreal is much colder than Paris in winter.", "Montréal est beaucoup plus froide que Paris en hiver."],
+["The new phone is a bit more expensive.", "Le nouveau téléphone est un peu plus cher."],
+["Rent is getting more and more expensive.", "Les loyers sont de plus en plus chers."]
+]
+}
+],
+"formule": "adjectif court + -er + than · more + adjectif long + than · (much / a bit) + comparatif",
+"prononciation": [
+"La terminaison -er se prononce /ə/ en anglais britannique : bigger /ˈbɪɡə/, cheaper /ˈtʃiːpə/ ; en américain le r final est prononcé /ər/.",
+"« than » est presque toujours faible : /ðən/ : taller than me /ˈtɔːlə ðən miː/.",
+"Le th de « than » est sonore /ð/, langue entre les dents : ni « zan » ni « dan ».",
+"« better » se prononce /ˈbetə/ (GB) ; en américain, le tt ressemble à un d rapide /ˈbedər/.",
+"Pour insister, on accentue « much » : « It's MUCH better »."
+],
+"erreurs": [
+["She is more tall than me.", "She is taller than me.", "Adjectif d'une syllabe : -er, pas more."],
+["This is more better.", "This is better.", "Jamais more + -er : un seul marqueur de comparaison."],
+["My car is more good than yours.", "My car is better than yours.", "good → better (irrégulier)."],
+["He is older that me.", "He is older than me.", "« que » de comparaison = than, pas that."],
+["The weather is badder today.", "The weather is worse today.", "bad → worse."],
+["It's very cheaper here.", "It's much cheaper here.", "Devant un comparatif : much / a lot / far, pas very."],
+["This road is more busy.", "This road is busier.", "Deux syllabes en -y : -ier."]
+],
+"dialogue": {
+"contexte": "Nadia hésite entre deux appartements à Montréal. Elle en parle avec son ami Thomas.",
+"lignes": [
+["Thomas", "So, which flat do you prefer?", "Alors, quel appartement tu préfères ?"],
+["Nadia", "The one on Rue Saint-Denis is bigger and brighter than the other one.", "Celui de la rue Saint-Denis est plus grand et plus lumineux que l'autre."],
+["Thomas", "Is it more expensive?", "Il est plus cher ?"],
+["Nadia", "Yes, a bit. It's 100 dollars more a month.", "Oui, un peu. C'est 100 dollars de plus par mois."],
+["Thomas", "And the other one?", "Et l'autre ?"],
+["Nadia", "It's cheaper and closer to my office, but it's much smaller and noisier.", "Il est moins cher et plus près de mon bureau, mais il est beaucoup plus petit et plus bruyant."],
+["Thomas", "Hmm. A quieter flat is better for your sleep.", "Hmm. Un appartement plus calme, c'est mieux pour ton sommeil."],
+["Nadia", "You're right. Sleep is more important than money!", "Tu as raison. Le sommeil est plus important que l'argent !"]
+]
+},
+"mots": [
+["cheap", "Buses are cheaper than taxis.", "bon marché, pas cher"],
+["expensive", "Rent is more expensive in Paris.", "cher, coûteux"],
+["comfortable", "This chair is more comfortable.", "confortable"],
+["quiet", "The village is quieter than the city.", "calme, silencieux"],
+["noisy", "Our street is noisier at night.", "bruyant"],
+["safe", "It's safer to take a taxi at night.", "sûr, sans danger"],
+["crowded", "The metro is more crowded in the morning.", "bondé, plein de monde"],
+["close", "My office is closer to the station.", "proche (close to = près de)"],
+["bright", "This room is brighter than the kitchen.", "lumineux ; vif (couleur)"],
+["compare", "Let's compare the prices.", "comparer"]
+],
+"exercices": [
+{
+"titre": "1. Former le comparatif",
+"consigne": "Écris le comparatif de supériorité.",
+"items": [
+["small", "smaller"],
+["hot", "hotter"],
+["easy", "easier"],
+["beautiful", "more beautiful"],
+["good", "better"],
+["bad", "worse"],
+["large", "larger"],
+["modern", "more modern"]
+]
+},
+{
+"titre": "2. Compléter la phrase",
+"consigne": "Complète avec le comparatif de l'adjectif et than.",
+"items": [
+["A plane is ___ (fast) a train.", "faster than"],
+["Science is ___ (interesting) history for me.", "more interesting than"],
+["My new job is ___ (good) my old one.", "better than"],
+["Winter in Canada is ___ (cold) winter in Belgium.", "colder than"],
+["This sofa is ___ (comfortable) that chair.", "more comfortable than"]
+]
+},
+{
+"titre": "3. Nuancer",
+"consigne": "Réécris en ajoutant le mot entre parenthèses au bon endroit.",
+"items": [
+["Paris is bigger than Lyon. (much)", "Paris is much bigger than Lyon."],
+["This test was easier. (a bit)", "This test was a bit easier."],
+["Prices are getting high. (de plus en plus)", "Prices are getting higher and higher."]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["My sister is more young than me.", "My sister is younger than me."],
+["This film is more better than the book.", "This film is better than the book."],
+["He's taller that his father.", "He's taller than his father."],
+["The traffic is very worse today.", "The traffic is much worse today."],
+["Your phone is more cheap.", "Your phone is cheaper."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["Ma maison est plus petite que la tienne.", "My house is smaller than yours."],
+["Le français est plus difficile que l'anglais ?", "Is French more difficult than English?"],
+["Cet hôtel est moins cher que l'autre.", "This hotel is less expensive than the other one. / This hotel is cheaper than the other one."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Compare deux villes que tu connais en cinq phrases (taille, prix, météo, ambiance…).",
+"items": [
+["Exemple de réponse", "Douala is bigger and busier than Buea. Buea is much cooler because it's near Mount Cameroon. Life is a bit cheaper in Buea. Douala is noisier, but the nightlife is more exciting. For me, Buea is more relaxing."]
+]
+}
+],
+"a_retenir": [
+"Adjectif court : -er + than (cheaper than) ; adjectif long : more + adjectif + than.",
+"Orthographe : big → bigger, easy → easier, nice → nicer.",
+"Irréguliers : good → better, bad → worse, far → further / farther.",
+"Jamais « more better », jamais « very + comparatif » : much / a lot / a bit + comparatif.",
+"« que » = than (pas that) ; après than : me, him, her… ou sujet + auxiliaire (than I do)."
+],
+"liens": [24, 35, 47, 48, 66],
+"refs": ["bc-comparatives", "bc-mod-comparatives"]
+}

@@ -1,0 +1,208 @@
+{
+ "n": 16,
+ "niveau": "A1",
+ "titre": "There is / there are",
+ "intro": "Use “there is” and “there are” to say that something exists or is in a place. You need them to describe a town, a house, a fridge or a situation.",
+ "objectifs": [
+  "Choose between there is (singular, uncountable) and there are (plural).",
+  "Make negatives (there isn't, there aren't, there's no) and questions (Is there…? Are there any…? How many… are there?).",
+  "Know the difference between there is and it is, and between there / their / they're.",
+  "Avoid word-for-word translations: for past time use ago; for distance use it's."
+ ],
+ "sections": [
+  {
+   "titre": "Positive sentences",
+   "texte": [
+    "Use “there is” (short form: there's) before a singular or uncountable noun, and “there are” before a plural noun. In writing, “there are” has no short form.",
+    "The verb agrees with the noun that follows. In a list, it usually agrees with the first thing: There's a table and four chairs. There are four chairs and a table."
+   ],
+   "tableau": {
+    "entetes": ["", "Form", "Example"],
+    "lignes": [
+     ["Singular", "there is / there's + a / an + noun", "There's a bank near the station."],
+     ["Uncountable", "there is / there's + (some) + noun", "There's some milk in the fridge."],
+     ["Plural", "there are + plural noun", "There are two bakeries in my street."],
+     ["Plural + quantity", "there are + a lot of / many / some + noun", "There are a lot of tourists in summer."]
+    ]
+   },
+   "exemples": [
+    ["There's a cat in the garden.", "Singular."],
+    ["There are thirty students in my class.", "Plural."],
+    ["There's a lot of traffic today.", "Uncountable → is."]
+   ]
+  },
+  {
+   "titre": "Negatives",
+   "texte": [
+    "Put “not” after is / are: there isn't (there is not), there aren't (there are not). Before a plural or uncountable noun, we often add “any”: There aren't any shops. There isn't any bread. (Some and any: lesson 31.)",
+    "Another very common way: “there's no” / “there are no” + noun, with no article: There's no bus today. There are no taxis. With “no”, the verb stays positive: never “there isn't no”."
+   ],
+   "exemples": [
+    ["There isn't a hospital in my village.", "isn't + a."],
+    ["There aren't any chairs in this room.", "aren't + any."],
+    ["There's no sugar in my coffee.", "there's no + noun."]
+   ]
+  },
+  {
+   "titre": "Questions and short answers",
+   "texte": [
+    "For questions, change the order: Is there…? Are there…? With plural and uncountable nouns, we often add “any”. Short answers: Yes, there is. / No, there isn't. Yes, there are. / No, there aren't. Like with “to be”, no short form after Yes (not “Yes, there's”).",
+    "To ask about quantity: How many + plural noun + are there? / How much + uncountable noun + is there? (lesson 30)."
+   ],
+   "tableau": {
+    "entetes": ["Question", "Yes", "No"],
+    "lignes": [
+     ["Is there a pharmacy near here?", "Yes, there is.", "No, there isn't."],
+     ["Are there any good restaurants?", "Yes, there are.", "No, there aren't."],
+     ["Is there any coffee left?", "Yes, there is.", "No, there isn't."],
+     ["How many rooms are there?", "There are three.", "There's only one."]
+    ]
+   },
+   "exemples": [
+    ["Excuse me, is there a cash machine near here?", "A useful question in town."],
+    ["How many people are there in your family?", "How many + plural."]
+   ]
+  },
+  {
+   "titre": "There is or it is? There, their or they're?",
+   "texte": [
+    "“There is” introduces something for the first time (it exists). “It is” describes or identifies something we already know about. We often use them one after the other: There's a new café on my street. It's very nice.",
+    "Don't confuse “there are” and “they are” either: There are two parks in my town. They are big and green. And in writing: there (in that place), their (possessive), they're (= they are) sound the same (lesson 14)."
+   ],
+   "exemples": [
+    ["There's a parcel for you. It's from Canada.", "Introduce, then describe."],
+    ["There are some new students. They're from Belgium.", "there are, then they are."]
+   ]
+  },
+  {
+   "titre": "When not to use there is",
+   "texte": [
+    "For a time in the past, English uses “ago” after the period: two years ago (you will see it at A2 with the past simple). For distance, use “it's”: It's 5 km from here.",
+    "To describe a place, don't put the place as a subject with “has” in the wrong order: say “In my town, there's a cinema” or “My town has a cinema”, never “In my town has a cinema”.",
+    "To ask about a problem, say “What's wrong?” or “What's the matter?”, not “What is there?”."
+   ],
+   "tableau": {
+    "entetes": ["Idea", "English", "Note"],
+    "lignes": [
+     ["a park exists near here", "There's a park near here.", "existence → there is"],
+     ["I arrived, and now it is two days later", "I arrived two days ago.", "past time → ago"],
+     ["the distance to the beach is 10 km", "It's 10 km to the beach.", "distance → it's"],
+     ["you want to know the problem", "What's wrong? / What's the matter?", "a problem"]
+    ]
+   }
+  }
+ ],
+ "formule": "There's + singular / uncountable · There are + plural · Is there…? / Are there any…? · There isn't / aren't (any) · There's no…",
+ "prononciation": [
+  "“There's” /ðeəz/ is one syllable. “there are” often joins: /ðeər ə/ (in British English, the r is pronounced before a vowel).",
+  "In the sentence, “there” is weak: /ðə/ (There's a cat /ðəz ə ˈkæt/). The noun has the stress.",
+  "“there” /ðeə/, “their” /ðeə/ and “they're” /ðeə/ sound the same.",
+  "Question (Is there a bank?): your voice goes up. “How many… are there?”: your voice goes down.",
+  "“isn't” /ˈɪznt/ and “aren't” /ɑːnt/: stress them so people hear the negative."
+ ],
+ "erreurs": [
+  ["There is two banks.", "There are two banks.", "Plural → there are."],
+  ["There are a lot of traffic.", "There's a lot of traffic.", "Uncountable → there is."],
+  ["In my town has a cinema.", "In my town, there's a cinema. / My town has a cinema.", "Use there is to say something exists."],
+  ["There isn't no milk.", "There's no milk. / There isn't any milk.", "No double negative."],
+  ["Is there a bank? — Yes, there's.", "Yes, there is.", "No short form in a positive short answer."],
+  ["There is two years, I was in Paris.", "Two years ago, I was in Paris.", "Past time = period + ago."],
+  ["It's a cat in the garden.", "There's a cat in the garden.", "To say something exists, use there is."]
+ ],
+ "dialogue": {
+  "contexte": "A Belgian student who is new in Québec City visits a flat with the landlord.",
+  "lignes": [
+   ["Landlord", "So, this is the flat. There are two bedrooms and a small living room.", "there are + plural."],
+   ["Élodie", "It's nice. Is there a washing machine?", "Is there…? question."],
+   ["Landlord", "No, there isn't, but there's a laundry room in the basement.", "Short answer, then there's."],
+   ["Élodie", "OK. And are there any shops near here?", "Are there any + plural."],
+   ["Landlord", "Yes, there are. There's a supermarket on the corner and there are two cafés on the next street.", "Singular and plural."],
+   ["Élodie", "Great. How many people are there in the building?", "How many… are there?"],
+   ["Landlord", "There are six flats, so about ten people. It's very quiet.", "there are, then it's (description)."],
+   ["Élodie", "Perfect. There's just one problem: there's no desk!", "there's no + noun."],
+   ["Landlord", "No problem. There's an old desk in my garage. You can have it.", "an before a vowel sound."]
+  ]
+ },
+ "mots": [
+  ["bedroom", "There are three bedrooms in the house.", "a room where you sleep"],
+  ["living room", "There's a big sofa in the living room.", "the room where you relax and watch TV"],
+  ["kitchen", "Is there a microwave in the kitchen?", "the room where you cook"],
+  ["bathroom", "There's no bath in the bathroom, only a shower.", "the room where you wash"],
+  ["fridge", "There isn't any milk in the fridge.", "a machine that keeps food cold"],
+  ["supermarket", "There's a supermarket on the corner.", "a big shop that sells food and other things"],
+  ["pharmacy", "Is there a pharmacy near here?", "a shop that sells medicine (UK also: chemist's)"],
+  ["park", "There are two parks in my town.", "a green public area with grass and trees"],
+  ["building", "There are six flats in this building.", "a structure with walls and a roof, like a house or an office"],
+  ["near", "Is there a bus stop near here?", "not far away"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. There is or there are?",
+   "consigne": "Complete with there's or there are.",
+   "items": [
+    ["___ a bank next to the post office.", "There's"],
+    ["___ five people in my family.", "There are"],
+    ["___ some water on the floor.", "There's"],
+    ["___ a lot of trees in the park.", "There are"],
+    ["___ a sofa and two armchairs in the room.", "There's"],
+    ["___ many tourists in Bruges in summer.", "There are"]
+   ]
+  },
+  {
+   "titre": "2. Negatives",
+   "consigne": "Write the sentence in the negative (two possible forms: isn't / aren't any, or no).",
+   "items": [
+    ["There's a cinema in my village.", "There isn't a cinema in my village. / There's no cinema in my village."],
+    ["There are some eggs in the fridge.", "There aren't any eggs in the fridge. / There are no eggs in the fridge."],
+    ["There's some bread on the table.", "There isn't any bread on the table. / There's no bread on the table."]
+   ]
+  },
+  {
+   "titre": "3. Questions and short answers",
+   "consigne": "Write the question, then the short answer shown.",
+   "items": [
+    ["a lift / in the building? (yes)", "Is there a lift in the building? — Yes, there is."],
+    ["any good restaurants / here? (no)", "Are there any good restaurants here? — No, there aren't."],
+    ["How many / students / in your class? (22)", "How many students are there in your class? — There are twenty-two."],
+    ["any milk / in the fridge? (no)", "Is there any milk in the fridge? — No, there isn't."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["There is three bedrooms.", "There are three bedrooms."],
+    ["In my street has a bakery.", "In my street, there's a bakery. / There's a bakery in my street."],
+    ["There aren't no taxis.", "There aren't any taxis. / There are no taxis."],
+    ["There's a new restaurant. There's very good.", "There's a new restaurant. It's very good."],
+    ["Are there a park near here?", "Is there a park near here?"]
+   ]
+  },
+  {
+   "titre": "5. What do you say?",
+   "consigne": "Write one sentence with there is / there are for each situation.",
+   "items": [
+    ["You want to say that something is wrong: a problem exists.", "There's a problem."],
+    ["The room has no chairs.", "There aren't any chairs. / There are no chairs."],
+    ["You ask a stranger about shops in the area.", "Are there any shops near here?"],
+    ["The metro is full of people.", "There are a lot of people on the metro."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Describe your neighbourhood or village in five sentences with there is / there are, positive and negative, and ask a visitor one question.",
+   "items": [
+    ["Example answer", "In my neighbourhood there's a big market and there are three schools. There's a pharmacy near my house. There isn't a cinema, but there are two cafés. Is there a cinema in your town?"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "There's + singular or uncountable; there are + plural.",
+  "Negative: there isn't / aren't (any) or there's no / there are no + noun.",
+  "Question: Is there…? Are there any…? → Yes, there is. / No, there aren't. How many… are there?",
+  "There is introduces, it is describes: There's a café. It's nice.",
+  "Past time = period + ago; distance = it's."
+ ],
+ "liens": [11, 12, 17, 30, 31],
+ "refs": ["bc-there", "bc-a1a2"]
+}

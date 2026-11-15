@@ -1,0 +1,207 @@
+{
+ "n": 161,
+ "niveau": "B2",
+ "titre": "Cleft sentences (What I need is…, It was … that)",
+ "intro": "“It was Awa who won”, “What I need is a holiday”: a cleft sentence splits one idea into two clauses to put one part in the spotlight. English has two main structures, “It is / was … that / who” and “What … is …”. They help you correct, contrast and highlight what matters, in speech and in writing.",
+ "objectifs": [
+  "Make an it-cleft to highlight a subject, an object or a circumstance.",
+  "Make a what-cleft (What I need is…, What happened was…), including with a verb (What I did was call…).",
+  "Use the variants: All I want is…, The reason why…, The thing that…, That's what…",
+  "Avoid common errors (“What I need, it's…”, “It's in 2010 that…”)."
+ ],
+ "sections": [
+  {
+   "titre": "What is a cleft sentence for?",
+   "texte": [
+    "A cleft sentence divides one idea into two clauses so that one element stands out: you correct a mistake, contrast two things or build up to the important information.",
+    "Compare: “Marie sent the email” (neutral); “It was Marie who sent the email” (Marie, not someone else); “What Marie sent was an email” (an email, not a letter).",
+    "In speech, English often highlights with the voice alone: “MARIE sent the email.” Some languages use cleft structures much more often than English, so don't overuse them."
+   ],
+   "exemples": [
+    ["It was Marie who sent the email, not Paul.", "Highlighting the subject, contrast."],
+    ["What surprised me was his reaction.", "Delaying the key information to make it stand out."],
+    ["MARIE sent it.", "In speech, stress is often enough."]
+   ]
+  },
+  {
+   "titre": "It-clefts: It is / was + element + that / who",
+   "texte": [
+    "Structure: It + be + highlighted element + that / who + rest of the sentence. Use “who” for a person (“that” is also possible) and “that” for everything else. Avoid “which” here.",
+    "You can highlight a subject, an object or a circumstance (place, time, reason), but not the verb itself.",
+    "The tense of “be” usually follows the tense of the sentence: past → “It was”. Say “It was in 2010 that I moved”, not “It's in 2010 that I moved”.",
+    "Negative and contrast: “It wasn't the price that worried me, it was the delay.” With a personal pronoun, everyday English says “It was me who…”; “It was I who…” is very formal."
+   ],
+   "tableau": {
+    "entetes": ["Neutral sentence", "Highlighted element", "Cleft sentence"],
+    "lignes": [
+     ["Awa won the prize.", "the subject", "It was Awa who won the prize."],
+     ["I lost my keys.", "the object", "It was my keys that I lost (not my wallet)."],
+     ["We met in Brussels.", "the place", "It was in Brussels that we met."],
+     ["She left because of the noise.", "the reason", "It was because of the noise that she left."],
+     ["The delay worries me.", "the subject (present)", "It's the delay that worries me."]
+    ]
+   }
+  },
+  {
+   "titre": "What-clefts: What + clause + be + element",
+   "texte": [
+    "Structure: What + subject + verb + be + highlighted element. “What” means “the thing that”. The important information comes at the end, after “is / was”.",
+    "To highlight an action, use “do”: “What I did was (to) call the police.” After “was”, use the base form, with or without “to”.",
+    "To tell a story: “What happened was (that) the train broke down.”",
+    "You can reverse the order: “A holiday is what I need.” “That's what I mean.” “That's what I said!”"
+   ],
+   "exemples": [
+    ["What I need is a long holiday.", "The key information comes last."],
+    ["What worries me is the cost.", "What + verb (as subject)."],
+    ["What I did was (to) call the bank immediately.", "Highlighting an action."],
+    ["What happened was that the train broke down near Namur.", "Introducing a story."],
+    ["Patience is what you need.", "Reversed order."]
+   ]
+  },
+  {
+   "titre": "Common variants",
+   "texte": [
+    "Other words can replace “What”: All (= the only thing), The thing (that), The reason (why), The place (where), The person (who), The day (when), The only thing.",
+    "“All I want is…” is very common and means “I only want…”: “All I want is some peace and quiet.”",
+    "“The reason why… is that…”: avoid “the reason is because” in careful writing, as it repeats the idea."
+   ],
+   "tableau": {
+    "entetes": ["Beginning", "Example", "Meaning"],
+    "lignes": [
+     ["All…", "All I want is to sleep.", "I only want to sleep."],
+     ["The thing (that)…", "The thing I love about Montreal is the festivals.", "What I love…"],
+     ["The reason (why)…", "The reason why I left is that I was bored.", "I left because…"],
+     ["The place where…", "The place where we met was a café in Liège.", "We met in…"],
+     ["The person who…", "The person who helped me most was my aunt.", "My aunt helped me most."],
+     ["The only thing…", "The only thing I regret is not learning sooner.", "My one regret."]
+    ]
+   }
+  },
+  {
+   "titre": "Agreement, punctuation and errors to avoid",
+   "texte": [
+    "After a what-cleft, “be” is usually singular, even when the element is plural: “What we need is more teachers.” (“are” is possible but less common.)",
+    "No comma and no extra “it”: “What I need is a coffee”, never “What I need, it's a coffee”.",
+    "Don't combine “what” with another noun: “The thing what I like” is wrong; say “The thing (that) I like” or “What I like”."
+   ],
+   "exemples": [
+    ["What we need is more volunteers.", "Singular “is” even with a plural."],
+    ["What I love about Dakar is the ocean.", "No comma, no “it”."],
+    ["It's not that I don't like you, it's just that I'm tired.", "Common expression to explain gently."]
+   ]
+  }
+ ],
+ "formule": "It is / was + element + that / who … · What + subject + verb + is / was + element",
+ "prononciation": [
+  "The main stress falls on the highlighted element: “It was AWA who won”, “What I need is a HOLiday”.",
+  "In an it-cleft, “It was” and “that” are weak: /ɪt wəz ˈɑːwə ðət ˈwʌn/.",
+  "In a what-cleft, the first part often has a rising or level tone, then the voice falls on the element: “What I need ↗ is a holiday ↘”.",
+  "“What I did was call…”: a short pause after “was” can build suspense.",
+  "In writing, cleft sentences replace spoken stress; that is why they are common in argumentative texts."
+ ],
+ "erreurs": [
+  ["What I need, it's a holiday.", "What I need is a holiday.", "No comma and no extra “it”."],
+  ["It's in 2015 that I moved to Douala.", "It was in 2015 that I moved to Douala.", "Past event: “It was”."],
+  ["It was my sister which told me.", "It was my sister who (that) told me.", "For a person: who or that."],
+  ["What I did was I called the police.", "What I did was (to) call the police.", "After “What I did was”: base form."],
+  ["The thing what annoys me is the noise.", "The thing that annoys me (What annoys me) is the noise.", "Don't combine “the thing” and “what”."],
+  ["That I like is the food.", "What I like is the food.", "The cleft starts with “What”, not “That”."],
+  ["The reason is because I was tired.", "The reason (why I left) is that I was tired.", "Careful writing: the reason… is that."]
+ ],
+ "dialogue": {
+  "contexte": "In Ottawa, Jonathan and Sabrina have a friendly argument after finding their restaurant closed on their wedding anniversary.",
+  "lignes": [
+   ["Sabrina", "I can't believe it. You forgot to book the table!", "An accusation."],
+   ["Jonathan", "Wait. It wasn't me who was supposed to book. It was you!", "Negative it-cleft to correct."],
+   ["Sabrina", "No. What I said was that I would choose the restaurant, not book it.", "What-cleft to clarify."],
+   ["Jonathan", "OK, maybe. But what really annoys me is that they close on Mondays and nobody told us.", "What + verb as subject."],
+   ["Sabrina", "It's not that I'm angry. It's just that I was really looking forward to it.", "It's not that…, it's just that…"],
+   ["Jonathan", "I know. So what I suggest is this: we buy some poutine and eat it by the canal.", "What I suggest is this: introduces a proposal."],
+   ["Sabrina", "Poutine on our anniversary? Well, that's what we ate on our first date…", "Reversed cleft: that's what…"],
+   ["Jonathan", "Exactly. All I want is to spend the evening with you.", "All I want is…"]
+  ]
+ },
+ "mots": [
+  ["focus", "The focus of the sentence is the price.", "the main point of attention"],
+  ["emphasise", "She emphasised the need for patience.", "to show that something is important (US: emphasize)"],
+  ["highlight", "The report highlights three problems.", "to draw attention to something"],
+  ["point", "That's exactly my point.", "the main idea in an argument"],
+  ["matter", "What matters is that you're safe.", "to be important"],
+  ["annoy", "What annoys me is the noise.", "to make someone a little angry"],
+  ["reason", "The reason why I called is that I need help.", "why something happens"],
+  ["misunderstanding", "It was just a misunderstanding.", "a situation where people don't understand each other correctly"],
+  ["clarify", "Let me clarify what I meant.", "to make something clearer"],
+  ["look forward to", "I was really looking forward to the trip.", "to feel happy about something that will happen"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Find the highlighted element",
+   "consigne": "Which element does the sentence highlight?",
+   "items": [
+    ["What I need is a long holiday.", "a long holiday"],
+    ["It was in Brussels that we met.", "in Brussels (the place)"],
+    ["All I want is some peace and quiet.", "some peace and quiet"],
+    ["It's the price that worries me.", "the price"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with one word: it, what, that, who or is.",
+   "items": [
+    ["___ was my brother who told me the news.", "It"],
+    ["___ I like most about Montreal is the festivals.", "What"],
+    ["It was in 2019 ___ she started her company.", "that"],
+    ["What we need ___ more time.", "is"],
+    ["It was the manager ___ made the decision.", "who (or that)"],
+    ["___ I did was call the bank immediately.", "What"]
+   ]
+  },
+  {
+   "titre": "3. Transform",
+   "consigne": "Rewrite starting with the word given, to highlight the element indicated.",
+   "items": [
+    ["Paul broke the window. (It…; Paul)", "It was Paul who (that) broke the window."],
+    ["I need a good night's sleep. (What…)", "What I need is a good night's sleep."],
+    ["We met in Dakar. (It…; Dakar)", "It was in Dakar that we met."],
+    ["His attitude annoys me. (What…)", "What annoys me is his attitude."],
+    ["I only want to sleep. (All…)", "All I want is to sleep. (or: All I want to do is sleep.)"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["What I need it's a coffee.", "What I need is a coffee."],
+    ["It's in 2010 that they got married.", "It was in 2010 that they got married."],
+    ["What I did was I called a taxi.", "What I did was (to) call a taxi."],
+    ["It was the neighbours which complained.", "It was the neighbours who (that) complained."]
+   ]
+  },
+  {
+   "titre": "5. Correct the information",
+   "consigne": "Answer “No” and correct the information with an it-cleft, using the word in brackets.",
+   "items": [
+    ["“Tom sent the email, didn't he?” (Lisa)", "No, it was Lisa who (that) sent the email."],
+    ["“You met in Paris, right?” (Brussels)", "No, it was in Brussels that we met."],
+    ["“Does the noise bother you?” (the smell)", "No, it's the smell that bothers me."],
+    ["“You started your job in May?” (June)", "No, it was in June that I started."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Describe your town or your job in 4 different cleft sentences: one with “It”, one with “What”, one with “All” and one with “The thing / The reason”.",
+   "items": [
+    ["Example answer", "It was in 2018 that I moved to Liège for my studies. What I love about the city is its friendly atmosphere. All I miss is the sun of my home town. The reason why I stayed is that I found a great job here."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "It is / was + element + that / who…: highlights a subject, object or circumstance.",
+  "Past tense → “It was”: It was in 2010 that…",
+  "What + subject + verb + is + element: What I need is…, What I did was (to) call…, What happened was that…",
+  "Variants: All I want is…, The thing (that)…, The reason why… is that…, That's what…",
+  "Never “What I need, it's…”; English uses fewer clefts than some languages and often uses stress instead."
+ ],
+ "liens": [157, 168, 101, 215],
+ "refs": ["bc-emphasis"]
+}

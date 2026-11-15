@@ -1,0 +1,217 @@
+{
+ "n": 156,
+ "niveau": "B2",
+ "titre": "Les modaux de déduction au passé",
+ "intro": "« Il a dû oublier », « Elle n'a pas pu partir sans nous », « Ils se sont peut-être perdus » : pour tirer une conclusion sur le passé à partir d'indices, l'anglais utilise modal + have + participe passé. C'est indispensable pour raconter, enquêter, expliquer un problème ou réagir à une nouvelle.",
+ "objectifs": [
+  "Exprimer la quasi-certitude (must have), l'impossibilité (can't / couldn't have) et la possibilité (might / may / could have) au passé.",
+  "Ne pas confondre « il a dû » déduction (must have done) et « il a dû » obligation (had to do).",
+  "Utiliser les formes progressives et passives : must have been waiting, must have been stolen.",
+  "Prononcer naturellement must've, might've, can't have."
+ ],
+ "sections": [
+  {
+   "titre": "Du présent au passé",
+   "texte": [
+    "Au présent (leçon 106), on dit : « She must be at home » (j'en suis presque sûr), « She can't be at home » (impossible), « She might be at home » (peut-être).",
+    "Pour une déduction sur le passé, on garde le même modal et on ajoute « have + participe passé ». C'est le « have » qui situe l'action dans le passé, pas le modal.",
+    "On se fonde toujours sur des indices : ce qu'on voit, ce qu'on sait, ce qu'on entend."
+   ],
+   "tableau": {
+    "entetes": ["Degré de certitude", "Présent", "Passé"],
+    "lignes": [
+     ["presque sûr que oui", "He must be tired.", "He must have been tired."],
+     ["possible", "He might / may / could be ill.", "He might / may / could have been ill."],
+     ["possible que non", "He might not / may not be at work.", "He might not / may not have gone to work."],
+     ["presque sûr que non (impossible)", "He can't / couldn't be at work.", "He can't / couldn't have gone to work."]
+    ]
+   }
+  },
+  {
+   "titre": "Must have : la quasi-certitude",
+   "texte": [
+    "« Must have + participe » exprime une conclusion logique : les indices ne laissent guère d'autre explication.",
+    "Grand piège : le français « il a dû » a deux sens. Déduction : « Il a dû oublier » → « He must have forgotten ». Obligation : « Il a dû partir tôt (il était obligé) » → « He had to leave early ». « He had to forget » n'a pas de sens !",
+    "« Must have » n'existe qu'au sens de déduction. Pour une obligation passée, on emploie toujours « had to »."
+   ],
+   "exemples": [
+    ["The streets are wet. It must have rained during the night.", "Il a dû pleuvoir pendant la nuit."],
+    ["You must have been so happy when you heard the news!", "Tu as dû être si heureux…"],
+    ["He had to work late yesterday.", "Obligation : il a été obligé de travailler tard."],
+    ["The lights are off. They must have gone to bed.", "Ils ont dû aller se coucher."]
+   ]
+  },
+  {
+   "titre": "Can't have / couldn't have : l'impossibilité",
+   "texte": [
+    "Pour dire qu'on est presque sûr que quelque chose ne s'est pas produit, on emploie « can't have » ou « couldn't have » + participe. Les deux sont courants ; « couldn't have » est un peu plus fréquent dans un récit au passé.",
+    "Le contraire de « must have » n'est donc pas « mustn't have ». En anglais britannique standard, « mustn't » exprime l'interdiction, pas la déduction. Dites « He can't have seen us », pas « He mustn't have seen us ».",
+    "Le français dit souvent « Il n'a pas pu… » ou « Ce n'est pas possible qu'il ait… »."
+   ],
+   "exemples": [
+    ["She can't have seen me. She was looking the other way.", "Elle n'a pas pu me voir."],
+    ["They couldn't have walked 40 km in one day!", "Impossible qu'ils aient marché 40 km."],
+    ["You can't have finished already! You only started ten minutes ago.", "Tu ne peux pas avoir déjà fini !"]
+   ]
+  },
+  {
+   "titre": "Might / may / could have : la possibilité",
+   "texte": [
+    "Quand on n'est pas sûr, on emploie « might have », « may have » ou « could have » + participe. « May » est légèrement plus formel ; « might » est le plus fréquent à l'oral.",
+    "Négation : « might not have » et « may not have » (peut-être que non). Attention : « couldn't have » ne veut pas dire « peut-être que non » mais « impossible que » ! On ne dit pas « could not have » pour une simple possibilité négative.",
+    "« Can have » n'existe pas pour une possibilité au passé : « She can have taken the bus » est faux."
+   ],
+   "tableau": {
+    "entetes": ["Phrase", "Sens"],
+    "lignes": [
+     ["She might not have received my email.", "Peut-être qu'elle ne l'a pas reçu."],
+     ["She couldn't have received my email.", "Impossible qu'elle l'ait reçu (je ne l'ai jamais envoyé, par exemple)."],
+     ["She may have taken the bus.", "Il est possible qu'elle ait pris le bus."],
+     ["She could have taken the bus.", "C'est une possibilité parmi d'autres."]
+    ]
+   },
+   "exemples": [
+    ["I can't find my keys. I might have left them at the office.", "Je les ai peut-être laissées au bureau."],
+    ["The parcel may have been delivered to a neighbour.", "Registre plus soutenu."],
+    ["He didn't answer. He may not have heard the phone.", "Il ne l'a peut-être pas entendu."]
+   ]
+  },
+  {
+   "titre": "Formes progressives et passives",
+   "texte": [
+    "Pour une action en cours ou qui a duré : modal + have been + -ing. « They must have been waiting for hours » (ils ont dû attendre des heures).",
+    "Au passif : modal + have been + participe. « My bike isn't here. It must have been stolen. »",
+    "Ces formes sont très fréquentes dans les conversations du quotidien et les récits d'enquête."
+   ],
+   "exemples": [
+    ["Your eyes are red. You must have been crying.", "Tu as dû pleurer."],
+    ["She might have been sleeping when you called.", "Elle dormait peut-être."],
+    ["The window can't have been broken from outside: the glass is on the street.", "Passif : impossible qu'elle ait été cassée de l'extérieur."]
+   ]
+  },
+  {
+   "titre": "Ne pas confondre : « could have » et « should have »",
+   "texte": [
+    "« Could have done » a un autre sens important : c'était possible, mais cela ne s'est pas produit. « You could have called me! » (Tu aurais pu m'appeler !) ; « I could have died! » (J'aurais pu mourir !). Le contexte permet de distinguer ce sens de la simple déduction.",
+    "« Should have » exprime un reproche ou un regret (« You should have told me ») ou une attente (« They should have arrived by now » : normalement, ils devraient être arrivés). Ces nuances sont approfondies dans la leçon 205."
+   ],
+   "exemples": [
+    ["We could have won the match, but we missed a penalty.", "Possibilité non réalisée."],
+    ["The train should have arrived at 6. It's late.", "Attente non satisfaite."]
+   ]
+  }
+ ],
+ "formule": "must / might / may / could / can't / couldn't + have + participe passé (have been + -ing ; have been + participe)",
+ "prononciation": [
+  "À l'oral, « have » est réduit à /əv/ : must've /ˈmʌstəv/, might've /ˈmaɪtəv/, could've /ˈkʊdəv/, may have /ˈmeɪ əv/.",
+  "C'est pourquoi des anglophones écrivent par erreur « must of » ou « could of ». À l'écrit, il faut toujours « have » (ou 've).",
+  "« can't have » : /ˈkɑːnt əv/ en britannique, /ˈkænt əv/ en américain. Le t final est souvent à peine audible : faites ressortir la voyelle longue /ɑː/ pour ne pas être compris « can ».",
+  "L'accent porte sur le participe, ou sur le modal pour insister sur le degré de certitude : « He MUST have known! » (il le savait forcément).",
+  "« been » est faible, /bɪn/ : « She must've been sleeping » /ʃi ˈmʌstəv bɪn ˈsliːpɪŋ/."
+ ],
+ "erreurs": [
+  ["He must forgot the meeting.", "He must have forgotten the meeting.", "Déduction au passé : must + have + participe."],
+  ["She must have went home.", "She must have gone home.", "Après « have », le participe passé (gone), pas le prétérit."],
+  ["He mustn't have seen us.", "He can't (couldn't) have seen us.", "Impossibilité au passé : can't / couldn't have."],
+  ["They had to forget the meeting.", "They must have forgotten the meeting.", "« Ils ont dû oublier » (déduction) ≠ obligation (had to)."],
+  ["You can have dropped it in the taxi.", "You could (might, may) have dropped it in the taxi.", "« can have » n'exprime pas la possibilité passée."],
+  ["They must of left early.", "They must have left early.", "« of » n'est qu'une erreur d'orthographe due à la prononciation /əv/."],
+  ["Maybe she couldn't have got my message.", "She might not (may not) have got my message.", "Possibilité négative : might not have ; couldn't have = impossible."]
+ ],
+ "dialogue": {
+  "contexte": "Aéroport Montréal-Trudeau. Kofi et Martine attendent leur amie Awa, qui arrive de Dakar. Les passagers sortent, mais pas elle.",
+  "lignes": [
+   ["Martine", "Everyone from the Dakar flight has come out. Where is she?", "Tous les passagers du vol de Dakar sont sortis. Où est-elle ?"],
+   ["Kofi", "She must have been stopped at customs. She was bringing a lot of food for her family.", "Elle a dû être arrêtée à la douane. Elle apportait beaucoup de nourriture pour sa famille."],
+   ["Martine", "Or she might have missed her connection in Paris.", "Ou elle a peut-être raté sa correspondance à Paris."],
+   ["Kofi", "She can't have missed it. She sent me a photo from the plane two hours ago.", "Elle n'a pas pu la rater. Elle m'a envoyé une photo de l'avion il y a deux heures."],
+   ["Martine", "Then her suitcase may have been lost. That happened to me last year.", "Alors sa valise a peut-être été perdue. Ça m'est arrivé l'année dernière."],
+   ["Kofi", "Look, there she is! Awa! We've been so worried!", "Regarde, la voilà ! Awa ! On s'est tellement inquiétés !"],
+   ["Awa", "Sorry! They checked every single bag. I must have been waiting for an hour!", "Désolée ! Ils ont vérifié chaque sac. J'ai dû attendre une heure !"],
+   ["Martine", "You must be exhausted. Come on, the car's outside.", "Tu dois être épuisée. Viens, la voiture est dehors."]
+  ]
+ },
+ "mots": [
+  ["evidence", "There's no evidence that he was there.", "les preuves, les indices (indénombrable)"],
+  ["clue", "The police found an important clue.", "un indice"],
+  ["assume", "I assumed you had already left.", "supposer, présumer"],
+  ["conclude", "We concluded that the letter had been lost.", "conclure"],
+  ["explanation", "There must be a simple explanation.", "une explication"],
+  ["unlikely", "It's unlikely that she forgot.", "peu probable"],
+  ["obviously", "He was obviously tired.", "manifestement, de toute évidence"],
+  ["mystery", "His disappearance is still a mystery.", "un mystère"],
+  ["suspect", "I suspect he never read my email.", "soupçonner, se douter que"],
+  ["connection", "I missed my connection in Paris.", "une correspondance (transport) ; un lien"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choisir",
+   "consigne": "Choisis le modal qui convient.",
+   "items": [
+    ["The ground is wet. It (must have / can't have) rained.", "must have"],
+    ["She (can't have / must have) seen me. She was facing the other way.", "can't have"],
+    ["I'm not sure where my keys are. I (might have / must have) left them at work.", "might have"],
+    ["He passed the exam easily. He (must have / can't have) studied hard.", "must have"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec le modal donné + have + participe passé (forme simple, progressive ou passive selon le sens).",
+   "items": [
+    ["Jean's not answering. He ___ (must / go) out.", "must have gone"],
+    ["You ___ (can't / see) Marie in Liège yesterday. She's in Dakar this week.", "can't have seen"],
+    ["The plane ___ (might / land) already. Let's check the screen.", "might have landed"],
+    ["They look exhausted. They ___ (must / wait) for hours.", "must have been waiting"],
+    ["My bike isn't where I left it. It ___ (must / steal).", "must have been stolen"],
+    ["She didn't reply. She ___ (may not / get) my message.", "may not have got (américain : gotten)"]
+   ]
+  },
+  {
+   "titre": "3. Reformuler",
+   "consigne": "Réécris chaque phrase avec un modal de déduction au passé.",
+   "items": [
+    ["I'm sure he forgot his keys.", "He must have forgotten his keys."],
+    ["It's impossible that they've finished already.", "They can't (couldn't) have finished already."],
+    ["Perhaps she missed the bus.", "She might (may, could) have missed the bus."],
+    ["I'm sure the thief came in through the window.", "The thief must have come in through the window."],
+    ["Maybe they didn't hear the alarm.", "They might not (may not) have heard the alarm."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["He must forgot about the meeting.", "He must have forgotten about the meeting."],
+    ["She mustn't have seen us.", "She can't (couldn't) have seen us."],
+    ["They must of left early.", "They must have left early."],
+    ["You can have dropped it in the taxi.", "You could (might, may) have dropped it in the taxi."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais (attention au double sens de « devoir »).",
+   "items": [
+    ["Il a dû oublier.", "He must have forgotten."],
+    ["Elle s'est peut-être trompée de route.", "She might (may, could) have taken the wrong road."],
+    ["Ils n'ont pas pu partir sans nous !", "They can't (couldn't) have left without us!"],
+    ["Tu as dû être très fatigué.", "You must have been very tired."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Ton collègue n'est pas venu à une réunion importante ce matin et ne répond pas au téléphone. Écris 4 ou 5 hypothèses avec must have, might have, can't have et une forme progressive ou passive.",
+   "items": [
+    ["Exemple de réponse", "He can't have forgotten the meeting, because he reminded me about it yesterday. He might have missed his train, or his car may have broken down. His phone must have died, because it goes straight to voicemail. Or he might have been called to see a client urgently."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Déduction au passé : modal + have + participe passé.",
+  "must have = presque sûr ; might / may / could have = possible ; can't / couldn't have = impossible.",
+  "Pas de « mustn't have » pour la déduction ; « couldn't have » ≠ « might not have ».",
+  "« Il a dû » : must have done (déduction) ou had to do (obligation).",
+  "Formes longues : must have been waiting (progressif), must have been stolen (passif)."
+ ],
+ "liens": [106, 205, 204, 97],
+ "refs": ["bc-deduction-past", "bc-probability"]
+}

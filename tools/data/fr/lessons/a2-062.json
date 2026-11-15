@@ -1,0 +1,206 @@
+{
+ "n": 62,
+ "niveau": "A2",
+ "titre": "Les verbes + -ing ou + to",
+ "intro": "Quand deux verbes se suivent, le second prend la forme -ing (I enjoy cooking) ou la forme to + base verbale (I want to cook). Le français utilise presque toujours l'infinitif ; en anglais, c'est le premier verbe qui décide, et il faut apprendre les plus courants.",
+ "objectifs": [
+  "Utiliser -ing après enjoy, finish, mind, avoid, suggest, keep, practise, can't stand…",
+  "Utiliser to + verbe après want, would like, decide, hope, plan, need, learn, forget…",
+  "Savoir que like, love, hate, start, begin acceptent les deux formes.",
+  "Mettre le verbe en -ing après une préposition (good at cooking, before leaving) et construire want / ask / tell + quelqu'un + to."
+ ],
+ "sections": [
+  {
+   "titre": "Verbe + -ing",
+   "texte": [
+    "Après ces verbes, le second verbe se met à la forme -ing. Beaucoup expriment un goût, une habitude ou l'idée d'une action déjà en cours ou envisagée.",
+    "Le plus fréquent est « enjoy » : I enjoy swimming (j'aime nager). On ne dit jamais « I enjoy to swim ». Autres verbes très utiles : finish (finir de), mind (gêner : Do you mind waiting?), avoid (éviter de), suggest (proposer de), keep (continuer à, ne pas arrêter de), practise (s'entraîner à), miss (regretter, manquer), imagine, can't stand (ne pas supporter), give up (arrêter, renoncer à)."
+   ],
+   "exemples": [
+    ["I enjoy reading in the evening.", "J'aime lire le soir."],
+    ["Have you finished cleaning the kitchen?", "Tu as fini de nettoyer la cuisine ?"],
+    ["Do you mind opening the window?", "Ça te dérange d'ouvrir la fenêtre ?"],
+    ["He keeps calling me!", "Il n'arrête pas de m'appeler !"],
+    ["I miss living near the sea.", "Ça me manque de vivre près de la mer."]
+   ],
+   "note": "« Suggest » est suivi de -ing (She suggested going to the cinema), jamais de « to » : on ne dit pas « She suggested to go »."
+  },
+  {
+   "titre": "Verbe + to + base verbale",
+   "texte": [
+    "Après ces verbes, le second verbe se met à l'infinitif avec « to ». Beaucoup expriment un souhait, une décision, un projet ou un effort tourné vers l'avenir.",
+    "Les plus courants : want, would like (leçon 34), need, hope, plan, decide, learn, agree, promise, refuse, offer, forget, manage (réussir à), try (essayer de), afford (avoir les moyens de), seem (sembler)."
+   ],
+   "tableau": {
+    "entetes": ["Verbe", "Exemple", "Traduction"],
+    "lignes": [
+     ["want", "I want to learn Spanish.", "Je veux apprendre l'espagnol."],
+     ["would like", "I'd like to book a table.", "Je voudrais réserver une table."],
+     ["decide", "We decided to stay at home.", "Nous avons décidé de rester à la maison."],
+     ["hope", "I hope to see you soon.", "J'espère te voir bientôt."],
+     ["learn", "She's learning to drive.", "Elle apprend à conduire."],
+     ["forget", "Don't forget to call your mother.", "N'oublie pas d'appeler ta mère."],
+     ["manage", "Did you manage to find the hotel?", "Tu as réussi à trouver l'hôtel ?"],
+     ["can't afford", "We can't afford to buy a car.", "Nous n'avons pas les moyens d'acheter une voiture."]
+    ]
+   },
+   "note": "La négation se place avant « to » : I decided not to go (j'ai décidé de ne pas y aller)."
+  },
+  {
+   "titre": "Les deux formes possibles",
+   "texte": [
+    "Avec like, love, hate, prefer, start, begin, continue, on peut utiliser -ing ou to presque sans changement de sens : I like swimming / I like to swim. It started raining / It started to rain.",
+    "Nuance britannique : « like + -ing » exprime plutôt le plaisir (I like dancing), « like + to » plutôt une habitude choisie parce qu'elle est utile (I like to arrive early). En anglais américain, « like to » est très courant dans les deux sens.",
+    "Attention : « would like », « would love », « would hate », « would prefer » sont TOUJOURS suivis de to : I'd love to come (pas « I'd love coming »)."
+   ],
+   "exemples": [
+    ["I love cooking. / I love to cook.", "J'adore cuisiner."],
+    ["She began working here in 2020.", "Elle a commencé à travailler ici en 2020."],
+    ["Would you like to dance?", "Tu veux danser ? (would like → to)"]
+   ]
+  },
+  {
+   "titre": "Après une préposition : toujours -ing",
+   "texte": [
+    "Après une préposition (in, at, of, about, for, without, before, after, by…), un verbe est toujours à la forme -ing. C'est très différent du français, qui dit « avant de partir », « sans dire », « intéressé par apprendre ».",
+    "Expressions très fréquentes : be good at (être doué pour), be interested in, be afraid of, be tired of, think about, look forward to (attendre avec impatience : ici « to » est une préposition !), thank you for, how about…? / what about…?"
+   ],
+   "exemples": [
+    ["She's good at drawing.", "Elle est douée en dessin / pour dessiner."],
+    ["I'm interested in learning Chinese.", "Ça m'intéresse d'apprendre le chinois."],
+    ["Wash your hands before eating.", "Lave-toi les mains avant de manger."],
+    ["He left without saying goodbye.", "Il est parti sans dire au revoir."],
+    ["I'm looking forward to seeing you.", "J'ai hâte de te voir."],
+    ["How about going to the beach?", "Et si on allait à la plage ?"]
+   ]
+  },
+  {
+   "titre": "Want, ask, tell + quelqu'un + to",
+   "texte": [
+    "Avec want, would like, ask, tell, help, expect, on peut mettre une personne entre les deux verbes : verbe + complément + to + base verbale. Le français dit « je veux que tu viennes » ; l'anglais dit « I want you to come ». On ne dit jamais « I want that you come ».",
+    "Négation : tell someone not to do something (dire à quelqu'un de ne pas faire)."
+   ],
+   "exemples": [
+    ["I want you to listen.", "Je veux que tu écoutes."],
+    ["My boss asked me to stay late.", "Mon patron m'a demandé de rester tard."],
+    ["The doctor told him not to smoke.", "Le médecin lui a dit de ne pas fumer."]
+   ],
+   "note": "Certains verbes (stop, remember, forget, try) changent de sens selon la forme : stop smoking (arrêter de fumer) / stop to smoke (s'arrêter pour fumer). Ce point est étudié à la leçon 113 (B1)."
+  }
+ ],
+ "formule": "enjoy / finish / mind / avoid / suggest / keep + -ing · want / need / decide / hope / learn / forget + to + verbe · préposition + -ing · want someone to…",
+ "prononciation": [
+  "« to » devant le verbe est faible : /tə/ (I want to go /aɪ ˈwɒnt tə ˈɡəʊ/). À l'oral familier : « wanna » (want to), « gonna » (going to) ; à comprendre, pas à écrire.",
+  "« I'd like to » se dit /aɪd ˈlaɪk tə/ : le d de « I'd » est léger mais présent.",
+  "-ing se prononce /ɪŋ/, sans g dur final.",
+  "« Do you mind…? » : accent sur MIND, la voix monte à la fin. Réponse polie : « No, not at all » (= ça ne me dérange pas).",
+  "« look forward to » : accent sur FOR- : /lʊk ˈfɔːwəd tə/."
+ ],
+ "erreurs": [
+  ["I enjoy to dance.", "I enjoy dancing.", "Enjoy + -ing."],
+  ["I want going home.", "I want to go home.", "Want + to."],
+  ["She suggested to take a taxi.", "She suggested taking a taxi.", "Suggest + -ing."],
+  ["I'm interested to learn English. (sens : ça m'intéresse)", "I'm interested in learning English.", "Après une préposition (in) : -ing."],
+  ["Before to leave, close the door.", "Before leaving, close the door.", "Before + -ing."],
+  ["I want that you come.", "I want you to come.", "Want + personne + to."],
+  ["I'm looking forward to see you.", "I'm looking forward to seeing you.", "Dans look forward to, « to » est une préposition : -ing."],
+  ["I'd love coming.", "I'd love to come.", "Would love / would like + to."]
+ ],
+ "dialogue": {
+  "contexte": "Deux amies au Québec parlent de leurs projets de vacances.",
+  "lignes": [
+   ["Maya", "Have you decided to go anywhere this summer?", "Tu as décidé d'aller quelque part cet été ?"],
+   ["Zoé", "Yes! I want to visit Vancouver. I enjoy travelling by train, so I'm planning to take the train across Canada.", "Oui ! Je veux visiter Vancouver. J'aime voyager en train, alors je compte traverser le Canada en train."],
+   ["Maya", "Wow! Isn't it expensive?", "Waouh ! Ce n'est pas cher ?"],
+   ["Zoé", "A bit. I can't afford to stay in hotels, so I'm thinking about staying with friends.", "Un peu. Je n'ai pas les moyens de rester à l'hôtel, donc je pense loger chez des amis."],
+   ["Maya", "Good idea. I'd love to come with you, but I need to work in July.", "Bonne idée. J'adorerais venir avec toi, mais je dois travailler en juillet."],
+   ["Zoé", "What about meeting me there in August?", "Et si tu me rejoignais là-bas en août ?"],
+   ["Maya", "Maybe! I don't mind flying. I'll ask my boss to give me a week off.", "Peut-être ! Ça ne me dérange pas de prendre l'avion. Je demanderai à mon patron de me donner une semaine."],
+   ["Zoé", "Great! Don't forget to tell me. I'm really looking forward to seeing the mountains!", "Super ! N'oublie pas de me le dire. J'ai vraiment hâte de voir les montagnes !"]
+  ]
+ },
+ "mots": [
+  ["enjoy", "I enjoy walking in the forest.", "aimer, apprécier"],
+  ["avoid", "Try to avoid eating late.", "éviter"],
+  ["mind", "Do you mind waiting?", "être gêné par, voir un inconvénient à"],
+  ["suggest", "She suggested going by bus.", "proposer, suggérer"],
+  ["decide", "They decided to move to Ghent.", "décider"],
+  ["hope", "I hope to pass the exam.", "espérer"],
+  ["manage", "I managed to fix my bike.", "réussir à, arriver à"],
+  ["afford", "We can't afford to travel this year.", "avoir les moyens de"],
+  ["promise", "He promised to help me.", "promettre"],
+  ["look forward to", "I'm looking forward to the holidays.", "attendre avec impatience"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. -ing ou to ?",
+   "consigne": "Choisis la bonne forme.",
+   "items": [
+    ["I enjoy (to cook / cooking).", "cooking"],
+    ["She wants (to buy / buying) a new phone.", "to buy"],
+    ["We decided (to leave / leaving) early.", "to leave"],
+    ["Have you finished (to eat / eating)?", "eating"],
+    ["He hopes (to find / finding) a job soon.", "to find"],
+    ["Do you mind (to close / closing) the door?", "closing"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Mets le verbe entre parenthèses à la bonne forme (-ing ou to + verbe).",
+   "items": [
+    ["Don't forget ___ (buy) some bread.", "to buy"],
+    ["I'm tired of ___ (wait).", "waiting"],
+    ["She's good at ___ (sing).", "singing"],
+    ["They suggested ___ (go) to a museum.", "going"],
+    ["I'd like ___ (speak) to the manager.", "to speak"]
+   ]
+  },
+  {
+   "titre": "3. Verbe + personne + to",
+   "consigne": "Récris la phrase avec want / ask / tell + personne + to.",
+   "items": [
+    ["My mother says: “Paul, clean your room.” (tell)", "My mother tells Paul to clean his room."],
+    ["I say to you: “Please help me.” (ask)", "I'm asking you to help me."],
+    ["The teacher says: “Don't talk!” (tell … not)", "The teacher tells us not to talk."],
+    ["I wish you would stay. (want)", "I want you to stay."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I want that you call me.", "I want you to call me."],
+    ["He avoided to answer.", "He avoided answering."],
+    ["Thank you for help me.", "Thank you for helping me."],
+    ["I'm looking forward to meet you.", "I'm looking forward to meeting you."],
+    ["We can't afford going on holiday.", "We can't afford to go on holiday."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["J'aime nager.", "I enjoy swimming. / I like swimming. / I like to swim."],
+    ["Elle a appris à conduire l'année dernière.", "She learnt to drive last year. / She learned to drive last year."],
+    ["Il est parti sans payer.", "He left without paying."],
+    ["Je voudrais que tu viennes avec moi.", "I'd like you to come with me."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris cinq phrases vraies : une chose que tu aimes faire (enjoy), une chose que tu veux faire, une chose que tu évites, une chose pour laquelle tu es doué(e) (good at), et un projet (plan / hope).",
+   "items": [
+    ["Exemple de réponse", "I enjoy cooking for my friends. I want to learn the guitar. I avoid driving in Brussels at rush hour. I'm quite good at drawing. I'm planning to visit my cousins in Douala next year."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "+ -ing : enjoy, finish, mind, avoid, suggest, keep, practise, miss, can't stand.",
+  "+ to : want, would like, need, hope, plan, decide, learn, forget, manage, afford, promise.",
+  "Les deux : like, love, hate, start, begin (mais would like / would love + to).",
+  "Préposition + -ing : good at cooking, before leaving, look forward to seeing.",
+  "want / ask / tell + personne + to : I want you to come (jamais « want that »)."
+ ],
+ "liens": [33, 34, 45, 113],
+ "refs": ["bc-ing-inf", "cam-verbs"]
+}

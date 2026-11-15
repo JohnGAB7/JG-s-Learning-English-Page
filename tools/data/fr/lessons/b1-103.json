@@ -1,0 +1,194 @@
+{
+ "n": 103,
+ "niveau": "B1",
+ "titre": "La voix passive : présent et prétérit",
+ "intro": "La voix passive (The bridge was built in 1950) met en avant ce qui subit l'action plutôt que celui qui la fait. Elle est très fréquente en anglais, beaucoup plus qu'en français, dans les informations, les sciences, le monde du travail et les modes d'emploi.",
+ "objectifs": [
+  "Former le passif au présent simple (is / are + participe) et au prétérit (was / were + participe), à toutes les formes.",
+  "Savoir quand choisir le passif : auteur inconnu, évident, sans importance, ou volonté de mettre l'objet en avant.",
+  "Utiliser by pour nommer l'auteur seulement quand c'est utile.",
+  "Traduire les tournures françaises « on » et les verbes pronominaux (« se vend », « se parle ») par un passif anglais."
+ ],
+ "sections": [
+  {
+   "titre": "La forme : be + participe passé",
+   "texte": [
+    "Le passif se construit avec be au temps voulu, suivi du participe passé du verbe principal. C'est be qui porte le temps : is / are au présent, was / were au prétérit. Le participe ne change jamais.",
+    "Pour passer de l'actif au passif, le complément d'objet de la phrase active devient le sujet : « Someone stole my bike » → « My bike was stolen ». Seuls les verbes qui ont un complément d'objet (verbes transitifs) peuvent se mettre au passif : on ne peut pas dire « It was happened »."
+   ],
+   "tableau": {
+    "entetes": ["", "Présent simple", "Prétérit"],
+    "lignes": [
+     ["Affirmative", "English is spoken here.", "The letter was sent yesterday."],
+     ["Négative", "Cash isn't accepted.", "The windows weren't cleaned."],
+     ["Question", "Is breakfast included?", "When was the castle built?"],
+     ["Réponse courte", "Yes, it is. / No, it isn't.", "Yes, it was. / No, they weren't."]
+    ]
+   }
+  },
+  {
+   "titre": "Pourquoi utiliser le passif ?",
+   "texte": [
+    "On choisit le passif quand l'auteur de l'action est inconnu (My car was stolen), évident (He was arrested — par la police, évidemment), ou sans importance (The rooms are cleaned every day).",
+    "On l'utilise aussi pour garder le même sujet d'une phrase à l'autre, ou pour mettre en avant le résultat : « The Pont de Normandie is one of the longest bridges in France. It was opened in 1995. »",
+    "Le passif est typique des registres impersonnels : rapports, articles de presse, textes scientifiques, règlements. À l'oral, on utilise souvent you, they ou people à la place : « They speak French in Quebec » = « French is spoken in Quebec »."
+   ],
+   "exemples": [
+    ["My phone was stolen on the bus.", "Auteur inconnu."],
+    ["Thousands of new cars are sold every day.", "Auteur sans importance."],
+    ["The suspect was arrested last night.", "Auteur évident (la police)."],
+    ["Coffee is grown in the west of Cameroon.", "On s'intéresse au café, pas aux agriculteurs."]
+   ]
+  },
+  {
+   "titre": "By + l'auteur",
+   "texte": [
+    "Quand l'auteur est important ou nouveau dans la phrase, on le nomme avec by : « Guernica was painted by Picasso. » L'information importante se trouve alors à la fin de la phrase, là où l'anglais met naturellement l'information nouvelle.",
+    "Si l'auteur est vague (someone, people, they) ou évident, on ne met pas by : « My wallet was stolen by someone » est maladroit. On utilise with pour l'instrument : « The door was opened with a key. »"
+   ],
+   "exemples": [
+    ["Things Fall Apart was written by Chinua Achebe.", "L'auteur est l'information importante."],
+    ["The new hospital was opened by the president.", "By + personne qui fait l'action."],
+    ["The cake was cut with a sharp knife.", "With + instrument."]
+   ]
+  },
+  {
+   "titre": "Traduire « on » et les verbes pronominaux",
+   "texte": [
+    "Le français utilise souvent « on » ou un verbe pronominal là où l'anglais met un passif. « On m'a volé mon sac » = My bag was stolen. « Ce plat se mange froid » = This dish is eaten cold. « Ça ne se fait pas » = It isn't done. Attention : quelques verbes anglais ont un sens passif à l'actif (« This book sells well » = ce livre se vend bien), mais ce sont des exceptions.",
+    "« On m'a dit que… » = I was told that… « On l'a invitée » = She was invited. En anglais, la personne qui reçoit peut devenir sujet du passif : « They gave me a present » → « I was given a present »."
+   ],
+   "tableau": {
+    "entetes": ["Français", "Anglais (passif)"],
+    "lignes": [
+     ["On parle anglais ici.", "English is spoken here."],
+     ["On m'a volé mon vélo.", "My bike was stolen."],
+     ["On m'a offert un cadeau.", "I was given a present."],
+     ["Ça se dit comment en anglais ?", "How is it said in English? / How do you say it in English?"],
+     ["Le château a été construit au XVIe siècle.", "The castle was built in the 16th century."]
+    ]
+   }
+  },
+  {
+   "titre": "Au-delà du présent et du prétérit",
+   "texte": [
+    "Le même principe s'applique à tous les temps : be se conjugue, le participe reste. Présent continu : « The road is being repaired » (on est en train de réparer la route). Present perfect : « The tickets have been sold. »",
+    "Ces formes, ainsi que le passif avec les modaux (must be done) et le passif des verbes de déclaration (He is said to be…), sont étudiés au niveau B2 (leçons 151 et 152)."
+   ],
+   "exemples": [
+    ["Sorry, the lift is being repaired.", "Présent continu passif."],
+    ["All the tickets have been sold.", "Present perfect passif."]
+   ]
+  }
+ ],
+ "formule": "is / are + participe (présent) · was / were + participe (prétérit) · + by + auteur si utile",
+ "prononciation": [
+  "is et was sont faibles dans le passif : « It's made in Ghana » /ɪts ˈmeɪd/, « It was built » /ɪt wəz ˈbɪlt/.",
+  "were est faible /wə/ : « They were sold » /ðeɪ wə ˈsəʊld/.",
+  "Le -ed des participes réguliers : /t/ après un son sourd (cooked /kʊkt/), /d/ après un son sonore (cleaned /kliːnd/), /ɪd/ après t ou d (painted /ˈpeɪntɪd/, decided).",
+  "L'accent tombe sur le participe, qui porte le sens : « The car was STOLEN. » Si by suit, l'auteur reçoit aussi un accent : « painted by PICASSO »."
+ ],
+ "erreurs": [
+  ["The house was build in 1990.", "The house was built in 1990.", "Après be, il faut le participe passé (built), pas la base verbale."],
+  ["English speaks in Canada.", "English is spoken in Canada.", "La langue ne parle pas : elle est parlée → passif."],
+  ["It was happened last week.", "It happened last week.", "Happen n'a pas de complément d'objet : pas de passif."],
+  ["My bag was stolen by someone.", "My bag was stolen.", "By + someone / people n'apporte rien : on le supprime."],
+  ["The letters was sent yesterday.", "The letters were sent yesterday.", "Sujet pluriel : were."],
+  ["Where were you born in?", "Where were you born?", "Pas de préposition à la fin de « Where were you born? »."],
+  ["I am born in 1995.", "I was born in 1995.", "Be born se met au prétérit pour une naissance."]
+ ],
+ "dialogue": {
+  "contexte": "Une visite guidée à Bruxelles. Le guide, Marc, présente l'Atomium à un groupe de touristes, dont Fatima, venue de Casablanca.",
+  "lignes": [
+   ["Marc", "This is the Atomium. It was built for the 1958 World's Fair.", "Voici l'Atomium. Il a été construit pour l'Exposition universelle de 1958."],
+   ["Fatima", "Who was it designed by?", "Qui l'a conçu ?"],
+   ["Marc", "It was designed by an engineer, André Waterkeyn.", "Il a été conçu par un ingénieur, André Waterkeyn."],
+   ["Fatima", "Is it still used today?", "Il est toujours utilisé aujourd'hui ?"],
+   ["Marc", "Yes. Exhibitions are organised inside, and the top sphere is used as a restaurant.", "Oui. Des expositions sont organisées à l'intérieur, et la sphère du haut sert de restaurant."],
+   ["Fatima", "Were the spheres always this shiny?", "Les sphères ont toujours été aussi brillantes ?"],
+   ["Marc", "No, they weren't. The building was renovated in the 2000s and the old panels were replaced.", "Non. Le bâtiment a été rénové dans les années 2000 et les anciens panneaux ont été remplacés."],
+   ["Fatima", "Amazing. Are photos allowed inside?", "Incroyable. Les photos sont autorisées à l'intérieur ?"]
+  ]
+ },
+ "mots": [
+  ["build", "The bridge was built in 1950.", "construire (built, built)"],
+  ["design", "The tower was designed by an engineer.", "concevoir, dessiner"],
+  ["steal", "My wallet was stolen yesterday.", "voler, dérober (stole, stolen)"],
+  ["invent", "The telephone was invented in the 19th century.", "inventer"],
+  ["include", "Is breakfast included in the price?", "inclure"],
+  ["allow", "Smoking isn't allowed here.", "autoriser, permettre"],
+  ["grow", "Cocoa is grown in Côte d'Ivoire.", "cultiver (grew, grown)"],
+  ["arrest", "Two men were arrested last night.", "arrêter (police)"],
+  ["be born", "I was born in Bamenda.", "naître"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Actif ou passif ?",
+   "consigne": "Dis si la phrase est active (A) ou passive (P).",
+   "items": [
+    ["The museum was opened in 2010.", "P"],
+    ["They opened the museum in 2010.", "A"],
+    ["Rice is grown in many Asian countries.", "P"],
+    ["My grandmother grows tomatoes.", "A"]
+   ]
+  },
+  {
+   "titre": "2. Compléter au passif",
+   "consigne": "Mets le verbe au passif (présent simple ou prétérit selon le sens).",
+   "items": [
+    ["French ___ (speak) in Belgium, Canada and Cameroon.", "is spoken"],
+    ["The Eiffel Tower ___ (build) in 1889.", "was built"],
+    ["These cars ___ (make) in Morocco.", "are made"],
+    ["When ___ the telephone ___ (invent)?", "was … invented"],
+    ["The windows ___ (not / clean) last week.", "weren't cleaned"]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Mets la phrase au passif. N'ajoute by que si c'est utile.",
+   "items": [
+    ["Someone stole my car last night.", "My car was stolen last night."],
+    ["They deliver the post at ten every day.", "The post is delivered at ten every day."],
+    ["Chimamanda Ngozi Adichie wrote this novel.", "This novel was written by Chimamanda Ngozi Adichie."],
+    ["They don't accept credit cards in this shop.", "Credit cards aren't accepted in this shop."],
+    ["Did they cancel the meeting?", "Was the meeting cancelled?"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["The book was wrote in 1958.", "The book was written in 1958."],
+    ["Coffee grows in Cameroon by farmers.", "Coffee is grown in Cameroon."],
+    ["The accident was happened at night.", "The accident happened at night."],
+    ["I am born in Lyon.", "I was born in Lyon."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un passif.",
+   "items": [
+    ["On parle français et anglais au Cameroun.", "French and English are spoken in Cameroon."],
+    ["On m'a volé mon téléphone.", "My phone was stolen."],
+    ["Ce pont a été construit en 1932.", "This bridge was built in 1932."],
+    ["Le petit-déjeuner est-il compris ?", "Is breakfast included?"]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Présente en 4 à 5 phrases un monument, un produit ou une spécialité de ton pays ou de ta ville, en utilisant au moins quatre passifs (présent et prétérit).",
+   "items": [
+    ["Exemple de réponse", "The Basilica of Our Lady of Peace is in Yamoussoukro. It was built between 1985 and 1989, and it was designed by Pierre Fakhoury. It is visited by thousands of tourists every year. Masses are still held there on Sundays."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Passif = be au bon temps + participe passé : is / are done (présent), was / were done (prétérit).",
+  "On l'utilise quand l'auteur est inconnu, évident ou sans importance.",
+  "By + auteur seulement si c'est une information utile ; with + instrument.",
+  "« On » et beaucoup de verbes pronominaux français → passif en anglais.",
+  "Pas de passif pour les verbes sans complément (happen, arrive, die) ; naissance = was / were born."
+ ],
+ "liens": [41, 42, 151, 152, 153],
+ "refs": ["bc-passives"]
+}

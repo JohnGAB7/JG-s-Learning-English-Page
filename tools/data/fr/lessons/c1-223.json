@@ -1,0 +1,230 @@
+{
+ "n": 223,
+ "niveau": "C1",
+ "titre": "Les idiomes de la négociation",
+ "intro": "Négocier en anglais, c'est aussi décoder les images que l'autre partie utilise : « play hardball », « meet halfway », « a deal-breaker ». Cette leçon organise ces idiomes selon les étapes d'une négociation, de l'ouverture à la signature.",
+ "objectifs": [
+  "Comprendre et utiliser les idiomes clés de chaque phase : ouverture, pression, compromis, conclusion.",
+  "Les employer avec leurs collocations exactes (strike a deal, find common ground, split the difference).",
+  "Repérer le ton d'un idiome (coopératif, agressif, prudent) pour réagir de façon adaptée.",
+  "Éviter les calques du français (couper la poire en deux, terrain d'entente, à prendre ou à laisser)."
+ ],
+ "sections": [
+  {
+   "titre": "Ouvrir : poser ses positions",
+   "texte": [
+    "En début de négociation, on annonce ce qui est possible et ce qui ne l'est pas. Les idiomes de cette phase parlent de cartes (transparence ou secret) et de lignes à ne pas franchir.",
+    "« Lay / put your cards on the table » (mettre cartes sur table) existe aussi en anglais, mais son contraire est propre à l'anglais : « play your cards close to your chest » (BrE) ou « close to the vest » (AmE) = ne rien dévoiler de sa stratégie."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["put / lay your cards on the table", "dire franchement ce qu'on veut", "Let me put my cards on the table: we need delivery by May."],
+     ["play your cards close to your chest", "garder sa stratégie secrète", "Their CEO is playing her cards close to her chest."],
+     ["a red line", "une limite absolue", "Job cuts are a red line for the union."],
+     ["a deal-breaker", "un point qui ferait échouer l'accord", "Exclusivity is a deal-breaker for us."],
+     ["a bargaining chip", "un atout à échanger", "They're using the delivery date as a bargaining chip."],
+     ["non-negotiable", "non négociable", "The safety clause is non-negotiable."]
+    ]
+   },
+   "exemples": [
+    ["Let me lay my cards on the table: our budget is fixed.", "Mettre cartes sur table : formule d'ouverture franche."],
+    ["A three-year contract would be a deal-breaker for us.", "« Deal-breaker » : nom composé, avec trait d'union."]
+   ]
+  },
+  {
+   "titre": "Faire pression : les tactiques dures",
+   "texte": [
+    "Ces idiomes décrivent une négociation tendue. Vous les entendrez souvent pour commenter l'attitude de l'autre partie ; les utiliser pour parler de soi peut paraître agressif."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["play hardball", "adopter une ligne dure", "If they play hardball, we'll look elsewhere."],
+     ["drive a hard bargain", "être un négociateur coriace", "You drive a hard bargain, but we accept."],
+     ["take it or leave it", "c'est à prendre ou à laisser", "This is our final offer, take it or leave it."],
+     ["have the upper hand", "être en position de force", "With two other bidders, they have the upper hand."],
+     ["call sb's bluff", "mettre qqn au pied du mur (tester une menace)", "They threatened to walk away, so we called their bluff."],
+     ["move the goalposts", "changer les règles en cours de route", "They keep moving the goalposts on the price."],
+     ["up the ante", "faire monter les enchères", "The rival bid has upped the ante."],
+     ["walk away (from the table)", "rompre la négociation", "We're prepared to walk away if necessary."]
+    ]
+   },
+   "exemples": [
+    ["They upped the ante by threatening legal action.", "« Ante » se prononce /ˈænti/ : c'est la mise au poker."],
+    ["Every time we agree, they move the goalposts.", "Reproche fréquent : l'autre partie change ses exigences."]
+   ]
+  },
+  {
+   "titre": "Trouver un compromis",
+   "texte": [
+    "C'est le cœur de la négociation coopérative. Notez les collocations : on « finds / looks for common ground » (sans article), on « meets someone halfway », on « splits the difference »."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["meet sb halfway", "faire chacun un pas vers l'autre", "Could you meet us halfway on the price?"],
+     ["split the difference", "couper la poire en deux", "You say 40, we say 50; let's split the difference at 45."],
+     ["find common ground", "trouver un terrain d'entente", "We need to find common ground on payment terms."],
+     ["give and take", "concessions mutuelles", "Any agreement involves some give and take."],
+     ["a sticking point", "un point de blocage", "The main sticking point is the warranty."],
+     ["sweeten the deal", "rendre l'offre plus attractive", "We could sweeten the deal with free delivery."],
+     ["iron out", "régler, aplanir (les détails, les difficultés)", "We still need to iron out a few details."]
+    ]
+   },
+   "exemples": [
+    ["If you can meet us halfway on volume, we can be flexible on price.", "Structure conditionnelle typique de l'échange de concessions."],
+    ["The only sticking point now is the length of the contract.", "Pour isoler le dernier blocage."]
+   ]
+  },
+  {
+   "titre": "Conclure",
+   "texte": [
+    "Pour l'accord final, l'anglais aime les verbes forts : strike, hammer out, seal, clinch. « Hammer out » insiste sur le travail difficile (marteler jusqu'à obtenir une forme), « seal / clinch » sur le moment décisif.",
+    "Si l'on ne s'entend pas sur un point secondaire, on peut « agree to disagree » : accepter le désaccord sans bloquer la relation."
+   ],
+   "tableau": {
+    "entetes": ["Idiome", "Sens", "Exemple"],
+    "lignes": [
+     ["strike / reach a deal", "conclure un accord", "We struck a deal after six hours of talks."],
+     ["hammer out (an agreement)", "élaborer un accord à force de discussions", "Both sides hammered out a compromise overnight."],
+     ["seal / clinch the deal", "décrocher, finaliser l'accord", "Free training clinched the deal."],
+     ["a done deal", "une affaire conclue, irréversible", "It's not a done deal until it's signed."],
+     ["shake on it", "conclure d'une poignée de main", "Shall we shake on it?"],
+     ["agree to disagree", "accepter de ne pas être d'accord", "On that point, let's agree to disagree."],
+     ["the devil is in the detail(s)", "le diable se cache dans les détails", "We agree in principle, but the devil is in the detail."]
+    ]
+   },
+   "note": "Britannique : « the devil is in the detail » ; américain : « the devil is in the details »."
+  },
+  {
+   "titre": "Ton, registre et réaction",
+   "texte": [
+    "Chaque idiome porte un ton. « Meet halfway », « common ground » et « give and take » signalent une volonté de coopérer. « Play hardball », « take it or leave it » et « move the goalposts » signalent un rapport de force ou un reproche. Repérer ce ton permet de répondre au bon niveau.",
+    "Dans un compte rendu écrit ou un courrier officiel, préférez les équivalents neutres : reach an agreement, make concessions, a key point of disagreement, a final offer."
+   ],
+   "tableau": {
+    "entetes": ["Idiome (oral)", "Équivalent neutre (écrit)"],
+    "lignes": [
+     ["We struck a deal.", "We reached an agreement."],
+     ["The sticking point is the warranty.", "The main point of disagreement is the warranty."],
+     ["Take it or leave it.", "This is our final offer."],
+     ["Let's split the difference.", "We propose a compromise at the mid-point."]
+    ]
+   },
+   "exemples": [
+    ["I appreciate you meeting us halfway.", "Réponse coopérative à une concession."],
+    ["With respect, you're moving the goalposts here.", "Reproche poli : « with respect » adoucit la critique."]
+   ]
+  }
+ ],
+ "formule": "Ouvrir (cards on the table, red line) → faire pression (play hardball, upper hand) → transiger (meet halfway, split the difference, common ground) → conclure (strike / seal a deal)",
+ "prononciation": [
+  "« halfway » se prononce /ˌhɑːfˈweɪ/ (BrE), le l est muet ; accent sur « way ».",
+  "« ante » /ˈænti/ (deux syllabes), à ne pas confondre avec « anti- » en BrE /ˈænti/ : même son, sens différent.",
+  "Dans « deal-breaker », l'accent principal est sur « deal » : /ˈdiːl ˌbreɪkə/.",
+  "« take it or leave it » se lie en un seul groupe : /ˈteɪk ɪt ə ˈliːv ɪt/, « or » réduit à /ə/.",
+  "Pour une position ferme, intonation descendante nette sur le mot clé : « That's non-negoTIable. »"
+ ],
+ "erreurs": [
+  ["Let's cut the pear in two.", "Let's split the difference.", "Calque de « couper la poire en deux » : l'idiome anglais est « split the difference »."],
+  ["We found a common ground.", "We found common ground.", "« Common ground » est indénombrable dans cet idiome : pas d'article."],
+  ["Take it or let it.", "Take it or leave it.", "« Laisser » ici = leave."],
+  ["That clause is a breaking deal.", "That clause is a deal-breaker.", "L'ordre est « deal-breaker » (nom composé)."],
+  ["They keep changing the goals.", "They keep moving the goalposts.", "Idiome figé : « move the goalposts »."],
+  ["Can you meet us at the half?", "Can you meet us halfway?", "« À mi-chemin » = halfway."],
+  ["They raised the auctions.", "They upped the ante. / They raised the stakes.", "« Faire monter les enchères » au sens figuré = up the ante / raise the stakes."]
+ ],
+ "dialogue": {
+  "contexte": "Une coopérative de cacao de Kumba (Cameroun) négocie par visioconférence avec un chocolatier d'Anvers.",
+  "lignes": [
+   ["Pieter", "Let me put my cards on the table: we can't go above 2,600 dollars a tonne.", "Je mets cartes sur table : nous ne pouvons pas dépasser 2 600 dollars la tonne."],
+   ["Grace", "I appreciate the honesty. But with our organic certification, 2,900 is already a fair price.", "J'apprécie la franchise. Mais avec notre certification bio, 2 900 est déjà un prix juste."],
+   ["Pieter", "You drive a hard bargain. Is there any room for manoeuvre?", "Vous êtes coriace. Y a-t-il une marge de manœuvre ?"],
+   ["Grace", "If you commit to three years, we could meet you halfway.", "Si vous vous engagez sur trois ans, nous pourrions faire un pas vers vous."],
+   ["Pieter", "Three years is a sticking point for our board. Two years, and we split the difference at 2,750?", "Trois ans, c'est un point de blocage pour notre conseil. Deux ans, et on coupe la poire en deux à 2 750 ?"],
+   ["Grace", "Two years is fine, but only if you pay within thirty days. That's a red line for us.", "Deux ans, d'accord, mais seulement avec un paiement à trente jours. C'est une limite absolue pour nous."],
+   ["Pieter", "Thirty days… All right. And we'll sweeten the deal with a quality bonus.", "Trente jours… D'accord. Et nous ajoutons une prime qualité pour rendre l'offre plus attractive."],
+   ["Grace", "Then I think we've found common ground. Our lawyers can iron out the details.", "Alors je pense que nous avons trouvé un terrain d'entente. Nos juristes régleront les détails."],
+   ["Pieter", "Great. It's not a done deal until it's signed, but I'm optimistic.", "Parfait. Rien n'est fait tant que ce n'est pas signé, mais je suis optimiste."]
+  ]
+ },
+ "mots": [
+  ["deal-breaker", "Late payment is a deal-breaker for us.", "point rédhibitoire"],
+  ["sticking point", "Price remains the main sticking point.", "point de blocage"],
+  ["halfway", "Can you meet us halfway?", "à mi-chemin"],
+  ["common ground", "Both sides found common ground on training.", "terrain d'entente"],
+  ["hardball", "The supplier decided to play hardball.", "manière dure, sans concession"],
+  ["bargain", "She always drives a hard bargain.", "marché ; négocier (verbe)"],
+  ["leverage", "Our market share gives us leverage.", "moyen de pression, position de force"],
+  ["concession", "We made a small concession on delivery.", "concession"],
+  ["clinch", "The warranty clinched the deal.", "décrocher, emporter (un accord)"],
+  ["upper hand", "The buyer has the upper hand this year.", "le dessus, l'avantage"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Coopératif ou agressif ?",
+   "consigne": "Indique si l'idiome est plutôt coopératif ou plutôt dur / agressif.",
+   "items": [
+    ["Let's find common ground.", "coopératif"],
+    ["Take it or leave it.", "dur / agressif"],
+    ["We could meet you halfway.", "coopératif"],
+    ["They're playing hardball.", "dur / agressif"]
+   ]
+  },
+  {
+   "titre": "2. Compléter l'idiome",
+   "consigne": "Complète avec le mot manquant.",
+   "items": [
+    ["You say 100, I say 80: let's split the ___ at 90.", "difference"],
+    ["Let me put my cards on the ___.", "table"],
+    ["Free installation might ___ the deal.", "sweeten"],
+    ["Our lawyers will iron ___ the details.", "out"],
+    ["They keep moving the ___, so we never know what they want.", "goalposts"],
+    ["After ten hours, they finally ___ a deal.", "struck / reached"]
+   ]
+  },
+  {
+   "titre": "3. Trouver l'idiome",
+   "consigne": "Remplace la partie entre crochets par un idiome de la leçon.",
+   "items": [
+    ["The warranty is [the point we cannot agree on].", "the sticking point"],
+    ["The rival offer has [made the stakes higher].", "upped the ante"],
+    ["She [keeps her strategy secret].", "plays her cards close to her chest"],
+    ["We can't agree on this point, so let's [accept that we disagree].", "agree to disagree"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige l'erreur dans chaque phrase.",
+   "items": [
+    ["We finally found a common ground.", "We finally found common ground."],
+    ["This is our last offer: take it or let it.", "This is our last offer: take it or leave it."],
+    ["Exclusivity is a breaking deal for us.", "Exclusivity is a deal-breaker for us."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un idiome.",
+   "items": [
+    ["Coupons la poire en deux.", "Let's split the difference."],
+    ["Rien n'est fait tant que ce n'est pas signé.", "It's not a done deal until it's signed."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 4 à 5 répliques que tu pourrais prononcer pour proposer un compromis à un fournisseur. Utilise au moins trois idiomes de la leçon.",
+   "items": [
+    ["Exemple de réponse", "Let me put my cards on the table: our budget for this year is fixed. The delivery date is non-negotiable, but we have some flexibility on volume. If you can meet us halfway on price, we could sign for two years instead of one. That way, I think we can find common ground and leave the lawyers to iron out the details."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Quatre phases, quatre familles : ouvrir (cards on the table, red line), faire pression (play hardball, upper hand), transiger (meet halfway, split the difference), conclure (strike / seal a deal).",
+  "Collocations figées : find common ground (sans article), meet sb halfway, iron out the details, move the goalposts.",
+  "Repérez le ton : coopératif (give and take) ou dur (take it or leave it), et répondez au même niveau.",
+  "Calques à éviter : couper la poire en deux = split the difference ; à prendre ou à laisser = take it or leave it ; faire monter les enchères = up the ante."
+ ],
+ "liens": [195, 221, 208, 259, 258],
+ "refs": ["bc-c1", "cam-using"]
+}

@@ -1,0 +1,207 @@
+{
+ "n": 167,
+ "niveau": "B2",
+ "titre": "Les verbes d’état et d’action",
+ "intro": "Pourquoi dit-on « I know » et jamais « I'm knowing », mais « I'm thinking about it » à côté de « I think so » ? Certains verbes décrivent un état (penser que, savoir, posséder, aimer) et refusent en principe la forme en be + -ing ; d'autres changent de sens selon la forme. Le français n'ayant pas de forme progressive, c'est une source d'erreurs constante.",
+ "objectifs": [
+  "Reconnaître les grandes familles de verbes d'état (pensée, sentiments, possession, perception, description).",
+  "Distinguer les deux sens de think, have, see, taste, smell, look, weigh, be…",
+  "Utiliser « can see / can hear » et les verbes de perception suivis d'un adjectif (It smells good).",
+  "Comprendre les emplois modernes (« I'm loving it », « I'm hoping… ») et les limites aux autres temps."
+ ],
+ "sections": [
+  {
+   "titre": "État ou action ?",
+   "texte": [
+    "Un verbe d'action (action / dynamic verb) décrit quelque chose qui se passe, qui commence et finit : run, eat, write, cook. Il peut prendre la forme en be + -ing : « I'm cooking. »",
+    "Un verbe d'état (state / stative verb) décrit une situation, une pensée, un sentiment, une possession : il n'y a pas d'« activité » en cours. On emploie en principe la forme simple, même pour le moment présent : « I know the answer », « She owns two shops », « This book belongs to me ».",
+    "Le français dit « je suis en train de… » seulement pour une action ; c'est le même réflexe : on ne dit pas « je suis en train de savoir »."
+   ],
+   "tableau": {
+    "entetes": ["Famille", "Verbes d'état fréquents", "Exemple"],
+    "lignes": [
+     ["Pensée, opinion", "know, believe, understand, remember, forget, realise, suppose, mean, think (= être d'avis)", "I don't understand this word."],
+     ["Sentiments, désirs", "like, love, hate, prefer, want, need, wish, mind", "I prefer tea to coffee."],
+     ["Possession", "have (= posséder), own, belong, possess", "This car belongs to my uncle."],
+     ["Perception", "see, hear, smell, taste, feel (sens involontaire)", "I hear music."],
+     ["Description, mesure", "be, seem, appear, look (= sembler), consist, contain, cost, weigh, depend, matter, deserve", "It depends on the weather."]
+    ]
+   }
+  },
+  {
+   "titre": "Les verbes à deux sens",
+   "texte": [
+    "Plusieurs verbes sont des verbes d'état dans un sens et des verbes d'action dans un autre. C'est le sens qui décide de la forme, pas le verbe lui-même.",
+    "Le cas le plus fréquent est « think » : « I think it's a good idea » (opinion, état) ; « I'm thinking about changing jobs » (je réfléchis, activité mentale).",
+    "« Have » au sens de posséder ou d'avoir une caractéristique reste simple ; dans les expressions d'action (have breakfast, have a shower, have a party, have fun, have a baby), il prend la forme en -ing."
+   ],
+   "tableau": {
+    "entetes": ["Verbe", "Sens d'état (simple)", "Sens d'action (be + -ing possible)"],
+    "lignes": [
+     ["think", "I think you're right. (opinion)", "I'm thinking about your offer. (réfléchir)"],
+     ["have", "She has two brothers. (posséder)", "She's having a shower. (prendre)"],
+     ["see", "I see what you mean. (comprendre)", "I'm seeing the doctor at 3. (rendez-vous) / She's seeing someone. (fréquenter)"],
+     ["taste", "The soup tastes salty. (avoir un goût)", "The chef is tasting the soup. (goûter)"],
+     ["smell", "The kitchen smells of garlic. (sentir, odeur)", "Why are you smelling the milk? (renifler)"],
+     ["look", "You look tired. (sembler)", "I'm looking at the photos. (regarder)"],
+     ["weigh", "The baby weighs 4 kg. (peser, mesure)", "The nurse is weighing the baby. (action de peser)"],
+     ["appear", "He appears to be lost. (sembler)", "She's appearing in a new film. (jouer, apparaître)"]
+    ]
+   }
+  },
+  {
+   "titre": "Les sens : « can see », « It smells good »",
+   "texte": [
+    "Pour une perception involontaire au moment présent, l'anglais britannique emploie très souvent « can » : « I can see the sea from my window », « Can you hear that noise? ». « I'm seeing the sea » est faux.",
+    "Look, sound, smell, taste et feel peuvent être suivis d'un adjectif (pas d'un adverbe), comme « be » : « This cake smells delicious », « Your idea sounds great », « You look tired ». Le français dit « ça sent bon » : l'anglais dit « it smells good », pas « well ».",
+    "On peut aussi utiliser « like » + nom : « It looks like rain », « It sounds like a good plan »."
+   ],
+   "exemples": [
+    ["I can hear someone in the garden.", "Perception en ce moment."],
+    ["This fish smells strange. Don't eat it.", "smell + adjectif."],
+    ["Your plan sounds interesting.", "sound + adjectif."],
+    ["It looks like it's going to rain.", "look like + proposition (familier)."]
+   ]
+  },
+  {
+   "titre": "« Be », « feel » et les sensations physiques",
+   "texte": [
+    "« Be » est normalement un verbe d'état, mais « be being + adjectif » décrit un comportement temporaire, souvent inhabituel : « He's a kind person » (caractère) ; « You're being very rude today » (tu te comportes de façon impolie, maintenant). Adjectifs fréquents : silly, rude, difficult, careful, kind, honest, lazy.",
+    "« Feel » au sens d'une sensation ou d'un état physique accepte les deux formes : « I feel tired / I'm feeling tired ». La forme en -ing insiste sur le moment. Au sens d'opinion, il reste simple : « I feel (that) we should wait. »",
+    "De même, « hurt » et « ache » : « My back hurts / My back is hurting »."
+   ],
+   "exemples": [
+    ["You're being silly. Calm down.", "Comportement en ce moment."],
+    ["How are you feeling today?", "Question courante au médecin ou à un proche."],
+    ["I feel that we need more time.", "Opinion : simple."],
+    ["My knee is hurting again.", "Sensation physique : les deux formes."]
+   ]
+  },
+  {
+   "titre": "Emplois modernes et autres temps",
+   "texte": [
+    "Dans la langue familière et la publicité, on entend « I'm loving it », « I'm liking this new job » : la forme en -ing exprime un enthousiasme ou une impression en cours. C'est accepté à l'oral, mais à éviter dans un écrit soigné ou à un examen.",
+    "« I'm hoping », « I'm wondering » et « I was wondering » sont des formules polies très courantes : « I was wondering if you could help me. » Elles adoucissent une demande.",
+    "La règle vaut à tous les temps : pas de forme continue avec un verbe d'état au present perfect, au passé ou au futur. « I've known her for years » (pas « I've been knowing »), « I didn't understand » (pas « I wasn't understanding »), « I'll need help » (pas « I'll be needing », sauf usage poli très particulier)."
+   ],
+   "exemples": [
+    ["I was wondering if you could send me the file.", "Demande polie."],
+    ["I'm hoping to finish by Friday.", "Espoir présenté avec prudence."],
+    ["I've always believed in hard work.", "Verbe d'état : present perfect simple."]
+   ]
+  }
+ ],
+ "formule": "Verbe d'état → forme simple (I know, it belongs, it tastes good) · Sens d'action → be + -ing possible (I'm thinking about it, she's having lunch)",
+ "prononciation": [
+  "« tastes » /teɪsts/ et « costs » /kɒsts/ : groupe de consonnes final à prononcer en entier, sans ajouter de voyelle.",
+  "« weigh » /weɪ/ : le « gh » est muet ; « weight » /weɪt/.",
+  "Contraste d'accent : « You're BEING rude » met en valeur le comportement passager.",
+  "« I can see » : « can » est faible, /kən/ ; pour la négation « can't » /kɑːnt/, on accentue.",
+  "« I was wondering » : intonation descendante douce, ton poli : /aɪ wəz ˈwʌndərɪŋ/."
+ ],
+ "erreurs": [
+  ["I'm knowing the answer.", "I know the answer.", "know = verbe d'état : forme simple."],
+  ["I'm not understanding the question.", "I don't understand the question.", "understand : forme simple."],
+  ["This soup is tasting delicious.", "This soup tastes delicious.", "taste (= avoir un goût) : état."],
+  ["I'm thinking you're right.", "I think you're right.", "think (= être d'avis) : forme simple."],
+  ["She is having two brothers.", "She has two brothers.", "have (= avoir, posséder) : forme simple."],
+  ["This cake smells deliciously.", "This cake smells delicious.", "Après smell / taste / look / sound : adjectif."],
+  ["I'm seeing the sea from my window.", "I can see the sea from my window.", "Perception involontaire : can see."]
+ ],
+ "dialogue": {
+  "contexte": "À Abidjan, tournage d'une émission de cuisine. La cheffe Aya prépare un poisson braisé avec son assistant, Kévin.",
+  "lignes": [
+   ["Aya", "Kévin, what are you doing? Are you tasting my sauce already?", "Kévin, qu'est-ce que tu fais ? Tu goûtes déjà ma sauce ?"],
+   ["Kévin", "Sorry, chef! But it smells amazing. I can smell the ginger from here.", "Pardon, cheffe ! Mais ça sent incroyablement bon. Je sens le gingembre d'ici."],
+   ["Aya", "And how does it taste?", "Et elle a quel goût ?"],
+   ["Kévin", "It tastes perfect. I think it needs a little more salt, though.", "Elle est parfaite. Je pense qu'il faut un peu plus de sel, quand même."],
+   ["Aya", "You're being very honest today! OK, I'm thinking about it…", "Tu es bien franc aujourd'hui ! Bon, je réfléchis…"],
+   ["Kévin", "The fish weighs almost two kilos. Do you want me to cut it?", "Le poisson pèse presque deux kilos. Vous voulez que je le coupe ?"],
+   ["Aya", "Yes, please. And the attiéké? Does it contain enough oil?", "Oui, s'il te plaît. Et l'attiéké ? Il contient assez d'huile ?"],
+   ["Kévin", "It looks good to me. Everyone in the studio is having a great time!", "Ça me paraît bien. Tout le monde dans le studio s'amuse beaucoup !"]
+  ]
+ },
+ "mots": [
+  ["taste", "This sauce tastes a bit spicy.", "avoir un goût ; goûter"],
+  ["smell", "The kitchen smells of fresh bread.", "sentir (odeur) ; une odeur"],
+  ["weigh", "The suitcase weighs 23 kilos.", "peser"],
+  ["own", "They own a small hotel in Kribi.", "posséder"],
+  ["belong", "Who does this phone belong to?", "appartenir"],
+  ["contain", "This drink contains a lot of sugar.", "contenir"],
+  ["depend", "It depends on the price.", "dépendre"],
+  ["seem", "She seems happy in her new job.", "sembler, avoir l'air"],
+  ["prefer", "I prefer walking to driving.", "préférer"],
+  ["deserve", "You deserve a holiday.", "mériter"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choisir",
+   "consigne": "Choisis la forme correcte.",
+   "items": [
+    ["I (know / am knowing) the answer.", "know"],
+    ["Shh! I (think / am thinking).", "am thinking"],
+    ["This coffee (tastes / is tasting) bitter.", "tastes"],
+    ["We (have / are having) dinner at the moment.", "are having"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Mets le verbe au présent simple ou au présent en be + -ing.",
+   "items": [
+    ["What ___ you ___ (think) of my new haircut?", "do you think"],
+    ["She ___ (see) a lawyer this afternoon about the contract.", "is seeing"],
+    ["This box ___ (contain) old photos.", "contains"],
+    ["Why ___ you ___ (be) so rude today? You're not usually like this.", "are you being"],
+    ["I ___ (not / understand) this sentence. Can you explain it?", "don't understand"],
+    ["The chef ___ (taste) the soup to check the salt.", "is tasting"]
+   ]
+  },
+  {
+   "titre": "3. Expliquer la différence",
+   "consigne": "Explique la différence de sens entre les deux phrases.",
+   "items": [
+    ["I think it's a good idea. / I'm thinking about changing jobs.", "Opinion (état) / réflexion en cours (action)."],
+    ["She has a car. / She's having a shower.", "Possession / action (prendre une douche)."],
+    ["I see what you mean. / I'm seeing my doctor tomorrow.", "Comprendre / avoir rendez-vous."],
+    ["He's a difficult person. / He's being difficult.", "Caractère permanent / comportement passager, maintenant."],
+    ["The baby weighs 4 kilos. / The nurse is weighing the baby.", "Mesure (état) / action de peser."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["I'm not understanding the question.", "I don't understand the question."],
+    ["This bag is belonging to my sister.", "This bag belongs to my sister."],
+    ["This cake smells deliciously.", "This cake smells delicious."],
+    ["I'm seeing the sea from my window.", "I can see the sea from my window."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais (forme simple ou be + -ing ?).",
+   "items": [
+    ["Je pense que tu as raison.", "I think you're right."],
+    ["Je réfléchis à ta proposition.", "I'm thinking about your proposal (offer)."],
+    ["Ce poisson sent bizarre.", "This fish smells strange (funny, weird)."],
+    ["Elle prend son petit déjeuner.", "She's having (her) breakfast."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris 4 ou 5 phrases sur ce que tu ressens, penses et fais en ce moment, en utilisant au moins trois verbes à deux sens (think, have, see, taste, look…) dans leurs deux emplois.",
+   "items": [
+    ["Exemple de réponse", "I'm having a quiet evening at home. I'm thinking about my holiday plans, but I think I'll stay in Belgium this year. My sister is seeing a new doctor, and she looks much better. The tea I'm drinking tastes of mint, and it smells wonderful."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Verbes d'état (know, believe, like, want, own, belong, seem, contain, cost…) : forme simple, même pour maintenant.",
+  "Verbes à deux sens : think, have, see, taste, smell, look, weigh, appear — c'est le sens qui décide.",
+  "Perception involontaire : I can see / I can hear ; look / smell / taste / sound + adjectif.",
+  "be being + adjectif = comportement passager ; feel / hurt : les deux formes possibles.",
+  "« I'm loving it » est familier ; « I was wondering if… » est une formule polie."
+ ],
+ "liens": [92, 139, 166],
+ "refs": ["bc-stative", "bc-adv-present"]
+}

@@ -1,0 +1,218 @@
+{
+ "n": 12,
+ "niveau": "A1",
+ "titre": "Le pluriel des noms",
+ "intro": "En anglais, la plupart des noms prennent un -s au pluriel, et ce -s se prononce. Mais il y a des règles d'orthographe, des pluriels irréguliers (men, children, people) et des mots qui, contrairement au français, n'ont pas de pluriel (information, advice).",
+ "objectifs": [
+  "Former le pluriel régulier et appliquer les règles d'orthographe (-es, -ies, -ves).",
+  "Connaître les pluriels irréguliers les plus fréquents.",
+  "Prononcer le -s du pluriel : /s/, /z/ ou /ɪz/.",
+  "Repérer les noms toujours au pluriel (jeans, trousers) et les indénombrables qui n'ont pas de pluriel (information, advice, furniture)."
+ ],
+ "sections": [
+  {
+   "titre": "Le pluriel régulier et l'orthographe",
+   "texte": [
+    "La règle générale est d'ajouter -s : a book → two books. Quelques terminaisons demandent une autre orthographe, souvent pour faciliter la prononciation. Ces règles sont les mêmes que pour le -s du présent simple (leçon 6).",
+    "Les adjectifs ne prennent jamais de -s en anglais : big houses, red cars (jamais « bigs houses »)."
+   ],
+   "tableau": {
+    "entetes": ["Terminaison", "Règle", "Exemples"],
+    "lignes": [
+     ["cas général", "+ s", "car → cars, day → days, apple → apples"],
+     ["-s, -ss, -sh, -ch, -x, -z", "+ es", "bus → buses, glass → glasses, dish → dishes, watch → watches, box → boxes"],
+     ["consonne + y", "y → ies", "city → cities, baby → babies, country → countries"],
+     ["voyelle + y", "+ s", "boy → boys, key → keys, holiday → holidays"],
+     ["-o (mots courants)", "+ es", "potato → potatoes, tomato → tomatoes, hero → heroes"],
+     ["-o (mots courts, d'origine étrangère)", "+ s", "photo → photos, piano → pianos, radio → radios, video → videos"]
+    ]
+   },
+   "exemples": [
+    ["I've got two brothers and three sisters.", "J'ai deux frères et trois sœurs."],
+    ["There are many beautiful cities in Belgium.", "Il y a beaucoup de belles villes en Belgique."],
+    ["Can you wash the dishes?", "Tu peux faire la vaisselle ?"]
+   ]
+  },
+  {
+   "titre": "Les noms en -f / -fe",
+   "texte": [
+    "Une douzaine de noms courants en -f ou -fe changent cette terminaison en -ves : knife → knives, wife → wives, life → lives, leaf → leaves, half → halves, shelf → shelves, wolf → wolves, thief → thieves.",
+    "D'autres gardent simplement -s : roof → roofs, chief → chiefs, belief → beliefs, chef → chefs, cliff → cliffs. En cas de doute, vérifie dans le dictionnaire."
+   ],
+   "exemples": [
+    ["Put the knives in the drawer.", "Range les couteaux dans le tiroir."],
+    ["The leaves are yellow in October.", "Les feuilles sont jaunes en octobre."]
+   ]
+  },
+  {
+   "titre": "Les pluriels irréguliers",
+   "texte": [
+    "Quelques noms très fréquents ont un pluriel irrégulier : il faut les apprendre par cœur, car on les utilise tous les jours.",
+    "« People » est le pluriel normal de « person » : on dit « two people », « ten people ». « Persons » existe seulement dans des textes officiels."
+   ],
+   "tableau": {
+    "entetes": ["Singulier", "Pluriel", "Traduction"],
+    "lignes": [
+     ["man", "men", "homme(s)"],
+     ["woman /ˈwʊmən/", "women /ˈwɪmɪn/", "femme(s)"],
+     ["child", "children", "enfant(s)"],
+     ["person", "people", "personne(s)"],
+     ["foot", "feet", "pied(s)"],
+     ["tooth", "teeth", "dent(s)"],
+     ["mouse", "mice", "souris"],
+     ["sheep / fish / deer", "sheep / fish / deer (identique)", "mouton(s) / poisson(s) / cerf(s)"]
+    ]
+   },
+   "exemples": [
+    ["There are twenty people in the room.", "Il y a vingt personnes dans la salle."],
+    ["Brush your teeth!", "Brosse-toi les dents !"],
+    ["The women in my family are very tall.", "Les femmes de ma famille sont très grandes."]
+   ]
+  },
+  {
+   "titre": "Toujours au pluriel, ou jamais au pluriel",
+   "texte": [
+    "Certains objets composés de deux parties sont toujours au pluriel en anglais, avec un verbe au pluriel : trousers (un pantalon), jeans, shorts, glasses (des lunettes), scissors (des ciseaux), pyjamas. Pour compter, on dit « a pair of » : a pair of jeans, two pairs of glasses. « Clothes » (les vêtements) n'a pas de singulier.",
+    "« People » et « police » sont toujours pluriels : The police are here. People are nice.",
+    "À l'inverse, des noms indénombrables qui ont un pluriel en français n'en ont pas en anglais : information, advice (des conseils), news (les nouvelles, verbe au singulier), furniture (des meubles), luggage (des bagages), homework (des devoirs), hair (les cheveux). On ne dit pas « an information » ni « informations ». On les étudiera en détail à la leçon 59."
+   ],
+   "tableau": {
+    "entetes": ["Français", "Anglais correct", "Faux"],
+    "lignes": [
+     ["Mon pantalon est neuf.", "My trousers are new.", "My trouser is new."],
+     ["Des informations utiles", "useful information", "useful informations"],
+     ["Merci pour tes conseils.", "Thanks for your advice.", "Thanks for your advices."],
+     ["Les nouvelles sont bonnes.", "The news is good.", "The news are good."],
+     ["J'ai beaucoup de bagages.", "I've got a lot of luggage.", "I've got a lot of luggages."]
+    ]
+   }
+  },
+  {
+   "titre": "Après les nombres et les mots de quantité",
+   "texte": [
+    "Après un nombre supérieur à un, et après « these, those, many, a few, both », le nom dénombrable se met au pluriel : two cats, these shoes, many people.",
+    "Un nom utilisé comme adjectif devant un autre nom reste au singulier : a ten-euro note (un billet de dix euros), a three-day trip (un voyage de trois jours), a shoe shop (un magasin de chaussures)."
+   ],
+   "exemples": [
+    ["We need six eggs and two kilos of tomatoes.", "Il nous faut six œufs et deux kilos de tomates."],
+    ["It's a two-hour film.", "C'est un film de deux heures (nom-adjectif au singulier)."]
+   ]
+  }
+ ],
+ "formule": "nom + s · -s / -sh / -ch / -x + es · consonne + y → ies · -f(e) → ves (souvent) · irréguliers : men, women, children, people, feet, teeth",
+ "prononciation": [
+  "Le -s se prononce /s/ après p, t, k, f : cats /kæts/, books, cups.",
+  "Il se prononce /z/ après une voyelle ou un son sonore : dogs /dɒɡz/, days, cars, knives /naɪvz/.",
+  "Le -es / -s se prononce /ɪz/ (syllabe en plus) après s, z, sh, ch, j, x : buses /ˈbʌsɪz/, watches, boxes, pages /ˈpeɪdʒɪz/.",
+  "« woman » /ˈwʊmən/ et « women » /ˈwɪmɪn/ : c'est la première syllabe qui change à l'oral, pas la deuxième.",
+  "« houses » se prononce /ˈhaʊzɪz/ : le s de « house » devient /z/ au pluriel."
+ ],
+ "erreurs": [
+  ["two childs", "two children", "Pluriel irrégulier."],
+  ["three persons", "three people", "Le pluriel courant de person est people."],
+  ["citys", "cities", "Consonne + y → ies."],
+  ["knifes", "knives", "-fe → -ves."],
+  ["informations, advices", "information, advice", "Indénombrables : pas de pluriel."],
+  ["bigs houses", "big houses", "Les adjectifs ne prennent pas de -s."],
+  ["The news are good.", "The news is good.", "« News » est indénombrable : verbe au singulier."],
+  ["a ten-euros note", "a ten-euro note", "Un nom devant un autre nom reste au singulier."]
+ ],
+ "dialogue": {
+  "contexte": "Avant un pique-nique au parc de la Tête d'Or, à Lyon, deux colocataires préparent la liste de courses.",
+  "lignes": [
+   ["Théo", "How many people are coming to the picnic?", "Combien de personnes viennent au pique-nique ?"],
+   ["Nina", "Twelve: eight adults and four children.", "Douze : huit adultes et quatre enfants."],
+   ["Théo", "OK. So we need bread, cheese, tomatoes and some potatoes for a salad.", "D'accord. Alors il nous faut du pain, du fromage, des tomates et quelques pommes de terre pour une salade."],
+   ["Nina", "And knives, forks and glasses. Have we got enough?", "Et des couteaux, des fourchettes et des verres. On en a assez ?"],
+   ["Théo", "We've got six knives. Let's buy plastic ones.", "On a six couteaux. Achetons-en en plastique."],
+   ["Nina", "No, it's bad for the planet. My parents have got a lot of knives. I can ask them.", "Non, c'est mauvais pour la planète. Mes parents ont beaucoup de couteaux. Je peux leur demander."],
+   ["Théo", "Good idea. Oh, and the news says it's sunny tomorrow.", "Bonne idée. Oh, et les infos disent qu'il fait beau demain."],
+   ["Nina", "Great! I need my sunglasses and my new shorts.", "Génial ! Il me faut mes lunettes de soleil et mon nouveau short."]
+  ]
+ },
+ "mots": [
+  ["child", "They've got three children.", "un enfant (pluriel : children)"],
+  ["person", "She's a very kind person.", "une personne (pluriel : people)"],
+  ["tooth", "I brush my teeth twice a day.", "une dent (pluriel : teeth)"],
+  ["foot", "My feet hurt.", "un pied (pluriel : feet)"],
+  ["knife", "Can I have a knife, please?", "un couteau (pluriel : knives)"],
+  ["potato", "I'd like some potatoes.", "une pomme de terre"],
+  ["box", "Put the books in boxes.", "une boîte, un carton"],
+  ["trousers", "These trousers are too long.", "un pantalon (toujours au pluriel)"],
+  ["glasses", "Where are my glasses?", "des lunettes (toujours au pluriel)"],
+  ["information", "Thanks for the information.", "des informations (indénombrable)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Pluriel régulier",
+   "consigne": "Écris le pluriel.",
+   "items": [
+    ["bus", "buses"],
+    ["city", "cities"],
+    ["key", "keys"],
+    ["watch", "watches"],
+    ["tomato", "tomatoes"],
+    ["photo", "photos"]
+   ]
+  },
+  {
+   "titre": "2. Pluriels irréguliers et en -ves",
+   "consigne": "Écris le pluriel.",
+   "items": [
+    ["man", "men"],
+    ["child", "children"],
+    ["person", "people"],
+    ["tooth", "teeth"],
+    ["wife", "wives"],
+    ["sheep", "sheep"]
+   ]
+  },
+  {
+   "titre": "3. Mettre au pluriel",
+   "consigne": "Mets la phrase au pluriel.",
+   "items": [
+    ["This is a big box.", "These are big boxes."],
+    ["The woman is a nurse.", "The women are nurses."],
+    ["My baby is asleep.", "My babies are asleep."],
+    ["That knife is sharp.", "Those knives are sharp."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["I need some informations.", "I need some information."],
+    ["There are ten persons on the bus.", "There are ten people on the bus."],
+    ["My jean is blue.", "My jeans are blue."],
+    ["They've got two smalls dogs.", "They've got two small dogs."],
+    ["Thanks for your advices.", "Thanks for your advice."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["J'ai mal aux pieds.", "My feet hurt."],
+    ["Les enfants sont à l'école.", "The children are at school."],
+    ["Où sont mes lunettes ?", "Where are my glasses?"],
+    ["Il y a trois bibliothèques dans cette ville.", "There are three libraries in this town. / There are three libraries in this city."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Décris ce qu'il y a dans ta cuisine ou ton sac en quatre phrases, avec au moins un pluriel irrégulier ou en -ves et un nom toujours au pluriel.",
+   "items": [
+    ["Exemple de réponse", "In my bag there are two pens, three keys and my glasses. In my kitchen there are four knives and six glasses. I've got a lot of boxes on the shelves. My children's photos are on the fridge."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Nom + s ; + es après s, sh, ch, x ; consonne + y → ies ; souvent -f(e) → ves.",
+  "Irréguliers : men, women, children, people, feet, teeth, mice ; identiques : sheep, fish.",
+  "Le -s se prononce /s/, /z/ ou /ɪz/ (buses, watches).",
+  "Toujours pluriels : trousers, jeans, glasses, scissors, clothes, people, police.",
+  "Sans pluriel : information, advice, news (verbe au singulier), furniture, luggage, homework."
+ ],
+ "liens": [3, 6, 11, 13, 59],
+ "refs": ["bc-countable", "cam-nouns"]
+}

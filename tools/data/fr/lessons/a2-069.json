@@ -1,0 +1,202 @@
+{
+ "n": 69,
+ "niveau": "A2",
+ "titre": "Les tags (isn’t it?, don’t you?)",
+ "intro": "En français, on ajoute « n'est-ce pas ? » ou « hein ? » à la fin d'une phrase pour demander une confirmation. L'anglais utilise des « question tags » : It's cold, isn't it? You like jazz, don't you? Le problème, c'est que le tag change à chaque phrase : il reprend l'auxiliaire et le sujet de la phrase. Les francophones disent souvent « isn't it? » partout : cette leçon t'apprend à choisir le bon tag.",
+ "objectifs": [
+  "Former un tag avec l'auxiliaire de la phrase + un pronom sujet (isn't it?, can you?, didn't she?).",
+  "Appliquer la règle : phrase affirmative → tag négatif ; phrase négative → tag affirmatif.",
+  "Utiliser do / does / did dans le tag quand la phrase n'a pas d'auxiliaire.",
+  "Comprendre l'intonation : tag descendant (je vérifie) ou montant (je pose une vraie question)."
+ ],
+ "sections": [
+  {
+   "titre": "Le principe : auxiliaire + pronom",
+   "texte": [
+    "Le tag se compose de deux mots : l'auxiliaire (ou be, ou le modal) de la phrase + le pronom sujet correspondant. You are tired, aren't you? She can swim, can't she?",
+    "On utilise toujours un pronom dans le tag, jamais le nom : Paul is late, isn't he? (et non « isn't Paul? »). Pour this / that, on dit it : That's your car, isn't it?",
+    "Règle de base : si la phrase est affirmative, le tag est négatif (contracté). Si la phrase est négative, le tag est affirmatif."
+   ],
+   "tableau": {
+    "entetes": ["Phrase", "Tag", "Règle"],
+    "lignes": [
+     ["It's hot,", "isn't it?", "affirmatif → tag négatif"],
+     ["It isn't hot,", "is it?", "négatif → tag affirmatif"],
+     ["You can drive,", "can't you?", "modal repris"],
+     ["They were at home,", "weren't they?", "be au passé repris"],
+     ["She won't come,", "will she?", "won't → will"]
+    ]
+   },
+   "exemples": [
+    ["The weather is lovely today, isn't it?", "be au présent."],
+    ["You aren't from Lyon, are you?", "Phrase négative → tag affirmatif."],
+    ["We should leave now, shouldn't we?", "Modal should."]
+   ]
+  },
+  {
+   "titre": "Sans auxiliaire : do, does, did",
+   "texte": [
+    "Quand la phrase est au présent simple ou au passé simple sans auxiliaire, le tag utilise do, does ou did, comme dans une question : You live here, don't you? He works in Douala, doesn't he? They arrived yesterday, didn't they?",
+    "À la forme négative, l'auxiliaire est déjà là : You don't eat meat, do you? She didn't call, did she?",
+    "Attention : have (posséder) au présent prend aussi do : You have a car, don't you? Mais have got prend have : You've got a car, haven't you?"
+   ],
+   "exemples": [
+    ["You speak Spanish, don't you?", "Présent simple → don't."],
+    ["Your sister lives in Québec, doesn't she?", "3e personne → doesn't."],
+    ["You saw the film, didn't you?", "Passé simple → didn't."],
+    ["He doesn't like football, does he?", "Négatif → does."]
+   ]
+  },
+  {
+   "titre": "Les cas particuliers",
+   "texte": [
+    "I am : le tag est aren't I? (et non « amn't I »). I'm right, aren't I? Mais à la forme négative : I'm not late, am I?",
+    "Let's : le tag est shall we? Let's go, shall we? Avec l'impératif, on peut ajouter will you? pour adoucir : Close the door, will you?",
+    "Les mots négatifs (never, nothing, nobody) rendent la phrase négative : le tag est donc affirmatif. He never calls, does he? Nothing happened, did it? Avec nobody / somebody / everybody, on utilise they : Nobody came, did they?"
+   ],
+   "exemples": [
+    ["I'm in the right room, aren't I?", "I am → aren't I?"],
+    ["Let's have lunch, shall we?", "Let's → shall we?"],
+    ["You never eat breakfast, do you?", "never = négatif → tag affirmatif."]
+   ]
+  },
+  {
+   "titre": "L'intonation change le sens",
+   "texte": [
+    "Intonation descendante ↘ : tu es presque sûr et tu attends un accord. C'est la plus fréquente, surtout pour faire la conversation : Nice day, isn't it? ↘",
+    "Intonation montante ↗ : tu n'es pas sûr et tu poses une vraie question : You're coming tomorrow, aren't you? ↗ (Je ne sais pas, j'aimerais le savoir.)",
+    "Le tag sert beaucoup à engager la conversation avec quelqu'un qu'on ne connaît pas (« small talk »), par exemple en parlant du temps qu'il fait."
+   ],
+   "exemples": [
+    ["It's a beautiful city, isn't it? ↘", "Je suis sûr ; j'attends « Yes, it is! »."],
+    ["The shop opens at nine, doesn't it? ↗", "Je ne suis pas sûr : vraie question."]
+   ]
+  },
+  {
+   "titre": "Répondre à un tag",
+   "texte": [
+    "On répond selon la réalité, avec une réponse courte : It's cold, isn't it? — Yes, it is. / No, it isn't.",
+    "Attention avec les phrases négatives : You aren't tired, are you? — No, I'm not. (je ne suis pas fatigué) / Yes, I am. (si, je suis fatigué). En anglais, il n'y a pas de « si » : on dit Yes + la forme affirmative.",
+    "On peut aussi ajouter un commentaire : It was a great match, wasn't it? — Yes, it was amazing!"
+   ],
+   "exemples": [
+    ["You don't know Kofi, do you? — Yes, I do. We work together.", "Yes, I do = si, je le connais."]
+   ]
+  }
+ ],
+ "formule": "phrase affirmative + tag négatif (isn't it?, don't you?) · phrase négative + tag affirmatif (is it?, do you?) · auxiliaire de la phrase + pronom · pas d'auxiliaire → do / does / did · I am → aren't I? · Let's → shall we?",
+ "prononciation": [
+  "Le tag est lié à la phrase, sans vraie pause : « It's cold, isn't it? » ≈ /ɪts kəʊld ˈɪznt ɪt/.",
+  "isn't it se prononce souvent /ˈɪzənɪt/ : le t de isn't presque disparaît.",
+  "don't you ≈ /ˈdəʊntʃu/ et didn't you ≈ /ˈdɪdntʃu/ : le t et le y fusionnent en /tʃ/.",
+  "Intonation descendante ↘ pour vérifier, montante ↗ pour une vraie question.",
+  "aren't I /ˈɑːnt aɪ/ : le r ne se prononce pas en anglais britannique."
+ ],
+ "erreurs": [
+  ["You live in Douala, isn't it?", "You live in Douala, don't you?", "Le tag reprend l'auxiliaire (ici do) et le sujet (you)."],
+  ["She is French, isn't it?", "She is French, isn't she?", "Le pronom du tag correspond au sujet."],
+  ["Paul can swim, can't Paul?", "Paul can swim, can't he?", "Toujours un pronom dans le tag."],
+  ["You don't like fish, don't you?", "You don't like fish, do you?", "Phrase négative → tag affirmatif."],
+  ["I'm late, amn't I?", "I'm late, aren't I?", "I am → aren't I?"],
+  ["He never calls, doesn't he?", "He never calls, does he?", "never rend la phrase négative."],
+  ["You aren't hungry, are you? — Si, I am.", "Yes, I am.", "Pas de « si » en anglais : Yes + forme affirmative."],
+  ["They went home, wasn't it?", "They went home, didn't they?", "Passé simple → didn't + they."]
+ ],
+ "dialogue": {
+  "contexte": "À un arrêt de bus à Montréal, en hiver, Nadia engage la conversation avec un inconnu, Ben.",
+  "lignes": [
+   ["Nadia", "It's really cold today, isn't it?", "Il fait vraiment froid aujourd'hui, hein ?"],
+   ["Ben", "Yes, it is! Minus fifteen, I think. You're not from here, are you?", "Oh oui ! Moins quinze, je crois. Vous n'êtes pas d'ici, n'est-ce pas ?"],
+   ["Nadia", "No, I'm not. I'm from Dakar. I arrived in September.", "Non. Je viens de Dakar. Je suis arrivée en septembre."],
+   ["Ben", "So this is your first winter, isn't it?", "Alors c'est votre premier hiver, non ?"],
+   ["Nadia", "Yes! It's very different. You were born in Montréal, weren't you?", "Oui ! C'est très différent. Vous êtes né à Montréal, n'est-ce pas ?"],
+   ["Ben", "Yes, I was. But I still don't like the cold!", "Oui. Mais je n'aime toujours pas le froid !"],
+   ["Nadia", "The 24 bus goes to the university, doesn't it?", "Le bus 24 va à l'université, n'est-ce pas ?"],
+   ["Ben", "Yes, it does. Oh, here it comes. Let's get on, shall we?", "Oui. Ah, le voilà. On monte ?"],
+   ["Nadia", "Yes! It's warm inside, isn't it?", "Oui ! Il fait chaud dedans, hein ?"]
+  ]
+ },
+ "mots": [
+  ["tag", "Add a tag at the end: isn't it?", "une petite question finale"],
+  ["check", "I want to check the time.", "vérifier"],
+  ["agree", "I agree with you.", "être d'accord"],
+  ["lovely", "What a lovely day!", "très agréable, charmant"],
+  ["freezing", "It's freezing outside!", "glacial, très froid"],
+  ["get on", "Let's get on the bus.", "monter (dans un bus, un train)"],
+  ["stranger", "She started talking to a stranger.", "un inconnu, une inconnue"],
+  ["small talk", "We made small talk about the weather.", "la conversation légère, les banalités"],
+  ["be sure", "I'm sure he's right.", "être sûr"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Le bon tag (be et modaux)",
+   "consigne": "Complète avec le tag qui convient.",
+   "items": [
+    ["It's a nice restaurant, ___?", "isn't it"],
+    ["You aren't busy, ___?", "are you"],
+    ["They can speak English, ___?", "can't they"],
+    ["Marie was at the party, ___?", "wasn't she"],
+    ["We won't be late, ___?", "will we"],
+    ["Your brothers are students, ___?", "aren't they"]
+   ]
+  },
+  {
+   "titre": "2. Do, does ou did ?",
+   "consigne": "Complète avec un tag avec do, does ou did.",
+   "items": [
+    ["You work in a bank, ___?", "don't you"],
+    ["Karim plays the guitar, ___?", "doesn't he"],
+    ["They didn't come, ___?", "did they"],
+    ["You enjoyed the trip, ___?", "didn't you"],
+    ["She doesn't eat meat, ___?", "does she"]
+   ]
+  },
+  {
+   "titre": "3. Cas particuliers",
+   "consigne": "Complète avec le bon tag.",
+   "items": [
+    ["I'm right, ___?", "aren't I"],
+    ["Let's go to the beach, ___?", "shall we"],
+    ["He never listens, ___?", "does he"],
+    ["Nobody called, ___?", "did they"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["You like coffee, isn't it?", "You like coffee, don't you?"],
+    ["Léa is your sister, isn't Léa?", "Léa is your sister, isn't she?"],
+    ["You can't swim, can't you?", "You can't swim, can you?"],
+    ["He went to Liège, wasn't he?", "He went to Liège, didn't he?"],
+    ["We're in the right street, isn't it?", "We're in the right street, aren't we?"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais avec un tag.",
+   "items": [
+    ["Il fait beau, n'est-ce pas ?", "It's a nice day, isn't it? / The weather is nice, isn't it?"],
+    ["Tu habites à Bruxelles, non ?", "You live in Brussels, don't you?"],
+    ["Elle n'est pas venue, hein ?", "She didn't come, did she?"],
+    ["Allons manger, d'accord ?", "Let's eat, shall we?"]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Tu es à une fête et tu ne connais personne. Écris cinq phrases avec un tag pour engager la conversation (sur le temps, la musique, la nourriture, l'hôte, la ville). Utilise au moins un tag avec do / does et un avec une phrase négative.",
+   "items": [
+    ["Exemple de réponse", "The music is great, isn't it? You know Julien, don't you? This cake is delicious, isn't it? You aren't from Lyon, are you? Julien cooks very well, doesn't he?"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Tag = auxiliaire de la phrase + pronom sujet (isn't it?, can't she?, weren't they?).",
+  "Affirmatif → tag négatif ; négatif (ou never, nothing, nobody) → tag affirmatif.",
+  "Pas d'auxiliaire → do / does / did : You live here, don't you?",
+  "I am → aren't I? · Let's → shall we?",
+  "Intonation descendante = je vérifie ; montante = vraie question."
+ ],
+ "liens": [4, 67, 70, 142, 146],
+ "refs": ["bc-tags", "cam-sentences"]
+}

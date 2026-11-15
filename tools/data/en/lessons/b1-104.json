@@ -1,0 +1,212 @@
+{
+ "n": 104,
+ "niveau": "B1",
+ "titre": "Reported statements",
+ "intro": "Reported speech lets you tell someone what another person said without quoting their exact words: “She said she was tired.” It involves three changes: tenses move back, pronouns change, and time and place words change. You need it to tell others about a conversation, a phone call or a meeting.",
+ "objectifs": [
+  "Use say and tell correctly (tell + person; say with no person, or say to + person).",
+  "Move tenses back after a past reporting verb (am → was, will → would, have done → had done…).",
+  "Change pronouns, possessives and time and place expressions (tomorrow → the next day, here → there).",
+  "Know when you don't need to move tenses back (something still true, a present reporting verb)."
+ ],
+ "sections": [
+  {
+   "titre": "Say or tell?",
+   "texte": [
+    "Say and tell have similar meanings, but different patterns. Tell is always followed by the person you speak to (tell me, tell her, tell the manager). Say is not followed directly by a person; if you want to mention the person, use say to.",
+    "That after say or tell is optional, especially in speech: “She told me (that) she was busy.”",
+    "Some fixed phrases use tell without a person: tell the truth, tell a lie, tell a story, tell a joke, tell the time. See also lesson 74 (say or tell)."
+   ],
+   "tableau": {
+    "entetes": ["Verb", "Pattern", "Example"],
+    "lignes": [
+     ["say", "say (that) + clause", "He said (that) he was hungry."],
+     ["say to", "say to + person (rare in reported speech)", "He said to me that he was hungry."],
+     ["tell", "tell + person + (that) + clause", "He told me (that) he was hungry."],
+     ["tell (phrases)", "tell the truth / a lie / a story", "She told a funny story."]
+    ]
+   },
+   "exemples": [
+    ["Amadou told his boss that he was ill.", "Tell + person."],
+    ["Amadou said that he was ill.", "Say with no person."]
+   ]
+  },
+  {
+   "titre": "Moving tenses back (backshift)",
+   "texte": [
+    "When the reporting verb is in the past (said, told), the reported verb usually moves one tense back: present becomes past, past becomes past perfect, will becomes would, can becomes could.",
+    "The past perfect, would, could, should, might and must (for obligation, often had to) don't change, because they can't move further back."
+   ],
+   "tableau": {
+    "entetes": ["Direct speech", "Reported speech"],
+    "lignes": [
+     ["“I am tired.” (present simple)", "She said she was tired."],
+     ["“I'm working.” (present continuous)", "She said she was working."],
+     ["“I've finished.” (present perfect)", "She said she had finished."],
+     ["“I lost my keys.” (past simple)", "She said she had lost her keys. (in speech, also: she lost)"],
+     ["“I will call you.” (will)", "She said she would call me."],
+     ["“I can help.” (can)", "She said she could help."],
+     ["“I must go.” (must)", "She said she had to go. / She said she must go."],
+     ["“I'm going to move.” (going to)", "She said she was going to move."]
+    ]
+   }
+  },
+  {
+   "titre": "Pronouns and possessives",
+   "texte": [
+    "Pronouns and possessives change depending on who is reporting and to whom. If Moussa tells me “I love my job”, I report: “Moussa said he loved his job.” If Aminata tells me “I'll help you”, I report: “Aminata said she would help me.”",
+    "It's logical: put yourself in the place of the person who is reporting."
+   ],
+   "exemples": [
+    ["“I'm proud of you.” → My father told me he was proud of me.", "I → he; you → me."],
+    ["“We've sold our house.” → They said they had sold their house.", "we → they; our → their."],
+    ["“Your idea is great.” → She told me my idea was great.", "your → my."]
+   ]
+  },
+  {
+   "titre": "Time and place words",
+   "texte": [
+    "If we report the words later or somewhere else, time and place expressions change: now → then / at that moment, today → that day, tomorrow → the next day / the following day, yesterday → the day before / the previous day, here → there, this → that.",
+    "If we report on the same day and in the same place, we keep the original words: “She said she'd call me tomorrow” (if tomorrow is still tomorrow)."
+   ],
+   "tableau": {
+    "entetes": ["Direct speech", "Reported speech (later)"],
+    "lignes": [
+     ["now", "then / at that moment"],
+     ["today / tonight", "that day / that night"],
+     ["tomorrow", "the next day / the following day"],
+     ["yesterday", "the day before / the previous day"],
+     ["next week", "the following week"],
+     ["last month", "the month before / the previous month"],
+     ["ago", "before / earlier"],
+     ["here / this", "there / that"]
+    ]
+   },
+   "exemples": [
+    ["“I'll finish it tomorrow.” → He said he would finish it the next day.", "Reported a week later."],
+    ["“I arrived two days ago.” → She said she had arrived two days before.", "ago → before."]
+   ]
+  },
+  {
+   "titre": "When we don't move tenses back",
+   "texte": [
+    "If the reporting verb is in the present (says, tells, has said), tenses don't change: “She says she's tired” (she is saying it now). This is common when reporting a message, an email or a text you have just read.",
+    "If the information is still true when we speak, backshift is optional: “He said he lives in Lyon” (he still does) or “He said he lived in Lyon”. For a general truth, we usually don't move back: “The teacher said that water boils at 100 °C.”"
+   ],
+   "exemples": [
+    ["Mum says she's coming at six.", "Present reporting verb: no backshift."],
+    ["She told me she's from Garoua.", "Still true: backshift optional."]
+   ]
+  }
+ ],
+ "formule": "said / told + person + (that) + tense moved back (am → was, will → would, have done → had done)",
+ "prononciation": [
+  "said is /sed/ (like “bed”), never /seɪd/. says is /sez/.",
+  "told /təʊld/: a dark l and the vowel in “no”.",
+  "The conjunction that is weak /ðət/ and often left out: “She told me (that) she was ill” /ʃi ˈtəʊld mi ʃi wəz ˈɪl/.",
+  "Contracted 'd (would or had) is common in reported speech: “He said he'd call” (= would), “He said he'd left” (= had). The next word tells you which."
+ ],
+ "erreurs": [
+  ["She said me that she was tired.", "She told me that she was tired. / She said that she was tired.", "Say is never followed directly by a person: tell me or say (to me)."],
+  ["He told that he was busy.", "He told me that he was busy. / He said that he was busy.", "Tell must be followed by a person."],
+  ["She said she will call me.", "She said she would call me.", "After said: will → would."],
+  ["He said he has finished.", "He said he had finished.", "After said: present perfect → past perfect."],
+  ["She said that she can't come tomorrow (reported the following week).", "She said that she couldn't come the next day.", "Can → could and tomorrow → the next day."],
+  ["He said: he was hungry.", "He said (that) he was hungry.", "No colon or quotation marks in reported speech."],
+  ["My teacher told to us that the test was easy.", "My teacher told us that the test was easy.", "Tell + person, without to."]
+ ],
+ "dialogue": {
+  "contexte": "An office in Lausanne, Monday morning. Nadia tells her colleague Claire about a call she received from a Canadian client on Friday.",
+  "lignes": [
+   ["Claire", "Did Mr Tremblay call back on Friday?", "Call back = phone again."],
+   ["Nadia", "Yes. He said he was very happy with our offer.", "“I am happy” → he was happy."],
+   ["Claire", "Great! Did he say anything about the price?", "Say anything about = mention."],
+   ["Nadia", "He told me the price was fine, but he said they needed the products earlier.", "Told me / said: both patterns."],
+   ["Claire", "How much earlier?", "A short question."],
+   ["Nadia", "He said they had opened a new shop in Quebec City the week before and they would need everything by March.", "Past perfect, the week before, would."],
+   ["Claire", "That's possible. Did he say he would sign?", "Will → would."],
+   ["Nadia", "He said he could sign the contract the next day if we agreed. And his assistant's email says she's sending it today!", "Can → could; present reporting verb: no backshift."]
+  ]
+ },
+ "mots": [
+  ["say", "She said she was ready.", "to speak words (said, said)"],
+  ["tell", "He told me the news.", "to give information to someone (told, told)"],
+  ["explain", "He explained that the train was late.", "to make something clear"],
+  ["mention", "She mentioned that she had a new job.", "to speak about something briefly"],
+  ["add", "He added that he would be late.", "to say something more"],
+  ["claim", "The company claimed that its products were safe.", "to say something is true without proof"],
+  ["the next day", "She said she would call the next day.", "the day after the one you are talking about"],
+  ["the day before", "He said he had arrived the day before.", "the day before the one you are talking about"],
+  ["message", "The message said the meeting was cancelled.", "a short piece of information you send to someone"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Say or tell?",
+   "consigne": "Complete with the correct form of say or tell (past simple unless another form is needed).",
+   "items": [
+    ["She ___ me she was from Dakar.", "told"],
+    ["He ___ that the shop was closed.", "said"],
+    ["They ___ us the truth.", "told"],
+    ["I ___ to him that I was sorry.", "said"],
+    ["Can you ___ me the time, please?", "tell"]
+   ]
+  },
+  {
+   "titre": "2. Move the tenses back",
+   "consigne": "Report these words, starting with “She said (that)…”.",
+   "items": [
+    ["“I'm hungry.”", "She said (that) she was hungry."],
+    ["“I've lost my phone.”", "She said (that) she had lost her phone."],
+    ["“I'll be late.”", "She said (that) she would be late."],
+    ["“I can't swim.”", "She said (that) she couldn't swim."],
+    ["“I'm working from home today.” (reported the following week)", "She said (that) she was working from home that day."]
+   ]
+  },
+  {
+   "titre": "3. Pronouns and time words",
+   "consigne": "Report the words (later, somewhere else) with told me.",
+   "items": [
+    ["Paul: “I bought this car yesterday.”", "Paul told me (that) he had bought that car the day before."],
+    ["Ana: “We are moving to Toronto next month.”", "Ana told me (that) they were moving to Toronto the following month."],
+    ["My boss: “You can leave early tomorrow.”", "My boss told me (that) I could leave early the next day."],
+    ["Karim: “My sister lives here.”", "Karim told me (that) his sister lived there."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["He said me that he was tired.", "He told me that he was tired. / He said that he was tired."],
+    ["She told that she would come.", "She told me that she would come. / She said that she would come."],
+    ["They said they will help us.", "They said they would help us."],
+    ["He told to me that he had finished.", "He told me that he had finished."]
+   ]
+  },
+  {
+   "titre": "5. Report the words",
+   "consigne": "Report each sentence with the words in brackets.",
+   "items": [
+    ["Amira: “I'm ill.” (She told me…)", "She told me (that) she was ill (sick)."],
+    ["Leo: “I'll come tomorrow.” (He said… — reported a week later)", "He said (that) he would come the next day."],
+    ["The children: “We've already eaten.” (They said…)", "They said (that) they had already eaten."],
+    ["Your brother's text now: “I'm arriving at eight.” (My brother says…)", "My brother says (that) he's arriving at eight."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Think of a recent conversation (a phone call, a meeting, a family chat). In 4–5 sentences, report what people said, using said and told.",
+   "items": [
+    ["Example answer", "Yesterday my cousin called me from Douala. She told me she had passed her exams. She said she was going to study medicine in Yaoundé. She also said that our grandmother was feeling better. I told her I would visit them in December."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "tell + person (told me); say with no person (said that) or say to + person.",
+  "After a past reporting verb, tenses move back (is → was, will → would, has done → had done, can → could).",
+  "Pronouns, possessives and time words change depending on who reports (tomorrow → the next day, here → there).",
+  "Present reporting verb (says): no backshift.",
+  "Information still true: backshift is optional."
+ ],
+ "liens": [74, 93, 105, 154, 155],
+ "refs": ["bc-reported", "bc-reporting-verbs"]
+}

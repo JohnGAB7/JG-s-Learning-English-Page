@@ -1,0 +1,194 @@
+{
+ "n": 93,
+ "niveau": "B1",
+ "titre": "Le past perfect",
+ "intro": "Le past perfect (had + participe passé) est le « passé du passé » : il situe une action avant une autre action passée. Il correspond souvent au plus-que-parfait français (j'avais fini) et il est indispensable pour raconter une histoire clairement.",
+ "objectifs": [
+  "Former le past perfect à toutes les formes et reconnaître la contraction 'd.",
+  "Montrer qu'une action passée a eu lieu avant une autre, notamment avec when, after, before, by the time, already, never.",
+  "Savoir quand le past perfect est nécessaire et quand le prétérit suffit.",
+  "Découvrir le past perfect continu (had been + -ing) pour une durée avant un moment passé."
+ ],
+ "sections": [
+  {
+   "titre": "La forme : had + participe passé",
+   "texte": [
+    "Le past perfect se forme avec had (identique à toutes les personnes) suivi du participe passé : I had finished, she had left, they had gone.",
+    "À l'oral, had se contracte en 'd : I'd, you'd, she'd, we'd, they'd. Attention : 'd peut aussi être would (I'd like). Le mot suivant permet de trancher : 'd + participe = had (I'd seen) ; 'd + base verbale = would (I'd see).",
+    "Négation : hadn't + participe. Question : Had + sujet + participe ? Réponse courte : Yes, she had. / No, she hadn't."
+   ],
+   "tableau": {
+    "entetes": ["Forme", "Structure", "Exemple"],
+    "lignes": [
+     ["Affirmative", "sujet + had + participe", "The film had started when we arrived."],
+     ["Négative", "sujet + hadn't + participe", "I hadn't eaten all day."],
+     ["Question", "Had + sujet + participe ?", "Had you met him before?"],
+     ["Question en Wh-", "Wh- + had + sujet + participe ?", "Where had she put the keys?"],
+     ["Réponse courte", "Yes, sujet + had. / No, sujet + hadn't.", "Had they left? – Yes, they had."]
+    ]
+   }
+  },
+  {
+   "titre": "Usage principal : l'action la plus ancienne",
+   "texte": [
+    "Quand on raconte une histoire au prétérit, on utilise le past perfect pour revenir en arrière, vers une action encore plus ancienne. Imagine une ligne du temps : action 1 (past perfect) → action 2 (prétérit) → maintenant.",
+    "Comparer : « When I arrived, the train left » = le train est parti au moment où j'arrivais (les deux en même temps ou l'un juste après l'autre). « When I arrived, the train had left » = le train était déjà parti, je l'ai raté."
+   ],
+   "exemples": [
+    ["When we got to the cinema, the film had already started.", "Quand nous sommes arrivés au cinéma, le film avait déjà commencé."],
+    ["She was nervous because she had never flown before.", "Elle était nerveuse parce qu'elle n'avait jamais pris l'avion."],
+    ["I recognised him because I had seen his photo.", "Je l'ai reconnu parce que j'avais vu sa photo."],
+    ["They had sold the house by the time we called.", "Ils avaient vendu la maison au moment où nous avons appelé."]
+   ]
+  },
+  {
+   "titre": "Les mots signaux",
+   "texte": [
+    "Certains mots accompagnent souvent le past perfect parce qu'ils expriment l'antériorité : already, just, never… before, by the time, by + date, until, after, before, when, because.",
+    "By the time (au moment où, quand… déjà) est très typique : « By the time the police arrived, the thieves had escaped. »"
+   ],
+   "tableau": {
+    "entetes": ["Mot", "Exemple", "Sens"],
+    "lignes": [
+     ["already", "The guests had already left.", "déjà (avant ce moment)"],
+     ["just", "I had just sat down when the phone rang.", "venais de"],
+     ["never … before", "I had never seen snow before that trip.", "jamais auparavant"],
+     ["by the time", "By the time I woke up, she had gone.", "le temps que…, quand… déjà"],
+     ["by + moment", "By 2010, he had written five novels.", "avant / d'ici (une date passée)"],
+     ["after", "After she had finished, she went out.", "après que"]
+    ]
+   }
+  },
+  {
+   "titre": "Quand le prétérit suffit",
+   "texte": [
+    "Si les actions sont racontées dans l'ordre où elles se sont produites, le prétérit suffit : « I opened the door, switched on the light and sat down. »",
+    "Avec after et before, l'ordre est déjà clair : le past perfect est possible mais pas obligatoire. « After she finished / had finished, she went out. » Le past perfect insiste sur le fait que la première action était complètement terminée.",
+    "Erreur fréquente : utiliser le past perfect comme un « passé lointain ». Ce n'est pas la distance dans le temps qui compte, c'est l'ordre entre deux moments passés. « The Romans built this bridge » (et non « had built ») si rien ne vient après dans le récit."
+   ],
+   "exemples": [
+    ["I got up, had a shower and left.", "Ordre chronologique : prétérit seulement."],
+    ["Before I left, I checked the windows.", "Before rend l'ordre clair : prétérit possible."]
+   ]
+  },
+  {
+   "titre": "Past perfect et discours indirect, et past perfect continu",
+   "texte": [
+    "Le past perfect sert aussi quand on rapporte des paroles ou des pensées au passé : « She said she had lost her phone » (paroles : « I've lost / I lost my phone »). Ce point sera approfondi aux leçons 104 et 105.",
+    "Le past perfect continu (had been + -ing) indique qu'une activité durait jusqu'à un moment du passé, comme le present perfect continu le fait jusqu'à maintenant : « We had been waiting for two hours when the bus finally arrived. » Il explique aussi une trace passée : « Her eyes were red: she had been crying. »"
+   ],
+   "exemples": [
+    ["He told me he had already paid.", "Il m'a dit qu'il avait déjà payé."],
+    ["I had been working there for ten years when the company closed.", "Je travaillais là depuis dix ans quand l'entreprise a fermé."],
+    ["The ground was wet. It had been raining.", "Le sol était mouillé. Il avait plu."]
+   ]
+  }
+ ],
+ "formule": "had + participe passé (When I arrived, the train had left.)",
+ "prononciation": [
+  "Had est faible en milieu de phrase : /həd/ ou /əd/, et souvent contracté en 'd /d/ : « she'd gone » /ʃiːd ɡɒn/.",
+  "Le 'd est très léger : écoute bien la différence entre « I left » et « I'd left ». Le /d/ se lie au mot suivant : « I'd already » /aɪd ɔːlˈredi/.",
+  "hadn't /ˈhædnt/ est toujours accentué : « I HADN'T seen it ».",
+  "Dans « By the time I got there », by the time se prononce d'un bloc /baɪ ðə ˈtaɪm/, accent sur time."
+ ],
+ "erreurs": [
+  ["When I arrived, the train left already.", "When I arrived, the train had already left.", "L'action plus ancienne (le départ du train) se met au past perfect."],
+  ["I had visited Paris in 2015.", "I visited Paris in 2015.", "Un fait daté isolé est au prétérit ; le past perfect exige un autre moment passé de référence."],
+  ["She had went home.", "She had gone home.", "Après had, le participe passé (gone), pas le prétérit."],
+  ["I didn't know him because I never met him before.", "I didn't know him because I had never met him before.", "Expérience avant un moment passé : had never + participe."],
+  ["By the time we arrived, they finished dinner.", "By the time we arrived, they had finished dinner.", "By the time + action plus ancienne au past perfect."],
+  ["He said he has lost his job.", "He said he had lost his job.", "Après un verbe introducteur au passé, on recule : has lost → had lost."]
+ ],
+ "dialogue": {
+  "contexte": "Lyon, lundi matin. Chloé raconte à son collègue Malik son week-end raté à Genève.",
+  "lignes": [
+   ["Malik", "So, how was Geneva?", "Alors, c'était comment Genève ?"],
+   ["Chloé", "A disaster! When we got to the station, our train had already left.", "Une catastrophe ! Quand nous sommes arrivés à la gare, notre train était déjà parti."],
+   ["Malik", "Oh no! Hadn't you checked the time?", "Oh non ! Vous n'aviez pas vérifié l'heure ?"],
+   ["Chloé", "We had, but the company had changed the timetable and nobody had told us.", "Si, mais la compagnie avait changé les horaires et personne ne nous avait prévenus."],
+   ["Malik", "So what did you do?", "Et alors, qu'est-ce que vous avez fait ?"],
+   ["Chloé", "We took the next one. By the time we arrived, the museum had closed.", "On a pris le suivant. Le temps d'arriver, le musée avait fermé."],
+   ["Malik", "What a shame. Had you been to Geneva before?", "Dommage. Tu étais déjà allée à Genève ?"],
+   ["Chloé", "No, never. But the lake was beautiful, so it wasn't all bad.", "Non, jamais. Mais le lac était magnifique, donc ce n'était pas si mal."]
+  ]
+ },
+ "mots": [
+  ["by the time", "By the time I arrived, everyone had left.", "le temps que…, au moment où (déjà)"],
+  ["realise", "I realised I had left my passport at home.", "se rendre compte (US : realize)"],
+  ["previously", "She had previously worked in Dakar.", "auparavant"],
+  ["miss", "We missed the bus because we had overslept.", "rater, manquer"],
+  ["oversleep", "I had overslept, so I was late.", "ne pas se réveiller à temps"],
+  ["timetable", "They had changed the timetable.", "les horaires (US : schedule)"],
+  ["discover", "The police discovered that he had lied.", "découvrir"],
+  ["turn out", "It turned out that she had already paid.", "s'avérer, se révéler"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quelle action a eu lieu en premier ?",
+   "consigne": "Indique quelle action s'est produite en premier.",
+   "items": [
+    ["When I got home, my sister had cooked dinner.", "My sister cooked dinner."],
+    ["He had left before I called him.", "He left."],
+    ["The shop had closed when we arrived.", "The shop closed."],
+    ["I realised I had forgotten my bag.", "I forgot my bag."]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Mets le verbe entre parenthèses au past perfect.",
+   "items": [
+    ["When we arrived, the concert ___ (start).", "had started"],
+    ["I was hungry because I ___ (not / eat) all day.", "hadn't eaten"],
+    ["___ you ___ (meet) her before the party?", "Had … met"],
+    ["She ___ (never / see) the sea before that holiday.", "had never seen"],
+    ["By 9 p.m., they ___ (finish) the work.", "had finished"]
+   ]
+  },
+  {
+   "titre": "3. Prétérit ou past perfect ?",
+   "consigne": "Mets un verbe au prétérit et l'autre au past perfect.",
+   "items": [
+    ["When I (get) to the bank, it (close).", "got … had closed"],
+    ["She (be) sad because her cat (disappear).", "was … had disappeared"],
+    ["We (not / recognise) him because he (grow) a beard.", "didn't recognise … had grown"],
+    ["By the time the taxi (arrive), we (decide) to walk home.", "arrived … had decided"]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["When I arrived, the meeting already finished.", "When I arrived, the meeting had already finished."],
+    ["She had wrote the letter before lunch.", "She had written the letter before lunch."],
+    ["I had bought this car in 2019.", "I bought this car in 2019."],
+    ["He told me he has seen the film.", "He told me he had seen the film."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Quand nous sommes arrivés, le bus était déjà parti.", "When we arrived, the bus had already left."],
+    ["Je n'avais jamais mangé de poutine avant ce voyage.", "I had never eaten poutine before that trip."],
+    ["Elle m'a dit qu'elle avait perdu ses clés.", "She told me (that) she had lost her keys."],
+    ["Il pleuvait depuis deux heures quand nous sommes partis.", "It had been raining for two hours when we left."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Raconte en 4 à 5 phrases une journée où tout s'est mal passé, en utilisant au moins trois fois le past perfect (already, never… before, by the time…).",
+   "items": [
+    ["Exemple de réponse", "Last Monday was terrible. When I woke up, I realised my alarm hadn't rung. By the time I got to the station, my train had already left. When I finally arrived at work, the meeting had started. I had never felt so embarrassed before."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Forme : had + participe passé, identique à toutes les personnes ; contraction 'd.",
+  "Usage : l'action la plus ancienne de deux actions passées (le « passé du passé »).",
+  "Signaux : already, just, never… before, by the time, by + date, after, before.",
+  "Pas de past perfect pour un fait daté isolé ni pour un récit chronologique : prétérit.",
+  "Past perfect continu (had been + -ing) : durée jusqu'à un moment passé."
+ ],
+ "liens": [42, 43, 91, 97, 104],
+ "refs": ["bc-past-perfect", "bc-past-cont"]
+}

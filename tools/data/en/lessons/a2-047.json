@@ -1,0 +1,203 @@
+{
+"n": 47,
+"niveau": "A2",
+"titre": "Superlatives",
+"intro": "We use superlatives to show that one thing is above all the others in a group: “the biggest”, “the most expensive”, “the least interesting”. They work like comparatives: -est for short words, most for long words.",
+"objectifs": [
+"Form superlatives of short adjectives (the -est) and long adjectives (the most).",
+"Know the irregular superlatives: the best, the worst, the furthest.",
+"Use the right preposition after a superlative: in for a place or group, of for a period or a list.",
+"Use “one of the + superlative + plural noun” and “the least”."
+],
+"sections": [
+{
+"titre": "Short adjectives: the + -est",
+"texte": [
+"For one-syllable adjectives and two-syllable adjectives ending in -y, add -est and put “the” before it. The spelling rules are the same as for comparatives (lesson 46).",
+"We almost always use “the”, because we are talking about one thing only."
+],
+"tableau": {
+"entetes": ["Rule", "Adjective", "Comparative", "Superlative"],
+"lignes": [
+["+ -est", "tall", "taller", "the tallest"],
+["ends in -e: + -st", "nice", "nicer", "the nicest"],
+["1 vowel + 1 consonant: double it", "big", "bigger", "the biggest"],
+["consonant + -y: y → iest", "happy", "happier", "the happiest"],
+["ends in -w or vowel + -y: no doubling", "new", "newer", "the newest"]
+]
+},
+"exemples": [
+["Mount Cameroon is the highest mountain in Cameroon.", "high → the highest."],
+["Sunday is the busiest day at the market.", "busy → the busiest."]
+]
+},
+{
+"titre": "Long adjectives: the most + adjective",
+"texte": [
+"For two-syllable adjectives that do not end in -y, and for adjectives with three or more syllables, use “the most” + adjective.",
+"For the opposite idea, use “the least” + adjective, with any adjective: the least expensive, the least difficult."
+],
+"exemples": [
+["This is the most beautiful beach in Senegal.", "beautiful: long → the most."],
+["Health is the most important thing.", "important: long → the most."],
+["It was the least interesting film of the festival.", "the least = the opposite of the most."]
+]
+},
+{
+"titre": "Irregular superlatives",
+"texte": [
+"Adjectives that are irregular in the comparative are also irregular in the superlative. They are some of the most common words in English."
+],
+"tableau": {
+"entetes": ["Adjective", "Comparative", "Superlative", "Example"],
+"lignes": [
+["good", "better", "the best", "She's the best student in the class."],
+["bad", "worse", "the worst", "That was the worst day of my life."],
+["far", "further / farther", "the furthest / the farthest", "Which planet is the furthest from the sun?"],
+["much / many", "more", "the most", "Who has the most money?"],
+["little", "less", "the least", "He did the least work."]
+]
+}
+},
+{
+"titre": "In or of after a superlative?",
+"texte": [
+"Use “in” before a place or a group seen as one unit: in the world, in my family, in the class, in the team. Do not say “the biggest city of the country”.",
+"Use “of” before a period of time or a list of things: of the year, of my life, of all, of the three."
+],
+"exemples": [
+["He's the tallest boy in his class.", "in + group."],
+["It's the biggest city in Canada.", "in + place."],
+["It was the happiest day of my life.", "of + period."],
+["She's the youngest of the three sisters.", "of + list."]
+]
+},
+{
+"titre": "Useful patterns",
+"texte": [
+"“One of the + superlative + plural noun”: the noun is always plural, because you choose from many.",
+"With a possessive, there is no “the”: my best friend, our biggest problem.",
+"Superlative + present perfect + ever: “the best film I've ever seen”. You will see this again with ever / never (lesson 52)."
+],
+"exemples": [
+["Brussels is one of the most expensive cities in Belgium.", "Plural noun: cities."],
+["My best friend lives in Dakar.", "No the with my."],
+["It's the best meal I've ever had.", "Superlative + I've ever + past participle."]
+]
+}
+],
+"formule": "the + short adjective-est · the most / the least + long adjective · (in + place / group; of + period / list)",
+"prononciation": [
+"The -est ending is /ɪst/: biggest /ˈbɪɡɪst/, nicest /ˈnaɪsɪst/, happiest /ˈhæpiɪst/.",
+"“the” is /ðə/ before a consonant sound and /ði/ before a vowel sound: the biggest /ðə/, the oldest /ði ˈəʊldɪst/.",
+"“most” is /məʊst/ (UK) or /moʊst/ (US).",
+"In “the best”, the final t is light and often links to the next word: the best actor /ðə ˈbest ˈæktə/.",
+"Stress the adjective: the MOST imPORtant, the BIGgest."
+],
+"erreurs": [
+["She is the most tall in the family.", "She is the tallest in the family.", "Short adjective: -est, not most."],
+["It's the most biggest city.", "It's the biggest city.", "Never most + -est."],
+["He's the better player of the team.", "He's the best player in the team.", "good → the best; and in + group."],
+["It's the oldest building of the city.", "It's the oldest building in the city.", "Place → in, not of."],
+["One of the best restaurant.", "One of the best restaurants.", "One of the … + plural noun."],
+["She's my the best friend.", "She's my best friend.", "No the after a possessive."],
+["It was the baddest moment.", "It was the worst moment.", "bad → the worst."]
+],
+"dialogue": {
+"contexte": "Two colleagues, Sami and Julie, are planning a weekend in Bruges and reading reviews online.",
+"lignes": [
+["Julie", "Which hotel is the cheapest?", "cheap → the cheapest."],
+["Sami", "The Canal Inn. But it's also the furthest from the centre.", "far → the furthest."],
+["Julie", "What about the Belfry Hotel?", "“What about…?” asks about another option."],
+["Sami", "It's the most expensive, but it has the best reviews in town.", "the most + long adjective; good → the best."],
+["Julie", "What's the most famous thing to see in Bruges?", "the most famous."],
+["Sami", "The Belfry, I think — the medieval tower in the main square. It's one of the most popular sights in the city.", "one of the + superlative + plural noun."],
+["Julie", "And the best chocolate shop?", "the best."],
+["Sami", "That's the most difficult question of the day!", "of + period (the day)."]
+]
+},
+"mots": [
+["famous", "It's the most famous square in Brussels.", "known by many people"],
+["popular", "Football is the most popular sport here.", "liked by many people"],
+["high", "It's the highest mountain in the country.", "a long way from the ground; tall"],
+["long", "The Nile is one of the longest rivers in the world.", "having a big distance from one end to the other"],
+["dangerous", "It's the most dangerous road in the region.", "able to hurt you"],
+["review", "This hotel has the best reviews.", "an opinion about a hotel, film, book, etc."],
+["choice", "This is the best choice for you.", "the thing you choose; the act of choosing"],
+["ever", "It's the best film I've ever seen.", "at any time"],
+["world", "It's the biggest desert in the world.", "the earth and all the people and places on it"]
+],
+"exercices": [
+{
+"titre": "1. Make the superlative",
+"consigne": "Write the superlative with the.",
+"items": [
+["cheap", "the cheapest"],
+["big", "the biggest"],
+["funny", "the funniest"],
+["expensive", "the most expensive"],
+["good", "the best"],
+["bad", "the worst"],
+["safe", "the safest"],
+["interesting", "the most interesting"]
+]
+},
+{
+"titre": "2. In or of?",
+"consigne": "Complete with in or of.",
+"items": [
+["It's the tallest building ___ Africa.", "in"],
+["It was the best day ___ the holiday.", "of"],
+["She's the oldest ___ my four cousins.", "of"],
+["He's the fastest runner ___ the team.", "in"],
+["It's the coldest month ___ the year.", "of"]
+]
+},
+{
+"titre": "3. Complete",
+"consigne": "Put the adjective in brackets in the superlative.",
+"items": [
+["Toronto is ___ (large) city in Canada.", "the largest"],
+["That was ___ (bad) film of the year.", "the worst"],
+["Lagos is one of ___ (crowded) cities in the world.", "the most crowded"],
+["It's ___ (easy) exercise in the book.", "the easiest"],
+["This is ___ (little) expensive option.", "the least"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["It's the most cheap phone.", "It's the cheapest phone."],
+["She's the better singer in the group.", "She's the best singer in the group."],
+["Paris is one of the most beautiful city.", "Paris is one of the most beautiful cities."],
+["He's the richest man of the country.", "He's the richest man in the country."]
+]
+},
+{
+"titre": "5. Write the sentence",
+"consigne": "Use the words to write a sentence with a superlative.",
+"items": [
+["it / good / restaurant / the town", "It's the best restaurant in the town."],
+["it / be (past) / bad / day / my life", "It was the worst day of my life."],
+["it / one of / hot / countries / the world", "It's one of the hottest countries in the world."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Present your town or country in five sentences with superlatives (the biggest, the most famous, the best…).",
+"items": [
+["Model answer", "I live in Liège. It's one of the biggest cities in Wallonia. The most famous place is the Montagne de Bueren, a staircase with 374 steps. The best time to visit is in summer. The busiest day is Sunday, when there is a huge market by the river."]
+]
+}
+],
+"a_retenir": [
+"Short adjective: the + -est (the cheapest); long adjective: the most + adjective.",
+"Irregular: the best, the worst, the furthest; the opposite: the least.",
+"in + place or group (in the world, in my class); of + period or list (of the year, of the three).",
+"One of the + superlative + plural noun.",
+"With a possessive, no the: my best friend."
+],
+"liens": [46, 52, 66, 24],
+"refs": ["bc-comparatives", "cam-adj"]
+}

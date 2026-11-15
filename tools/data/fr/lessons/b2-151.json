@@ -1,0 +1,223 @@
+{
+ "n": 151,
+ "niveau": "B2",
+ "titre": "La voix passive",
+ "intro": "Le passif met en avant l'action ou ce qui la subit, et non la personne qui agit. Il est partout dans la presse, les rapports, les modes d'emploi et les échanges professionnels, et c'est souvent la meilleure traduction du « on » français.",
+ "objectifs": [
+  "Former le passif à tous les temps courants, y compris les formes en « being » (is being done, was being done).",
+  "Choisir entre actif et passif selon ce qu'on veut mettre en valeur, et savoir quand ajouter ou omettre « by ».",
+  "Mettre au passif les verbes à deux compléments (give, send, offer) et les verbes prépositionnels (look after, laugh at).",
+  "Traduire correctement le « on » français et éviter les pièges classiques (I was born, it happened)."
+ ],
+ "sections": [
+  {
+   "titre": "La forme : be + participe passé",
+   "texte": [
+    "Le passif se construit toujours de la même façon : le verbe « be » porte le temps, et le verbe principal est au participe passé (troisième colonne des verbes irréguliers : written, taken, built ; -ed pour les réguliers).",
+    "Le complément d'objet de la phrase active devient le sujet de la phrase passive. Le temps ne change pas : si l'actif est au prétérit, « be » est au prétérit (was / were).",
+    "Aux formes progressives, on ajoute « being » : is being repaired (est en train d'être réparé), was being interviewed. C'est la forme que les francophones oublient le plus souvent."
+   ],
+   "tableau": {
+    "entetes": ["Temps", "Actif", "Passif"],
+    "lignes": [
+     ["Présent simple", "They clean the offices every day.", "The offices are cleaned every day."],
+     ["Présent en be + -ing", "They are repairing the road.", "The road is being repaired."],
+     ["Prétérit", "Someone stole my phone.", "My phone was stolen."],
+     ["Passé en be + -ing", "They were interviewing her.", "She was being interviewed."],
+     ["Present perfect", "They have cancelled the flight.", "The flight has been cancelled."],
+     ["Futur avec will", "They will announce the results.", "The results will be announced."],
+     ["Be going to", "They are going to close the factory.", "The factory is going to be closed."],
+     ["Modal", "You must sign the form.", "The form must be signed."]
+    ]
+   },
+   "note": "Les formes au past perfect (had been done), au futur antérieur et avec les modaux au passé (should have been done) sont approfondies dans la leçon 164."
+  },
+  {
+   "titre": "Pourquoi choisir le passif ?",
+   "texte": [
+    "L'anglais emploie le passif quand l'auteur de l'action est inconnu, évident ou sans intérêt : ce qui compte, c'est ce qui arrive.",
+    "Il sert aussi à organiser l'information : en anglais, on commence volontiers par ce dont on parle déjà (le thème) et on garde l'information nouvelle pour la fin. Le passif permet de garder le même sujet d'une phrase à l'autre.",
+    "Il est très fréquent dans les registres formels : rapports, articles scientifiques, consignes officielles, journalisme. À l'oral familier, on préfère souvent « they » ou « someone » : « They've closed the bridge ».",
+    "Enfin, il permet de ne pas désigner de responsable. La phrase « Mistakes were made » (des erreurs ont été commises) est célèbre parce qu'elle évite de dire qui s'est trompé."
+   ],
+   "exemples": [
+    ["My car was stolen last night.", "Auteur inconnu : on ne sait pas qui l'a volée."],
+    ["The suspect was arrested at the airport.", "Auteur évident : la police."],
+    ["Rice is grown in many parts of Cameroon.", "Auteur sans importance : on parle du riz."],
+    ["The Eiffel Tower was completed in 1889. It was designed by Gustave Eiffel's company.", "On garde le même sujet (la tour) ; l'information nouvelle arrive à la fin."],
+    ["Visitors are requested not to touch the paintings.", "Consigne officielle, registre formel."]
+   ]
+  },
+  {
+   "titre": "Avec ou sans « by » ?",
+   "texte": [
+    "Dans la grande majorité des phrases passives, on ne mentionne pas l'auteur. On ajoute « by + auteur » seulement s'il apporte une information nouvelle ou importante.",
+    "Écrire « The letter was written by someone » ou « English is spoken by people in Canada » n'apporte rien : on supprime le complément d'agent.",
+    "Pour l'instrument ou la matière, on emploie « with » et non « by » : « The door was opened with a key. » Comparez : « The door was opened by the caretaker » (la personne)."
+   ],
+   "exemples": [
+    ["Things Fall Apart was written by Chinua Achebe.", "L'auteur est l'information clé : « by » est utile."],
+    ["The bridge was built in 1932.", "Inutile de dire « by workers »."],
+    ["The cake was decorated with fresh fruit.", "Matière ou instrument : with."]
+   ]
+  },
+  {
+   "titre": "Les verbes à deux compléments",
+   "texte": [
+    "Avec give, send, offer, show, lend, pay, promise, award, teach, on peut avoir deux passifs. Le plus naturel commence par la personne : « I was given a laptop » (on m'a donné un ordinateur).",
+    "L'autre version commence par la chose et garde « to » : « A laptop was given to me. » Elle est correcte mais plus rare, sauf si la chose est le thème de la phrase.",
+    "Piège : explain, describe, suggest, say, report ne fonctionnent pas ainsi. On ne peut pas dire « I was explained the rule ». Il faut : « The rule was explained to me. »"
+   ],
+   "tableau": {
+    "entetes": ["Actif", "Passif centré sur la personne", "Passif centré sur la chose"],
+    "lignes": [
+     ["They offered Ama a job.", "Ama was offered a job.", "A job was offered to Ama."],
+     ["The bank sent me a new card.", "I was sent a new card.", "A new card was sent to me."],
+     ["They explained the procedure to us.", "Impossible : *We were explained…", "The procedure was explained to us."]
+    ]
+   }
+  },
+  {
+   "titre": "Verbes prépositionnels, « be born » et verbes intransitifs",
+   "texte": [
+    "Avec un verbe suivi d'une préposition ou d'une particule (look after, laugh at, deal with, put off, turn down), la préposition reste collée au verbe au passif, même en fin de phrase.",
+    "« Naître » se dit toujours au passif et au passé quand on parle d'un fait : « I was born in Liège in 1994. » « I am born » est faux.",
+    "Les verbes sans complément d'objet (happen, arrive, die, seem, occur, disappear) ne peuvent jamais être au passif. On dit « The accident happened at 8 », pas « was happened »."
+   ],
+   "exemples": [
+    ["The children are looked after by their grandmother.", "La préposition « after » reste."],
+    ["Your complaint will be dealt with this week.", "deal with → be dealt with."],
+    ["The match has been put off until Sunday.", "put off = reporter."],
+    ["She was born in Yaoundé.", "Toujours « was / were born »."],
+    ["What happened? Nothing happened.", "happen : jamais au passif."]
+   ]
+  },
+  {
+   "titre": "Questions, négations et « get »",
+   "texte": [
+    "Aux questions et négations, c'est l'auxiliaire qui se déplace ou prend « not » : « Was the parcel delivered? », « The decision hasn't been made yet », « When will the results be published? »",
+    "À l'oral, « get » remplace souvent « be » pour un événement soudain, souvent désagréable ou inattendu : get hurt, get fired, get stolen, get paid, get invited. « He got injured during the match. » Ce passif avec « get » est informel et n'existe pas avec les verbes d'état (on ne dit pas « get known » pour « être connu »).",
+    "Le passif traduit très souvent le « on » français : « On m'a volé mon sac » → « My bag was stolen » (ou « I had my bag stolen », voir leçon 153). « On parle anglais ici » → « English is spoken here »."
+   ],
+   "exemples": [
+    ["Were you invited to the wedding?", "Question : l'auxiliaire passe devant."],
+    ["The email hasn't been sent yet.", "Négation au present perfect."],
+    ["He got fired after two weeks.", "Informel : il s'est fait renvoyer."],
+    ["We get paid at the end of the month.", "Get + participe : très courant à l'oral."]
+   ]
+  }
+ ],
+ "formule": "sujet + be (au temps voulu) + participe passé (+ by + auteur, seulement si utile)",
+ "prononciation": [
+  "À l'intérieur de la phrase, « was » et « were » sont faibles : /wəz/ et /wə/. « It was stolen » se dit /ɪt wəz ˈstəʊlən/.",
+  "« been » est souvent réduit à /bɪn/ en anglais britannique rapide : « It's been done » /ɪts bɪn ˈdʌn/.",
+  "L'accent de phrase tombe sur le participe, qui porte le sens : « The flight's been CANcelled. »",
+  "Attention aux terminaisons -ed : /t/ après un son sourd (asked, fixed), /d/ après un son sonore (cleaned, delivered), /ɪd/ après t ou d (invited, decided).",
+  "« being » a deux syllabes : /ˈbiːɪŋ/. Ne pas le confondre avec « been » /biːn/ : « It's being built » (en cours) ≠ « It's been built » (terminé)."
+ ],
+ "erreurs": [
+  ["I am born in 1995.", "I was born in 1995.", "Pour une date de naissance, « be born » est toujours au passé."],
+  ["The accident was happened at night.", "The accident happened at night.", "happen n'a pas de complément d'objet : il ne se met jamais au passif."],
+  ["The new hospital is building.", "The new hospital is being built.", "Action en cours au passif : is being + participe."],
+  ["I was explained the problem.", "The problem was explained to me.", "explain ne permet pas de mettre la personne en sujet."],
+  ["English is spoken by people in many countries.", "English is spoken in many countries.", "« by people » n'apporte aucune information : on l'omet."],
+  ["The baby was looked by her aunt.", "The baby was looked after by her aunt.", "La préposition du verbe reste au passif."],
+  ["I was stolen my bike.", "My bike was stolen.", "C'est le vélo qui est volé, pas la personne."]
+ ],
+ "dialogue": {
+  "contexte": "Lundi matin dans une jeune entreprise de Montréal. Sophie arrive et trouve son collègue Daniel à l'accueil.",
+  "lignes": [
+   ["Sophie", "Why are the police here? What happened?", "Pourquoi la police est là ? Qu'est-ce qui s'est passé ?"],
+   ["Daniel", "The office was broken into over the weekend. Three laptops were stolen.", "Le bureau a été cambriolé pendant le week-end. Trois ordinateurs ont été volés."],
+   ["Sophie", "Oh no! Was anything else taken?", "Oh non ! On a pris autre chose ?"],
+   ["Daniel", "Not as far as we know. The back door was forced open, and the alarm was switched off.", "Pas à notre connaissance. La porte de derrière a été forcée et l'alarme a été coupée."],
+   ["Sophie", "And our client files? Were they on those laptops?", "Et nos dossiers clients ? Ils étaient sur ces ordinateurs ?"],
+   ["Daniel", "Don't worry, everything is backed up every night. The data is being restored right now.", "Ne t'inquiète pas, tout est sauvegardé chaque nuit. Les données sont en train d'être restaurées."],
+   ["Sophie", "Have the clients been told?", "Les clients ont été prévenus ?"],
+   ["Daniel", "Not yet. An email will be sent this afternoon, once the police report has been written.", "Pas encore. Un courriel sera envoyé cet après-midi, une fois que le rapport de police aura été rédigé."]
+  ]
+ },
+ "mots": [
+  ["steal", "My wallet was stolen on the bus.", "voler (un objet) ; steal – stole – stolen"],
+  ["break into", "Their house was broken into last year.", "cambrioler, entrer par effraction"],
+  ["arrest", "Two men were arrested near the station.", "arrêter (police)"],
+  ["injure", "Nobody was injured in the fire.", "blesser (accident)"],
+  ["cancel", "The concert has been cancelled.", "annuler"],
+  ["postpone", "The meeting was postponed until Friday.", "reporter, remettre à plus tard"],
+  ["found", "The company was founded in 1998.", "fonder (found – founded – founded ; ne pas confondre avec find – found)"],
+  ["award", "She was awarded a scholarship.", "décerner, attribuer (prix, bourse)"],
+  ["launch", "The new app will be launched in May.", "lancer (produit, projet)"],
+  ["back up", "All files are backed up every night.", "sauvegarder (des données)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Actif ou passif ?",
+   "consigne": "Indique si la phrase est à l'actif ou au passif. Si elle est au passif, donne le temps.",
+   "items": [
+    ["The results are being checked.", "Passif, présent en be + -ing (is / are being + participe)."],
+    ["They have opened a new branch in Douala.", "Actif (present perfect)."],
+    ["The windows were cleaned yesterday.", "Passif, prétérit."],
+    ["The contract will be signed on Monday.", "Passif, futur avec will."]
+   ]
+  },
+  {
+   "titre": "2. Compléter au passif",
+   "consigne": "Complète avec le verbe entre parenthèses au passif, au temps qui convient.",
+   "items": [
+    ["Coffee ___ (grow) in the west of Cameroon.", "is grown"],
+    ["The museum ___ (build) in 1905.", "was built"],
+    ["Sorry, the room isn't ready. It ___ (clean) at the moment.", "is being cleaned"],
+    ["The flight to Brussels ___ just ___ (cancel).", "has just been cancelled"],
+    ["The winners ___ (announce) tomorrow at noon.", "will be announced"],
+    ["When I arrived, the patient ___ (examine) by a doctor.", "was being examined"]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Mets ces phrases au passif. N'ajoute « by » que si l'auteur est une information utile.",
+   "items": [
+    ["Someone has stolen my bike.", "My bike has been stolen."],
+    ["They are going to close the factory next year.", "The factory is going to be closed next year."],
+    ["The manager offered Paul a promotion.", "Paul was offered a promotion (by the manager)."],
+    ["Chimamanda Ngozi Adichie wrote this novel.", "This novel was written by Chimamanda Ngozi Adichie."],
+    ["Her grandparents brought her up.", "She was brought up by her grandparents."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["My sister is born in 2001.", "My sister was born in 2001."],
+    ["The meeting was happened in the main room.", "The meeting happened (took place) in the main room."],
+    ["The road is repairing this week.", "The road is being repaired this week."],
+    ["We were explained the new rules.", "The new rules were explained to us."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais en utilisant le passif.",
+   "items": [
+    ["On m'a volé mon téléphone.", "My phone was stolen. (ou : I had my phone stolen.)"],
+    ["On parle français et anglais au Cameroun.", "French and English are spoken in Cameroon."],
+    ["On m'a proposé un poste à Bruxelles.", "I was offered a job in Brussels."],
+    ["La réunion a été reportée à jeudi.", "The meeting has been postponed (put off) until Thursday."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court article (4 à 5 phrases) sur un événement réel ou inventé dans ta ville (un vol, un nouveau bâtiment, un festival annulé…). Utilise au moins quatre passifs à des temps différents.",
+   "items": [
+    ["Exemple de réponse", "A new bridge was opened in our city last week. It was built in only eighteen months and it has already been used by thousands of drivers. However, part of the road is still being repaired, so some streets have been closed. The final works will be completed in June."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Passif = be au temps voulu + participe passé : is done, was done, is being done, has been done, will be done.",
+  "On l'emploie quand l'auteur est inconnu, évident ou peu important, et pour garder le même sujet ; « by » seulement si l'auteur est une information utile.",
+  "Verbes à deux compléments : « I was given / offered / sent… » ; mais « It was explained to me ».",
+  "La préposition reste : be looked after, be dealt with. « I was born » ; happen, arrive, die ne se mettent jamais au passif.",
+  "Le passif traduit souvent le « on » français : « English is spoken here »."
+ ],
+ "liens": [103, 152, 153, 164],
+ "refs": ["bc-passives", "cam-verbs"]
+}

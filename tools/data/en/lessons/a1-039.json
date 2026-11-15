@@ -1,0 +1,211 @@
+{
+"n": 39,
+"niveau": "A1",
+"titre": "Past of “to be” (was / were)",
+"intro": "“Was” and “were” are the past of “to be”. Use them to say where you were, how you felt, what the weather was like or how an event was. It is your first step to talk about the past, before other verbs (lessons 41 and 42).",
+"objectifs": [
+ "Use “to be” in the past: I was, you were, he was, we were, they were.",
+ "Make negatives (wasn't, weren't), questions and short answers.",
+ "Use past time expressions: yesterday, last week, two days ago.",
+ "Say when and where you were born (I was born…) and use there was / there were."
+],
+"sections": [
+ {
+  "titre": "The forms",
+  "texte": [
+   "In the past, “to be” has only two forms: “was” with I, he, she, it, and “were” with you, we, they.",
+   "The past of “to be” describes a past state (I was tired) and a past fact (I was in Paris last week)."
+  ],
+  "tableau": {
+   "entetes": ["Subject", "Present", "Past", "Negative (short form)"],
+   "lignes": [
+    ["I", "am", "was", "wasn't"],
+    ["you", "are", "were", "weren't"],
+    ["he / she / it", "is", "was", "wasn't"],
+    ["we", "are", "were", "weren't"],
+    ["they", "are", "were", "weren't"]
+   ]
+  },
+  "exemples": [
+   ["I was at home yesterday.", "Place in the past."],
+   ["We were very happy.", "Feelings in the past."],
+   ["It was cold last night.", "Weather in the past."]
+  ],
+  "note": "Use “you were” for one person and for many people. “You was” is wrong in standard English."
+ },
+ {
+  "titre": "Negatives, questions and short answers",
+  "texte": [
+   "Negative: add “not”: was not → wasn't, were not → weren't. Never use “did” with “to be”.",
+   "Question: put the verb before the subject: “Were you at work?”, “Was the film good?”. With a question word: “Where were you?”, “Why was she late?”",
+   "Short answers: “Yes, I was. / No, I wasn't.”, “Yes, they were. / No, they weren't.”"
+  ],
+  "tableau": {
+   "entetes": ["Form", "Example", "Note"],
+   "lignes": [
+    ["Negative", "She wasn't at the meeting.", "was + not"],
+    ["Question", "Were they in Brussels?", "verb before subject"],
+    ["Short answer", "Yes, they were. / No, they weren't.", "don't repeat the rest"],
+    ["Wh- question", "Where were you last night?", "question word first"],
+    ["Asking for an opinion", "How was your weekend? — It was great!", "How was…?"]
+   ]
+  },
+  "exemples": [
+   ["Was the exam difficult? — No, it wasn't.", "Question and short answer."],
+   ["Why were you late? — Because the bus was late.", "Wh- question."]
+  ]
+ },
+ {
+  "titre": "Uses",
+  "texte": [
+   "Like in the present, “was / were” is for place, state, feelings, age, weather and description: “I was 18 in 2010”, “The hotel was very nice”.",
+   "“How was…?” is the perfect question to ask someone's opinion about a past event: “How was the party?”, “How was your trip?”.",
+   "In the past, “there is / there are” becomes “there was / there were”: “There was a problem.”, “There were a lot of people.”"
+  ],
+  "exemples": [
+   ["My grandfather was a teacher.", "Job in the past."],
+   ["There were twenty people at the party.", "there were + plural."],
+   ["How was your trip to Kribi? — It was wonderful, but the road was long.", "Asking for an opinion."]
+  ]
+ },
+ {
+  "titre": "“I was born”",
+  "texte": [
+   "In English, we always talk about birth in the past: “I was born in 1995”, “She was born in Bafoussam”. “I am born” is wrong.",
+   "Prepositions: “in” + year, month or place (I was born in May / in Liège); “on” + exact date (I was born on the 3rd of March)."
+  ],
+  "exemples": [
+   ["Where were you born? — I was born in Quebec City.", "Question and answer."],
+   ["My son was born on the 12th of June 2020.", "on + exact date."]
+  ]
+ },
+ {
+  "titre": "Past time expressions",
+  "texte": [
+   "“yesterday”, “yesterday morning / afternoon / evening”, “last night”, “last week / month / year / Monday”, “in 2015”, “when I was a child”.",
+   "“Ago” goes AFTER the period of time: “two days ago”, “ten years ago”. Use no preposition or article before “last” and “yesterday”: “last week”, not “the last week” or “in last week”."
+  ],
+  "tableau": {
+   "entetes": ["Expression", "Meaning"],
+   "lignes": [
+    ["yesterday", "the day before today"],
+    ["the day before yesterday", "two days before today"],
+    ["last night", "yesterday evening or night"],
+    ["last week / last year", "the week / year before this one"],
+    ["three days ago", "three days before now"],
+    ["when I was a child", "in my childhood"]
+   ]
+  },
+  "exemples": [
+   ["I was in Montreal three years ago.", "period + ago."],
+   ["When I was a child, I was very shy.", "when + past."]
+  ]
+ }
+],
+"formule": "I / he / she / it was · you / we / they were · wasn't / weren't · Was…? Were…? · I was born in…",
+"prononciation": [
+ "In positive sentences, “was” and “were” are weak: “I was tired” = /aɪ wəz ˈtaɪəd/; “we were late” = /wi wə ˈleɪt/.",
+ "In short answers and when you stress them, they are strong: “Yes, I WAS” /wɒz/, “Yes, they WERE” /wɜː/.",
+ "“wasn't” /ˈwɒznt/ and “weren't” /wɜːnt/: the final t is light, but you hear the n clearly.",
+ "Don't confuse “were” /wɜː/ and “where” /weə/: “Where were you?” = /ˈweə wə ju/.",
+ "“born” /bɔːn/: a long vowel; in British English you don't say the r."
+],
+"erreurs": [
+ ["I am born in 1995.", "I was born in 1995.", "We always talk about birth in the past."],
+ ["You was late.", "You were late.", "With you, we, they: “were”."],
+ ["They wasn't at home.", "They weren't at home.", "they + weren't."],
+ ["Did you be at home?", "Were you at home?", "Never “did” with “to be”."],
+ ["Where you were?", "Where were you?", "Question: verb before subject."],
+ ["I was tired the last week.", "I was tired last week.", "No article before “last week”."],
+ ["I was in Paris before two years.", "I was in Paris two years ago.", "period + ago."],
+ ["There was many people.", "There were a lot of people.", "Before a plural: “there were”."]
+],
+"dialogue": {
+ "contexte": "Monday morning in an office in Douala. Joël asks his colleague Rose about her weekend.",
+ "lignes": [
+  ["Joël", "Good morning, Rose! How was your weekend?", "Asking for an opinion."],
+  ["Rose", "It was great, thanks! I was in Limbe with my family.", "was + place."],
+  ["Joël", "Lucky you! Was the weather good?", "Question with was."],
+  ["Rose", "Yes, it was sunny and the beach was beautiful. But there were a lot of people.", "there were + plural."],
+  ["Joël", "Were your children happy?", "Question with were."],
+  ["Rose", "Oh yes, they were very happy. And you? Where were you on Saturday? You weren't at the football match.", "Wh- question; weren't."],
+  ["Joël", "No, I wasn't. I was at home. I was ill.", "Short answer."],
+  ["Rose", "Oh no! Are you OK now?", "Back to the present: are."],
+  ["Joël", "Yes, I'm fine now, thanks.", "Present: I'm."]
+ ]
+},
+"mots": [
+ ["yesterday", "I was at the doctor's yesterday.", "the day before today"],
+ ["last", "We were in Ghent last month.", "the one before this one"],
+ ["ago", "She was here ten minutes ago.", "before now (after a period of time)"],
+ ["born", "I was born in Douala.", "came into the world (I was born)"],
+ ["weekend", "How was your weekend?", "Saturday and Sunday"],
+ ["trip", "The trip was long but fun.", "a journey to a place and back"],
+ ["holiday", "Our holiday was fantastic.", "time away from work or school (US: vacation)"],
+ ["crowded", "The train was very crowded.", "full of people"],
+ ["boring", "The film was boring.", "not interesting"],
+ ["ill", "I was ill last week.", "not well, sick (UK; US: sick)"]
+],
+"exercices": [
+ {
+  "titre": "1. Was or were?",
+  "consigne": "Complete with was or were.",
+  "items": [
+   ["I ___ tired yesterday.", "was"],
+   ["They ___ at the cinema.", "were"],
+   ["The weather ___ very hot.", "was"],
+   ["You ___ right!", "were"],
+   ["My parents ___ teachers.", "were"],
+   ["There ___ a lot of cars on the road.", "were"]
+  ]
+ },
+ {
+  "titre": "2. Make it negative",
+  "consigne": "Write the sentence in the negative (short form).",
+  "items": [
+   ["She was at work.", "She wasn't at work."],
+   ["We were late.", "We weren't late."],
+   ["The film was interesting.", "The film wasn't interesting."],
+   ["They were in Canada.", "They weren't in Canada."]
+  ]
+ },
+ {
+  "titre": "3. Questions and short answers",
+  "consigne": "Write the question and the short answer.",
+  "items": [
+   ["you / at home last night? (yes)", "Were you at home last night? — Yes, I was."],
+   ["the hotel / expensive? (no)", "Was the hotel expensive? — No, it wasn't."],
+   ["your friends / at the party? (yes)", "Were your friends at the party? — Yes, they were."],
+   ["Paul / in the office yesterday? (no)", "Was Paul in the office yesterday? — No, he wasn't."],
+   ["Where / you / born?", "Where were you born?"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I am born in 1998.", "I was born in 1998."],
+   ["Where you were yesterday?", "Where were you yesterday?"],
+   ["Before two days, it was very cold.", "Two days ago, it was very cold."],
+   ["How did be your trip?", "How was your trip?"],
+   ["There was a lot of people at the market.", "There were a lot of people at the market."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write about your last weekend in four or five sentences with was, were, wasn't, weren't and there was / there were.",
+  "items": [
+   ["Model answer", "Last weekend I was in Brussels with my sister. The weather wasn't very good: it was cloudy and cold. On Saturday we were at a concert. There were a lot of people and the music was fantastic. We were very tired on Sunday!"]
+  ]
+ }
+],
+"a_retenir": [
+ "was with I, he, she, it; were with you, we, they.",
+ "Negative: wasn't / weren't; question: Was she…? Were you…?; never “did” with “be”.",
+ "How was your weekend? — It was great!; there was / there were.",
+ "Birth in the past: I was born in 1995 / on the 3rd of March.",
+ "yesterday, last week (no article), two days ago (ago after the period)."
+],
+"liens": [1, 4, 16, 41, 42],
+"refs": ["cam-verbs", "bc-a1a2"]
+}

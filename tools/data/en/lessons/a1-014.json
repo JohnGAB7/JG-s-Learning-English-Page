@@ -1,0 +1,211 @@
+{
+ "n": 14,
+ "niveau": "A1",
+ "titre": "Possessive adjectives (my, your…)",
+ "intro": "My, your, his, her, its, our, their show who something belongs to. They never change with the thing you own, but “his” and “her” depend on the owner: a man → his, a woman → her.",
+ "objectifs": [
+  "Know the seven possessive adjectives and match them with the subject pronouns.",
+  "Choose between his and her by the owner (a man or a woman), not by the thing.",
+  "Use a possessive with parts of the body and clothes.",
+  "Don't confuse its / it's, their / there / they're, your / you're."
+ ],
+ "sections": [
+  {
+   "titre": "The table of possessives",
+   "texte": [
+    "The possessive adjective goes before the noun. It never changes: not in the plural, not with the gender of the thing. “My car, my cars”; “their house, their houses”.",
+    "Never use an article with a possessive: “my book”, never “the my book” or “a my friend” (say “a friend of mine”, which you will see later)."
+   ],
+   "tableau": {
+    "entetes": ["Subject", "Possessive", "Example 1", "Example 2"],
+    "lignes": [
+     ["I", "my", "my phone", "my keys"],
+     ["you", "your", "your bag", "your children"],
+     ["he", "his", "his car", "his parents"],
+     ["she", "her", "her car", "her parents"],
+     ["it", "its", "its name", "its legs"],
+     ["we", "our", "our house", "our friends"],
+     ["they", "their", "their flat", "their children"]
+    ]
+   }
+  },
+  {
+   "titre": "His or her? Look at the owner",
+   "texte": [
+    "In English, “his” or “her” depends on the OWNER: if the owner is a man or a boy, his; if the owner is a woman or a girl, her. The thing doesn't matter.",
+    "So: Paul and his sister (Paul's sister); Marie and her brother (Marie's brother); Marie and her husband; Paul and his wife. In languages like French, the word changes with the thing, so this is a very common mistake."
+   ],
+   "tableau": {
+    "entetes": ["Owner", "Sentence", "Why"],
+    "lignes": [
+     ["Paul", "Paul loves his car.", "owner = a man"],
+     ["Anna", "Anna loves her car.", "owner = a woman"],
+     ["Paul", "Paul calls his mother.", "owner = a man"],
+     ["Anna", "Anna calls her father.", "owner = a woman"],
+     ["the dog", "The dog is eating its food.", "owner = an animal (it)"]
+    ]
+   },
+   "exemples": [
+    ["Karim lives with his grandmother.", "Karim → his."],
+    ["Sophie is talking to her son.", "Sophie → her."],
+    ["The company is moving its office to Lille.", "a company → its."]
+   ]
+  },
+  {
+   "titre": "The body and clothes",
+   "texte": [
+    "English almost always uses a possessive with parts of the body and the clothes a person wears: I wash my hands, She's putting on her coat, He's got his hands in his pockets. Many languages use “the” here; English doesn't.",
+    "With “have got” and descriptions, you don't need a possessive: She's got long hair. But for an action on your body, the possessive is necessary."
+   ],
+   "exemples": [
+    ["Wash your hands before dinner.", "your hands, not “the hands”."],
+    ["I brush my teeth twice a day.", "my teeth."],
+    ["He's shaking his head.", "his head."],
+    ["Take off your shoes, please.", "your shoes."]
+   ]
+  },
+  {
+   "titre": "Your, their, its: one or more owners",
+   "texte": [
+    "“Your” is for one person or many people, friendly or formal: “your car” can belong to one friend, a customer, or a group.",
+    "“Their” is for several owners. Like “they”, it can also mean one person when you don't know their gender: Every student needs their own laptop.",
+    "“Its” is for a thing, an animal you don't know, a company, a country or a city: The city is famous for its museums."
+   ],
+   "exemples": [
+    ["Children, take your books!", "your = plural here."],
+    ["My neighbours love their garden.", "several owners."],
+    ["Canada is famous for its lakes.", "a country → its."]
+   ]
+  },
+  {
+   "titre": "Words that sound the same",
+   "texte": [
+    "Some possessives sound exactly like other words. When you speak, there is no problem; in writing, it is a common mistake, even for native speakers.",
+    "Tip: if you can say “it is”, “they are” or “you are”, you need the apostrophe (it's, they're, you're). A possessive never has an apostrophe."
+   ],
+   "tableau": {
+    "entetes": ["Possessive", "Same sound", "Example"],
+    "lignes": [
+     ["its", "it's (= it is / it has)", "The cat is eating its dinner. It's hungry."],
+     ["their", "they're (= they are), there (in that place)", "They're in their car, over there."],
+     ["your", "you're (= you are)", "You're late! Where's your bag?"]
+    ]
+   }
+  }
+ ],
+ "formule": "I → my · you → your · he → his · she → her · it → its · we → our · they → their (+ noun, never an article)",
+ "prononciation": [
+  "“his” /hɪz/: breathed h + voiced z. Without the h, it sounds like “is”.",
+  "“her” is /hɜː/ when strong; in fast speech, often /ə/: Call her mother /ˈkɔːl ə ˈmʌðə/.",
+  "“their”, “there” and “they're” all sound like /ðeə/; “your” and “you're” like /jɔː/; “its” and “it's” like /ɪts/.",
+  "“our” /ˈaʊə/ sounds like “hour” (the h in hour is silent).",
+  "Possessives are normally weak. Stress them for contrast: It's MY bag, not YOUR bag."
+ ],
+ "erreurs": [
+  ["Marie and his brother", "Marie and her brother", "The possessive depends on the owner (Marie = her)."],
+  ["Paul loves her car.", "Paul loves his car.", "Owner = Paul → his."],
+  ["The dog wants it's ball.", "The dog wants its ball.", "Possessive: its, no apostrophe."],
+  ["I wash the hands.", "I wash my hands.", "Use a possessive with parts of the body."],
+  ["the my car", "my car", "Never an article with a possessive."],
+  ["They love there children.", "They love their children.", "The possessive of they is their."],
+  ["Your late!", "You're late!", "You're = you are."],
+  ["mys friends", "my friends", "Possessives never change."]
+ ],
+ "dialogue": {
+  "contexte": "At a family party in Ottawa, Mia shows photos to her new colleague, Fatou.",
+  "lignes": [
+   ["Mia", "Look, this is my family. These are my parents, and that's my brother Leo with his wife.", "Leo → his wife."],
+   ["Fatou", "Is that their baby?", "their = Leo and his wife."],
+   ["Mia", "Yes! Her name is Chloé. She's eight months old.", "her = the baby girl."],
+   ["Fatou", "She's beautiful. And who's the woman with the red hat?", "A question about a person."],
+   ["Mia", "That's my aunt Rose and her dog, Max. Max loves his red ball!", "Rose → her; Max (a pet) → his."],
+   ["Fatou", "Ha ha! Our dog is the same. Its favourite toy is an old shoe.", "its: an animal; no apostrophe."],
+   ["Mia", "And what about your family? Are your parents in Senegal?", "your = Fatou's."],
+   ["Fatou", "Yes, they are. Their house is in Dakar, near the sea.", "their = her parents'."]
+  ]
+ },
+ "mots": [
+  ["family", "My family is very big.", "parents, children, brothers, sisters…"],
+  ["parents", "Her parents live in Namur.", "your mother and father"],
+  ["brother", "His brother is a pilot.", "a boy or man with the same parents as you"],
+  ["sister", "Our sister is a doctor.", "a girl or woman with the same parents as you"],
+  ["wife", "Paul and his wife are French.", "the woman a person is married to"],
+  ["husband", "Anna and her husband live in Québec.", "the man a person is married to"],
+  ["hand", "Wash your hands.", "the part of your body at the end of your arm"],
+  ["coat", "Put on your coat. It's cold.", "warm clothes you wear outside"],
+  ["favourite", "What's your favourite colour?", "liked more than all the others (US: favorite)"],
+  ["own", "They've got their own house.", "belonging to that person, not to others"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. The right possessive",
+   "consigne": "Complete with the possessive that matches the subject.",
+   "items": [
+    ["I love ___ job.", "my"],
+    ["We're in ___ kitchen.", "our"],
+    ["They're with ___ friends.", "their"],
+    ["You're in ___ room.", "your"],
+    ["The bird is in ___ nest.", "its"],
+    ["He's washing ___ car.", "his"]
+   ]
+  },
+  {
+   "titre": "2. His or her?",
+   "consigne": "Complete with his or her.",
+   "items": [
+    ["Julie is with ___ father.", "her"],
+    ["Marc is with ___ mother.", "his"],
+    ["My aunt loves ___ garden.", "her"],
+    ["Mr Kamga is talking to ___ daughter.", "his"],
+    ["Awa and ___ husband live in Liège.", "her"]
+   ]
+  },
+  {
+   "titre": "3. Its, it's, their, they're, your, you're",
+   "consigne": "Choose the right form.",
+   "items": [
+    ["(Its / It's) raining.", "It's"],
+    ["The company is changing (its / it's) logo.", "its"],
+    ["(Their / They're) house is big.", "Their"],
+    ["(Your / You're) very kind.", "You're"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["Anna is calling his brother.", "Anna is calling her brother."],
+    ["I brush the teeth every morning.", "I brush my teeth every morning."],
+    ["This is the my bag.", "This is my bag."],
+    ["They're parents are teachers.", "Their parents are teachers."],
+    ["The cat is playing with it's toy.", "The cat is playing with its toy."]
+   ]
+  },
+  {
+   "titre": "5. Complete with a possessive",
+   "consigne": "Complete the sentence with the right possessive.",
+   "items": [
+    ["Pierre and ___ sister live in Lyon.", "his"],
+    ["Claire and ___ husband are doctors.", "her"],
+    ["It's cold. Put on ___ coat!", "your"],
+    ["Our neighbours love ___ dog.", "their"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Describe a photo of your family or friends in four sentences. Use at least four different possessives (including his and her).",
+   "items": [
+    ["Example answer", "This is my brother Joël and his wife, Nadia. Her family is from Morocco. Their children are seven and ten. Our parents live with them in Brussels."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "my, your, his, her, its, our, their + noun. They never change and never take an article.",
+  "His / her depends on the owner: Paul and his sister, Marie and her brother.",
+  "Use a possessive with the body and clothes: I wash my hands, Put on your coat.",
+  "its (possessive) ≠ it's (it is); their ≠ they're ≠ there; your ≠ you're.",
+  "Its for a thing, an animal, a company, a country."
+ ],
+ "liens": [10, 13, 15, 23, 63],
+ "refs": ["cam-nouns", "bc-a1a2"]
+}

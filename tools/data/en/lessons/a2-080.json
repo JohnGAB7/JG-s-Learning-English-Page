@@ -1,0 +1,199 @@
+{
+"n": 80,
+"niveau": "A2",
+"titre": "At the hotel and travelling",
+"intro": "Booking a room, checking in, reporting a problem, getting through the airport and finding your train: when you travel, the same situations and phrases come back again and again. This lesson gives you the polite phrases (Could I…?, I’d like…, lessons 34 and 57) and the key vocabulary, with the differences between British and American English.",
+"objectifs": [
+ "Book a room and say the type of room, the dates and what is included.",
+ "Check in and check out of a hotel, asking the right questions.",
+ "Report a problem in your room politely.",
+ "Manage at the airport and the station: check-in, luggage, boarding, delays."
+],
+"sections": [
+ {
+  "titre": "Booking a room",
+  "texte": [
+   "To book: “I’d like to book a room for two nights, from the 12th to the 14th of May.” Say the type of room: “a single room” (for one person), “a double room” (one big bed for two), “a twin room” (two separate beds), “a family room”.",
+   "Useful questions: “How much is it per night?”, “Is breakfast included?”, “Is there Wi-Fi in the room?”, “Have you got any rooms available?” (= free rooms).",
+   "Careful: a “twin room” has two separate beds. If you want one big bed, ask for “a double room”."
+  ],
+  "tableau": {
+   "entetes": ["English", "Meaning", "Note"],
+   "lignes": [
+    ["a single room", "a room for one person", "one small bed"],
+    ["a double room", "a room for two", "one big bed"],
+    ["a twin room", "a room for two", "two separate beds"],
+    ["bed and breakfast (B&B)", "a room + breakfast, often in a small house", "very common in the UK"],
+    ["half board / full board", "breakfast + dinner / all meals", "meals included in the price"]
+   ]
+  },
+  "exemples": [
+   ["I’d like to book a double room for three nights, please.", "Booking: type of room + number of nights."],
+   ["How much is it per night, with breakfast?", "Asking the price."],
+   ["Have you got any rooms available for tonight?", "available = free, not booked."]
+  ]
+ },
+ {
+  "titre": "Arriving and leaving: check in, check out",
+  "texte": [
+   "At reception: “Hello, I’ve got a reservation. The name’s Kamga.” or “I’d like to check in, please.” The receptionist often asks: “Can I see your passport, please?” and gives you “your key card” and your room number.",
+   "Questions to ask: “What time is breakfast?”, “What time is check-out?” (= when must you leave the room?), “Can I leave my luggage here?”",
+   "“check in” and “check out” are phrasal verbs (lesson 72): “We checked in at three.” The nouns have a hyphen: “Check-in is from 2 p.m.”"
+  ],
+  "exemples": [
+   ["I’d like to check in, please. I’ve got a reservation under the name Nkomo.", "Arriving at the hotel."],
+   ["What time is check-out? — Eleven o’clock.", "check-out (noun) = the time you must leave."],
+   ["Could I have a wake-up call at six, please?", "The hotel phones you to wake you up."]
+  ]
+ },
+ {
+  "titre": "Reporting a problem",
+  "texte": [
+   "Start politely: “Excuse me, I’m sorry to bother you, but…” or “I’m afraid there’s a problem with my room.” (“I’m afraid” here means “I’m sorry to say”.)",
+   "Common problems: “The air conditioning doesn’t work.” / “The shower isn’t working.”, “There are no towels.”, “The room is very noisy.”, “The room hasn’t been cleaned.”",
+   "To ask for a solution: “Could someone come and look at it?”, “Could I change rooms, please?” Careful: “change rooms”, with an s."
+  ],
+  "exemples": [
+   ["I’m afraid the heating doesn’t work in room 214.", "I’m afraid = a polite way to start bad news."],
+   ["Excuse me, there’s no hot water. Could someone come and look at it?", "Problem + polite request."],
+   ["The room is very noisy. Could I change rooms, please?", "change rooms (plural)."]
+  ]
+ },
+ {
+  "titre": "At the airport",
+  "texte": [
+   "The steps: “check in” at the desk or online, “drop off your bags”, “go through security”, “go to the gate”, “board the plane”.",
+   "Vocabulary: “a boarding pass” (the card you need to get on the plane), “hand luggage” (bags you take on the plane; US “carry-on”), “checked luggage” (bags that travel under the plane), “a delay”, “The flight is delayed / cancelled” (US “canceled”).",
+   "Careful: “luggage” and “baggage” are uncountable (lesson 59): don’t say “two luggages”; say “two bags” or “two pieces of luggage”."
+  ],
+  "exemples": [
+   ["Can I see your passport and boarding pass, please?", "At check-in or at the gate."],
+   ["I’ve got one suitcase and one piece of hand luggage.", "a piece of + uncountable noun."],
+   ["Our flight to Montreal is delayed by two hours.", "be delayed by + time."],
+   ["Boarding is at gate 32.", "The gate = where you get on the plane."]
+  ]
+ },
+ {
+  "titre": "At the station and on public transport",
+  "texte": [
+   "Buying a ticket: “A single to Manchester, please.” (one way only; US “one-way”) / “A return to Oxford, please.” (there and back; US “round-trip”).",
+   "Asking for information: “Which platform does the train to York leave from?”, “What time is the next train to London?”, “Do I need to change?” (= take another train).",
+   "Asking the way quickly: “Excuse me, how do I get to the city centre?” / “Is it far from here?”"
+  ],
+  "exemples": [
+   ["A return ticket to Brighton, please. — That’s £24.50.", "Buying a train ticket (UK)."],
+   ["Which platform does the next train to Leeds leave from? — Platform 4.", "platform = where you get on the train."],
+   ["Excuse me, how do I get to the station from here?", "Asking the way."]
+  ],
+  "note": "“Travel” is mostly a verb or an uncountable noun (“I love travel”). For one particular journey, say “a trip” or “a journey”: “Have a good trip!”"
+ }
+],
+"formule": "I’d like to book a double room for two nights. · I’d like to check in / check out, please. · I’m afraid the shower doesn’t work. · A return to…, please. · My flight is delayed.",
+"prononciation": [
+ "“hotel” /həʊˈtel/: stress on the second syllable, “ho-TEL”, and say the h.",
+ "“suite” (a big hotel room) is /swiːt/, like “sweet”.",
+ "“luggage” /ˈlʌɡɪdʒ/: “LUG-idge”, the end rhymes with “bridge”.",
+ "“receipt” /rɪˈsiːt/: the p is silent.",
+ "“delayed” /dɪˈleɪd/: two syllables, “di-LAYD”, not three.",
+ "“queue” (a line of people waiting) is /kjuː/, like the letter Q."
+],
+"erreurs": [
+ ["I'd like to reserve a chamber.", "I'd like to book a room.", "A hotel room is “a room”; “book” is more common than “reserve”."],
+ ["I have two luggages.", "I have two bags. / I have two pieces of luggage.", "“luggage” is uncountable."],
+ ["Is the breakfast comprised?", "Is breakfast included?", "Use “included”."],
+ ["The shower doesn't function.", "The shower doesn't work. / The shower isn't working.", "For machines, use “work”."],
+ ["Our flight has a delay of two hours.", "Our flight is delayed by two hours. / Our flight is two hours late.", "The natural form is “be delayed”."],
+ ["I'd like a return-trip for Oxford.", "A return to Oxford, please.", "a return (UK) / a round-trip ticket (US); destination with “to”."],
+ ["Good travel!", "Have a good trip! / Have a safe journey!", "The natural phrase."],
+ ["Can I change of room?", "Could I change rooms?", "No “of”; “rooms” is plural."]
+],
+"dialogue": {
+ "contexte": "Amina, from Yaoundé, arrives at a hotel in London in the evening after a delayed flight.",
+ "lignes": [
+  ["Receptionist", "Good evening. How can I help you?", "A usual greeting at reception."],
+  ["Amina", "Hello. I’d like to check in, please. I’ve got a reservation under the name Abena.", "Checking in."],
+  ["Receptionist", "Yes, a single room for three nights. Can I see your passport, please?", "Checking the booking."],
+  ["Amina", "Here you are. Sorry I’m late, my flight was delayed.", "Here you are = when you give something."],
+  ["Receptionist", "No problem. Here’s your key card. You’re in room 308, on the third floor.", "third floor (UK) = fourth floor (US)."],
+  ["Amina", "Thank you. Is breakfast included? And what time is it?", "Two useful questions."],
+  ["Receptionist", "Yes, it is. It’s from seven to ten in the restaurant.", "from… to… for times."],
+  ["Amina", "(Later, on the phone) Hello, I’m afraid the air conditioning doesn’t work in room 308.", "Reporting a problem."],
+  ["Receptionist", "I’m so sorry. I’ll send someone up right away.", "send someone up = send a person to the room."],
+  ["Amina", "Thank you very much.", "Thanking."]
+ ]
+},
+"mots": [
+ ["book", "I booked a twin room online.", "ask for a room, seat or table for a later time"],
+ ["check in", "You can check in from 2 p.m.", "arrive and register at a hotel or airport"],
+ ["check out", "We have to check out before eleven.", "pay and leave a hotel"],
+ ["available", "Have you got any rooms available?", "free, that you can have or use"],
+ ["luggage", "Can I leave my luggage at reception?", "the bags you travel with (uncountable)"],
+ ["boarding pass", "Keep your boarding pass with your passport.", "the card you need to get on a plane"],
+ ["delayed", "The train is delayed by twenty minutes.", "later than planned"],
+ ["platform", "The train leaves from platform 6.", "the place in a station where you get on a train"],
+ ["return ticket", "A return ticket is cheaper than two singles.", "a ticket to go somewhere and come back (UK)"],
+ ["trip", "Have a good trip!", "a journey to a place and back"]
+],
+"exercices": [
+ {
+  "titre": "1. Which room?",
+  "consigne": "Give the type of room: single, double or twin.",
+  "items": [
+   ["I’m travelling alone.", "a single room"],
+   ["A couple who want one big bed.", "a double room"],
+   ["Two colleagues who each want their own bed.", "a twin room"],
+   ["Two friends who don’t want to share a bed.", "a twin room"]
+  ]
+ },
+ {
+  "titre": "2. Complete",
+  "consigne": "Complete with one word.",
+  "items": [
+   ["I’d like to ___ in, please. I’ve got a reservation.", "check"],
+   ["Is breakfast ___ in the price?", "included"],
+   ["How much is it ___ night?", "per"],
+   ["The flight to Douala is ___ by an hour.", "delayed"],
+   ["Which ___ does the train to Bath leave from?", "platform"],
+   ["Can I see your passport and ___ pass, please?", "boarding"]
+  ]
+ },
+ {
+  "titre": "3. Report the problem",
+  "consigne": "Write a polite sentence to report the problem and ask for a solution.",
+  "items": [
+   ["The shower doesn’t work.", "I’m afraid the shower doesn’t work. Could someone come and look at it?"],
+   ["There are no towels.", "Excuse me, there are no towels in my room. Could I have some, please?"],
+   ["The room is too noisy.", "I’m sorry, but my room is very noisy. Could I change rooms, please?"],
+   ["The Wi-Fi doesn’t work.", "Excuse me, the Wi-Fi isn’t working in my room. Could you help me?"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I’ve got two luggages.", "I’ve got two bags. / I’ve got two pieces of luggage."],
+   ["A return for Cambridge, please.", "A return to Cambridge, please. (US: a round-trip ticket)"],
+   ["What time is the check-out of the room?", "What time is check-out?"],
+   ["Our flight is annulled.", "Our flight is cancelled. (US: canceled)"],
+   ["Good travel!", "Have a good trip!"],
+   ["Have you got any rooms disponible tonight?", "Have you got any rooms available tonight?"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write a short dialogue (6 to 8 lines): you arrive at a hotel, check in, ask two questions, then report a problem.",
+  "items": [
+   ["Model answer", "Receptionist: Good afternoon. Can I help you? Me: Yes, I’d like to check in, please. I’ve got a reservation under the name Fotso. Receptionist: A double room for two nights. Can I see your passport? Me: Here you are. What time is breakfast? Receptionist: From seven to half past nine. Me: And can I leave my luggage here tomorrow after check-out? Receptionist: Of course. (Later) Me: Hello, I’m afraid there’s no hot water in room 112. Could someone come and look at it? Receptionist: I’m so sorry, I’ll send someone right away."]
+  ]
+ }
+],
+"a_retenir": [
+ "Book: I’d like to book a single / double / twin room for two nights. Twin = two separate beds.",
+ "At the hotel: check in (arrive), check out (leave); Is breakfast included? What time is check-out?",
+ "Problem: I’m afraid the… doesn’t work. Could someone come and look at it? Could I change rooms?",
+ "Airport: boarding pass, hand luggage, gate, delayed, cancelled. “luggage” is uncountable.",
+ "Station: a single / a return to…; Which platform…? Have a good trip!"
+],
+"liens": [34, 57, 59, 72, 79],
+"refs": ["cam-using", "bc-a1a2"]
+}

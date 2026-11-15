@@ -1,0 +1,454 @@
+{
+ "n": 97,
+ "niveau": "B1",
+ "titre": "Le troisième conditionnel",
+ "intro": "Le troisième conditionnel (If I had known, I would have come) imagine un passé différent : ce qui serait arrivé si les choses s'étaient passées autrement. Il sert à exprimer des regrets, des reproches, du soulagement et à analyser des erreurs.",
+ "objectifs": [
+  "Construire le troisième conditionnel avec if + past perfect et would have + participe passé.",
+  "Reconnaître et produire les formes contractées ('d had / 'd would, would've) à l'oral.",
+  "Exprimer regrets, reproches et soulagement à propos du passé.",
+  "Nuancer avec could have et might have, et distinguer les trois conditionnels."
+ ],
+ "sections": [
+  {
+   "titre": "La structure",
+   "texte": [
+    "Condition : if + past perfect (had + participe). Résultat : would have + participe passé. Les deux parties parlent du passé et de quelque chose qui n'est pas arrivé.",
+    "C'est l'équivalent du français « si + plus-que-parfait, conditionnel passé » : « Si j'avais su, je serais venu » = If I had known, I would have come. Le piège : mettre would dans la partie en if (« If I would have known » est faux, même si on l'entend parfois en anglais américain familier)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Condition (if + past perfect)",
+     "Résultat (would have + participe)",
+     "Réalité"
+    ],
+    "lignes": [
+     [
+      "If I had known,",
+      "I would have come.",
+      "Je ne savais pas, je ne suis pas venu."
+     ],
+     [
+      "If she had studied,",
+      "she would have passed.",
+      "Elle n'a pas étudié, elle a échoué."
+     ],
+     [
+      "If we hadn't missed the bus,",
+      "we wouldn't have been late.",
+      "Nous avons raté le bus, nous étions en retard."
+     ],
+     [
+      "If it hadn't rained,",
+      "the match would have taken place.",
+      "Il a plu, le match a été annulé."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Les contractions : le casse-tête du 'd",
+   "texte": [
+    "À l'oral, on contracte presque tout : « If I'd known, I'd have come. » Le premier 'd = had (suivi d'un participe), le second 'd = would (suivi de have).",
+    "Would have se prononce /ˈwʊdəv/ et s'écrit parfois would've. Attention : on n'écrit jamais « would of », erreur fréquente même chez les natifs, parce que 've et of se prononcent pareil /əv/."
+   ],
+   "exemples": [
+    [
+     "If you'd told me, I'd have helped you.",
+     "If you had told me, I would have helped you."
+    ],
+    [
+     "She would've loved this place.",
+     "Would've = would have (écrit informel)."
+    ],
+    [
+     "If they'd left earlier, they wouldn't have missed the flight.",
+     "Négation : wouldn't have."
+    ]
+   ]
+  },
+  {
+   "titre": "Regrets, reproches, soulagement",
+   "texte": [
+    "Regret (sur soi) : « If I had studied harder, I would have got a better job. » Reproche (sur quelqu'un d'autre) : « If you had listened to me, this wouldn't have happened! » Soulagement (heureusement que…) : « If the doctor hadn't come so quickly, he would have died. »",
+    "Le troisième conditionnel permet aussi d'analyser un enchaînement de causes, au travail par exemple : « If we had tested the software, the client wouldn't have complained. »"
+   ],
+   "exemples": [
+    [
+     "If I'd taken the job in Toronto, I would have earned more.",
+     "Regret."
+    ],
+    [
+     "If you had checked the address, we wouldn't have got lost.",
+     "Reproche."
+    ],
+    [
+     "If she hadn't worn a helmet, she would have been badly hurt.",
+     "Soulagement."
+    ]
+   ]
+  },
+  {
+   "titre": "Could have, might have",
+   "texte": [
+    "Dans le résultat : could have + participe = aurait pu (possibilité ou capacité) ; might have + participe = aurait peut-être. « If you had asked me, I could have helped you » / « If we had left earlier, we might have caught the train. »",
+    "Dans la condition, could have n'est pas possible : on utilise had been able to. « If I had been able to come, I would have come. »"
+   ],
+   "tableau": {
+    "entetes": [
+     "Résultat",
+     "Exemple",
+     "Sens"
+    ],
+    "lignes": [
+     [
+      "would have",
+      "If he'd trained, he would have won.",
+      "certain"
+     ],
+     [
+      "could have",
+      "If he'd trained, he could have won.",
+      "il en aurait été capable"
+     ],
+     [
+      "might have",
+      "If he'd trained, he might have won.",
+      "peut-être"
+     ],
+     [
+      "wouldn't have",
+      "If he'd trained, he wouldn't have lost.",
+      "certain (négatif)"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "If I had been able to come, I would have come.",
+     "Dans la condition : had been able to (pas could have)."
+    ],
+    [
+     "You could have told me earlier!",
+     "Reproche avec could have, sans if."
+    ]
+   ]
+  },
+  {
+   "titre": "Les trois conditionnels côte à côte",
+   "texte": [
+    "Premier : futur possible (if + présent, will). Deuxième : présent ou futur imaginaire (if + prétérit, would). Troisième : passé imaginaire (if + past perfect, would have). On recule d'un temps à chaque fois.",
+    "On peut mélanger le deuxième et le troisième quand une cause passée a un effet présent : « If I had taken the medicine, I would feel better now. » Ce conditionnel mixte sera vu en détail au niveau B2 (leçon 158)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Type",
+     "Exemple",
+     "Sens"
+    ],
+    "lignes": [
+     [
+      "1er",
+      "If I see Ali, I'll tell him.",
+      "possible : je le verrai peut-être"
+     ],
+     [
+      "2e",
+      "If I saw Ali, I'd tell him.",
+      "improbable : il est à l'étranger"
+     ],
+     [
+      "3e",
+      "If I had seen Ali, I'd have told him.",
+      "passé : je ne l'ai pas vu"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "If I had taken the medicine, I would feel better now.",
+     "Cause passée, effet présent (conditionnel mixte)."
+    ],
+    [
+     "If I had seen Ali, I'd have told him the news.",
+     "Troisième conditionnel : je ne l'ai pas vu."
+    ]
+   ]
+  }
+ ],
+ "formule": "If + had + participe, would / could / might have + participe (If I had known, I would have come.)",
+ "prononciation": [
+  "would have se réduit à /ˈwʊdəv/ ou même /ˈwʊdə/ à l'oral rapide : « I'd have come » /aɪd əv ˈkʌm/.",
+  "wouldn't have : /ˈwʊdntəv/, trois syllabes très liées.",
+  "had est faible et souvent contracté : « If I'd known » /ɪf aɪd ˈnəʊn/. Le 'd est léger mais indispensable.",
+  "Pour un reproche, l'accent tombe fortement sur le mot clé : « If you had LISTENED to me… »",
+  "could have /ˈkʊdəv/ et should have /ˈʃʊdəv/ suivent le même modèle (jamais « could of » à l'écrit)."
+ ],
+ "erreurs": [
+  [
+   "If I would have known, I would have come.",
+   "If I had known, I would have come.",
+   "Past perfect dans la partie en if, jamais would have."
+  ],
+  [
+   "If I had known, I would come.",
+   "If I had known, I would have come.",
+   "Pour un résultat passé : would have + participe."
+  ],
+  [
+   "If she had studied, she would have pass.",
+   "If she had studied, she would have passed.",
+   "Après would have, le participe passé."
+  ],
+  [
+   "I would of helped you.",
+   "I would have helped you. / I'd have helped you.",
+   "On écrit have (ou 've), jamais of."
+  ],
+  [
+   "If I knew, I would have told you.",
+   "If I had known, I would have told you.",
+   "Situation passée : had known, pas knew."
+  ],
+  [
+   "If we had left earlier, we could caught the train.",
+   "If we had left earlier, we could have caught the train.",
+   "Could have + participe pour une possibilité passée."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Bruxelles, après un entretien d'embauche raté. Inès en parle au téléphone avec sa sœur Mariam, à Dakar.",
+  "lignes": [
+   [
+    "Mariam",
+    "So, how did the interview go?",
+    "Alors, comment s'est passé l'entretien ?"
+   ],
+   [
+    "Inès",
+    "Badly. If I'd known they wanted a presentation, I would have prepared one.",
+    "Mal. Si j'avais su qu'ils voulaient une présentation, j'en aurais préparé une."
+   ],
+   [
+    "Mariam",
+    "Didn't they tell you in the email?",
+    "Ils ne te l'ont pas dit dans le mail ?"
+   ],
+   [
+    "Inès",
+    "They did, but I didn't read it carefully. If I had read it, I wouldn't have been so surprised.",
+    "Si, mais je ne l'ai pas lu attentivement. Si je l'avais lu, je n'aurais pas été aussi surprise."
+   ],
+   [
+    "Mariam",
+    "Well, if you'd called me, I could have helped you prepare.",
+    "Bon, si tu m'avais appelée, j'aurais pu t'aider à te préparer."
+   ],
+   [
+    "Inès",
+    "I know. And if the train hadn't been late, I might have had time to calm down.",
+    "Je sais. Et si le train n'avait pas été en retard, j'aurais peut-être eu le temps de me calmer."
+   ],
+   [
+    "Mariam",
+    "Don't worry. You've learnt something. Next time you'll be ready.",
+    "Ne t'en fais pas. Tu as appris quelque chose. La prochaine fois, tu seras prête."
+   ],
+   [
+    "Inès",
+    "You're right. If I get another interview, I'll read everything twice!",
+    "Tu as raison. Si j'ai un autre entretien, je lirai tout deux fois !"
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "regret",
+   "I regret not taking that job.",
+   "regretter"
+  ],
+  [
+   "mistake",
+   "If I hadn't made that mistake, we would have won.",
+   "l'erreur"
+  ],
+  [
+   "fortunately",
+   "Fortunately, someone had called an ambulance.",
+   "heureusement"
+  ],
+  [
+   "blame",
+   "Don't blame me! If you had checked, it wouldn't have happened.",
+   "reprocher, rejeter la faute sur"
+  ],
+  [
+   "avoid",
+   "We could have avoided the problem.",
+   "éviter"
+  ],
+  [
+   "hindsight",
+   "With hindsight, I would have chosen a different course.",
+   "le recul (avec le recul)"
+  ],
+  [
+   "opportunity",
+   "If I'd had the opportunity, I would have studied abroad.",
+   "l'occasion, la possibilité"
+  ],
+  [
+   "accident",
+   "If he had driven more slowly, the accident wouldn't have happened.",
+   "l'accident"
+  ],
+  [
+   "warn",
+   "If you had warned me, I would have stayed at home.",
+   "prévenir, avertir"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quelle est la réalité ?",
+   "consigne": "Dis ce qui s'est vraiment passé.",
+   "items": [
+    [
+     "If I had known about the party, I would have gone.",
+     "I didn't know about the party, so I didn't go."
+    ],
+    [
+     "If she hadn't missed the bus, she wouldn't have been late.",
+     "She missed the bus, so she was late."
+    ],
+    [
+     "If they had saved money, they could have bought a house.",
+     "They didn't save money, so they couldn't buy a house."
+    ],
+    [
+     "If it hadn't snowed, the flight wouldn't have been cancelled.",
+     "It snowed, so the flight was cancelled."
+    ]
+   ]
+  },
+  {
+   "titre": "2. Conjuguer",
+   "consigne": "Mets les verbes au troisième conditionnel.",
+   "items": [
+    [
+     "If you ___ (ask) me, I ___ (help) you.",
+     "had asked … would have helped"
+    ],
+    [
+     "We ___ (not / get) lost if we ___ (take) a map.",
+     "wouldn't have got … had taken"
+    ],
+    [
+     "If he ___ (not / eat) that fish, he ___ (not / be) ill.",
+     "hadn't eaten … wouldn't have been"
+    ],
+    [
+     "If I ___ (have) your number, I ___ (call) you.",
+     "had had … would have called"
+    ],
+    [
+     "She ___ (might / win) if she ___ (train) more.",
+     "might have won … had trained"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Réécris la phrase au troisième conditionnel.",
+   "items": [
+    [
+     "I didn't set my alarm, so I overslept.",
+     "If I had set my alarm, I wouldn't have overslept."
+    ],
+    [
+     "You didn't tell me, so I didn't come.",
+     "If you had told me, I would have come."
+    ],
+    [
+     "The shop was closed, so we didn't buy any bread.",
+     "If the shop hadn't been closed, we would have bought some bread."
+    ],
+    [
+     "He forgot his passport, so he missed the flight.",
+     "If he hadn't forgotten his passport, he wouldn't have missed the flight."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    [
+     "If I would have seen you, I would have said hello.",
+     "If I had seen you, I would have said hello."
+    ],
+    [
+     "If they had come, they would enjoy the concert.",
+     "If they had come, they would have enjoyed the concert."
+    ],
+    [
+     "I would of called you, but my phone was dead.",
+     "I would have called you, but my phone was dead."
+    ],
+    [
+     "If she had went to the doctor, she would have felt better.",
+     "If she had gone to the doctor, she would have felt better."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    [
+     "Si j'avais su, je serais venu.",
+     "If I had known, I would have come."
+    ],
+    [
+     "Si tu m'avais écouté, ça ne serait pas arrivé.",
+     "If you had listened to me, this wouldn't have happened."
+    ],
+    [
+     "Si nous étions partis plus tôt, nous aurions pu voir le début du film.",
+     "If we had left earlier, we could have seen the beginning of the film."
+    ],
+    [
+     "Elle aurait peut-être accepté si tu lui avais demandé.",
+     "She might have accepted if you had asked her."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Pense à une décision importante de ta vie. Écris 4 phrases au troisième conditionnel pour imaginer ce qui se serait passé autrement (would have, could have, might have).",
+   "items": [
+    [
+     "Exemple de réponse",
+     "If I hadn't moved to Montreal, I wouldn't have met my wife. If I had stayed in Douala, I might have opened a business with my brother. I could have become an engineer if I had chosen maths at university. But if I hadn't made those choices, I wouldn't have this life, and I love it."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "If + past perfect, would have + participe : passé imaginaire, qui n'a pas eu lieu.",
+  "Jamais would have dans la partie en if.",
+  "'d = had devant un participe ; 'd = would devant have.",
+  "could have = aurait pu ; might have = aurait peut-être.",
+  "On écrit would have / would've, jamais « would of »."
+ ],
+ "liens": [
+  93,
+  95,
+  96,
+  98,
+  158
+ ],
+ "refs": [
+  "bc-cond-3"
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "n": 18,
+ "niveau": "A1",
+ "titre": "Prepositions of time (at, on, in)",
+ "intro": "At, on and in show when something happens: at 8 o'clock, on Monday, in June. The choice follows a simple logic, from the most exact (at) to the longest periods (in), with a few fixed expressions to learn.",
+ "objectifs": [
+  "Use at for clock times and exact moments, on for days and dates, in for months, seasons, years and parts of the day.",
+  "Remember the exceptions: at night, at the weekend, on Monday morning.",
+  "Know when to use no preposition: this, next, last, every, today, tomorrow.",
+  "Use from… to, until, before and after for a period or a simple time reference."
+ ],
+ "sections": [
+  {
+   "titre": "The pyramid: at, on, in",
+   "texte": [
+    "Imagine a pyramid: at the top, the most exact time (at + a clock time); in the middle, a day (on); at the bottom, longer periods (in + month, season, year, century).",
+    "The type of time decides, not the verb."
+   ],
+   "tableau": {
+    "entetes": ["Preposition", "With", "Examples"],
+    "lignes": [
+     ["at", "clock times, exact moments", "at 7 o'clock, at half past six, at noon, at midnight, at lunchtime, at the moment"],
+     ["at", "holiday periods, the weekend (UK)", "at Christmas, at Easter, at the weekend"],
+     ["on", "days", "on Monday, on Fridays, on my birthday, on Christmas Day"],
+     ["on", "dates", "on 5 May, on 21 March 2026"],
+     ["in", "months, seasons, years, centuries", "in June, in (the) winter, in 2025, in the 21st century"],
+     ["in", "parts of the day", "in the morning, in the afternoon, in the evening"]
+    ]
+   },
+   "exemples": [
+    ["The meeting is at ten o'clock.", "Clock time → at."],
+    ["I don't work on Sundays.", "Day → on."],
+    ["My birthday is in April.", "Month → in."],
+    ["We go to the beach in summer.", "Season → in."]
+   ]
+  },
+  {
+   "titre": "Exceptions to learn",
+   "texte": [
+    "We say “in the morning / in the afternoon / in the evening”, but “at night”, with no article.",
+    "When you say the day, “on” wins: on Monday morning, on Friday evening, on the morning of 3 May.",
+    "The weekend: “at the weekend” in British English, “on the weekend” in American English. Holidays: “at Christmas” (the Christmas period), but “on Christmas Day” (25 December)."
+   ],
+   "exemples": [
+    ["I can't sleep at night.", "at night."],
+    ["See you on Saturday afternoon!", "Day + part of day → on."],
+    ["What do you do at the weekend?", "UK; US: on the weekend."],
+    ["We visit our family at Christmas.", "The Christmas period."]
+   ]
+  },
+  {
+   "titre": "No preposition",
+   "texte": [
+    "Don't use at, on or in before this, next, last, every, or before today, tomorrow, yesterday, tonight. Say “next Monday”, not “on next Monday”; “this morning”, not “in this morning”.",
+    "This is a very common mistake: “every day”, “next week”, “tonight” need no preposition."
+   ],
+   "tableau": {
+    "entetes": ["Wrong", "Right"],
+    "lignes": [
+     ["on next Friday", "next Friday"],
+     ["in this morning", "this morning"],
+     ["at tomorrow", "tomorrow"],
+     ["on every Monday", "every Monday"],
+     ["in last year", "last year"]
+    ]
+   },
+   "exemples": [
+    ["I'm busy this afternoon.", "No preposition before this."],
+    ["Our exam is next Thursday.", "No preposition before next."]
+   ]
+  },
+  {
+   "titre": "Saying a date",
+   "texte": [
+    "In British writing: on 5 May or on 5th May. In American writing: on May 5 or on May 5th. When you speak, use the ordinal number: “on the fifth of May” (UK) or “on May fifth” (US). Ordinal numbers (first, second, third…) are in lessons 22 and 89.",
+    "For a year alone: in 2026 (“in twenty twenty-six”). For a month and a year: in May 2026."
+   ],
+   "exemples": [
+    ["The concert is on 14 July.", "Say: on the fourteenth of July."],
+    ["She was born in 1998.", "“was born”: learn it as a fixed phrase."]
+   ]
+  },
+  {
+   "titre": "From… to, until, before, after",
+   "texte": [
+    "For a period with a start and an end: “from … to …” or “from … until …”: The shop is open from 9 to 6. “Until” (or “till”, more informal) shows the end: I work until five.",
+    "“Before” and “after” go before a time or a noun: before lunch, after work, after ten o'clock. For a time in the future, “in” means “after this amount of time”: The bus leaves in ten minutes."
+   ],
+   "exemples": [
+    ["The bank is open from Monday to Friday.", "Start and end."],
+    ["I'm at the office until six.", "End point."],
+    ["Let's meet after work.", "after + noun."],
+    ["The film starts in five minutes.", "in + amount of time in the future."]
+   ]
+  }
+ ],
+ "formule": "at + clock time / exact moment / night / the weekend · on + day / date · in + month / season / year / the morning · Ø + this / next / last / every / today / tomorrow",
+ "prononciation": [
+  "In the sentence, “at” is weak: /ət/ (at six /ət ˈsɪks/). The time has the stress.",
+  "“on” /ɒn/ and “in” /ɪn/ join the next word when it starts with a vowel: on_April, in_August.",
+  "Days of the week are stressed on the first syllable: MONday /ˈmʌndeɪ/, WEDnesday /ˈwenzdeɪ/ (the first d is silent), THURSday /ˈθɜːzdeɪ/.",
+  "“until” /ənˈtɪl/: stress on the second syllable.",
+  "In a spoken date, “the” and “of” are weak: on the fifth of May /ɒn ðə ˈfɪfθ əv ˈmeɪ/."
+ ],
+ "erreurs": [
+  ["in Monday", "on Monday", "Day → on."],
+  ["at June", "in June", "Month → in."],
+  ["in 8 o'clock", "at 8 o'clock", "Clock time → at."],
+  ["in the night", "at night", "Fixed expression: at night."],
+  ["on next week", "next week", "No preposition before next, last, this, every."],
+  ["in Monday morning", "on Monday morning", "Day + part of day → on."],
+  ["I work since 9 to 5.", "I work from 9 to 5.", "Start and end: from… to."],
+  ["The bus leaves after ten minutes. (ten minutes from now)", "The bus leaves in ten minutes.", "Future + amount of time = in."]
+ ],
+ "dialogue": {
+  "contexte": "Two colleagues in Brussels plan a meeting with a Canadian client.",
+  "lignes": [
+   ["Sarah", "When is the meeting with the Canadian client?", "When…? question."],
+   ["Ben", "It's on Thursday, at three o'clock our time.", "on + day, at + time."],
+   ["Sarah", "Thursday? I'm at the dentist's in the afternoon. Can we do it in the morning?", "in the afternoon / in the morning."],
+   ["Ben", "Not really. In Montréal it's six hours earlier, so nine in the morning here is three in the morning for them.", "Time difference."],
+   ["Sarah", "Ha! They don't work at night! What about next Monday?", "at night; next Monday (no preposition)."],
+   ["Ben", "Monday is fine. They're free from eight to eleven, their time.", "from… to."],
+   ["Sarah", "Perfect. So on Monday at four, our time. I'm in the office until six.", "until."],
+   ["Ben", "Great. I'm sending them an email in five minutes.", "in + amount of time."]
+  ]
+ },
+ "mots": [
+  ["morning", "I run in the morning.", "the early part of the day"],
+  ["afternoon", "See you on Friday afternoon.", "the time between 12 pm and the evening"],
+  ["evening", "We eat in the evening.", "the end of the day, before night"],
+  ["night", "The street is quiet at night.", "the time when it is dark and people sleep"],
+  ["weekend", "What are you doing at the weekend?", "Saturday and Sunday"],
+  ["birthday", "My birthday is on 12 August.", "the day you were born, every year"],
+  ["season", "Summer is my favourite season.", "spring, summer, autumn or winter"],
+  ["until", "The shop is open until eight.", "up to a certain time"],
+  ["noon", "Let's have lunch at noon.", "12 o'clock in the day"],
+  ["midnight", "The party ends at midnight.", "12 o'clock at night"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. At, on or in?",
+   "consigne": "Complete with at, on or in.",
+   "items": [
+    ["___ 6.30", "at"],
+    ["___ Tuesday", "on"],
+    ["___ October", "in"],
+    ["___ 2030", "in"],
+    ["___ night", "at"],
+    ["___ my birthday", "on"],
+    ["___ the evening", "in"],
+    ["___ Christmas", "at"]
+   ]
+  },
+  {
+   "titre": "2. Complete the sentence",
+   "consigne": "Complete with at, on, in or Ø (no preposition).",
+   "items": [
+    ["I'm meeting Ana ___ Saturday morning.", "on"],
+    ["We're going to Kribi ___ next week.", "Ø"],
+    ["The train leaves ___ ten minutes.", "in"],
+    ["My grandfather was born ___ 1950.", "in"],
+    ["Call me ___ tomorrow.", "Ø"],
+    ["The shop opens ___ noon.", "at"]
+   ]
+  },
+  {
+   "titre": "3. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I go to the gym in Mondays.", "I go to the gym on Mondays."],
+    ["The film starts in 8 o'clock.", "The film starts at 8 o'clock."],
+    ["She works in the night.", "She works at night."],
+    ["See you on next Friday!", "See you next Friday!"],
+    ["The café is open since 7 to 11.", "The café is open from 7 to 11."]
+   ]
+  },
+  {
+   "titre": "4. Write the sentence",
+   "consigne": "Use the words and add the right preposition (or none).",
+   "items": [
+    ["I / get up / six / the morning", "I get up at six in the morning."],
+    ["we / not work / the weekend", "We don't work at the weekend. (US: on the weekend / on weekends)"],
+    ["my birthday / be / 3 March", "My birthday is on 3 March. / My birthday is on the third of March."],
+    ["it / be / cold / winter / in Canada", "It's cold in winter in Canada."]
+   ]
+  },
+  {
+   "titre": "5. Your turn",
+   "consigne": "Describe your week in five sentences with at, on, in and one expression with no preposition (every, next…).",
+   "items": [
+    ["Example answer", "I start work at eight in the morning. On Wednesdays I finish at three. I play football every Saturday. In summer, we often eat outside in the evening. Next month I'm on holiday."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "at + clock time, exact moment, night, Christmas, the weekend (UK).",
+  "on + day, date, Monday morning, my birthday.",
+  "in + month, season, year, century, the morning / afternoon / evening.",
+  "No preposition before this, next, last, every, today, tomorrow, tonight.",
+  "from… to / until for a period; in + amount of time = after that time from now (in ten minutes)."
+ ],
+ "liens": [17, 21, 22, 89],
+ "refs": ["bc-prep-time", "cam-prep"]
+}

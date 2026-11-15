@@ -1,0 +1,516 @@
+{
+ "n": 228,
+ "niveau": "C1",
+ "titre": "Les marqueurs discursifs de l’oral",
+ "intro": "Well, so, anyway, I mean, mind you, the thing is… Ces petits mots ne portent presque pas de sens, mais ils organisent la conversation, signalent votre attitude et vous donnent le temps de penser. Bien utilisés, ils font la différence entre un anglais correct et un anglais vraiment fluide.",
+ "objectifs": [
+  "Comprendre les fonctions des marqueurs discursifs : organiser, reformuler, nuancer, gérer les tours de parole.",
+  "Utiliser les marqueurs essentiels avec le bon sens : well, so, right, anyway, actually, I mean, mind you, then again.",
+  "Réagir naturellement en tant qu'auditeur (fair enough, I see, exactly, no way).",
+  "Remplacer les tics du français (en fait, du coup, bon, enfin, après, voilà) par leurs vrais équivalents."
+ ],
+ "sections": [
+  {
+   "titre": "À quoi servent les marqueurs ?",
+   "texte": [
+    "Un marqueur discursif ne change pas le contenu d'une phrase, mais il indique au partenaire comment l'interpréter : « Well… » annonce une réponse nuancée ou une réserve, « Anyway… » ramène au sujet principal, « Mind you… » ajoute une restriction.",
+    "Ce ne sont pas des « fautes » ou des hésitations à supprimer : les locuteurs natifs les emploient constamment. Le problème est leur excès (« like » à chaque phrase) ou leur mauvais emploi, quand on transpose les tics de sa langue maternelle.",
+    "Ils se placent surtout en début d'énoncé, forment un petit groupe intonatif à part et sont souvent suivis d'une micro-pause."
+   ],
+   "exemples": [
+    [
+     "Well, it's not quite that simple.",
+     "« Well » : réponse avec réserve, on ne dit pas simplement oui."
+    ],
+    [
+     "Anyway, where was I? Oh yes, the budget.",
+     "« Anyway » : retour au sujet après une digression."
+    ]
+   ]
+  },
+  {
+   "titre": "Organiser : ouvrir, enchaîner, changer de sujet",
+   "texte": [
+    "Ces marqueurs structurent l'échange comme des panneaux de signalisation. « Right » et « OK » ouvrent ou ferment une étape ; « so » introduit une conclusion ou relance ; « by the way » introduit une digression ; « anyway » la ferme."
+   ],
+   "tableau": {
+    "entetes": [
+     "Marqueur",
+     "Fonction",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Right / OK / Now",
+      "ouvrir, passer à l'étape suivante",
+      "Right, let's get started."
+     ],
+     [
+      "So",
+      "relancer, conclure, introduire une question",
+      "So, what did the doctor say?"
+     ],
+     [
+      "By the way / Incidentally",
+      "introduire une digression",
+      "By the way, did you get my email?"
+     ],
+     [
+      "Speaking of which",
+      "rebondir sur ce qui vient d'être dit",
+      "Speaking of which, how's your new flat?"
+     ],
+     [
+      "Anyway",
+      "clore la digression, revenir au sujet",
+      "Anyway, as I was saying…"
+     ],
+     [
+      "As I was saying / Going back to…",
+      "reprendre un fil interrompu",
+      "Going back to the timetable, …"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Right, I think we've covered everything. Shall we stop there?",
+     "« Right » pour clore une étape."
+    ]
+   ]
+  },
+  {
+   "titre": "Reformuler, préciser, corriger",
+   "texte": [
+    "Quand on cherche ses mots ou qu'on veut être plus exact, l'anglais utilise « I mean » (je veux dire), « or rather » (ou plutôt), « in other words », « let me put it another way ».",
+    "« Actually » sert surtout à corriger ou à contredire poliment ce qui vient d'être dit, ou à apporter une information surprenante : « Actually, it was Tuesday, not Monday. » Ce n'est pas un équivalent automatique de « en fait » à chaque phrase.",
+    "« Sort of » et « kind of » adoucissent un mot (« it's sort of complicated ») ; très fréquents à l'oral, à éviter à l'écrit formel."
+   ],
+   "exemples": [
+    [
+     "It was a good meeting. I mean, nothing was decided, but people talked.",
+     "« I mean » : précise ou nuance ce qui précède."
+    ],
+    [
+     "“You're from Lyon, right?” “Actually, I'm from Grenoble.”",
+     "« Actually » : correction polie."
+    ],
+    [
+     "It's kind of hard to explain.",
+     "« Kind of » : atténuation familière."
+    ]
+   ]
+  },
+  {
+   "titre": "Exprimer une attitude, nuancer, contraster",
+   "texte": [
+    "Ces marqueurs montrent votre position. « Mind you » (surtout BrE) ajoute une restriction à ce qu'on vient de dire ; « then again » présente l'autre côté de la question ; « still » maintient une idée malgré tout ; « after all » rappelle une raison évidente.",
+    "« The thing is… » introduit le vrai problème ; « to be honest / frankly » annonce une opinion directe ; « look » ou « listen » en tête de phrase marquent la fermeté (voire l'agacement) : à utiliser avec précaution."
+   ],
+   "tableau": {
+    "entetes": [
+     "Marqueur",
+     "Fonction",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Mind you (BrE)",
+      "ajouter une réserve",
+      "The hotel was great. Mind you, it was expensive."
+     ],
+     [
+      "Then again",
+      "présenter l'autre point de vue",
+      "It's far. Then again, the trains are fast."
+     ],
+     [
+      "Still",
+      "maintenir malgré tout",
+      "It rained all week. Still, we had fun."
+     ],
+     [
+      "After all",
+      "rappeler une raison évidente",
+      "Let him rest. After all, he's been ill."
+     ],
+     [
+      "The thing is",
+      "introduire le vrai problème",
+      "I'd love to come. The thing is, I'm working."
+     ],
+     [
+      "To be honest / Frankly",
+      "annoncer une opinion franche",
+      "To be honest, I didn't enjoy the film."
+     ],
+     [
+      "At the end of the day",
+      "l'essentiel, en fin de compte",
+      "At the end of the day, it's your decision."
+     ],
+     [
+      "Look / Listen",
+      "insister, recadrer (ferme)",
+      "Look, I understand, but we can't change it now."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The salary isn't great. Then again, the team is lovely.",
+     "« Then again » : l'argument inverse."
+    ]
+   ]
+  },
+  {
+   "titre": "Réagir en tant qu'auditeur",
+   "texte": [
+    "En anglais, l'auditeur montre qu'il suit par de courtes réactions (backchannelling). Rester silencieux peut sembler froid ou désintéressé, surtout au téléphone.",
+    "Accord : « Exactly. », « Absolutely. », « Fair enough. » (= c'est raisonnable, j'accepte). Compréhension : « I see. », « Right. », « Mm-hm. ». Surprise : « Really? », « No way! » (familier), « You're joking! ». Empathie : « Oh no. », « That's a shame. », « I know. »"
+   ],
+   "exemples": [
+    [
+     "“I can't come because my daughter's ill.” “Oh, fair enough.”",
+     "« Fair enough » : on accepte la raison donnée."
+    ],
+    [
+     "“They've cancelled the trip.” “No way! Why?”",
+     "« No way! » : surprise, registre familier."
+    ]
+   ]
+  },
+  {
+   "titre": "Les tics du français et leurs vrais équivalents",
+   "texte": [
+    "Les francophones transposent souvent leurs propres marqueurs, ce qui produit des énoncés bizarres. « Après » au sens de « cela dit » ne se traduit pas par « after » ; « enfin » au sens de « je veux dire » n'est pas « finally »."
+   ],
+   "tableau": {
+    "entetes": [
+     "Français",
+     "À éviter",
+     "Anglais naturel"
+    ],
+    "lignes": [
+     [
+      "en fait (à chaque phrase)",
+      "In fact, … In fact, …",
+      "Actually (pour corriger), ou rien"
+     ],
+     [
+      "du coup",
+      "Of the blow…",
+      "So"
+     ],
+     [
+      "bon…",
+      "Good…",
+      "Well… / Right… / Anyway…"
+     ],
+     [
+      "enfin (je veux dire)",
+      "Finally…",
+      "I mean… / Well…"
+     ],
+     [
+      "après (cela dit)",
+      "After, it depends.",
+      "Then again / That said, it depends."
+     ],
+     [
+      "voilà (pour conclure)",
+      "Voilà.",
+      "So there you go. / That's it, really."
+     ],
+     [
+      "…quoi (en fin de phrase)",
+      "…what.",
+      "…you know."
+     ]
+    ]
+   }
+  }
+ ],
+ "formule": "Marqueur en tête d'énoncé + mini-pause : organiser (right, so, anyway) · reformuler (I mean, actually) · nuancer (mind you, then again, still) · réagir (fair enough, I see)",
+ "prononciation": [
+  "« Well » d'hésitation est souvent allongé et descendant-montant : « We-ell… » ; il annonce une réserve.",
+  "« So » de relance est léger et court ; « So? » montant seul signifie « Et alors ? », parfois impoli.",
+  "« Actually » se réduit souvent à /ˈæktʃli/ (trois syllabes au lieu de quatre) dans le discours rapide.",
+  "« Right » d'ouverture est descendant et ferme ; « Right? » montant en fin de phrase demande confirmation (= n'est-ce pas ?).",
+  "« Fair enough » : accent sur « nough » /fɛər ɪˈnʌf/, intonation descendante."
+ ],
+ "erreurs": [
+  [
+   "After, it depends on the price.",
+   "Then again / That said, it depends on the price.",
+   "« Après » (cela dit) n'est pas « after »."
+  ],
+  [
+   "In fact, I went to the shop. In fact, it was closed.",
+   "I went to the shop, but it was actually closed.",
+   "« Actually » souligne une information inattendue ; ne pas répéter « in fact »."
+  ],
+  [
+   "Finally, I mean, it wasn't bad.",
+   "Well, I mean, it wasn't bad.",
+   "« Enfin » (atténuation) ≠ finally (à la fin)."
+  ],
+  [
+   "Good, let's start.",
+   "Right, let's start. / OK, let's start.",
+   "« Bon » d'organisation = right / OK."
+  ],
+  [
+   "It was expensive, voilà.",
+   "It was expensive, you know. / So there you go.",
+   "« Voilà » final n'est pas naturel en anglais."
+  ],
+  [
+   "Eventually, by the way, we need to finish the report.",
+   "Anyway, we need to finish the report.",
+   "Pour revenir au sujet principal : anyway."
+  ],
+  [
+   "Like, I was, like, so tired, like.",
+   "I was so tired.",
+   "Le « like » répété est très familier et agaçant hors conversation entre jeunes."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "Deux collègues discutent à la pause café dans une entreprise de Québec.",
+  "lignes": [
+   [
+    "Marc",
+    "So, how was the conference in Halifax?",
+    "Alors, c'était comment, la conférence à Halifax ?"
+   ],
+   [
+    "Leïla",
+    "Well, the talks were interesting. Mind you, the hotel was miles from the venue.",
+    "Eh bien, les interventions étaient intéressantes. Cela dit, l'hôtel était à des kilomètres du lieu."
+   ],
+   [
+    "Marc",
+    "Oh no. Did you have to take taxis?",
+    "Oh non. Tu as dû prendre des taxis ?"
+   ],
+   [
+    "Leïla",
+    "Actually, there was a shuttle. By the way, I met your old manager there.",
+    "En fait, il y avait une navette. D'ailleurs, j'y ai croisé ton ancien chef."
+   ],
+   [
+    "Marc",
+    "No way! Speaking of which, is she still at the bank?",
+    "Sans blague ! À propos, elle est toujours à la banque ?"
+   ],
+   [
+    "Leïla",
+    "She's left, actually. Anyway, the thing is, they've offered me a job.",
+    "Elle est partie, en fait. Bref, le truc, c'est qu'ils m'ont proposé un poste."
+   ],
+   [
+    "Marc",
+    "Really? Are you going to take it?",
+    "C'est vrai ? Tu vas accepter ?"
+   ],
+   [
+    "Leïla",
+    "I don't know. The salary's better. Then again, I'd have to move.",
+    "Je ne sais pas. Le salaire est meilleur. D'un autre côté, il faudrait que je déménage."
+   ],
+   [
+    "Marc",
+    "Fair enough. At the end of the day, it's your call.",
+    "Je comprends. Au bout du compte, c'est ta décision."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "anyway",
+   "Anyway, let's get back to the plan.",
+   "bref, enfin bref, quoi qu'il en soit"
+  ],
+  [
+   "actually",
+   "Actually, I think you're right.",
+   "en fait (correction, surprise)"
+  ],
+  [
+   "mind you",
+   "It's small. Mind you, it's cheap.",
+   "remarque, cela dit"
+  ],
+  [
+   "then again",
+   "It's risky. Then again, it could pay off.",
+   "d'un autre côté"
+  ],
+  [
+   "fair enough",
+   "“I'm too tired.” “Fair enough.”",
+   "c'est normal, je comprends"
+  ],
+  [
+   "by the way",
+   "By the way, Sam called.",
+   "au fait, à propos"
+  ],
+  [
+   "incidentally",
+   "Incidentally, the office is closed on Friday.",
+   "soit dit en passant"
+  ],
+  [
+   "basically",
+   "Basically, we need more time.",
+   "en gros, en résumé"
+  ],
+  [
+   "frankly",
+   "Frankly, I don't care.",
+   "franchement"
+  ],
+  [
+   "the thing is",
+   "The thing is, I don't have a car.",
+   "le problème, c'est que"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quelle fonction ?",
+   "consigne": "Indique la fonction du marqueur : revenir au sujet, corriger, ajouter une réserve, présenter l'autre point de vue.",
+   "items": [
+    [
+     "Anyway, as I was saying, the deadline is Friday.",
+     "revenir au sujet"
+    ],
+    [
+     "Actually, the meeting is at ten, not nine.",
+     "corriger"
+    ],
+    [
+     "The flat is lovely. Mind you, it's noisy.",
+     "ajouter une réserve"
+    ],
+    [
+     "It's a long trip. Then again, the scenery is amazing.",
+     "présenter l'autre point de vue"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Choisir le marqueur",
+   "consigne": "Complète avec : by the way, after all, the thing is, still, fair enough, I mean.",
+   "items": [
+    [
+     "I'd love to help. ___, I'm away that weekend.",
+     "The thing is"
+    ],
+    [
+     "“I can't come, I'm ill.” “Oh, ___.”",
+     "fair enough"
+    ],
+    [
+     "Don't be too hard on him. ___, it's his first week.",
+     "After all"
+    ],
+    [
+     "It was a difficult year. ___, we finished the project.",
+     "Still"
+    ],
+    [
+     "___, have you seen my keys?",
+     "By the way"
+    ],
+    [
+     "The film was fine. ___, it wasn't brilliant, but I enjoyed it.",
+     "I mean"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Réagir",
+   "consigne": "Propose une réaction naturelle d'auditeur.",
+   "items": [
+    [
+     "“We've won the contract!”",
+     "Really? That's fantastic! / No way! Brilliant!"
+    ],
+    [
+     "“I can't stay late, I have to pick up my son.”",
+     "Fair enough. / Of course, no problem."
+    ],
+    [
+     "“My flight was cancelled.”",
+     "Oh no! That's a shame. / Oh no, what happened?"
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger le gallicisme",
+   "consigne": "Remplace le marqueur calqué du français.",
+   "items": [
+    [
+     "After, it's your choice.",
+     "Then again / That said, it's your choice."
+    ],
+    [
+     "Good, let's begin the meeting.",
+     "Right / OK, let's begin the meeting."
+    ],
+    [
+     "The train was late, so of the blow I missed my interview.",
+     "The train was late, so I missed my interview."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais oral naturel.",
+   "items": [
+    [
+     "Bref, on se voit demain.",
+     "Anyway, see you tomorrow."
+    ],
+    [
+     "Le problème, c'est que je n'ai pas le temps.",
+     "The thing is, I don't have time."
+    ],
+    [
+     "Cela dit, le prix est raisonnable.",
+     "Then again / That said, the price is reasonable."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court échange (5 à 6 répliques) où tu racontes une nouvelle à un ami. Utilise au moins cinq marqueurs différents.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "A: So, guess what? I've been offered a place at the University of Montreal. B: No way! That's amazing! A: Well, it's not all good news. The thing is, there's no scholarship. B: Oh, I see. Then again, you could work part-time. A: True. Mind you, rent there isn't cheap. Anyway, I'll decide next week."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Les marqueurs organisent (right, so, by the way, anyway), reformulent (I mean, actually), nuancent (mind you, then again, still, after all) et montrent l'écoute (fair enough, I see).",
+  "« Actually » sert à corriger ou surprendre, pas à ponctuer chaque phrase.",
+  "Placés en tête, suivis d'une mini-pause ; à l'écrit formel, on les remplace par de vrais connecteurs (however, in addition).",
+  "Faux équivalents : après ≠ after (then again), enfin ≠ finally (I mean), du coup = so, bon = right / well."
+ ],
+ "liens": [
+  216,
+  171,
+  247,
+  278,
+  279
+ ],
+ "refs": [
+  "cam-using",
+  "bc-c1"
+ ]
+}

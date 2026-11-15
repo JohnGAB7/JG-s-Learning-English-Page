@@ -1,0 +1,201 @@
+{
+"n": 81,
+"niveau": "A2",
+"titre": "Chez le médecin",
+"intro": "Prendre rendez-vous, dire où l’on a mal, décrire ses symptômes, comprendre les conseils du médecin et acheter un médicament à la pharmacie : ce sont des situations où l’on a besoin de mots précis. Cette leçon vous donne les structures clés (I’ve got a…, My… hurts, I feel…) et les conseils avec « should » (leçon 56). Elle ne remplace évidemment pas un avis médical.",
+"objectifs": [
+ "Prendre rendez-vous chez le médecin ou le dentiste.",
+ "Dire où l’on a mal et décrire ses symptômes avec I’ve got, My… hurts, I feel.",
+ "Comprendre les questions et les conseils du médecin (How long…?, You should…).",
+ "Se débrouiller à la pharmacie (ordonnance, posologie)."
+],
+"sections": [
+ {
+  "titre": "Prendre rendez-vous",
+  "texte": [
+   "Au téléphone : « I’d like to make an appointment with Dr Patel, please. » (un rendez-vous = an appointment, jamais « a rendez-vous » pour le médecin). On vous demande : « Is it urgent? » / « Can you come in at ten tomorrow? »",
+   "Les lieux : au Royaume-Uni, on va voir « the doctor » ou « the GP » (le médecin généraliste) au « surgery » ou « health centre » ; aux États-Unis, on parle de « the doctor’s office ». En cas d’urgence : « A&E » (GB) / « the ER » (US) = les urgences.",
+   "On dit « go to the doctor’s » (chez le médecin), « go to the dentist’s » : le ’s sous-entend « le cabinet de »."
+  ],
+  "exemples": [
+   ["I’d like to make an appointment with the doctor, please. — Is tomorrow morning OK?", "Je voudrais prendre rendez-vous avec le médecin. — Demain matin, ça vous va ?"],
+   ["I need to see a dentist. I’ve got terrible toothache.", "J’ai besoin de voir un dentiste. J’ai une rage de dents."],
+   ["If it’s an emergency, call 999 in the UK or 911 in the US.", "En cas d’urgence, appelez le 999 au Royaume-Uni ou le 911 aux États-Unis."]
+  ]
+ },
+ {
+  "titre": "Dire où l’on a mal",
+  "texte": [
+   "Trois structures principales. 1) « I’ve got a + mal » avec les mots en -ache : « I’ve got a headache » (mal à la tête), « a stomach ache » (mal au ventre), « a backache », « earache », « toothache » (souvent sans « a » au Royaume-Uni pour earache et toothache).",
+   "2) « My + partie du corps + hurts » : « My back hurts. » « My feet hurt. » (pluriel → hurt). On peut aussi dire « My leg is sore. » / « I’ve got a sore throat. » (mal à la gorge).",
+   "3) « It hurts when… » : « It hurts when I walk. » Attention : en anglais on utilise le possessif (« my arm »), pas l’article comme en français (« j’ai mal au bras » ≠ « I have pain at the arm »)."
+  ],
+  "tableau": {
+   "entetes": ["Français", "Anglais", "Structure"],
+   "lignes": [
+    ["J’ai mal à la tête.", "I’ve got a headache.", "I’ve got a + -ache"],
+    ["J’ai mal au ventre.", "I’ve got a stomach ache.", "I’ve got a + -ache"],
+    ["J’ai mal à la gorge.", "I’ve got a sore throat.", "I’ve got a sore + partie du corps"],
+    ["J’ai mal au genou.", "My knee hurts.", "My + partie du corps + hurts"],
+    ["J’ai mal aux pieds.", "My feet hurt.", "pluriel : hurt"],
+    ["Ça me fait mal quand je tousse.", "It hurts when I cough.", "It hurts when…"]
+   ]
+  },
+  "exemples": [
+   ["I’ve got a headache and a sore throat.", "J’ai mal à la tête et mal à la gorge."],
+   ["My back hurts when I sit for a long time.", "J’ai mal au dos quand je reste assis longtemps."],
+   ["Where does it hurt? — Here, in my chest.", "Où avez-vous mal ? — Ici, dans la poitrine."]
+  ]
+ },
+ {
+  "titre": "Décrire ses symptômes",
+  "texte": [
+   "Avec « I’ve got » : « I’ve got a cold » (un rhume), « a cough » (une toux), « a temperature / a fever » (de la fièvre ; « a temperature » est courant en GB), « the flu » (la grippe), « a rash » (une éruption cutanée).",
+   "Avec « I feel » + adjectif : « I feel sick » (j’ai la nausée, GB ; aux US « sick » = malade en général), « I feel dizzy » (j’ai des vertiges), « I feel tired », « I don’t feel well » (je ne me sens pas bien).",
+   "Pour la durée, on utilise le present perfect (leçon 51) avec « for » ou « since » : « I’ve had a cough for three days. » / « I’ve felt sick since yesterday. » Ne dites pas « I have a cough since three days »."
+  ],
+  "exemples": [
+   ["I don’t feel well. I think I’ve got the flu.", "Je ne me sens pas bien. Je crois que j’ai la grippe."],
+   ["I’ve had a temperature since Monday.", "J’ai de la fièvre depuis lundi."],
+   ["I feel dizzy when I stand up.", "J’ai des vertiges quand je me lève."]
+  ]
+ },
+ {
+  "titre": "Les questions et conseils du médecin",
+  "texte": [
+   "Questions fréquentes : « What’s the matter? » / « What seems to be the problem? » (qu’est-ce qui ne va pas ?), « How long have you had it? » (depuis combien de temps ?), « Are you taking any medicine? », « Are you allergic to anything? »",
+   "Le médecin examine : « Can you open your mouth? », « I’m going to take your temperature / your blood pressure. »",
+   "Conseils avec « should » / « shouldn’t » (leçon 56) : « You should stay in bed for two days. » « You shouldn’t go to work. » « Drink plenty of water. » Et la prescription : « I’ll give you a prescription. » (une ordonnance)."
+  ],
+  "exemples": [
+   ["What seems to be the problem? — I’ve had a bad cough for a week.", "Qu’est-ce qui ne va pas ? — J’ai une mauvaise toux depuis une semaine."],
+   ["You should rest and drink plenty of water.", "Vous devriez vous reposer et boire beaucoup d’eau."],
+   ["You shouldn’t do any sport for a few days.", "Vous ne devriez pas faire de sport pendant quelques jours."]
+  ]
+ },
+ {
+  "titre": "À la pharmacie",
+  "texte": [
+   "La pharmacie : « the chemist’s » ou « the pharmacy » (GB), « the drugstore » ou « the pharmacy » (US). Le pharmacien : « the pharmacist » (ou « the chemist » en GB).",
+   "Phrases utiles : « Have you got anything for a cough? » (avez-vous quelque chose contre la toux ?), « I’ve got a prescription from my doctor. », « How often should I take it? » (combien de fois par jour ?).",
+   "La posologie : « Take two tablets three times a day, after meals. » (deux comprimés trois fois par jour, après les repas). « medicine » (médicament) est souvent indénombrable : « some medicine » ; « drugs » peut aussi vouloir dire « drogues », mieux vaut dire « medicine »."
+  ],
+  "exemples": [
+   ["Have you got anything for a sore throat?", "Avez-vous quelque chose pour le mal de gorge ?"],
+   ["Take one tablet twice a day for five days.", "Prenez un comprimé deux fois par jour pendant cinq jours."],
+   ["Can I take this medicine with food?", "Puis-je prendre ce médicament en mangeant ?"]
+  ],
+  "note": "Pour souhaiter un bon rétablissement : « Get well soon! » ou « I hope you feel better soon. »"
+ }
+],
+"formule": "I’ve got a headache / a sore throat / a cold. · My back hurts. · I feel sick / dizzy. · I’ve had it for three days. · You should rest.",
+"prononciation": [
+ "« ache » /eɪk/ se prononce « éïk », comme « make » : headache /ˈhedeɪk/, stomach ache /ˈstʌmək eɪk/.",
+ "« stomach » /ˈstʌmək/ : le ch se prononce /k/, « STEU-meuk ».",
+ "« cough » /kɒf/ : le gh se prononce /f/, « kof ».",
+ "« throat » /θrəʊt/ : commencez par le th (langue entre les dents), puis « rout ».",
+ "« medicine » /ˈmedsn/ ou /ˈmedɪsn/ : souvent deux syllabes en anglais britannique, « MED-sn ».",
+ "« appointment » /əˈpɔɪntmənt/ : accent sur « POINT »."
+],
+"erreurs": [
+ ["I have mal at the head.", "I’ve got a headache.", "Mal à la tête = a headache."],
+ ["I have pain at the arm.", "My arm hurts.", "On emploie le possessif « my » et le verbe « hurt »."],
+ ["My feet hurts.", "My feet hurt.", "« feet » est pluriel : hurt sans s."],
+ ["I have a cough since three days.", "I’ve had a cough for three days.", "Depuis + durée = present perfect + for."],
+ ["I'd like a rendez-vous with the doctor.", "I'd like an appointment with the doctor.", "Chez le médecin : an appointment."],
+ ["I have fever.", "I’ve got a temperature. / I’ve got a fever.", "On dit « a temperature / a fever »."],
+ ["Can you give me an ordonnance?", "Could you give me a prescription?", "Ordonnance = prescription."],
+ ["I go to the doctor.", "I’m going to the doctor’s.", "Chez le médecin : the doctor’s."]
+],
+"dialogue": {
+ "contexte": "Kofi, étudiant ghanéen à Bristol, va voir une généraliste parce qu’il ne se sent pas bien.",
+ "lignes": [
+  ["Doctor", "Good morning. What seems to be the problem?", "Bonjour. Qu’est-ce qui ne va pas ?"],
+  ["Kofi", "I don’t feel well. I’ve got a sore throat and a headache.", "Je ne me sens pas bien. J’ai mal à la gorge et à la tête."],
+  ["Doctor", "How long have you had these symptoms?", "Depuis combien de temps avez-vous ces symptômes ?"],
+  ["Kofi", "For three days. And I’ve had a temperature since last night.", "Depuis trois jours. Et j’ai de la fièvre depuis hier soir."],
+  ["Doctor", "Are you allergic to anything?", "Êtes-vous allergique à quelque chose ?"],
+  ["Kofi", "Yes, I’m allergic to penicillin.", "Oui, je suis allergique à la pénicilline."],
+  ["Doctor", "OK. Can you open your mouth? … It’s a throat infection. I’ll give you a prescription.", "D’accord. Pouvez-vous ouvrir la bouche ? … C’est une infection de la gorge. Je vais vous faire une ordonnance."],
+  ["Kofi", "How often should I take the tablets?", "Combien de fois par jour dois-je prendre les comprimés ?"],
+  ["Doctor", "Three times a day, after meals. And you should stay at home for two days.", "Trois fois par jour, après les repas. Et vous devriez rester chez vous deux jours."],
+  ["Kofi", "Thank you, doctor.", "Merci, docteur."]
+ ]
+},
+"mots": [
+ ["appointment", "I’ve got an appointment at half past nine.", "un rendez-vous (médecin, travail)"],
+ ["headache", "I’ve got a terrible headache.", "un mal de tête"],
+ ["hurt", "My back hurts.", "faire mal"],
+ ["sore", "I’ve got a sore throat.", "douloureux, irrité"],
+ ["cough", "He’s had a cough for a week.", "une toux / tousser"],
+ ["temperature", "She’s got a high temperature.", "de la fièvre (GB) ; la température"],
+ ["dizzy", "I feel dizzy when I stand up.", "pris de vertiges"],
+ ["prescription", "You need a prescription for this medicine.", "une ordonnance"],
+ ["tablet", "Take two tablets after dinner.", "un comprimé"],
+ ["rest", "You should rest for a few days.", "se reposer / le repos"]
+],
+"exercices": [
+ {
+  "titre": "1. Choisir la structure",
+  "consigne": "Complète avec « I’ve got a », « My … hurts » ou « I feel ».",
+  "items": [
+   ["___ headache.", "I’ve got a headache."],
+   ["(knee) ___.", "My knee hurts."],
+   ["___ dizzy.", "I feel dizzy."],
+   ["___ sore throat.", "I’ve got a sore throat."],
+   ["(feet) ___.", "My feet hurt."]
+  ]
+ },
+ {
+  "titre": "2. Compléter",
+  "consigne": "Complète avec un mot.",
+  "items": [
+   ["I’d like to make an ___ with Dr Brown.", "appointment"],
+   ["I’ve had a cough ___ Monday.", "since"],
+   ["I’ve had a headache ___ two days.", "for"],
+   ["Take one tablet three times a ___.", "day"],
+   ["Have you got anything ___ a cold?", "for"],
+   ["You ___ stay in bed. (conseil)", "should"]
+  ]
+ },
+ {
+  "titre": "3. Médecin ou patient ?",
+  "consigne": "Qui dit cette phrase : le médecin (doctor) ou le patient (patient) ?",
+  "items": [
+   ["What seems to be the problem?", "doctor"],
+   ["It hurts when I swallow.", "patient"],
+   ["How long have you had it?", "doctor"],
+   ["How often should I take it?", "patient"],
+   ["I’ll give you a prescription.", "doctor"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["J’ai mal au ventre.", "I’ve got a stomach ache."],
+   ["J’ai mal au bras.", "My arm hurts."],
+   ["J’ai de la fièvre depuis hier.", "I’ve had a temperature since yesterday."],
+   ["Je voudrais prendre rendez-vous.", "I’d like to make an appointment."],
+   ["Vous devriez boire beaucoup d’eau.", "You should drink plenty of water."],
+   ["Prompt rétablissement !", "Get well soon!"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Tu téléphones au cabinet médical puis tu décris tes symptômes au médecin (5 à 6 phrases) : où tu as mal, depuis quand, ce que tu ressens.",
+  "items": [
+   ["Exemple de réponse", "Hello, I’d like to make an appointment with the doctor, please. It’s quite urgent. … Good morning, doctor. I don’t feel well. I’ve got a bad cough and a sore throat, and my chest hurts when I cough. I’ve had these symptoms for four days. I’ve also had a temperature since yesterday and I feel very tired. I’m not allergic to anything."]
+  ]
+ }
+],
+"a_retenir": [
+ "Rendez-vous = an appointment ; chez le médecin = at the doctor’s ; urgences = A&E (GB) / the ER (US).",
+ "Mal : I’ve got a headache / stomach ache / sore throat · My back hurts · It hurts when I…",
+ "Symptômes : I’ve got a cold / a cough / a temperature · I feel sick / dizzy · I don’t feel well.",
+ "Depuis : I’ve had a cough for three days / since Monday (present perfect).",
+ "Conseils : You should rest. You shouldn’t go to work. Pharmacie : Take two tablets three times a day."
+],
+"liens": [51, 56, 59, 80],
+"refs": ["bc-a1a2", "cam-using"]
+}

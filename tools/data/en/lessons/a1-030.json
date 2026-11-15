@@ -1,0 +1,202 @@
+{
+"n": 30,
+"niveau": "A1",
+"titre": "How much / how many",
+"intro": "English has two ways to ask about quantity: “how many” for things you can count (eggs, people) and “how much” for things you can't count (water, money) and for prices. The noun after it tells you which one to use.",
+"objectifs": [
+ "Know the difference between common countable and uncountable nouns.",
+ "Ask questions with how many + plural and how much + uncountable noun.",
+ "Ask and give prices: How much is it? How much does it cost?",
+ "Answer with a lot, not many, not much, a few, a little, none."
+],
+"sections": [
+ {
+  "titre": "Countable or uncountable?",
+  "texte": [
+   "A countable noun can be counted: one egg, two eggs, three people. It has a singular and a plural.",
+   "An uncountable noun can't be counted directly: water, rice, money, time, information. It has no plural and doesn't take “a / an”. We count it with a unit: a glass of water, a kilo of rice (lesson 26).",
+   "Careful: some nouns are uncountable in English but countable in many other languages: information, advice, news, furniture, luggage, homework, bread."
+  ],
+  "tableau": {
+   "entetes": ["Countable (how many)", "Uncountable (how much)"],
+   "lignes": [
+    ["eggs, apples, tomatoes", "rice, bread, sugar, milk, water"],
+    ["people, children, friends", "money, time, work"],
+    ["euros, dollars, coins", "information, advice, news"],
+    ["chairs, rooms, bags", "furniture, luggage, homework"],
+    ["times (occasions)", "time (minutes, hours)"]
+   ]
+  }
+ },
+ {
+  "titre": "How many + plural noun",
+  "texte": [
+   "Use “how many” with a plural countable noun. Then use normal question order (lesson 29): how many + noun + auxiliary + subject + verb.",
+   "Very common patterns: “How many … are there?”, “How many … have you got? / do you have?”."
+  ],
+  "exemples": [
+   ["How many students are there in your class? — Twenty-two.", "how many + are there."],
+   ["How many brothers and sisters have you got?", "how many + have you got."],
+   ["How many times a week do you go running? — Three times.", "times = occasions (countable)."]
+  ]
+ },
+ {
+  "titre": "How much + uncountable noun",
+  "texte": [
+   "Use “how much” with an uncountable noun, which stays singular. So the verb is singular: “How much water is there?”.",
+   "When the noun is clear, you can leave it out: “I need some sugar. — How much (sugar) do you need?”."
+  ],
+  "exemples": [
+   ["How much water do you drink a day? — About two litres.", "water = uncountable."],
+   ["How much time have we got? — Ten minutes.", "time = uncountable."],
+   ["How much money do you need?", "money = uncountable."]
+  ]
+ },
+ {
+  "titre": "Asking about prices",
+  "texte": [
+   "For prices, always use “how much”, because we think of money: “How much is it?”. For a plural: “How much are they?” / “How much are these shoes?”.",
+   "With the verb “cost”: “How much does it cost?” / “How much do they cost?”. Careful with the order: don't say “How much costs it?”.",
+   "To answer: “It's five euros.” / “They're two dollars each.” “Cheap” = low price; “expensive” = high price."
+  ],
+  "tableau": {
+   "entetes": ["Question", "Answer"],
+   "lignes": [
+    ["How much is this bag?", "It's 30 euros."],
+    ["How much are the mangoes?", "They're 500 francs each."],
+    ["How much does the ticket cost?", "It costs £12."],
+    ["How much do these shoes cost?", "They cost $80."]
+   ]
+  },
+  "exemples": [
+   ["Excuse me, how much is this jacket? — It's 45 euros.", "Asking in a shop."],
+   ["Wow, that's expensive!", "A reaction to a high price."]
+  ]
+ },
+ {
+  "titre": "Answering: a lot, not many, not much…",
+  "texte": [
+   "You can answer with a number or a quantity expression. “A lot” works with both kinds of noun. “Not many” goes with countable nouns, “not much” with uncountable nouns.",
+   "Lesson 58 looks at “a few” and “a little” in more detail. “None” means “not one, nothing”."
+  ],
+  "tableau": {
+   "entetes": ["Quantity", "With how many", "With how much"],
+   "lignes": [
+    ["big", "a lot / lots", "a lot / lots"],
+    ["small", "not many", "not much"],
+    ["small but some", "a few", "a little"],
+    ["zero", "none", "none"]
+   ]
+  },
+  "exemples": [
+   ["How many friends have you got in Lyon? — Not many. Just two.", "not many + countable."],
+   ["How much homework have you got? — A lot!", "a lot: countable or uncountable."]
+  ]
+ }
+],
+"formule": "How many + plural noun…? · How much + uncountable noun…? · How much is it? / How much does it cost?",
+"prononciation": [
+ "In “How many”, stress “many”: /haʊ ˈmeni/. “Many” sounds like “menny”.",
+ "“How much is it?” is linked in one chain: /haʊ ˈmʌtʃ ɪz ɪt/ ≈ “how-mu-chi-zit”.",
+ "“a lot of” is /ə ˈlɒt əv/ and often sounds like “a lotta” in informal speech.",
+ "“cost” /kɒst/ and “costs” /kɒsts/: say the final -sts clearly.",
+ "For prices, say the currency after the number: £5 = “five pounds”, $20 = “twenty dollars”, €3.50 = “three euros fifty”."
+],
+"erreurs": [
+ ["How much brothers have you got?", "How many brothers have you got?", "“Brothers” is countable: how many."],
+ ["How many money do you need?", "How much money do you need?", "“Money” is uncountable: how much."],
+ ["How much people are there?", "How many people are there?", "“People” is a countable plural."],
+ ["How much costs it?", "How much is it? / How much does it cost?", "With “cost”, you need “does” in the question."],
+ ["How many informations do you need?", "How much information do you need?", "“Information” is uncountable, no s."],
+ ["How many time have we got?", "How much time have we got?", "time (minutes) is uncountable; times (occasions) is countable."],
+ ["How much are the bread?", "How much is the bread?", "An uncountable noun takes a singular verb."]
+],
+"dialogue": {
+ "contexte": "At Mokolo market in Yaoundé, Claire is shopping at Mama Ngo's stall.",
+ "lignes": [
+  ["Claire", "Good morning! How much are the mangoes?", "Price of a plural: are."],
+  ["Mama Ngo", "They're two hundred francs each.", "each = for one."],
+  ["Claire", "OK. I'd like six, please. And how much is a kilo of tomatoes?", "Price of one thing: is."],
+  ["Mama Ngo", "A kilo is one thousand francs. How many kilos do you want?", "kilos = countable."],
+  ["Claire", "Just one. And some rice, please.", "rice = uncountable."],
+  ["Mama Ngo", "How much rice do you need?", "how much + uncountable."],
+  ["Claire", "Two kilos. So, how much is that altogether?", "altogether = in total."],
+  ["Mama Ngo", "Four thousand two hundred francs.", "A big number."],
+  ["Claire", "Here you are. Thank you!", "When you give money or a thing."]
+ ]
+},
+"mots": [
+ ["price", "The price is on the label.", "the money you pay for something"],
+ ["cost", "How much does it cost?", "have a price of"],
+ ["money", "I haven't got much money.", "coins and notes you use to buy things (uncountable)"],
+ ["cheap", "Bananas are cheap here.", "not expensive; low in price"],
+ ["expensive", "This hotel is very expensive.", "costing a lot of money"],
+ ["each", "They're one euro each.", "for every one"],
+ ["kilo", "A kilo of rice, please.", "1,000 grams"],
+ ["people", "How many people are there?", "more than one person"],
+ ["altogether", "That's ten euros altogether.", "in total"],
+ ["a lot of", "I drink a lot of water.", "a large number or amount of"]
+],
+"exercices": [
+ {
+  "titre": "1. Much or many?",
+  "consigne": "Complete with much or many.",
+  "items": [
+   ["How ___ eggs do you need?", "many"],
+   ["How ___ milk is there in the fridge?", "much"],
+   ["How ___ people work here?", "many"],
+   ["How ___ money have you got?", "much"],
+   ["How ___ is this T-shirt?", "much"],
+   ["How ___ times a day do you eat?", "many"]
+  ]
+ },
+ {
+  "titre": "2. Countable or uncountable?",
+  "consigne": "Write C (countable) or U (uncountable).",
+  "items": [
+   ["water", "U"],
+   ["egg", "C"],
+   ["money", "U"],
+   ["child", "C"],
+   ["information", "U"]
+  ]
+ },
+ {
+  "titre": "3. Ask the question",
+  "consigne": "Write the question with how much or how many.",
+  "items": [
+   ["I've got three cousins.", "How many cousins have you got?"],
+   ["This T-shirt is 12 euros.", "How much is this T-shirt?"],
+   ["There are 25 students in the class.", "How many students are there in the class?"],
+   ["I drink two litres of water a day.", "How much water do you drink a day?"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each question has one mistake. Write it correctly.",
+  "items": [
+   ["How much people are there?", "How many people are there?"],
+   ["How much cost these shoes?", "How much are these shoes? / How much do these shoes cost?"],
+   ["How many time have we got?", "How much time have we got? / How much time do we have?"],
+   ["How much times a week?", "How many times a week?"],
+   ["How many money do you need?", "How much money do you need?"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "You are at a market or in a shop. Write a short dialogue of four lines with at least one question with how much and one with how many.",
+  "items": [
+   ["Model answer", "A: How much are the oranges? B: They're 50 cents each. A: OK, I'd like ten, please. How many bananas are there in a bag? B: There are six. They're two euros a bag."]
+  ]
+ }
+],
+"a_retenir": [
+ "how many + plural countable noun: How many children have you got?",
+ "how much + singular uncountable noun: How much water do you drink?",
+ "Prices: How much is it? / How much are they? / How much does it cost? (never “How much costs it?”).",
+ "Tricky uncountable nouns: money, time, information, advice, news, furniture, luggage, homework, bread.",
+ "Answers: a lot, not many / not much, a few / a little, none."
+],
+"liens": [26, 29, 31, 38, 58],
+"refs": ["bc-countable", "cam-nouns"]
+}

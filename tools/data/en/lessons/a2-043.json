@@ -1,0 +1,204 @@
+{
+"n": 43,
+"niveau": "A2",
+"titre": "The past continuous",
+"intro": "The past continuous describes an action in progress at a moment in the past: “I was having dinner when you called.” We use it to set the scene in a story and to show that one action interrupted another.",
+"objectifs": [
+"Form the past continuous with was / were + -ing, in all forms.",
+"Say what you were doing at a particular time in the past.",
+"Combine the past continuous and the past simple with when and while.",
+"Know when not to use the past continuous (states and past habits)."
+],
+"sections": [
+{
+"titre": "The form",
+"texte": [
+"The past continuous uses the past of “to be” (was / were, lesson 39) + verb-ing. It is the present continuous (lesson 8) moved into the past: I am working → I was working.",
+"Negative: wasn't / weren't + -ing. Question: Was / Were + subject + -ing? Short answers: Yes, I was. / No, they weren't."
+],
+"tableau": {
+"entetes": ["Subject", "Positive", "Negative", "Question"],
+"lignes": [
+["I", "I was working", "I wasn't working", "Was I working?"],
+["you", "you were working", "you weren't working", "Were you working?"],
+["he / she / it", "she was working", "she wasn't working", "Was she working?"],
+["we", "we were working", "we weren't working", "Were we working?"],
+["they", "they were working", "they weren't working", "Were they working?"]
+]
+},
+"note": "-ing spelling (the same as the present continuous): make → making, sit → sitting, lie → lying, study → studying."
+},
+{
+"titre": "Use 1: an action in progress at a past time",
+"texte": [
+"Use it to say what was happening at a particular time in the past. The action started before that moment and continued after it.",
+"Common time phrases: at 8 o'clock yesterday, at this time last week, all day / all evening, at midnight."
+],
+"exemples": [
+["At 9 p.m. yesterday, I was watching the news.", "In progress at 9 p.m."],
+["What were you doing at this time last year?", "Question: were + you + doing."],
+["It was raining all morning in Liège.", "A long, continuing action."]
+]
+},
+{
+"titre": "Use 2: an interrupted action (when + past simple)",
+"texte": [
+"We use the two tenses together: the past continuous for the long action (the background), the past simple for the short action that happens in the middle of it.",
+"“When” usually comes before the short action in the past simple. Use a comma when the when-clause comes first."
+],
+"tableau": {
+"entetes": ["Long action (past continuous)", "Short action (past simple)"],
+"lignes": [
+["I was having a shower", "when the phone rang."],
+["We were walking home", "when it started to rain."],
+["She was driving to Ottawa", "when she saw the accident."]
+]
+},
+"exemples": [
+["When you called, I was cooking.", "I started cooking before you called."],
+["When you called, I cooked.", "Different meaning: you called, THEN I cooked (one after the other)."]
+]
+},
+{
+"titre": "Use 3: two actions at the same time (while) and the background",
+"texte": [
+"“While” links two long actions that happen at the same time: both are in the past continuous. While can also introduce the long action before a past simple.",
+"At the start of a story, the past continuous describes the scene: what was happening around, before the main event."
+],
+"exemples": [
+["While I was studying, my brother was playing video games.", "Two actions at the same time."],
+["While we were waiting for the bus, we met an old friend.", "Long action + short action."],
+["The sun was shining and the birds were singing.", "Background of a story."]
+]
+},
+{
+"titre": "When not to use it",
+"texte": [
+"Do not use the past continuous for past habits: use the past simple or “used to” (lesson 44). Do not use it for states (be, have for possession, know, like…): use the past simple.",
+"State verbs (know, like, want, need, believe, belong, understand) do not normally take -ing, in the past or in the present."
+],
+"tableau": {
+"entetes": ["Situation", "Correct English", "Why"],
+"lignes": [
+["action in progress, interrupted", "I was reading when he arrived.", "past continuous + past simple"],
+["past habit", "On Saturdays I played / used to play football.", "repeated action, not in progress"],
+["knowledge", "I knew the answer.", "state verb"],
+["possession", "She had two cats.", "state verb"]
+]
+}
+}
+],
+"formule": "was / were + verb-ing · long action (was / were + -ing) + when + short action (past simple)",
+"prononciation": [
+"In positive sentences, “was” and “were” are weak: was /wəz/, were /wə/ (UK): I was working /aɪ wəz ˈwɜːkɪŋ/.",
+"In short answers and at the end of a sentence, they are strong: Yes, I was /wɒz/. Yes, we were /wɜː/.",
+"“wasn't” /ˈwɒznt/ and “weren't” /wɜːnt/ are never weak.",
+"The -ing ending is /ɪŋ/: do not pronounce a hard g at the end.",
+"In “When the phone rang, I was sleeping”, stress the important words: PHONE, RANG, SLEEPing."
+],
+"erreurs": [
+["I was knowing the answer.", "I knew the answer.", "“know” is a state verb: no -ing."],
+["When I arrived, she cooking.", "When I arrived, she was cooking.", "You need was / were."],
+["They was playing football.", "They were playing football.", "they / we / you → were."],
+["I was watching TV when the lights were going out.", "I was watching TV when the lights went out.", "The short, interrupting action is in the past simple."],
+["When I was child, I was playing outside every day.", "When I was a child, I played outside every day.", "Past habit: past simple (or used to), not past continuous."],
+["While I cooked, the phone was ringing.", "While I was cooking, the phone rang.", "Long action: past continuous; short action: past simple."],
+["Were you sleep at 11?", "Were you sleeping at 11?", "Question: Were + subject + verb-ing."]
+],
+"dialogue": {
+"contexte": "At a police station in Namur, an officer asks a witness about a small bike accident.",
+"lignes": [
+["Officer", "Can you tell me what happened?", "A polite request."],
+["Léa", "Yes. I was waiting at the bus stop on Rue de Fer.", "Background: past continuous."],
+["Officer", "What was the weather like?", "“What was … like?” asks for a description."],
+["Léa", "It was raining a little, and a lot of people were crossing the street.", "Two background actions."],
+["Officer", "And the cyclist?", "A short question."],
+["Léa", "He was riding very fast. He was looking at his phone while he was riding.", "while + past continuous."],
+["Officer", "Was he wearing a helmet?", "Question: Was + he + -ing."],
+["Léa", "No, he wasn't. When the car stopped suddenly, he hit it and fell.", "Short answer, then the main events in the past simple."],
+["Officer", "Thank you. That's very helpful.", "Polite thanks."]
+]
+},
+"mots": [
+["while", "While I was cooking, he called.", "during the time that"],
+["suddenly", "Suddenly, the lights went out.", "quickly and when you do not expect it"],
+["ring", "The phone rang at midnight.", "to make a bell sound (ring – rang)"],
+["wait", "We were waiting for the train.", "to stay until someone comes or something happens"],
+["shine", "The sun was shining.", "to give out bright light"],
+["cross", "She was crossing the road.", "to go from one side to the other"],
+["accident", "I saw an accident on the way to work.", "something bad that happens by chance, often with a car"],
+["wear", "He was wearing a blue jacket.", "to have clothes on your body"],
+["noise", "We heard a strange noise.", "a sound, often loud or unpleasant"]
+],
+"exercices": [
+{
+"titre": "1. Was or were?",
+"consigne": "Complete with was or were.",
+"items": [
+["I ___ reading a book.", "was"],
+["They ___ having lunch.", "were"],
+["___ you working at 10?", "Were"],
+["The baby ___ sleeping.", "was"],
+["We ___ not listening.", "were"]
+]
+},
+{
+"titre": "2. What were they doing?",
+"consigne": "Put the verb in the past continuous.",
+"items": [
+["At 7 a.m., my parents ___ (have) breakfast.", "were having"],
+["At midnight, I ___ (not / sleep).", "wasn't sleeping"],
+["What ___ you ___ (do) at 6 p.m.?", "were … doing"],
+["It ___ (snow) when we left Montreal.", "was snowing"],
+["Kofi ___ (study) in the library all afternoon.", "was studying"]
+]
+},
+{
+"titre": "3. Past continuous or past simple?",
+"consigne": "Choose the correct form of each verb.",
+"items": [
+["I ___ (walk) home when I ___ (see) Paul.", "was walking … saw"],
+["When the teacher ___ (come) in, the students ___ (talk).", "came … were talking"],
+["While she ___ (cook), she ___ (cut) her finger.", "was cooking … cut"],
+["We ___ (watch) a film when the electricity ___ (go) off.", "were watching … went"],
+["While I ___ (wash) the dishes, my sister ___ (dry) them.", "was washing … was drying"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["They was waiting outside.", "They were waiting outside."],
+["I was wanting a coffee.", "I wanted a coffee."],
+["When he was calling, I was in the shower.", "When he called, I was in the shower."],
+["She was drive to work when it happened.", "She was driving to work when it happened."]
+]
+},
+{
+"titre": "5. Join the sentences",
+"consigne": "Make one sentence with the word in brackets. Choose the right tenses.",
+"items": [
+["I slept. You phoned. (when)", "I was sleeping when you phoned."],
+["It rained. It was cold. (and – describe the scene)", "It was raining and it was cold."],
+["She drove home. She heard the news on the radio. (while)", "While she was driving home, she heard the news on the radio."],
+["They played. We prepared the meal. (while – same time)", "While they were playing, we were preparing the meal."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Describe a moment when something unexpected happened. First describe the scene (past continuous), then the event (past simple).",
+"items": [
+["Model answer", "Last Friday evening I was sitting on my balcony in Abidjan. The sun was going down and my neighbours were playing music. Suddenly, I heard a loud noise. A big branch fell from the tree onto my neighbour's car! Luckily, nobody was standing near it."]
+]
+}
+],
+"a_retenir": [
+"Past continuous = was / were + verb-ing.",
+"It describes an action in progress at a past time, or the background of a story.",
+"A long action (past continuous) is interrupted by a short one (past simple): I was cooking when you called.",
+"While + two long actions at the same time.",
+"No past continuous for state verbs or past habits (use the past simple or used to)."
+],
+"liens": [8, 39, 41, 42, 44],
+"refs": ["bc-past-cont", "cam-verbs"]
+}

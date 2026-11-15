@@ -1,0 +1,626 @@
+{
+ "n": 112,
+ "niveau": "B1",
+ "titre": "Phrasal verbs for work",
+ "intro": "In the office, English speakers constantly use phrasal verbs: they “set up a meeting”, “follow up” with a client, “hand in” a report. Knowing them helps you understand colleagues and write natural emails that sound less stiff than those using only formal verbs.",
+ "objectifs": [
+  "Know about thirty common work phrasal verbs, grouped by situation.",
+  "Know whether each one is separable and place the object correctly.",
+  "Choose between the phrasal verb (more common) and its formal equivalent depending on register.",
+  "Use them in real situations: meetings, projects, the phone, human resources."
+ ],
+ "sections": [
+  {
+   "titre": "Organising meetings",
+   "texte": [
+    "Meetings are planned, moved and cancelled with phrasal verbs. Be careful with “bring forward” (move to an earlier time) and “put off / push back” (move to a later time): they are opposites."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verb",
+     "Meaning",
+     "Type",
+     "Example"
+    ],
+    "lignes": [
+     [
+      "set up",
+      "organise, arrange",
+      "separable",
+      "Can you set up a meeting with the client?"
+     ],
+     [
+      "call off",
+      "cancel",
+      "separable",
+      "They called the meeting off."
+     ],
+     [
+      "put off / push back",
+      "move to a later time",
+      "separable",
+      "Let's push it back to Thursday."
+     ],
+     [
+      "bring forward",
+      "move to an earlier time",
+      "separable",
+      "We've brought the deadline forward to Monday."
+     ],
+     [
+      "go over / run through",
+      "check or review",
+      "inseparable",
+      "Let's go over the figures before the meeting."
+     ],
+     [
+      "bring up",
+      "start talking about a topic",
+      "separable",
+      "She brought up the budget problem."
+     ],
+     [
+      "sum up",
+      "give a short summary",
+      "separable",
+      "To sum up, sales are rising."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The director has called off tomorrow's meeting.",
+     "call off = cancel."
+    ],
+    [
+     "Could we bring the call forward to 9 a.m.?",
+     "Earlier than planned."
+    ]
+   ]
+  },
+  {
+   "titre": "Doing tasks and projects",
+   "texte": [
+    "These verbs describe the work itself: taking responsibility, doing, examining, submitting. Several are inseparable (deal with, look into): the object always goes after the particle, even a pronoun (deal with it)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verb",
+     "Meaning",
+     "Type",
+     "Example"
+    ],
+    "lignes": [
+     [
+      "carry out",
+      "do, perform",
+      "separable",
+      "We carried out a survey of 500 customers."
+     ],
+     [
+      "deal with",
+      "take action on, handle",
+      "inseparable",
+      "I'll deal with the complaint."
+     ],
+     [
+      "look into",
+      "investigate, examine",
+      "inseparable",
+      "We're looking into the problem."
+     ],
+     [
+      "take on",
+      "accept (work); employ (people)",
+      "separable",
+      "She took on a new project. / We're taking on two engineers."
+     ],
+     [
+      "hand in",
+      "give a document to someone in charge",
+      "separable",
+      "Please hand in your report by Friday."
+     ],
+     [
+      "work out / figure out",
+      "find the answer, understand",
+      "separable",
+      "We need to work out the cost."
+     ],
+     [
+      "follow up (on)",
+      "take further action, check later",
+      "separable / inseparable",
+      "I'll follow up with the supplier. / I'll follow up on your request."
+     ],
+     [
+      "fall behind",
+      "not do something as fast as planned",
+      "no object",
+      "We're falling behind schedule."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "We need to look into why the sales fell in May.",
+     "Inseparable: look into it."
+    ],
+    [
+     "I'm afraid we're falling behind with the Kinshasa project.",
+     "fall behind (with): no direct object."
+    ]
+   ]
+  },
+  {
+   "titre": "On the phone and by email",
+   "texte": [
+    "These expressions are essential for calls and correspondence. “Get back to someone” (reply or contact someone later) is one of the most useful phrases in a work email."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verb",
+     "Meaning",
+     "Example"
+    ],
+    "lignes": [
+     [
+      "get back to (someone)",
+      "reply or contact later",
+      "I'll get back to you by Monday."
+     ],
+     [
+      "get through (to)",
+      "manage to contact by phone",
+      "I couldn't get through to the bank."
+     ],
+     [
+      "put (someone) through",
+      "connect a phone call",
+      "I'll put you through to Mr Mbarga."
+     ],
+     [
+      "hold on / hang on",
+      "wait (on the phone)",
+      "Hold on a moment, please."
+     ],
+     [
+      "call back / ring back (UK)",
+      "phone again",
+      "Can she call you back later?"
+     ],
+     [
+      "catch up (on / with)",
+      "do what you didn't do; exchange news",
+      "Let's catch up after lunch. / I need to catch up on my emails."
+     ],
+     [
+      "send out",
+      "send to many people",
+      "We sent out the invitations last week."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Thanks for your email. I'll get back to you as soon as possible.",
+     "A standard email phrase."
+    ],
+    [
+     "Hold on, I'll put you through to the accounts department.",
+     "A receptionist connecting a call."
+    ]
+   ]
+  },
+  {
+   "titre": "Careers and human resources",
+   "texte": [
+    "For jobs, recruitment and leaving. “Lay off” means to end someone's job for economic reasons (not their fault); “fire” or “sack” (UK, informal) means to end someone's job because of their behaviour or performance."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verb",
+     "Meaning",
+     "Example"
+    ],
+    "lignes": [
+     [
+      "apply for",
+      "formally ask for (a job, a visa)",
+      "She applied for a job in Toronto."
+     ],
+     [
+      "take over",
+      "take control or responsibility from someone",
+      "Paul will take over from me next month."
+     ],
+     [
+      "hand over",
+      "give responsibility to someone else",
+      "I'll hand over my files before I leave."
+     ],
+     [
+      "step down",
+      "leave an important job",
+      "The CEO stepped down in May."
+     ],
+     [
+      "lay off",
+      "end jobs for economic reasons",
+      "The factory laid off 200 workers."
+     ],
+     [
+      "get on (well) with",
+      "have a good relationship with",
+      "I get on well with my colleagues."
+     ],
+     [
+      "turn down",
+      "refuse",
+      "He turned down the promotion."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Who will take over when Mrs Ateba retires?",
+     "take over = take responsibility."
+    ],
+    [
+     "I applied for three jobs in Montreal last month.",
+     "apply for + job."
+    ]
+   ]
+  },
+  {
+   "titre": "Register: phrasal verb or formal verb?",
+   "texte": [
+    "In an internal email, a meeting or a conversation, the phrasal verb is natural and friendly. In an official document, a contract or a very formal letter, the formal equivalent is often preferred.",
+    "Phrasal verbs are not “slang”: “carry out a survey” and “deal with a complaint” appear in very serious reports. But learners often choose the formal word (“postpone”, “investigate”) where a native speaker would say “put off”, “look into”."
+   ],
+   "tableau": {
+    "entetes": [
+     "Phrasal verb (everyday)",
+     "Formal equivalent"
+    ],
+    "lignes": [
+     [
+      "call off",
+      "cancel"
+     ],
+     [
+      "put off",
+      "postpone"
+     ],
+     [
+      "look into",
+      "investigate"
+     ],
+     [
+      "carry out",
+      "conduct, perform"
+     ],
+     [
+      "hand in",
+      "submit"
+     ],
+     [
+      "take on (staff)",
+      "recruit, hire"
+     ],
+     [
+      "get back to",
+      "reply to, contact again"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "We're looking into what went wrong.",
+     "Speech, email."
+    ],
+    [
+     "The company is investigating the incident.",
+     "Official statement."
+    ]
+   ]
+  }
+ ],
+ "formule": "verb + particle (+ object): separable → set it up; inseparable → deal with it",
+ "prononciation": [
+  "The main stress is on the particle: call OFF, set UP, hand IN, look INto (first syllable of into).",
+  "Phrasal verbs link to the next word: carry out a survey /ˌkæri ˈaʊt ə ˈsɜːveɪ/, set it up /ˌse tɪ ˈtʌp/.",
+  "The noun “follow-up” is stressed on the first part: a FOLlow-up; the verb “follow up” on the particle: I'll follow UP.",
+  "The same rule for “set-up”, “handover”, “lay-offs”: nouns are stressed at the start, verbs on the particle."
+ ],
+ "erreurs": [
+  [
+   "We need to advance the meeting.",
+   "We need to bring the meeting forward.",
+   "To move a meeting earlier = bring forward."
+  ],
+  [
+   "I'll deal it with.",
+   "I'll deal with it.",
+   "deal with is inseparable."
+  ],
+  [
+   "I'll come back to you tomorrow.",
+   "I'll get back to you tomorrow.",
+   "To reply later = get back to you."
+  ],
+  [
+   "The meeting was called out.",
+   "The meeting was called off.",
+   "Cancel = call off."
+  ],
+  [
+   "Can you set it the meeting up?",
+   "Can you set the meeting up? / Can you set it up?",
+   "Only one object: the noun or the pronoun."
+  ],
+  [
+   "She postulated for the job.",
+   "She applied for the job.",
+   "Ask for a job = apply for (postulate = suggest a theory)."
+  ],
+  [
+   "We hand on our reports every Friday.",
+   "We hand in our reports every Friday.",
+   "Submit a document = hand in."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "A team video call between Montreal and Douala. Sandra, the project manager, checks progress with Eric and Nadine.",
+  "lignes": [
+   [
+    "Sandra",
+    "OK, let's start. First, let's go over the action points from last week.",
+    "go over = review."
+   ],
+   [
+    "Eric",
+    "I've carried out the customer survey. I'll send out the results this afternoon.",
+    "carry out; send out."
+   ],
+   [
+    "Sandra",
+    "Great. Nadine, did you deal with the supplier problem?",
+    "deal with (inseparable)."
+   ],
+   [
+    "Nadine",
+    "Not completely. I couldn't get through to them yesterday. I'll follow up this morning.",
+    "get through; follow up."
+   ],
+   [
+    "Sandra",
+    "Thanks. Now, the client wants to bring the launch forward to 15 March.",
+    "Earlier date."
+   ],
+   [
+    "Eric",
+    "That's tight. We're already falling behind. Could we push it back a week instead?",
+    "fall behind; push back = later."
+   ],
+   [
+    "Sandra",
+    "I'll bring it up with them and get back to you by tomorrow.",
+    "bring it up; get back to you."
+   ],
+   [
+    "Nadine",
+    "And if they say no, we may need to take on a freelancer.",
+    "take on = employ."
+   ],
+   [
+    "Sandra",
+    "Good idea. To sum up: Eric sends the survey, Nadine calls the supplier, I talk to the client.",
+    "sum up = summarise."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "deadline",
+   "The deadline has been brought forward.",
+   "the time or date by which something must be done"
+  ],
+  [
+   "schedule",
+   "We're behind schedule.",
+   "a plan of when things will happen"
+  ],
+  [
+   "survey",
+   "We carried out a survey.",
+   "a set of questions to find out people's opinions"
+  ],
+  [
+   "supplier",
+   "I'll follow up with the supplier.",
+   "a company that sells goods or services to another company"
+  ],
+  [
+   "launch",
+   "The launch is in March.",
+   "the start of a new product; to start it"
+  ],
+  [
+   "complaint",
+   "Who's dealing with this complaint?",
+   "a statement that something is wrong or not good enough"
+  ],
+  [
+   "freelancer",
+   "We hired a freelancer for the website.",
+   "a person who works for several companies, not as an employee"
+  ],
+  [
+   "promotion",
+   "She turned down the promotion.",
+   "a move to a more important job"
+  ],
+  [
+   "staff",
+   "We're taking on new staff.",
+   "the people who work for an organisation"
+  ],
+  [
+   "action point",
+   "Let's go over the action points.",
+   "a task someone agrees to do after a meeting"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Match",
+   "consigne": "Give the phrasal verb for each formal verb.",
+   "items": [
+    [
+     "cancel",
+     "call off"
+    ],
+    [
+     "postpone",
+     "put off / push back"
+    ],
+    [
+     "investigate",
+     "look into"
+    ],
+    [
+     "submit (a report)",
+     "hand in"
+    ],
+    [
+     "recruit",
+     "take on"
+    ],
+    [
+     "conduct (a survey)",
+     "carry out"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with the right particle (up, off, with, into, forward, back, through, behind).",
+   "items": [
+    [
+     "The manager called ___ the meeting because half the team was ill.",
+     "off"
+    ],
+    [
+     "Can you look ___ why the invoice hasn't been paid?",
+     "into"
+    ],
+    [
+     "I tried to call Mr Ngono, but I couldn't get ___.",
+     "through"
+    ],
+    [
+     "We're falling ___ schedule. We need more people.",
+     "behind"
+    ],
+    [
+     "The client asked us to bring the deadline ___ by two days.",
+     "forward"
+    ],
+    [
+     "I'll get ___ to you after I speak to my boss.",
+     "back"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Pronouns and word order",
+   "consigne": "Replace the object in brackets with a pronoun and put it in the right place.",
+   "items": [
+    [
+     "Could you set up [the video call]?",
+     "Could you set it up?"
+    ],
+    [
+     "I'll deal with [the complaints] tomorrow.",
+     "I'll deal with them tomorrow."
+    ],
+    [
+     "Please hand in [your timesheet] on Friday.",
+     "Please hand it in on Friday."
+    ],
+    [
+     "The board turned down [our proposal].",
+     "The board turned it down."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    [
+     "We must advance the meeting to 10 a.m.",
+     "We must bring the meeting forward to 10 a.m."
+    ],
+    [
+     "I'll come back to you with an answer.",
+     "I'll get back to you with an answer."
+    ],
+    [
+     "She postulated for a job in Brussels.",
+     "She applied for a job in Brussels."
+    ],
+    [
+     "Can you look it into?",
+     "Can you look into it?"
+    ]
+   ]
+  },
+  {
+   "titre": "5. Make it less formal",
+   "consigne": "Rewrite with a phrasal verb.",
+   "items": [
+    [
+     "The meeting has been cancelled.",
+     "The meeting has been called off. / They've called off the meeting."
+    ],
+    [
+     "I will connect your call to customer service.",
+     "I'll put you through to customer service."
+    ],
+    [
+     "She has a good relationship with her new boss.",
+     "She gets on well with her new boss."
+    ]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short email (5–7 sentences) to your team giving an update on a project, with at least six phrasal verbs from this lesson.",
+   "items": [
+    [
+     "Model answer",
+     "Hi all, Here's a quick update on the website project. We've carried out the user tests and Marie will send out the report tomorrow. Unfortunately, we're falling behind schedule, so I've asked the client to push the launch back to 30 June. I'm still looking into the hosting problem and I'll get back to you on Friday. Could someone set up a call with the designer next week? Thanks, Joël"
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Meetings: set up, call off, put off / push back, bring forward, go over, sum up.",
+  "Tasks: carry out, deal with, look into, take on, hand in, work out, follow up.",
+  "Phone / email: get back to, get through, put through, hold on, catch up.",
+  "Careers: apply for, take over, hand over, step down, lay off, get on with.",
+  "Inseparable: deal with it, look into it; separable: set it up, call it off."
+ ],
+ "liens": [
+  72,
+  111,
+  127,
+  128
+ ],
+ "refs": [
+  "bc-phrasal",
+  "cam-verbs"
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "n": 11,
+ "niveau": "A1",
+ "titre": "Articles: a, an, the",
+ "intro": "“A / an” means one thing that is not specific; “the” means a specific thing. But English often uses no article at all: “I like coffee”, not “I like the coffee”. This lesson explains when to use a, an, the… or nothing.",
+ "objectifs": [
+  "Choose between a and an by the sound (not the letter) that follows.",
+  "Use “a / an” for a thing that is not specific, a job or a first mention.",
+  "Use “the” for a specific thing, a thing you already know about, or a unique thing.",
+  "Know when to use no article: general ideas, meals, languages, sports, most countries, at home, by bus."
+ ],
+ "sections": [
+  {
+   "titre": "A or an? The sound decides",
+   "texte": [
+    "“A” and “an” have the same meaning. Use “an” before a word that starts with a vowel SOUND, and “a” before a consonant sound. The pronunciation is important, not the spelling.",
+    "So “hour” starts with a silent h (a vowel sound) → an hour. “University” starts with the sound /j/ (like “you”) → a university. For abbreviations, listen to the name of the first letter: an MBA (/em/), a UFO (/juː/)."
+   ],
+   "tableau": {
+    "entetes": ["Article", "Before", "Examples"],
+    "lignes": [
+     ["a", "a consonant sound", "a book, a car, a house, a big apple"],
+     ["a", "u and eu sounding /juː/; o sounding /w/", "a university, a European city, a one-way ticket"],
+     ["an", "a vowel sound", "an apple, an egg, an idea, an old man, an umbrella"],
+     ["an", "a silent h", "an hour, an honest person, an heir"],
+     ["an", "an abbreviation starting with a vowel sound", "an MP, an X-ray, an FBI agent"]
+    ]
+   },
+   "note": "Only the word right after the article matters: an apple but a red apple; a house but an old house."
+  },
+  {
+   "titre": "When to use a / an",
+   "texte": [
+    "Use “a / an” only before a singular countable noun. It has no plural: in the plural, use nothing or “some” (lesson 31): a book → books / some books.",
+    "Uses: one thing or person among others, not specific; the first time you talk about it; a job or a type of person (necessary in English); the meaning “one”; frequency and price (twice a week, 3 euros a kilo); exclamations (What a beautiful day!)."
+   ],
+   "exemples": [
+    ["I need a pen.", "Any pen."],
+    ["She's an engineer.", "A job: the article is necessary."],
+    ["We go to the gym three times a week.", "a = in each."],
+    ["What a nice surprise!", "Exclamation."]
+   ]
+  },
+  {
+   "titre": "When to use the",
+   "texte": [
+    "“The” is the same for singular and plural, countable and uncountable nouns. It shows that we know which thing we mean.",
+    "Uses: something you mentioned before (first a, then the); something the rest of the sentence makes clear (the man in the blue shirt); something clear in the situation (Close the door, the kitchen); something unique (the sun, the moon, the world, the internet); some places and media (the cinema, the theatre, the radio); musical instruments (play the piano); family names in the plural (the Martins); seas, rivers and oceans (the Atlantic, the Seine); and countries with a plural or long name (the UK, the USA, the Netherlands)."
+   ],
+   "exemples": [
+    ["I've got a cat and a dog. The cat is black.", "Second mention: the."],
+    ["The woman in the red coat is my aunt.", "The sentence makes it specific."],
+    ["Can you open the window?", "The window in this room."],
+    ["The sun is very hot today.", "Unique."],
+    ["She plays the guitar.", "Instrument."]
+   ]
+  },
+  {
+   "titre": "No article: the big trap",
+   "texte": [
+    "To talk about something in general, English uses NO article with plural and uncountable nouns: I like cats (cats in general), Coffee is expensive, Life is beautiful. If you say “the cats”, you mean specific cats.",
+    "Also no article before: meals (have breakfast, at lunch), languages and school subjects (English is easy, I study history), sports (play football), most countries, cities and continents (France, Paris, Africa), days, months and holidays (on Monday, in June, at Christmas), and in fixed expressions: at home, at work, at school, in bed, go to school, go to bed, by bus, by car."
+   ],
+   "tableau": {
+    "entetes": ["Wrong", "Right", "Why"],
+    "lignes": [
+     ["I like the music.", "I like music.", "general idea"],
+     ["The children love the chocolate.", "Children love chocolate.", "general idea: plural + uncountable"],
+     ["The English is useful.", "English is useful.", "language"],
+     ["I have the lunch at noon.", "I have lunch at noon.", "meal"],
+     ["He plays the tennis.", "He plays tennis.", "sport"],
+     ["She's at the home / at the work.", "She's at home / at work.", "fixed expression"],
+     ["I go to the work by the bus.", "I go to work by bus.", "fixed expressions"]
+    ]
+   },
+   "note": "Compare: “I like music” (music in general) / “I like the music in this film” (the specific music of this film)."
+  },
+  {
+   "titre": "Summary: a, the or nothing?",
+   "texte": [
+    "To choose, ask two questions. 1) Is it specific, known to both people, or unique? → the. 2) If not, is it a singular countable noun? → a / an. If not (plural or uncountable, in general) → no article.",
+    "“The” sounds like /ðə/ before a consonant sound (the book) and often /ði/ before a vowel sound (the apple), but many speakers today say /ðə/ everywhere."
+   ],
+   "exemples": [
+    ["There's a bank near here. The bank opens at nine.", "First a, then the."],
+    ["Dogs are friendly, but the dog next door is noisy.", "General vs specific."]
+   ]
+  }
+ ],
+ "formule": "a + consonant sound · an + vowel sound · the = specific / known / unique · Ø = general idea (plural, uncountable), meals, languages, sports, at home, by bus",
+ "prononciation": [
+  "“a” is almost always weak: /ə/ (a book /ə bʊk/). The strong form /eɪ/ is only for emphasis.",
+  "“an” joins the next word: an apple /ə ˈnæpl/, an hour /ə ˈnaʊə/.",
+  "“the”: /ðə/ before a consonant sound (the car), /ði/ before a vowel sound (the end). Strong form /ðiː/ for emphasis: “THE best”.",
+  "The /ð/ sound in “the”: tongue between the teeth, voice on. Don't say “ze” or “de”.",
+  "Don't drop the small /ə/ of “a”: “She's a nurse” has three syllables: /ʃiːz ə ˈnɜːs/."
+ ],
+ "erreurs": [
+  ["I like the dogs.", "I like dogs.", "General idea in the plural: no article."],
+  ["The life is beautiful.", "Life is beautiful.", "Uncountable in general: no article."],
+  ["She is doctor.", "She's a doctor.", "A job in the singular: a / an is necessary."],
+  ["a hour", "an hour", "Silent h: vowel sound → an."],
+  ["an university", "a university", "“university” starts with the sound /j/ → a."],
+  ["I speak the English.", "I speak English.", "No article before a language."],
+  ["He plays the football.", "He plays football.", "No article before a sport; but play the piano (instrument)."],
+  ["I'm at the home.", "I'm at home.", "Fixed expression with no article."]
+ ],
+ "dialogue": {
+  "contexte": "Two friends look for a restaurant in the evening in Brussels.",
+  "lignes": [
+   ["Yanis", "I'm hungry. Is there a good restaurant near here?", "a: any good restaurant."],
+   ["Laura", "Yes, there's an Italian restaurant and a Cameroonian restaurant on the next street.", "an before the vowel sound of Italian."],
+   ["Yanis", "I love Cameroonian food! Is the Cameroonian restaurant expensive?", "food in general: no article; then the (second mention)."],
+   ["Laura", "No, it isn't. And the owner is very friendly. She's a chef from Douala.", "a + job."],
+   ["Yanis", "Great. What time does it close?", "A timetable question."],
+   ["Laura", "At eleven. We've got an hour and a half.", "an hour: silent h."],
+   ["Yanis", "Perfect. I usually have dinner at home, so this is a nice change!", "No article: dinner, at home."],
+   ["Laura", "Let's go by tram. The stop is just there.", "by tram: no article; the stop: clear in the situation."]
+  ]
+ },
+ "mots": [
+  ["umbrella", "Take an umbrella. It's raining.", "a thing that protects you from rain"],
+  ["hour", "The film is two hours long.", "60 minutes"],
+  ["university", "She studies at a university in Ghent.", "a place for higher education"],
+  ["owner", "The owner of the shop is my uncle.", "a person who owns something"],
+  ["sun", "The sun is shining.", "the star that gives us light and heat"],
+  ["world", "It's the biggest city in the world.", "the Earth and all its countries"],
+  ["breakfast", "I have breakfast at seven.", "the first meal of the day"],
+  ["lunch", "What do you eat for lunch?", "the meal in the middle of the day"],
+  ["dinner", "We have dinner at eight.", "the main meal in the evening"],
+  ["piano", "My son plays the piano.", "a big musical instrument with black and white keys"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. A or an?",
+   "consigne": "Complete with a or an.",
+   "items": [
+    ["___ orange", "an"],
+    ["___ hour", "an"],
+    ["___ university", "a"],
+    ["___ old car", "an"],
+    ["___ European country", "a"],
+    ["___ honest answer", "an"]
+   ]
+  },
+  {
+   "titre": "2. A, an, the or nothing?",
+   "consigne": "Complete with a, an, the or Ø (no article).",
+   "items": [
+    ["My father is ___ architect.", "an"],
+    ["I've got a sister and a brother. ___ sister lives in Lille.", "The"],
+    ["___ moon is very bright tonight.", "The"],
+    ["I don't like ___ coffee.", "Ø"],
+    ["She plays ___ violin.", "the"],
+    ["We go to work by ___ bus.", "Ø"]
+   ]
+  },
+  {
+   "titre": "3. General or specific?",
+   "consigne": "Choose the right sentence.",
+   "items": [
+    ["(Cats / The cats) are independent animals.", "Cats"],
+    ["(Music / The music) in this café is too loud.", "The music"],
+    ["(English / The English) is an international language.", "English"],
+    ["(Water / The water) in this bottle is cold.", "The water"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["My mother is nurse.", "My mother is a nurse."],
+    ["I have the lunch at one o'clock.", "I have lunch at one o'clock."],
+    ["The life is short.", "Life is short."],
+    ["We study at an university in Liège.", "We study at a university in Liège."],
+    ["She's at the work now.", "She's at work now."]
+   ]
+  },
+  {
+   "titre": "5. Complete the sentence",
+   "consigne": "Complete each sentence with a, an, the or Ø, and write the whole sentence.",
+   "items": [
+    ["I like ___ sport and ___ music.", "I like sport and music. (US: sports)"],
+    ["My brother is ___ engineer.", "My brother is an engineer."],
+    ["Close ___ door, please.", "Close the door, please."],
+    ["She goes to ___ school by ___ bike.", "She goes to school by bike."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write four sentences about you: your job (a / an), something you like in general (no article), something specific in your home (the), and a habit with a fixed expression (at home, by bus…).",
+   "items": [
+    ["Example answer", "I'm an accountant. I love books and good coffee. The kitchen in my flat is very small. I usually go to work by train, and I have dinner at home."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "a + consonant sound, an + vowel sound: a university, an hour.",
+  "a / an: one of many, first mention, job (She's a nurse), frequency (twice a week).",
+  "the: already known, made specific, unique, instruments (play the piano).",
+  "No article for general ideas: I like cats, Life is short, Coffee is good.",
+  "No article: meals, languages, sports, at home, at work, go to bed, by bus."
+ ],
+ "liens": [1, 12, 13, 16, 31],
+ "refs": ["bc-articles", "bc-articles-zero"]
+}

@@ -1,0 +1,203 @@
+{
+ "n": 60,
+ "niveau": "A2",
+ "titre": "Something, anything, nothing, someone…",
+ "intro": "Something, nothing, someone, nobody, somewhere, nowhere, everyone… English builds these words with some-, any-, no- and every-, with the same rules as some and any (lesson 31). You need them in everyday conversation.",
+ "objectifs": [
+  "Build and understand the words with some-, any-, no-, every- (+ thing, one / body, where).",
+  "Choose between some- (positive, offers), any- (negatives, questions) and no- (negative meaning with a positive verb).",
+  "Avoid double negatives: I don't know anything / I know nothing, never “I don't know nothing”.",
+  "Put an adjective or “else” after these words (something nice, someone else) and use a singular verb."
+ ],
+ "sections": [
+  {
+   "titre": "The table of words",
+   "texte": [
+    "Combine some-, any-, no-, every- with -thing (a thing), -one or -body (a person) and -where (a place). “-one” and “-body” mean exactly the same; “-body” is a little more informal.",
+    "“No one” is two words (sometimes “no-one” in British English). The others are one word: someone, anybody, nothing, everywhere."
+   ],
+   "tableau": {
+    "entetes": ["", "-thing (thing)", "-one / -body (person)", "-where (place)"],
+    "lignes": [
+     ["some-", "something", "someone / somebody", "somewhere"],
+     ["any-", "anything", "anyone / anybody", "anywhere"],
+     ["no-", "nothing", "no one / nobody", "nowhere"],
+     ["every-", "everything", "everyone / everybody", "everywhere"]
+    ]
+   }
+  },
+  {
+   "titre": "Some- or any-?",
+   "texte": [
+    "Use “some-” in positive sentences: There's someone at the door. I want to eat something. Also use it in questions when you offer or ask for something and expect “yes”: Would you like something to drink? Can someone help me?",
+    "Use “any-” in negative sentences (with not / n't) and in most questions: I can't see anything. Is anyone there? Did you go anywhere at the weekend?"
+   ],
+   "exemples": [
+    ["I've got something for you.", "Positive: some-."],
+    ["Would you like something to eat?", "An offer: some-."],
+    ["I don't know anyone in this city.", "Negative: any-."],
+    ["Is there anything in the fridge?", "Question: any-."],
+    ["Let's go somewhere quiet.", "Positive: some-."]
+   ]
+  },
+  {
+   "titre": "No- and double negatives",
+   "texte": [
+    "“Nothing, no one, nobody, nowhere” already have a negative meaning. So the verb stays POSITIVE: I know nothing. Nobody called. Never say “I don't know nothing”: in standard English, two negatives are wrong.",
+    "So there are two ways to say the same thing: I can't see anything (more common in speaking) / I can see nothing (stronger, more written). As the subject of a sentence, only no- is possible: Nobody knows (never “Anybody doesn't know”).",
+    "“Nothing / nobody” can also be short answers: What's in the box? — Nothing. Who's there? — No one."
+   ],
+   "tableau": {
+    "entetes": ["Meaning", "With any- + not", "With no-"],
+    "lignes": [
+     ["zero things seen", "I can't see anything.", "I can see nothing."],
+     ["zero people here", "There isn't anyone.", "There's no one. / There's nobody."],
+     ["zero places to go", "We aren't going anywhere.", "We're going nowhere."],
+     ["zero people know (subject)", "—", "Nobody knows. / No one knows."]
+    ]
+   }
+  },
+  {
+   "titre": "Any- in positive sentences: “it doesn't matter which”",
+   "texte": [
+    "In a positive sentence, “any-” means “it doesn't matter which thing / person / place”: You can sit anywhere. Anyone can learn English.",
+    "“Every-” means “all”: everything, everyone, everywhere. Be careful: everyone / everybody takes a SINGULAR verb, even if the meaning is plural: Everyone is here."
+   ],
+   "exemples": [
+    ["Call me anytime.", "At any time (anytime: mostly US; UK: any time)."],
+    ["I'll eat anything. I'm so hungry!", "It doesn't matter what."],
+    ["Everybody loves this song.", "Singular verb: loves."],
+    ["There are flowers everywhere.", "In all places."]
+   ]
+  },
+  {
+   "titre": "Adjectives, else, and the pronouns after",
+   "texte": [
+    "The adjective goes AFTER these words, not before: something interesting, nothing new, somewhere warm. No “of”: don't say “something of interesting”.",
+    "“Else” means “other” or “more”, and also goes after: someone else, anything else?, everywhere else.",
+    "You can add “to + verb”: something to eat, nothing to do, somewhere to sleep.",
+    "To refer back to “someone, anyone, everyone”, people often use they / their: Someone left their umbrella. Is everyone ready? Have they got their tickets?"
+   ],
+   "exemples": [
+    ["Did you do anything special at the weekend?", "Adjective after anything."],
+    ["Anything else? — No, thank you.", "In a shop."],
+    ["There's nothing to do in this village.", "nothing + to + verb."],
+    ["Someone forgot their phone.", "someone → their."]
+   ]
+  }
+ ],
+ "formule": "some- (positive, offers) · any- (negatives, questions; “it doesn't matter which” in positives) · no- + positive verb · every- + singular verb · something + adjective / else / to + verb",
+ "prononciation": [
+  "“some-” sounds like /ˈsʌm/ (like “sum”): something /ˈsʌmθɪŋ/, someone /ˈsʌmwʌn/.",
+  "“any-” sounds like /ˈeni/: anything /ˈeniθɪŋ/.",
+  "“nothing” /ˈnʌθɪŋ/: the o sounds like /ʌ/ as in “mother”, not like “no”. But “nobody” /ˈnəʊbədi/ starts like “no”.",
+  "“everyone” /ˈevriwʌn/: three syllables, stress on EV-.",
+  "The /θ/ in -thing: tongue between the teeth. Don't say “somesing” or “someting”."
+ ],
+ "erreurs": [
+  ["I don't know nothing.", "I don't know anything. / I know nothing.", "No double negatives."],
+  ["Nobody don't know.", "Nobody knows.", "No- + positive verb."],
+  ["Everyone are here.", "Everyone is here.", "Every- + singular verb."],
+  ["I want something of good.", "I want something good.", "Adjective directly after, no of."],
+  ["There isn't somebody at home.", "There isn't anybody at home. / There's nobody at home.", "Negative sentence → any-."],
+  ["I didn't go nowhere.", "I didn't go anywhere. / I went nowhere.", "Only one negative."],
+  ["Anybody can't come.", "Nobody can come.", "Negative subject: nobody / no one."],
+  ["I'm looking for other someone.", "I'm looking for someone else.", "“Other person” = someone else."]
+ ],
+ "dialogue": {
+  "contexte": "Two colleagues arrive for a meeting at a company's offices in Lausanne.",
+  "lignes": [
+   ["Inès", "Hello? Is anyone here? The room is empty.", "Question: anyone."],
+   ["Marco", "No, nobody's here. Maybe the meeting is somewhere else.", "nobody + positive verb; somewhere else."],
+   ["Inès", "Did someone send an email about it?", "someone: she expects yes."],
+   ["Marco", "Let me check… No, there's nothing in my inbox.", "nothing."],
+   ["Inès", "Look, there's something on the table. It's a note.", "Positive: something."],
+   ["Marco", "It says: “Everyone is in room 4B. Coffee for everybody!”", "Everyone + is."],
+   ["Inès", "Great! I didn't have anything for breakfast.", "Negative: anything."],
+   ["Marco", "Me neither. Let's go. I hope there's something to eat too!", "something + to + verb."]
+  ]
+ },
+ "mots": [
+  ["something", "I've got something to tell you.", "a thing that you don't name exactly"],
+  ["anything", "Do you need anything?", "any thing (in questions and negatives)"],
+  ["nothing", "There's nothing in the box.", "not anything"],
+  ["someone", "Someone is calling you.", "a person you don't name"],
+  ["nobody", "Nobody answered the phone.", "no person"],
+  ["everyone", "Everyone likes her.", "all the people"],
+  ["somewhere", "I want to live somewhere warm.", "in or to a place you don't name"],
+  ["nowhere", "There's nowhere to park.", "not in or to any place"],
+  ["everywhere", "I looked everywhere for my keys.", "in all places"],
+  ["else", "Do you want anything else?", "other, more"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Some- or any-?",
+   "consigne": "Complete with something, anything, someone or anyone.",
+   "items": [
+    ["There's ___ at the door.", "someone"],
+    ["I didn't buy ___ at the market.", "anything"],
+    ["Would you like ___ to drink?", "something"],
+    ["Does ___ speak Japanese here?", "anyone"],
+    ["I want to tell you ___ important.", "something"],
+    ["I can't hear ___. It's very quiet.", "anything / anyone"]
+   ]
+  },
+  {
+   "titre": "2. With no-",
+   "consigne": "Rewrite the sentence with nothing, nobody or nowhere (same meaning).",
+   "items": [
+    ["I don't have anything to say.", "I have nothing to say. / I've got nothing to say."],
+    ["There isn't anyone in the office.", "There's nobody in the office. / There's no one in the office."],
+    ["We didn't go anywhere last summer.", "We went nowhere last summer."],
+    ["She doesn't know anything about it.", "She knows nothing about it."]
+   ]
+  },
+  {
+   "titre": "3. Every-, else, adjective",
+   "consigne": "Complete with the right word.",
+   "items": [
+    ["___ is ready. Let's start! (all the people)", "Everyone / Everybody"],
+    ["Do you want anything ___? (more, other)", "else"],
+    ["I want to watch something ___. (it makes you laugh)", "funny"],
+    ["I looked ___ for my glasses. (in all places)", "everywhere"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I didn't see nobody.", "I didn't see anybody. / I saw nobody."],
+    ["Everybody know the answer.", "Everybody knows the answer."],
+    ["Is there something of interesting on TV?", "Is there anything interesting on TV?"],
+    ["Anyone doesn't like him.", "Nobody likes him. / No one likes him."],
+    ["Can you ask other someone?", "Can you ask someone else?"]
+   ]
+  },
+  {
+   "titre": "5. Write the sentence",
+   "consigne": "Write one sentence for each idea, with a word from the lesson.",
+   "items": [
+    ["No person is perfect.", "Nobody is perfect. / No one is perfect."],
+    ["It doesn't matter which seat you take.", "You can sit anywhere."],
+    ["The fridge is empty.", "There's nothing to eat. / There isn't anything to eat."],
+    ["You want to travel to a sunny place (you don't know which one).", "I'd like to go somewhere sunny."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write five sentences about your weekend or your week with at least five different words from the lesson (one with no- and one with else or an adjective).",
+   "items": [
+    ["Example answer", "On Saturday I didn't go anywhere. I stayed at home and did nothing special. In the evening, someone from my family called me. On Sunday we went somewhere new: a small restaurant by the river. Everyone loved it."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "some- (positive, offers), any- (negatives, questions), no- (positive verb), every- (all).",
+  "No double negatives: I don't know anything / I know nothing.",
+  "Negative subject: Nobody knows, Nothing happened.",
+  "Adjective, else or to + verb after: something new, someone else, nothing to do.",
+  "everyone / everybody + singular verb; refer back with they / their."
+ ],
+ "liens": [31, 58, 67, 70],
+ "refs": ["bc-a1a2", "cam-nouns"]
+}

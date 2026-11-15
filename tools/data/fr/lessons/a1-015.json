@@ -1,0 +1,211 @@
+{
+ "n": 15,
+ "niveau": "A1",
+ "titre": "Le génitif ’s (Paul’s car)",
+ "intro": "Pour dire « la voiture de Paul », l'anglais dit « Paul's car » : le possesseur vient d'abord, suivi de 's, puis l'objet. Cette construction, appelée génitif ou possessif en 's, est indispensable pour parler de la famille, des amis et de ce qui leur appartient.",
+ "objectifs": [
+  "Construire le génitif : possesseur + 's + chose possédée, dans le bon ordre.",
+  "Placer l'apostrophe correctement au singulier, au pluriel en -s (my parents') et aux pluriels irréguliers (children's).",
+  "Utiliser le génitif sans nom après (at Marie's, at the doctor's).",
+  "Choisir entre « 's » (personnes, animaux, temps) et « of » (choses)."
+ ],
+ "sections": [
+  {
+   "titre": "La construction : l'ordre est inversé",
+   "texte": [
+    "En français, on dit « la voiture de Paul » : objet + de + possesseur. En anglais, on inverse : possesseur + 's + objet → Paul's car. Il n'y a pas d'article devant l'objet : on ne dit pas « the Paul's car ».",
+    "Le possesseur peut être un prénom, un nom de famille, ou un nom commun précédé de son déterminant : my sister's room (la chambre de ma sœur), the teacher's desk (le bureau du professeur), our neighbour's dog."
+   ],
+   "tableau": {
+    "entetes": ["Français", "Anglais", "Ordre"],
+    "lignes": [
+     ["la voiture de Paul", "Paul's car", "Paul + 's + car"],
+     ["le mari d'Anna", "Anna's husband", "Anna + 's + husband"],
+     ["la chambre de ma sœur", "my sister's room", "my sister + 's + room"],
+     ["le chien de nos voisins", "our neighbours' dog", "our neighbours + ' + dog"],
+     ["les jouets des enfants", "the children's toys", "the children + 's + toys"]
+    ]
+   },
+   "exemples": [
+    ["This is Karim's bike.", "C'est le vélo de Karim."],
+    ["My mother's name is Odile.", "Ma mère s'appelle Odile (le nom de ma mère est…)."],
+    ["Is that the manager's office?", "C'est le bureau du directeur ?"]
+   ]
+  },
+  {
+   "titre": "Où mettre l'apostrophe ?",
+   "texte": [
+    "Singulier : on ajoute 's → the boy's bag (le sac du garçon).",
+    "Pluriel régulier en -s : on ajoute seulement l'apostrophe après le s → the boys' bags (les sacs des garçons), my parents' house (la maison de mes parents). À l'oral, boy's, boys et boys' se prononcent de la même façon : c'est le contexte qui aide.",
+    "Pluriel irrégulier sans -s (children, men, women, people) : on ajoute 's → the children's room, women's rights, people's opinions.",
+    "Prénom terminé par s : les deux formes existent : James's car ou James' car. « James's » est plus courant en anglais britannique moderne."
+   ],
+   "tableau": {
+    "entetes": ["Possesseur", "Règle", "Exemple"],
+    "lignes": [
+     ["singulier", "+ 's", "my brother's flat (un frère)"],
+     ["pluriel en -s", "+ '", "my brothers' flat (plusieurs frères)"],
+     ["pluriel irrégulier", "+ 's", "the men's team, the children's toys"],
+     ["nom en -s", "+ 's ou '", "Thomas's phone / Thomas' phone"]
+    ]
+   }
+  },
+  {
+   "titre": "Deux possesseurs, et le génitif sans nom",
+   "texte": [
+    "Quand deux personnes possèdent la même chose ensemble, on met 's seulement après la deuxième : Paul and Marie's flat (l'appartement qu'ils partagent). Si chacun a la sienne, on met 's aux deux : Paul's and Marie's cars.",
+    "On peut supprimer le nom après le génitif quand il est évident : Whose bag is this? — It's Ana's (C'est celui d'Ana). Avec les lieux, l'usage est très courant : at my aunt's (chez ma tante, = at my aunt's house), at the doctor's (chez le médecin), at the hairdresser's (chez le coiffeur), the baker's (la boulangerie)."
+   ],
+   "exemples": [
+    ["We're having dinner at Julie's tonight.", "Nous dînons chez Julie ce soir."],
+    ["I've got an appointment at the dentist's.", "J'ai rendez-vous chez le dentiste."],
+    ["Whose keys are these? — They're Omar's.", "À qui sont ces clés ? — Ce sont celles d'Omar."],
+    ["Tom and Lisa's wedding is in June.", "Le mariage de Tom et Lisa est en juin (un seul mariage)."]
+   ],
+   "note": "« Whose? » (à qui ?) est la question du génitif : Whose phone is this? Ne le confonds pas avec « Who's » (= who is), qui se prononce de la même façon."
+  },
+  {
+   "titre": "'s ou of ?",
+   "texte": [
+    "On utilise surtout 's avec les personnes, les animaux, les pays, les organisations et les expressions de temps : my friend's car, the cat's food, Canada's capital, the company's results, today's newspaper, a week's holiday.",
+    "Avec les choses, on utilise plutôt « the … of … » : the end of the film (la fin du film), the name of the street (le nom de la rue), the door of the car. Pour certaines combinaisons fréquentes, on utilise aussi un nom devant un nom : the car door, the street name.",
+    "Avec un possesseur long (plusieurs mots), « of » est aussi plus naturel : the house of the family next door (plutôt que the family next door's house)."
+   ],
+   "tableau": {
+    "entetes": ["Possesseur", "Forme conseillée", "Exemple"],
+    "lignes": [
+     ["personne, animal", "'s", "my aunt's garden, the dog's bed"],
+     ["temps", "'s", "today's meeting, next week's exam"],
+     ["chose", "of / nom + nom", "the top of the page, the kitchen window"],
+     ["groupe long", "of", "the name of the woman in the red dress"]
+    ]
+   }
+  },
+  {
+   "titre": "Le piège du 's : is, has ou possessif ?",
+   "texte": [
+    "Les lettres 's peuvent avoir trois sens : « is » (She's French), « has » (She's got a car) ou le génitif (Sophie's car). Pour savoir lequel, regarde ce qui suit : un nom → génitif ; un adjectif, un nom avec article ou un -ing → is ; got → has.",
+    "Il ne faut pas non plus confondre le génitif avec le pluriel : « my friends » (mes amis, pas d'apostrophe), « my friend's car » (la voiture de mon ami)."
+   ],
+   "exemples": [
+    ["Marc's tired. → Marc is tired.", "'s + adjectif = is."],
+    ["Marc's car is new.", "'s + nom = génitif."],
+    ["Marc's got a new car. → Marc has got a new car.", "'s + got = has."]
+   ]
+  }
+ ],
+ "formule": "possesseur + 's + nom (Paul's car) · pluriel en -s + ' (my parents' house) · pluriel irrégulier + 's (children's toys)",
+ "prononciation": [
+  "Le 's se prononce comme le -s du pluriel : /s/ après p, t, k, f (Pat's /pæts/), /z/ après une voyelle ou un son sonore (Paul's /pɔːlz/), /ɪz/ après s, z, sh, ch, j (Alice's /ˈælɪsɪz/, George's /ˈdʒɔːdʒɪz/).",
+  "« parents' » se prononce exactement comme « parents » : /ˈpeərənts/. L'apostrophe ne s'entend pas.",
+  "« James's » se prononce /ˈdʒeɪmzɪz/, avec une syllabe en plus ; « James' » se prononce généralement /dʒeɪmz/.",
+  "« Whose » et « who's » se prononcent tous deux /huːz/.",
+  "Dans « at the doctor's », l'accent tombe sur DOC- : /ət ðə ˈdɒktəz/."
+ ],
+ "erreurs": [
+  ["the car of Paul", "Paul's car", "Avec une personne, on utilise le génitif 's."],
+  ["the Paul's car", "Paul's car", "Pas d'article devant le nom possédé."],
+  ["my parent's house (deux parents)", "my parents' house", "Pluriel en -s : apostrophe après le s."],
+  ["the childrens' toys", "the children's toys", "Pluriel irrégulier : + 's."],
+  ["the film's end", "the end of the film", "Avec une chose, on préfère « of »."],
+  ["Paul's and Marie's flat (ils le partagent)", "Paul and Marie's flat", "Possession commune : 's seulement après le deuxième nom."],
+  ["Who's bag is this?", "Whose bag is this?", "« À qui ? » = whose."],
+  ["My friend's are nice.", "My friends are nice.", "Un simple pluriel n'a pas d'apostrophe."]
+ ],
+ "dialogue": {
+  "contexte": "Après une fête dans un appartement à Bruxelles, deux amis rangent et trouvent des objets oubliés.",
+  "lignes": [
+   ["Lina", "Whose jacket is this? It's on the sofa.", "À qui est cette veste ? Elle est sur le canapé."],
+   ["Hugo", "I think it's Yannick's. He's always got a black jacket.", "Je crois que c'est celle de Yannick. Il a toujours une veste noire."],
+   ["Lina", "And these keys? Are they your brother's?", "Et ces clés ? Ce sont celles de ton frère ?"],
+   ["Hugo", "No, they're my parents'. They're for their car. My mum's going to call me, I'm sure!", "Non, ce sont celles de mes parents. Elles sont pour leur voiture. Ma mère va m'appeler, j'en suis sûr !"],
+   ["Lina", "Ha ha. And look, the children's drawings are on the table.", "Ha ha. Et regarde, les dessins des enfants sont sur la table."],
+   ["Hugo", "Those are my sister's kids. They're at my aunt's tonight.", "Ce sont les enfants de ma sœur. Ils sont chez ma tante ce soir."],
+   ["Lina", "OK. Is the last piece of cake for anyone?", "D'accord. Le dernier morceau de gâteau est pour quelqu'un ?"],
+   ["Hugo", "Yes! It's for Mariam and Léo's little girl. It's her favourite.", "Oui ! C'est pour la petite fille de Mariam et Léo. C'est son préféré."]
+  ]
+ },
+ "mots": [
+  ["whose", "Whose phone is this?", "à qui, dont"],
+  ["neighbour", "My neighbour's dog is very noisy.", "le voisin, la voisine (US : neighbor)"],
+  ["aunt", "We're at my aunt's.", "la tante"],
+  ["uncle", "My uncle's farm is in Bafang.", "l'oncle"],
+  ["cousin", "My cousin's wedding is on Saturday.", "le cousin, la cousine"],
+  ["grandmother", "My grandmother's cooking is the best.", "la grand-mère"],
+  ["boss", "Is that your boss's office?", "le ou la chef, le patron, la patronne"],
+  ["wedding", "Tom and Lisa's wedding is in June.", "le mariage (la cérémonie)"],
+  ["dentist", "I've got an appointment at the dentist's.", "le ou la dentiste"],
+  ["belong to", "This bag belongs to Ana.", "appartenir à"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Construire le génitif",
+   "consigne": "Récris avec le génitif 's.",
+   "items": [
+    ["the car of my father", "my father's car"],
+    ["the room of Léa", "Léa's room"],
+    ["the bikes of the children", "the children's bikes"],
+    ["the house of my grandparents", "my grandparents' house"],
+    ["the office of the boss", "the boss's office"],
+    ["the name of the dog", "the dog's name"]
+   ]
+  },
+  {
+   "titre": "2. Où va l'apostrophe ?",
+   "consigne": "Ajoute l'apostrophe au bon endroit.",
+   "items": [
+    ["my sisters bag (une sœur)", "my sister's bag"],
+    ["my sisters bags (deux sœurs)", "my sisters' bags"],
+    ["the womens team", "the women's team"],
+    ["the students books (plusieurs élèves)", "the students' books"]
+   ]
+  },
+  {
+   "titre": "3. 's ou of ?",
+   "consigne": "Choisis la forme la plus naturelle.",
+   "items": [
+    ["(the end of the story / the story's end)", "the end of the story"],
+    ["(the phone of my brother / my brother's phone)", "my brother's phone"],
+    ["(today's newspaper / the newspaper of today)", "today's newspaper"],
+    ["(the top of the page / the page's top)", "the top of the page"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["The Marie's flat is very nice.", "Marie's flat is very nice."],
+    ["Who's coat is this?", "Whose coat is this?"],
+    ["My parent's car is red. (mes deux parents)", "My parents' car is red."],
+    ["The mens room is on the left.", "The men's room is on the left."],
+    ["This is the computer of Anna.", "This is Anna's computer."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["C'est la femme de mon frère.", "She's my brother's wife. / This is my brother's wife."],
+    ["Je dors chez ma cousine ce soir.", "I'm sleeping at my cousin's tonight."],
+    ["Les jouets des enfants sont dans le jardin.", "The children's toys are in the garden."],
+    ["À qui est ce sac ? — C'est celui de Fatou.", "Whose bag is this? — It's Fatou's."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris quatre phrases sur ta famille ou tes amis avec le génitif : le métier ou le nom de quelqu'un, une chose qui appartient à quelqu'un, un lieu (at my…'s), et une phrase avec un pluriel (my parents').",
+   "items": [
+    ["Exemple de réponse", "My sister's name is Inès. My best friend's car is a small red Fiat. On Sundays we have lunch at my grandmother's. My parents' house is near the river."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Possesseur + 's + objet, sans article : Paul's car, my sister's room.",
+  "Pluriel en -s → ' (my parents' house) ; pluriel irrégulier → 's (children's, women's).",
+  "Sans nom après : It's Ana's ; at my aunt's, at the doctor's.",
+  "'s pour les personnes, animaux, temps ; of pour les choses (the end of the film).",
+  "Whose? = à qui ? ≠ who's (= who is)."
+ ],
+ "liens": [10, 12, 14, 23, 63],
+ "refs": ["bc-possessive-s", "cam-nouns"]
+}

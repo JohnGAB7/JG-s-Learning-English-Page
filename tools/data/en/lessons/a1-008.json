@@ -1,0 +1,217 @@
+{
+ "n": 8,
+ "niveau": "A1",
+ "titre": "The present continuous",
+ "intro": "The present continuous (be + verb-ing) describes what is happening now, or around now for a short time. Many languages use one present tense for this; English uses a different form, and this lesson shows you when.",
+ "objectifs": [
+  "Make the present continuous: am / is / are + verb-ing, in all forms.",
+  "Use the spelling rules for -ing (making, running, lying).",
+  "Use the present continuous for actions happening now, temporary situations and changes.",
+  "Know the signal words: now, at the moment, today, this week, Look!, Listen!"
+ ],
+ "sections": [
+  {
+   "titre": "The form: be + verb-ing",
+   "texte": [
+    "Make the present continuous with “to be” in the present (am, is, are) + the verb with -ing. All the rules of “to be” from lessons 1 and 4 work here: short forms, negatives with not, questions with a change of order, short answers with be.",
+    "The -ing verb never changes with the subject: only “be” changes."
+   ],
+   "tableau": {
+    "entetes": ["", "Example", "Note"],
+    "lignes": [
+     ["Positive", "I'm working. / She's working. / They're working.", "be + -ing"],
+     ["Negative", "I'm not working. / He isn't working. / We aren't working.", "be + not + -ing"],
+     ["Question", "Are you working? / Is she working?", "be before the subject"],
+     ["Short answer", "Yes, I am. / No, she isn't.", "be only"],
+     ["Wh- question", "What are you doing? / Where is he going?", "Wh- + be + subject + -ing"]
+    ]
+   },
+   "exemples": [
+    ["I'm cooking dinner.", "An action now."],
+    ["They aren't listening.", "Negative."],
+    ["What are you reading? — A novel.", "Wh- question."]
+   ]
+  },
+  {
+   "titre": "Spelling of -ing",
+   "texte": [
+    "Most verbs just add -ing. Three rules change the spelling.",
+    "Double the last letter in one-syllable verbs that end in consonant + vowel + consonant (run, sit, stop), and in two-syllable verbs stressed on the last syllable (beGIN → beginning). Don't double w, x or y: snow → snowing, fix → fixing, play → playing."
+   ],
+   "tableau": {
+    "entetes": ["Rule", "Examples"],
+    "lignes": [
+     ["most verbs: + ing", "work → working, eat → eating, play → playing, study → studying"],
+     ["silent e at the end: remove it", "make → making, write → writing, come → coming, dance → dancing"],
+     ["consonant + vowel + consonant: double", "run → running, sit → sitting, swim → swimming, stop → stopping, begin → beginning"],
+     ["-ie → -ying", "lie → lying, die → dying, tie → tying"],
+     ["-ee: keep everything", "see → seeing, agree → agreeing"]
+    ]
+   },
+   "note": "British / American: travel → travelling (UK) / traveling (US). British English doubles a final l even when the stress is not on the last syllable."
+  },
+  {
+   "titre": "Use 1: what is happening now",
+   "texte": [
+    "The first use is an action happening at the moment of speaking. Here the present continuous is necessary: “I eat” is wrong for this moment.",
+    "Signal words: now, right now, at the moment, at present. “Look!” and “Listen!” show an action that is happening."
+   ],
+   "exemples": [
+    ["Sorry, I can't talk. I'm driving.", "Happening now."],
+    ["Look! It's raining.", "Look! + action now."],
+    ["Listen! Someone is knocking at the door.", "Listen! + action now."],
+    ["The children are sleeping right now.", "right now."]
+   ]
+  },
+  {
+   "titre": "Use 2: a temporary situation around now",
+   "texte": [
+    "The present continuous also describes an activity that continues for some time around now, even if you are not doing it at this second. The idea is “in this period of my life, for a limited time”.",
+    "Signal words: today, this week, this month, this year, these days, currently.",
+    "Compare: “I live in Lyon” (present simple: my permanent situation) / “I'm living in Lyon this year” (present continuous: temporary)."
+   ],
+   "exemples": [
+    ["I'm reading a very good book this week.", "Not necessarily at this moment."],
+    ["She's working from home today.", "Usually she doesn't."],
+    ["We're learning Spanish this year.", "A temporary project."]
+   ]
+  },
+  {
+   "titre": "Use 3: a change in progress",
+   "texte": [
+    "Use the present continuous for a situation that is slowly changing, often with verbs like get (become), become, change, grow, increase, improve.",
+    "This tense can also talk about future plans that are already arranged (I'm meeting Paul tomorrow). You will study this use in lesson 50. For now, just know that it exists."
+   ],
+   "exemples": [
+    ["It's getting cold.", "The temperature is going down."],
+    ["Your English is improving!", "It is getting better."],
+    ["Prices are going up.", "A change."]
+   ]
+  },
+  {
+   "titre": "Verbs that don't take -ing",
+   "texte": [
+    "Some verbs describe a state, not an action: like, love, hate, want, need, know, understand, believe, remember, own, belong. Use them in the present simple, even for now: I want a coffee now (not “I'm wanting”). Lesson 9 explains this and compares the two present tenses.",
+    "“Have” for possession follows the same rule (I have a car), but “have” for an action can take -ing: I'm having lunch."
+   ],
+   "exemples": [
+    ["I don't understand. ✓ / I'm not understanding. ✗", "State verb: present simple."],
+    ["She's having a shower. ✓", "“have” = an action: -ing is possible."]
+   ]
+  }
+ ],
+ "formule": "subject + am / is / are (+ not) + verb-ing · Am / Is / Are + subject + verb-ing?",
+ "prononciation": [
+  "-ing is /ɪŋ/: a short i and a nasal sound at the back of the mouth, with no hard g at the end.",
+  "In informal speech you often hear /ɪn/ (“workin'”): understand it, but don't write it.",
+  "Short forms join the subject: I'm /aɪm/, she's /ʃiːz/, they're /ðeə/. In the sentence, stress the -ing verb: I'm WORking.",
+  "In “What are you doing?”, “are” is weak: /wɒt ə jə ˈduːɪŋ/. Informally it can sound like “Whatcha doing?”.",
+  "Doubled verbs keep a short sound: running /ˈrʌnɪŋ/ (short u). Compare writing /ˈraɪtɪŋ/ (long i)."
+ ],
+ "erreurs": [
+  ["I working now.", "I'm working now.", "The present continuous needs “be”."],
+  ["Look! It rains.", "Look! It's raining.", "Action happening now → present continuous."],
+  ["She is writeing a letter.", "She is writing a letter.", "Remove the silent e before -ing."],
+  ["They are runing.", "They are running.", "Consonant + vowel + consonant: double the consonant."],
+  ["Do you working today?", "Are you working today?", "Questions use be, not do."],
+  ["I'm wanting a coffee.", "I want a coffee.", "“Want” is a state verb: present simple."],
+  ["He is lieing.", "He is lying.", "-ie becomes -ying."]
+ ],
+ "dialogue": {
+  "contexte": "On a Saturday afternoon, Malik, in Brussels, calls his sister Inès in Toulouse.",
+  "lignes": [
+   ["Malik", "Hi, Inès! What are you doing?", "Wh- question, present continuous."],
+   ["Inès", "Hi! I'm sitting in a café with Zoé. We're having a hot chocolate.", "sitting: double t; having = drinking (action)."],
+   ["Malik", "Nice! It's raining here. Is it raining in Toulouse?", "Weather now."],
+   ["Inès", "No, it isn't. The sun is shining. Are you working today?", "Short answer with be."],
+   ["Malik", "No, I'm not. I'm painting my new flat this weekend.", "A temporary activity: this weekend."],
+   ["Inès", "Wow! Is Sami helping you?", "Question with is."],
+   ["Malik", "Yes, he is, but he's sleeping on the sofa right now!", "right now."],
+   ["Inès", "Ha ha! Typical Sami. Send me a photo!", "Imperative."]
+  ]
+ },
+ "mots": [
+  ["now", "I'm busy now.", "at this time"],
+  ["at the moment", "She's working at the moment.", "now"],
+  ["wait", "I'm waiting for the bus.", "stay until someone or something comes"],
+  ["rain", "It's raining again.", "when water falls from the sky"],
+  ["wear", "He's wearing a blue shirt.", "have clothes on your body"],
+  ["look", "Look! The baby is smiling.", "turn your eyes to see something"],
+  ["listen", "Listen! The birds are singing.", "pay attention to a sound"],
+  ["sit", "We're sitting in the garden.", "rest on a chair or on the ground"],
+  ["cook", "Dad is cooking dinner.", "make food hot and ready to eat"],
+  ["improve", "Your English is improving.", "get better"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Spelling of -ing",
+   "consigne": "Write the -ing form.",
+   "items": [
+    ["make", "making"],
+    ["swim", "swimming"],
+    ["play", "playing"],
+    ["lie", "lying"],
+    ["write", "writing"],
+    ["stop", "stopping"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb in the present continuous.",
+   "items": [
+    ["Be quiet! The baby ___ (sleep).", "is sleeping"],
+    ["We ___ (not / watch) TV. You can turn it off.", "aren't watching"],
+    ["___ you ___ (wait) for the bus?", "Are … waiting"],
+    ["Look! Those men ___ (run) to the station.", "are running"],
+    ["I ___ (study) for an exam this week.", "am studying / 'm studying"]
+   ]
+  },
+  {
+   "titre": "3. Questions and short answers",
+   "consigne": "Write the question in the present continuous, then the short answer shown.",
+   "items": [
+    ["you / work / today? (no)", "Are you working today? — No, I'm not."],
+    ["it / rain / in Brussels? (yes)", "Is it raining in Brussels? — Yes, it is."],
+    ["your parents / travel / this month? (yes)", "Are your parents travelling this month? — Yes, they are."],
+    ["Léo / listen? (no)", "Is Léo listening? — No, he isn't."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["She cooking dinner now.", "She's cooking dinner now. / She is cooking dinner now."],
+    ["Listen! Someone sings.", "Listen! Someone is singing."],
+    ["Do you waiting for me?", "Are you waiting for me?"],
+    ["I'm knowing the answer.", "I know the answer."],
+    ["They are siting in the garden.", "They are sitting in the garden."]
+   ]
+  },
+  {
+   "titre": "5. Describe the situation",
+   "consigne": "Write one sentence in the present continuous for each situation.",
+   "items": [
+    ["You look out of the window. You see snow falling. (Look!)", "Look! It's snowing."],
+    ["Your friend asks about your activity now. You have a book in your hands.", "What are you doing? — I'm reading."],
+    ["This week your sister doesn't go to the office. (from home)", "She's working from home this week."],
+    ["The temperature is going up. (get / hot)", "It's getting hot."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write four sentences in the present continuous: what you are doing now, what a person near you is doing, a temporary project this week or month, and a change in progress.",
+   "items": [
+    ["Example answer", "I'm sitting at my desk and I'm doing this exercise. My son is playing in the garden. This month I'm learning to drive. It's getting dark outside."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "am / is / are + verb-ing. Negative with not; question with be first (never do).",
+  "Spelling: making (no e), running (double consonant), lying (-ie → -y).",
+  "Uses: action now (now, Look!), temporary situation (this week), change (It's getting cold).",
+  "State verbs (want, know, like, understand): present simple, no -ing.",
+  "“I eat” = habit; “I'm eating” = now. You must choose."
+ ],
+ "liens": [1, 4, 6, 9, 50],
+ "refs": ["bc-a1a2", "cam-verbs"]
+}

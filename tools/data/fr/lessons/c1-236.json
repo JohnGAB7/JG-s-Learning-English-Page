@@ -1,0 +1,458 @@
+{
+ "n": 236,
+ "niveau": "C1",
+ "titre": "Les verbes de rapport et leur nuance (claim, argue, concede)",
+ "intro": "Rapporter ce qu'un auteur ou un témoin a dit, c'est aussi prendre position : « Diallo shows that… » (c'est établi), « Diallo claims that… » (j'en doute), « Diallo concedes that… » (il reconnaît un point faible). Au niveau C1, le choix du verbe de rapport est un outil d'analyse critique, en recherche comme dans la presse.",
+ "objectifs": [
+  "Classer les verbes de rapport selon la position de l'auteur cité et celle de la personne qui rapporte (neutre, accord, prudence, distance, concession, désaccord).",
+  "Maîtriser leurs constructions : claim + to / that, deny + -ing, accuse sb of, dismiss sth as, argue for / against.",
+  "Choisir le temps et la voix adaptés (Smith argues… ; the minister claimed… ; it has been argued that…).",
+  "Éviter les faux amis : pretend ≠ prétendre, refute ≠ réfuter au sens faible."
+ ],
+ "sections": [
+  {
+   "titre": "Rapporter, c'est évaluer",
+   "texte": [
+    "Les verbes de rapport transmettent deux informations : ce que la source dit, et ce que le rédacteur pense de cette affirmation. « The report shows that unemployment fell » présente la baisse comme un fait ; « The report claims that unemployment fell » invite le lecteur à en douter.",
+    "Dans un essai, une revue de littérature ou un article de presse, varier les verbes ne sert pas seulement à éviter la répétition de « say » : chaque verbe positionne votre texte par rapport à la source."
+   ],
+   "exemples": [
+    [
+     "Ngo (2021) demonstrates that the treatment reduces pain.",
+     "« Demonstrate » : le rédacteur accepte le résultat."
+    ],
+    [
+     "The company claims that its product is entirely natural.",
+     "« Claim » : le rédacteur prend ses distances."
+    ]
+   ]
+  },
+  {
+   "titre": "Les familles de verbes selon la nuance",
+   "texte": [
+    "Classez les verbes par ce qu'ils disent de la source et de votre point de vue. Les plus importants à maîtriser au niveau C1 sont claim, argue, maintain, suggest, acknowledge, concede, dispute et dismiss."
+   ],
+   "tableau": {
+    "entetes": [
+     "Nuance",
+     "Verbes",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Neutre",
+      "state, report, note, observe, describe, mention",
+      "The author notes that few women were interviewed."
+     ],
+     [
+      "Accord du rédacteur (fait établi)",
+      "show, demonstrate, establish, reveal, confirm, point out",
+      "As Kamga points out, the data are incomplete."
+     ],
+     [
+      "Prudence de la source",
+      "suggest, propose, hypothesise, speculate, imply",
+      "The authors suggest that diet may play a role."
+     ],
+     [
+      "Position forte de la source",
+      "argue, maintain, contend, assert, insist, emphasise",
+      "Lee maintains that the reform has failed."
+     ],
+     [
+      "Distance du rédacteur (doute)",
+      "claim, allege, purport (to)",
+      "He claims to have invented the method."
+     ],
+     [
+      "Concession",
+      "concede, acknowledge, admit, grant, accept",
+      "She concedes that the sample was small."
+     ],
+     [
+      "Désaccord",
+      "dispute, question, challenge, reject, deny, dismiss, refute",
+      "Critics dismiss the study as biased."
+     ]
+    ]
+   },
+   "note": "« Point out » suppose que ce qui est dit est vrai : on ne « points out » pas une erreur de la source, on la « claims » ou la « suggests »."
+  },
+  {
+   "titre": "Argue, claim, maintain, contend : les nuances",
+   "texte": [
+    "« Argue » = défendre une position par des raisons ; il est neutre ou favorable dans l'écrit académique (« Smith argues convincingly that… »). Constructions : argue that…, argue for / against sth.",
+    "« Claim » = affirmer sans que ce soit prouvé ; il signale souvent le doute du rédacteur. Constructions : claim that…, claim to have done (« She claims to have met the president »).",
+    "« Maintain » et « contend » = soutenir une position avec constance, souvent face à l'opposition (« He still maintains that he is innocent »). « Assert » = affirmer avec force et assurance. « Allege » = accuser sans preuve (registre juridique et journalistique) ; l'adverbe « allegedly » est très courant dans la presse."
+   ],
+   "exemples": [
+    [
+     "Several economists argue for a higher minimum wage.",
+     "« Argue for » : plaider en faveur de."
+    ],
+    [
+     "The suspect allegedly entered the building at midnight.",
+     "« Allegedly » : selon les accusations, non prouvé."
+    ]
+   ]
+  },
+  {
+   "titre": "Concéder et contester",
+   "texte": [
+    "La concession reconnaît un point faible ou un argument adverse : « concede that… », « acknowledge sth / that… », « admit (to) doing / that… », « grant that… » (« I grant that the plan is expensive, but… »). Elle prépare souvent un « but » ou un « however ».",
+    "Le désaccord a plusieurs degrés : « question / challenge » (mettre en doute), « dispute » (contester), « reject » (rejeter), « deny » (nier un fait ou une accusation), « dismiss sth as… » (écarter avec mépris), « refute » (réfuter preuves à l'appui, prouver que c'est faux). Beaucoup d'anglophones utilisent « refute » au sens de « deny », mais dans un texte soigné, gardez-le pour une démonstration."
+   ],
+   "tableau": {
+    "entetes": [
+     "Verbe",
+     "Construction",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "deny",
+      "deny + -ing / that / sth",
+      "He denied taking the money."
+     ],
+     [
+      "admit",
+      "admit (to) + -ing / that",
+      "She admitted (to) making a mistake."
+     ],
+     [
+      "accuse",
+      "accuse sb of + -ing",
+      "They accused him of lying."
+     ],
+     [
+      "dismiss",
+      "dismiss sth as + adj / nom",
+      "The minister dismissed the report as nonsense."
+     ],
+     [
+      "concede",
+      "concede that / concede a point",
+      "He conceded that the timing was poor."
+     ],
+     [
+      "acknowledge",
+      "acknowledge sth / that",
+      "The authors acknowledge the limits of their data."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "While acknowledging the risks, the board approved the project.",
+     "Concession + décision."
+    ],
+    [
+     "Her later study refutes the earlier findings.",
+     "« Refute » : elle démontre qu'ils étaient faux."
+    ]
+   ]
+  },
+  {
+   "titre": "Temps, voix et intégration dans la phrase",
+   "texte": [
+    "En écrit académique, on utilise souvent le présent pour rapporter un texte publié (« Smith argues… »), car le texte « parle » toujours. Le prétérit sert pour une étude présentée comme un événement passé (« Smith found… ») et dans la presse pour une déclaration (« The minister claimed on Tuesday that… »).",
+    "Pour une idée répandue sans auteur précis : « It has been argued that… », « It is widely claimed that… », « X is said / alleged to… » (leçon 152). La forme « as X notes / argues » permet d'intégrer la source au passage, en signalant qu'on est d'accord."
+   ],
+   "exemples": [
+    [
+     "It has been argued that social media increases political polarisation.",
+     "Passif impersonnel : idée répandue, sans auteur précis."
+    ],
+    [
+     "As Diallo notes, rural users face higher costs.",
+     "« As + sujet + verbe » : on reprend l'idée à son compte."
+    ]
+   ]
+  },
+  {
+   "titre": "Faux amis et calques",
+   "texte": [
+    "« Pretend » = faire semblant, jamais « prétendre » au sens d'affirmer (= claim). « Réfuter » au sens courant de « rejeter » se dit plutôt « reject » ou « dispute ». « Souligner » = stress, emphasise ou point out (si c'est vrai). « Évoquer » une question = raise / mention. « Affirmer » = state, assert ou maintain selon la force.",
+    "Constructions : « suggest » ne prend pas d'infinitif (« She suggested postponing / that we postpone »), « explain » ne prend pas de complément de personne direct (« He explained to us that… »)."
+   ]
+  }
+ ],
+ "formule": "Source + verbe de rapport choisi selon la nuance (neutre / accord / prudence / position / distance / concession / désaccord) + that / to / -ing selon la construction du verbe",
+ "prononciation": [
+  "« allegedly » /əˈledʒɪdli/ : quatre syllabes, accent sur la deuxième.",
+  "« concede » /kənˈsiːd/ et « contend » /kənˈtend/ : accent sur la deuxième syllabe.",
+  "« refute » /rɪˈfjuːt/ : accent final ; « dispute » est accentué sur la 2e syllabe /dɪˈspjuːt/ (verbe) ; le nom se dit aussi /ˈdɪspjuːt/ en BrE.",
+  "« hypothesise » /haɪˈpɒθəsaɪz/ : accent sur « po ».",
+  "Dans la presse orale, « claims » est souvent légèrement accentué pour signaler la distance du journaliste."
+ ],
+ "erreurs": [
+  [
+   "He pretends that the figures are wrong.",
+   "He claims that the figures are wrong.",
+   "« Pretend » = faire semblant ; « prétendre » (affirmer) = claim."
+  ],
+  [
+   "She denied to have taken the documents.",
+   "She denied taking / having taken the documents.",
+   "« Deny » + -ing (ou that…)."
+  ],
+  [
+   "They accused him to lie.",
+   "They accused him of lying.",
+   "« Accuse sb of + -ing »."
+  ],
+  [
+   "The author explains us that…",
+   "The author explains (to us) that…",
+   "« Explain » + to + personne."
+  ],
+  [
+   "The minister suggested to raise taxes.",
+   "The minister suggested raising taxes / that taxes be raised.",
+   "« Suggest » + -ing ou that."
+  ],
+  [
+   "I refute your opinion.",
+   "I reject / disagree with your opinion.",
+   "« Refute » = prouver qu'une affirmation est fausse."
+  ],
+  [
+   "As the company points out, its cream cures all skin diseases.",
+   "The company claims that its cream cures all skin diseases.",
+   "« Point out » implique que c'est vrai : à éviter pour une idée douteuse."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "À l'Université Laval, deux étudiants préparent ensemble une revue de littérature sur le travail à distance.",
+  "lignes": [
+   [
+    "Zoé",
+    "In my draft I wrote “Martin says that remote work boosts productivity.” It sounds flat.",
+    "Dans mon brouillon, j'ai écrit « Martin dit que… ». Ça manque de relief."
+   ],
+   [
+    "Adama",
+    "Do you agree with him? If his data are solid, use “shows” or “demonstrates”.",
+    "Tu es d'accord avec lui ? Si ses données sont solides, utilise « shows » ou « demonstrates »."
+   ],
+   [
+    "Zoé",
+    "Not really. It's a survey of managers only. So maybe “Martin claims that…”?",
+    "Pas vraiment. C'est une enquête auprès de cadres seulement. Donc « Martin claims that… » ?"
+   ],
+   [
+    "Adama",
+    "Yes, that shows your doubt. And he does concede that the sample is small.",
+    "Oui, ça montre ton doute. Et il reconnaît bien que l'échantillon est petit."
+   ],
+   [
+    "Zoé",
+    "Then: “Martin concedes that his sample is limited, but maintains that the trend is clear.”",
+    "Alors : « Martin reconnaît que son échantillon est limité, mais maintient que la tendance est claire. »"
+   ],
+   [
+    "Adama",
+    "Perfect. And Okafor?",
+    "Parfait. Et Okafor ?"
+   ],
+   [
+    "Zoé",
+    "She disputes his conclusions and argues that isolation lowers performance.",
+    "Elle conteste ses conclusions et soutient que l'isolement réduit la performance."
+   ],
+   [
+    "Adama",
+    "Good. Just don't say she “refutes” him unless her study really proves him wrong.",
+    "Bien. Mais ne dis pas qu'elle le « réfute », sauf si son étude prouve vraiment qu'il a tort."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "claim",
+   "He claims to have seen the accident.",
+   "prétendre, affirmer (sans preuve)"
+  ],
+  [
+   "argue",
+   "She argues that the law is unfair.",
+   "soutenir (avec des arguments)"
+  ],
+  [
+   "maintain",
+   "They maintain that they did nothing wrong.",
+   "maintenir, soutenir"
+  ],
+  [
+   "concede",
+   "He conceded that he had been wrong.",
+   "concéder, reconnaître"
+  ],
+  [
+   "acknowledge",
+   "The report acknowledges several weaknesses.",
+   "reconnaître, admettre"
+  ],
+  [
+   "dispute",
+   "Nobody disputes the importance of education.",
+   "contester"
+  ],
+  [
+   "dismiss",
+   "She dismissed the idea as unrealistic.",
+   "écarter, rejeter (avec mépris)"
+  ],
+  [
+   "allege",
+   "It is alleged that he accepted bribes.",
+   "alléguer, prétendre (accusation)"
+  ],
+  [
+   "point out",
+   "He pointed out that the shop was closed.",
+   "faire remarquer, souligner"
+  ],
+  [
+   "refute",
+   "New evidence refutes the theory.",
+   "réfuter (prouver que c'est faux)"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quelle nuance ?",
+   "consigne": "Indique si le rédacteur présente l'idée comme établie, douteuse, concédée ou contestée.",
+   "items": [
+    [
+     "The study demonstrates that the vaccine is effective.",
+     "établie"
+    ],
+    [
+     "The firm claims that no jobs will be lost.",
+     "douteuse"
+    ],
+    [
+     "The author concedes that her model is simplified.",
+     "concédée"
+    ],
+    [
+     "Many experts dispute these figures.",
+     "contestée"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Choisir le verbe",
+   "consigne": "Choisis le verbe qui convient : acknowledges, claims, points out, argues, dismissed.",
+   "items": [
+    [
+     "The salesman ___ that the car has never had an accident, but I'm not sure.",
+     "claims"
+    ],
+    [
+     "As the author rightly ___, the data are ten years old.",
+     "points out"
+    ],
+    [
+     "Okafor ___ that smaller classes improve results, and she gives three reasons.",
+     "argues"
+    ],
+    [
+     "The government ___ the criticism as political.",
+     "dismissed"
+    ],
+    [
+     "The report ___ that some regions were not included.",
+     "acknowledges"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Construction",
+   "consigne": "Réécris la phrase avec le verbe entre parenthèses et la bonne construction.",
+   "items": [
+    [
+     "“I didn't take the money,” he said. (deny)",
+     "He denied taking / having taken the money."
+    ],
+    [
+     "“You lied to us,” they told him. (accuse)",
+     "They accused him of lying (to them)."
+    ],
+    [
+     "“I met the president,” she says, but it's not proven. (claim + to)",
+     "She claims to have met the president."
+    ],
+    [
+     "“OK, the plan is expensive,” he said. (concede)",
+     "He conceded that the plan was / is expensive."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "He pretends that he has a PhD, but nobody believes him.",
+     "He claims that he has / claims to have a PhD, but nobody believes him."
+    ],
+    [
+     "The manager suggested to change the schedule.",
+     "The manager suggested changing the schedule / that we change the schedule."
+    ],
+    [
+     "She explained me the new rules.",
+     "She explained the new rules to me."
+    ],
+    [
+     "They accused the director to hide the losses.",
+     "They accused the director of hiding the losses."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais en choisissant un verbe de rapport précis.",
+   "items": [
+    [
+     "Le ministre a rejeté le rapport, le qualifiant d'absurde.",
+     "The minister dismissed the report as absurd / nonsense."
+    ],
+    [
+     "L'auteur reconnaît que son étude a des limites.",
+     "The author acknowledges / concedes that her (his) study has limitations."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Résume en 4 phrases un débat entre deux auteurs (réels ou imaginaires), en utilisant au moins quatre verbes de rapport de nuances différentes.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "Mbarga (2022) argues that mobile money has reduced poverty in rural Cameroon. He acknowledges that his data come from only two regions, but maintains that the effect is significant. Fotso (2023), however, disputes this conclusion. She suggests that higher crop prices, not mobile money, explain most of the change."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Le verbe de rapport révèle votre position : show / demonstrate (accord), claim / allege (doute), suggest (prudence), argue / maintain (position forte), concede / acknowledge (concession), dispute / dismiss (désaccord).",
+  "Constructions : claim that / to have done ; deny + -ing ; accuse sb of + -ing ; dismiss sth as ; argue for / against ; suggest + -ing / that.",
+  "Présent pour un texte publié (Smith argues), prétérit pour une déclaration ou une étude datée ; passif impersonnel pour une idée répandue.",
+  "Faux amis : pretend ≠ prétendre (claim) ; refute = prouver le contraire, pas simplement rejeter."
+ ],
+ "liens": [
+  155,
+  152,
+  227,
+  222,
+  250
+ ],
+ "refs": [
+  "bc-reporting-patterns",
+  "bc-reporting-verbs",
+  "bc-c1"
+ ]
+}

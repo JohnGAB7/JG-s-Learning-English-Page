@@ -1,0 +1,185 @@
+{
+"n": 52,
+"niveau": "A2",
+"titre": "Ever / never",
+"intro": "« Ever » (déjà, un jour, à un moment de ta vie) et « never » (jamais) accompagnent très souvent le present perfect pour parler d'expériences : « Have you ever been to Canada? », « I've never eaten snails ». Ce sont les mots clés pour parler de ce qu'on a vécu.",
+"objectifs": [
+"Poser des questions sur l'expérience avec « Have you ever + participe passé ? ».",
+"Répondre avec never, sans double négation.",
+"Placer ever et never au bon endroit dans la phrase.",
+"Utiliser « the first time », « before » et « superlatif + I've ever » pour enrichir ses réponses."
+],
+"sections": [
+{
+"titre": "Have you ever…? : la question d'expérience",
+"texte": [
+"« Ever » signifie « à n'importe quel moment de ta vie jusqu'à maintenant ». On le place entre l'auxiliaire have / has et le participe passé : Have you ever + participe passé ?",
+"En français, on traduit souvent par « déjà » : « Tu es déjà allé à Rome ? ». Mais attention, « déjà » se traduit aussi par « already » dans d'autres contextes (leçon 53). Dans une question sur l'expérience de vie, c'est « ever »."
+],
+"exemples": [
+["Have you ever been to Canada?", "Tu es déjà allé au Canada ?"],
+["Has she ever worked abroad?", "Elle a déjà travaillé à l'étranger ?"],
+["Have your parents ever seen snow?", "Tes parents ont déjà vu la neige ?"]
+]
+},
+{
+"titre": "Les réponses",
+"texte": [
+"On répond par une réponse courte (Yes, I have. / No, I haven't.), ou par « No, never. ». On ajoute souvent des détails au prétérit si la réponse est oui (leçon 51).",
+"Pour une réponse complète négative, « never » remplace « not » : I've never + participe passé. On ne met jamais never et not ensemble (pas de double négation)."
+],
+"tableau": {
+"entetes": ["Question", "Réponse positive", "Réponse négative"],
+"lignes": [
+["Have you ever eaten ndolé?", "Yes, I have. I ate it in Douala last year.", "No, I haven't. / No, never."],
+["Has he ever ridden a horse?", "Yes, he has. Twice!", "No, he's never ridden a horse."],
+["Have they ever met your boss?", "Yes, they have.", "No, they've never met her."]
+]
+}
+},
+{
+"titre": "Never : la place et le sens",
+"texte": [
+"« Never » se place entre have / has et le participe passé : « I have never seen », « She's never been ». Il est déjà négatif : le verbe reste à la forme affirmative.",
+"« I haven't ever… » existe mais est beaucoup moins courant ; préfère « I've never… ». Pour insister sur la nouveauté d'une expérience, on ajoute « before » en fin de phrase : « I've never done this before » (je n'ai jamais fait ça avant)."
+],
+"exemples": [
+["I've never been to Belgium.", "Je ne suis jamais allé en Belgique."],
+["My grandmother has never used a computer.", "Ma grand-mère n'a jamais utilisé d'ordinateur."],
+["We've never tried Ethiopian food before.", "Nous n'avons jamais goûté la cuisine éthiopienne avant."]
+]
+},
+{
+"titre": "Ever avec un superlatif et « the first time »",
+"texte": [
+"« Superlatif + nom + I've ever + participe passé » permet d'exprimer une expérience exceptionnelle : « the best … I've ever … » (le meilleur … que j'aie jamais …).",
+"« It's the first time + I've + participe passé » sert à dire qu'une chose arrive pour la première fois. Contrairement au français (« C'est la première fois que je vois… »), l'anglais utilise le present perfect, pas le présent."
+],
+"exemples": [
+["It's the most beautiful place I've ever seen.", "C'est le plus bel endroit que j'aie jamais vu."],
+["This is the best coffee I've ever had.", "C'est le meilleur café que j'aie jamais bu."],
+["It's the first time I've flown.", "C'est la première fois que je prends l'avion (pas « I fly »)."]
+]
+},
+{
+"titre": "Ever et never avec d'autres temps",
+"texte": [
+"« Never » s'utilise aussi au présent simple pour une habitude (I never drink coffee, leçon 7) et au prétérit pour une période terminée : « My father never learned to swim » (il est mort ou la période de sa vie dont on parle est finie).",
+"En anglais américain, on entend souvent « Did you ever…? » là où l'anglais britannique dit « Have you ever…? ». Pour l'instant, utilise « Have you ever…? » pour l'expérience de vie."
+],
+"exemples": [
+["I never eat meat on Fridays.", "Je ne mange jamais de viande le vendredi (habitude, présent simple)."],
+["I never met my grandfather. He died before I was born.", "Je n'ai jamais connu mon grand-père (période terminée → prétérit)."]
+]
+}
+],
+"formule": "Have / Has + sujet + ever + participe passé ? · sujet + have / has + never + participe passé",
+"prononciation": [
+"« ever » se prononce /ˈevə/ (GB) / /ˈevər/ (US) ; « never » /ˈnevə/ : le e est court comme dans « pet ».",
+"Dans « Have you ever…? », les mots se lient : /həv juː ˈevə/ ; « you ever » sonne presque comme /juˈwevə/.",
+"Dans les phrases négatives, l'accent tombe sur « never » : I've NEVER been there.",
+"La question « Have you ever…? » monte à la fin (question fermée) ; la réponse « No, never » descend."
+],
+"erreurs": [
+["Did you ever go to Paris?", "Have you ever been to Paris?", "Pour une expérience de vie (anglais britannique standard) : present perfect."],
+["I haven't never seen it.", "I've never seen it.", "Pas de double négation : never suffit."],
+["I've ever been to London.", "I've been to London.", "ever ne s'utilise pas dans une phrase affirmative simple."],
+["Have you already been to Canada?", "Have you ever been to Canada?", "Expérience de vie : ever, pas already."],
+["I never have seen snow.", "I've never seen snow.", "never se place entre have et le participe."],
+["It's the first time I see the sea.", "It's the first time I've seen the sea.", "Après « the first time » : present perfect."],
+["Have you ever went to Lomé?", "Have you ever been to Lomé?", "Après have : participe passé (been / gone), pas le prétérit."]
+],
+"dialogue": {
+"contexte": "Pendant une pause déjeuner à Montréal, des collègues jouent à « Have you ever…? ».",
+"lignes": [
+["Chloé", "OK, my turn. Have you ever eaten poutine, Kwame?", "OK, à moi. Tu as déjà mangé de la poutine, Kwame ?"],
+["Kwame", "Yes, I have! I had it on my first day here. It's the best snack I've ever eaten.", "Oui ! J'en ai mangé le premier jour. C'est le meilleur en-cas que j'aie jamais mangé."],
+["Chloé", "Ha! And have you ever been skiing?", "Ha ! Et tu as déjà fait du ski ?"],
+["Kwame", "No, never. I've never even seen a ski slope!", "Non, jamais. Je n'ai même jamais vu de piste de ski !"],
+["Marie", "Have you ever tried, Chloé?", "Et toi, tu as déjà essayé, Chloé ?"],
+["Chloé", "Yes, lots of times. I went to Mont-Tremblant last winter.", "Oui, plein de fois. Je suis allée au Mont-Tremblant l'hiver dernier."],
+["Kwame", "Can you teach me? It'll be the first time I've tried a winter sport!", "Tu peux m'apprendre ? Ce sera la première fois que j'essaie un sport d'hiver !"],
+["Marie", "Great idea. Let's all go next Saturday!", "Bonne idée. Allons-y tous samedi prochain !"]
+]
+},
+"mots": [
+["ever", "Have you ever met a famous person?", "déjà, un jour (dans une question)"],
+["never", "I've never seen the sea.", "jamais"],
+["before", "I've never done this before.", "avant, auparavant"],
+["try", "Have you ever tried sushi?", "essayer ; goûter"],
+["once", "I've been to Ghana once.", "une fois"],
+["times", "She's visited Paris three times.", "fois (three times = trois fois)"],
+["snow", "Have you ever seen snow?", "la neige"],
+["ride", "I've never ridden a motorbike.", "monter, conduire (vélo, moto, cheval) (ride – rode – ridden)"],
+["amazing", "It was an amazing experience.", "incroyable, extraordinaire"],
+["first", "It's the first time I've cooked for ten people.", "premier, première"]
+],
+"exercices": [
+{
+"titre": "1. Ever ou never ?",
+"consigne": "Complète avec ever ou never.",
+"items": [
+["Have you ___ been to Ghana?", "ever"],
+["I've ___ eaten frogs' legs.", "never"],
+["Has your brother ___ worked in a restaurant?", "ever"],
+["She's ___ flown in a plane. She's a bit nervous.", "never"],
+["It's the best film I've ___ seen.", "ever"]
+]
+},
+{
+"titre": "2. Poser la question",
+"consigne": "Écris la question avec Have / Has … ever … ?",
+"items": [
+["you / climb / a mountain", "Have you ever climbed a mountain?"],
+["she / lose / her passport", "Has she ever lost her passport?"],
+["they / see / a lion", "Have they ever seen a lion?"],
+["he / write / a poem", "Has he ever written a poem?"]
+]
+},
+{
+"titre": "3. Répondre",
+"consigne": "Réponds à la question selon l'indication (✓ = oui avec détail au prétérit, ✗ = non avec never).",
+"items": [
+["Have you ever been to Brussels? (✓ last year)", "Yes, I have. I went there last year."],
+["Have you ever played golf? (✗)", "No, I've never played golf."],
+["Has Ana ever driven a truck? (✗)", "No, she's never driven a truck."],
+["Have you ever met a celebrity? (✓ in 2020)", "Yes, I have. I met one in 2020."]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["I haven't never been to Spain.", "I've never been to Spain."],
+["Have you ever saw a ghost?", "Have you ever seen a ghost?"],
+["It's the first time I eat cassava.", "It's the first time I've eaten cassava."],
+["I've ever visited Rome.", "I've visited Rome."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["Tu as déjà vu la neige ?", "Have you ever seen snow?"],
+["Nous ne sommes jamais allés en Afrique du Sud.", "We've never been to South Africa."],
+["C'est le plus beau cadeau que j'aie jamais reçu.", "It's the best / most beautiful present I've ever received."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Écris trois questions « Have you ever…? » que tu poserais à un ami, puis réponds-y pour toi (oui avec un détail au prétérit, ou non avec never).",
+"items": [
+["Exemple de réponse", "Have you ever slept in a tent? — Yes, I have. I slept in a tent near Kribi in 2019. Have you ever run a marathon? — No, I've never run a marathon. Have you ever cooked for a big party? — Yes, I have. I cooked for my sister's wedding last year."]
+]
+}
+],
+"a_retenir": [
+"Have you ever + participe passé ? = expérience de vie (ever = à un moment de ta vie).",
+"I've never + participe passé : never est déjà négatif, pas de not.",
+"ever et never se placent entre have / has et le participe.",
+"Si oui, les détails (quand, où) passent au prétérit.",
+"the best … I've ever … ; It's the first time I've + participe passé."
+],
+"liens": [7, 47, 51, 53],
+"refs": ["bc-present-perfect", "cam-verbs"]
+}

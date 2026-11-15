@@ -1,0 +1,194 @@
+{
+ "n": 13,
+ "niveau": "A1",
+ "titre": "This, that, these, those",
+ "intro": "This, that, these et those servent à montrer : « ce livre-ci, cette maison-là, ces chaussures ». L'anglais distingue ce qui est proche et ce qui est loin, et le singulier du pluriel : quatre mots là où le français utilise surtout « ce, cette, ces ».",
+ "objectifs": [
+  "Choisir entre this, that, these et those selon la distance et le nombre.",
+  "Les utiliser devant un nom (this car) ou seuls, comme pronoms (This is my car).",
+  "Utiliser « this one / that one » pour éviter de répéter un nom.",
+  "Connaître les usages pratiques : présenter quelqu'un, téléphoner, parler du temps (this morning, that day), réagir (That's great!)."
+ ],
+ "sections": [
+  {
+   "titre": "Proche ou loin, singulier ou pluriel",
+   "texte": [
+    "« This » (singulier) et « these » (pluriel) désignent ce qui est proche de la personne qui parle : ce qu'on tient, ce qui est ici. « That » (singulier) et « those » (pluriel) désignent ce qui est plus loin : là-bas, de l'autre côté de la pièce.",
+    "Le mot doit s'accorder avec le nom : this book / these books ; that house / those houses. Le verbe aussi : This is…, These are…"
+   ],
+   "tableau": {
+    "entetes": ["", "Proche (ici)", "Loin (là-bas)"],
+    "lignes": [
+     ["Singulier", "this : this phone (ce téléphone-ci)", "that : that phone (ce téléphone-là)"],
+     ["Pluriel", "these : these shoes (ces chaussures-ci)", "those : those shoes (ces chaussures-là)"]
+    ]
+   },
+   "exemples": [
+    ["This bag is heavy.", "Ce sac (que je tiens) est lourd."],
+    ["Look at that bird on the roof!", "Regarde cet oiseau sur le toit !"],
+    ["These apples are delicious.", "Ces pommes (ici) sont délicieuses."],
+    ["Who are those people over there?", "Qui sont ces gens là-bas ?"]
+   ]
+  },
+  {
+   "titre": "Devant un nom ou seul",
+   "texte": [
+    "Ces mots peuvent se placer devant un nom (déterminant) : this car, those flowers. Ils peuvent aussi s'employer seuls, comme pronoms : « This is my car », « Are those yours? ».",
+    "Seul, « this / that » désigne normalement une chose. Pour présenter une personne, on peut aussi l'utiliser : « This is my sister » (leçon 2). Mais pour parler d'une personne déjà présente, on emploie he / she : « This is Marc. He's my colleague »."
+   ],
+   "exemples": [
+    ["What's this? — It's a mango.", "Qu'est-ce que c'est ? — C'est une mangue."],
+    ["Is that your car? — Yes, it is.", "C'est ta voiture, là-bas ? — Oui."],
+    ["These are my children, Léa and Tom.", "Voici mes enfants, Léa et Tom."]
+   ],
+   "note": "Dans la réponse, on remplace this / that par it, et these / those par they : What's that? — It's a church. What are those? — They're bats."
+  },
+  {
+   "titre": "This one, that one",
+   "texte": [
+    "Pour ne pas répéter un nom dénombrable, on dit « this one » ou « that one » (celui-ci, celui-là). Au pluriel, on dit simplement « these » ou « those » (« these ones » s'entend à l'oral britannique mais est moins soutenu).",
+    "C'est très utile dans les magasins, pour choisir."
+   ],
+   "exemples": [
+    ["Which T-shirt do you want? — This one, please.", "Quel tee-shirt veux-tu ? — Celui-ci, s'il te plaît."],
+    ["I don't like these shoes. I prefer those.", "Je n'aime pas ces chaussures-ci. Je préfère celles-là."]
+   ]
+  },
+  {
+   "titre": "Usages pratiques : téléphone, temps, réactions",
+   "texte": [
+    "Au téléphone : on se présente avec « This is… » ou « It's… » (Hello, this is Karim). Pour demander qui appelle, les Britanniques disent « Who's that? » ou, plus poliment, « Who's calling, please? » ; les Américains disent souvent « Who is this? ». Pour vérifier : « Is that Anna? » (GB) / « Is this Anna? » (US).",
+    "Avec le temps : « this » désigne la période actuelle ou toute proche (this morning, this week, this year), « that » une période passée ou plus lointaine dont on a déjà parlé (that day, that summer, at that time).",
+    "Pour réagir à ce que quelqu'un vient de dire, on utilise « that » : That's great! That's true. That's a good idea. « This » annonce plutôt ce qui va suivre : Listen to this!"
+   ],
+   "exemples": [
+    ["Hello, this is Karim from the bank.", "Bonjour, ici Karim, de la banque."],
+    ["I'm very busy this week.", "Je suis très occupé cette semaine."],
+    ["I've got a new job! — That's fantastic!", "J'ai un nouveau travail ! — C'est fantastique !"]
+   ]
+  },
+  {
+   "titre": "Les pièges d'accord",
+   "texte": [
+    "Les francophones confondent souvent « this » et « these », car à l'oral la différence n'est qu'une voyelle : /ɪ/ court dans this, /iː/ long dans these. Une erreur de prononciation devient vite une erreur de sens.",
+    "Attention aux noms toujours pluriels (leçon 12) : these trousers, those glasses, these jeans. Et aux indénombrables, toujours au singulier : this information, that advice, this news."
+   ],
+   "exemples": [
+    ["These jeans are too small.", "Ce jean est trop petit (jeans = pluriel)."],
+    ["This information is very useful.", "Ces informations sont très utiles (indénombrable)."]
+   ]
+  }
+ ],
+ "formule": "this + singulier / these + pluriel (proche) · that + singulier / those + pluriel (loin) · this one / that one",
+ "prononciation": [
+  "« this » /ðɪs/ (i court, s sourd) et « these » /ðiːz/ (i long, z sonore) : exagère la différence au début pour bien te faire comprendre.",
+  "« that » /ðæt/ : bouche bien ouverte, comme pour un « è » très ouvert. « those » /ðəʊz/ rime avec « nose ».",
+  "Les quatre mots commencent par /ð/ : langue entre les dents, voix qui vibre.",
+  "Devant un nom, ces mots sont souvent accentués pour montrer ou opposer : I want THIS one, not THAT one.",
+  "« That's » /ðæts/ se prononce en une seule syllabe."
+ ],
+ "erreurs": [
+  ["this books", "these books", "Pluriel : these."],
+  ["These is my brother.", "This is my brother.", "Singulier : this is ; pluriel : these are."],
+  ["Those shoe is nice.", "That shoe is nice. / Those shoes are nice.", "Accord singulier / pluriel."],
+  ["I prefer this.", "I prefer this one.", "Pour un nom dénombrable, « this one » est plus naturel quand on choisit."],
+  ["This jeans is too big.", "These jeans are too big.", "Jeans est toujours au pluriel."],
+  ["These informations are useful.", "This information is useful.", "Information est indénombrable : singulier."],
+  ["I've got a new car! — This is great!", "That's great!", "Pour réagir à ce qui vient d'être dit, on utilise « that »."]
+ ],
+ "dialogue": {
+  "contexte": "Sur un marché de Yaoundé, une cliente achète des fruits et des tissus.",
+  "lignes": [
+   ["Customer", "Good morning! How much are these mangoes?", "Bonjour ! Combien coûtent ces mangues ?"],
+   ["Seller", "These ones are 500 francs a kilo. Those over there are sweeter, but more expensive.", "Celles-ci sont à 500 francs le kilo. Celles-là, là-bas, sont plus sucrées, mais plus chères."],
+   ["Customer", "I'll take a kilo of these, please. And what's that?", "Je vais prendre un kilo de celles-ci, s'il vous plaît. Et qu'est-ce que c'est, ça ?"],
+   ["Seller", "That's a soursop. It's delicious in juice.", "C'est un corossol. C'est délicieux en jus."],
+   ["Customer", "Great. And this fabric? Is this cotton?", "Super. Et ce tissu ? C'est du coton ?"],
+   ["Seller", "Yes, it is. This one is from Ghana, and that one is from Cameroon.", "Oui. Celui-ci vient du Ghana, et celui-là du Cameroun."],
+   ["Customer", "I love that one! The colours are beautiful.", "J'adore celui-là ! Les couleurs sont magnifiques."],
+   ["Seller", "That's a good choice. It's our best fabric this year.", "C'est un bon choix. C'est notre meilleur tissu cette année."]
+  ]
+ },
+ "mots": [
+  ["here", "Come here, please.", "ici"],
+  ["there", "My car is over there.", "là, là-bas"],
+  ["over there", "Who's that man over there?", "là-bas"],
+  ["which", "Which one do you want?", "quel, lequel"],
+  ["one", "I like this one.", "celui, celle (pour ne pas répéter le nom)"],
+  ["price", "What's the price of that bag?", "le prix"],
+  ["heavy", "This box is heavy.", "lourd(e)"],
+  ["choose", "Choose one of these.", "choisir"],
+  ["fabric", "This fabric is soft.", "le tissu"],
+  ["delicious", "These mangoes are delicious.", "délicieux, délicieuse"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. This, that, these ou those ?",
+   "consigne": "Complète selon l'indication (proche / loin).",
+   "items": [
+    ["___ book (proche) is very interesting.", "This"],
+    ["___ houses (loin) are very old.", "Those"],
+    ["___ glasses (proche) are mine.", "These"],
+    ["Look at ___ mountain (loin)!", "that"],
+    ["___ cookies (proche) are delicious.", "These"],
+    ["Is ___ man (loin) your teacher?", "that"]
+   ]
+  },
+  {
+   "titre": "2. Singulier → pluriel",
+   "consigne": "Mets la phrase au pluriel.",
+   "items": [
+    ["This is my friend.", "These are my friends."],
+    ["That car is red.", "Those cars are red."],
+    ["Is this your key?", "Are these your keys?"],
+    ["That child is noisy.", "Those children are noisy."]
+   ]
+  },
+  {
+   "titre": "3. Répondre avec it ou they",
+   "consigne": "Réponds à la question avec it's ou they're et le mot entre parenthèses.",
+   "items": [
+    ["What's that? (a museum)", "It's a museum."],
+    ["What are those? (my new boots)", "They're my new boots."],
+    ["What's this? (a present for you)", "It's a present for you."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["This shoes are too small.", "These shoes are too small."],
+    ["These is my sister, Awa.", "This is my sister, Awa."],
+    ["Those trousers is expensive.", "Those trousers are expensive."],
+    ["My sister is getting married! — This is great!", "That's great!"],
+    ["These informations are wrong.", "This information is wrong."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Je préfère celui-ci.", "I prefer this one."],
+    ["Qui sont ces gens là-bas ?", "Who are those people over there?"],
+    ["Allô, c'est Pierre.", "Hello, this is Pierre. / Hello, it's Pierre."],
+    ["Je travaille beaucoup cette semaine.", "I'm working a lot this week."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Imagine que tu fais visiter ta maison ou ton bureau à un ami. Écris quatre phrases avec this, that, these et those.",
+   "items": [
+    ["Exemple de réponse", "This is my office. These are my books about history. That door is the bathroom. Those photos on the wall are from my trip to Canada."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "this / these = proche ; that / those = loin.",
+  "this, that + singulier (is) ; these, those + pluriel (are).",
+  "this one / that one pour choisir sans répéter le nom.",
+  "Au téléphone : This is Karim. Réaction : That's great! Temps : this week (maintenant), that day (passé).",
+  "Attention : these jeans (toujours pluriel), this information (indénombrable)."
+ ],
+ "liens": [2, 11, 12, 14, 38],
+ "refs": ["cam-nouns", "bc-a1a2"]
+}

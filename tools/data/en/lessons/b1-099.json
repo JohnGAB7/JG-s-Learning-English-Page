@@ -1,0 +1,190 @@
+{
+ "n": 99,
+ "niveau": "B1",
+ "titre": "The zero conditional (general truths)",
+ "intro": "The zero conditional (If you heat ice, it melts) describes what always happens when a condition is true: laws of nature, habits, rules and instructions. It uses the present simple in both parts.",
+ "objectifs": [
+  "Build the zero conditional with if / when + present simple, present simple.",
+  "Use it for scientific facts, habits, rules and instructions.",
+  "Tell it apart from the first conditional (one specific future situation).",
+  "Use an imperative or a modal in the result for instructions."
+ ],
+ "sections": [
+  {
+   "titre": "The structure",
+   "texte": [
+    "Condition: if (or when, whenever) + present simple. Result: present simple. Both parts are in the present because this is not a single event: it is true every time.",
+    "If can almost always be replaced by when or whenever without changing the meaning: “If / When you mix red and blue, you get purple.” This is the easiest test for a zero conditional."
+   ],
+   "tableau": {
+    "entetes": ["Condition (if / when + present)", "Result (present)"],
+    "lignes": [
+     ["If you heat water to 100 °C,", "it boils."],
+     ["When it rains,", "the roads get slippery."],
+     ["If I drink coffee after 6 p.m.,", "I can't sleep."],
+     ["If you don't water plants,", "they die."]
+    ]
+   }
+  },
+  {
+   "titre": "General and scientific truths",
+   "texte": [
+    "This is the best-known use: laws of nature and facts that are always true. It is very common in science, geography and economics lessons.",
+    "The structure is simple; the usual trap is adding will by mistake, or forgetting the -s of the third person."
+   ],
+   "exemples": [
+    ["If you heat ice, it melts.", "Always true."],
+    ["Plants die if they don't get enough light.", "Result first, no comma."],
+    ["When demand rises, prices go up.", "An economic rule."]
+   ]
+  },
+  {
+   "titre": "Habits and personal reactions",
+   "texte": [
+    "We also use it for what always happens to us, our habits or reactions: “If I'm stressed, I eat chocolate.” It isn't a universal law, but it's true for me every time.",
+    "For a past habit, put both verbs in the past simple: “When I was a child, if it rained, we stayed inside and played cards.”"
+   ],
+   "exemples": [
+    ["If I don't have breakfast, I feel tired all morning.", "A habit: every time."],
+    ["My grandmother gets angry if we arrive late.", "A usual reaction."],
+    ["When we lived in Garoua, if it was too hot, we slept on the terrace.", "Past habit: past simple in both parts."]
+   ]
+  },
+  {
+   "titre": "Rules and instructions: imperatives and modals",
+   "texte": [
+    "To give a general instruction, the result is often an imperative: “If the alarm rings, leave the building.” You see this on signs, in manuals and in rules.",
+    "We can also use a modal (can, must, should): “If you are under 18, you can't vote.” / “If you feel dizzy, you should sit down.”"
+   ],
+   "tableau": {
+    "entetes": ["Context", "Example"],
+    "lignes": [
+     ["Safety", "If there is a fire, don't use the lift."],
+     ["Instructions", "If the light turns red, press the reset button."],
+     ["Rules", "If you lose your card, you must pay a fee."],
+     ["Health", "If you have a fever, drink plenty of water."]
+    ]
+   }
+  },
+  {
+   "titre": "Zero or first conditional?",
+   "texte": [
+    "Zero: true every time, in general (present + present). First: one specific situation in the future (present + will).",
+    "“If you press this button, the machine stops” (that's how it always works). “If you press this button now, the machine will stop” (now, this one time).",
+    "A useful signal: if you can say “whenever” or “every time”, it's a zero conditional. With tomorrow, tonight or next week, it's a first conditional."
+   ],
+   "exemples": [
+    ["If you mix oil and water, they don't combine.", "Always true: zero."],
+    ["If you mix these colours, your painting will look dark.", "This time, a predicted result: first."]
+   ]
+  }
+ ],
+ "formule": "If / When + present simple, present simple (If you heat ice, it melts.)",
+ "prononciation": [
+  "The third-person -s is necessary and must be heard: melts /melts/, boils /bɔɪlz/, rises /ˈraɪzɪz/. Three sounds: /s/, /z/, /ɪz/.",
+  "when /wen/ and if /ɪf/ are often weak at the start; the stress falls on the important verbs and nouns: “If you HEAT ICE, it MELTS.”",
+  "Intonation: rising at the end of the condition, falling at the end of the result.",
+  "whenever /wenˈevə/: stress on the second syllable."
+ ],
+ "erreurs": [
+  ["If you heat the ice, it melts.", "If you heat ice, it melts.", "General truth: no article before an uncountable noun used in a general sense."],
+  ["If water freeze, it become ice.", "If water freezes, it becomes ice.", "Don't forget the third-person -s."],
+  ["When I will be tired, I go to bed.", "When I'm tired, I go to bed.", "Never will after when / if."],
+  ["If you will press the button, the door opens.", "If you press the button, the door opens.", "Present simple in the condition."],
+  ["If it rains, people are taking umbrellas.", "If it rains, people take umbrellas.", "A general habit: present simple, not present continuous."],
+  ["If there will be a fire, use the stairs.", "If there is a fire, use the stairs.", "Instruction: if + present, imperative."]
+ ],
+ "dialogue": {
+  "contexte": "A science class in a secondary school in Liège. Ms Dubois explains an experiment to her students, Théo and Aïcha.",
+  "lignes": [
+   ["Ms Dubois", "What happens if you put salt on ice?", "A question about a general truth."],
+   ["Théo", "It melts faster.", "Present simple with -s."],
+   ["Ms Dubois", "Exactly. That's why the city puts salt on the roads when it snows.", "When = every time."],
+   ["Aïcha", "And if the temperature is very low, does salt still work?", "Zero conditional question."],
+   ["Ms Dubois", "Good question. If it's colder than about minus ten, salt doesn't work very well.", "Negative result in the present."],
+   ["Théo", "In Cameroon, my cousins never see snow. If it rains a lot, the roads just get muddy.", "Get muddy = become covered in mud."],
+   ["Ms Dubois", "That's right. Now, safety first: if you spill anything, tell me immediately.", "Rule: if + present, imperative."],
+   ["Aïcha", "And if we finish early, can we try with sugar?", "Can in the result: permission."]
+  ]
+ },
+ "mots": [
+  ["melt", "Ice melts if you leave it in the sun.", "to change from solid to liquid because of heat"],
+  ["boil", "Water boils at 100 °C.", "to reach the temperature where a liquid becomes gas"],
+  ["freeze", "Water freezes at 0 °C.", "to become hard because of cold"],
+  ["whenever", "Whenever I travel, I get a cold.", "every time that"],
+  ["temperature", "If the temperature drops, the lake freezes.", "how hot or cold something is"],
+  ["slippery", "The roads get slippery when it snows.", "difficult to walk or drive on without falling or sliding"],
+  ["fee", "If you pay late, you pay a fee.", "money you pay for a service or as a penalty"],
+  ["spill", "If you spill water on a laptop, it can break.", "to let a liquid fall out of a container by accident"],
+  ["dizzy", "If I stand up too fast, I feel dizzy.", "feeling that everything is turning around you"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Match",
+   "consigne": "Match the beginnings and endings: a) it turns into steam. b) I get a headache. c) you get green. d) leave the building.",
+   "items": [
+    ["If you mix blue and yellow, …", "c) you get green."],
+    ["If water boils, …", "a) it turns into steam."],
+    ["If I don't drink enough water, …", "b) I get a headache."],
+    ["If the fire alarm rings, …", "d) leave the building."]
+   ]
+  },
+  {
+   "titre": "2. Put the verbs in the right form",
+   "consigne": "Put the verbs in the present simple (zero conditional).",
+   "items": [
+    ["If you ___ (drop) a glass, it ___ (break).", "drop … breaks"],
+    ["When my phone battery ___ (be) low, the screen ___ (get) darker.", "is … gets"],
+    ["If people ___ (not / sleep) enough, they ___ (feel) irritable.", "don't sleep … feel"],
+    ["My dog ___ (bark) if someone ___ (ring) the bell.", "barks … rings"],
+    ["If you ___ (not / pay) the bill, they ___ (cut) the electricity.", "don't pay … cut"]
+   ]
+  },
+  {
+   "titre": "3. Zero or first?",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["If you heat metal, it (expands / will expand). (always)", "expands"],
+    ["If you call me tonight, I (tell / will tell) you everything.", "will tell"],
+    ["When I'm nervous, I (talk / will talk) too much.", "talk"],
+    ["If it rains tomorrow, the match (is / will be) cancelled.", "will be"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["If you press this button, the machine stop.", "If you press this button, the machine stops."],
+    ["When the sun will set, it gets cold in the desert.", "When the sun sets, it gets cold in the desert."],
+    ["If there will be an emergency, call 112.", "If there is an emergency, call 112."],
+    ["If my brother is hungry, he is getting angry.", "If my brother is hungry, he gets angry."]
+   ]
+  },
+  {
+   "titre": "5. Make zero conditional sentences",
+   "consigne": "Write a zero conditional sentence from the prompts.",
+   "items": [
+    ["heat ice / melt", "If you heat ice, it melts."],
+    ["when / I / drink coffee in the evening / not sleep", "When I drink coffee in the evening, I don't sleep. / I can't sleep."],
+    ["lose your ticket / must / pay a fine", "If you lose your ticket, you must pay a fine."],
+    ["have a fever / drink a lot of water (imperative)", "If you have a fever, drink a lot of water."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write 4 zero conditional sentences: a scientific fact, one of your habits, a rule at your school or workplace, and a safety instruction (imperative).",
+   "items": [
+    ["Example answer", "If you freeze water, it turns into ice. If I go to bed late, I feel tired the next day. At my company, if you work on Saturday, you get a day off. If you smell gas, open the windows and leave the house."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "If / When + present simple, present simple: what always happens.",
+  "Uses: laws of nature, habits, rules, instructions.",
+  "If can be replaced by when / whenever without changing the meaning.",
+  "Use an imperative or a modal in the result for instructions.",
+  "One specific future situation → first conditional (will)."
+ ],
+ "liens": [6, 95, 96, 100],
+ "refs": ["bc-cond-012", "bc-presentsimple"]
+}

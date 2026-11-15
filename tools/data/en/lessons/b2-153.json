@@ -1,0 +1,205 @@
+{
+ "n": 153,
+ "niveau": "B2",
+ "titre": "The causative: “have / get something done”",
+ "intro": "When someone else does a job for you (a haircut, a car repair, a new kitchen), or when something bad happens to you (a stolen phone), English uses “have / get + object + past participle”. It is an everyday structure that learners often avoid or get wrong.",
+ "objectifs": [
+  "Make “have something done” in all tenses, with questions and negatives.",
+  "Understand the difference between “I cut my hair” (I did it) and “I had my hair cut” (someone did it for me).",
+  "Use “get something done”, which is more informal, and understand its idea of effort (“get the job done”).",
+  "Talk about a bad experience: “I had my phone stolen”."
+ ],
+ "sections": [
+  {
+   "titre": "Form: have + object + past participle",
+   "texte": [
+    "The word order is fixed: have + the thing + the past participle. “I had my car repaired.” The object always comes between “have” and the participle.",
+    "Here “have” is a normal main verb: it changes for every tense, uses “do / does / did” in questions and negatives, and does not contract. You cannot say “I'd my car repaired”.",
+    "To say who did the work, add “by”: “We had the house painted by a local company.”"
+   ],
+   "tableau": {
+    "entetes": ["Tense", "Example", "Meaning"],
+    "lignes": [
+     ["Present simple", "I have my hair cut every month.", "a regular service"],
+     ["Present continuous", "We're having the kitchen painted.", "work in progress now"],
+     ["Past simple", "She had her phone repaired.", "finished in the past"],
+     ["Present perfect", "Have you had your eyes tested?", "at any time up to now"],
+     ["Be going to", "I'm going to have my suit cleaned.", "a plan"],
+     ["Modal", "You should have your brakes checked.", "advice"],
+     ["Negative", "I didn't have the car washed.", "did + not + have"]
+    ]
+   }
+  },
+  {
+   "titre": "Doing it yourself or having it done?",
+   "texte": [
+    "This is the key difference. “I cut my hair” means I used the scissors myself. “I had my hair cut” means I went to the hairdresser's.",
+    "Some languages say “make + verb” for this idea (for example French “faire réparer”). In English, “I made repair my car” is impossible.",
+    "We use this structure all the time for services: hairdressers, mechanics, tailors, dry cleaners, plumbers, doctors, opticians, photographers."
+   ],
+   "exemples": [
+    ["I repaired my bike. / I had my bike repaired.", "I did it myself. / Someone did it for me."],
+    ["She's having a dress made for the wedding.", "A tailor is making it."],
+    ["We had solar panels installed last year.", "Technicians installed them."],
+    ["Where do you have your suits dry-cleaned?", "A question with do + have."]
+   ]
+  },
+  {
+   "titre": "“Get something done”: more informal",
+   "texte": [
+    "“Get + object + past participle” has the same meaning as “have”, but it is more common in speech and messages: “I need to get my phone fixed.”",
+    "“Get” often adds an idea of effort, urgency or a result to achieve: “I must get this report finished by Friday.” Here, the speaker may do the work personally.",
+    "In the imperative, we prefer “get”: “Get your eyes tested!”",
+    "American English: in the present perfect, Americans say “I've gotten my car fixed”; in British English, “I've got my car fixed” or, more often, “I've had my car fixed”."
+   ],
+   "exemples": [
+    ["I'll get the tickets printed this afternoon.", "Someone will print them, or I will make sure it happens."],
+    ["Let's get this job done and go home.", "Effort and result: let's finish it."],
+    ["You should get that cough checked by a doctor.", "Advice."]
+   ]
+  },
+  {
+   "titre": "A bad experience: “I had my wallet stolen”",
+   "texte": [
+    "The same structure can describe something unpleasant that happened to you, which you did not ask for.",
+    "You can also use a simple passive: “My wallet was stolen.” The “have” structure puts the focus on the person who suffered.",
+    "With “get”, you also hear “He got his nose broken in a fight” in informal speech."
+   ],
+   "exemples": [
+    ["I had my wallet stolen at the market.", "Someone stole it; I was the victim."],
+    ["They had their house broken into while they were on holiday.", "Burglars entered their house."],
+    ["She had her flight cancelled at the last minute.", "The airline cancelled it."]
+   ]
+  },
+  {
+   "titre": "Don't confuse it with similar structures",
+   "texte": [
+    "When you name the person who does the action, the structure changes: “have + person + base form” or “get + person + to-infinitive”. “I had the mechanic check the brakes.” “I got my brother to help me.” These patterns are studied in lesson 186.",
+    "Watch the word order: “I had cut my hair” is a past perfect (I had cut it myself). “I had my hair cut” is the causative."
+   ],
+   "tableau": {
+    "entetes": ["Structure", "Example", "Meaning"],
+    "lignes": [
+     ["have + thing + past participle", "I had my laptop repaired.", "Someone repaired it for me."],
+     ["get + thing + past participle", "I got my laptop repaired.", "Same meaning, more informal."],
+     ["have + person + base form", "I had a technician repair it.", "I arranged for a technician to do it."],
+     ["get + person + to-infinitive", "I got my cousin to repair it.", "I persuaded my cousin to do it."],
+     ["had + past participle (past perfect)", "I had repaired it myself.", "I did it myself, before another past moment."]
+    ]
+   }
+  }
+ ],
+ "formule": "have / get + object + past participle (+ by + person)",
+ "prononciation": [
+  "Here “have” is a full verb: it is not reduced to 'd or 've. “I had my car washed”: /aɪ hæd maɪ ˈkɑː wɒʃt/.",
+  "The main stress usually falls on the last word that carries new information: “I had my car SERviced”, “I'm having my HAIR cut” when “cut” is obvious.",
+  "Past participles in -ed follow the usual rule: washed /wɒʃt/, cleaned /kliːnd/, painted /ˈpeɪntɪd/.",
+  "“cut”, “done” and “made” are irregular: cut /kʌt/ (same as the base form), done /dʌn/, made /meɪd/.",
+  "“hairdresser's” is /ˈheədresəz/: it means the hairdresser's shop."
+ ],
+ "erreurs": [
+  ["I made repair my car.", "I had (got) my car repaired.", "English does not use “make + verb” for services."],
+  ["I cut my hair at the hairdresser's.", "I had my hair cut at the hairdresser's.", "If someone else does it, use the causative."],
+  ["She had cut her hair yesterday at the salon.", "She had her hair cut yesterday at the salon.", "The object goes between “have” and the participle."],
+  ["Did you had your passport renewed?", "Did you have your passport renewed?", "After “did”, use the base form “have”."],
+  ["I'd my nails done this morning.", "I had my nails done this morning.", "Causative “have” does not contract."],
+  ["I had stolen my wallet.", "I had my wallet stolen.", "“I had stolen my wallet” means I stole my own wallet!"],
+  ["We're going to have cleaned the carpets.", "We're going to have the carpets cleaned.", "Always: have + object + participle."]
+ ],
+ "dialogue": {
+  "contexte": "In Yaoundé, two friends, Nadège and Clarisse, are getting ready for the wedding of Nadège's brother on Saturday.",
+  "lignes": [
+   ["Clarisse", "Are you ready for Saturday? Have you had your dress made yet?", "Present perfect question with the causative."],
+   ["Nadège", "Almost. The tailor is finishing it today, but I need to have the sleeves shortened.", "need to have + object + participle."],
+   ["Clarisse", "And your hair? Are you doing it yourself?", "She asks if Nadège will do it herself."],
+   ["Nadège", "No way! I'm having it braided on Friday at a salon in Bastos.", "Present continuous for an arrangement."],
+   ["Clarisse", "Good idea. My brother wants to get his car washed and decorated for the couple.", "get + object + two participles."],
+   ["Nadège", "That's kind. Oh, and we're having the photos taken by a professional this time.", "“by” names the person who does the work."],
+   ["Clarisse", "Last time you had your camera stolen, didn't you?", "A bad experience."],
+   ["Nadège", "Exactly. So this year, I'm just going to dance!", "A happy ending."]
+  ]
+ },
+ "mots": [
+  ["hairdresser", "I'm going to the hairdresser's on Friday.", "a person who cuts and styles hair (the hairdresser's = the shop)"],
+  ["tailor", "He had his suit made by a tailor.", "a person who makes or repairs clothes"],
+  ["dry-clean", "This jacket must be dry-cleaned.", "to clean clothes with chemicals, not water"],
+  ["service", "I have my car serviced once a year.", "to check and repair a car or machine"],
+  ["install", "We had a new boiler installed.", "to put equipment in place so it works"],
+  ["renovate", "They're having their flat renovated.", "to repair and improve an old building"],
+  ["deliver", "We had the sofa delivered on Monday.", "to bring goods to a place"],
+  ["fix", "I need to get my phone screen fixed.", "to repair (informal)"],
+  ["alter", "I had my trousers altered.", "to change clothes so they fit better; to change"],
+  ["plumber", "We had a plumber repair the leak.", "a person who repairs water pipes, taps, toilets"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Who does the action?",
+   "consigne": "Say if the person did the action themselves or if someone else did it for them.",
+   "items": [
+    ["I cut my hair last night.", "Myself."],
+    ["I had my hair cut last night.", "Someone else (a hairdresser)."],
+    ["She's having her kitchen painted.", "Someone else (painters)."],
+    ["He had repaired his bike before the race.", "Himself (past perfect, not a causative)."]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Complete with “have” in the right tense + object + past participle.",
+   "items": [
+    ["My car is making a strange noise. I need to ___ (it / check).", "have it checked (or get it checked)"],
+    ["Last week we ___ (our house / paint).", "had our house painted"],
+    ["She ___ (her nails / do) every two weeks.", "has her nails done"],
+    ["I'm ___ (a suit / make) by a tailor in Douala at the moment.", "having a suit made"],
+    ["___ you ever ___ (your fortune / tell)?", "Have you ever had your fortune told?"],
+    ["We're going to ___ (solar panels / install) next month.", "have solar panels installed"]
+   ]
+  },
+  {
+   "titre": "3. Transform",
+   "consigne": "Rewrite with “have something done”, starting with the word given.",
+   "items": [
+    ["A mechanic services my car every year. (I…)", "I have my car serviced every year."],
+    ["The optician tested my eyes yesterday. (I…)", "I had my eyes tested yesterday."],
+    ["Someone stole Paul's phone on the bus. (Paul…)", "Paul had his phone stolen on the bus."],
+    ["A photographer is going to take our wedding photos. (We…)", "We're going to have our wedding photos taken."],
+    ["A plumber has repaired our shower. (We…)", "We've had our shower repaired."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["I made repair my laptop.", "I had (got) my laptop repaired."],
+    ["She had cut her hair yesterday at the salon.", "She had her hair cut yesterday at the salon."],
+    ["Did you had your passport renewed?", "Did you have your passport renewed?"],
+    ["I'd my car washed this morning.", "I had my car washed this morning."]
+   ]
+  },
+  {
+   "titre": "5. Give advice",
+   "consigne": "Give advice with “You should have / get + it / them + past participle”.",
+   "items": [
+    ["My jacket is too big.", "You should have (get) it altered."],
+    ["My shower is leaking.", "You should have (get) it repaired (fixed)."],
+    ["I can't read the board in class.", "You should have (get) your eyes tested."],
+    ["My suit has a coffee stain.", "You should have (get) it dry-cleaned."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "In 4 sentences, describe a service you pay for regularly, something you had done for you recently, and something you are going to have done soon.",
+   "items": [
+    ["Example answer", "I have my hair cut every three weeks at a small salon near my office. Last month I had my car serviced and the tyres changed. I'm going to have my glasses repaired because one arm is broken. I'd also like to get my flat painted before the summer."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "have / get + object + past participle = someone else does the job for you.",
+  "I cut my hair (myself) is not I had my hair cut (at the hairdresser's). Never “make repair”.",
+  "“have” changes normally, uses do / did and does not contract.",
+  "“get” is more informal and can add an idea of effort: get the job done.",
+  "“I had my phone stolen” = someone stole my phone."
+ ],
+ "liens": [151, 103, 186, 152],
+ "refs": ["bc-b1b2", "cam-verbs"]
+}

@@ -1,0 +1,427 @@
+{
+ "n": 229,
+ "niveau": "C1",
+ "titre": "L’inversion stylistique",
+ "intro": "« Down came the rain », « So great was the demand that… », « Little did she know… » : l'inversion du sujet et du verbe crée un effet de style — suspense, emphase, solennité. Au niveau C1, il faut savoir la reconnaître dans la presse et la littérature, et l'employer à bon escient dans un discours ou un écrit soigné.",
+ "objectifs": [
+  "Distinguer l'inversion avec auxiliaire (Never have I…) et l'inversion du verbe lexical (In came the doctor).",
+  "Utiliser l'inversion après un complément de lieu ou de mouvement, et connaître la règle des pronoms (Here it comes, Here comes the bus).",
+  "Employer l'inversion avec so / such (So great was…, Such was…) et après as, than, nor.",
+  "Réviser les inversions après les expressions négatives et conditionnelles, et doser cet effet selon le registre."
+ ],
+ "sections": [
+  {
+   "titre": "Deux types d'inversion",
+   "texte": [
+    "L'anglais a deux mécanismes très différents. 1) L'inversion avec auxiliaire, comme dans une question : un élément négatif ou restrictif est placé en tête, puis auxiliaire + sujet + verbe (« Never have I seen such chaos »). Au présent et au prétérit simples, on ajoute do / does / did (« Little did she know »).",
+    "2) L'inversion du verbe lexical entier : après un complément de lieu ou de direction placé en tête, le verbe (souvent be, come, go, stand, lie, sit) passe devant le sujet, sans auxiliaire (« On the hill stood an old church »). Elle est réservée aux verbes intransitifs de position ou de mouvement.",
+    "Dans les deux cas, l'effet est stylistique : on met en relief l'élément placé en tête et on retarde le sujet, souvent pour créer un effet de surprise ou de nouveauté."
+   ],
+   "tableau": {
+    "entetes": [
+     "Type",
+     "Structure",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Avec auxiliaire",
+      "élément négatif / restrictif + aux. + sujet + verbe",
+      "Rarely have we faced such a challenge."
+     ],
+     [
+      "Verbe lexical",
+      "lieu / direction + verbe + sujet (nom)",
+      "Into the room walked the president."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "L'inversion après un lieu ou une direction",
+   "texte": [
+    "Fréquente dans les récits, les descriptions et le journalisme, elle place le décor d'abord et le sujet (souvent nouveau, important ou long) à la fin, là où porte l'accent de la phrase.",
+    "Règle essentielle : l'inversion ne se fait qu'avec un sujet nominal. Avec un pronom, l'ordre normal revient : « Here comes the bus » mais « Here it comes » ; « Off went the children » mais « Off they went »."
+   ],
+   "exemples": [
+    [
+     "At the end of the corridor was a small locked door.",
+     "Lieu en tête, sujet long à la fin : effet de découverte."
+    ],
+    [
+     "Down came the rain, and everyone ran for cover.",
+     "Particule de direction en tête : récit vivant."
+    ],
+    [
+     "Here comes the bus! — Here it comes!",
+     "Nom : inversion ; pronom : ordre normal."
+    ],
+    [
+     "In the centre of the square stands a statue of the city's founder.",
+     "Description de guide : « stands » au présent."
+    ]
+   ]
+  },
+  {
+   "titre": "So / such + inversion : l'emphase sur l'intensité",
+   "texte": [
+    "Pour insister sur un degré extrême, on place « so + adjectif » ou « such + be » en tête, avec inversion, suivi de « that » + conséquence. C'est très fréquent dans les discours, les éditoriaux et les récits historiques.",
+    "Avec « such », le verbe est toujours be, et « such » signifie « tel » : « Such was the noise that… » (= le bruit était tel que…)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Neutre",
+     "Inversion emphatique"
+    ],
+    "lignes": [
+     [
+      "The demand was so great that the site crashed.",
+      "So great was the demand that the site crashed."
+     ],
+     [
+      "She was so tired that she fell asleep on the train.",
+      "So tired was she that she fell asleep on the train."
+     ],
+     [
+      "His anger was such that nobody dared to speak.",
+      "Such was his anger that nobody dared to speak."
+     ],
+     [
+      "The film was so successful that a sequel was made.",
+      "So successful was the film that a sequel was made."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Such was the response that the organisers added a second date.",
+     "« Such was… that » : la réaction a été telle que…"
+    ]
+   ]
+  },
+  {
+   "titre": "Après as, than, nor, neither et so",
+   "texte": [
+    "Dans les comparaisons écrites soignées, on peut inverser après « as » et « than » quand le sujet est un nom : « She was delighted, as was her coach » ; « Women live longer than do men » (forme soutenue, « than men do » est plus courant).",
+    "Après « nor » et « neither », l'inversion est obligatoire : « I don't eat meat, nor do I eat fish. » De même dans « So do I » / « Neither does she » (leçon 70)."
+   ],
+   "exemples": [
+    [
+     "The minister resigned, as did two of her advisers.",
+     "« as did » : de même que, inversion soutenue."
+    ],
+    [
+     "The report does not explain the delay, nor does it propose a solution.",
+     "« nor » + auxiliaire + sujet : obligatoire."
+    ]
+   ]
+  },
+  {
+   "titre": "Rappel : inversions négatives et conditionnelles",
+   "texte": [
+    "Les inversions vues au niveau B2 relèvent du même mécanisme avec auxiliaire : après never, rarely, seldom, little, hardly… when, no sooner… than, not only… but also, only then / only when / only after, not until, under no circumstances, on no account.",
+    "Attention avec « only » et « not until » : l'inversion se fait dans la proposition principale, pas dans la subordonnée : « Only when I got home did I realise » (et non « Only when did I get home… »).",
+    "Les conditionnelles inversées (Had I known…, Should you need…, Were it not for…) appartiennent au même registre soutenu."
+   ],
+   "exemples": [
+    [
+     "Little did they know that the company was about to close.",
+     "« Little did + sujet + know » : ils étaient loin de se douter."
+    ],
+    [
+     "Not until the results came out did we understand the scale of the problem.",
+     "Inversion dans la principale (did we understand)."
+    ],
+    [
+     "Were it not for her support, I would have given up.",
+     "Si ce n'était pas pour son soutien… (conditionnelle inversée)."
+    ]
+   ]
+  },
+  {
+   "titre": "Registre et dosage",
+   "texte": [
+    "L'inversion est un outil rhétorique : discours, éditoriaux, récits, lettres formelles. Dans une conversation ordinaire, la plupart des formes paraissent théâtrales, sauf les plus courantes : « Here comes…, There goes…, Little did I know…, So do I, Nor do I ».",
+    "Une inversion par paragraphe suffit pour produire son effet. Répétées, elles rendent le texte précieux ou parodique."
+   ]
+  }
+ ],
+ "formule": "Élément négatif / so + adj / such en tête + AUXILIAIRE + sujet + verbe · Lieu / direction en tête + VERBE + sujet nominal (pronom : ordre normal)",
+ "prononciation": [
+  "L'élément placé en tête porte un accent fort et forme un groupe à part : « NEVer | have I seen… », « So GREAT | was the demand… ».",
+  "Dans l'inversion de lieu, le sujet en fin de phrase reçoit l'accent principal : « Down came the RAIN. »",
+  "L'auxiliaire inversé est généralement non accentué et réduit : « Little did I know » /ˈlɪtl dɪd aɪ ˈnəʊ/.",
+  "« Such was… » : « such » /sʌtʃ/ accentué, « was » réduit à /wəz/.",
+  "À l'oral, marquez une légère pause avant « that » de conséquence : « So tired was she | that she fell asleep. »"
+ ],
+ "erreurs": [
+  [
+   "Here comes he!",
+   "Here he comes!",
+   "Pas d'inversion avec un pronom sujet après here / there / off / down…"
+  ],
+  [
+   "So tired I was that I fell asleep.",
+   "So tired was I that I fell asleep.",
+   "Après « so + adjectif » en tête, il faut inverser."
+  ],
+  [
+   "Such his anger was that…",
+   "Such was his anger that…",
+   "« Such » en tête + was + sujet."
+  ],
+  [
+   "Never I have seen such a mess.",
+   "Never have I seen such a mess.",
+   "Inversion avec l'auxiliaire après « never » en tête."
+  ],
+  [
+   "Little I knew that…",
+   "Little did I know that…",
+   "Au prétérit simple, il faut l'auxiliaire did."
+  ],
+  [
+   "Only when did I arrive I understood.",
+   "Only when I arrived did I understand.",
+   "L'inversion porte sur la principale, pas sur la subordonnée."
+  ],
+  [
+   "Into the room the doctor walked quickly in.",
+   "Into the room walked the doctor.",
+   "Inversion de lieu : verbe + sujet, sans répéter la particule."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "À Bruxelles, une journaliste répète avec un collègue le texte d'un reportage télévisé sur une grande manifestation.",
+  "lignes": [
+   [
+    "Inès",
+    "Listen to my opening: “Down the Rue de la Loi marched forty thousand farmers.”",
+    "Écoute mon ouverture : « Rue de la Loi ont défilé quarante mille agriculteurs. »"
+   ],
+   [
+    "Kofi",
+    "Nice. The inversion keeps the big number for the end.",
+    "Bien. L'inversion garde le gros chiffre pour la fin."
+   ],
+   [
+    "Inès",
+    "Then: “So great was the crowd that the metro had to close two stations.”",
+    "Puis : « La foule était telle que le métro a dû fermer deux stations. »"
+   ],
+   [
+    "Kofi",
+    "Good, but don't add another one straight after. It'll sound like a novel.",
+    "Bien, mais n'en ajoute pas une autre juste après. Ça sonnerait comme un roman."
+   ],
+   [
+    "Inès",
+    "Fair point. For the interview I'll just say: “The minister refused to comment, as did the union leaders.”",
+    "Juste. Pour l'interview, je dirai seulement : « Le ministre a refusé de commenter, tout comme les dirigeants syndicaux. »"
+   ],
+   [
+    "Kofi",
+    "That works. And the ending?",
+    "Ça marche. Et la fin ?"
+   ],
+   [
+    "Inès",
+    "“Little did the organisers expect such a turnout.”",
+    "« Les organisateurs étaient loin de s'attendre à une telle affluence. »"
+   ],
+   [
+    "Kofi",
+    "Perfect. Three inversions in two minutes: dramatic, but not too much.",
+    "Parfait. Trois inversions en deux minutes : dramatique, mais sans excès."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "seldom",
+   "Seldom has a film caused such debate.",
+   "rarement (soutenu)"
+  ],
+  [
+   "turnout",
+   "The turnout was higher than expected.",
+   "participation, affluence"
+  ],
+  [
+   "scarcely",
+   "Scarcely had we arrived when the alarm went off.",
+   "à peine"
+  ],
+  [
+   "dramatic",
+   "The ending is very dramatic.",
+   "spectaculaire, théâtral"
+  ],
+  [
+   "emphasis",
+   "Inversion adds emphasis to the first element.",
+   "insistance, mise en relief"
+  ],
+  [
+   "rhetorical",
+   "It's a rhetorical device used in speeches.",
+   "rhétorique"
+  ],
+  [
+   "vivid",
+   "The story gives a vivid description of the storm.",
+   "vivant, frappant"
+  ],
+  [
+   "suspense",
+   "The inversion creates suspense.",
+   "suspense"
+  ],
+  [
+   "no sooner",
+   "No sooner had she left than it started to rain.",
+   "à peine… que"
+  ],
+  [
+   "on no account",
+   "On no account should you open this door.",
+   "en aucun cas"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quel type d'inversion ?",
+   "consigne": "Indique s'il s'agit d'une inversion avec auxiliaire ou d'une inversion du verbe lexical.",
+   "items": [
+    [
+     "Rarely do we see such talent.",
+     "avec auxiliaire"
+    ],
+    [
+     "On the table lay a pile of letters.",
+     "verbe lexical"
+    ],
+    [
+     "So loud was the music that I left.",
+     "avec auxiliaire (be)"
+    ],
+    [
+     "Out ran the children.",
+     "verbe lexical"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Inversion de lieu",
+   "consigne": "Réécris en plaçant l'élément entre crochets en tête, avec inversion si possible.",
+   "items": [
+    [
+     "The bus comes [here].",
+     "Here comes the bus."
+    ],
+    [
+     "It comes [here].",
+     "Here it comes. (pronom : pas d'inversion)"
+    ],
+    [
+     "An old mill stood [at the top of the hill].",
+     "At the top of the hill stood an old mill."
+    ],
+    [
+     "The rain came [down].",
+     "Down came the rain."
+    ]
+   ]
+  },
+  {
+   "titre": "3. So / such",
+   "consigne": "Réécris avec « So … » ou « Such … » en tête.",
+   "items": [
+    [
+     "The demand was so high that prices doubled.",
+     "So high was the demand that prices doubled."
+    ],
+    [
+     "Her success was such that she opened a second shop.",
+     "Such was her success that she opened a second shop."
+    ],
+    [
+     "He was so nervous that he forgot his speech.",
+     "So nervous was he that he forgot his speech."
+    ],
+    [
+     "The storm was so violent that the bridge collapsed.",
+     "So violent was the storm that the bridge collapsed."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "Here comes she!",
+     "Here she comes!"
+    ],
+    [
+     "Little I knew what was coming.",
+     "Little did I know what was coming."
+    ],
+    [
+     "Only after did I read the contract I signed it.",
+     "Only after I had read the contract did I sign it."
+    ],
+    [
+     "The CEO resigned, as did resign the CFO.",
+     "The CEO resigned, as did the CFO."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais en utilisant une inversion.",
+   "items": [
+    [
+     "Jamais je n'avais vu une telle foule.",
+     "Never had I seen such a crowd."
+    ],
+    [
+     "Il n'aime pas le café, et il ne boit pas de thé non plus.",
+     "He doesn't like coffee, nor does he drink tea."
+    ],
+    [
+     "Au fond du jardin se trouvait une petite cabane.",
+     "At the bottom of the garden was / stood a small hut."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris le début d'un récit ou d'un discours (4 phrases) contenant deux inversions de types différents.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "It was the coldest night of the year. At the door of the old station stood a small girl with a suitcase. Nobody knew where she had come from, and so quiet was she that the guard almost missed her. Little did he know that she would change his life."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Deux mécanismes : auxiliaire + sujet après un élément négatif, so / such, nor (Never have I…, So great was…) ; verbe + sujet après un lieu ou une direction (Down came the rain).",
+  "Inversion de lieu : seulement avec un sujet nominal ; avec un pronom, ordre normal (Here it comes).",
+  "Avec only / not until, l'inversion porte sur la principale : Only when I arrived did I understand.",
+  "Effet rhétorique : discours, récits, éditoriaux ; une inversion bien placée vaut mieux que trois."
+ ],
+ "liens": [
+  157,
+  160,
+  70,
+  230,
+  231
+ ],
+ "refs": [
+  "bc-inversion-neg",
+  "bc-emphasis",
+  "bc-inversion-cond"
+ ]
+}

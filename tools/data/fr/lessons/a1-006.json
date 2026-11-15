@@ -1,0 +1,217 @@
+{
+ "n": 6,
+ "niveau": "A1",
+ "titre": "Le présent simple",
+ "intro": "Le présent simple sert à parler des habitudes, des vérités générales et des situations permanentes : ce que l'on fait tous les jours, où l'on habite, ce que l'on aime. C'est le temps le plus utilisé pour parler de soi.",
+ "objectifs": [
+  "Conjuguer un verbe au présent simple, avec le -s de la 3e personne du singulier et ses règles d'orthographe.",
+  "Construire la négation et les questions avec do / does, et donner des réponses courtes.",
+  "Savoir quand utiliser le présent simple : habitudes, faits, situations permanentes, goûts et opinions.",
+  "Prononcer correctement le -s final : /s/, /z/ ou /ɪz/."
+ ],
+ "sections": [
+  {
+   "titre": "La forme affirmative : attention au -s",
+   "texte": [
+    "Au présent simple, le verbe garde sa forme de base (celle du dictionnaire, sans « to ») à toutes les personnes, sauf une : avec he, she, it (et tout sujet singulier comme « my sister », « the shop »), on ajoute un -s.",
+    "Ce -s est la règle la plus oubliée par les apprenants. Retiens : he / she / it → -s. Les verbes « have », « do », « go » sont irréguliers à cette personne : has, does, goes."
+   ],
+   "tableau": {
+    "entetes": ["Sujet", "work (travailler)", "live (habiter)", "have (avoir)"],
+    "lignes": [
+     ["I", "I work", "I live", "I have"],
+     ["you", "you work", "you live", "you have"],
+     ["he / she / it", "she works", "he lives", "it has"],
+     ["we", "we work", "we live", "we have"],
+     ["they", "they work", "they live", "they have"]
+    ]
+   },
+   "exemples": [
+    ["I work in a bank.", "Je travaille dans une banque."],
+    ["My sister lives in Québec.", "Ma sœur habite à Québec (sujet singulier → -s)."],
+    ["The shop opens at nine.", "Le magasin ouvre à neuf heures."]
+   ]
+  },
+  {
+   "titre": "L'orthographe de la 3e personne",
+   "texte": [
+    "La plupart des verbes ajoutent simplement -s. Mais quelques terminaisons changent l'orthographe, comme pour le pluriel des noms (leçon 12)."
+   ],
+   "tableau": {
+    "entetes": ["Terminaison du verbe", "Règle", "Exemples"],
+    "lignes": [
+     ["cas général", "+ s", "work → works, read → reads, play → plays"],
+     ["-s, -ss, -sh, -ch, -x, -z", "+ es", "miss → misses, wash → washes, watch → watches, fix → fixes"],
+     ["-o", "+ es", "go → goes, do → does"],
+     ["consonne + y", "y → ies", "study → studies, try → tries, carry → carries"],
+     ["voyelle + y", "+ s", "play → plays, buy → buys, say → says"],
+     ["have", "irrégulier", "have → has"]
+    ]
+   },
+   "note": "« says » se prononce /sez/ et « does » /dʌz/ : la voyelle change à l'oral."
+  },
+  {
+   "titre": "La négation et les questions avec do / does",
+   "texte": [
+    "Contrairement à « to be » et « have got », un verbe ordinaire a besoin d'un auxiliaire pour la négation et la question : do (ou does avec he / she / it). Le verbe principal reprend alors sa forme de base, sans -s : c'est « does » qui porte la marque de la 3e personne.",
+    "Négation : sujet + don't / doesn't + base verbale. Question : Do / Does + sujet + base verbale ? Réponse courte : Yes, I do. / No, she doesn't. (on ne répète pas le verbe principal)."
+   ],
+   "tableau": {
+    "entetes": ["", "I / you / we / they", "he / she / it"],
+    "lignes": [
+     ["Négation", "I don't (do not) eat meat.", "She doesn't (does not) eat meat."],
+     ["Question", "Do you eat meat?", "Does she eat meat?"],
+     ["Réponse courte (oui)", "Yes, I do.", "Yes, she does."],
+     ["Réponse courte (non)", "No, I don't.", "No, she doesn't."],
+     ["Question en Wh-", "Where do you work?", "What does he do?"]
+    ]
+   },
+   "exemples": [
+    ["He doesn't like coffee.", "Il n'aime pas le café (doesn't + like, sans -s)."],
+    ["Do your children speak English? — Yes, they do.", "Tes enfants parlent anglais ? — Oui."],
+    ["What time does the train leave?", "À quelle heure part le train ?"]
+   ],
+   "note": "« Do » peut être à la fois auxiliaire et verbe principal (faire) : What do you do? (Que fais-tu dans la vie ?), She doesn't do her homework."
+  },
+  {
+   "titre": "Quand utiliser le présent simple",
+   "texte": [
+    "1. Les habitudes et les routines, souvent avec un repère de fréquence : every day, every week, on Mondays, at the weekend, always, usually, often, sometimes, never (ces adverbes sont étudiés à la leçon 7).",
+    "2. Les faits et vérités générales : ce qui est toujours vrai.",
+    "3. Les situations permanentes ou de longue durée : où l'on habite, où l'on travaille.",
+    "4. Les goûts, opinions et états : like, love, hate, want, know, understand, think (= penser que), believe. Ces verbes d'état s'emploient au présent simple même pour une situation actuelle (leçon 9).",
+    "5. Les horaires officiels (trains, cours, films) : The film starts at eight."
+   ],
+   "exemples": [
+    ["I get up at six every day.", "Habitude : je me lève à six heures tous les jours."],
+    ["Water boils at 100 degrees.", "Vérité générale : l'eau bout à 100 degrés."],
+    ["They live in Douala.", "Situation permanente : ils habitent à Douala."],
+    ["I don't understand this word.", "État : je ne comprends pas ce mot (pas de forme en -ing)."],
+    ["The bus leaves at 7.15.", "Horaire : le bus part à 7 h 15."]
+   ]
+  },
+  {
+   "titre": "Différences avec le français",
+   "texte": [
+    "Le français utilise un seul présent pour « je travaille » (habitude) et « je travaille » (en ce moment). L'anglais distingue : le présent simple pour l'habitude ou le permanent (I work in Brussels), le présent continu pour ce qui se passe maintenant (I'm working now, leçon 8). Dire « I work » pour parler du moment présent est une erreur fréquente.",
+    "En anglais, on n'utilise pas non plus le présent simple pour une durée qui continue jusqu'à maintenant : « J'habite ici depuis trois ans » ne se dit pas « I live here since three years » (on verra la bonne forme au niveau A2 / B1). Pour l'instant, retiens seulement que « depuis » ne se traduit pas par un présent simple."
+   ]
+  }
+ ],
+ "formule": "I / you / we / they + verbe · he / she / it + verbe-s · don't / doesn't + verbe · Do / Does + sujet + verbe ?",
+ "prononciation": [
+  "Le -s final se prononce /s/ après un son sourd p, t, k, f : works /wɜːks/, stops, laughs.",
+  "Il se prononce /z/ après une voyelle ou un son sonore : lives /lɪvz/, plays /pleɪz/, reads /riːdz/.",
+  "Il se prononce /ɪz/ (une syllabe en plus) après s, z, sh, ch, j, x : watches /ˈwɒtʃɪz/, misses, washes, changes.",
+  "« does » /dʌz/, « says » /sez/ et « goes » /ɡəʊz/ ont une voyelle particulière : ne les prononce pas comme ils s'écrivent.",
+  "Dans les questions, « do » et « does » sont faibles : Do you…? /də juː/, Does she…? /dəz ʃiː/. Ils sont forts dans les réponses courtes : Yes, I DO /duː/."
+ ],
+ "erreurs": [
+  ["She work in Paris.", "She works in Paris.", "He / she / it → verbe + -s."],
+  ["He doesn't works on Sunday.", "He doesn't work on Sunday.", "Après doesn't, le verbe est à la base, sans -s."],
+  ["Does she likes tea?", "Does she like tea?", "Après does, le verbe est à la base."],
+  ["You speak English?", "Do you speak English?", "La question normale a besoin de do."],
+  ["I not like fish.", "I don't like fish.", "La négation d'un verbe ordinaire a besoin de don't / doesn't."],
+  ["He studys at university.", "He studies at university.", "Consonne + y → ies."],
+  ["Do you like pizza? — Yes, I like.", "Yes, I do.", "La réponse courte reprend do, pas le verbe."],
+  ["I work now, sorry.", "I'm working now, sorry.", "Pour une action en cours, on utilise le présent continu (leçon 8)."]
+ ],
+ "dialogue": {
+  "contexte": "Une journaliste d'une radio de Yaoundé interroge une boulangère sur sa journée de travail.",
+  "lignes": [
+   ["Journalist", "Good morning, Mrs Ngo. What time do you start work?", "Bonjour, Madame Ngo. À quelle heure commencez-vous le travail ?"],
+   ["Mrs Ngo", "I start at four in the morning. I make the bread with my son.", "Je commence à quatre heures du matin. Je fais le pain avec mon fils."],
+   ["Journalist", "Does your son work here every day?", "Votre fils travaille ici tous les jours ?"],
+   ["Mrs Ngo", "No, he doesn't. He studies at university, so he only comes at the weekend.", "Non. Il fait des études à l'université, donc il ne vient que le week-end."],
+   ["Journalist", "And when does the shop open?", "Et quand ouvre la boutique ?"],
+   ["Mrs Ngo", "It opens at six and closes at seven in the evening.", "Elle ouvre à six heures et ferme à sept heures du soir."],
+   ["Journalist", "Do you like your job?", "Vous aimez votre métier ?"],
+   ["Mrs Ngo", "Yes, I do! I love the smell of fresh bread, and my customers know me well.", "Oui ! J'adore l'odeur du pain frais, et mes clients me connaissent bien."]
+  ]
+ },
+ "mots": [
+  ["work", "My father works in a hospital.", "travailler"],
+  ["start", "Classes start at eight.", "commencer"],
+  ["finish", "I finish work at five.", "finir, terminer"],
+  ["get up", "She gets up at six.", "se lever"],
+  ["speak", "Do you speak Spanish?", "parler (une langue)"],
+  ["understand", "I don't understand.", "comprendre"],
+  ["need", "He needs a new bike.", "avoir besoin de"],
+  ["want", "What do you want?", "vouloir"],
+  ["every day", "We walk to school every day.", "tous les jours"],
+  ["weekend", "What do you do at the weekend?", "le week-end"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. La 3e personne",
+   "consigne": "Écris le verbe à la 3e personne du singulier (he / she / it).",
+   "items": [
+    ["work", "works"],
+    ["watch", "watches"],
+    ["study", "studies"],
+    ["play", "plays"],
+    ["go", "goes"],
+    ["have", "has"]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Mets le verbe entre parenthèses au présent simple.",
+   "items": [
+    ["My brother ___ (live) in Ghent.", "lives"],
+    ["We ___ (not / eat) meat.", "don't eat"],
+    ["___ she ___ (speak) German?", "Does … speak"],
+    ["The museum ___ (close) at six.", "closes"],
+    ["They ___ (not / work) on Sundays.", "don't work"],
+    ["What time ___ you ___ (get up)?", "do … get up"]
+   ]
+  },
+  {
+   "titre": "3. Négation et question",
+   "consigne": "Écris la phrase à la forme négative, puis pose la question correspondante.",
+   "items": [
+    ["He drinks coffee.", "He doesn't drink coffee. / Does he drink coffee?"],
+    ["You play the guitar.", "You don't play the guitar. / Do you play the guitar?"],
+    ["Anna teaches maths.", "Anna doesn't teach maths. / Does Anna teach maths?"],
+    ["They watch TV in the evening.", "They don't watch TV in the evening. / Do they watch TV in the evening?"]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["She don't like football.", "She doesn't like football."],
+    ["Does he works here?", "Does he work here?"],
+    ["My mother teach English.", "My mother teaches English."],
+    ["Do you like rice? — Yes, I like.", "Yes, I do."],
+    ["Where you live?", "Where do you live?"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Mon père ne travaille pas le samedi.", "My father doesn't work on Saturdays."],
+    ["Est-ce que tu parles anglais ? — Oui.", "Do you speak English? — Yes, I do."],
+    ["Elle étudie le droit à Bruxelles.", "She studies law in Brussels."],
+    ["Que fait ton frère dans la vie ?", "What does your brother do?"]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Décris une journée normale en cinq phrases au présent simple : heure du lever, travail ou études, repas, soirée. Ajoute une phrase sur une personne de ta famille (he / she).",
+   "items": [
+    ["Exemple de réponse", "I get up at half past six. I take the bus to work and I start at eight. I have lunch with my colleagues. In the evening, I cook and I read. My wife works at home, so she doesn't take the bus."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "He / she / it + verbe-s (works, watches, studies, has, goes, does).",
+  "Négation : don't / doesn't + base ; question : Do / Does + sujet + base ? Le -s passe sur does.",
+  "Réponse courte : Yes, I do. / No, she doesn't.",
+  "Usages : habitudes, vérités générales, situations permanentes, goûts et états, horaires.",
+  "Pour une action en cours maintenant : présent continu (leçon 8), pas présent simple."
+ ],
+ "liens": [5, 7, 8, 9, 29],
+ "refs": ["bc-presentsimple", "cam-verbs"]
+}

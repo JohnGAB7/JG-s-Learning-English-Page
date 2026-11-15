@@ -1,0 +1,179 @@
+{
+"n": 55,
+"niveau": "A2",
+"titre": "Mustn’t or don’t have to?",
+"intro": "In positive sentences, must and have to are very similar. But in the negative, they have opposite meanings: “mustn't” = it is not allowed; “don't have to” = it is not necessary, you can choose. Mixing them up can cause real misunderstandings.",
+"objectifs": [
+"Say that something is not allowed with mustn't (and can't / not allowed to).",
+"Say that something is not necessary with don't / doesn't have to (and needn't).",
+"Choose the right form for the meaning you want.",
+"Talk about no obligation in the past with didn't have to."
+],
+"sections": [
+{
+"titre": "Two opposite meanings",
+"texte": [
+"“Mustn't” (must not) means an action is not allowed: don't do it. It is a prohibition, often a rule or a warning.",
+"“Don't have to” means an action is not necessary: you can do it if you want, but you don't need to. It is a freedom, not a prohibition."
+],
+"tableau": {
+"entetes": ["Form", "Meaning", "Example", "Note"],
+"lignes": [
+["mustn't + base", "prohibition", "You mustn't smoke here.", "It is not allowed."],
+["don't have to + base", "no obligation", "You don't have to come.", "You can choose."],
+["doesn't have to + base", "no obligation (he / she / it)", "She doesn't have to work today.", "It's her day off."]
+]
+},
+"exemples": [
+["You mustn't be late for the exam.", "A warning: being late is not OK."],
+["You don't have to be early. Ten o'clock is fine.", "Not necessary: you can come at ten."]
+]
+},
+{
+"titre": "The big trap",
+"texte": [
+"Many learners think “don't have to” means “it is not allowed”. It doesn't! It means “it is not necessary”.",
+"If a sign says “You don't have to pay”, it means it is free — not that paying is forbidden!"
+],
+"exemples": [
+["You mustn't touch the paintings.", "Not allowed."],
+["You don't have to touch the screen — it works with your voice.", "Not necessary."],
+["We don't have to get up early tomorrow. It's Sunday!", "No obligation: we can sleep."]
+]
+},
+{
+"titre": "Other ways to say “not allowed”",
+"texte": [
+"“Can't” and “be not allowed to” also express prohibition, especially when the rule comes from outside (a law, official rules). “Mustn't” is common for a personal warning or very strong advice.",
+"In conversation, “can't” is often more natural than “mustn't” for a rule: “You can't park here”."
+],
+"exemples": [
+["You can't park here. It's for buses.", "A rule."],
+["Children aren't allowed to swim without an adult.", "An official rule."],
+["You mustn't tell anyone. It's a secret!", "A personal warning."]
+]
+},
+{
+"titre": "Needn't and the past",
+"texte": [
+"In British English, “needn't + base” means the same as “don't have to”: “You needn't bring anything”. “Don't need to” is also very common.",
+"In the past, prohibition uses “couldn't” or “wasn't / weren't allowed to” (mustn't has no past form). No obligation uses “didn't have to”."
+],
+"tableau": {
+"entetes": ["Idea", "Present", "Past"],
+"lignes": [
+["prohibition", "You mustn't / can't use your phone.", "We couldn't / weren't allowed to use our phones."],
+["no obligation", "I don't have to wear a tie.", "I didn't have to wear a tie."],
+["no obligation (UK)", "You needn't wait.", "You didn't need to wait."]
+]
+}
+}
+],
+"formule": "mustn't + base = not allowed · don't / doesn't have to + base = not necessary",
+"prononciation": [
+"“mustn't” is /ˈmʌsnt/: the first t is silent. Don't say “must-ent”.",
+"“don't have to”: /dəʊnt ˈhæf tə/ (UK), with an f; “doesn't have to” /ˈdʌznt ˈhæf tə/.",
+"“needn't” is /ˈniːdnt/, two syllables.",
+"For a prohibition, stress “mustn't”: You MUSTN'T do that. For no obligation, the stress is often on “have”: You don't HAVE to."
+],
+"erreurs": [
+["You mustn't pay. It's free.", "You don't have to pay. It's free.", "Free = no need to pay, not a prohibition."],
+["You don't have to smoke in the hospital.", "You mustn't smoke in the hospital.", "A prohibition: mustn't (or can't)."],
+["She don't have to work.", "She doesn't have to work.", "he / she / it: doesn't."],
+["You mustn't to run.", "You mustn't run.", "No to after mustn't."],
+["Yesterday I mustn't go out.", "Yesterday I couldn't go out. / I wasn't allowed to go out.", "mustn't has no past form."],
+["I haven't to go.", "I don't have to go.", "Make the negative of have to with do."]
+],
+"dialogue": {
+"contexte": "In a museum in Ottawa, a guard talks to two visitors from Douala, Linda and her son Ryan.",
+"lignes": [
+["Guard", "Good morning. Just so you know, you mustn't take photos with a flash.", "Prohibition."],
+["Linda", "OK. Do we have to leave our bags at the entrance?", "Question about obligation."],
+["Guard", "Small bags are fine, so you don't have to leave yours. But you mustn't eat or drink in the galleries.", "No obligation, then a prohibition."],
+["Ryan", "Do I have to pay? I'm twelve.", "Question about obligation."],
+["Guard", "No, children under thirteen don't have to pay.", "Free for children."],
+["Ryan", "Great! Can I touch the dinosaur?", "Asking for permission."],
+["Guard", "Sorry, you mustn't touch it. But you can touch the stones in room 4.", "Prohibition, then permission."]
+]
+},
+"mots": [
+["forbidden", "Smoking is forbidden here.", "not allowed"],
+["free", "Entry is free for children.", "costing no money; not busy"],
+["optional", "The second exercise is optional.", "you can choose to do it or not"],
+["compulsory", "English is compulsory at this school.", "that you must do"],
+["permission", "You need permission to film here.", "when someone says you can do something"],
+["warning", "There's a warning on the door.", "words that tell you about a danger"],
+["entrance", "Leave your bag at the entrance.", "the door or place where you go in"],
+["touch", "Please don't touch the screen.", "to put your hand on something"],
+["park", "You can't park in front of the gate.", "to leave a car in a place for a time"],
+["secret", "Don't tell anyone. It's a secret.", "something that other people must not know"]
+],
+"exercices": [
+{
+"titre": "1. Not allowed or not necessary?",
+"consigne": "Does the sentence show a prohibition or no obligation?",
+"items": [
+["You mustn't cross the road here.", "prohibition"],
+["You don't have to wear a suit on Fridays.", "no obligation"],
+["He doesn't have to cook tonight.", "no obligation"],
+["Passengers mustn't stand near the doors.", "prohibition"]
+]
+},
+{
+"titre": "2. Mustn't or don't / doesn't have to?",
+"consigne": "Complete with the right form.",
+"items": [
+["It's a holiday tomorrow, so we ___ go to work.", "don't have to"],
+["You ___ drive after drinking alcohol.", "mustn't"],
+["The museum is free. You ___ buy a ticket.", "don't have to"],
+["You ___ open this door. The alarm will ring.", "mustn't"],
+["My brother ___ get up early. He works from home.", "doesn't have to"],
+["You ___ forget your passport!", "mustn't"]
+]
+},
+{
+"titre": "3. In the past",
+"consigne": "Put the sentence in the past.",
+"items": [
+["I don't have to wear a uniform.", "I didn't have to wear a uniform."],
+["We can't use our phones in the exam.", "We couldn't use our phones in the exam."],
+["She doesn't have to pay.", "She didn't have to pay."]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake in form or meaning. Write it correctly.",
+"items": [
+["Breakfast is included, so you mustn't pay for it.", "Breakfast is included, so you don't have to pay for it."],
+["You don't have to swim here. It's dangerous!", "You mustn't swim here. It's dangerous!"],
+["He don't have to come.", "He doesn't have to come."],
+["I haven't to study tonight.", "I don't have to study tonight."]
+]
+},
+{
+"titre": "5. Say it another way",
+"consigne": "Rewrite with mustn't, don't have to or needn't.",
+"items": [
+["It isn't necessary for you to answer.", "You don't have to answer."],
+["Don't forget the keys — it's very important!", "You mustn't forget the keys. / We mustn't forget the keys."],
+["It isn't necessary to bring a present.", "You don't have to bring a present. / You needn't bring a present."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Write the rules of a place you know (your job, your school, your home): three prohibitions with mustn't / can't and two freedoms with don't have to.",
+"items": [
+["Model answer", "At my gym in Brussels, you mustn't use your phone on the machines. You can't enter without a card, and you mustn't leave your towel on the floor. But you don't have to book a time, and you don't have to pay extra for the classes."]
+]
+}
+],
+"a_retenir": [
+"mustn't + base = not allowed.",
+"don't / doesn't have to + base = not necessary (you can choose).",
+"Prohibition also with can't or not allowed to; no obligation also with needn't / don't need to.",
+"Past: couldn't / wasn't allowed to (prohibition); didn't have to (no obligation).",
+"Free = You don't have to pay, never You mustn't pay."
+],
+"liens": [28, 54, 56],
+"refs": ["bc-obligation", "cam-confused"]
+}

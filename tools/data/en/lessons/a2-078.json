@@ -1,0 +1,208 @@
+{
+"n": 78,
+"niveau": "A2",
+"titre": "Phoning and leaving a message",
+"intro": "Phoning in English can be scary: you can't see the other person and you can't use gestures. Luckily, phone calls follow very fixed phrases. This lesson gives you the phrases to call, answer, take or leave a message and deal with a bad line.",
+"objectifs": [
+ "Say who you are and ask to speak to someone (This is…, Can I speak to…?).",
+ "Answer the phone and ask the caller to wait (Hold on, I'll put you through).",
+ "Leave a clear message on voicemail or with a person, and say a phone number clearly.",
+ "Deal with problems: a bad line, asking someone to repeat or spell, a wrong number."
+],
+"sections": [
+ {
+  "titre": "Calling and saying who you are",
+  "texte": [
+   "On the phone, don't say “I am Paul”: say “This is Paul” or “It's Paul” (informal). Use “Paul speaking” when you answer.",
+   "To ask for someone: “Can I speak to Ms Ndiaye, please?” (neutral), “Could I speak to…?” (more polite), “Is Paul there?” (informal). Use “speak to” in this phrase, not “talk with”.",
+   "Then say why you are calling: “I'm calling about…” (+ noun) or “I'm calling to…” (+ verb)."
+  ],
+  "tableau": {
+   "entetes": ["Situation", "Phrase", "Style"],
+   "lignes": [
+    ["Saying who you are", "Hello, this is Karim Benali.", "neutral"],
+    ["Asking for someone", "Could I speak to Mrs Owusu, please?", "polite"],
+    ["Saying why (+ noun)", "I'm calling about the job advert.", "neutral"],
+    ["Saying why (+ verb)", "I'm calling to confirm my appointment.", "neutral"]
+   ]
+  },
+  "exemples": [
+   ["Hi, it's Sophie. Is Marc there?", "Informal call to a friend."],
+   ["Good morning. This is Dr Eto's office. I'm calling to change your appointment.", "Formal call."]
+  ]
+ },
+ {
+  "titre": "Answering and asking the caller to wait",
+  "texte": [
+   "At work, answer with the company name and your first name: “Good morning, Lumina Bank, Sara speaking. How can I help you?” At home, just “Hello?”.",
+   "To find out who is calling: “Who's calling, please?” / “May I ask who's calling?” (formal). To ask the caller to wait: “Hold on, please.”, “Just a moment.”, “One moment, please.” To connect the caller to another person: “I'll put you through.”",
+   "If the person is not free: “I'm sorry, she's not available at the moment.”, “He's in a meeting.”, “She's out of the office today.”, “The line is busy.” (US; UK: “The line's engaged.”)."
+  ],
+  "exemples": [
+   ["Who's calling, please? — It's Ama Mensah from Ghana Air.", "Asking who is calling."],
+   ["Hold on, I'll put you through.", "Connecting the caller."],
+   ["I'm sorry, Mr Diallo is in a meeting. Can I take a message?", "The person is not free."]
+  ]
+ },
+ {
+  "titre": "Leaving a message",
+  "texte": [
+   "With a person: “Could you tell her that I called?”, “Could you ask him to call me back?”, “Can I leave a message?”. The person writes it down: “Can I have your name and number?”",
+   "On voicemail, follow a short plan: who you are, the time or day, why you are calling, what you want, your number (twice), a word to finish.",
+   "To say a number: read the numbers one by one; 0 is “oh” (or “zero”, especially in the US); two of the same number: “double” (UK): 077 = “oh double seven”. Make groups with pauses."
+  ],
+  "tableau": {
+   "entetes": ["Step", "Example"],
+   "lignes": [
+    ["1. Who", "Hi, this is Lina Haddad from the Liège office."],
+    ["2. When", "It's Tuesday, about ten o'clock."],
+    ["3. Why", "I'm calling about the meeting on Friday."],
+    ["4. What you want", "Could you call me back before five?"],
+    ["5. Your number", "My number is oh four nine five, two two three, eight one six. That's 0495 223 816."],
+    ["6. Finish", "Thanks a lot. Bye!"]
+   ]
+  },
+  "note": "With a pronoun, “call back” separates: “call me back”, “I'll call you back”. Don't say “recall”: it means “remember” or “ask people to return a faulty product”."
+ },
+ {
+  "titre": "When communication is difficult",
+  "texte": [
+   "Don't be afraid to ask someone to repeat: it is normal and polite. “Sorry, could you say that again?”, “Could you speak a bit more slowly, please?”, “Could you speak up, please?” (louder).",
+   "For a name or an address: “Could you spell that, please?”. For a bad line: “Sorry, the line is bad.”, “You're breaking up.” (I can only hear parts), “I can't hear you very well.”",
+   "For a mistake: “Sorry, I think you've got the wrong number.” To finish: “Thanks for calling.”, “Speak to you soon.”, “Bye!”"
+  ],
+  "exemples": [
+   ["Sorry, you're breaking up. Can I call you back?", "A bad line."],
+   ["Could you spell your surname, please? — Yes, it's O-W-U-S-U.", "Spelling a name."],
+   ["Sorry, wrong number. — Oh, sorry!", "A wrong number."]
+  ]
+ },
+ {
+  "titre": "Phone phrasal verbs",
+  "texte": [
+   "Phone calls use many phrasal verbs (lesson 72). Learn them as blocks."
+  ],
+  "tableau": {
+   "entetes": ["Verb", "Meaning", "Example"],
+   "lignes": [
+    ["call (someone) back", "phone someone again", "I'll call you back in ten minutes."],
+    ["hold on", "wait, don't end the call", "Hold on, I'll check."],
+    ["put (someone) through", "connect to another person", "I'll put you through to sales."],
+    ["pick up", "answer the phone", "Nobody picked up."],
+    ["hang up", "end the call", "Don't hang up!"],
+    ["get through", "manage to speak to someone", "I couldn't get through to the bank."]
+   ]
+  },
+  "exemples": [
+   ["I called three times, but nobody picked up.", "pick up = answer."],
+   ["She was angry and she hung up.", "hang up → hung up."]
+  ]
+ }
+],
+"formule": "Hello, this is… · Could I speak to…? · I'm calling about… · Can I leave a message? · Could you ask him to call me back? · My number is…",
+"prononciation": [
+ "Say numbers in groups of 3 or 4, with a pause and a rising voice except on the last group: “oh four nine five ↗ | two two three ↗ | eight one six ↘”.",
+ "“Double” in numbers: 0044 = “oh oh double four” or “double oh double four” (UK).",
+ "“I'll” is short: /aɪl/; “I'll call you back” = /aɪl ˈkɔːl ju ˈbæk/. The l in “call” is dark, at the back of the mouth.",
+ "Spell with the English alphabet (lesson 19): careful with A /eɪ/, E /iː/, I /aɪ/, G /dʒiː/, J /dʒeɪ/, R /ɑː/, W /ˈdʌbljuː/.",
+ "On the phone, speak a little more slowly and say the ends of words clearly: people can't read your lips."
+],
+"erreurs": [
+ ["Hello, I am Karim.", "Hello, this is Karim. / Hello, it's Karim.", "On the phone: this is / it's."],
+ ["Can I talk with Mr Smith?", "Can I speak to Mr Smith, please?", "Fixed phrase: speak to."],
+ ["Who is at the phone?", "Who's calling, please?", "To ask who is calling."],
+ ["Wait, I pass you Mr Diallo.", "Hold on, I'll put you through to Mr Diallo.", "Connect a caller = put through."],
+ ["Can you recall me?", "Can you call me back?", "Phone again = call back."],
+ ["She's not there for the moment.", "She's not available at the moment.", "Say “at the moment”."],
+ ["I call you back in five minutes.", "I'll call you back in five minutes.", "A promise made now: will (lesson 49)."],
+ ["You have made a wrong number.", "I think you've got the wrong number.", "Fixed phrase: wrong number."]
+],
+"dialogue": {
+ "contexte": "Brice, in Yaoundé, phones a company in Toronto about his job application.",
+ "lignes": [
+  ["Receptionist", "Good morning, Maple Tech, Jenny speaking. How can I help you?", "Answering at work."],
+  ["Brice", "Good morning. This is Brice Nkoulou. Could I speak to Mr Wilson, please?", "Saying who you are + asking for someone."],
+  ["Receptionist", "May I ask what it's about?", "A formal question."],
+  ["Brice", "I'm calling about my job application for the developer position.", "Saying why."],
+  ["Receptionist", "Hold on, please… I'm sorry, Mr Wilson is in a meeting. Can I take a message?", "Asking him to wait; offering to take a message."],
+  ["Brice", "Yes, please. Could you ask him to call me back?", "Leaving a message."],
+  ["Receptionist", "Of course. Could you spell your surname?", "Asking for spelling."],
+  ["Brice", "N-K-O-U-L-O-U. And my number is plus two three seven, six nine nine, four five, double two, eight one.", "A number in groups."],
+  ["Receptionist", "Thank you. I'll give him the message.", "A promise with will."],
+  ["Brice", "Thanks a lot. Goodbye!", "Finishing the call."]
+ ]
+},
+"mots": [
+ ["call back", "Can you call me back later?", "phone someone again"],
+ ["hang up", "Please don't hang up.", "end a phone call"],
+ ["hold on", "Hold on a second.", "wait for a short time"],
+ ["voicemail", "I left a message on her voicemail.", "a system that records phone messages"],
+ ["message", "Can I take a message?", "information you leave for someone"],
+ ["available", "He isn't available right now.", "free to talk or meet"],
+ ["extension", "Call extension 214.", "a phone number inside a company"],
+ ["line", "The line is very bad.", "the connection for a phone call"],
+ ["wrong number", "Sorry, wrong number.", "a number that is not the one you wanted"],
+ ["speak up", "Could you speak up, please?", "speak more loudly"]
+],
+"exercices": [
+ {
+  "titre": "1. Which phrase?",
+  "consigne": "Write the phrase for the situation.",
+  "items": [
+   ["You want to know who is calling.", "Who's calling, please?"],
+   ["You want the caller to wait.", "Hold on, please. / Just a moment, please."],
+   ["The person isn't there; you offer to write a note.", "Can I take a message?"],
+   ["You can't hear well.", "Sorry, the line is bad. Could you speak up, please?"],
+   ["You don't know how to write a name.", "Could you spell that, please?"]
+  ]
+ },
+ {
+  "titre": "2. Complete",
+  "consigne": "Complete with one word.",
+  "items": [
+   ["Hello, ___ is Fatou Sow.", "this"],
+   ["Could I ___ to the manager, please?", "speak"],
+   ["I'm calling ___ my order.", "about"],
+   ["Could you ask her to call me ___?", "back"],
+   ["Hold on, I'll put you ___.", "through"],
+   ["I'm afraid he isn't ___ at the moment.", "available"]
+  ]
+ },
+ {
+  "titre": "3. Say the number",
+  "consigne": "Write how you say these numbers in British English.",
+  "items": [
+   ["0477 21 58", "oh four double seven, two one, five eight"],
+   ["020 3344", "oh two oh, double three double four"],
+   ["999", "nine nine nine (the UK emergency number)"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["Hello, I am Julie.", "Hello, this is Julie. / Hello, Julie speaking."],
+   ["Hold on, I pass you to him.", "Hold on, I'll put you through."],
+   ["Could you say him that I called?", "Could you tell him that I called?"],
+   ["I recall you in five minutes.", "I'll call you back in five minutes."],
+   ["Sorry, you have a false number.", "Sorry, I think you've got the wrong number."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write the message you leave on a garage's voicemail: your car has a problem and you would like an appointment this week. Follow the six steps in section 3.",
+  "items": [
+   ["Model answer", "Hi, this is Paul Mbarga. It's Monday morning, about nine o'clock. I'm calling about my car, a grey Toyota. It makes a strange noise when I brake. I'd like an appointment this week, if possible on Wednesday or Thursday. Could you call me back on oh six nine nine, four five two, one one eight? That's 0699 452 118. Thanks a lot. Bye!"]
+  ]
+ }
+],
+"a_retenir": [
+ "Say who you are: This is… / It's… (never “I am…”); when you answer: Sara speaking.",
+ "Ask: Could I speak to…, please? — Who's calling? — Hold on, I'll put you through.",
+ "Messages: Can I take / leave a message? Could you ask him to call me back? My number is…",
+ "Numbers: one by one, 0 = oh, 77 = double seven, in groups.",
+ "Problems: Could you say that again / speak up / spell that? You're breaking up. Wrong number."
+],
+"liens": [3, 19, 20, 49, 57],
+"refs": ["cam-using", "bc-phrasal"]
+}

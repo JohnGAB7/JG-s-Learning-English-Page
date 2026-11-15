@@ -1,0 +1,208 @@
+{
+ "n": 100,
+ "niveau": "B1",
+ "titre": "Unless, as long as, provided that",
+ "intro": "If is not the only word for conditions. Unless, as long as and provided that add meaning: an exception, an essential condition, an agreement with limits. They are very useful for negotiating, setting rules and writing professional emails.",
+ "objectifs": [
+  "Use unless to mean if… not, without a double negative.",
+  "Express an essential condition with as long as, so long as, provided (that) and providing (that).",
+  "Tell these words apart from in case (as a precaution) and even if.",
+  "Apply the tense rule: present tense after these conjunctions for the future."
+ ],
+ "sections": [
+  {
+   "titre": "Unless = if… not",
+   "texte": [
+    "Unless means “except if”. It replaces if + negative: “I'll go unless it rains” = “I'll go if it doesn't rain”. So the verb after unless is affirmative: we don't say “unless it doesn't rain”.",
+    "Unless stresses the exception: it is the only thing that would change the result. It is often used for warnings: “You won't get a seat unless you book now.”",
+    "Careful: unless cannot replace if… not when the negative fact causes a feeling or a result. “I'll be sad if you don't come” (sad because you don't come) cannot become “I'll be sad unless you come”."
+   ],
+   "tableau": {
+    "entetes": ["With if… not", "With unless"],
+    "lignes": [
+     ["If you don't hurry, you'll miss the train.", "Unless you hurry, you'll miss the train."],
+     ["I can't help you if you don't tell me.", "I can't help you unless you tell me."],
+     ["Don't call me if it isn't urgent.", "Don't call me unless it's urgent."],
+     ["We won't win if we don't train harder.", "We won't win unless we train harder."]
+    ]
+   }
+  },
+  {
+   "titre": "As long as, so long as: the essential condition",
+   "texte": [
+    "As long as (and so long as, slightly more formal) means “only if, on the condition that”. If the condition is met, the result is guaranteed.",
+    "It is very natural in speech to give permission with a condition: “You can borrow my car as long as you bring it back tonight.”",
+    "Don't confuse it with as long as for time (“I'll stay as long as you want” = for the whole time you want): the context shows the difference."
+   ],
+   "exemples": [
+    ["You can borrow my laptop as long as you're careful with it.", "Permission with a condition."],
+    ["I don't mind where we eat, as long as it's not too expensive.", "The only thing that matters."],
+    ["So long as you follow the rules, there won't be a problem.", "So long as = as long as."]
+   ]
+  },
+  {
+   "titre": "Provided (that), providing (that), on condition that",
+   "texte": [
+    "Provided that and providing that mean the same as as long as, but they are more formal: you find them in contracts, rules and professional emails. That is often left out: provided you pay on time.",
+    "On condition that is even more formal and strict, almost legal: “They agreed to lend us the money on condition that we repay it within a year.”"
+   ],
+   "tableau": {
+    "entetes": ["Expression", "Register", "Example"],
+    "lignes": [
+     ["as long as", "everyday", "You can come as long as you're on time."],
+     ["so long as", "everyday, a little formal", "So long as it's legal, I'll do it."],
+     ["provided (that)", "formal", "Provided that you pay by Friday, the order will be sent on Monday."],
+     ["providing (that)", "formal", "Providing the weather is good, the ceremony will be outside."],
+     ["on condition that", "very formal", "You may use the room on condition that you leave it clean."]
+    ]
+   },
+   "exemples": [
+    ["We'll accept your application provided you send all the documents.", "Professional email."],
+    ["Providing there are no delays, we'll land at 6 p.m.", "Announcement on a plane."]
+   ]
+  },
+  {
+   "titre": "Tenses after these conjunctions",
+   "texte": [
+    "As with if, we use the present simple for the future after unless, as long as and provided that: never will. “I'll lend you the money as long as you pay me back” (not “as long as you will pay”).",
+    "We can also use them with second conditional tenses for an imaginary situation: “I would take the job provided they paid me more.”"
+   ],
+   "exemples": [
+    ["Unless the bus is late, I'll be there at eight.", "Present after unless."],
+    ["I'd move to Canada as long as my family came with me.", "Imaginary situation: past + would."]
+   ]
+  },
+  {
+   "titre": "Don't confuse: in case, even if, otherwise",
+   "texte": [
+    "In case = as a precaution. We do something now because of a possible future problem. “Take an umbrella in case it rains” (take it anyway) ≠ “Take an umbrella if it rains” (take it only if it is raining).",
+    "Even if = the result doesn't change, whether the condition is true or not: “I'll go even if it rains.”",
+    "Otherwise = if not. It is an adverb, not a conjunction: it starts a new sentence or follows a semicolon. “Hurry up; otherwise, you'll be late.” = Unless you hurry, you'll be late."
+   ],
+   "tableau": {
+    "entetes": ["Word", "Meaning", "Example"],
+    "lignes": [
+     ["unless", "except if", "I'll go unless it rains."],
+     ["as long as", "only if", "I'll go as long as it doesn't rain."],
+     ["in case", "as a precaution", "I'll take a coat in case it rains."],
+     ["even if", "it makes no difference", "I'll go even if it rains."],
+     ["otherwise", "if not", "I must leave now; otherwise, I'll miss my bus."]
+    ]
+   },
+   "exemples": [
+    ["I've packed some snacks in case we get hungry on the way.", "Precaution: I'm taking them anyway."],
+    ["Even if you apologise, she won't forgive you.", "The apology won't change anything."]
+   ]
+  }
+ ],
+ "formule": "unless = if… not · as long as / provided (that) / providing (that) + present = only if",
+ "prononciation": [
+  "unless /ənˈles/: stress on the second syllable; the first is just /ə/.",
+  "provided /prəˈvaɪdɪd/ and providing /prəˈvaɪdɪŋ/: stress on -vi-.",
+  "Say as long as as one block /əz ˈlɒŋ əz/: both as are weak; only long is stressed.",
+  "otherwise /ˈʌðəwaɪz/: stress on the first syllable, voiced th /ð/.",
+  "When negotiating, stress the condition: “You can go, as long as you're BACK by MIDNIGHT.”"
+ ],
+ "erreurs": [
+  ["Unless you don't study, you'll fail.", "Unless you study, you'll fail.", "Unless already contains the negative: no double negative."],
+  ["You can come as long as you will be on time.", "You can come as long as you're on time.", "Present after as long as for the future."],
+  ["Take your passport unless they ask for ID.", "Take your passport in case they ask for ID.", "A precaution = in case, not unless."],
+  ["I'll be happy unless you come.", "I'll be happy if you come. / I'll be sad if you don't come.", "Unless expresses an exception, not the cause of a feeling."],
+  ["Provided that you will sign, we can start.", "Provided that you sign, we can start.", "Present after provided that."],
+  ["I'll go, even it rains.", "I'll go even if it rains.", "Even alone is not enough: even if."],
+  ["We'll go out, unless if it rains.", "We'll go out unless it rains.", "Unless replaces if: never “unless if”."]
+ ],
+ "dialogue": {
+  "contexte": "Yaoundé, at a car rental agency. Mr Ekambi rents a car to Hélène, a Belgian tourist.",
+  "lignes": [
+   ["Hélène", "Can I return the car in Douala instead of here?", "Instead of = in place of."],
+   ["Mr Ekambi", "Yes, provided you tell us at least two days before.", "Provided = a formal condition."],
+   ["Hélène", "OK. And can my friend drive too?", "Asking for permission."],
+   ["Mr Ekambi", "As long as she has a valid licence, no problem. Unless she's under 21 — then there's an extra fee.", "As long as = condition; unless = exception."],
+   ["Hélène", "She's 30. What about insurance?", "What about…? = and…?"],
+   ["Mr Ekambi", "It's included. But keep this number in case you have a breakdown.", "In case = as a precaution."],
+   ["Hélène", "Perfect. And if I'm late returning it?", "A simple if-question."],
+   ["Mr Ekambi", "You won't pay anything extra unless you're more than two hours late. Even if the traffic is bad, call us; otherwise, we'll charge a full day.", "Unless, even if and otherwise together."]
+  ]
+ },
+ "mots": [
+  ["unless", "I won't go unless you come with me.", "except if"],
+  ["as long as", "You can stay as long as you're quiet.", "only if, on the condition that"],
+  ["provided", "Provided that you pay now, we'll deliver tomorrow.", "only if (formal)"],
+  ["in case", "Take some water in case you get thirsty.", "because something might happen"],
+  ["even if", "I'll finish it even if it takes all night.", "whether or not something happens"],
+  ["otherwise", "Leave now; otherwise, you'll be late.", "if not"],
+  ["condition", "I'll do it on one condition: you help me.", "something that must happen first"],
+  ["valid", "You need a valid passport.", "legally acceptable, not expired"],
+  ["charge", "They charge an extra fee for late returns.", "to ask someone to pay money"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Same meaning?",
+   "consigne": "Do the two sentences have the same meaning? Answer yes or no.",
+   "items": [
+    ["I'll come unless I'm busy. / I'll come if I'm not busy.", "yes"],
+    ["Take a coat in case it's cold. / Take a coat if it's cold.", "no (in case = take it anyway, as a precaution)"],
+    ["You can go as long as you're back by ten. / You can go provided you're back by ten.", "yes"],
+    ["I'll go even if it rains. / I'll go unless it rains.", "no (even if = rain changes nothing; unless = rain would stop me)"]
+   ]
+  },
+  {
+   "titre": "2. Rewrite with unless",
+   "consigne": "Rewrite the sentence with unless.",
+   "items": [
+    ["If you don't leave now, you'll miss the bus.", "Unless you leave now, you'll miss the bus."],
+    ["I won't call you if there isn't a problem.", "I won't call you unless there's a problem."],
+    ["You can't enter if you don't have a ticket.", "You can't enter unless you have a ticket."],
+    ["If it doesn't rain, we'll eat outside.", "Unless it rains, we'll eat outside."]
+   ]
+  },
+  {
+   "titre": "3. Choose the right word",
+   "consigne": "Complete with unless, as long as, in case, even if or otherwise.",
+   "items": [
+    ["I'll lend you my bike ___ you bring it back tomorrow.", "as long as"],
+    ["Write down my address ___ you forget it.", "in case"],
+    ["She always goes running, ___ it's snowing.", "even if"],
+    ["We need to book today; ___, there won't be any seats left.", "otherwise"],
+    ["Don't open the door ___ you know who it is.", "unless"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["Unless you don't pay, they'll cut off the electricity.", "Unless you pay, they'll cut off the electricity. / If you don't pay, they'll cut off the electricity."],
+    ["You can use my phone as long as you will be careful.", "You can use my phone as long as you're careful."],
+    ["Take an umbrella unless it rains.", "Take an umbrella in case it rains."],
+    ["Provided that you will finish early, you can leave.", "Provided that you finish early, you can leave."]
+   ]
+  },
+  {
+   "titre": "5. Join the sentences",
+   "consigne": "Join the two ideas with the word in brackets.",
+   "items": [
+    ["I'll come. The only problem: rain. (unless)", "I'll come unless it rains."],
+    ["You can go out. Condition: be back before midnight. (as long as)", "You can go out as long as you're back before midnight."],
+    ["We'll deliver on Monday. Condition: you pay before Friday. (provided)", "We'll deliver on Monday, provided (that) you pay before Friday."],
+    ["Take your charger. Your phone might run out of battery. (in case)", "Take your charger in case your phone runs out of battery."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "You are lending your flat to a friend during your holiday. Write 4–5 rules using unless, as long as, provided that, in case and otherwise.",
+   "items": [
+    ["Example answer", "You can stay in my flat as long as you water the plants every two days. Please don't invite friends unless you ask me first. Provided that you leave it clean, you can use the kitchen as much as you like. Here's my neighbour's number in case you lose the keys. Lock the door every time you go out; otherwise, the insurance won't pay if something happens."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Unless = if… not; affirmative verb after unless (no double negative).",
+  "As long as, provided (that), providing (that) = only if; provided is more formal.",
+  "Present simple (not will) after these conjunctions for the future.",
+  "In case = as a precaution; even if = it makes no difference; otherwise = if not.",
+  "Unless expresses an exception, not the cause of a feeling."
+ ],
+ "liens": [95, 96, 99, 160],
+ "refs": ["bc-cond-012", "bc-b1b2"]
+}

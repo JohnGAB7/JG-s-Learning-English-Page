@@ -1,0 +1,195 @@
+{
+"n": 31,
+"niveau": "A1",
+"titre": "Some et any",
+"intro": "« Some » et « any » traduisent souvent « du, de la, des » ou « de » : ils indiquent une quantité non précisée. La règle de base est simple (some à l’affirmatif, any au négatif et aux questions), mais il faut connaître les exceptions pour les offres et les demandes polies.",
+"objectifs": [
+ "Utiliser some dans les phrases affirmatives et any dans les phrases négatives et interrogatives.",
+ "Choisir entre a / an et some selon que le nom est singulier, pluriel ou indénombrable.",
+ "Utiliser some dans les questions pour offrir ou demander (Would you like some tea?).",
+ "Employer some et any seuls, comme pronoms (I haven't got any)."
+],
+"sections": [
+ {
+  "titre": "La règle de base",
+  "texte": [
+   "« Some » et « any » s’utilisent devant un nom dénombrable au pluriel (eggs, apples) ou devant un nom indénombrable (milk, money). Ils indiquent une quantité qu’on ne précise pas.",
+   "On utilise « some » dans les phrases affirmatives, et « any » dans les phrases négatives et les questions."
+  ],
+  "tableau": {
+   "entetes": ["Type de phrase", "Pluriel dénombrable", "Indénombrable"],
+   "lignes": [
+    ["Affirmative", "There are some eggs.", "There's some milk."],
+    ["Négative", "There aren't any eggs.", "There isn't any milk."],
+    ["Question", "Are there any eggs?", "Is there any milk?"]
+   ]
+  },
+  "exemples": [
+   ["I've got some friends in Montreal.", "J’ai des amis à Montréal."],
+   ["We haven't got any bread.", "Nous n’avons pas de pain."],
+   ["Have you got any questions?", "Avez-vous des questions ?"]
+  ]
+ },
+ {
+  "titre": "A / an ou some ? Et quand ne rien mettre ?",
+  "texte": [
+   "Avec un nom dénombrable au singulier, on utilise « a » ou « an » : « an apple », « a banana ». « Some » et « any » sont pour les pluriels et les indénombrables : « some apples », « some water ».",
+   "Quand on parle d’une chose en général, on ne met rien : « I like coffee » (j’aime le café en général). Quand on parle d’une quantité, on met « some » : « I'd like some coffee » (je voudrais du café).",
+   "En français, on met toujours un article (du, de la, des) ; en anglais, « some » n’est pas obligatoire : « We need eggs » et « We need some eggs » sont corrects tous les deux."
+  ],
+  "tableau": {
+   "entetes": ["Nom", "Affirmatif", "Négatif / question"],
+   "lignes": [
+    ["dénombrable singulier", "a / an : an egg", "a / an : I haven't got an egg."],
+    ["dénombrable pluriel", "some : some eggs", "any : any eggs"],
+    ["indénombrable", "some : some rice", "any : any rice"]
+   ]
+  },
+  "exemples": [
+   ["There's an orange and some grapes on the table.", "Il y a une orange et du raisin sur la table."],
+   ["I love chocolate. Can I have some?", "J’adore le chocolat (en général). Je peux en avoir un peu ?"]
+  ]
+ },
+ {
+  "titre": "Les exceptions : some dans les questions",
+  "texte": [
+   "Quand on offre quelque chose ou qu’on fait une demande polie, on utilise « some » même dans une question, car on attend la réponse « oui ».",
+   "Comparez : « Is there any coffee? » (une vraie question : y en a-t-il ?) et « Would you like some coffee? » (une offre)."
+  ],
+  "exemples": [
+   ["Would you like some tea?", "Voulez-vous du thé ? (offre)"],
+   ["Can I have some water, please?", "Je peux avoir de l’eau, s’il vous plaît ? (demande)"],
+   ["Could you give me some information about the course?", "Pourriez-vous me donner des informations sur le cours ? (demande polie)"]
+  ],
+  "note": "« Any » dans une phrase affirmative a un autre sens : « n’importe quel ». « Take any seat » = Asseyez-vous où vous voulez (n’importe quelle place)."
+ },
+ {
+  "titre": "Not any = no",
+  "texte": [
+   "« Not … any » peut être remplacé par « no » + nom avec un verbe affirmatif : « There isn't any milk » = « There's no milk ». « No » est un peu plus fort.",
+   "Il ne faut jamais mettre deux négations : « I haven't got no money » est faux en anglais standard. Soit « I haven't got any money », soit « I've got no money »."
+  ],
+  "exemples": [
+   ["There aren't any buses on Sunday. = There are no buses on Sunday.", "Il n’y a pas de bus le dimanche."],
+   ["I've got no time today.", "Je n’ai pas le temps aujourd’hui."]
+  ]
+ },
+ {
+  "titre": "Some et any seuls (pronoms)",
+  "texte": [
+   "Quand le nom est déjà connu, on peut utiliser « some » et « any » seuls, comme le pronom français « en » : « I need eggs. Have you got any? — Yes, I've got some. » (Tu en as ? — Oui, j’en ai.)",
+   "Attention : on ne met pas « of » entre some / any et un nom : « some bread », pas « some of bread ». « Some of » s’utilise seulement devant the, my, these… : « some of my friends ».",
+   "Les composés something, anything, someone, nobody… suivent la même logique : ils sont étudiés à la leçon 60."
+  ],
+  "exemples": [
+   ["I want some cake. Is there any left? — Sorry, there isn't any.", "Je veux du gâteau. Il en reste ? — Désolé, il n’y en a plus."],
+   ["Some of my friends speak Spanish.", "Certains de mes amis parlent espagnol."]
+  ]
+ }
+],
+"formule": "some + pluriel / indénombrable (affirmatif, offres, demandes) · any + pluriel / indénombrable (négatif, questions)",
+"prononciation": [
+ "Devant un nom, « some » est faible : « some water » = /səm ˈwɔːtə/. Seul (pronom) ou en fin de phrase, il est fort : « Yes, I've got some » = /sʌm/.",
+ "« any » se prononce /ˈeni/ (« éni »), pas « a-ni ». « many » et « any » riment.",
+ "Liaison devant une voyelle : « any eggs » = /ˌeni ˈeɡz/ ; « some apples » = /səm ˈæplz/.",
+ "Dans une offre, l’intonation monte à la fin : « Would you like some TEA? ↗ »."
+],
+"erreurs": [
+ ["There is some milk?", "Is there any milk?", "Question : inversion et « any »."],
+ ["I haven't got some money.", "I haven't got any money.", "Au négatif : « any »."],
+ ["I'd like a water.", "I'd like some water. / I'd like a glass of water.", "« Water » est indénombrable."],
+ ["I don't have no time.", "I don't have any time. / I have no time.", "Une seule négation en anglais."],
+ ["I want some of bread.", "I want some bread.", "Pas de « of » directement devant le nom."],
+ ["There are any apples.", "There are some apples. / There aren't any apples.", "« Any » ne s’utilise pas ainsi à l’affirmatif."],
+ ["Can I have any water, please?", "Can I have some water, please?", "Pour une demande polie : « some »."],
+ ["I've got a friends in Brussels.", "I've got some friends in Brussels.", "« A » seulement devant un singulier."]
+],
+"dialogue": {
+ "contexte": "À Liège, Thomas et sa colocataire Aminata préparent des crêpes pour des amis.",
+ "lignes": [
+  ["Aminata", "Let's make pancakes! Have we got any flour?", "Faisons des crêpes ! On a de la farine ?"],
+  ["Thomas", "Yes, there's some flour in the cupboard.", "Oui, il y a de la farine dans le placard."],
+  ["Aminata", "Great. And are there any eggs?", "Super. Et il y a des œufs ?"],
+  ["Thomas", "Hmm, no, there aren't any eggs. And there's no milk.", "Hum, non, il n’y a pas d’œufs. Et il n’y a pas de lait."],
+  ["Aminata", "OK, let's write a shopping list: eggs, milk and some sugar.", "D’accord, faisons une liste de courses : des œufs, du lait et du sucre."],
+  ["Thomas", "We've got some sugar. But we haven't got any butter.", "On a du sucre. Mais on n’a pas de beurre."],
+  ["Aminata", "Right: eggs, milk, butter. Do we need any juice for our friends?", "Bon : œufs, lait, beurre. Il nous faut du jus pour nos amis ?"],
+  ["Thomas", "Yes, let's get some orange juice. And would you like some coffee before we go?", "Oui, prenons du jus d’orange. Et tu veux du café avant d’y aller ?"],
+  ["Aminata", "No, thanks. Let's go!", "Non, merci. On y va !"]
+ ]
+},
+"mots": [
+ ["fridge", "Is there any milk in the fridge?", "le réfrigérateur, le frigo"],
+ ["shopping list", "Don't forget the shopping list.", "la liste de courses"],
+ ["butter", "We haven't got any butter.", "le beurre"],
+ ["flour", "There's some flour in the cupboard.", "la farine"],
+ ["sugar", "Do you take sugar in your coffee?", "le sucre"],
+ ["juice", "Would you like some orange juice?", "le jus"],
+ ["onion", "I need some onions for the sauce.", "un oignon"],
+ ["cheese", "There isn't any cheese left.", "le fromage"],
+ ["empty", "The fridge is empty!", "vide"],
+ ["left", "Is there any cake left?", "qui reste (there's … left = il en reste)"]
+],
+"exercices": [
+ {
+  "titre": "1. Some ou any ?",
+  "consigne": "Complète avec some ou any.",
+  "items": [
+   ["There are ___ apples on the table.", "some"],
+   ["I haven't got ___ brothers.", "any"],
+   ["Is there ___ coffee?", "any"],
+   ["We need ___ bread.", "some"],
+   ["Would you like ___ cake?", "some (offre)"],
+   ["There isn't ___ sugar in my tea.", "any"]
+  ]
+ },
+ {
+  "titre": "2. A, an ou some ?",
+  "consigne": "Complète avec a, an ou some.",
+  "items": [
+   ["___ apple", "an"],
+   ["___ water", "some"],
+   ["___ bananas", "some"],
+   ["___ egg", "an"],
+   ["___ bread", "some"]
+  ]
+ },
+ {
+  "titre": "3. Transformer",
+  "consigne": "Mets la phrase à la forme indiquée.",
+  "items": [
+   ["There's some milk. (négatif)", "There isn't any milk. / There's no milk."],
+   ["There are some eggs. (question)", "Are there any eggs?"],
+   ["I've got some money. (négatif)", "I haven't got any money. / I've got no money."],
+   ["She's got some friends here. (question)", "Has she got any friends here?"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Il n’y a pas de beurre.", "There isn't any butter. / There's no butter."],
+   ["Voulez-vous du café ?", "Would you like some coffee?"],
+   ["Est-ce qu’il y a des œufs ?", "Are there any eggs?"],
+   ["J’ai besoin de farine.", "I need some flour. / I need flour."],
+   ["Je n’en ai pas. (de l’argent)", "I haven't got any. / I don't have any."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Regarde (ou imagine) ton réfrigérateur. Écris quatre phrases : deux choses qu’il y a (some) et deux choses qu’il n’y a pas (any). Puis écris ta liste de courses.",
+  "items": [
+   ["Exemple de réponse", "There's some cheese and there are some tomatoes. There isn't any milk and there aren't any eggs. Shopping list: milk, eggs, some bread and some fruit."]
+  ]
+ }
+],
+"a_retenir": [
+ "some + pluriel ou indénombrable à l’affirmatif ; any au négatif et dans les questions.",
+ "a / an devant un singulier dénombrable ; rien quand on parle en général (I like coffee).",
+ "Offres et demandes : some dans la question (Would you like some tea? Can I have some water?).",
+ "not any = no ; jamais deux négations (I haven't got any money / I've got no money).",
+ "some et any peuvent s’employer seuls = « en » (Have you got any? — Yes, I've got some)."
+],
+"liens": [26, 30, 34, 59, 60],
+"refs": ["bc-countable", "cam-nouns"]
+}

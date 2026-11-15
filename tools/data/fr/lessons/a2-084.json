@@ -1,0 +1,208 @@
+{
+"n": 84,
+"niveau": "A2",
+"titre": "Les études",
+"intro": "Parler de son école, de ses matières, de ses examens et de ses diplômes semble simple, mais c’est un terrain plein de faux amis pour les francophones : « passer un examen » n’est pas « pass an exam », une « licence » n’est pas « a licence », et « college » ne veut pas dire « collège ». Cette leçon vous donne le vocabulaire juste et les différences entre systèmes britannique, américain et francophone.",
+"objectifs": [
+ "Nommer les étapes de la scolarité et les matières.",
+ "Parler d’examens sans se tromper : take / pass / fail an exam, marks, grades.",
+ "Parler de ses études supérieures : do a degree in…, a bachelor’s, a master’s.",
+ "Éviter les faux amis classiques (college, professor, licence, note, formation)."
+],
+"sections": [
+ {
+  "titre": "Les étapes de la scolarité",
+  "texte": [
+   "« nursery school » ou « pre-school » (maternelle), « primary school » (US « elementary school »), « secondary school » (GB ; aussi « high school », surtout US), puis « university » (US souvent « college »).",
+   "On dit « go to school » sans « the » quand on parle de l’institution : « My son goes to primary school. » « She’s at university. » (elle est étudiante). Avec « the », on parle du bâtiment : « I went to the school to meet the teacher. »",
+   "Les personnes : « a pupil » (GB, élève jeune) ou « a student » (tous niveaux, et toujours aux US), « a teacher » (enseignant), « a head teacher » (GB, directeur d’école ; US « principal »), « a lecturer » (GB, enseignant à l’université)."
+  ],
+  "tableau": {
+   "entetes": ["Âge (environ)", "Royaume-Uni", "États-Unis", "France / Belgique"],
+   "lignes": [
+    ["3–5", "nursery school", "preschool / kindergarten", "école maternelle"],
+    ["5–11", "primary school", "elementary school", "école primaire"],
+    ["11–16 / 18", "secondary school", "middle school, then high school", "collège, puis lycée (Belgique : secondaire)"],
+    ["18+", "university", "college / university", "université, grande école, haute école"]
+   ]
+  },
+  "exemples": [
+   ["My daughter started primary school in September.", "Ma fille est entrée à l’école primaire en septembre."],
+   ["He’s at university in Leeds. He’s in his second year.", "Il est étudiant à Leeds. Il est en deuxième année."],
+   ["I went to a bilingual secondary school in Buea.", "Je suis allé dans un établissement secondaire bilingue à Buea."]
+  ]
+ },
+ {
+  "titre": "Les matières",
+  "texte": [
+   "Les matières (« subjects ») : « maths » (US « math »), « English », « French », « history », « geography », « biology », « chemistry », « physics », « computer science » / « IT », « economics », « PE » (éducation physique), « art », « music ».",
+   "Les noms en -ics sont singuliers : « Maths is my favourite subject. » « Physics is difficult. » Les langues et nationalités prennent une majuscule : « English », « Spanish ».",
+   "Pour en parler : « My favourite subject is history. » « I’m good at maths. » (je suis bon en maths) ; « I’m bad at chemistry. » ; « I’m interested in biology. »"
+  ],
+  "exemples": [
+   ["Physics is my favourite subject.", "La physique est ma matière préférée."],
+   ["I was good at maths but bad at drawing.", "J’étais bon en maths mais mauvais en dessin."],
+   ["Is computer science an option at your school?", "L’informatique est-elle une option dans ton école ?"]
+  ]
+ },
+ {
+  "titre": "Les examens : le grand piège",
+  "texte": [
+   "Attention : « passer un examen » = « take an exam » (GB aussi « sit an exam »). « pass an exam » = réussir un examen. « fail an exam » = échouer, rater. « retake / resit an exam » = repasser.",
+   "Les notes : « marks » (GB) ou « grades » (US) ; « I got a good mark in English. » « She got an A. » Le mot « note » en anglais veut dire « un mot, une note écrite », pas une note scolaire.",
+   "Réviser : « revise for an exam » (GB) / « study for an exam » (US). Et « learn » (apprendre) ≠ « teach » (enseigner, apprendre à quelqu’un) : « My mother taught me to read », pas « learned me »."
+  ],
+  "tableau": {
+   "entetes": ["Français", "Anglais", "Attention"],
+   "lignes": [
+    ["passer un examen", "take / sit an exam", "≠ pass"],
+    ["réussir un examen", "pass an exam", "faux ami"],
+    ["rater un examen", "fail an exam", ""],
+    ["réviser", "revise (GB) / study (US)", "revise = réviser un texte aussi"],
+    ["une note", "a mark (GB) / a grade (US)", "a note = un mot écrit"]
+   ]
+  },
+  "exemples": [
+   ["I’m taking my driving test next week. I hope I pass!", "Je passe mon permis la semaine prochaine. J’espère que je vais l’avoir !"],
+   ["She failed her chemistry exam, so she has to resit it in June.", "Elle a raté son examen de chimie, alors elle doit le repasser en juin."],
+   ["I got a very good mark in my English test.", "J’ai eu une très bonne note à mon contrôle d’anglais."]
+  ]
+ },
+ {
+  "titre": "Les études supérieures",
+  "texte": [
+   "On dit « study + matière » ou « do a degree in + matière » : « I’m studying law. » « She’s doing a degree in medicine. » (un diplôme universitaire = a degree). « major in » (US) = avoir comme matière principale.",
+   "Les diplômes : « a bachelor’s (degree) » (≈ licence, trois ans au Royaume-Uni), « a master’s (degree) », « a PhD » (doctorat). On dit aussi « a diploma » ou « a certificate » pour des formations plus courtes.",
+   "Avoir un diplôme : « I’ve got a degree in economics. » « She graduated in 2024. » (elle a obtenu son diplôme) ; « a graduate » (un diplômé) ; « a grant » ou « a scholarship » (une bourse)."
+  ],
+  "exemples": [
+   ["I’m doing a master’s in public health at the University of Ottawa.", "Je fais un master en santé publique à l’Université d’Ottawa."],
+   ["He’s got a bachelor’s degree in computer science.", "Il a une licence en informatique."],
+   ["She graduated last year and now she works in a lab.", "Elle a été diplômée l’an dernier et maintenant elle travaille dans un labo."]
+  ]
+ },
+ {
+  "titre": "Faux amis et mots pièges",
+  "texte": [
+   "« college » : au Royaume-Uni, un établissement d’enseignement après 16 ans ou une partie d’université (Oxford, Cambridge) ; aux États-Unis, l’université. Jamais le « collège » français (= « secondary school », 11–15 ans).",
+   "« professor » = professeur d’université (titre élevé) ; un prof de collège ou de lycée = « a teacher ». « a licence » = un permis, une licence (d’exploitation) ; la licence universitaire = « a bachelor’s degree ».",
+   "« formation » se dit « training » (indénombrable) ou « a course » : « I did a training course in first aid. » « a lesson / a class » = un cours (une séance), « a course » = un cursus ou une série de cours."
+  ],
+  "exemples": [
+   ["My son is at secondary school. He’s twelve.", "Mon fils est au collège. Il a douze ans."],
+   ["Our English teacher is great.", "Notre prof d’anglais est génial."],
+   ["I’m doing an online course in project management.", "Je suis une formation en ligne en gestion de projet."]
+  ],
+  "note": "« study » + matière, « learn » + compétence : « I study history at university » ; « I’m learning to drive » / « I’m learning English »."
+ }
+],
+"formule": "I’m at university / at school. · I’m studying law. / I’m doing a degree in… · My favourite subject is… · I’m good at… · take an exam → pass / fail it.",
+"prononciation": [
+ "« university » /ˌjuːnɪˈvɜːsəti/ : commence par le son /j/ (« you »), donc « a university », pas « an ».",
+ "« biology » /baɪˈɒlədʒi/ : accent sur la deuxième syllabe, « baï-O-leu-dji ».",
+ "« chemistry » /ˈkemɪstri/ : le ch se dit /k/.",
+ "« degree » /dɪˈɡriː/ : accent sur « GREE ».",
+ "« subject » (nom) /ˈsʌbdʒɪkt/ : accent sur la première syllabe, « SEUB-djikt ».",
+ "« graduated » /ˈɡrædʒueɪtɪd/ : « GRA-djou-éï-tid », quatre syllabes."
+],
+"erreurs": [
+ ["I passed my exam yesterday but I don't know the result yet.", "I took my exam yesterday but I don't know the result yet.", "Passer un examen = take an exam ; pass = réussir."],
+ ["I had a good note in maths.", "I got a good mark in maths. (US: grade)", "Note scolaire = mark / grade."],
+ ["My professor of English at the lycée…", "My English teacher at secondary school…", "Professor = enseignant à l’université."],
+ ["I have a licence in law.", "I have a bachelor’s degree in law.", "Licence universitaire = bachelor’s degree."],
+ ["My sister is in college, she's 13.", "My sister is at secondary school, she's 13.", "Collège = secondary school."],
+ ["She learned me English.", "She taught me English.", "Enseigner = teach (taught)."],
+ ["Maths are difficult.", "Maths is difficult.", "Les matières en -s sont au singulier."],
+ ["I did a formation in marketing.", "I did a training course in marketing.", "Formation = training / a course."]
+],
+"dialogue": {
+ "contexte": "Dans une résidence universitaire à Manchester, Aïcha (Sénégalaise) discute avec Tom, étudiant britannique.",
+ "lignes": [
+  ["Tom", "What are you studying, Aïcha?", "Tu étudies quoi, Aïcha ?"],
+  ["Aïcha", "I’m doing a master’s in civil engineering. And you?", "Je fais un master en génie civil. Et toi ?"],
+  ["Tom", "I’m in my first year. I’m doing a degree in history.", "Je suis en première année. Je fais une licence d’histoire."],
+  ["Aïcha", "Did you always like history at school?", "Tu as toujours aimé l’histoire à l’école ?"],
+  ["Tom", "Yes, it was my favourite subject. But I was terrible at maths!", "Oui, c’était ma matière préférée. Mais j’étais nul en maths !"],
+  ["Aïcha", "I was the opposite. I loved maths and physics.", "Moi, c’était le contraire. J’adorais les maths et la physique."],
+  ["Tom", "Have you got any exams this term?", "Tu as des examens ce trimestre ?"],
+  ["Aïcha", "Yes, I’m taking two exams in January. I need to revise a lot.", "Oui, je passe deux examens en janvier. Il faut que je révise beaucoup."],
+  ["Tom", "Good luck! I’m sure you’ll pass.", "Bonne chance ! Je suis sûr que tu vas réussir."],
+  ["Aïcha", "Thanks! I hope so.", "Merci ! Je l’espère."]
+ ]
+},
+"mots": [
+ ["subject", "History is my favourite subject.", "une matière"],
+ ["take an exam", "We take our exams in June.", "passer un examen"],
+ ["pass", "Did you pass your driving test?", "réussir (un examen)"],
+ ["fail", "He failed the test, but he can try again.", "échouer, rater"],
+ ["mark", "She always gets good marks in French.", "une note (GB)"],
+ ["revise", "I’m revising for my maths exam.", "réviser (GB)"],
+ ["degree", "She’s got a degree in economics.", "un diplôme universitaire"],
+ ["graduate", "He graduated from Laval University in 2023.", "obtenir son diplôme / un diplômé"],
+ ["scholarship", "She won a scholarship to study in Canada.", "une bourse (au mérite)"],
+ ["course", "I’m doing an English course online.", "un cours, une formation"]
+],
+"exercices": [
+ {
+  "titre": "1. Take, pass ou fail ?",
+  "consigne": "Complète avec take, pass ou fail (à la bonne forme).",
+  "items": [
+   ["I’m ___ my English exam tomorrow. I’m nervous.", "taking"],
+   ["Great news: I ___ my exam! I got 16 out of 20.", "passed"],
+   ["He didn’t study, so he ___ the test.", "failed"],
+   ["You need 50% to ___.", "pass"],
+   ["When do you ___ your driving test?", "take"]
+  ]
+ },
+ {
+  "titre": "2. Compléter",
+  "consigne": "Complète avec un mot.",
+  "items": [
+   ["I’m good ___ maths.", "at"],
+   ["She’s doing a degree ___ law.", "in"],
+   ["My son goes ___ primary school.", "to"],
+   ["Physics ___ my favourite subject. (be)", "is"],
+   ["I need to ___ for my exams. (réviser, GB)", "revise"],
+   ["She ___ from university in 2025. (obtenir son diplôme)", "graduated"]
+  ]
+ },
+ {
+  "titre": "3. Faux amis",
+  "consigne": "Choisis le bon mot.",
+  "items": [
+   ["Mon prof d’anglais au lycée : my English (professor / teacher)", "teacher"],
+   ["Ma fille est au collège : my daughter is at (college / secondary school)", "secondary school"],
+   ["Une bonne note : a good (note / mark)", "mark"],
+   ["Une licence d’économie : a (licence / bachelor’s degree) in economics", "bachelor’s degree"],
+   ["Une formation : a (formation / training course)", "training course"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je passe un examen demain.", "I’m taking an exam tomorrow. (GB aussi : I’m sitting an exam)"],
+   ["Elle a réussi son examen.", "She passed her exam."],
+   ["Il m’a appris à nager.", "He taught me to swim."],
+   ["Les maths, c’est difficile.", "Maths is difficult. (US : Math is difficult.)"],
+   ["Je fais un master en droit.", "I’m doing a master’s in law."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Raconte ton parcours scolaire en 5 ou 6 phrases : écoles, matières préférées, examens, diplômes ou projets d’études.",
+  "items": [
+   ["Exemple de réponse", "I went to primary school in my village, and then to a bilingual secondary school in Bamenda. My favourite subjects were biology and English, but I was bad at physics. I took the baccalaureate in 2019 and I passed with good marks. Then I did a bachelor’s degree in nursing at the University of Buea. I graduated in 2023, and now I’d like to do a master’s in public health in Canada."]
+  ]
+ }
+],
+"a_retenir": [
+ "Passer un examen = take / sit an exam ; réussir = pass ; rater = fail ; repasser = retake / resit.",
+ "Une note = a mark (GB) / a grade (US) ; « a note » est un mot écrit.",
+ "I’m studying law · I’m doing a degree in… · a bachelor’s, a master’s, a PhD · graduate.",
+ "Collège = secondary school ; prof de lycée = teacher ; professor = universitaire ; formation = training / a course.",
+ "learn (apprendre) ≠ teach (enseigner) ; good at / bad at / interested in + matière."
+],
+"liens": [33, 51, 62, 83],
+"refs": ["bc-a1a2", "cam-confused"]
+}

@@ -1,0 +1,216 @@
+{
+ "n": 61,
+ "niveau": "A2",
+ "titre": "Les adverbes de manière (-ly)",
+ "intro": "Les adverbes de manière disent comment on fait une action : lentement, bien, prudemment. En anglais, la plupart se forment avec -ly (slow → slowly), comme le français avec -ment. Mais il y a des irréguliers très fréquents (good → well, fast, hard) et des règles de place strictes.",
+ "objectifs": [
+  "Former un adverbe en -ly à partir d'un adjectif, avec les règles d'orthographe.",
+  "Connaître les adverbes irréguliers : well, fast, hard, late, early, et les faux amis hardly, lately.",
+  "Placer l'adverbe correctement : après le verbe et son complément, jamais entre les deux.",
+  "Choisir entre adjectif et adverbe, notamment après look, feel, sound, smell, taste."
+ ],
+ "sections": [
+  {
+   "titre": "Adjectif ou adverbe ?",
+   "texte": [
+    "L'adjectif décrit un nom (a slow car, she is careful). L'adverbe de manière décrit un verbe, c'est-à-dire la façon de faire l'action (the car moves slowly, she drives carefully).",
+    "Comparer : He's a careful driver (adjectif, devant le nom driver) / He drives carefully (adverbe, après le verbe drives). Les deux phrases ont le même sens."
+   ],
+   "exemples": [
+    ["She's a quiet person. She speaks quietly.", "C'est une personne calme. Elle parle doucement."],
+    ["The test was easy. I passed it easily.", "L'examen était facile. Je l'ai réussi facilement."],
+    ["He's a bad singer. He sings badly.", "C'est un mauvais chanteur. Il chante mal."]
+   ]
+  },
+  {
+   "titre": "Former l'adverbe : les règles d'orthographe",
+   "texte": [
+    "En règle générale, on ajoute -ly à l'adjectif : slow → slowly, careful → carefully (le l est doublé car careful finit déjà par l), quick → quickly.",
+    "Quelques terminaisons changent l'orthographe."
+   ],
+   "tableau": {
+    "entetes": ["Adjectif terminé par", "Règle", "Exemples"],
+    "lignes": [
+     ["cas général", "+ ly", "quick → quickly, bad → badly, careful → carefully, polite → politely"],
+     ["consonne + y", "y → ily", "easy → easily, happy → happily, angry → angrily"],
+     ["-le (après consonne)", "e → y", "gentle → gently, simple → simply, possible → possibly, terrible → terribly"],
+     ["-ic", "+ ally", "fantastic → fantastically, automatic → automatically (exception : public → publicly)"],
+     ["-ll", "+ y", "full → fully, dull → dully"],
+     ["-ue", "on enlève le e", "true → truly"]
+    ]
+   }
+  },
+  {
+   "titre": "Les irréguliers et les faux amis",
+   "texte": [
+    "L'adverbe de « good » est « well » : She's a good cook. She cooks well. C'est l'irrégulier le plus fréquent et le plus oublié.",
+    "Certains adverbes ont la même forme que l'adjectif : fast (a fast car / he drives fast), hard (hard work / she works hard), late (a late train / I arrived late), early (an early flight / we left early), straight (go straight on). Ne dis jamais « fastly ».",
+    "Attention : « hardly » et « lately » existent, mais avec un AUTRE sens. Hardly = à peine, presque pas (I can hardly hear you). Lately = ces derniers temps (I've been tired lately)."
+   ],
+   "tableau": {
+    "entetes": ["Adjectif", "Adverbe", "Piège"],
+    "lignes": [
+     ["good", "well", "« goodly » n'existe pas"],
+     ["fast", "fast", "« fastly » n'existe pas"],
+     ["hard (dur)", "hard (dur)", "hardly = à peine"],
+     ["late (en retard)", "late (en retard)", "lately = récemment"],
+     ["early", "early", "même forme"]
+    ]
+   },
+   "exemples": [
+    ["You speak English very well!", "Tu parles très bien anglais !"],
+    ["Don't drive so fast!", "Ne conduis pas si vite !"],
+    ["She works hard, but she hardly sleeps.", "Elle travaille dur, mais elle dort à peine."]
+   ],
+   "note": "Les adjectifs déjà terminés par -ly (friendly, lovely, lonely, silly, ugly) n'ont pas d'adverbe. On dit « in a friendly way » : She smiled in a friendly way."
+  },
+  {
+   "titre": "La place de l'adverbe de manière",
+   "texte": [
+    "L'adverbe de manière se place après le verbe, ou après le complément d'objet s'il y en a un. Règle d'or : on ne sépare JAMAIS le verbe de son complément. En français, on dit « il parle bien l'anglais » ; en anglais : He speaks English well (et non « He speaks well English »).",
+    "Pour insister, certains adverbes peuvent se placer avant le verbe : She quickly closed the door. Mais « well » et les adverbes de même forme (fast, hard) restent toujours après."
+   ],
+   "tableau": {
+    "entetes": ["Structure", "Exemple"],
+    "lignes": [
+     ["verbe + adverbe", "She runs fast."],
+     ["verbe + complément + adverbe", "She plays the piano beautifully."],
+     ["adverbe + verbe (insistance)", "He slowly opened the letter."],
+     ["❌ verbe + adverbe + complément", "❌ She plays beautifully the piano."]
+    ]
+   },
+   "exemples": [
+    ["Please read the instructions carefully.", "Lis attentivement les instructions, s'il te plaît."],
+    ["He answered the question correctly.", "Il a répondu correctement à la question."]
+   ]
+  },
+  {
+   "titre": "Look, feel, sound… + adjectif",
+   "texte": [
+    "Après les verbes d'état et de perception be, look, feel, sound, smell, taste, seem, become, get, on utilise un ADJECTIF, pas un adverbe : on décrit le sujet, pas une action. You look tired. This soup tastes good. The idea sounds great.",
+    "Comparer : She looks happy (elle a l'air heureuse : adjectif) / She looked at me happily (elle m'a regardé d'un air heureux : action de regarder, adverbe).",
+    "Cas particulier : « well » peut être un adjectif qui veut dire « en bonne santé » : I don't feel well (je ne me sens pas bien). Mais « I feel good » veut dire « je me sens bien, en forme, de bonne humeur »."
+   ],
+   "exemples": [
+    ["Your plan sounds interesting.", "Ton projet a l'air intéressant."],
+    ["The flowers smell lovely.", "Les fleurs sentent bon."],
+    ["Are you OK? You don't look well.", "Ça va ? Tu n'as pas l'air bien (malade)."]
+   ]
+  }
+ ],
+ "formule": "adjectif + ly → adverbe (slowly, carefully, easily, gently) · good → well · fast, hard, late, early = même forme · verbe + complément + adverbe",
+ "prononciation": [
+  "La terminaison -ly est faible : /li/. L'accent reste sur la même syllabe que l'adjectif : CAREful → CAREfully /ˈkeəfəli/.",
+  "« -fully » se prononce /fəli/, pas « full-y » : beautifully /ˈbjuːtɪfli/.",
+  "« -ically » : on n'entend souvent que trois syllabes finales : fantastically /fænˈtæstɪkli/.",
+  "« well » /wel/ : un seul son de voyelle, comme dans « bell », et un l bien prononcé à la fin.",
+  "« hardly » /ˈhɑːdli/ : ne le confonds pas à l'oral avec « hard » ; le -ly change tout le sens."
+ ],
+ "erreurs": [
+  ["He speaks well English.", "He speaks English well.", "On ne sépare pas le verbe et son complément."],
+  ["She sings very good.", "She sings very well.", "L'adverbe de good est well."],
+  ["He drives fastly.", "He drives fast.", "Fast a la même forme en adjectif et en adverbe."],
+  ["I work hardly.", "I work hard.", "Hard = dur ; hardly = à peine."],
+  ["You look tiredly.", "You look tired.", "Après look, feel, sound… : adjectif."],
+  ["The soup tastes well.", "The soup tastes good.", "Après taste : adjectif."],
+  ["She answered friendly.", "She answered in a friendly way.", "Friendly est un adjectif ; pas d'adverbe en -ly."],
+  ["He did it easyly.", "He did it easily.", "Consonne + y → ily."]
+ ],
+ "dialogue": {
+  "contexte": "Après un cours d'auto-école à Namur, une monitrice fait le bilan avec son élève.",
+  "lignes": [
+   ["Instructor", "Well done, Kevin. You drove very carefully today.", "Bravo, Kevin. Tu as conduit très prudemment aujourd'hui."],
+   ["Kevin", "Thanks! But I parked the car badly, didn't I?", "Merci ! Mais je me suis mal garé, non ?"],
+   ["Instructor", "A little. You need to turn the wheel more slowly. And you sometimes brake too hard.", "Un peu. Tu dois tourner le volant plus lentement. Et tu freines parfois trop fort."],
+   ["Kevin", "I know. I get nervous when cars drive fast behind me.", "Je sais. Je deviens nerveux quand des voitures roulent vite derrière moi."],
+   ["Instructor", "That's normal. Just breathe deeply and stay calm.", "C'est normal. Respire profondément et reste calme."],
+   ["Kevin", "Do you think I'm ready for the test?", "Tu penses que je suis prêt pour l'examen ?"],
+   ["Instructor", "Almost. You learn quickly and you listen well. Two more lessons, and you'll pass easily.", "Presque. Tu apprends vite et tu écoutes bien. Encore deux leçons, et tu réussiras facilement."],
+   ["Kevin", "That sounds great! See you on Thursday.", "Super ! À jeudi."]
+  ]
+ },
+ "mots": [
+  ["carefully", "Drive carefully. The road is wet.", "prudemment, soigneusement"],
+  ["slowly", "Can you speak more slowly, please?", "lentement"],
+  ["quickly", "She finished her work quickly.", "rapidement, vite"],
+  ["well", "He plays the guitar well.", "bien"],
+  ["badly", "I slept badly last night.", "mal"],
+  ["hard", "They work hard every day.", "dur, durement"],
+  ["easily", "You can easily find the station.", "facilement"],
+  ["quietly", "Please close the door quietly.", "doucement, silencieusement"],
+  ["politely", "He asked politely.", "poliment"],
+  ["loudly", "Don't talk so loudly!", "fort, bruyamment"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Former l'adverbe",
+   "consigne": "Écris l'adverbe correspondant à l'adjectif.",
+   "items": [
+    ["slow", "slowly"],
+    ["happy", "happily"],
+    ["gentle", "gently"],
+    ["good", "well"],
+    ["fast", "fast"],
+    ["careful", "carefully"]
+   ]
+  },
+  {
+   "titre": "2. Adjectif ou adverbe ?",
+   "consigne": "Choisis la forme correcte.",
+   "items": [
+    ["She's a (quick / quickly) learner.", "quick"],
+    ["She learns (quick / quickly).", "quickly"],
+    ["This cake tastes (delicious / deliciously).", "delicious"],
+    ["He speaks Spanish (perfect / perfectly).", "perfectly"],
+    ["You look (sad / sadly). What's wrong?", "sad"]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Récris la phrase avec le verbe entre parenthèses et un adverbe.",
+   "items": [
+    ["She's a good dancer. (dance)", "She dances well."],
+    ["He's a hard worker. (work)", "He works hard."],
+    ["They're careful drivers. (drive)", "They drive carefully."],
+    ["My brother is a fast runner. (run)", "My brother runs fast."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["She speaks very well French.", "She speaks French very well."],
+    ["You did the exercise very good.", "You did the exercise very well."],
+    ["The music sounds beautifully.", "The music sounds beautiful."],
+    ["He works very hardly.", "He works very hard."],
+    ["Please drive slow in the village.", "Please drive slowly in the village."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Parle plus lentement, s'il te plaît.", "Speak more slowly, please. / Please speak more slowly."],
+    ["Il joue très bien au football.", "He plays football very well."],
+    ["Je peux à peine t'entendre.", "I can hardly hear you."],
+    ["Ce plat sent bon.", "This dish smells good. / This dish smells nice."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris cinq phrases sur la façon dont tu (ou tes proches) faites certaines choses : parler une langue, cuisiner, conduire, travailler, dormir. Utilise au moins un irrégulier (well, fast, hard).",
+   "items": [
+    ["Exemple de réponse", "I speak French fluently and English quite well. My father cooks badly, but he cleans the kitchen carefully. My sister drives too fast. I usually work hard on Mondays. On Sundays I sleep late and wake up slowly."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Adjectif + ly → adverbe ; easy → easily, gentle → gently, fantastic → fantastically.",
+  "good → well ; fast, hard, late, early : même forme. hardly = à peine, lately = récemment.",
+  "Place : verbe + complément + adverbe (She speaks English well).",
+  "Après be, look, feel, sound, smell, taste, seem : adjectif (You look tired).",
+  "friendly, lovely, lonely sont des adjectifs : in a friendly way."
+ ],
+ "liens": [7, 35, 46, 66],
+ "refs": ["cam-adj", "bc-a1a2"]
+}

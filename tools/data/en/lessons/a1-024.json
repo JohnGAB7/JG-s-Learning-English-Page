@@ -1,0 +1,205 @@
+{
+"n": 24,
+"niveau": "A1",
+"titre": "Describing a person",
+"intro": "We describe people every day: to find someone at the airport, to talk about a colleague, to present a friend. English uses “be” for height and character, and “have got” for hair and eyes.",
+"objectifs": [
+ "Know the difference between “What does she look like?” (appearance) and “What is she like?” (character).",
+ "Describe height, body, age, hair and eyes.",
+ "Describe character with common adjectives and avoid false friends.",
+ "Build a description with be, have got, wear and with."
+],
+"sections": [
+ {
+  "titre": "Three questions: don't mix them up",
+  "texte": [
+   "“What does he look like?” asks about appearance: “He's tall with short hair.” “What is he like?” asks about character (or a general opinion): “He's very kind.” “How is he?” asks about health and feelings: “He's fine, thanks.”",
+   "In “What is he like?”, “like” is not the verb “like” (love). It is a preposition that means “similar to”. The question means “Describe him for me”."
+  ],
+  "tableau": {
+   "entetes": ["Question", "It asks about…", "Possible answer"],
+   "lignes": [
+    ["What does she look like?", "appearance", "She's tall and slim. She's got long hair."],
+    ["What is she like?", "character", "She's friendly and funny."],
+    ["How is she?", "health, feelings", "She's fine. / She's a bit tired."]
+   ]
+  },
+  "exemples": [
+   ["What does your new boss look like? — She's short with grey hair.", "Appearance."],
+   ["What's your new boss like? — She's very patient.", "Character."]
+  ]
+ },
+ {
+  "titre": "Height, body and age: be + adjective",
+  "texte": [
+   "For height, body and age, use “be” + adjective. Adjectives never take an s: “They're tall”, not “They're talls”.",
+   "For exact height, also use “be”: “He's one metre eighty” or “He's 1.80 m (tall)”. In the UK and the USA, people also use feet and inches: “He's six feet tall”.",
+   "Be polite: “fat” can hurt people. Say “a bit overweight” or “big”. For an old person, “elderly” is more polite than “old”."
+  ],
+  "tableau": {
+   "entetes": ["Topic", "Adjectives", "Note"],
+   "lignes": [
+    ["Height", "tall · short · medium height", "“short” is the opposite of “tall”"],
+    ["Body", "slim · thin · well-built · a bit overweight", "“slim” is positive; “thin” can be negative"],
+    ["Age", "young · middle-aged · old / elderly", "“elderly” is polite"],
+    ["Age (more or less)", "in his twenties · in her forties", "20–29 years old · 40–49 years old"],
+    ["Looks", "good-looking · pretty · handsome", "pretty: usually women; handsome: usually men"]
+   ]
+  },
+  "exemples": [
+   ["My brother is tall and slim.", "be + two adjectives."],
+   ["She's in her thirties.", "She is between 30 and 39."]
+  ],
+  "note": "“Short” is the opposite of “tall” for people, and of “long” for hair. Don't say “He is little” about an adult: say “He's short”."
+ },
+ {
+  "titre": "Hair, eyes and details: have got / wear / with",
+  "texte": [
+   "For hair, eyes and beards, use “have got” or “have”: “She's got brown eyes.” / “She has brown eyes.”",
+   "“Hair” (on your head) is uncountable: it stays singular, with no “a” and no s. “Her hair is long.” The plural “hairs” means a few single hairs.",
+   "Order of adjectives before “hair”: length, then shape, then colour: “long curly black hair”. Lesson 35 looks at adjective order in more detail.",
+   "For clothes and glasses, use “wear”: “He wears glasses.” You can also use “with”: “the woman with red hair”, “a man with a beard”."
+  ],
+  "tableau": {
+   "entetes": ["Length", "Shape", "Colour"],
+   "lignes": [
+    ["long · short · shoulder-length", "straight · curly · wavy", "black · brown · fair / blonde · red · grey · white"]
+   ]
+  },
+  "exemples": [
+   ["He's got short curly black hair.", "Order: length, shape, colour."],
+   ["My grandfather is bald and he has a white beard.", "bald = with no hair."],
+   ["She wears glasses.", "wear + glasses."],
+   ["Who's the man with the moustache?", "with + a detail."]
+  ],
+  "note": "No article before “hair” in a description: “She has black hair”, never “She has the black hair”."
+ },
+ {
+  "titre": "Character",
+  "texte": [
+   "For character, use “be” + adjective: “She's kind.” You can add “very”, “quite” (fairly) and “a bit” (a little). We use “a bit” mostly for negative qualities: “He's a bit lazy.”",
+   "False friends: “sympathetic” means you understand someone's problems; it does not mean “nice”. “Sensible” means practical and reasonable; a person who cries easily is “sensitive”."
+  ],
+  "tableau": {
+   "entetes": ["Positive", "Opposite", "Example"],
+   "lignes": [
+    ["friendly", "unfriendly", "The staff are very friendly."],
+    ["kind", "unkind", "It's kind of you to help."],
+    ["hard-working", "lazy", "Ama is very hard-working."],
+    ["patient", "impatient", "Teachers need to be patient."],
+    ["chatty / outgoing", "shy / quiet", "My son is shy with new people."],
+    ["generous", "mean (UK) / stingy", "My uncle is very generous."],
+    ["funny", "serious", "Her husband is really funny."]
+   ]
+  },
+  "exemples": [
+   ["My colleague is very friendly but a bit shy.", "very + quality; a bit + small problem."],
+   ["Our teacher is quite strict but very funny.", "quite = fairly."]
+  ]
+ }
+],
+"formule": "be + height / character (He's tall and kind) · have got + hair / eyes (He's got short black hair) · wear glasses",
+"prononciation": [
+ "“hair” /heə/ and “her” /hɜː/ are different: “hair” sounds like “air” with an h. Breathe out for the h.",
+ "“eyes” /aɪz/ sounds like “I's”; the final s is /z/.",
+ "“beard” /bɪəd/ sounds like “here'd”; “bald” /bɔːld/ sounds like “bold”.",
+ "“moustache” is /məˈstɑːʃ/ in British English, with the stress on the second syllable.",
+ "“What does she look like?”: stress LOOK and LIKE; “does” is weak /dəz/."
+],
+"erreurs": [
+ ["He has blue eyes and blonds hairs.", "He has blue eyes and blond hair.", "“Hair” is uncountable; adjectives never take an s."],
+ ["She is very sympathetic. (meaning nice)", "She's very nice. / She's very friendly.", "“Sympathetic” means understanding someone's problems."],
+ ["How is your brother? — He's tall and slim.", "What does your brother look like? — He's tall and slim.", "“How is he?” asks about health; for appearance: “What does he look like?”."],
+ ["She has the long hair.", "She has long hair.", "No article before “hair” in a description."],
+ ["He has long hair black.", "He has long black hair.", "Adjectives go before the noun: length + colour + hair."],
+ ["He measures 1.80 m.", "He's 1.80 m tall. / He's one metre eighty.", "Use “be” for a person's height."],
+ ["My sister is very sensible, she cries at every film.", "My sister is very sensitive.", "sensible = reasonable; sensitive = easily upset or touched."],
+ ["What is like your sister?", "What is your sister like?", "“Like” goes at the end of the question."]
+],
+"dialogue": {
+ "contexte": "Marc must meet his wife's cousin at Montreal airport. He has never seen her.",
+ "lignes": [
+  ["Marc", "What does your cousin look like? I don't know her.", "Question about appearance."],
+  ["Awa", "She's quite tall and slim, and she's got long curly black hair.", "be + height; have got + hair."],
+  ["Marc", "Does she wear glasses?", "wear + glasses."],
+  ["Awa", "Yes, big red glasses. And she's in her twenties.", "Between 20 and 29."],
+  ["Marc", "OK. And what's she like? I'm a bit nervous.", "Question about character."],
+  ["Awa", "Don't worry, she's really friendly and very funny. She's a bit chatty!", "Character adjectives."],
+  ["Marc", "Great. So: a tall woman with red glasses and curly hair.", "“with” + details."],
+  ["Awa", "Exactly. Her name is Fatou. Here's her number.", "“Here's” = here is."]
+ ]
+},
+"mots": [
+ ["tall", "My son is very tall.", "higher than most people"],
+ ["short", "She's short and slim.", "not tall (person); not long (hair)"],
+ ["slim", "He's tall and slim.", "thin in a nice way"],
+ ["curly", "She has curly hair.", "with a lot of curls, not straight"],
+ ["straight", "I've got long straight hair.", "not curly (hair); not bent"],
+ ["beard", "My uncle has a grey beard.", "hair on a man's chin and face"],
+ ["glasses", "I wear glasses for reading.", "two pieces of glass you wear to see better"],
+ ["friendly", "The neighbours are very friendly.", "nice and kind to other people"],
+ ["shy", "Don't be shy!", "nervous with people you don't know"],
+ ["funny", "My cousin is really funny.", "making people laugh"]
+],
+"exercices": [
+ {
+  "titre": "1. Look like or like?",
+  "consigne": "Which question goes with the answer: “What does he/she look like?” or “What is he/she like?”?",
+  "items": [
+   ["… — He's tall with short hair.", "What does he look like?"],
+   ["… — He's very kind and funny.", "What is he like?"],
+   ["… — She's got long curly hair.", "What does she look like?"],
+   ["… — She's quite shy.", "What is she like?"]
+  ]
+ },
+ {
+  "titre": "2. Opposites",
+  "consigne": "Give the opposite.",
+  "items": [
+   ["tall (person)", "short"],
+   ["long (hair)", "short"],
+   ["curly (hair)", "straight"],
+   ["shy", "chatty / outgoing"],
+   ["lazy", "hard-working"],
+   ["friendly", "unfriendly"]
+  ]
+ },
+ {
+  "titre": "3. Put the words in order",
+  "consigne": "Put the words in the right order to make a sentence.",
+  "items": [
+   ["hair / she / long / has / black", "She has long black hair."],
+   ["got / beard / he's / a", "He's got a beard."],
+   ["eyes / brown / has / he", "He has brown eyes."],
+   ["wears / glasses / my teacher", "My teacher wears glasses."]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["She has short blondes hairs.", "She has short blonde hair."],
+   ["My neighbour is very sympathic.", "My neighbour is very nice. / My neighbour is very friendly."],
+   ["He has forty years more or less.", "He's in his forties."],
+   ["What is like your teacher?", "What's your teacher like?"],
+   ["The man of the beard is my uncle.", "The man with the beard is my uncle."]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Describe a person you know well: appearance (height, hair, eyes) and character, in four or five sentences.",
+  "items": [
+   ["Model answer", "My best friend is called Samuel. He's in his thirties. He's tall and well-built, and he's got short black hair and brown eyes. He wears glasses. He's very kind and funny, but he's a bit lazy!"]
+  ]
+ }
+],
+"a_retenir": [
+ "What does she look like? = appearance; What is she like? = character; How is she? = health.",
+ "be + height, age, character: She's tall, young and friendly.",
+ "have got + hair / eyes: He's got short curly black hair (length, shape, colour). “Hair” stays singular, with no article.",
+ "wear glasses; the man with a beard.",
+ "False friends: nice / friendly (not “sympathetic”); sensitive (not “sensible”) for a person who is easily upset."
+],
+"liens": [1, 5, 23, 35],
+"refs": ["cam-adj", "bc-a1a2"]
+}

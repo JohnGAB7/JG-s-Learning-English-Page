@@ -1,0 +1,197 @@
+{
+ "n": 232,
+ "niveau": "C1",
+ "titre": "Advanced ellipsis",
+ "intro": "English readily leaves out what is already clear: “I haven't finished, but Sara has”, “Anna ordered fish, and Tom pasta”, “Coming?”, “If necessary, call me”. Mastering ellipsis makes your English more natural in speech and smoother in writing, as long as you know what you can leave out and what you must keep.",
+ "objectifs": [
+  "Use ellipsis after an auxiliary, including with be, been and perfect modals (It should be. — It may have been.).",
+  "Use ellipsis with to (I'd love to), gapping (Anna ordered fish, and Tom pasta) and ellipsis in comparisons.",
+  "Recognise situational ellipsis in speech (Sounds good. — Seen Tom?) and ellipsis in subordinate clauses (If necessary, When in doubt).",
+  "Avoid typical mistakes: “Yes, I'm”, “I think” without so, “I didn't want” without to, missing be."
+ ],
+ "sections": [
+  {
+   "titre": "Ellipsis after an auxiliary",
+   "texte": [
+    "This is the core of English ellipsis: keep the auxiliary (or modal) and drop the rest of the verb phrase, which is already known. “I haven't finished the report, but Sara has (finished it).” “She can't drive, but her son can.”",
+    "If the first sentence has no auxiliary, use do / does / did: “I didn't enjoy the film, but my wife did.”",
+    "Key rule: contractions are impossible at the end of a sentence. Say “Yes, I am”, “I think she is”, never “Yes, I'm” or “I think she's”."
+   ],
+   "exemples": [
+    ["“Have you paid the bill?” “No, but I will.”", "Keep will; “pay the bill” is understood."],
+    ["Nobody expected him to win, but he did.", "“did” replaces “won”."],
+    ["“Are you ready?” “Yes, I am.”", "No contraction at the end."]
+   ]
+  },
+  {
+   "titre": "Be, been and perfect modals: what to keep",
+   "texte": [
+    "When the verb left out is “be”, a modal on its own is not enough: keep “be”. “Is the room ready?” — “It should be.” (not “It should.”). Likewise: “He isn't at home, but he might be.”",
+    "With a passive or a perfect tense, you can keep several auxiliaries; British English often keeps “been” or “done”: “Has the parcel been delivered?” — “It may have (been).”; “Did he lock the door?” — “He might have (done).” (“done” is mainly British)."
+   ],
+   "tableau": {
+    "entetes": ["Question / sentence", "Correct ellipsis", "Avoid"],
+    "lignes": [
+     ["Is it finished?", "It should be.", "It should."],
+     ["Will they be there?", "They might be.", "They might."],
+     ["Has it been fixed?", "It may have been. / It may have.", "It may."],
+     ["Did she call?", "She might have. / She might have done. (BrE)", "She might."]
+    ]
+   },
+   "exemples": [
+    ["“Is the report ready?” “It should be by Friday.”", "“be” is needed after the modal."]
+   ]
+  },
+  {
+   "titre": "Ellipsis with “to” and in comparisons",
+   "texte": [
+    "After a verb followed by an infinitive (want, would like, need, try, hope, have, ought, used), keep “to” and drop the verb: “I'd love to.”, “You don't have to.”, “I used to.”. Dropping “to” as well is possible after “want” and “like” in some clauses (“You can leave if you want (to)”).",
+    "In comparisons, the second part is almost always reduced: “She earns more than I do” (more formal) / “than me” (everyday); “as soon as possible”; “Prices are higher than (they were) last year.”"
+   ],
+   "exemples": [
+    ["“Do you want to come with us?” “I'd love to, but I can't.”", "“to” alone: “I'd love to come” is understood."],
+    ["She speaks Spanish better than she did a year ago.", "“did” replaces “spoke Spanish”."]
+   ]
+  },
+  {
+   "titre": "Gapping and ellipsis in coordinated clauses",
+   "texte": [
+    "In two parallel coordinated clauses, you can leave out the verb in the second one: this is gapping. “Anna ordered fish, and Tom pasta.” “Some prefer tea; others, coffee.” A comma often marks the gap. This is mainly a written style.",
+    "With the same subject, leave out subject and auxiliary in the second clause: “She was tired and (she) wanted to go home.” “We can stay or (we can) leave.”"
+   ],
+   "exemples": [
+    ["In 2023, exports rose by 4 %; in 2024, by 7 %.", "Written gapping: “exports rose” is understood."],
+    ["He picked up his keys, (he) locked the door and (he) left.", "Subject left out in a series of actions."]
+   ]
+  },
+  {
+   "titre": "Ellipsis in noun phrases and subordinate clauses",
+   "texte": [
+    "In noun phrases, the noun is dropped after a determiner, possessive or superlative: “Some students passed; others didn't.”, “Her car is newer than mine.”, “This is the best I've seen.”",
+    "In time, condition and concession clauses, you can drop subject + be: “If necessary, call me.”, “When in doubt, ask.”, “Although tired, she continued.”, “Once finished, the form must be signed.”. Careful: the understood subject must be the same as in the main clause (otherwise the sentence “dangles”: see lesson 237)."
+   ],
+   "exemples": [
+    ["If in doubt, contact your manager.", "= If you are in doubt…"],
+    ["While in Douala, we visited the port.", "= While we were in Douala…"]
+   ]
+  },
+  {
+   "titre": "Situational ellipsis in speech",
+   "texte": [
+    "In speech and messages, the beginning of a sentence (subject, auxiliary, it / there) is often dropped when the situation is clear: “(Have you) Seen Tom?”, “(It) Sounds great!”, “(Are you) Coming?”, “(I'm) Sorry, (I) can't make it.”, “(There's) No problem.”",
+    "This is very natural between colleagues or friends, but avoid it in formal writing. It works together with the substitutions “so / not” from B2: “I think so”, “I hope not”, “I'm afraid so”."
+   ],
+   "exemples": [
+    ["“Coffee?” “Love one, thanks.”", "= Would you like a coffee? — I'd love one."]
+   ]
+  }
+ ],
+ "formule": "Keep the auxiliary / modal (+ be / been when needed) or “to”, drop the rest that is already known; no contraction at the end",
+ "prononciation": [
+  "An auxiliary at the end is always in its full form and stressed: “Yes, I AM” /æm/, “She HAS” /hæz/, “I CAN” /kæn/.",
+  "Compare “I can swim” /aɪ kən ˈswɪm/ (reduced) and “Yes, I can” /ˈkæn/ (full).",
+  "“to” at the end keeps a full vowel: “I'd love to” /tuː/, never /tə/.",
+  "In gapping, a short pause marks the missing verb: “Anna ordered fish, | and Tom | pasta.”",
+  "Contrastive stress falls on what changes: “I haven't finished, but SAra HAS.”"
+ ],
+ "erreurs": [
+  ["“Are you French?” “Yes, I'm.”", "“Yes, I am.”", "No contraction at the end of an utterance."],
+  ["“Will it rain?” “I think.”", "“I think so.”", "You need “so” (or “I think it will”)."],
+  ["I wanted to help, but I couldn't help.", "I wanted to help, but I couldn't.", "Don't repeat the verb after the modal."],
+  ["“Can you come?” “I'd like, but I'm busy.”", "“I'd like to, but I'm busy.”", "After like / love / want, keep “to”."],
+  ["“Is the room ready?” “It should.”", "“It should be.”", "When the missing verb is be, keep it."],
+  ["He is more patient than me am.", "He is more patient than I am. / than me.", "Either “than I am” or “than me”, not a mix."],
+  ["Although being tired, she continued.", "Although tired, she continued. / Although she was tired, she continued.", "After although, drop subject + be without “being”."]
+ ],
+ "dialogue": {
+  "contexte": "Two colleagues chat in an open-plan office in Brussels at the end of the day.",
+  "lignes": [
+   ["Julie", "Finished the budget yet?", "Situational ellipsis: (Have you) finished…?"],
+   ["Samuel", "Not yet, but Karim has. I'm still on the travel costs.", "Auxiliary ellipsis: Karim has (finished it)."],
+   ["Julie", "Is the meeting with the auditors still on tomorrow?", "“Still on” = still planned."],
+   ["Samuel", "It should be. Lena was going to confirm, but I don't think she has.", "Keep “be”; “she has (confirmed)”."],
+   ["Julie", "I can call her if you want me to.", "Ellipsis with to."],
+   ["Samuel", "Would you? That'd be great. Oh, and coffee before we go?", "“Would you (call her)?”; “(Shall we have a) coffee…?”"],
+   ["Julie", "Love to, but I can't. My train's at six.", "(I'd) love to; I can't (have a coffee)."],
+   ["Samuel", "No problem. If necessary, I'll stay late and finish the figures.", "If (it is) necessary."]
+  ]
+ },
+ "mots": [
+  ["ellipsis", "Ellipsis avoids repeating words.", "leaving out words that are understood"],
+  ["omit", "You can omit the verb in the second clause.", "leave out"],
+  ["auxiliary", "Keep the auxiliary at the end.", "a helping verb (be, have, do, modals)"],
+  ["clause", "The second clause has no verb.", "a group of words with a subject and a verb"],
+  ["redundant", "Repeating the verb is redundant here.", "not needed; unnecessary"],
+  ["if necessary", "If necessary, we'll extend the deadline.", "only if it is needed"],
+  ["when in doubt", "When in doubt, check the dictionary.", "when you are not sure"],
+  ["make it", "Sorry, I can't make it tonight.", "be able to come"],
+  ["still on", "Is the party still on?", "still planned, not cancelled"],
+  ["figures", "I'll finish the figures tonight.", "numbers, statistics"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. What is missing?",
+   "consigne": "Write the words left out by ellipsis.",
+   "items": [
+    ["I haven't read the book, but my sister has.", "read the book"],
+    ["Anna ordered fish, and Tom pasta.", "ordered"],
+    ["If necessary, I'll come back tomorrow.", "it is (If it is necessary)"],
+    ["Sounds good to me.", "It (It sounds good to me.)"]
+   ]
+  },
+  {
+   "titre": "2. Short answers",
+   "consigne": "Answer with a correct ellipsis (auxiliary or modal).",
+   "items": [
+    ["“Are you tired?” (yes)", "Yes, I am."],
+    ["“Is the report finished?” (probably, with should)", "It should be."],
+    ["“Did Paul lock the door?” (maybe, with might)", "He might have. / He might have done. (BrE)"],
+    ["“Do you want to join us?” (yes, with love)", "I'd love to."],
+    ["“Will it be expensive?” (I hope it won't)", "I hope not."]
+   ]
+  },
+  {
+   "titre": "3. Remove the repetition",
+   "consigne": "Rewrite the sentence using ellipsis.",
+   "items": [
+    ["I can't come on Monday, but Lisa can come on Monday.", "I can't come on Monday, but Lisa can."],
+    ["She didn't like the hotel, but her husband liked the hotel.", "She didn't like the hotel, but her husband did."],
+    ["In 2022, sales rose by 3 %, and in 2023, sales rose by 5 %.", "In 2022, sales rose by 3 %, and in 2023, by 5 %."],
+    ["You can leave early if you want to leave early.", "You can leave early if you want (to)."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct each sentence.",
+   "items": [
+    ["“Is she your manager?” “Yes, she's.”", "“Yes, she is.”"],
+    ["“Will they be late?” “They might.”", "“They might be.”"],
+    ["“Can you help me?” “I'd like, but I can't.”", "“I'd like to, but I can't.”"],
+    ["Although being exhausted, he kept running.", "Although exhausted, he kept running. / Although he was exhausted, he kept running."]
+   ]
+  },
+  {
+   "titre": "5. Answer naturally",
+   "consigne": "Write a natural short reply using ellipsis.",
+   "items": [
+    ["“Are you coming tonight?” (You'd like to, but you can't.)", "I'd love to, but I can't."],
+    ["“Will it be sunny tomorrow?” (You believe it will.)", "I think so."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write a short exchange (5–6 lines) between two colleagues organising a meeting. Use at least four different kinds of ellipsis.",
+   "items": [
+    ["Example answer", "A: Booked the room yet? B: No, but Marie has. A: Great. Is the projector working? B: It should be. I tested it on Monday, but the IT team might have changed something. A: I'll check if you want me to. B: Would you? Thanks. A: No problem. If necessary, we can use my laptop."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Keep the auxiliary or modal and drop the rest: I haven't, but Sara has. With no auxiliary, use do / does / did.",
+  "No contraction at the end (Yes, I am); keep “be” after a modal (It should be); keep “to” (I'd love to).",
+  "Gapping in writing (Anna ordered fish, and Tom pasta); ellipsis in subordinate clauses (If necessary, When in doubt, Although tired).",
+  "In speech, situational ellipsis (Sounds good, Seen Tom?); “I think so / I hope not”, never “I think” alone."
+ ],
+ "liens": [183, 69, 230, 237, 278],
+ "refs": ["bc-ellipsis", "bc-repetition", "bc-c1"]
+}

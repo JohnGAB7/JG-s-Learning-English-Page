@@ -1,0 +1,215 @@
+{
+ "n": 163,
+ "niveau": "B2",
+ "titre": "Non-defining relative clauses",
+ "intro": "“My brother, who lives in Toronto, is an engineer”; “He lost his passport, which meant he couldn't fly”; “I have two sisters, both of whom are doctors”: a non-defining relative clause adds extra information between commas. It follows strict rules (no “that”, the pronoun is required) and allows elegant structures that are very common in writing.",
+ "objectifs": [
+  "Distinguish defining clauses (no commas) from non-defining clauses (with commas), and the change in meaning.",
+  "Use who, which, whose, where, when and whom, without “that” and without leaving out the pronoun.",
+  "Use “which” to refer back to a whole clause.",
+  "Make relative clauses with quantifiers (some of whom, most of which) and prepositions (to whom, in which)."
+ ],
+ "sections": [
+  {
+   "titre": "Defining or non-defining?",
+   "texte": [
+    "A defining relative clause identifies the person or thing we mean: without it, we don't know who or what we are talking about. It has no commas: “The students who failed the test must take it again” (only those students).",
+    "A non-defining relative clause adds extra information about someone or something already identified. It goes between commas and could be removed: “Yaoundé, which has seven hills, is the capital of Cameroon.”",
+    "Commas change the meaning: “My brother who lives in Paris is a chef” suggests I have several brothers (the one in Paris); “My brother, who lives in Paris, is a chef” says I have one brother, and I add that he lives in Paris."
+   ],
+   "tableau": {
+    "entetes": ["", "Defining", "Non-defining"],
+    "lignes": [
+     ["Job", "identifies", "adds information"],
+     ["Commas", "no", "yes (or dashes, brackets)"],
+     ["“that”", "possible", "impossible"],
+     ["Leaving out an object pronoun", "possible (the book I read)", "impossible"],
+     ["With a proper noun", "rare", "very common (Paris, which…)"],
+     ["Register", "speech and writing", "mainly writing; in speech, with pauses"]
+    ]
+   }
+  },
+  {
+   "titre": "The pronouns: who, which, whose, where, when, whom",
+   "texte": [
+    "Who for people, which for things and animals, whose for possession, where for places, when for times.",
+    "“Whom” is the object form of “who”, in formal style: “The director, whom I met in Dakar, offered me a job.” In speech, people say “who”.",
+    "Two strict rules: never “that” in a non-defining clause, and never leave out the pronoun, even when it is an object. Don't add an extra pronoun either (“which I visited it” is wrong)."
+   ],
+   "exemples": [
+    ["Marie Curie, who was born in Warsaw, won two Nobel Prizes.", "who: a person."],
+    ["The Atomium, which was built in 1958, is now a museum.", "which: a thing."],
+    ["Mr Diallo, whose son is in my class, is a pilot.", "whose: possession."],
+    ["We visited Ghent, where my grandparents used to live.", "where: a place."],
+    ["I'll never forget 2020, when we all stayed at home.", "when: a time."]
+   ]
+  },
+  {
+   "titre": "“Which” referring to a whole clause",
+   "texte": [
+    "“Which” can refer to the whole previous clause, not just one noun.",
+    "A very common trap is to use “what”: “She passed the exam, what surprised everyone” is wrong; say “which surprised everyone”.",
+    "This “which” always comes after a comma, at the end of the sentence."
+   ],
+   "exemples": [
+    ["He arrived two hours late, which annoyed everyone.", "“which” = the fact that he arrived late."],
+    ["She speaks five languages, which is very useful in her job.", "Comment on the whole clause."],
+    ["They cancelled the concert, which I found disappointing.", "“which” as an object."]
+   ]
+  },
+  {
+   "titre": "Quantifier + of whom / of which",
+   "texte": [
+    "After a plural noun or a group, you can talk about part of it: quantifier + of + whom (people) / which (things). Quantifiers: some, many, most, all, none, both, neither, a few, several, one, two, half, the majority.",
+    "After a preposition, always use “whom”, never “who”: “most of whom”, not “most of who”.",
+    "Don't replace “whom” with “them”: “…, both of them live in Canada” joins two sentences with only a comma, which is incorrect."
+   ],
+   "exemples": [
+    ["She has three children, all of whom speak four languages.", "All three speak four languages."],
+    ["I have two sisters, one of whom lives in Liège.", "One of the two."],
+    ["We received 200 applications, most of which were excellent.", "Most of the applications."],
+    ["He wrote two novels, neither of which was successful.", "Not one or the other."]
+   ]
+  },
+  {
+   "titre": "Prepositions: formal and informal",
+   "texte": [
+    "When the relative pronoun is the object of a preposition, two word orders are possible. Formal: preposition + whom / which. Everyday: the preposition goes to the end of the clause, with who / which.",
+    "“Whose” can also follow a preposition: “The writer, in whose house the museum is located, …”"
+   ],
+   "tableau": {
+    "entetes": ["Formal style", "Everyday style"],
+    "lignes": [
+     ["My manager, to whom I spoke yesterday, agreed.", "My manager, who I spoke to yesterday, agreed."],
+     ["The hotel, at which we stayed, was excellent.", "The hotel, which we stayed at, was excellent."],
+     ["Dr Ngono, with whom I work, is brilliant.", "Dr Ngono, who I work with, is brilliant."],
+     ["The project, on which we spent two years, is finished.", "The project, which we spent two years on, is finished."]
+    ]
+   }
+  },
+  {
+   "titre": "Punctuation and speech",
+   "texte": [
+    "A non-defining clause in the middle of a sentence has two commas; at the end, one. Don't forget the second comma: “My mother, who lives in Lille, is 70.”",
+    "In speech, it is marked by short pauses and a slightly lower voice, like a comment in brackets. In conversation, people often prefer two simple sentences: “My mother lives in Lille. She's 70.”"
+   ],
+   "exemples": [
+    ["My mother, who lives in Lille, is 70.", "Two commas."],
+    ["I called Aminata, who gave me some great advice.", "One comma at the end of the sentence."]
+   ]
+  }
+ ],
+ "formule": "noun, who / which / whose / where / when + clause, … · …, which (whole clause) · quantifier + of whom / of which",
+ "prononciation": [
+  "Say a non-defining clause like a comment in brackets: a short pause before and after, with a slightly lower and faster voice.",
+  "“whose” /huːz/ sounds exactly like “who's” (who is): watch the spelling.",
+  "“whom” /huːm/: a long vowel, as in “room”.",
+  "“which” /wɪtʃ/ and “witch” sound the same; there is no /h/ sound in standard British English.",
+  "In “most of whom”, “of” is weak: /ˈməʊst əv huːm/."
+ ],
+ "erreurs": [
+  ["My father, that is a doctor, works in Douala.", "My father, who is a doctor, works in Douala.", "Never “that” in a non-defining clause."],
+  ["She passed the exam, what surprised everyone.", "She passed the exam, which surprised everyone.", "Referring to a whole clause: which."],
+  ["I have two brothers, both of them live in Canada.", "I have two brothers, both of whom live in Canada.", "Quantifier + of whom."],
+  ["Mr Diallo, who his son is in my class, is a pilot.", "Mr Diallo, whose son is in my class, is a pilot.", "Possession: whose."],
+  ["The Louvre, which I visited it last year, was crowded.", "The Louvre, which I visited last year, was crowded.", "No extra pronoun after the relative."],
+  ["My mother who lives in Lille is 70.", "My mother, who lives in Lille, is 70.", "You have only one mother: non-defining, with commas."],
+  ["The students, most of who passed, were happy.", "The students, most of whom passed, were happy.", "After a preposition: whom."]
+ ],
+ "dialogue": {
+  "contexte": "In Brussels, Grace shows her colleague Ingrid photos of her cousin's wedding in Bamenda, Cameroon.",
+  "lignes": [
+   ["Grace", "This is my cousin Brenda, who got married last month.", "who: extra information about Brenda."],
+   ["Ingrid", "She looks wonderful! And who's the man next to her?", "A simple question."],
+   ["Grace", "That's her husband, Joseph, whose family comes from Buea.", "whose: possession."],
+   ["Ingrid", "And all these people in yellow?", "A simple question."],
+   ["Grace", "Her friends from university, most of whom flew in from abroad.", "Quantifier + of whom."],
+   ["Ingrid", "Where was the ceremony?", "A simple question."],
+   ["Grace", "In the church in Bamenda, where my grandparents got married in 1965.", "where: a place."],
+   ["Ingrid", "That's lovely. And the party lasted until six in the morning, which doesn't surprise me at all!", "which: refers to the whole clause."]
+  ]
+ },
+ "mots": [
+  ["relative", "All our relatives came to the wedding.", "a member of your family"],
+  ["cousin", "My cousin lives in Bamenda.", "the child of your aunt or uncle"],
+  ["in-laws", "We're having dinner with my in-laws.", "the parents and family of your husband or wife"],
+  ["nephew", "My nephew, who is ten, loves football.", "the son of your brother or sister"],
+  ["niece", "My niece has just started school.", "the daughter of your brother or sister"],
+  ["godmother", "My godmother gave me this ring.", "a woman who promises at a child's baptism to help them"],
+  ["sibling", "Do you have any siblings?", "a brother or sister"],
+  ["ceremony", "The ceremony took place in a small church.", "a formal event, such as a wedding"],
+  ["attend", "Over 300 guests attended the wedding.", "to go to an event"],
+  ["guest", "Each guest received a small gift.", "a person who is invited to an event or a home"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Commas or not?",
+   "consigne": "Add commas if the relative clause is non-defining. If not, write “no commas”.",
+   "items": [
+    ["My sister who lives in Ghent is a nurse. (I have only one sister.)", "My sister, who lives in Ghent, is a nurse."],
+    ["The students who failed the test must take it again.", "No commas (defining: only the students who failed)."],
+    ["Yaoundé which is the capital of Cameroon has seven hills.", "Yaoundé, which is the capital of Cameroon, has seven hills."],
+    ["The book that you lent me was excellent.", "No commas (defining, with “that”)."]
+   ]
+  },
+  {
+   "titre": "2. Choose the pronoun",
+   "consigne": "Complete with who, which, whose, where, when or whom.",
+   "items": [
+    ["Marie Curie, ___ was born in Warsaw, won two Nobel Prizes.", "who"],
+    ["The meeting, ___ lasted three hours, was very productive.", "which"],
+    ["Mr Diallo, ___ son is in my class, is a pilot.", "whose"],
+    ["We visited Ghent, ___ my grandparents used to live.", "where"],
+    ["I'll never forget 2020, ___ we all stayed at home.", "when"],
+    ["The director, to ___ I sent my CV, never replied.", "whom"]
+   ]
+  },
+  {
+   "titre": "3. Combine",
+   "consigne": "Combine the two sentences with a non-defining relative clause.",
+   "items": [
+    ["My neighbour is a chef. He cooks for us every Sunday.", "My neighbour, who is a chef, cooks for us every Sunday."],
+    ["The Atomium was built for the 1958 World Fair. It is now a museum.", "The Atomium, which was built for the 1958 World Fair, is now a museum."],
+    ["She has three children. All of them speak four languages.", "She has three children, all of whom speak four languages."],
+    ["He arrived two hours late. This annoyed everyone.", "He arrived two hours late, which annoyed everyone."],
+    ["I met Ama. Her brother plays for the national team.", "I met Ama, whose brother plays for the national team."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["My father, that is a doctor, works in Douala.", "My father, who is a doctor, works in Douala."],
+    ["She passed the exam, what surprised everyone.", "She passed the exam, which surprised everyone."],
+    ["I have two brothers, both of them live in Canada.", "I have two brothers, both of whom live in Canada."],
+    ["The Louvre, which I visited it last year, was crowded.", "The Louvre, which I visited last year, was crowded."]
+   ]
+  },
+  {
+   "titre": "5. Make it formal",
+   "consigne": "Rewrite each sentence in formal style, with preposition + whom / which.",
+   "items": [
+    ["The hotel, which we stayed at, was excellent.", "The hotel, at which we stayed, was excellent."],
+    ["My manager, who I spoke to yesterday, agreed.", "My manager, to whom I spoke yesterday, agreed."],
+    ["The project, which we spent two years on, has finally finished.", "The project, on which we spent two years, has finally finished."],
+    ["Dr Ngono, who I work with, is brilliant.", "Dr Ngono, with whom I work, is brilliant."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Introduce four family members or friends in one sentence each, with a different non-defining clause (who, whose, where / which for a whole clause, of whom).",
+   "items": [
+    ["Example answer", "My grandmother, who is 88, still walks to the market every day. My uncle Paul, whose restaurant is in Kribi, makes the best grilled fish in Cameroon. My best friend moved to Montreal, which made me very sad. I have four cousins, two of whom study medicine in Brussels."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Non-defining = extra information between commas; defining = identification, no commas.",
+  "who, which, whose, where, when, whom; never “that”, never leave out the pronoun.",
+  "…, which… can refer to a whole clause; never “what”.",
+  "Quantifier + of whom / of which: some of whom, most of which, both of whom.",
+  "Preposition + whom / which (formal) or the preposition at the end (everyday)."
+ ],
+ "liens": [101, 102, 162, 171],
+ "refs": ["bc-relative-nondef", "bc-relative-def"]
+}

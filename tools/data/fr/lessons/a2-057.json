@@ -1,0 +1,190 @@
+{
+"n": 57,
+"niveau": "A2",
+"titre": "Could / would you…? (demandes polies)",
+"intro": "Pour demander un service poliment, l'anglais utilise des questions avec could ou would plutôt que l'impératif : « Could you help me? » (Pourriez-vous m'aider ?). Savoir doser la politesse est essentiel au travail, dans les magasins et avec des inconnus.",
+"objectifs": [
+"Demander à quelqu'un de faire quelque chose avec Can / Could / Would you + base verbale.",
+"Demander une permission pour soi avec Can / Could / May I…?",
+"Utiliser « Would you mind + -ing ? » et comprendre ses réponses.",
+"Accepter ou refuser poliment une demande."
+],
+"sections": [
+{
+"titre": "Demander un service : Can / Could / Would you…?",
+"texte": [
+"Pour demander à quelqu'un de faire quelque chose, on pose une question avec un modal + you + base verbale. Plus on choisit une forme « lointaine », plus on est poli.",
+"Ici, « could » n'est pas un passé : c'est une forme de politesse, comme le conditionnel français « pourriez-vous ». « Please » se place après you ou en fin de phrase."
+],
+"tableau": {
+"entetes": ["Forme", "Niveau de politesse", "Exemple", "Traduction"],
+"lignes": [
+["Can you + base ?", "familier, entre amis", "Can you pass the salt?", "Tu peux me passer le sel ?"],
+["Could you + base ?", "poli, la forme la plus utile", "Could you close the window, please?", "Pourriez-vous fermer la fenêtre, s'il vous plaît ?"],
+["Would you + base ?", "poli", "Would you sign here, please?", "Voulez-vous bien signer ici ?"],
+["Would you mind + -ing ?", "très poli", "Would you mind waiting a moment?", "Cela vous dérangerait d'attendre un instant ?"],
+["Could you possibly + base ?", "très poli, pour un gros service", "Could you possibly lend me your car?", "Serait-il possible que tu me prêtes ta voiture ?"]
+]
+}
+},
+{
+"titre": "Demander une permission : Can / Could / May I…?",
+"texte": [
+"Quand on demande quelque chose pour soi (la permission de faire quelque chose), le sujet est I : Can I…?, Could I…?, May I…? (plus formel).",
+"« Could I have…? » est la formule idéale pour commander ou demander un objet : « Could I have the bill, please? ». En anglais britannique, « Can I get…? » au restaurant est entendu, mais il est plus américain et plus familier."
+],
+"exemples": [
+["Can I use your phone?", "Je peux utiliser ton téléphone ? (familier)"],
+["Could I have a glass of water, please?", "Pourrais-je avoir un verre d'eau, s'il vous plaît ?"],
+["May I come in?", "Puis-je entrer ? (formel)"]
+]
+},
+{
+"titre": "Would you mind…? : attention aux réponses",
+"texte": [
+"« Would you mind + verbe-ing ? » signifie littéralement « Cela vous dérangerait-il de… ? ». Le verbe qui suit est toujours en -ing.",
+"Piège : pour accepter, on répond par une négation : « No, not at all. » / « Of course not. » (= non, ça ne me dérange pas, je le fais volontiers). Répondre « Yes » signifierait « oui, ça me dérange »."
+],
+"exemples": [
+["Would you mind opening the door? — No, not at all.", "Ça vous dérangerait d'ouvrir la porte ? — Pas du tout (j'accepte)."],
+["Would you mind speaking more slowly?", "Ça vous dérangerait de parler plus lentement ?"],
+["Would you mind if I sat here? — Of course not. Go ahead.", "Ça vous dérange si je m'assois ici ? — Bien sûr que non. Allez-y."]
+]
+},
+{
+"titre": "Accepter et refuser poliment",
+"texte": [
+"Pour accepter, on utilise des réponses courtes et chaleureuses : Sure. / Of course. / Yes, no problem. / Certainly (plus formel). On ne répond généralement pas « Yes, I could » à une demande.",
+"Pour refuser, on s'excuse et on donne une raison : « I'm sorry, but… », « I'm afraid I can't… ». « I'm afraid » signifie ici « je suis désolé de devoir dire que », pas « j'ai peur »."
+],
+"tableau": {
+"entetes": ["Accepter", "Refuser"],
+"lignes": [
+["Sure! / Of course.", "I'm sorry, I can't. I'm in a hurry."],
+["Yes, no problem.", "I'm afraid I can't. I'm using it right now."],
+["Certainly. (formel)", "I'd love to, but I'm busy tonight."]
+]
+}
+},
+{
+"titre": "Ne pas confondre",
+"texte": [
+"« Would you like…? » (leçon 34) est une offre ou une invitation : on propose quelque chose à quelqu'un. « Would you…? » est une demande : on demande à quelqu'un de faire quelque chose.",
+"Un impératif seul (« Close the door. ») peut sembler brusque en anglais, surtout avec un inconnu. Ajouter « please » aide, mais une question avec could est bien plus naturelle."
+],
+"exemples": [
+["Would you like a coffee?", "Vous voulez un café ? (offre)"],
+["Would you make some coffee?", "Pourriez-vous faire du café ? (demande)"]
+]
+}
+],
+"formule": "Can / Could / Would you + base … ? · Would you mind + verbe-ing … ? · Can / Could / May I + base … ?",
+"prononciation": [
+"« Could you » se prononce souvent /ˈkʊdʒuː/ : le d et le y fusionnent en /dʒ/ ; de même « Would you » /ˈwʊdʒuː/.",
+"« could » /kʊd/ et « would » /wʊd/ : le l est muet ; « would » se prononce comme « wood ».",
+"L'intonation fait la politesse : une voix qui monte doucement à la fin est polie ; une voix plate ou descendante peut sonner comme un ordre.",
+"« please » se prononce /pliːz/, avec un z final ; il est souvent accentué en fin de phrase."
+],
+"erreurs": [
+["Could you to help me?", "Could you help me?", "Pas de to après could / would."],
+["Would you mind to open the window?", "Would you mind opening the window?", "Après mind : verbe en -ing."],
+["Would you mind helping me? — Yes, of course!", "Would you mind helping me? — No, not at all! / Of course not!", "Pour accepter « Would you mind…? », on répond par une négation."],
+["Can you give me the bill?", "Could I have the bill, please?", "Plus poli et plus naturel au restaurant : Could I have…?"],
+["Please, could you repeat?", "Could you repeat that, please?", "please se met plutôt en fin de phrase ou après you ; repeat a souvent un complément (that)."],
+["Could you help me? — Yes, I could.", "Could you help me? — Sure. / Of course.", "On ne répond pas avec « I could » à une demande."],
+["I have fear I can't come.", "I'm afraid I can't come.", "« Je regrette de dire que » = I'm afraid."]
+],
+"dialogue": {
+"contexte": "À la réception d'un hôtel à Québec. Monsieur Ndiaye vient d'arriver après un long voyage depuis Dakar.",
+"lignes": [
+["Receptionist", "Good evening, sir. How can I help you?", "Bonsoir, monsieur. Que puis-je faire pour vous ?"],
+["Mr Ndiaye", "Good evening. I have a reservation. Could you check it, please? The name is Ndiaye.", "Bonsoir. J'ai une réservation. Pourriez-vous la vérifier, s'il vous plaît ? Le nom est Ndiaye."],
+["Receptionist", "Of course. Would you mind spelling your name?", "Bien sûr. Cela vous dérangerait d'épeler votre nom ?"],
+["Mr Ndiaye", "Not at all. N-D-I-A-Y-E.", "Pas du tout. N-D-I-A-Y-E."],
+["Receptionist", "Thank you. Here's your key. Room 412.", "Merci. Voici votre clé. Chambre 412."],
+["Mr Ndiaye", "Thanks. Could I have a wake-up call at six, please?", "Merci. Pourrais-je avoir un réveil téléphonique à six heures ?"],
+["Receptionist", "Certainly. Would you like some help with your bags?", "Certainement. Voulez-vous de l'aide pour vos bagages ?"],
+["Mr Ndiaye", "That would be great. Could you also tell me where I can eat tonight?", "Ce serait super. Pourriez-vous aussi me dire où je peux manger ce soir ?"],
+["Receptionist", "I'm afraid the restaurant is closed, but there's a nice café across the street.", "Je regrette, le restaurant est fermé, mais il y a un café sympa en face."]
+]
+},
+"mots": [
+["favour", "Could you do me a favour?", "un service (US : favor)"],
+["mind", "Would you mind waiting?", "être dérangé par, voir un inconvénient à"],
+["lend", "Could you lend me a pen?", "prêter"],
+["borrow", "Could I borrow your charger?", "emprunter"],
+["repeat", "Could you repeat that, please?", "répéter"],
+["spell", "Could you spell your name?", "épeler"],
+["certainly", "Certainly, madam.", "certainement, bien sûr (formel)"],
+["afraid", "I'm afraid I can't help you.", "désolé (de devoir dire que) ; effrayé"],
+["polite", "It's more polite to say “could you”.", "poli"],
+["request", "I have a small request.", "une demande"]
+],
+"exercices": [
+{
+"titre": "1. Du plus familier au plus poli",
+"consigne": "Pour chaque situation, choisis la forme la plus adaptée : Can you…? (ami) ou Could you…? / Would you mind…? (inconnu, travail).",
+"items": [
+["À ton frère : passer la télécommande.", "Can you pass me the remote?"],
+["À un inconnu dans le train : baisser le son de sa musique.", "Could you turn your music down, please? / Would you mind turning your music down?"],
+["À ton directeur : relire ton rapport.", "Could you read my report, please? / Would you mind reading my report?"],
+["À une amie : t'attendre cinq minutes.", "Can you wait for me for five minutes?"]
+]
+},
+{
+"titre": "2. Would you mind + -ing",
+"consigne": "Transforme la demande avec Would you mind…?",
+"items": [
+["Could you close the door?", "Would you mind closing the door?"],
+["Could you speak more slowly?", "Would you mind speaking more slowly?"],
+["Could you send me the file?", "Would you mind sending me the file?"],
+["Could you move your car?", "Would you mind moving your car?"]
+]
+},
+{
+"titre": "3. Demander pour soi",
+"consigne": "Écris une demande polie avec Could I…? ou May I…?",
+"items": [
+["Tu veux l'addition au restaurant.", "Could I have the bill, please?"],
+["Tu veux utiliser les toilettes chez quelqu'un.", "Could I use your bathroom, please? / May I use your toilet?"],
+["Tu veux emprunter le stylo d'un collègue.", "Could I borrow your pen?"],
+["Tu veux entrer dans le bureau de ton professeur.", "May I come in?"]
+]
+},
+{
+"titre": "4. Accepter ou refuser",
+"consigne": "Réponds poliment selon l'indication (✓ accepter, ✗ refuser avec une raison).",
+"items": [
+["Would you mind opening the window? (✓)", "No, not at all. / Of course not."],
+["Could you help me with my bags? (✓)", "Sure! / Of course."],
+["Could you lend me your car tonight? (✗)", "I'm sorry, I can't. I need it tonight. / I'm afraid I can't. I'm using it."]
+]
+},
+{
+"titre": "5. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["Could you to call me back?", "Could you call me back?"],
+["Would you mind to wait here?", "Would you mind waiting here?"],
+["Can I to sit here?", "Can I sit here?"],
+["Would you mind helping me? — Yes, sure!", "Would you mind helping me? — No, not at all! / Of course not!"]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Tu es à l'accueil d'une administration ou dans un magasin. Écris un petit échange de quatre ou cinq répliques avec au moins trois demandes polies différentes.",
+"items": [
+["Exemple de réponse", "Me: Good morning. Could you tell me where the passport office is, please? — Clerk: Of course. It's on the second floor. — Me: Thank you. Would you mind giving me a form? — Clerk: Not at all. Here you are. — Me: Could I borrow a pen too? — Clerk: Certainly."]
+]
+}
+],
+"a_retenir": [
+"Demander un service : Can you…? (familier) → Could / Would you…? (poli) → Would you mind + -ing? (très poli).",
+"Demander pour soi : Can / Could / May I…? ; Could I have…, please?",
+"Would you mind…? → pour accepter : No, not at all / Of course not.",
+"Refuser poliment : I'm sorry, but… / I'm afraid I can't…",
+"Ici, could n'est pas un passé ; et Would you like…? est une offre, pas une demande."
+],
+"liens": [28, 32, 34, 56, 78],
+"refs": ["bc-a1a2", "cam-using"]
+}

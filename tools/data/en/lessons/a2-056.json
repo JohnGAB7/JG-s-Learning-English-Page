@@ -1,0 +1,193 @@
+{
+"n": 56,
+"niveau": "A2",
+"titre": "Should (giving advice)",
+"intro": "We use “should” to give advice or a recommendation, and to say what is right or a good idea to do. It is an essential tool to help someone, give your opinion or ask for advice.",
+"objectifs": [
+"Form should / shouldn't + base verb and the question Should I…?",
+"Give advice naturally with I think you should / I don't think you should.",
+"Ask for advice (What should I do?).",
+"Tell the difference between should (advice) and must / have to (obligation)."
+],
+"sections": [
+{
+"titre": "The form",
+"texte": [
+"“Should” is a modal verb, like must and will: it never changes (no -s) and it is followed by the base verb without to.",
+"Negative: should not, short form “shouldn't”. Question: put should before the subject. Short answers: Yes, you should. / No, you shouldn't."
+],
+"tableau": {
+"entetes": ["Form", "Pattern", "Example"],
+"lignes": [
+["positive", "subject + should + base", "You should rest."],
+["negative", "subject + shouldn't + base", "You shouldn't work so much."],
+["question", "Should + subject + base?", "Should I call the doctor?"],
+["Wh- question", "Wh- + should + subject + base?", "What should we do?"],
+["short answer", "Yes, you should. / No, you shouldn't.", "Should I go? — Yes, you should."]
+]
+}
+},
+{
+"titre": "Giving advice",
+"texte": [
+"“You should + base” is the simplest way to give advice. To be more polite or less direct, add “I think” or “maybe”: “I think you should…”, “Maybe you should…”.",
+"For negative advice, English prefers “I don't think you should…” to “I think you shouldn't…”, as with will (lesson 49)."
+],
+"exemples": [
+["You look tired. You should go to bed early.", "Simple advice."],
+["I think you should talk to your manager.", "Softer advice."],
+["I don't think you should buy that car. It's too old.", "Negative advice: I don't think + should."],
+["Maybe we should take a taxi.", "A gentle suggestion."]
+]
+},
+{
+"titre": "Asking for advice",
+"texte": [
+"To ask for someone's opinion, use “Should I…?” or “What / Where / When should I…?”. You can also ask “What do you think I should do?”.",
+"Be careful: in “What do you think I should do?”, the word order after “do you think” is like a statement: I should do, not “should I do”."
+],
+"exemples": [
+["Should I bring something to the party?", "Yes / no question."],
+["Which course should I choose?", "Wh- question."],
+["What do you think I should do?", "Statement order after do you think."]
+]
+},
+{
+"titre": "Should, must or have to?",
+"texte": [
+"“Should” is advice: you can choose. “Must” and “have to” are obligation (lesson 54). Compare: “You should wear a coat” (it's a good idea, it's cold) and “You must wear a helmet” (it's the rule).",
+"“Ought to” means almost the same as should, but it is less common and a bit more formal: “You ought to apologise”. “You'd better + base” is stronger: if you don't do it, there will be a problem."
+],
+"tableau": {
+"entetes": ["Form", "Strength", "Example"],
+"lignes": [
+["should", "advice", "You should see a doctor."],
+["ought to", "advice (more formal, less common)", "You ought to see a doctor."],
+["had better ('d better)", "strong advice, or there's a problem", "You'd better see a doctor before it gets worse."],
+["must / have to", "obligation", "You must / have to see a doctor to get a certificate."]
+]
+}
+},
+{
+"titre": "Should for what is right or expected",
+"texte": [
+"“Should” also expresses what is right or correct: a moral opinion or a criticism. It can also show a logical expectation: what will probably happen if everything is normal.",
+"The fixed phrase “If I were you, I'd…” is another very common way to give advice; you will study its grammar at B1."
+],
+"exemples": [
+["People shouldn't throw rubbish in the street.", "Opinion: it's wrong."],
+["The bus should arrive in five minutes.", "Expectation: it will probably arrive."],
+["If I were you, I'd accept the offer.", "Advice with a fixed phrase."]
+]
+}
+],
+"formule": "should / shouldn't + base verb · Should I + base …? · I (don't) think you should + base",
+"prononciation": [
+"“should” is /ʃʊd/: the l is silent, and the vowel is short as in “book”. Weak form: /ʃəd/.",
+"“shouldn't” is /ˈʃʊdnt/: two syllables, a light t.",
+"“could”, “would” and “should” all rhyme: /kʊd/, /wʊd/, /ʃʊd/ (the l is never pronounced).",
+"To make advice softer, the voice goes down and then up a little: “Maybe you should ↘ call her ↗”."
+],
+"erreurs": [
+["You should to rest.", "You should rest.", "No to after should."],
+["He shoulds study more.", "He should study more.", "should never takes -s."],
+["Do I should call her?", "Should I call her?", "Question: Should + subject, no do."],
+["I think you shouldn't go.", "I don't think you should go.", "More natural: put the negative on think."],
+["What do you think should I do?", "What do you think I should do?", "After “do you think”, use statement order."],
+["You must try to relax a bit.", "You should try to relax a bit.", "Just advice, not an obligation: should."],
+["I should went to the doctor.", "I should go to the doctor.", "After should: base verb."]
+],
+"dialogue": {
+"contexte": "Inès, a student in Brussels, can't sleep before her exams. She talks to her friend Mariam.",
+"lignes": [
+["Inès", "I can't sleep at all. My exams start next week. What should I do?", "Asking for advice."],
+["Mariam", "First, you shouldn't drink coffee after four o'clock.", "Negative advice."],
+["Inès", "Oh. I drink three cups in the evening!", "Surprise."],
+["Mariam", "That's too much. And I think you should turn off your phone an hour before bed.", "Softer advice with I think."],
+["Inès", "Should I study at night when it's quiet?", "Yes / no question with should."],
+["Mariam", "No, I don't think you should. Your brain needs rest. Study in the morning.", "I don't think you should."],
+["Inès", "OK. Maybe I should go for a walk every day too.", "Maybe I should = a gentle idea."],
+["Mariam", "Great idea! And if you still can't sleep, you should see a doctor.", "Advice for the future."]
+]
+},
+"mots": [
+["advice", "Can I give you some advice?", "an opinion about what someone should do (uncountable)"],
+["advise", "The doctor advised me to rest.", "to tell someone what you think they should do"],
+["suggest", "I suggest taking the train.", "to give an idea for someone to think about"],
+["idea", "That's a good idea.", "a thought or plan"],
+["rest", "You should rest this afternoon.", "to relax, sleep or stop working; a time of relaxing"],
+["healthy", "You should eat healthy food.", "good for your body; not ill"],
+["stress", "He's under a lot of stress.", "a feeling of worry because of problems or work"],
+["problem", "I have a problem with my landlord.", "a difficult situation"],
+["apologise", "You should apologise to her.", "to say sorry (US: apologize)"],
+["opinion", "In my opinion, you should accept.", "what you think about something"]
+],
+"exercices": [
+{
+"titre": "1. Should or shouldn't?",
+"consigne": "Complete with should or shouldn't.",
+"items": [
+["You have a fever. You ___ go to work today.", "shouldn't"],
+["It's very cold. You ___ wear a warm jacket.", "should"],
+["You ___ eat so much sugar. It's bad for your teeth.", "shouldn't"],
+["We ___ leave now, or we'll miss the train.", "should"],
+["Children ___ watch TV all day.", "shouldn't"]
+]
+},
+{
+"titre": "2. Give advice",
+"consigne": "Give advice with You should / You shouldn't.",
+"items": [
+["I've got a terrible headache.", "You should take an aspirin and rest. / You shouldn't look at your screen."],
+["I always arrive late at work.", "You should get up earlier."],
+["My English isn't improving.", "You should practise every day and watch films in English."],
+["I spend too much money.", "You shouldn't buy things you don't need."]
+]
+},
+{
+"titre": "3. Ask for advice",
+"consigne": "Write the question with should.",
+"items": [
+["I / take / an umbrella?", "Should I take an umbrella?"],
+["what / we / buy / for Ali's birthday?", "What should we buy for Ali's birthday?"],
+["where / I / stay / in Montreal?", "Where should I stay in Montreal?"],
+["she / accept / the job?", "Should she accept the job?"]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["You should to drink more water.", "You should drink more water."],
+["Do we should book a table?", "Should we book a table?"],
+["I think you shouldn't worry.", "I don't think you should worry."],
+["She shoulds see a dentist.", "She should see a dentist."]
+]
+},
+{
+"titre": "5. Say it with should",
+"consigne": "Rewrite the sentence with should, shouldn't or What … should …?",
+"items": [
+["It's a good idea for you to call your sister.", "You should call your sister."],
+["It isn't a good idea for us to come home too late.", "We shouldn't come home too late."],
+["Tell me your opinion: what is the right thing for me to do?", "What do you think I should do?"]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "A friend is visiting your town for the first time. Give five pieces of advice (at least one negative and one with I don't think you should).",
+"items": [
+["Model answer", "Welcome to Douala! You should try the grilled fish at Youpwe. You should always agree on the price before you take a moto-taxi. You shouldn't walk alone late at night in quiet areas. I don't think you should rent a car — the traffic is crazy! And you should visit the Doual'art gallery."]
+]
+}
+],
+"a_retenir": [
+"should / shouldn't + base verb = advice.",
+"Questions: Should I…? / What should I do? (no do).",
+"More polite: I think you should… / Maybe you should…; negative: I don't think you should…",
+"should = advice (a choice); must / have to = obligation.",
+"“should” is pronounced /ʃʊd/: the l is silent."
+],
+"liens": [49, 54, 55, 57, 87],
+"refs": ["bc-a1a2", "cam-verbs"]
+}

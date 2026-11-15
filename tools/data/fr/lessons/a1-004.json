@@ -1,0 +1,216 @@
+{
+ "n": 4,
+ "niveau": "A1",
+ "titre": "« To be » : la négation et les questions",
+ "intro": "Après les formes affirmatives de « to be » (leçon 1), voici comment dire « ne… pas » et poser des questions. Ce sont les phrases que l'on utilise dès qu'on fait connaissance, qu'on vérifie une information ou qu'on corrige un malentendu.",
+ "objectifs": [
+  "Construire la forme négative de « to be » avec not, en forme pleine et en formes courtes.",
+  "Poser une question fermée en inversant le sujet et le verbe (Are you…? Is she…?).",
+  "Répondre par une réponse courte correcte (Yes, I am. / No, she isn't.).",
+  "Poser des questions avec un mot interrogatif + be (Where are you? What is it?)."
+ ],
+ "sections": [
+  {
+   "titre": "La forme négative",
+   "texte": [
+    "Pour mettre « to be » à la forme négative, on ajoute simplement « not » après le verbe : I am not, she is not, they are not. Il n'y a pas d'auxiliaire « do » avec « to be ».",
+    "À l'oral, on utilise les formes courtes. Pour is et are, il en existe deux : on contracte soit le sujet et le verbe (she's not, they're not), soit le verbe et not (she isn't, they aren't). Les deux sont correctes et fréquentes ; « 's not / 're not » insiste un peu plus sur la négation.",
+    "Avec « I », il n'y a qu'une forme courte : I'm not. La forme « amn't » n'existe pas en anglais standard."
+   ],
+   "tableau": {
+    "entetes": ["Sujet", "Forme pleine", "Forme courte 1", "Forme courte 2"],
+    "lignes": [
+     ["I", "I am not", "I'm not", "—"],
+     ["you", "you are not", "you're not", "you aren't"],
+     ["he / she / it", "he is not", "he's not", "he isn't"],
+     ["we", "we are not", "we're not", "we aren't"],
+     ["they", "they are not", "they're not", "they aren't"]
+    ]
+   },
+   "exemples": [
+    ["I'm not tired.", "Je ne suis pas fatigué."],
+    ["She isn't at home. / She's not at home.", "Elle n'est pas à la maison (deux formes courtes)."],
+    ["We aren't from Paris. We're from Lille.", "Nous ne sommes pas de Paris. Nous sommes de Lille."],
+    ["It's not expensive.", "Ce n'est pas cher."]
+   ]
+  },
+  {
+   "titre": "La question fermée : on inverse",
+   "texte": [
+    "Pour poser une question dont la réponse est oui ou non, on place le verbe avant le sujet : You are French → Are you French? Pas besoin de « do », ni d'équivalent de « est-ce que ».",
+    "En français oral, on peut poser une question avec l'intonation seule (« Tu es prêt ? »). En anglais, « You are ready? » existe seulement pour exprimer la surprise ; la question normale est « Are you ready? »."
+   ],
+   "tableau": {
+    "entetes": ["Affirmation", "Question", "Traduction"],
+    "lignes": [
+     ["I am late.", "Am I late?", "Je suis en retard ?"],
+     ["You are a student.", "Are you a student?", "Tu es étudiant ?"],
+     ["He is at work.", "Is he at work?", "Il est au travail ?"],
+     ["It is far.", "Is it far?", "C'est loin ?"],
+     ["They are ready.", "Are they ready?", "Ils sont prêts ?"]
+    ]
+   },
+   "exemples": [
+    ["Is your sister a doctor?", "Ta sœur est médecin ? (le sujet peut être un groupe nominal)"],
+    ["Are the shops open on Sunday?", "Les magasins sont ouverts le dimanche ?"]
+   ],
+   "note": "La question négative (Aren't you hungry? Isn't it beautiful?) exprime la surprise ou attend un « oui ». Avec I, on dit « Aren't I? » : Aren't I right?"
+  },
+  {
+   "titre": "Les réponses courtes",
+   "texte": [
+    "En anglais, répondre seulement « Yes » ou « No » paraît sec. On ajoute une réponse courte : Yes / No + sujet pronom + verbe. On reprend le verbe de la question.",
+    "Règle importante : dans une réponse courte affirmative, on n'utilise jamais de contraction. On dit « Yes, I am », « Yes, she is », jamais « Yes, I'm » ou « Yes, she's ». À la forme négative, la contraction est normale : No, I'm not. No, he isn't."
+   ],
+   "tableau": {
+    "entetes": ["Question", "Oui", "Non"],
+    "lignes": [
+     ["Are you tired?", "Yes, I am.", "No, I'm not."],
+     ["Is he Belgian?", "Yes, he is.", "No, he isn't. / No, he's not."],
+     ["Is it cold?", "Yes, it is.", "No, it isn't. / No, it's not."],
+     ["Are we late?", "Yes, we are. / Yes, you are.", "No, we aren't. / No, you aren't."],
+     ["Are they ready?", "Yes, they are.", "No, they aren't. / No, they're not."]
+    ]
+   },
+   "note": "Dans la réponse, on remplace le nom par un pronom : Is your brother at home? — Yes, he is (pas « Yes, my brother is »)."
+  },
+  {
+   "titre": "Les questions avec un mot interrogatif",
+   "texte": [
+    "Pour une question ouverte, on place le mot interrogatif au début, puis on inverse le verbe et le sujet : mot interrogatif + am / is / are + sujet ? Les principaux : what (quoi, quel), where (où), who (qui), how (comment), how old (quel âge), when (quand), why (pourquoi).",
+    "À l'oral, « is » se contracte souvent après le mot interrogatif : What's, Where's, Who's, How's. On ne contracte pas « are » à l'écrit dans ces questions (on écrit « Where are you? »). Les questions en Wh- seront approfondies à la leçon 29."
+   ],
+   "exemples": [
+    ["Where are you? — I'm at the station.", "Où es-tu ? — Je suis à la gare."],
+    ["What's your address?", "Quelle est ton adresse ?"],
+    ["Who is that man? — He's my boss.", "Qui est cet homme ? — C'est mon patron."],
+    ["How are your parents?", "Comment vont tes parents ?"],
+    ["Why are you sad?", "Pourquoi es-tu triste ?"]
+   ]
+  },
+  {
+   "titre": "Pièges : « to be » ou « do » ?",
+   "texte": [
+    "On ne mélange jamais « to be » et « do » : « Do you are…? » ou « I don't be… » n'existent pas. Avec « to be », on inverse ou on ajoute not, c'est tout.",
+    "Certains mots qui sont des adjectifs en français sont des verbes en anglais, et inversement. Le cas le plus fréquent : « d'accord » se dit avec le verbe « agree », donc « I agree » et « Do you agree? », jamais « I am agree » ou « Are you agree? ». À l'inverse, « avoir peur, avoir raison » se disent avec be : Are you afraid? Are you right?"
+   ],
+   "exemples": [
+    ["Are you agree? ✗ → Do you agree? ✓", "« Agree » est un verbe : il se construit avec do (leçon 6)."],
+    ["Is she right? — No, she isn't.", "Elle a raison ? — Non."]
+   ]
+  }
+ ],
+ "formule": "Négation : sujet + am / is / are + not · Question : (Wh-) + am / is / are + sujet ? · Réponse : Yes, I am. / No, I'm not.",
+ "prononciation": [
+  "« isn't » /ˈɪznt/ et « aren't » /ɑːnt/ : le t final est léger, parfois presque inaudible devant une consonne (She isn't here).",
+  "Question fermée (Are you ready?) : la voix monte à la fin. Question en Wh- (Where are you?) : la voix descend à la fin.",
+  "Dans les questions, « are » est faible : Are you /ə juː/ ou /ɑː jə/ en parole rapide. Dans la réponse courte (Yes, I am), le verbe est fort et accentué : /æm/.",
+  "Dans la négation, on accentue « not » ou « -n't » pour bien faire entendre le non : I'm NOT tired. She ISn't here.",
+  "« What's » /wɒts/, « Where's » /weəz/, « Who's » /huːz/ : le s se lie au mot suivant (Where's_it?)."
+ ],
+ "erreurs": [
+  ["Yes, I'm.", "Yes, I am.", "Pas de contraction dans une réponse courte affirmative."],
+  ["I amn't hungry.", "I'm not hungry.", "Avec I, une seule forme courte : I'm not."],
+  ["Do you are ready?", "Are you ready?", "Avec « to be », pas de do : on inverse le sujet et le verbe."],
+  ["You are French?", "Are you French?", "La question normale se fait par inversion, pas seulement par l'intonation."],
+  ["Are you agree?", "Do you agree?", "« Agree » est un verbe, pas un adjectif."],
+  ["Where you are?", "Where are you?", "Après le mot interrogatif, le verbe vient avant le sujet."],
+  ["Is your brother at home? — Yes, my brother is.", "Yes, he is.", "Dans la réponse courte, on utilise un pronom."]
+ ],
+ "dialogue": {
+  "contexte": "Deux collègues parlent au téléphone avant une réunion à Paris.",
+  "lignes": [
+   ["Nadia", "Hi, Pierre. Where are you? Are you at the office?", "Salut, Pierre. Tu es où ? Tu es au bureau ?"],
+   ["Pierre", "No, I'm not. I'm on the train. Am I late?", "Non. Je suis dans le train. Je suis en retard ?"],
+   ["Nadia", "No, you aren't. The meeting is at ten. Is Lisa with you?", "Non. La réunion est à dix heures. Lisa est avec toi ?"],
+   ["Pierre", "Yes, she is. But she isn't very well today.", "Oui. Mais elle ne va pas très bien aujourd'hui."],
+   ["Nadia", "Oh no. What's the problem? Is she ill?", "Oh non. Quel est le problème ? Elle est malade ?"],
+   ["Pierre", "No, she isn't ill. She's just tired.", "Non, elle n'est pas malade. Elle est juste fatiguée."],
+   ["Nadia", "OK. Are the documents ready?", "D'accord. Les documents sont prêts ?"],
+   ["Pierre", "Yes, they are. They're in my bag. See you soon!", "Oui. Ils sont dans mon sac. À tout de suite !"]
+  ]
+ },
+ "mots": [
+  ["ready", "Are you ready to start?", "prêt(e)"],
+  ["sure", "Are you sure? — Yes, I am.", "sûr(e), certain(e)"],
+  ["open", "Is the bank open today?", "ouvert(e)"],
+  ["closed", "The museum isn't open; it's closed.", "fermé(e)"],
+  ["far", "Is the station far from here?", "loin"],
+  ["ill", "Is she ill? — No, she's just tired.", "malade (britannique ; « sick » en américain)"],
+  ["right", "Am I right?", "qui a raison ; correct"],
+  ["wrong", "No, you aren't right. You're wrong.", "qui a tort ; incorrect"],
+  ["free", "Are you free tonight?", "libre, disponible ; gratuit"],
+  ["expensive", "It isn't expensive.", "cher, chère"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Forme négative",
+   "consigne": "Mets la phrase à la forme négative (forme courte).",
+   "items": [
+    ["I am hungry.", "I'm not hungry."],
+    ["She is at work.", "She isn't at work. / She's not at work."],
+    ["They are Canadian.", "They aren't Canadian. / They're not Canadian."],
+    ["It is cold today.", "It isn't cold today. / It's not cold today."],
+    ["We are late.", "We aren't late. / We're not late."]
+   ]
+  },
+  {
+   "titre": "2. Faire une question",
+   "consigne": "Transforme la phrase en question.",
+   "items": [
+    ["You are tired.", "Are you tired?"],
+    ["Paul is a teacher.", "Is Paul a teacher?"],
+    ["The shop is open.", "Is the shop open?"],
+    ["Your parents are in Douala.", "Are your parents in Douala?"]
+   ]
+  },
+  {
+   "titre": "3. Réponses courtes",
+   "consigne": "Réponds avec une réponse courte (oui ou non selon l'indication).",
+   "items": [
+    ["Are you French? (oui)", "Yes, I am."],
+    ["Is it far? (non)", "No, it isn't. / No, it's not."],
+    ["Is your mother a nurse? (oui)", "Yes, she is."],
+    ["Are the children at school? (non)", "No, they aren't. / No, they're not."],
+    ["Am I late? (non)", "No, you aren't. / No, you're not."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["Yes, she's.", "Yes, she is."],
+    ["Where you are from?", "Where are you from?"],
+    ["Do you are a student?", "Are you a student?"],
+    ["I amn't sure.", "I'm not sure."],
+    ["Are you agree with me?", "Do you agree with me?"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Tu es libre ce soir ?", "Are you free tonight?"],
+    ["Ce n'est pas cher.", "It isn't expensive. / It's not expensive."],
+    ["Où est la gare ?", "Where's the station? / Where is the station?"],
+    ["Ils ne sont pas belges ; ils sont suisses.", "They aren't Belgian; they're Swiss."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris trois questions avec « to be » à poser à un nouveau collègue, puis réponds-y pour toi avec des réponses courtes et une phrase complète.",
+   "items": [
+    ["Exemple de réponse", "Are you from Brussels? — No, I'm not. I'm from Liège. Is your office on this floor? — Yes, it is. Are you busy today? — No, I'm not. I'm free this afternoon."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Négation : am / is / are + not → I'm not, she isn't (she's not), they aren't (they're not).",
+  "Question fermée : on inverse → Are you ready? Is it far? Jamais de « do » avec « to be ».",
+  "Réponse courte : Yes, I am / No, I'm not ; jamais de contraction après Yes.",
+  "Question ouverte : Wh- + be + sujet → Where are you? What's your name?",
+  "« Agree » est un verbe : I agree, Do you agree?"
+ ],
+ "liens": [1, 2, 6, 29, 39],
+ "refs": ["bc-be", "bc-questions"]
+}

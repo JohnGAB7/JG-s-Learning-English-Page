@@ -1,0 +1,220 @@
+{
+"n": 51,
+"niveau": "A2",
+"titre": "Le present perfect : première approche",
+"intro": "Le present perfect (I have worked, she has seen) relie le passé au présent. Il ressemble au passé composé français, mais ne s'emploie pas de la même façon : c'est l'un des temps qui posent le plus de problèmes aux francophones, d'où cette première approche pas à pas.",
+"objectifs": [
+"Former le present perfect avec have / has + participe passé, à toutes les formes.",
+"Connaître les participes passés irréguliers les plus fréquents.",
+"Utiliser le present perfect pour une expérience de vie ou un résultat visible maintenant.",
+"Choisir entre present perfect et prétérit selon la présence d'un moment passé terminé."
+],
+"sections": [
+{
+"titre": "La forme",
+"texte": [
+"Le present perfect se forme avec l'auxiliaire have (has à la 3e personne du singulier) + le participe passé du verbe. Contractions : I've, you've, he's / she's / it's, we've, they've ; négation haven't / hasn't.",
+"Attention : « he's » peut signifier « he is » ou « he has ». Le mot suivant permet de trancher : « he's tired » (is) / « he's finished » (has + participe)."
+],
+"tableau": {
+"entetes": ["Forme", "Structure", "Exemple"],
+"lignes": [
+["affirmative", "sujet + have / has + participe passé", "I've finished. She's visited Quebec."],
+["négative", "sujet + haven't / hasn't + participe passé", "We haven't eaten. He hasn't called."],
+["question", "Have / Has + sujet + participe passé ?", "Have you seen my keys?"],
+["réponse courte", "Yes, I have. / No, she hasn't.", "Has he arrived? — No, he hasn't."]
+]
+}
+},
+{
+"titre": "Le participe passé",
+"texte": [
+"Pour les verbes réguliers, le participe passé est identique au prétérit : base + -ed (worked, played, studied, stopped).",
+"Pour les verbes irréguliers, c'est la 3e colonne de la liste (go – went – gone). Certains ont la même forme au prétérit et au participe, d'autres non : il faut apprendre les deux."
+],
+"tableau": {
+"entetes": ["Base", "Prétérit", "Participe passé"],
+"lignes": [
+["be", "was / were", "been"],
+["go", "went", "gone"],
+["do", "did", "done"],
+["see", "saw", "seen"],
+["eat", "ate", "eaten"],
+["have", "had", "had"],
+["make", "made", "made"],
+["take", "took", "taken"],
+["write", "wrote", "written"],
+["buy", "bought", "bought"],
+["lose", "lost", "lost"],
+["meet", "met", "met"]
+]
+}
+},
+{
+"titre": "Usage 1 : l'expérience de vie",
+"texte": [
+"On utilise le present perfect pour dire ce qu'on a fait (ou pas) au cours de sa vie jusqu'à maintenant, sans dire quand. Ce qui compte, c'est l'expérience, pas le moment.",
+"Les mots « ever » (déjà, à un moment) et « never » (jamais) sont très fréquents avec cet usage : ils seront étudiés en détail dans la leçon suivante (52)."
+],
+"exemples": [
+["I've visited Canada twice.", "J'ai visité le Canada deux fois (dans ma vie)."],
+["She has worked in three countries.", "Elle a travaillé dans trois pays."],
+["We've never eaten ndolé.", "Nous n'avons jamais mangé de ndolé."]
+]
+},
+{
+"titre": "Usage 2 : une action passée avec un résultat maintenant",
+"texte": [
+"On l'utilise aussi pour une action récente dont on voit le résultat au moment où l'on parle. L'important est la situation présente.",
+"Souvent, une phrase au présent pourrait exprimer la même idée : « I've lost my keys » = je n'ai pas mes clés maintenant."
+],
+"exemples": [
+["I've lost my keys. I can't open the door.", "J'ai perdu mes clés (résultat : je ne peux pas entrer)."],
+["Look! It has stopped raining.", "Regarde ! Il a arrêté de pleuvoir (maintenant il ne pleut plus)."],
+["He's broken his leg, so he can't play.", "Il s'est cassé la jambe, donc il ne peut pas jouer."]
+]
+},
+{
+"titre": "Present perfect ou prétérit ?",
+"texte": [
+"La règle d'or : dès qu'on mentionne (ou qu'on a en tête) un moment passé terminé — yesterday, last week, in 2019, two days ago, when I was a child — on utilise le prétérit, jamais le present perfect.",
+"C'est très souvent le cas dans une conversation : on commence par le present perfect (expérience), puis on passe au prétérit pour donner les détails (quand, où, comment)."
+],
+"tableau": {
+"entetes": ["Present perfect (pas de moment précis)", "Prétérit (moment terminé)"],
+"lignes": [
+["I've been to Senegal.", "I went to Senegal in 2022."],
+["She's lost her phone.", "She lost her phone yesterday."],
+["Have you seen the film?", "When did you see it?"]
+]
+},
+"exemples": [
+["I've met the new manager. I met her this morning.", "J'ai rencontré la nouvelle directrice. Je l'ai rencontrée ce matin (détail → prétérit)."],
+["Have you ever been to Brussels? — Yes, I went there last summer.", "Tu es déjà allé à Bruxelles ? — Oui, j'y suis allé l'été dernier."]
+]
+},
+{
+"titre": "Been ou gone ?",
+"texte": [
+"Le verbe go a deux participes possibles au present perfect, avec un sens différent. « Has been to » = y est allé et en est revenu (expérience). « Has gone to » = y est allé et y est encore (il n'est pas ici)."
+],
+"exemples": [
+["Paul has been to Dakar.", "Paul est déjà allé à Dakar (il est revenu)."],
+["Paul has gone to Dakar.", "Paul est parti à Dakar (il y est en ce moment)."]
+]
+}
+],
+"formule": "have / has + participe passé (worked, seen, gone, been…)",
+"prononciation": [
+"À l'oral, have et has sont contractés et presque inaudibles : I've /aɪv/, we've /wiːv/, she's /ʃiːz/. Il faut bien écouter le petit son /v/ ou /z/.",
+"Dans une question, « have » est faible : Have you seen…? /həv juː ˈsiːn/. Dans une réponse courte, il est fort : Yes, I HAVE /hæv/.",
+"« haven't » /ˈhævnt/ et « hasn't » /ˈhæznt/ ne sont jamais réduits.",
+"« been » se prononce /biːn/ (GB) ou /bɪn/ (US) ; « gone » /ɡɒn/ (GB) / /ɡɔːn/ (US) ; « done » /dʌn/ rime avec « sun »."
+],
+"erreurs": [
+["I have seen him yesterday.", "I saw him yesterday.", "Moment passé terminé (yesterday) : prétérit."],
+["She have finished.", "She has finished.", "3e personne du singulier : has."],
+["I have went to London.", "I have been to London.", "Après have : participe passé (gone / been), pas le prétérit."],
+["Have you eat?", "Have you eaten?", "eat → ate → eaten : participe obligatoire."],
+["When have you arrived?", "When did you arrive?", "When = question sur le moment : prétérit."],
+["He has gone to Paris twice.", "He has been to Paris twice.", "Pour une expérience (aller et retour) : been."],
+["She is arrived.", "She has arrived.", "L'auxiliaire est toujours have, jamais be, même pour les verbes de mouvement (arriver, partir, venir)."]
+],
+"dialogue": {
+"contexte": "À Bruxelles, Clémence fait passer un entretien à Olivier pour un poste dans une agence de voyages.",
+"lignes": [
+["Clémence", "So, Olivier, have you worked in tourism before?", "Alors, Olivier, avez-vous déjà travaillé dans le tourisme ?"],
+["Olivier", "Yes, I have. I worked in a hotel in Liège for two years.", "Oui. J'ai travaillé dans un hôtel à Liège pendant deux ans."],
+["Clémence", "Great. Which countries have you visited?", "Très bien. Quels pays avez-vous visités ?"],
+["Olivier", "I've been to Morocco, Cameroon and Canada. I went to Canada last year.", "Je suis allé au Maroc, au Cameroun et au Canada. Je suis allé au Canada l'an dernier."],
+["Clémence", "Have you ever organised a group trip?", "Avez-vous déjà organisé un voyage de groupe ?"],
+["Olivier", "No, I haven't, but I've helped my manager with several trips.", "Non, mais j'ai aidé ma responsable pour plusieurs voyages."],
+["Clémence", "OK. And have you read our job description?", "D'accord. Et avez-vous lu notre description de poste ?"],
+["Olivier", "Yes, I have. I've prepared some ideas for your website, too.", "Oui. J'ai aussi préparé quelques idées pour votre site."]
+]
+},
+"mots": [
+["experience", "She has a lot of experience.", "l'expérience"],
+["already", "I've already eaten.", "déjà"],
+["several", "I've been there several times.", "plusieurs"],
+["twice", "We've met twice.", "deux fois"],
+["recently", "Have you seen him recently?", "récemment"],
+["lately", "I haven't slept well lately.", "ces derniers temps"],
+["break", "He's broken his arm.", "casser (break – broke – broken)"],
+["finish", "Have you finished your homework?", "finir, terminer"],
+["abroad", "Have you ever lived abroad?", "à l'étranger"]
+],
+"exercices": [
+{
+"titre": "1. Le participe passé",
+"consigne": "Écris le participe passé.",
+"items": [
+["go", "gone (ou been)"],
+["see", "seen"],
+["write", "written"],
+["play", "played"],
+["eat", "eaten"],
+["take", "taken"],
+["buy", "bought"],
+["do", "done"]
+]
+},
+{
+"titre": "2. Have ou has ?",
+"consigne": "Complète avec have, has, haven't ou hasn't.",
+"items": [
+["My brother ___ lost his wallet.", "has"],
+["___ you finished your lunch?", "Have"],
+["We ___ seen that film. (négatif)", "haven't"],
+["She ___ called me today. (négatif)", "hasn't"],
+["They ___ moved to a new flat.", "have"]
+]
+},
+{
+"titre": "3. Present perfect ou prétérit ?",
+"consigne": "Mets le verbe au present perfect ou au prétérit.",
+"items": [
+["I ___ (visit) Morocco three times.", "'ve visited"],
+["I ___ (visit) Morocco in 2021.", "visited"],
+["Oh no! I ___ (forget) my password.", "'ve forgotten"],
+["She ___ (start) her new job last Monday.", "started"],
+["___ you ___ (ever / be) to Canada?", "Have … ever been"]
+]
+},
+{
+"titre": "4. Been ou gone ?",
+"consigne": "Complète avec been ou gone.",
+"items": [
+["Where's Amina? — She's ___ to the bank. She'll be back soon.", "gone"],
+["I've ___ to Ghent twice. It's beautiful.", "been"],
+["My parents aren't here. They've ___ to Yaoundé for a week.", "gone"]
+]
+},
+{
+"titre": "5. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["I have finished it two hours ago.", "I finished it two hours ago."],
+["He have bought a new car.", "He has bought a new car."],
+["Have you wrote the email?", "Have you written the email?"],
+["When have you met her?", "When did you meet her?"]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Écris cinq phrases sur tes expériences : trois au present perfect, puis deux au prétérit pour donner des détails.",
+"items": [
+["Exemple de réponse", "I've lived in two countries. I've learned to drive and I've visited many cities in Africa. I visited Accra in 2023 and I loved it. I learned to drive when I was 19."]
+]
+}
+],
+"a_retenir": [
+"Present perfect = have / has + participe passé (worked, seen, gone, been, done).",
+"Expérience de vie sans date : I've been to Canada.",
+"Action passée avec résultat présent : I've lost my keys.",
+"Moment passé terminé (yesterday, in 2020, ago, When…?) = prétérit, jamais present perfect.",
+"been to = aller et retour ; gone to = parti, encore là-bas."
+],
+"liens": [41, 42, 52, 53, 91],
+"refs": ["bc-present-perfect", "cam-verbs"]
+}

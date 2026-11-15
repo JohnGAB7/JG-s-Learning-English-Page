@@ -1,0 +1,221 @@
+{
+ "n": 3,
+ "niveau": "A1",
+ "titre": "Les nombres de 0 à 20",
+ "intro": "Les nombres de 0 à 20 servent tous les jours : donner son âge, un numéro de téléphone, un numéro de chambre, une quantité ou un prix simple. Ils sont la base de tous les autres nombres.",
+ "objectifs": [
+  "Dire, écrire et épeler les nombres de 0 à 20 sans hésiter.",
+  "Distinguer à l'oral les nombres en -teen et les mettre correctement en valeur (accent tonique).",
+  "Dire un numéro de téléphone chiffre par chiffre, avec « oh » et « double ».",
+  "Utiliser les nombres avec un nom au pluriel et faire de petits calculs à voix haute."
+ ],
+ "sections": [
+  {
+   "titre": "De 0 à 12 : des mots à apprendre par cœur",
+   "texte": [
+    "Les nombres de 0 à 12 n'ont pas de règle : chacun est un mot à part. Apprends aussi leur orthographe, car plusieurs ne s'écrivent pas comme ils se prononcent (eight, two, one).",
+    "« One » se prononce /wʌn/, comme « won » (gagné), avec un son w au début. « Two » se prononce /tuː/, comme « too » et « to » : le w ne se prononce pas."
+   ],
+   "tableau": {
+    "entetes": ["Chiffre", "En lettres", "Prononciation", "Remarque"],
+    "lignes": [
+     ["0", "zero", "/ˈzɪərəʊ/", "aussi « oh » ou « nought » selon le contexte"],
+     ["1", "one", "/wʌn/", "son w au début"],
+     ["2", "two", "/tuː/", "le w est muet"],
+     ["3", "three", "/θriː/", "th soufflé, langue entre les dents"],
+     ["4", "four", "/fɔː/", "comme « for »"],
+     ["5", "five", "/faɪv/", "v final bien sonore"],
+     ["6", "six", "/sɪks/", "i court"],
+     ["7", "seven", "/ˈsevn/", "accent sur SE-"],
+     ["8", "eight", "/eɪt/", "gh muet"],
+     ["9", "nine", "/naɪn/", "rime avec « fine »"],
+     ["10", "ten", "/ten/", ""],
+     ["11", "eleven", "/ɪˈlevn/", "accent sur -LE-"],
+     ["12", "twelve", "/twelv/", "w prononcé ici"]
+    ]
+   }
+  },
+  {
+   "titre": "De 13 à 19 : la terminaison -teen",
+   "texte": [
+    "De 13 à 19, on ajoute -teen à la base du nombre. Trois bases changent : three → thirteen, five → fifteen, eight → eighteen (un seul t, pas « eightteen »). Four garde son u : fourteen.",
+    "En disant le nombre seul, on accentue -TEEN : thirTEEN, fourTEEN. C'est ce qui permet de les distinguer de thirty, forty (30, 40), accentués au début (THIRty) et que tu verras à la leçon 20.",
+    "20 se dit « twenty » /ˈtwenti/. En anglais, « teenager » (adolescent) vient de ces nombres : une personne de 13 à 19 ans."
+   ],
+   "tableau": {
+    "entetes": ["Chiffre", "En lettres", "Piège"],
+    "lignes": [
+     ["13", "thirteen", "thir-, pas « threeteen »"],
+     ["14", "fourteen", "garde le u de four"],
+     ["15", "fifteen", "fif-, pas « fiveteen »"],
+     ["16", "sixteen", ""],
+     ["17", "seventeen", ""],
+     ["18", "eighteen", "un seul t"],
+     ["19", "nineteen", "garde le e de nine"],
+     ["20", "twenty", "accent sur TWEN-"]
+    ]
+   },
+   "exemples": [
+    ["My son is fifteen.", "Mon fils a quinze ans."],
+    ["Room thirteen is on the first floor.", "La chambre treize est au premier étage."]
+   ]
+  },
+  {
+   "titre": "Zéro : zero, oh ou nil ?",
+   "texte": [
+    "Le chiffre 0 se dit de plusieurs façons selon la situation. « Zero » est le mot général (températures, mathématiques, et en anglais américain presque partout).",
+    "Dans un numéro de téléphone, de chambre ou de bus, les Britanniques disent souvent « oh », comme la lettre O. Au football, en anglais britannique, on dit « nil » : two-nil (2-0). Au tennis, on dit « love »."
+   ],
+   "exemples": [
+    ["It's zero degrees today.", "Il fait zéro degré aujourd'hui."],
+    ["My room is two-oh-five (205).", "Ma chambre est la 205 (britannique, chiffre par chiffre)."],
+    ["Cameroon won two-nil.", "Le Cameroun a gagné deux à zéro (football, britannique)."]
+   ]
+  },
+  {
+   "titre": "Les numéros de téléphone",
+   "texte": [
+    "En anglais, on lit un numéro de téléphone chiffre par chiffre, et non deux par deux comme en français : 06 12 = « oh six, one two ». On fait une petite pause entre les groupes.",
+    "Quand deux chiffres identiques se suivent, les Britanniques disent souvent « double » : 77 = « double seven ». Les Américains disent plutôt « seven seven ». Trois chiffres identiques : « triple » ou chiffre par chiffre.",
+    "Pour demander : « What's your phone number? ». Pour vérifier : « Can you repeat that, please? »."
+   ],
+   "exemples": [
+    ["My number is oh-seven-nine, double four, one-six.", "Mon numéro est le 079 44 16 (britannique)."],
+    ["Call me on 0472 15 88 30.", "Se lit : oh-four-seven-two, one-five, double eight, three-oh."]
+   ],
+   "note": "En anglais américain, on dit « call me at… » ; en anglais britannique, « call me on… »."
+  },
+  {
+   "titre": "Les nombres avec un nom et les petits calculs",
+   "texte": [
+    "Après un nombre supérieur à 1, le nom prend un -s : one book, two books, twelve students. Après « one », le nom reste au singulier. Le nombre lui-même ne prend jamais de -s : « three apples », jamais « threes apples ».",
+    "« A » et « one » veulent tous deux dire « un », mais « one » insiste sur la quantité : I have one brother (un seul, pas deux).",
+    "Pour calculer : + plus, − minus, × times, ÷ divided by, = is / equals. Le verbe est au singulier : Two plus two is four."
+   ],
+   "tableau": {
+    "entetes": ["Calcul", "En anglais"],
+    "lignes": [
+     ["3 + 4 = 7", "Three plus four is seven."],
+     ["10 − 6 = 4", "Ten minus six is four."],
+     ["5 × 3 = 15", "Five times three is fifteen."],
+     ["20 ÷ 2 = 10", "Twenty divided by two is ten."]
+    ]
+   },
+   "exemples": [
+    ["I have two sisters and one brother.", "J'ai deux sœurs et un frère."],
+    ["There are eighteen students in the class.", "Il y a dix-huit élèves dans la classe."]
+   ]
+  }
+ ],
+ "formule": "0 zero · 1 one · 2 two … 12 twelve · 13–19 : base + -teen (thirteen, fifteen, eighteen) · 20 twenty",
+ "prononciation": [
+  "Seul, un nombre en -teen est accentué sur la fin : thirTEEN /θɜːˈtiːn/. Devant un nom, l'accent peut reculer (THIRteen students), mais le /iː/ long de -teen reste bien audible.",
+  "« Three » /θriː/ : place la langue entre les dents et souffle. Ne dis ni « tree » (arbre) ni « free » (gratuit).",
+  "« Eight » /eɪt/ se prononce comme « ate » : le gh est muet.",
+  "« Twelve » /twelv/ et « twenty » /ˈtwenti/ : prononce bien le w après le t. En anglais américain, « twenty » se dit souvent /ˈtweni/.",
+  "Dans un numéro de téléphone, la voix monte légèrement à la fin de chaque groupe, et descend à la fin du numéro."
+ ],
+ "erreurs": [
+  ["fiveteen", "fifteen", "La base change : five → fif-."],
+  ["eightteen", "eighteen", "Un seul t."],
+  ["threeteen", "thirteen", "La base change : three → thir-."],
+  ["two book", "two books", "Après un nombre supérieur à 1, le nom prend un -s."],
+  ["My number is zero six, twelve, thirty-four…", "My number is oh six, one two, three four…", "Au téléphone, on lit chiffre par chiffre."],
+  ["Two plus two are four.", "Two plus two is four.", "En calcul, le verbe est au singulier (is / equals)."]
+ ],
+ "dialogue": {
+  "contexte": "À la réception d'un hôtel à Bruxelles, une cliente arrive et donne ses coordonnées.",
+  "lignes": [
+   ["Receptionist", "Good evening. Can I have your name, please?", "Bonsoir. Puis-je avoir votre nom, s'il vous plaît ?"],
+   ["Mrs Owona", "Yes, it's Grace Owona. I have a reservation for two nights.", "Oui, Grace Owona. J'ai une réservation pour deux nuits."],
+   ["Receptionist", "Thank you. And what's your phone number?", "Merci. Et quel est votre numéro de téléphone ?"],
+   ["Mrs Owona", "It's oh-six, double seven, one-three, one-four, one-nine.", "C'est le 06 77 13 14 19."],
+   ["Receptionist", "Sorry, is that thirteen or thirty?", "Pardon, c'est treize ou trente ?"],
+   ["Mrs Owona", "Thirteen: one-three.", "Treize : un-trois."],
+   ["Receptionist", "Perfect. You're in room eleven, on the second floor. Here's your key.", "Parfait. Vous êtes dans la chambre onze, au deuxième étage. Voici votre clé."],
+   ["Mrs Owona", "Thank you. And what time is breakfast?", "Merci. Et à quelle heure est le petit-déjeuner ?"],
+   ["Receptionist", "From seven to ten.", "De sept heures à dix heures."]
+  ]
+ },
+ "mots": [
+  ["number", "What's your phone number?", "le nombre, le numéro"],
+  ["zero", "It's zero degrees outside.", "zéro"],
+  ["double", "My number has double five in it.", "deux fois le même chiffre (au téléphone)"],
+  ["plus", "Two plus three is five.", "plus (en calcul)"],
+  ["minus", "Ten minus four is six.", "moins (en calcul)"],
+  ["count", "Can you count to twenty in English?", "compter"],
+  ["teenager", "My daughter is a teenager.", "un ou une adolescent(e)"],
+  ["dozen", "I'd like a dozen eggs.", "une douzaine"],
+  ["half", "Half of ten is five.", "la moitié"],
+  ["repeat", "Can you repeat that, please?", "répéter"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Écrire en lettres",
+   "consigne": "Écris le nombre en toutes lettres.",
+   "items": [
+    ["8", "eight"],
+    ["12", "twelve"],
+    ["15", "fifteen"],
+    ["3", "three"],
+    ["18", "eighteen"],
+    ["20", "twenty"]
+   ]
+  },
+  {
+   "titre": "2. Corriger l'orthographe",
+   "consigne": "Chaque mot contient une erreur. Écris-le correctement.",
+   "items": [
+    ["fiveteen", "fifteen"],
+    ["threeteen", "thirteen"],
+    ["twelf", "twelve"],
+    ["eightteen", "eighteen"]
+   ]
+  },
+  {
+   "titre": "3. Calculer à voix haute",
+   "consigne": "Écris le calcul et le résultat en anglais.",
+   "items": [
+    ["7 + 6 = ?", "Seven plus six is thirteen."],
+    ["20 − 9 = ?", "Twenty minus nine is eleven."],
+    ["4 × 4 = ?", "Four times four is sixteen."],
+    ["18 ÷ 3 = ?", "Eighteen divided by three is six."]
+   ]
+  },
+  {
+   "titre": "4. Lire un numéro de téléphone",
+   "consigne": "Écris comment on lit ce numéro à la britannique (chiffre par chiffre, avec « oh » et « double »).",
+   "items": [
+    ["0 44 17", "oh, double four, one seven"],
+    ["06 12 55 09", "oh six, one two, double five, oh nine"],
+    ["07 98 30 11", "oh seven, nine eight, three oh, double one"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais (écris les nombres en lettres).",
+   "items": [
+    ["J'ai deux frères.", "I have two brothers. / I've got two brothers."],
+    ["Elle a quatorze ans.", "She's fourteen."],
+    ["La chambre dix-sept, s'il vous plaît.", "Room seventeen, please."],
+    ["Il y a onze joueurs dans une équipe de football.", "There are eleven players in a football team."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris trois phrases vraies avec des nombres de 0 à 20 : ton âge ou celui d'un proche, le nombre de personnes dans ta famille, un numéro (bus, chambre, étage…).",
+   "items": [
+    ["Exemple de réponse", "My niece is nine. There are five people in my family. I take bus number twelve to work."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "0 à 12 : des mots uniques à apprendre (one /wʌn/, two /tuː/, eight /eɪt/, twelve).",
+  "13 à 19 : base + -teen, avec thirteen, fifteen, eighteen (un seul t).",
+  "Zéro : zero (général), oh (téléphone, chambre), nil (football britannique).",
+  "Téléphone : chiffre par chiffre, « double » pour deux chiffres identiques.",
+  "Nombre > 1 + nom au pluriel : two books ; le calcul prend « is » : Two plus two is four."
+ ],
+ "liens": [1, 2, 19, 20, 21],
+ "refs": ["bc-a1a2", "cam-nouns"]
+}

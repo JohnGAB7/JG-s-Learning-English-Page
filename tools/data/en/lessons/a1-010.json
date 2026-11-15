@@ -1,0 +1,203 @@
+{
+ "n": 10,
+ "niveau": "A1",
+ "titre": "Subject and object pronouns",
+ "intro": "Pronouns replace a noun so you don't repeat it: she, him, us, them… English has one form for the subject (I) and one for the object (me), and the object pronoun always comes after the verb (I love him).",
+ "objectifs": [
+  "Know the seven subject pronouns and the seven object pronouns.",
+  "Put the object pronoun after the verb or after a preposition.",
+  "Choose between he, she, it and they for a person, an animal or a thing.",
+  "Avoid the traps: It's me, Me too, my friend and I, the order “give it to me”."
+ ],
+ "sections": [
+  {
+   "titre": "Subject and object: the table",
+   "texte": [
+    "The subject pronoun does the action; it goes before the verb. The object pronoun receives the action; it goes after the verb or after a preposition (with, for, to, at…).",
+    "Two pronouns don't change: “you” (subject and object) and “it”. The others have two forms to learn."
+   ],
+   "tableau": {
+    "entetes": ["Subject", "Object", "Example 1", "Example 2"],
+    "lignes": [
+     ["I", "me", "I know him.", "He knows me."],
+     ["you", "you", "You're kind.", "I love you."],
+     ["he", "him", "He's nice.", "I like him."],
+     ["she", "her", "She's here.", "Call her."],
+     ["it", "it", "It's new.", "I like it."],
+     ["we", "us", "We're ready.", "Wait for us!"],
+     ["they", "them", "They're late.", "Ask them."]
+    ]
+   },
+   "note": "“I” always has a capital letter, even in the middle of a sentence: Yesterday I… But “me” has a small letter."
+  },
+  {
+   "titre": "Where the object pronoun goes",
+   "texte": [
+    "In some languages the object pronoun goes before the verb. In English, it ALWAYS goes after the verb: I see her, He helps us. Never say “I her see”.",
+    "After a preposition, use the object form too: with me, for her, to them, about us, between you and me. Don't say “with I” or “for she”."
+   ],
+   "exemples": [
+    ["I don't understand him.", "Object after the verb."],
+    ["Can you help me?", "Object after help."],
+    ["This present is for you.", "After the preposition for."],
+    ["Come with us!", "After with."],
+    ["She often talks about them.", "After about."]
+   ]
+  },
+  {
+   "titre": "He, she, it or they?",
+   "texte": [
+    "In English, things have no gender: a table, a car, a city are all “it”. For a beautiful house, say “It's beautiful”.",
+    "For an animal you don't know, say “it”. For a pet you know, people often say “he” or “she”. For a person, don't say “it”: if you don't know if a baby is a boy or a girl, say “they” or “he or she”.",
+    "“They” is also used for one person when you don't know their gender, or when they prefer this pronoun: Someone is at the door. What do they want? The verb stays plural: they are."
+   ],
+   "exemples": [
+    ["I love this city. It's so lively!", "A city = it."],
+    ["Where's my phone? — It's on the table.", "A thing = it."],
+    ["We've got a cat. She's ten years old.", "A pet you know: she."],
+    ["A customer called. They want a refund.", "Gender not known: they."]
+   ]
+  },
+  {
+   "titre": "Traps: It's me, Me too, my friend and I",
+   "texte": [
+    "After “to be”, in normal English, use the object form: “Who's there? — It's me.” “It is I” exists but is very formal and old-fashioned.",
+    "To react, say “Me too” and “Me neither”, never “I too”. Don't repeat the subject with “me”: not “Me, I like tea”, but “I like tea” (stress I) or “Personally, I like tea”.",
+    "When you talk about yourself and another person, put yourself last to be polite: “my friend and I” as a subject, “my friend and me” as an object. Tip: remove the other person to check (I went → my friend and I went; for me → for my friend and me)."
+   ],
+   "exemples": [
+    ["Who's speaking? — It's me, Didier.", "It's me."],
+    ["I'm hungry. — Me too!", "Me too."],
+    ["My sister and I live in Montréal.", "Subject: … and I."],
+    ["She invited my husband and me.", "Object: … and me."]
+   ]
+  },
+  {
+   "titre": "Two objects: “give it to me”",
+   "texte": [
+    "With verbs like give, send, show, tell and bring, there can be two objects: the thing and the person. With two nouns, you can say “Give Ana the book” or “Give the book to Ana”.",
+    "When the thing is a pronoun (it, them), normally put the thing first, then “to” + person: Give it to me. “Give me it” is heard in informal British English, but “Give it to me” is always safe."
+   ],
+   "exemples": [
+    ["Can you send me the photos? — Sure, I can send them to you tonight.", "them (thing) + to you (person)."],
+    ["Show it to him.", "it + to him."]
+   ]
+  }
+ ],
+ "formule": "Subject + verb + object: I · you · he · she · it · we · they → me · you · him · her · it · us · them",
+ "prononciation": [
+  "Object pronouns are often weak and unstressed: I like him /aɪ ˈlaɪk ɪm/ (the h often disappears), Call her /ˈkɔːl ə/, Tell them /ˈtel ðəm/.",
+  "Stress them only for emphasis or contrast: I love HER, not HIM.",
+  "“them” /ðem/ starts with /ð/ (tongue between the teeth, voice on). Don't say “dem” or “zem”.",
+  "“us” /ʌs/ has an unvoiced s. “he” /hiː/ has a breathed h: hear the difference between “he's” /hiːz/ and “is” /ɪz/.",
+  "“her” is /hɜː/ strong, /ə/ weak; “him” is /hɪm/ strong, /ɪm/ weak."
+ ],
+ "erreurs": [
+  ["I him know.", "I know him.", "The object pronoun goes after the verb."],
+  ["She helps we.", "She helps us.", "After the verb: object form (us)."],
+  ["This is for she.", "This is for her.", "After a preposition: object form."],
+  ["Where's the car? — She's in the garage.", "It's in the garage.", "A thing = it, not he / she."],
+  ["Me and my brother are tired.", "My brother and I are tired.", "As a subject, and to be polite: “my brother and I”."],
+  ["I'm cold. — I too.", "Me too.", "To react, say “Me too”."],
+  ["Me, I prefer tea.", "I prefer tea. / Personally, I prefer tea.", "English doesn't repeat the subject with “me”."],
+  ["i like music.", "I like music.", "“I” always has a capital letter."]
+ ],
+ "dialogue": {
+  "contexte": "Two friends prepare a birthday party for their flatmate in their flat in Lyon.",
+  "lignes": [
+   ["Clara", "Is the cake ready? Paul loves chocolate. I'm sure he'll love it.", "it = the cake."],
+   ["Mariam", "Yes, it's in the fridge. Where are the candles? I can't find them.", "them = the candles."],
+   ["Clara", "They're in my bag. Here, take them.", "Subject they, object them."],
+   ["Mariam", "Thanks. Are his parents coming?", "Present continuous for a plan."],
+   ["Clara", "Yes, they are. I'm meeting them at the station. And his sister is coming with us to the restaurant.", "them, us after a verb or preposition."],
+   ["Mariam", "Great! I like her a lot.", "her = his sister."],
+   ["Clara", "Me too. Shh! Someone's at the door. Is it him?", "Me too; Is it him?"],
+   ["Paul", "Hi, it's me! Why is it so dark in here?", "It's me."],
+   ["Clara and Mariam", "Surprise! Happy birthday, Paul!", "A birthday greeting."]
+  ]
+ },
+ "mots": [
+  ["help", "Can you help me, please?", "make it easier for someone to do something"],
+  ["call", "Call me tonight.", "phone someone"],
+  ["ask", "Ask her. She knows.", "say a question to someone"],
+  ["tell", "Tell them the news.", "give information to someone"],
+  ["send", "Send it to me by email.", "make something go to someone"],
+  ["show", "Show us your photos!", "let someone see something"],
+  ["give", "Give it to him.", "put something in someone's hands"],
+  ["invite", "They often invite us for dinner.", "ask someone to come to an event"],
+  ["visit", "We visit them every summer.", "go to see a person or a place"],
+  ["together", "Let's go together.", "with each other"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Subject → object",
+   "consigne": "Write the object pronoun.",
+   "items": [
+    ["I", "me"],
+    ["he", "him"],
+    ["she", "her"],
+    ["we", "us"],
+    ["they", "them"],
+    ["you", "you"]
+   ]
+  },
+  {
+   "titre": "2. Replace the noun",
+   "consigne": "Replace the words in brackets with a pronoun.",
+   "items": [
+    ["I know [Marc].", "I know him."],
+    ["Can you call [your mother]?", "Can you call her?"],
+    ["We love [this song].", "We love it."],
+    ["She lives with [her parents].", "She lives with them."],
+    ["[Anna and I] are late.", "We are late."]
+   ]
+  },
+  {
+   "titre": "3. Choose the right form",
+   "consigne": "Choose the right pronoun.",
+   "items": [
+    ["This letter is for (she / her).", "her"],
+    ["My friend and (I / me) live in Ghent.", "I"],
+    ["Who's there? — It's (I / me).", "me"],
+    ["Where's my umbrella? — (It / She) is by the door.", "It"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I them see every day.", "I see them every day."],
+    ["Come with we!", "Come with us!"],
+    ["He likes she very much.", "He likes her very much."],
+    ["I'm tired. — I too.", "Me too."],
+    ["Me, I don't like coffee.", "I don't like coffee. / Personally, I don't like coffee."]
+   ]
+  },
+  {
+   "titre": "5. Complete with a pronoun",
+   "consigne": "Complete the second sentence with the right object pronoun.",
+   "items": [
+    ["Marc is very nice. I like ___.", "him"],
+    ["We need help. Can you help ___?", "us"],
+    ["My grandparents are lonely. She talks to ___ every day.", "them"],
+    ["That's my pen! Give ___ to me, please.", "it"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write four sentences about people and things that are important to you. Use at least four different object pronouns.",
+   "items": [
+    ["Example answer", "My grandmother lives in Bafoussam. I call her every Sunday. My cousins often visit us in summer, and we take them to the beach. I've got an old guitar; I play it every evening."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Subject / object: I-me, you-you, he-him, she-her, it-it, we-us, they-them.",
+  "The object goes after the verb (I see her) or after a preposition (with us).",
+  "A thing = it. A person whose gender you don't know = they (+ are).",
+  "It's me · Me too · my friend and I (subject) / my friend and me (object).",
+  "Give it to me: the thing (pronoun) first, then to + person."
+ ],
+ "liens": [1, 14, 15, 64, 63],
+ "refs": ["cam-nouns", "bc-a1a2"]
+}

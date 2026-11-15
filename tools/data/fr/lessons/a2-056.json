@@ -1,0 +1,193 @@
+{
+"n": 56,
+"niveau": "A2",
+"titre": "Should (conseiller)",
+"intro": "« Should » sert à donner un conseil ou une recommandation, et à dire ce qui serait bien ou juste de faire : c'est l'équivalent de « tu devrais », « il faudrait ». C'est un outil indispensable pour aider quelqu'un, donner son avis ou demander conseil.",
+"objectifs": [
+"Former should / shouldn't + base verbale et la question Should I…?",
+"Donner un conseil de façon naturelle, avec I think you should / I don't think you should.",
+"Demander un conseil (What should I do?).",
+"Distinguer should (conseil) de must / have to (obligation)."
+],
+"sections": [
+{
+"titre": "La forme",
+"texte": [
+"« Should » est un modal, comme must et will : il est invariable (pas de -s) et suivi de la base verbale sans to.",
+"Négation : should not, contracté en « shouldn't ». Question : on inverse should et le sujet. Réponses courtes : Yes, you should. / No, you shouldn't."
+],
+"tableau": {
+"entetes": ["Forme", "Structure", "Exemple"],
+"lignes": [
+["affirmative", "sujet + should + base", "You should rest."],
+["négative", "sujet + shouldn't + base", "You shouldn't work so much."],
+["question", "Should + sujet + base ?", "Should I call the doctor?"],
+["question en Wh-", "Wh- + should + sujet + base ?", "What should we do?"],
+["réponse courte", "Yes, you should. / No, you shouldn't.", "Should I go? — Yes, you should."]
+]
+}
+},
+{
+"titre": "Donner un conseil",
+"texte": [
+"« You should + base » est la façon la plus simple de conseiller. Pour être plus poli ou moins direct, on ajoute « I think » ou « maybe » : « I think you should… », « Maybe you should… ».",
+"Pour un conseil négatif, l'anglais préfère « I don't think you should… » à « I think you shouldn't… », comme avec will (leçon 49)."
+],
+"exemples": [
+["You look tired. You should go to bed early.", "Tu as l'air fatigué. Tu devrais te coucher tôt."],
+["I think you should talk to your manager.", "Je pense que tu devrais parler à ton responsable."],
+["I don't think you should buy that car. It's too old.", "Je ne pense pas que tu devrais acheter cette voiture. Elle est trop vieille."],
+["Maybe we should take a taxi.", "On devrait peut-être prendre un taxi."]
+]
+},
+{
+"titre": "Demander un conseil",
+"texte": [
+"Pour demander l'avis de quelqu'un, on utilise « Should I…? » ou « What / Where / When should I…? ». On peut aussi demander « What do you think I should do? » (Qu'est-ce que tu penses que je devrais faire ?).",
+"Attention : dans « What do you think I should do? », l'ordre est celui d'une phrase affirmative après « do you think » : I should do, pas « should I do »."
+],
+"exemples": [
+["Should I bring something to the party?", "Je devrais apporter quelque chose à la fête ?"],
+["Which course should I choose?", "Quel cours devrais-je choisir ?"],
+["What do you think I should do?", "À ton avis, qu'est-ce que je devrais faire ?"]
+]
+},
+{
+"titre": "Should, must ou have to ?",
+"texte": [
+"« Should » est un conseil : on a le choix. « Must » et « have to » expriment une obligation (leçon 54). Comparer : « You should wear a coat » (c'est mieux, il fait froid) et « You must wear a helmet » (c'est obligatoire).",
+"« Ought to » a presque le même sens que should, mais il est moins courant et un peu plus formel : « You ought to apologise ». « You'd better + base » (tu ferais mieux de) est plus fort, avec une idée de conséquence négative si on n'agit pas."
+],
+"tableau": {
+"entetes": ["Forme", "Force", "Exemple"],
+"lignes": [
+["should", "conseil", "You should see a doctor."],
+["ought to", "conseil (plus formel, plus rare)", "You ought to see a doctor."],
+["had better ('d better)", "conseil fort, sinon problème", "You'd better see a doctor before it gets worse."],
+["must / have to", "obligation", "You must / have to see a doctor to get a certificate."]
+]
+}
+},
+{
+"titre": "Should pour ce qui est juste ou attendu",
+"texte": [
+"« Should » exprime aussi ce qui serait normal, juste ou correct : une opinion morale ou une critique. Et il peut exprimer une attente logique : ce qui devrait se passer si tout va bien.",
+"L'expression figée « If I were you, I'd… » (à ta place, je…) est une autre façon très courante de conseiller ; sa grammaire sera expliquée au niveau B1."
+],
+"exemples": [
+["People shouldn't throw rubbish in the street.", "Les gens ne devraient pas jeter leurs déchets dans la rue (opinion)."],
+["The bus should arrive in five minutes.", "Le bus devrait arriver dans cinq minutes (attente logique)."],
+["If I were you, I'd accept the offer.", "À ta place, j'accepterais l'offre."]
+]
+}
+],
+"formule": "should / shouldn't + base verbale · Should I + base … ? · I (don't) think you should + base",
+"prononciation": [
+"« should » se prononce /ʃʊd/ : le l est muet, le ou est court comme dans « book ». En forme faible : /ʃəd/.",
+"« shouldn't » /ˈʃʊdnt/ : deux syllabes, le t est léger.",
+"« could », « would » et « should » riment tous : /kʊd/, /wʊd/, /ʃʊd/ (le l n'est jamais prononcé).",
+"Pour adoucir un conseil, l'intonation descend puis remonte légèrement : « Maybe you should ↘ call her ↗ »."
+],
+"erreurs": [
+["You should to rest.", "You should rest.", "Pas de to après should."],
+["He shoulds study more.", "He should study more.", "should ne prend jamais de -s."],
+["Do I should call her?", "Should I call her?", "Question : Should + sujet, sans do."],
+["I think you shouldn't go.", "I don't think you should go.", "Plus naturel : la négation sur think."],
+["What do you think should I do?", "What do you think I should do?", "Après « do you think », ordre affirmatif."],
+["You must try to relax a bit.", "You should try to relax a bit.", "Simple conseil, pas obligation : should."],
+["I should went to the doctor.", "I should go to the doctor.", "Après should : base verbale."]
+],
+"dialogue": {
+"contexte": "Inès, étudiante à Bruxelles, a beaucoup de mal à dormir avant ses examens. Elle en parle à son amie Mariam.",
+"lignes": [
+["Inès", "I can't sleep at all. My exams start next week. What should I do?", "Je n'arrive pas du tout à dormir. Mes examens commencent la semaine prochaine. Qu'est-ce que je devrais faire ?"],
+["Mariam", "First, you shouldn't drink coffee after four o'clock.", "D'abord, tu ne devrais pas boire de café après seize heures."],
+["Inès", "Oh. I drink three cups in the evening!", "Oh. J'en bois trois tasses le soir !"],
+["Mariam", "That's too much. And I think you should turn off your phone an hour before bed.", "C'est trop. Et je pense que tu devrais éteindre ton téléphone une heure avant de te coucher."],
+["Inès", "Should I study at night when it's quiet?", "Je devrais étudier la nuit, quand c'est calme ?"],
+["Mariam", "No, I don't think you should. Your brain needs rest. Study in the morning.", "Non, je ne pense pas. Ton cerveau a besoin de repos. Étudie le matin."],
+["Inès", "OK. Maybe I should go for a walk every day too.", "D'accord. Je devrais peut-être aussi aller marcher tous les jours."],
+["Mariam", "Great idea! And if you still can't sleep, you should see a doctor.", "Excellente idée ! Et si tu n'arrives toujours pas à dormir, tu devrais voir un médecin."]
+]
+},
+"mots": [
+["advice", "Can I give you some advice?", "des conseils (indénombrable)"],
+["advise", "The doctor advised me to rest.", "conseiller"],
+["suggest", "I suggest taking the train.", "suggérer"],
+["idea", "That's a good idea.", "une idée"],
+["rest", "You should rest this afternoon.", "se reposer ; le repos"],
+["healthy", "You should eat healthy food.", "sain, en bonne santé"],
+["stress", "He's under a lot of stress.", "le stress"],
+["problem", "I have a problem with my landlord.", "un problème"],
+["apologise", "You should apologise to her.", "s'excuser (US : apologize)"],
+["opinion", "In my opinion, you should accept.", "l'avis, l'opinion"]
+],
+"exercices": [
+{
+"titre": "1. Should ou shouldn't ?",
+"consigne": "Complète avec should ou shouldn't.",
+"items": [
+["You have a fever. You ___ go to work today.", "shouldn't"],
+["It's very cold. You ___ wear a warm jacket.", "should"],
+["You ___ eat so much sugar. It's bad for your teeth.", "shouldn't"],
+["We ___ leave now, or we'll miss the train.", "should"],
+["Children ___ watch TV all day.", "shouldn't"]
+]
+},
+{
+"titre": "2. Donner un conseil",
+"consigne": "Donne un conseil avec You should / You shouldn't.",
+"items": [
+["I've got a terrible headache.", "You should take an aspirin and rest. / You shouldn't look at your screen."],
+["I always arrive late at work.", "You should get up earlier."],
+["My English isn't improving.", "You should practise every day and watch films in English."],
+["I spend too much money.", "You shouldn't buy things you don't need."]
+]
+},
+{
+"titre": "3. Demander conseil",
+"consigne": "Écris la question avec should.",
+"items": [
+["I / take / an umbrella?", "Should I take an umbrella?"],
+["what / we / buy / for Ali's birthday?", "What should we buy for Ali's birthday?"],
+["where / I / stay / in Montreal?", "Where should I stay in Montreal?"],
+["she / accept / the job?", "Should she accept the job?"]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["You should to drink more water.", "You should drink more water."],
+["Do we should book a table?", "Should we book a table?"],
+["I think you shouldn't worry.", "I don't think you should worry."],
+["She shoulds see a dentist.", "She should see a dentist."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais.",
+"items": [
+["Tu devrais appeler ta sœur.", "You should call your sister."],
+["On ne devrait pas rentrer trop tard.", "We shouldn't come home too late. / We shouldn't get back too late."],
+["À ton avis, qu'est-ce que je devrais faire ?", "What do you think I should do?"]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Un ami arrive dans ta ville pour la première fois. Donne-lui cinq conseils (au moins un négatif et un avec I don't think you should).",
+"items": [
+["Exemple de réponse", "Welcome to Douala! You should try the grilled fish at Youpwe. You should always agree on the price before you take a moto-taxi. You shouldn't walk alone late at night in quiet areas. I don't think you should rent a car — the traffic is crazy! And you should visit the Doual'art gallery."]
+]
+}
+],
+"a_retenir": [
+"should / shouldn't + base verbale = conseil (tu devrais / tu ne devrais pas).",
+"Question : Should I…? / What should I do? (sans do).",
+"Plus poli : I think you should… / Maybe you should… ; négatif : I don't think you should…",
+"should = conseil (choix) ; must / have to = obligation.",
+"« should » se prononce /ʃʊd/ : le l est muet."
+],
+"liens": [49, 54, 55, 57, 87],
+"refs": ["bc-a1a2", "cam-verbs"]
+}

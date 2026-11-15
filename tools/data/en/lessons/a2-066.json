@@ -1,0 +1,204 @@
+{
+ "n": 66,
+ "niveau": "A2",
+ "titre": "As … as: comparing equal things",
+ "intro": "After comparatives (lesson 46) and superlatives (lesson 47), here is how to say that two things are equal: as … as. In the negative, not as … as means “less … than”. This lesson also shows the same as and as much / as many as, and the common traps (“as … than”, “same than”).",
+ "objectifs": [
+  "Make as + adjective / adverb + as to say two things are equal.",
+  "Use not as … as (or not so … as) as the natural way to say “less … than”.",
+  "Use the same (as), as much / as many … as, and similar to / different from.",
+  "Choose the right pronoun after as (as tall as me / as tall as I am)."
+ ],
+ "sections": [
+  {
+   "titre": "The form: as + adjective + as",
+   "texte": [
+    "To say that two things are equal, put the adjective in its simple form between two as: Tom is as tall as his father.",
+    "The adjective never changes: no -er, no more. Say “as big as”, never “as bigger as” or “as more interesting as”.",
+    "The second word is as, not than. “As … than” is a very common mistake."
+   ],
+   "tableau": {
+    "entetes": ["Meaning", "Structure", "Example"],
+    "lignes": [
+     ["equal", "as + adjective + as", "Lyon is as busy as Marseille."],
+     ["equal (adverb)", "as + adverb + as", "She runs as fast as her brother."],
+     ["less", "not as + adjective + as", "My flat isn't as big as yours."],
+     ["almost equal", "almost / nearly as … as", "It's nearly as hot as yesterday."],
+     ["two times more", "twice as … as", "This bag is twice as heavy as mine."]
+    ]
+   },
+   "exemples": [
+    ["The film is as good as the book.", "Equal."],
+    ["Kribi is as beautiful as I imagined.", "as + a full clause."],
+    ["Can you speak as slowly as possible?", "as … as possible = the most … you can."]
+   ]
+  },
+  {
+   "titre": "The negative: not as … as",
+   "texte": [
+    "Not as … as means “less … than”. It is the most natural way to say “less” in English: My car isn't as fast as yours is more common than “My car is less fast than yours”.",
+    "You can also hear not so … as, with the same meaning, but not as … as is more frequent.",
+    "Think about the meaning: The test wasn't as difficult as last year = it was EASIER than last year."
+   ],
+   "exemples": [
+    ["Today isn't as cold as yesterday.", "= Today is warmer than yesterday."],
+    ["I'm not as good at maths as my sister.", "She is better than me."],
+    ["The bus isn't as expensive as the taxi.", "The bus is cheaper."]
+   ]
+  },
+  {
+   "titre": "After as: me or I am?",
+   "texte": [
+    "After the second as, you can put a noun, an object pronoun or a clause: as tall as Paul / as tall as me / as tall as I am.",
+    "In speech, the object pronoun (me, him, her, us, them) is the most common: She's as old as me. “As old as I” alone is very formal and sounds strange; if you want the subject pronoun, add the verb: as old as I am.",
+    "You can also compare two times: The town is as quiet as it was ten years ago."
+   ],
+   "exemples": [
+    ["My brother is as tall as me.", "Object pronoun (common)."],
+    ["My brother is as tall as I am.", "Subject pronoun + verb (careful)."],
+    ["He doesn't work as hard as he did before.", "Comparing two times."]
+   ]
+  },
+  {
+   "titre": "As much / as many … as",
+   "texte": [
+    "To compare quantities: as much + uncountable noun + as, as many + plural countable noun + as (see lesson 58). I don't earn as much money as you. She has as many books as a library!",
+    "Without a noun, after a verb: He eats as much as his father.",
+    "Be careful: there is no of here: as many friends as, not “as many of friends as”."
+   ],
+   "exemples": [
+    ["There aren't as many tourists as in August.", "many + countable."],
+    ["I don't drink as much coffee as before.", "much + uncountable."],
+    ["You can take as many photos as you want.", "Any number you want."]
+   ]
+  },
+  {
+   "titre": "The same as, similar to, different from",
+   "texte": [
+    "The same: My phone is the same as yours. With a noun: We're in the same class. Always use the before same, and as after it (never “same than” or “same that”).",
+    "The same + noun + as: She has the same shoes as me.",
+    "For things that are almost the same: similar to. For things that are not the same: different from (in British English you also hear different to)."
+   ],
+   "exemples": [
+    ["Your bag is the same as mine!", "Identical."],
+    ["We were born in the same year.", "the same + noun."],
+    ["Belgian French is a little different from French in France.", "different from."]
+   ]
+  }
+ ],
+ "formule": "as + adjective / adverb + as · not as … as = less … than · as much / as many + noun + as · the same (+ noun) as · similar to · different from",
+ "prononciation": [
+  "as is weak in the sentence: /əz/. Say “əz TALL əz”, with the stress on the adjective.",
+  "In as … as, the two as are weak and linked: “as good as” ≈ /əz ˈɡʊd əz/.",
+  "After not as, stress the adjective: It isn't as EXpensive as the taxi.",
+  "the same /ðə ˈseɪm/: the “a” is /eɪ/, as in “name”.",
+  "twice /twaɪs/ ends with a voiceless /s/, not /z/."
+ ],
+ "erreurs": [
+  ["She is as tall than her mother.", "She is as tall as her mother.", "as … as, never as … than."],
+  ["This film is as more interesting as the first one.", "This film is as interesting as the first one.", "The adjective stays in its simple form."],
+  ["My phone is the same than yours.", "My phone is the same as yours.", "the same as, never same than."],
+  ["We are in same class.", "We are in the same class.", "Always the before same."],
+  ["I have as many of friends as you.", "I have as many friends as you.", "No of after as many."],
+  ["He doesn't earn as many money as me.", "He doesn't earn as much money as me.", "Money is uncountable: much."],
+  ["She is different of her sister.", "She is different from her sister.", "different from (or to), not of."],
+  ["My town is less big than Douala.", "My town isn't as big as Douala.", "Less big is possible but not natural."]
+ ],
+ "dialogue": {
+  "contexte": "Two flatmates in Ottawa compare two flats before they move.",
+  "lignes": [
+   ["Inès", "So, what do you think? The flat on King Street or the one near the park?", "A choice between two flats."],
+   ["Samuel", "The King Street flat isn't as big as the other one, but it's nearer the university.", "not as … as = smaller."],
+   ["Inès", "True. And the rent is the same as our rent now.", "the same as."],
+   ["Samuel", "The park flat is nearly twice as expensive! We can't pay that much.", "nearly twice as … as."],
+   ["Inès", "But it's as quiet as a village. I can sleep as long as I want!", "as … as (adjective and adverb)."],
+   ["Samuel", "You don't sleep as much as you think, Inès.", "as much as + clause."],
+   ["Inès", "Ha! OK. The bedrooms in King Street are similar to ours, right?", "similar to."],
+   ["Samuel", "Yes, and the kitchen is as modern as the one in the park flat.", "as modern as."],
+   ["Inès", "Then let's take King Street. It's not as nice, but it's cheaper.", "not as … (the second part is understood)."]
+  ]
+ },
+ "mots": [
+  ["equal", "The two teams are equal.", "the same in size, number or value"],
+  ["the same", "We have the same teacher.", "not different, identical"],
+  ["similar", "Your idea is similar to mine.", "almost the same"],
+  ["different", "This city is different from Paris.", "not the same"],
+  ["twice", "It's twice as big as my room.", "two times"],
+  ["rent", "The rent is 800 dollars a month.", "money you pay every month to live in a flat or house"],
+  ["quiet", "The village is very quiet at night.", "with very little noise"],
+  ["nearly", "It's nearly as tall as the tower.", "almost"],
+  ["as … as possible", "Come as soon as possible.", "the most … that you can"],
+  ["compare", "Let's compare the two flats.", "look at two things to see how they are the same or different"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. As … as",
+   "consigne": "Complete with as … as and the adjective or adverb in brackets.",
+   "items": [
+    ["My sister is ___ my mother. (tall)", "as tall as"],
+    ["This exercise is ___ the first one. (easy)", "as easy as"],
+    ["He drives ___ a racing driver! (fast)", "as fast as"],
+    ["Please answer ___ possible. (quickly)", "as quickly as"],
+    ["Is Yaoundé ___ Douala? (hot)", "as hot as"]
+   ]
+  },
+  {
+   "titre": "2. Not as … as",
+   "consigne": "Rewrite each sentence with not as … as. Keep the same meaning.",
+   "items": [
+    ["Paris is bigger than Brussels.", "Brussels isn't as big as Paris."],
+    ["The train is faster than the bus.", "The bus isn't as fast as the train."],
+    ["My old job was more interesting than this one.", "This job isn't as interesting as my old one."],
+    ["Anna sings better than me.", "I don't sing as well as Anna."]
+   ]
+  },
+  {
+   "titre": "3. Much, many or same?",
+   "consigne": "Complete with much, many, the same or from.",
+   "items": [
+    ["I don't have as ___ free time as last year.", "much"],
+    ["There weren't as ___ people as at the last concert.", "many"],
+    ["Her dress is ___ as mine!", "the same"],
+    ["Life in Montréal is different ___ life in Dakar.", "from"],
+    ["You can eat as ___ cakes as you like.", "many"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["He is as old than me.", "He is as old as me."],
+    ["Our car is the same that yours.", "Our car is the same as yours."],
+    ["This book is as better as the film.", "This book is as good as the film."],
+    ["We live in same street.", "We live in the same street."],
+    ["I don't have as many money as you.", "I don't have as much money as you."]
+   ]
+  },
+  {
+   "titre": "5. What do you say?",
+   "consigne": "Write one sentence for each situation.",
+   "items": [
+    ["You and your brother are both 1.80 m.", "My brother is as tall as me. / My brother is as tall as I am."],
+    ["Yesterday it was 2°C. Today it's 8°C. (not as … as)", "Today isn't as cold as yesterday."],
+    ["You and your friend have one teacher: Mr Diallo.", "We have the same teacher."],
+    ["You want your friend to come very soon.", "Come as soon as possible."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Compare yourself with someone in your family or a friend. Write four sentences: one with as … as, one with not as … as, one with the same (as) and one with as much / as many … as.",
+   "items": [
+    ["Example answer", "My cousin Paul is as old as me: we were both born in 2001. He isn't as tall as me, but he's much stronger. We have the same favourite team. He doesn't read as many books as I do."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "as + adjective / adverb (simple form) + as = equal.",
+  "not as … as = less … than (more natural than less … than).",
+  "as much + uncountable + as · as many + plural + as (no of).",
+  "the same (+ noun) as · similar to · different from: never “same than”.",
+  "After as: me / him (common) or I am / he is (careful)."
+ ],
+ "liens": [46, 47, 58, 190],
+ "refs": ["bc-comparatives", "bc-as-like"]
+}

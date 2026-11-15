@@ -1,0 +1,208 @@
+{
+ "n": 16,
+ "niveau": "A1",
+ "titre": "There is / there are",
+ "intro": "« There is » et « there are » correspondent à « il y a » : ils servent à dire qu'une chose existe ou se trouve quelque part. On les utilise pour décrire une ville, une maison, un frigo ou une situation.",
+ "objectifs": [
+  "Choisir entre there is (singulier, indénombrable) et there are (pluriel).",
+  "Construire la négation (there isn't, there aren't, there's no) et les questions (Is there…? Are there any…? How many… are there?).",
+  "Distinguer there is (il y a) et it is (c'est), there / their / they're.",
+  "Éviter les traductions mot à mot de « il y a » (pour le temps : ago ; pour la distance : it's)."
+ ],
+ "sections": [
+  {
+   "titre": "La forme affirmative",
+   "texte": [
+    "On utilise « there is » (forme courte : there's) devant un nom singulier ou indénombrable, et « there are » devant un nom pluriel. À l'écrit, « there are » ne se contracte pas.",
+    "Le verbe s'accorde avec le nom qui suit. Dans une liste, on accorde généralement avec le premier élément : There's a table and four chairs. There are four chairs and a table."
+   ],
+   "tableau": {
+    "entetes": ["", "Forme", "Exemple"],
+    "lignes": [
+     ["Singulier", "there is / there's + a / an + nom", "There's a bank near the station."],
+     ["Indénombrable", "there is / there's + (some) + nom", "There's some milk in the fridge."],
+     ["Pluriel", "there are + nom pluriel", "There are two bakeries in my street."],
+     ["Pluriel + quantité", "there are + a lot of / many / some + nom", "There are a lot of tourists in summer."]
+    ]
+   },
+   "exemples": [
+    ["There's a cat in the garden.", "Il y a un chat dans le jardin."],
+    ["There are thirty students in my class.", "Il y a trente élèves dans ma classe."],
+    ["There's a lot of traffic today.", "Il y a beaucoup de circulation aujourd'hui (indénombrable → is)."]
+   ]
+  },
+  {
+   "titre": "La négation",
+   "texte": [
+    "On met « not » après is / are : there isn't (there is not), there aren't (there are not). Devant un pluriel ou un indénombrable, on ajoute souvent « any » : There aren't any shops. There isn't any bread. (Some et any seront détaillés à la leçon 31.)",
+    "Autre façon très courante : « there's no » / « there are no » + nom, sans article : There's no bus today. There are no taxis. Avec « no », le verbe reste affirmatif : on ne dit pas « there isn't no »."
+   ],
+   "exemples": [
+    ["There isn't a hospital in my village.", "Il n'y a pas d'hôpital dans mon village."],
+    ["There aren't any chairs in this room.", "Il n'y a pas de chaises dans cette pièce."],
+    ["There's no sugar in my coffee.", "Il n'y a pas de sucre dans mon café."]
+   ]
+  },
+  {
+   "titre": "Les questions et les réponses courtes",
+   "texte": [
+    "Pour la question, on inverse : Is there…? Are there…? Au pluriel et avec les indénombrables, on ajoute souvent « any ». Réponse courte : Yes, there is. / No, there isn't. Yes, there are. / No, there aren't. Comme pour « to be », pas de contraction après Yes (pas « Yes, there's »).",
+    "Pour demander une quantité : How many + nom pluriel + are there? / How much + indénombrable + is there? (leçon 30)."
+   ],
+   "tableau": {
+    "entetes": ["Question", "Oui", "Non"],
+    "lignes": [
+     ["Is there a pharmacy near here?", "Yes, there is.", "No, there isn't."],
+     ["Are there any good restaurants?", "Yes, there are.", "No, there aren't."],
+     ["Is there any coffee left?", "Yes, there is.", "No, there isn't."],
+     ["How many rooms are there?", "There are three.", "There's only one."]
+    ]
+   },
+   "exemples": [
+    ["Excuse me, is there a cash machine near here?", "Pardon, il y a un distributeur près d'ici ?"],
+    ["How many people are there in your family?", "Combien de personnes y a-t-il dans ta famille ?"]
+   ]
+  },
+  {
+   "titre": "There is ou it is ? There, their ou they're ?",
+   "texte": [
+    "« There is » présente une chose pour la première fois (existence). « It is » décrit ou identifie une chose déjà connue. Souvent, on enchaîne les deux : There's a new café on my street. It's very nice.",
+    "Ne confonds pas non plus « there are » (il y a) et « they are » (ils / elles sont) : There are two parks in my town. They are big and green. Et à l'écrit : there (là), their (leur), they're (= they are) se prononcent pareil (leçon 14)."
+   ],
+   "exemples": [
+    ["There's a parcel for you. It's from Canada.", "Il y a un colis pour toi. Il vient du Canada."],
+    ["There are some new students. They're from Belgium.", "Il y a de nouveaux élèves. Ils viennent de Belgique."]
+   ]
+  },
+  {
+   "titre": "Quand « il y a » ne se traduit pas par there is",
+   "texte": [
+    "Le français « il y a » a d'autres sens. Pour une durée passée (il y a deux ans), l'anglais utilise « ago » après la durée : two years ago (vu au niveau A2 avec le prétérit). Pour une distance, on utilise « it's » : C'est à 5 km → It's 5 km from here.",
+    "Évite aussi « have » pour décrire un lieu à la française (« ma ville a un cinéma » se dit bien « My town has a cinema », mais « Dans ma ville, il y a un cinéma » se dit « In my town, there's a cinema », jamais « In my town has a cinema »).",
+    "Enfin, « Qu'est-ce qu'il y a ? » (qu'est-ce qui ne va pas ?) se dit « What's wrong? » ou « What's the matter? », pas « What is there? »."
+   ],
+   "tableau": {
+    "entetes": ["Français", "Anglais", "Remarque"],
+    "lignes": [
+     ["Il y a un parc près d'ici.", "There's a park near here.", "existence → there is"],
+     ["Je suis arrivé il y a deux jours.", "I arrived two days ago.", "temps passé → ago"],
+     ["Il y a 10 km jusqu'à la plage.", "It's 10 km to the beach.", "distance → it's"],
+     ["Qu'est-ce qu'il y a ?", "What's wrong? / What's the matter?", "problème"]
+    ]
+   }
+  }
+ ],
+ "formule": "There's + singulier / indénombrable · There are + pluriel · Is there…? / Are there any…? · There isn't / aren't (any) · There's no…",
+ "prononciation": [
+  "« There's » /ðeəz/ se dit en une syllabe ; « there are » se lie souvent : /ðeərə/ (le r de liaison se prononce en britannique devant une voyelle).",
+  "Dans la phrase, « there » est faible : /ðə/ (There's a cat /ðəz ə ˈkæt/). Le nom porte l'accent.",
+  "« there » /ðeə/, « their » /ðeə/ et « they're » /ðeə/ se prononcent de la même façon.",
+  "Question (Is there a bank?) : la voix monte. « How many… are there? » : la voix descend.",
+  "« isn't » /ˈɪznt/ et « aren't » /ɑːnt/ : on les accentue pour bien faire entendre la négation."
+ ],
+ "erreurs": [
+  ["There is two banks.", "There are two banks.", "Pluriel → there are."],
+  ["There are a lot of traffic.", "There's a lot of traffic.", "Indénombrable → there is."],
+  ["In my town has a cinema.", "In my town, there's a cinema. / My town has a cinema.", "« Il y a » = there is, pas has."],
+  ["There isn't no milk.", "There's no milk. / There isn't any milk.", "Pas de double négation."],
+  ["Is there a bank? — Yes, there's.", "Yes, there is.", "Pas de contraction dans une réponse courte affirmative."],
+  ["There is two years, I was in Paris.", "Two years ago, I was in Paris.", "« Il y a » + durée passée = ago."],
+  ["It's a cat in the garden.", "There's a cat in the garden.", "Pour présenter une chose qui existe : there is."]
+ ],
+ "dialogue": {
+  "contexte": "Une étudiante belge qui arrive à Québec visite un appartement avec le propriétaire.",
+  "lignes": [
+   ["Landlord", "So, this is the flat. There are two bedrooms and a small living room.", "Voici l'appartement. Il y a deux chambres et un petit salon."],
+   ["Élodie", "It's nice. Is there a washing machine?", "C'est joli. Il y a une machine à laver ?"],
+   ["Landlord", "No, there isn't, but there's a laundry room in the basement.", "Non, mais il y a une buanderie au sous-sol."],
+   ["Élodie", "OK. And are there any shops near here?", "D'accord. Et il y a des magasins près d'ici ?"],
+   ["Landlord", "Yes, there are. There's a supermarket on the corner and there are two cafés on the next street.", "Oui. Il y a un supermarché au coin et deux cafés dans la rue suivante."],
+   ["Élodie", "Great. How many people are there in the building?", "Super. Combien de personnes y a-t-il dans l'immeuble ?"],
+   ["Landlord", "There are six flats, so about ten people. It's very quiet.", "Il y a six appartements, donc une dizaine de personnes. C'est très calme."],
+   ["Élodie", "Perfect. There's just one problem: there's no desk!", "Parfait. Il y a juste un problème : il n'y a pas de bureau !"],
+   ["Landlord", "No problem. There's an old desk in my garage. You can have it.", "Pas de problème. Il y a un vieux bureau dans mon garage. Vous pouvez le prendre."]
+  ]
+ },
+ "mots": [
+  ["bedroom", "There are three bedrooms in the house.", "la chambre"],
+  ["living room", "There's a big sofa in the living room.", "le salon, la salle de séjour"],
+  ["kitchen", "Is there a microwave in the kitchen?", "la cuisine (la pièce)"],
+  ["bathroom", "There's no bath in the bathroom, only a shower.", "la salle de bains"],
+  ["fridge", "There isn't any milk in the fridge.", "le frigo, le réfrigérateur"],
+  ["supermarket", "There's a supermarket on the corner.", "le supermarché"],
+  ["pharmacy", "Is there a pharmacy near here?", "la pharmacie (GB aussi : chemist's)"],
+  ["park", "There are two parks in my town.", "le parc"],
+  ["building", "There are six flats in this building.", "le bâtiment, l'immeuble"],
+  ["near", "Is there a bus stop near here?", "près (de)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. There is ou there are ?",
+   "consigne": "Complète avec there's ou there are.",
+   "items": [
+    ["___ a bank next to the post office.", "There's"],
+    ["___ five people in my family.", "There are"],
+    ["___ some water on the floor.", "There's"],
+    ["___ a lot of trees in the park.", "There are"],
+    ["___ a sofa and two armchairs in the room.", "There's"],
+    ["___ many tourists in Bruges in summer.", "There are"]
+   ]
+  },
+  {
+   "titre": "2. Négation",
+   "consigne": "Mets la phrase à la forme négative (deux formes possibles : isn't / aren't any, ou no).",
+   "items": [
+    ["There's a cinema in my village.", "There isn't a cinema in my village. / There's no cinema in my village."],
+    ["There are some eggs in the fridge.", "There aren't any eggs in the fridge. / There are no eggs in the fridge."],
+    ["There's some bread on the table.", "There isn't any bread on the table. / There's no bread on the table."]
+   ]
+  },
+  {
+   "titre": "3. Questions et réponses courtes",
+   "consigne": "Écris la question, puis la réponse courte indiquée.",
+   "items": [
+    ["a lift / in the building? (oui)", "Is there a lift in the building? — Yes, there is."],
+    ["any good restaurants / here? (non)", "Are there any good restaurants here? — No, there aren't."],
+    ["How many / students / in your class? (22)", "How many students are there in your class? — There are twenty-two."],
+    ["any milk / in the fridge? (non)", "Is there any milk in the fridge? — No, there isn't."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["There is three bedrooms.", "There are three bedrooms."],
+    ["In my street has a bakery.", "In my street, there's a bakery. / There's a bakery in my street."],
+    ["There aren't no taxis.", "There aren't any taxis. / There are no taxis."],
+    ["There's a new restaurant. There's very good.", "There's a new restaurant. It's very good."],
+    ["Are there a park near here?", "Is there a park near here?"]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Il y a un problème.", "There's a problem."],
+    ["Il n'y a pas de chaises.", "There aren't any chairs. / There are no chairs."],
+    ["Il y a des magasins près d'ici ?", "Are there any shops near here?"],
+    ["Il y a beaucoup de monde dans le métro.", "There are a lot of people on the metro. / There are a lot of people in the metro."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Décris ton quartier ou ton village en cinq phrases avec there is / there are, à la forme affirmative et négative, et pose une question à un visiteur.",
+   "items": [
+    ["Exemple de réponse", "In my neighbourhood there's a big market and there are three schools. There's a pharmacy near my house. There isn't a cinema, but there are two cafés. Is there a cinema in your town?"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "There's + singulier ou indénombrable ; there are + pluriel.",
+  "Négation : there isn't / aren't (any) ou there's no / there are no + nom.",
+  "Question : Is there…? Are there any…? → Yes, there is. / No, there aren't. How many… are there?",
+  "There is présente, it is décrit : There's a café. It's nice.",
+  "« Il y a » + durée passée = ago ; + distance = it's."
+ ],
+ "liens": [11, 12, 17, 30, 31],
+ "refs": ["bc-there", "bc-a1a2"]
+}

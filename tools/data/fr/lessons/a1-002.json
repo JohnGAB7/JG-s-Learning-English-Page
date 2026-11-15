@@ -1,0 +1,201 @@
+{
+ "n": 2,
+ "niveau": "A1",
+ "titre": "Se présenter",
+ "intro": "Dire bonjour, donner son nom, son pays, sa ville, son métier et son âge, puis poser les mêmes questions à l'autre : c'est la première conversation que l'on a en anglais, au travail comme en voyage.",
+ "objectifs": [
+  "Saluer quelqu'un et répondre à une salutation, de façon formelle ou détendue.",
+  "Donner son nom, sa nationalité, son pays, sa ville, son métier et son âge en phrases simples.",
+  "Poser les questions de base : What's your name? Where are you from? What do you do?",
+  "Réagir poliment à une présentation (Nice to meet you) et présenter une autre personne (This is…)."
+ ],
+ "sections": [
+  {
+   "titre": "Saluer et prendre congé",
+   "texte": [
+    "Le choix de la salutation dépend du moment de la journée et du registre. « Hello » convient partout ; « Hi » et « Hey » sont détendus (amis, collègues proches, messages). « Good morning » s'utilise jusqu'à midi environ, « Good afternoon » jusqu'à 17 ou 18 heures, « Good evening » ensuite.",
+    "Attention : « Good night » ne sert jamais à dire bonsoir en arrivant. On le dit seulement en partant le soir ou avant d'aller dormir. Pour partir, on dit « Goodbye » (neutre), « Bye » ou « See you » (détendu), « See you tomorrow » (à demain)."
+   ],
+   "tableau": {
+    "entetes": ["Situation", "Formel", "Détendu", "Traduction"],
+    "lignes": [
+     ["Arriver (matin)", "Good morning.", "Morning! / Hi!", "Bonjour."],
+     ["Arriver (après-midi)", "Good afternoon.", "Hi! / Hello!", "Bonjour."],
+     ["Arriver (soir)", "Good evening.", "Hi! / Hey!", "Bonsoir."],
+     ["Partir", "Goodbye.", "Bye! / See you!", "Au revoir. / À plus."],
+     ["Partir le soir, aller dormir", "Good night.", "Night!", "Bonne nuit. / Bonne soirée (en partant)."]
+    ]
+   },
+   "note": "« How are you? » (Comment allez-vous ?) est surtout une formule de politesse. La réponse attendue est courte : « Fine, thanks. And you? » ou « I'm good, thanks. » On ne raconte pas ses problèmes."
+  },
+  {
+   "titre": "Donner son nom",
+   "texte": [
+    "Pour dire son nom, on utilise « I'm… » (le plus naturel) ou « My name is… » (un peu plus formel). En anglais, « first name » est le prénom et « surname » (britannique) ou « last name » (américain) est le nom de famille.",
+    "Pour demander le nom de quelqu'un : « What's your name? ». Dans une situation officielle (hôtel, administration), on entend aussi « Can I have your name, please? » ou « What's your surname? »."
+   ],
+   "exemples": [
+    ["Hi, I'm Lucas.", "Salut, je suis Lucas (forme la plus courante à l'oral)."],
+    ["My name is Aïcha Mbarga.", "Je m'appelle Aïcha Mbarga (un peu plus formel)."],
+    ["My first name is Tom and my surname is Dupont.", "Mon prénom est Tom et mon nom de famille est Dupont."],
+    ["Please call me Kate.", "Appelle-moi Kate, s'il te plaît (pour proposer un diminutif)."]
+   ],
+   "note": "On ne dit pas « I call myself Lucas » : c'est une traduction mot à mot de « je m'appelle ». On dit « I'm Lucas » ou « My name is Lucas »."
+  },
+  {
+   "titre": "Le pays, la nationalité et la ville",
+   "texte": [
+    "Pour l'origine, on dit « I'm from + pays ou ville ». Pour la nationalité, on dit « I'm + adjectif de nationalité ». En anglais, les nationalités et les langues prennent toujours une majuscule : French, Belgian, Canadian.",
+    "Pour l'endroit où l'on habite maintenant, on dit « I live in + ville ou pays ». Cette phrase utilise le présent simple, que l'on étudiera en détail à la leçon 6 : pour l'instant, apprends-la comme une formule."
+   ],
+   "tableau": {
+    "entetes": ["Pays", "Nationalité", "Phrase"],
+    "lignes": [
+     ["France", "French", "I'm from France. I'm French."],
+     ["Belgium", "Belgian", "She's from Belgium. She's Belgian."],
+     ["Canada", "Canadian", "We're from Canada. We're Canadian."],
+     ["Cameroon", "Cameroonian", "He's from Cameroon. He's Cameroonian."],
+     ["Switzerland", "Swiss", "I'm from Switzerland. I'm Swiss."],
+     ["the United Kingdom (the UK)", "British", "They're from the UK. They're British."],
+     ["the United States (the USA)", "American", "Are you from the USA? Are you American?"]
+    ]
+   },
+   "exemples": [
+    ["I'm from Lyon, but I live in Brussels.", "Je viens de Lyon, mais j'habite à Bruxelles."],
+    ["Where are you from? — I'm from Montréal.", "D'où viens-tu ? — De Montréal."]
+   ],
+   "note": "Quelques pays prennent « the » : the UK, the USA, the Netherlands, the Philippines. Les autres n'en prennent pas : on dit « I'm from France », jamais « from the France »."
+  },
+  {
+   "titre": "Le métier et l'âge",
+   "texte": [
+    "Pour le métier, on dit « I'm a / an + métier » : l'article a (devant un son consonne) ou an (devant un son voyelle) est obligatoire. On peut aussi dire « I work in + secteur » (I work in IT, I work in a bank) ou « I'm a student ».",
+    "La question naturelle pour demander le métier est « What do you do? » (littéralement « Qu'est-ce que tu fais ? »). On ne répond pas avec ce que l'on fait aujourd'hui, mais avec son métier.",
+    "Pour l'âge, on dit « I'm 25 » ou « I'm 25 years old », jamais avec « have ». La question est « How old are you? ». Entre adultes qui ne se connaissent pas, demander l'âge peut sembler indiscret."
+   ],
+   "exemples": [
+    ["I'm an engineer.", "Je suis ingénieur (an devant le son voyelle de « engineer »)."],
+    ["I'm a nurse. I work in a hospital.", "Je suis infirmière. Je travaille dans un hôpital."],
+    ["What do you do? — I'm an accountant.", "Que fais-tu dans la vie ? — Je suis comptable."],
+    ["How old are you? — I'm nineteen.", "Quel âge as-tu ? — J'ai dix-neuf ans."]
+   ]
+  },
+  {
+   "titre": "Réagir et présenter quelqu'un",
+   "texte": [
+    "Quand on vous présente une personne, on répond « Nice to meet you » (Enchanté). L'autre répond « Nice to meet you too » ou « You too ». Dans un cadre très formel, on entend « Pleased to meet you » et, rarement, « How do you do? », à quoi on répond aussi « How do you do? ».",
+    "Pour présenter quelqu'un, on dit « This is + nom » et non « He is » : This is my colleague, Ana. Pour se présenter soi-même au téléphone, on dit aussi « This is Paul » ou « It's Paul »."
+   ],
+   "exemples": [
+    ["Sophie, this is Marc. Marc, this is Sophie.", "Sophie, je te présente Marc. Marc, voici Sophie."],
+    ["Nice to meet you. — Nice to meet you too.", "Enchanté. — Moi de même."],
+    ["Let me introduce myself: I'm Dr Nkemba.", "Permettez-moi de me présenter : je suis le docteur Nkemba (formel)."]
+   ]
+  }
+ ],
+ "formule": "Hello, I'm + nom. I'm from + pays. I'm a / an + métier. I'm + âge. Nice to meet you.",
+ "prononciation": [
+  "« Nice to meet you » se dit d'un seul souffle : « to » devient faible /tə/ et « meet you » se lie souvent en /miːtʃuː/.",
+  "« What's your name? » : intonation descendante à la fin, car c'est une question en Wh-. « Are you French? » (réponse oui / non) : intonation montante.",
+  "Les nationalités ont un accent tonique fixe : CAnadian /kəˈneɪdiən/ (accent sur NA), BELgian /ˈbeldʒən/, JaPANese /ˌdʒæpəˈniːz/, CameROOnian /ˌkæməˈruːniən/.",
+  "« Hello » se prononce /həˈləʊ/ : le h est soufflé, comme quand on souffle sur une vitre. Ne le supprime pas.",
+  "Dans « I'm from France », « from » est faible : /frəm/, et non /frɒm/."
+ ],
+ "erreurs": [
+  ["I call myself Lucas.", "I'm Lucas. / My name is Lucas.", "Traduction mot à mot de « je m'appelle » : l'anglais utilise « to be » ou « my name is »."],
+  ["I'm french.", "I'm French.", "Les nationalités prennent une majuscule en anglais."],
+  ["I'm engineer.", "I'm an engineer.", "Devant un métier au singulier, l'article a / an est obligatoire."],
+  ["I have 30 years.", "I'm 30.", "L'âge se dit avec « to be »."],
+  ["Good night! (en arrivant le soir)", "Good evening!", "« Good night » sert seulement à prendre congé ou avant de dormir."],
+  ["I'm from the France.", "I'm from France.", "Pas d'article devant la plupart des noms de pays."],
+  ["He is my friend Paul. (pour présenter)", "This is my friend Paul.", "Pour présenter quelqu'un, on dit « This is… »."]
+ ],
+ "dialogue": {
+  "contexte": "Lors d'une conférence à Montréal, deux participants se rencontrent à la pause café.",
+  "lignes": [
+   ["Julie", "Hi! I'm Julie. Nice to meet you.", "Bonjour ! Je suis Julie. Enchantée."],
+   ["Samuel", "Nice to meet you too. I'm Samuel. Where are you from, Julie?", "Enchanté. Je suis Samuel. D'où venez-vous, Julie ?"],
+   ["Julie", "I'm from Belgium, from Liège. And you?", "Je viens de Belgique, de Liège. Et vous ?"],
+   ["Samuel", "I'm Cameroonian, but I live in Montréal now.", "Je suis camerounais, mais j'habite à Montréal maintenant."],
+   ["Julie", "Oh, nice! What do you do?", "Oh, sympa ! Que faites-vous dans la vie ?"],
+   ["Samuel", "I'm a software developer. And you?", "Je suis développeur. Et vous ?"],
+   ["Julie", "I'm an architect. Oh, this is my colleague, Tom.", "Je suis architecte. Oh, voici mon collègue, Tom."],
+   ["Tom", "Hello, Samuel. Pleased to meet you.", "Bonjour, Samuel. Ravi de vous rencontrer."]
+  ]
+ },
+ "mots": [
+  ["name", "What's your name?", "le nom (le prénom ou le nom complet)"],
+  ["surname", "My surname is Martin.", "le nom de famille (« last name » en américain)"],
+  ["nationality", "What's your nationality?", "la nationalité"],
+  ["country", "Canada is a big country.", "le pays"],
+  ["job", "I like my job.", "le travail, le métier"],
+  ["colleague", "This is my colleague, Ana.", "un ou une collègue"],
+  ["meet", "Nice to meet you.", "rencontrer, faire la connaissance de"],
+  ["live", "I live in Douala.", "habiter, vivre"],
+  ["introduce", "Let me introduce my friend Paul.", "présenter (une personne)"],
+  ["welcome", "Welcome to the team!", "bienvenue"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choisir la bonne salutation",
+   "consigne": "Choisis la salutation qui convient.",
+   "items": [
+    ["Tu arrives au bureau à 9 h : Good morning / Good night ?", "Good morning"],
+    ["Tu arrives à un dîner à 20 h : Good evening / Good night ?", "Good evening"],
+    ["Tu quittes tes amis à 23 h pour aller dormir : Good evening / Good night ?", "Good night"],
+    ["Tu rencontres quelqu'un pour la première fois : Nice to meet you / See you ?", "Nice to meet you"],
+    ["On te dit « How are you? » : Fine, thanks. And you? / I'm 25.", "Fine, thanks. And you?"]
+   ]
+  },
+  {
+   "titre": "2. Compléter la présentation",
+   "consigne": "Complète avec : I'm, from, a, an, live, name.",
+   "items": [
+    ["My ___ is Inès.", "name"],
+    ["___ 22 years old.", "I'm"],
+    ["I'm ___ Belgium.", "from"],
+    ["I ___ in Namur.", "live"],
+    ["I'm ___ student.", "a"],
+    ["My brother is ___ architect.", "an"]
+   ]
+  },
+  {
+   "titre": "3. Trouver la question",
+   "consigne": "Écris la question qui correspond à la réponse.",
+   "items": [
+    ["I'm Karim.", "What's your name?"],
+    ["I'm from Canada.", "Where are you from?"],
+    ["I'm a teacher.", "What do you do?"],
+    ["I'm 31.", "How old are you?"]
+   ]
+  },
+  {
+   "titre": "4. Traduire (attention aux pièges)",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Je m'appelle Paul et je suis français.", "My name is Paul and I'm French. / I'm Paul and I'm French."],
+    ["Elle est camerounaise ; elle habite à Yaoundé.", "She's Cameroonian; she lives in Yaoundé."],
+    ["Il est ingénieur.", "He's an engineer."],
+    ["J'ai 40 ans.", "I'm 40. / I'm 40 years old."],
+    ["Je te présente ma collègue, Léa.", "This is my colleague, Léa."]
+   ]
+  },
+  {
+   "titre": "5. À toi",
+   "consigne": "Présente-toi en cinq phrases : salutation, nom, pays ou ville, métier ou études, âge (si tu veux), et une phrase de politesse.",
+   "items": [
+    ["Exemple de réponse", "Hello! My name is Fatou Diallo. I'm from Senegal, but I live in Brussels. I'm a nurse. I'm 29. Nice to meet you!"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Se présenter : I'm Lucas / My name is Lucas, jamais « I call myself ».",
+  "Origine : I'm from + pays ; nationalité avec majuscule : I'm French, I'm Canadian.",
+  "Métier : I'm a / an + métier ; question : What do you do?",
+  "Âge : I'm 25 ; question : How old are you?",
+  "Nice to meet you → Nice to meet you too ; pour présenter : This is…",
+  "Good evening en arrivant le soir, Good night seulement en partant."
+ ],
+ "liens": [1, 4, 19, 23],
+ "refs": ["bc-be", "bc-a1a2"]
+}

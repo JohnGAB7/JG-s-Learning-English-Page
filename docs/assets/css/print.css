@@ -1,0 +1,49 @@
+/* JG's Learning English — Feuille d'impression
+   Chargée uniquement en media print. Objectif : chaque leçon imprime
+   comme une fiche propre : pas de nav, pas de pied de page bruyant,
+   corps en serif, formules bien détourées. Marges confortables.
+*/
+@page { margin: 18mm 14mm; }
+
+body {
+  background:var(--surface) !important;
+  color: #000 !important;
+  font: 11pt/1.45 "Fraunces", Georgia, "Times New Roman", serif !important;
+}
+
+.site-header,
+.footer,
+.lesson-aside,
+.theme-toggle,
+.skip-link,
+.video-section,
+.menu-toggle,
+.hero-actions,
+.breadcrumb,
+.catalog-tools,
+.jump-nav,
+.nav-links,
+.lang,
+script,
+noscript { display: none !important; }
+
+main, .container, .lesson-layout, .lesson-content { max-width: 100% !important; width: auto !important; padding: 0 !important; margin: 0 !important; grid-template-columns: 1fr !important; }
+
+h1, h2, h3 { color: #000 !important; page-break-after: avoid; break-after: avoid; }
+h1 { font-size: 20pt !important; margin: 0 0 8pt; }
+h2 { font-size: 15pt !important; margin: 16pt 0 6pt; border-top: 1px solid #999 !important; padding-top: 10pt; }
+h3 { font-size: 12pt !important; margin: 12pt 0 4pt; }
+
+p, li { max-width: none !important; font-size: 11pt !important; line-height: 1.5 !important; color: #000 !important; }
+a { color: #000 !important; text-decoration: none !important; }
+a[href^="http"]::after { content: " (" attr(href) ")"; font-size: .85em; color: #555; }
+
+.lesson-opener { font-size: 13pt !important; color: #333 !important; font-style: italic; }
+.lesson-takeaway { border: 1px solid #000 !important; padding: 10pt !important; margin: 14pt 0 !important; background: #fafafa !important; page-break-inside: avoid; }
+.lesson-takeaway strong { font-size: 9pt !important; letter-spacing: .08em; }
+.lesson-takeaway p { font-size: 12pt !important; font-style: italic; }
+
+.formula, .notice, .courbe-figure { border: 1px solid #999 !important; background: #fafafa !important; padding: 8pt !important; margin: 10pt 0 !important; page-break-inside: avoid; }
+.courbe-svg { max-width: 100% !important; }
+
+.lesson-meta { border: none !important; padding: 0 !important; font-size: 9pt !important; color: #555 !important; }

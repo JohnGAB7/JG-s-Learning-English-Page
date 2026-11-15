@@ -1,0 +1,214 @@
+{
+"n": 27,
+"niveau": "A1",
+"titre": "La maison et les pièces",
+"intro": "Décrire son logement sert pour se présenter, chercher un appartement, inviter quelqu’un ou expliquer où se trouve un objet. Cette leçon donne les pièces, les meubles et les phrases pour décrire une maison, avec les pièges des étages et de « at home ».",
+"objectifs": [
+ "Nommer les types de logement, les pièces et les meubles courants.",
+ "Décrire son logement avec there is / there are, have got et des adjectifs.",
+ "Utiliser correctement les étages (ground floor, first floor) et upstairs / downstairs.",
+ "Employer « at home » et « go home » sans erreur."
+],
+"sections": [
+ {
+  "titre": "Les logements et les étages",
+  "texte": [
+   "Un appartement se dit « a flat » en anglais britannique et « an apartment » en anglais américain et canadien. « A house » est une maison ; « a studio » (GB aussi « studio flat ») est un studio.",
+   "Les étages : en anglais britannique, le rez-de-chaussée est « the ground floor » et le premier étage est « the first floor », comme en français. En anglais américain, le rez-de-chaussée est « the first floor » ! On utilise la préposition « on » : « on the second floor ».",
+   "« Upstairs » = en haut, à l’étage ; « downstairs » = en bas, au rez-de-chaussée. Ces mots s’utilisent sans préposition : « The bedrooms are upstairs. »"
+  ],
+  "tableau": {
+   "entetes": ["Français", "Anglais britannique", "Anglais américain"],
+   "lignes": [
+    ["un appartement", "a flat", "an apartment"],
+    ["le rez-de-chaussée", "the ground floor", "the first floor"],
+    ["le premier étage", "the first floor", "the second floor"],
+    ["le sous-sol", "the basement", "the basement"],
+    ["l’ascenseur", "the lift", "the elevator"]
+   ]
+  },
+  "exemples": [
+   ["I live in a flat on the fourth floor.", "J’habite dans un appartement au quatrième étage (GB)."],
+   ["The bathroom is upstairs.", "La salle de bains est à l’étage."]
+  ]
+ },
+ {
+  "titre": "Les pièces",
+  "texte": [
+   "Les noms de pièces sont souvent des mots composés : bed + room = bedroom, bath + room = bathroom. On dit « in the kitchen », « in the living room » (dans la pièce).",
+   "« Toilet » désigne les toilettes chez soi (GB : « the toilet » ou « the loo » familier). Dans un lieu public, on dit « the toilets » ou « the ladies / the gents » (GB) et « the restroom » (US). « Bathroom » est la salle de bains ; les Américains l’utilisent aussi pour les toilettes."
+  ],
+  "tableau": {
+   "entetes": ["Anglais", "Français", "On y…"],
+   "lignes": [
+    ["the living room (GB aussi sitting room, lounge)", "le salon, le séjour", "regarde la télé, reçoit des amis"],
+    ["the kitchen", "la cuisine", "cuisine"],
+    ["the dining room", "la salle à manger", "mange"],
+    ["the bedroom", "la chambre", "dort"],
+    ["the bathroom", "la salle de bains", "se lave"],
+    ["the toilet", "les toilettes", "—"],
+    ["the hall", "l’entrée, le couloir", "entre"],
+    ["the garden (US yard)", "le jardin", "plante des fleurs, joue dehors"],
+    ["the garage", "le garage", "gare la voiture"],
+    ["the balcony", "le balcon", "prend l’air"]
+   ]
+  },
+  "exemples": [
+   ["The children are in the garden.", "Les enfants sont dans le jardin."],
+   ["Our flat has got two bedrooms and a small kitchen.", "Notre appartement a deux chambres et une petite cuisine."]
+  ],
+  "note": "Faux amis : « a cave » est une grotte ; la cave d’une maison se dit « the cellar » (ou « the basement » pour un sous-sol aménagé). « Chamber » ne s’emploie pas pour une chambre : dites « bedroom »."
+ },
+ {
+  "titre": "Les meubles et les équipements",
+  "texte": [
+   "« Furniture » (les meubles) est indénombrable : « There's a lot of furniture. » Pour un seul meuble, on dit « a piece of furniture ».",
+   "« Cupboard » est un placard (cuisine) ; « wardrobe » est une armoire pour les vêtements (US : « closet »)."
+  ],
+  "tableau": {
+   "entetes": ["Pièce", "Meubles et équipements", "Français"],
+   "lignes": [
+    ["living room", "a sofa · an armchair · a coffee table · a TV · a lamp · a carpet", "canapé · fauteuil · table basse · télé · lampe · tapis"],
+    ["kitchen", "a fridge · a cooker (US stove) · a sink · a cupboard · a table", "réfrigérateur · cuisinière · évier · placard · table"],
+    ["bedroom", "a bed · a wardrobe · a desk · a mirror · a chair", "lit · armoire · bureau · miroir · chaise"],
+    ["bathroom", "a shower · a bath (US bathtub) · a washbasin · a towel", "douche · baignoire · lavabo · serviette"]
+   ]
+  },
+  "exemples": [
+   ["There's a big sofa in the living room.", "Il y a un grand canapé dans le salon."],
+   ["The plates are in the cupboard next to the fridge.", "Les assiettes sont dans le placard à côté du frigo."]
+  ]
+ },
+ {
+  "titre": "Décrire son logement",
+  "texte": [
+   "Pour décrire, on combine plusieurs outils déjà vus : « there is / there are » (leçon 16), les prépositions de lieu (leçon 17) et « have got » (leçon 5).",
+   "Adjectifs utiles : big / small, bright (lumineux), dark (sombre), quiet (calme), noisy (bruyant), modern, old, comfortable, clean, tidy (rangé), messy (en désordre).",
+   "Pour louer : « rent » (le loyer ; louer), « a landlord / a landlady » (le propriétaire / la propriétaire), « a neighbour » (US neighbor) (un voisin)."
+  ],
+  "exemples": [
+   ["There are three bedrooms upstairs and there's a kitchen downstairs.", "Il y a trois chambres à l’étage et une cuisine en bas."],
+   ["My flat is small but very bright.", "Mon appartement est petit mais très lumineux."],
+   ["The rent is 750 euros a month.", "Le loyer est de 750 euros par mois."]
+  ]
+ },
+ {
+  "titre": "« At home », « go home »",
+  "texte": [
+   "« At home » = à la maison, chez soi : « I'm at home. » On ne dit pas « at the house » pour parler de chez soi.",
+   "Avec un verbe de mouvement, « home » s’utilise sans préposition : « go home », « come home », « get home » (rentrer, arriver chez soi). Jamais « go to home ».",
+   "Pour aller chez quelqu’un : « at Paul's » / « to Paul's » (chez Paul), ou « at Paul's house / flat »."
+  ],
+  "exemples": [
+   ["Are you at home tonight?", "Tu es chez toi ce soir ?"],
+   ["I go home at six o'clock.", "Je rentre à la maison à six heures."],
+   ["The party is at Julie's flat.", "La fête est chez Julie (dans son appartement)."]
+  ]
+ }
+],
+"formule": "There is / There are + pièce / meuble + lieu · on the first floor · upstairs / downstairs · at home, go home",
+"prononciation": [
+ "« cupboard » se dit /ˈkʌbəd/ : le p ne se prononce pas (« keu-bed »).",
+ "« comfortable » se dit en trois syllabes : /ˈkʌmftəbl/ (« keumf-te-bl »), avec l’accent au début.",
+ "« furniture » /ˈfɜːnɪtʃə/ : accent sur la première syllabe, « tch » à la fin.",
+ "Dans les mots composés, l’accent tombe sur le premier mot : BEDroom, BATHroom, LIVing room.",
+ "« kitchen » /ˈkɪtʃɪn/ : deux i courts, et le « tch » au milieu. Ne dites pas « kit-chène »."
+],
+"erreurs": [
+ ["I go to home.", "I go home.", "Pas de préposition entre un verbe de mouvement et « home »."],
+ ["I'm at the house tonight.", "I'm at home tonight.", "Chez soi = at home."],
+ ["There are many furnitures.", "There's a lot of furniture.", "« Furniture » est indénombrable."],
+ ["My flat is at the first floor.", "My flat is on the first floor.", "Avec un étage : « on »."],
+ ["I sleep in my chamber.", "I sleep in my bedroom.", "Une chambre à coucher = a bedroom."],
+ ["We keep the wine in the cave.", "We keep the wine in the cellar.", "Faux ami : a cave = une grotte."],
+ ["There is two bedrooms.", "There are two bedrooms.", "« There are » devant un pluriel."]
+],
+"dialogue": {
+ "contexte": "À Bruxelles, Yasmine visite un appartement à louer avec le propriétaire, M. Peeters.",
+ "lignes": [
+  ["Mr Peeters", "Welcome! The flat is on the third floor. There's a lift.", "Bienvenue ! L’appartement est au troisième étage. Il y a un ascenseur."],
+  ["Yasmine", "Great. How many bedrooms are there?", "Super. Il y a combien de chambres ?"],
+  ["Mr Peeters", "There are two bedrooms, and a bathroom with a shower.", "Il y a deux chambres et une salle de bains avec douche."],
+  ["Yasmine", "Oh, the living room is very bright! Is the furniture included?", "Oh, le salon est très lumineux ! Les meubles sont compris ?"],
+  ["Mr Peeters", "Yes: the sofa, the table, the beds and the wardrobes.", "Oui : le canapé, la table, les lits et les armoires."],
+  ["Yasmine", "And the kitchen? Is there a fridge?", "Et la cuisine ? Il y a un frigo ?"],
+  ["Mr Peeters", "Yes, there's a fridge and a new cooker. And there's a small balcony.", "Oui, il y a un frigo et une cuisinière neuve. Et il y a un petit balcon."],
+  ["Yasmine", "It's perfect. What's the rent?", "C’est parfait. Quel est le loyer ?"],
+  ["Mr Peeters", "Nine hundred euros a month.", "Neuf cents euros par mois."]
+ ]
+},
+"mots": [
+ ["flat", "I live in a small flat.", "un appartement (GB ; US : apartment)"],
+ ["kitchen", "The kitchen is next to the living room.", "la cuisine (la pièce)"],
+ ["bedroom", "My bedroom is upstairs.", "la chambre (à coucher)"],
+ ["bathroom", "The bathroom has a shower.", "la salle de bains"],
+ ["living room", "We watch TV in the living room.", "le salon, le séjour"],
+ ["floor", "We live on the second floor.", "l’étage ; le sol"],
+ ["furniture", "The furniture is modern.", "les meubles (indénombrable)"],
+ ["upstairs", "The children are upstairs.", "en haut, à l’étage"],
+ ["garden", "There are flowers in the garden.", "le jardin"],
+ ["rent", "The rent is high in Paris.", "le loyer ; louer"]
+],
+"exercices": [
+ {
+  "titre": "1. Quelle pièce ?",
+  "consigne": "Dans quelle pièce fait-on ces actions ?",
+  "items": [
+   ["You sleep here.", "the bedroom"],
+   ["You cook here.", "the kitchen"],
+   ["You have a shower here.", "the bathroom"],
+   ["You watch TV with your family here.", "the living room"],
+   ["You park the car here.", "the garage"],
+   ["You grow flowers here.", "the garden"]
+  ]
+ },
+ {
+  "titre": "2. Où est le meuble ?",
+  "consigne": "Dans quelle pièce trouve-t-on généralement ce meuble ?",
+  "items": [
+   ["a bed", "the bedroom"],
+   ["a fridge", "the kitchen"],
+   ["a sofa", "the living room"],
+   ["a shower", "the bathroom"]
+  ]
+ },
+ {
+  "titre": "3. There is ou there are ?",
+  "consigne": "Complète avec There's ou There are.",
+  "items": [
+   ["___ three bedrooms in the house.", "There are"],
+   ["___ a big kitchen.", "There's"],
+   ["___ a lot of furniture in the living room.", "There's"],
+   ["___ two bathrooms upstairs.", "There are"],
+   ["___ a small garden behind the house.", "There's"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je suis à la maison.", "I'm at home."],
+   ["Mon appartement est au rez-de-chaussée.", "My flat is on the ground floor. (US : My apartment is on the first floor.)"],
+   ["Il y a beaucoup de meubles.", "There's a lot of furniture."],
+   ["Je rentre à la maison à 18 heures.", "I go home at 6 p.m. / I go home at six o'clock."],
+   ["Les chambres sont à l’étage.", "The bedrooms are upstairs."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Décris ton logement en quatre ou cinq phrases : le type de logement, l’étage, les pièces, ta pièce préférée et ce qu’il y a dedans.",
+  "items": [
+   ["Exemple de réponse", "I live in a flat in Yaoundé. It's on the second floor. There are two bedrooms, a living room, a kitchen and a bathroom. My favourite room is the living room: it's bright and there's a big comfortable sofa. There's also a small balcony with plants."]
+  ]
+ }
+],
+"a_retenir": [
+ "flat (GB) / apartment (US) ; ground floor (GB) = rez-de-chaussée ; first floor (GB) = premier étage ; on the first floor.",
+ "Pièces : living room, kitchen, bedroom, bathroom, dining room, hall, garden.",
+ "« Furniture » est indénombrable : a lot of furniture, a piece of furniture.",
+ "at home (chez soi) ; go home, come home (sans « to »).",
+ "Pour décrire : There's a…, There are…, upstairs / downstairs, bright, quiet, comfortable."
+],
+"liens": [5, 16, 17, 30],
+"refs": ["bc-there", "bc-prep-place"]
+}

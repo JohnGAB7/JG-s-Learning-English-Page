@@ -1,0 +1,197 @@
+{
+"n": 114,
+"niveau": "B1",
+"titre": "Les questions indirectes (Could you tell me where…?)",
+"intro": "Les questions indirectes (« Could you tell me where the station is? ») sont plus polies que les questions directes (« Where is the station? »). Elles sont indispensables avec des inconnus, au travail, à la réception d'un hôtel ou au téléphone. Leur piège : l'ordre des mots redevient celui d'une phrase affirmative.",
+"objectifs": [
+"Transformer une question directe en question indirecte polie avec les principales formules d'introduction.",
+"Appliquer l'ordre sujet + verbe et supprimer do / does / did.",
+"Utiliser if / whether pour les questions fermées (oui / non).",
+"Choisir la bonne ponctuation et éviter les erreurs les plus fréquentes."
+],
+"sections": [
+{
+"titre": "Pourquoi et quand ?",
+"texte": [
+"Une question directe peut sembler abrupte quand on s'adresse à un inconnu ou à un client. En l'introduisant par une formule comme « Could you tell me… », « Do you know… » ou « I was wondering… », on la rend plus douce et plus polie.",
+"Les questions indirectes servent aussi à exprimer un doute ou une réflexion personnelle : « I wonder why she left » (je me demande pourquoi elle est partie)."
+],
+"tableau": {
+"entetes": ["Formule d'introduction", "Niveau de politesse", "Ponctuation finale"],
+"lignes": [
+["Do you know… ?", "neutre, courant", "?"],
+["Can / Could you tell me… ?", "poli", "?"],
+["Do you have any idea… ?", "neutre, un peu familier", "?"],
+["Would you mind telling me… ?", "très poli", "?"],
+["I'd like to know…", "poli, direct", "."],
+["I was wondering… / I wonder…", "très poli / réflexion", "."]
+]
+}
+},
+{
+"titre": "La règle d'ordre des mots",
+"texte": [
+"Dans la partie indirecte, on n'inverse plus le sujet et le verbe : on revient à l'ordre sujet + verbe, comme dans une phrase affirmative. Le mot interrogatif (where, when, why, how much…) reste en tête de cette partie.",
+"Avec be et les modaux (can, will, should…), il suffit de remettre le sujet avant le verbe. C'est l'erreur la plus fréquente : « Could you tell me where is the station? » est incorrect."
+],
+"tableau": {
+"entetes": ["Question directe", "Question indirecte"],
+"lignes": [
+["Where is the station?", "Could you tell me where the station is?"],
+["What time does the shop open?", "Do you know what time the shop opens?"],
+["How much did it cost?", "Can you tell me how much it cost?"],
+["When will the results be ready?", "Do you know when the results will be ready?"],
+["Why can't we park here?", "Could you explain why we can't park here?"]
+]
+}
+},
+{
+"titre": "Supprimer do, does, did",
+"texte": [
+"Dans une question directe au présent simple ou au prétérit, on utilise do / does / did. Dans la question indirecte, ces auxiliaires disparaissent, et le verbe reprend sa forme normale : -s à la 3e personne, ou prétérit.",
+"Pour ne pas se tromper : imagine la réponse affirmative (« The shop opens at nine ») et place-la après le mot interrogatif."
+],
+"exemples": [
+["Where does she work? → Do you know where she works?", "Où travaille-t-elle ? → Sais-tu où elle travaille ? (does disparaît, -s revient)"],
+["What did he say? → Can you tell me what he said?", "Qu'a-t-il dit ? → Peux-tu me dire ce qu'il a dit ?"],
+["How do I get to the airport? → Could you tell me how I get to the airport?", "Comment aller à l'aéroport ? (on dit aussi : how to get to the airport)"]
+]
+},
+{
+"titre": "Questions fermées : if ou whether",
+"texte": [
+"Quand la question directe attend une réponse oui / non (Is…? Do…? Can…?), il n'y a pas de mot interrogatif : on utilise « if » ou « whether » (si). « Whether » est un peu plus formel et s'utilise volontiers avec « or not ».",
+"Ne pas confondre ce « if » (si = est-ce que) avec le « if » de condition."
+],
+"exemples": [
+["Is the museum open on Monday? → Do you know if the museum is open on Monday?", "Savez-vous si le musée est ouvert le lundi ?"],
+["Can I pay by card? → Could you tell me whether I can pay by card?", "Pourriez-vous me dire si je peux payer par carte ?"],
+["Did they receive my email? → I'd like to know if they received my email.", "J'aimerais savoir s'ils ont reçu mon e-mail."]
+]
+},
+{
+"titre": "Cas particuliers",
+"texte": [
+"Questions sur le sujet (who, what, which + verbe) : l'ordre ne change pas, car le mot interrogatif est déjà le sujet. « Who called? → Do you know who called? ».",
+"Avec « I was wondering if you could… », on fait une demande très polie, surtout à l'écrit : « I was wondering if you could send me the brochure ». Après un verbe d'introduction au passé (I was wondering, I asked), on peut garder le présent quand la situation est toujours vraie.",
+"Les questions indirectes ressemblent au discours indirect (leçon 105), mais ici on pose réellement une question : il n'y a pas de concordance des temps après « Do you know… » ou « Could you tell me… »."
+],
+"exemples": [
+["Who won the match? → Do you know who won the match?", "Sujet : ordre inchangé."],
+["I was wondering if you could help me with this form.", "Je me demandais si vous pourriez m'aider avec ce formulaire (demande très polie)."]
+]
+}
+],
+"formule": "Could you tell me / Do you know + mot interrogatif (ou if / whether) + sujet + verbe … ?",
+"prononciation": [
+"Dans « Could you tell me », « could you » se prononce souvent /ˈkʊdʒuː/ et « tell me » est lié : /ˈtel mi/.",
+"Dans « Do you know », « do you » se réduit à /djə/ : /djə ˈnəʊ/ à l'oral rapide.",
+"Une question indirecte introduite par Do you know / Could you tell me garde généralement une intonation montante à la fin, comme une question fermée.",
+"Avec « I wonder… » ou « I'd like to know… », l'intonation descend : ce sont des affirmations.",
+"« whether » se prononce comme « weather » : /ˈweðə/ (GB)."
+],
+"erreurs": [
+["Could you tell me where is the bank?", "Could you tell me where the bank is?", "Ordre sujet + verbe dans la partie indirecte."],
+["Do you know what time does the train leave?", "Do you know what time the train leaves?", "Supprimer does et remettre le -s."],
+["Can you tell me what did she say?", "Can you tell me what she said?", "Supprimer did et mettre le verbe au prétérit."],
+["Do you know is the pharmacy open?", "Do you know if the pharmacy is open?", "Question fermée : if / whether."],
+["I wonder why is he late?", "I wonder why he is late.", "Ordre affirmatif et point final (ce n'est pas une question)."],
+["Could you tell me where can I park?", "Could you tell me where I can park?", "Avec un modal : sujet avant le modal."],
+["I'd like to know if is it possible.", "I'd like to know if it is possible.", "Après if : sujet + verbe."]
+],
+"dialogue": {
+"contexte": "Mariam, qui vient d'arriver à Toronto pour un stage, appelle la résidence universitaire où elle va loger.",
+"lignes": [
+["Receptionist", "Good morning, Maple Residence. How can I help you?", "Bonjour, résidence Maple. Que puis-je faire pour vous ?"],
+["Mariam", "Hello. I'm arriving tomorrow and I was wondering if I could check in after 10 p.m.", "Bonjour. J'arrive demain et je me demandais si je pouvais m'enregistrer après 22 h."],
+["Receptionist", "Yes, that's fine. The night porter is here until 2 a.m.", "Oui, pas de problème. Le gardien de nuit est là jusqu'à 2 h."],
+["Mariam", "Great. Could you tell me how I get there from the airport?", "Super. Pourriez-vous me dire comment y aller depuis l'aéroport ?"],
+["Receptionist", "Take the UP Express to Union Station, then the subway to Spadina.", "Prenez l'UP Express jusqu'à Union Station, puis le métro jusqu'à Spadina."],
+["Mariam", "Thank you. Do you know how much the train costs?", "Merci. Savez-vous combien coûte le train ?"],
+["Receptionist", "I'm not sure exactly how much it is now, but you can check on their website.", "Je ne sais pas exactement combien il coûte en ce moment, mais vous pouvez vérifier sur leur site."],
+["Mariam", "OK. And one last thing: do you know whether the rooms have Wi-Fi?", "D'accord. Une dernière chose : savez-vous si les chambres ont le Wi-Fi ?"],
+["Receptionist", "Yes, they all do. The password is on your key card.", "Oui, toutes. Le mot de passe est sur votre carte-clé."]
+]
+},
+"mots": [
+["wonder", "I wonder where my keys are.", "se demander"],
+["whether", "I don't know whether he's coming.", "si (au sens de « est-ce que »)"],
+["idea", "Do you have any idea what time it is?", "une idée"],
+["explain", "Could you explain why it's closed?", "expliquer"],
+["check in", "What time can I check in?", "s'enregistrer (hôtel, aéroport)"],
+["directions", "Could you give me directions to the station?", "les indications (pour trouver son chemin)"],
+["reception", "Ask at reception.", "la réception, l'accueil"],
+["available", "Do you know if the manager is available?", "disponible"],
+["refund", "I'd like to know if I can get a refund.", "un remboursement"],
+["exactly", "I don't know exactly what he wants.", "exactement"]
+],
+"exercices": [
+{
+"titre": "1. Correct ou incorrect ?",
+"consigne": "Indique si la question indirecte est correcte (C) ou incorrecte (I).",
+"items": [
+["Do you know where the toilets are?", "C"],
+["Could you tell me what time does it start?", "I (what time it starts)"],
+["I wonder if she's coming.", "C"],
+["Can you tell me where can I buy a ticket?", "I (where I can buy)"]
+]
+},
+{
+"titre": "2. Transformer",
+"consigne": "Transforme la question directe en question indirecte avec la formule donnée.",
+"items": [
+["Where is the post office? (Could you tell me…)", "Could you tell me where the post office is?"],
+["What time does the bank close? (Do you know…)", "Do you know what time the bank closes?"],
+["How much did the tickets cost? (Can you tell me…)", "Can you tell me how much the tickets cost?"],
+["Why is the flight delayed? (I'd like to know…)", "I'd like to know why the flight is delayed."],
+["When will the doctor arrive? (Do you have any idea…)", "Do you have any idea when the doctor will arrive?"],
+["Who is the manager? (Do you know…)", "Do you know who the manager is?"]
+]
+},
+{
+"titre": "3. Questions oui / non",
+"consigne": "Transforme avec if ou whether.",
+"items": [
+["Is breakfast included? (Do you know…)", "Do you know if breakfast is included?"],
+["Can I change my seat? (Could you tell me…)", "Could you tell me whether I can change my seat?"],
+["Did the parcel arrive? (I was wondering…)", "I was wondering if the parcel arrived / had arrived."],
+["Does this bus go to the city centre? (Do you know…)", "Do you know if this bus goes to the city centre?"]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["Do you know where does Paul live?", "Do you know where Paul lives?"],
+["I wonder what is he doing.", "I wonder what he is doing."],
+["Could you tell me is there a pharmacy near here?", "Could you tell me if there is a pharmacy near here?"],
+["Can you tell me what did the doctor say?", "Can you tell me what the doctor said?"]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais avec une question indirecte polie.",
+"items": [
+["Pourriez-vous me dire où se trouve la gare ?", "Could you tell me where the station is?"],
+["Savez-vous si le magasin est ouvert dimanche ?", "Do you know if the shop is open on Sunday?"],
+["Je me demande pourquoi il n'a pas répondu.", "I wonder why he didn't answer / reply."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Tu prépares un voyage à Bruxelles. Écris un court e-mail (4 à 5 phrases) à un hôtel avec au moins quatre questions indirectes différentes.",
+"items": [
+["Exemple de réponse", "Dear Sir or Madam, I have a reservation from 3 to 6 May. I was wondering if I could check in early, around 10 a.m. Could you tell me how I can get to the hotel from Brussels-Midi station? I'd also like to know whether breakfast is included in the price. Finally, do you know if there is a pharmacy near the hotel? Kind regards, Claire Mballa"]
+]
+}
+],
+"a_retenir": [
+"Question indirecte = formule polie + mot interrogatif + sujet + verbe (Could you tell me where the station is?).",
+"Pas de do / does / did : Do you know what time the shop opens?",
+"Questions oui / non : if ou whether (Do you know if it's open?).",
+"Point d'interrogation seulement si la formule est une question (Do you know…?) ; point avec I wonder / I'd like to know.",
+"Questions sujet (who called?) : ordre inchangé."
+],
+"liens": [29, 57, 68, 105, 142],
+"refs": ["bc-reported-q", "bc-questions"]
+}

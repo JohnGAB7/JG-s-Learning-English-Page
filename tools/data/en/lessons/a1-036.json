@@ -1,0 +1,188 @@
+{
+"n": 36,
+"niveau": "A1",
+"titre": "Linking words: and, but, because",
+"intro": "Linking words join ideas and turn a list of short sentences into real speech. “And” adds, “but” shows a contrast, “because” gives a reason, and “or” gives a choice. Using them well makes your English smoother and more natural.",
+"objectifs": [
+ "Join two ideas with and (adding), but (contrast) and because (reason).",
+ "Use or for a choice and in negative sentences.",
+ "Write a correct list (A, B and C) with commas.",
+ "Know the difference between because (+ subject + verb) and because of (+ noun)."
+],
+"sections": [
+ {
+  "titre": "And: adding",
+  "texte": [
+   "“And” adds information. It joins two words, two groups or two sentences: “bread and butter”, “I get up and I have a shower”.",
+   "When the subject is the same, you don't need to repeat it: “I get up and have a shower.”",
+   "In a list, separate the items with commas and put “and” before the last one: “I speak French, English and Ewondo.” In American English, people often put a comma before “and” too (“French, English, and Ewondo”): this is the “Oxford comma”."
+  ],
+  "exemples": [
+   ["My sister is a nurse and my brother is a teacher.", "Two sentences joined."],
+   ["I buy tomatoes, onions and rice.", "A list."],
+   ["She finishes work and goes to the gym.", "Same subject, not repeated."]
+  ]
+ },
+ {
+  "titre": "But: contrast",
+  "texte": [
+   "“But” shows a contrast or a surprise. We often put a comma before “but” when it joins two full sentences: “The hotel is small, but it's very nice.”",
+   "Don't use “but” when there is no contrast: “I like cats and I like dogs too.” (not “but”).",
+   "In more formal English, you will later use “however” and “although” (lesson 118)."
+  ],
+  "exemples": [
+   ["I like my job, but it's very tiring.", "Positive + negative."],
+   ["The flat is small but bright.", "Two adjectives in contrast."],
+   ["He can speak English, but he can't write it.", "can + can't."]
+  ]
+ },
+ {
+  "titre": "Because: giving a reason",
+  "texte": [
+   "“Because” gives a reason. It is followed by a subject and a verb: “I'm tired because I work at night.” It is the natural answer to “Why?”.",
+   "“Because of” is followed by a noun: “The train is late because of the snow.” Compare: “because it's snowing” / “because of the snow”.",
+   "In speech, you can answer “Because I'm tired.” alone. In writing, don't write a sentence that starts with “Because” and has no main part; write “I'm staying at home because I'm tired.” or “Because I'm tired, I'm staying at home.”"
+  ],
+  "tableau": {
+   "entetes": ["Structure", "Example", "Note"],
+   "lignes": [
+    ["because + subject + verb", "because it's raining", "a full sentence after it"],
+    ["because of + noun", "because of the rain", "only a noun after it"],
+    ["Why…? — Because…", "Why are you late? — Because the bus is late.", "question and answer"]
+   ]
+  },
+  "exemples": [
+   ["I'm learning English because I want to work in Canada.", "because + subject + verb."],
+   ["We're staying at home because of the storm.", "because of + noun."]
+  ],
+  "note": "In informal speech, “because” often becomes “'cause” or “cos” /kəz/. Don't write it in a formal text."
+ },
+ {
+  "titre": "Or: choosing… and negatives",
+  "texte": [
+   "“Or” gives a choice: “Tea or coffee?”, “We can walk or take a taxi.”",
+   "In a negative sentence, English uses “or”, not “and”: “I don't like tea or coffee.” (I don't like either of them.) “I don't like tea and coffee” sounds wrong or changes the meaning.",
+   "For the opposite of “because” (the result), use “so”: “It's raining, so I'm taking an umbrella.” Lesson 75 looks at so, then, after that."
+  ],
+  "exemples": [
+   ["Do you want to stay here or go out?", "A choice."],
+   ["She doesn't eat meat or fish.", "Negative: or."],
+   ["I'm hungry, so let's eat.", "so = the result."]
+  ]
+ },
+ {
+  "titre": "Making longer sentences",
+  "texte": [
+   "With these words you go from very short sentences (“I live in Liège. I like it. It's rainy.”) to more natural speech: “I live in Liège and I like it, but it's often rainy.”",
+   "But don't make very long sentences with five “and”s: in writing, two clear sentences are better."
+  ],
+  "exemples": [
+   ["I love Brussels because it's international, but the weather isn't great.", "because + but in one sentence."],
+   ["We can go to the beach or visit the museum, and then have dinner.", "or + and."]
+  ]
+ }
+],
+"formule": "A and B (adding) · A, but B (contrast) · A because B (reason) · A or B (choice; negatives)",
+"prononciation": [
+ "“and” is almost always weak: /ən/ or even /n/. “fish and chips” = /ˌfɪʃ n ˈtʃɪps/, “rock and roll” = “rock'n'roll”.",
+ "“but” is weak in the middle of a sentence: /bət/. It is strong /bʌt/ when you want to stress it.",
+ "“because” is /bɪˈkɒz/ (UK) or /bɪˈkʌz/ (US), with the stress on the second syllable. In fast speech: /kəz/.",
+ "In a list, the voice goes up on each item and down on the last: “tomatoes ↗, onions ↗ and rice ↘”.",
+ "In a choice question, the voice goes up on the first choice and down on the second: “Tea ↗ or coffee ↘?”."
+],
+"erreurs": [
+ ["I don't like tea and coffee.", "I don't like tea or coffee.", "In a negative sentence: “or”."],
+ ["I'm late because the traffic.", "I'm late because of the traffic.", "Before a noun: “because of”."],
+ ["I'm tired because of I work a lot.", "I'm tired because I work a lot.", "Before subject + verb: “because”."],
+ ["I like cats but I like dogs too.", "I like cats and I like dogs too.", "No contrast: “and”."],
+ ["Do you want tea and coffee? (a choice)", "Do you want tea or coffee?", "For a choice: “or”."],
+ ["She speaks English, French, Spanish.", "She speaks English, French and Spanish.", "“and” before the last item in a list."],
+ ["Because I'm ill. (alone, in an email)", "I can't come to work today because I'm ill.", "In writing, “because” needs a main part."]
+],
+"dialogue": {
+ "contexte": "In Abidjan, Koffi phones his friend Mariam to plan the weekend.",
+ "lignes": [
+  ["Koffi", "Hi Mariam! Are you free on Saturday?", "free = not busy."],
+  ["Mariam", "In the morning, no, because I work. But I'm free in the afternoon.", "because = reason; but = contrast."],
+  ["Koffi", "Great! We can go to the beach or watch a film.", "or = choice."],
+  ["Mariam", "The beach! I love the sea and it's very hot this week.", "and = adding."],
+  ["Koffi", "OK. Let's take the bus, because my car is at the garage.", "because = reason."],
+  ["Mariam", "No problem. Can I bring my sister? She's on holiday and she's bored.", "bored = with nothing to do."],
+  ["Koffi", "Of course! But she doesn't swim, right?", "“right?” = is that true?"],
+  ["Mariam", "No, she can't swim, but she loves sitting in the sun and reading.", "but + and."]
+ ]
+},
+"mots": [
+ ["and", "I like tea and coffee.", "used to join words or ideas"],
+ ["but", "It's small but nice.", "used to show a contrast"],
+ ["because", "I'm happy because it's Friday.", "used to give a reason"],
+ ["or", "Tea or coffee?", "used to show a choice"],
+ ["so", "It's late, so I'm going home.", "used to show a result"],
+ ["reason", "What's the reason?", "why something happens"],
+ ["also", "She also speaks German.", "as well (before the main verb)"],
+ ["too", "I'm hungry too.", "as well (at the end of a sentence)"],
+ ["explain", "Can you explain why?", "make something clear"]
+],
+"exercices": [
+ {
+  "titre": "1. And, but or because?",
+  "consigne": "Complete with and, but or because.",
+  "items": [
+   ["I'm hungry ___ I want a sandwich.", "and"],
+   ["The film is long ___ it's very good.", "but"],
+   ["She's tired ___ she works at night.", "because"],
+   ["I've got a brother ___ two sisters.", "and"],
+   ["I can't come ___ I'm ill.", "because"],
+   ["He's rich ___ he isn't happy.", "but"]
+  ]
+ },
+ {
+  "titre": "2. And or or?",
+  "consigne": "Complete with and or or.",
+  "items": [
+   ["Do you want rice ___ pasta? (a choice)", "or"],
+   ["I don't like tea ___ coffee.", "or"],
+   ["I buy bread, eggs ___ milk.", "and"],
+   ["We can walk ___ take a taxi.", "or"]
+  ]
+ },
+ {
+  "titre": "3. Join the sentences",
+  "consigne": "Make one sentence with and, but or because.",
+  "items": [
+   ["I'm hungry. I want a sandwich.", "I'm hungry and I want a sandwich."],
+   ["I like Lyon. It's expensive.", "I like Lyon, but it's expensive."],
+   ["She's tired. She works at night.", "She's tired because she works at night."],
+   ["He speaks French. He speaks English.", "He speaks French and English."],
+   ["The shop is closed. It's Sunday.", "The shop is closed because it's Sunday."]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I don't like tea and coffee.", "I don't like tea or coffee."],
+   ["The train is late because the snow.", "The train is late because of the snow."],
+   ["I'm learning English because of I want to travel.", "I'm learning English because I want to travel."],
+   ["The hotel is small and comfortable but cheap and nice.", "The hotel is small but comfortable. (or: The hotel is small, cheap and comfortable.)"],
+   ["Do you want juice and water? (a choice)", "Do you want juice or water? / Would you like juice or water?"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Write four or five sentences about your town or your job. Use and, but, because and or at least once.",
+  "items": [
+   ["Model answer", "I live in Douala and I work in a bank. I like my job because my colleagues are friendly, but the days are long. After work I go to the gym or I visit my parents. I'm learning English because I want a job in Canada."]
+  ]
+ }
+],
+"a_retenir": [
+ "and = adding; in a list: A, B and C.",
+ "but = contrast (often with a comma before it); no “but” without a contrast.",
+ "because + subject + verb (because it's raining); because of + noun (because of the rain).",
+ "or = choice; in a negative sentence: I don't like tea or coffee.",
+ "so = result (It's late, so I'm going home)."
+],
+"liens": [29, 75, 118, 119],
+"refs": ["cam-sentences", "bc-a1a2"]
+}

@@ -1,0 +1,202 @@
+{
+ "n": 69,
+ "niveau": "A2",
+ "titre": "Question tags (isn’t it?, don’t you?)",
+ "intro": "To check information or to invite someone to agree, English adds a “question tag” at the end of a sentence: It's cold, isn't it? You like jazz, don't you? The difficulty is that the tag changes with every sentence: it repeats the auxiliary and the subject. Many learners say “isn't it?” everywhere. This lesson teaches you to choose the right tag.",
+ "objectifs": [
+  "Make a tag with the auxiliary of the sentence + a subject pronoun (isn't it?, can you?, didn't she?).",
+  "Apply the rule: positive sentence → negative tag; negative sentence → positive tag.",
+  "Use do / does / did in the tag when the sentence has no auxiliary.",
+  "Understand intonation: a falling tag (I'm checking) or a rising tag (a real question)."
+ ],
+ "sections": [
+  {
+   "titre": "The idea: auxiliary + pronoun",
+   "texte": [
+    "A tag has two words: the auxiliary (or be, or the modal verb) of the sentence + the matching subject pronoun. You are tired, aren't you? She can swim, can't she?",
+    "Always use a pronoun in the tag, never the noun: Paul is late, isn't he? (not “isn't Paul?”). For this / that, use it: That's your car, isn't it?",
+    "Basic rule: if the sentence is positive, the tag is negative (with a contraction). If the sentence is negative, the tag is positive."
+   ],
+   "tableau": {
+    "entetes": ["Sentence", "Tag", "Rule"],
+    "lignes": [
+     ["It's hot,", "isn't it?", "positive → negative tag"],
+     ["It isn't hot,", "is it?", "negative → positive tag"],
+     ["You can drive,", "can't you?", "same modal"],
+     ["They were at home,", "weren't they?", "same past of be"],
+     ["She won't come,", "will she?", "won't → will"]
+    ]
+   },
+   "exemples": [
+    ["The weather is lovely today, isn't it?", "be in the present."],
+    ["You aren't from Lyon, are you?", "Negative sentence → positive tag."],
+    ["We should leave now, shouldn't we?", "Modal should."]
+   ]
+  },
+  {
+   "titre": "No auxiliary: do, does, did",
+   "texte": [
+    "When the sentence is in the present simple or past simple with no auxiliary, the tag uses do, does or did, as in a question: You live here, don't you? He works in Douala, doesn't he? They arrived yesterday, didn't they?",
+    "In negative sentences, the auxiliary is already there: You don't eat meat, do you? She didn't call, did she?",
+    "Be careful: have (possession) in the present also takes do: You have a car, don't you? But have got takes have: You've got a car, haven't you?"
+   ],
+   "exemples": [
+    ["You speak Spanish, don't you?", "Present simple → don't."],
+    ["Your sister lives in Québec, doesn't she?", "he / she / it → doesn't."],
+    ["You saw the film, didn't you?", "Past simple → didn't."],
+    ["He doesn't like football, does he?", "Negative → does."]
+   ]
+  },
+  {
+   "titre": "Special cases",
+   "texte": [
+    "I am: the tag is aren't I? (not “amn't I”). I'm right, aren't I? But in the negative: I'm not late, am I?",
+    "Let's: the tag is shall we? Let's go, shall we? With an imperative, you can add will you? to sound softer: Close the door, will you?",
+    "Negative words (never, nothing, nobody) make the sentence negative, so the tag is positive. He never calls, does he? Nothing happened, did it? With nobody / somebody / everybody, use they: Nobody came, did they?"
+   ],
+   "exemples": [
+    ["I'm in the right room, aren't I?", "I am → aren't I?"],
+    ["Let's have lunch, shall we?", "Let's → shall we?"],
+    ["You never eat breakfast, do you?", "never = negative → positive tag."]
+   ]
+  },
+  {
+   "titre": "Intonation changes the meaning",
+   "texte": [
+    "Falling intonation ↘: you are almost sure and you expect the other person to agree. This is the most common, especially in conversation: Nice day, isn't it? ↘",
+    "Rising intonation ↗: you are not sure and it's a real question: You're coming tomorrow, aren't you? ↗ (I don't know and I want to know.)",
+    "Tags are very useful for starting a conversation with someone you don't know (small talk), for example about the weather."
+   ],
+   "exemples": [
+    ["It's a beautiful city, isn't it? ↘", "I'm sure; I expect “Yes, it is!”."],
+    ["The shop opens at nine, doesn't it? ↗", "I'm not sure: a real question."]
+   ]
+  },
+  {
+   "titre": "Answering a tag question",
+   "texte": [
+    "Answer according to the facts, with a short answer: It's cold, isn't it? — Yes, it is. / No, it isn't.",
+    "Be careful with negative sentences: You aren't tired, are you? — No, I'm not. (I'm not tired) / Yes, I am. (I am tired). Yes always goes with a positive verb, and No with a negative verb.",
+    "You can also add a comment: It was a great match, wasn't it? — Yes, it was amazing!"
+   ],
+   "exemples": [
+    ["You don't know Kofi, do you? — Yes, I do. We work together.", "Yes, I do = I know him."]
+   ]
+  }
+ ],
+ "formule": "positive sentence + negative tag (isn't it?, don't you?) · negative sentence + positive tag (is it?, do you?) · auxiliary of the sentence + pronoun · no auxiliary → do / does / did · I am → aren't I? · Let's → shall we?",
+ "prononciation": [
+  "The tag joins the sentence with no real pause: “It's cold, isn't it?” ≈ /ɪts kəʊld ˈɪznt ɪt/.",
+  "isn't it often sounds like /ˈɪzənɪt/: the t of isn't almost disappears.",
+  "don't you ≈ /ˈdəʊntʃu/ and didn't you ≈ /ˈdɪdntʃu/: t + y join to make /tʃ/.",
+  "Falling intonation ↘ to check, rising ↗ for a real question.",
+  "aren't I /ˈɑːnt aɪ/: no r sound in British English."
+ ],
+ "erreurs": [
+  ["You live in Douala, isn't it?", "You live in Douala, don't you?", "The tag repeats the auxiliary (here do) and the subject (you)."],
+  ["She is French, isn't it?", "She is French, isn't she?", "The pronoun in the tag matches the subject."],
+  ["Paul can swim, can't Paul?", "Paul can swim, can't he?", "Always a pronoun in the tag."],
+  ["You don't like fish, don't you?", "You don't like fish, do you?", "Negative sentence → positive tag."],
+  ["I'm late, amn't I?", "I'm late, aren't I?", "I am → aren't I?"],
+  ["He never calls, doesn't he?", "He never calls, does he?", "never makes the sentence negative."],
+  ["You aren't hungry, are you? — No, I am. (meaning: I'm hungry)", "Yes, I am.", "Yes + positive verb, No + negative verb."],
+  ["They went home, wasn't it?", "They went home, didn't they?", "Past simple → didn't + they."]
+ ],
+ "dialogue": {
+  "contexte": "At a bus stop in Montréal, in winter, Nadia starts a conversation with a stranger, Ben.",
+  "lignes": [
+   ["Nadia", "It's really cold today, isn't it?", "Falling tag: small talk."],
+   ["Ben", "Yes, it is! Minus fifteen, I think. You're not from here, are you?", "Negative sentence → positive tag."],
+   ["Nadia", "No, I'm not. I'm from Dakar. I arrived in September.", "Short answer."],
+   ["Ben", "So this is your first winter, isn't it?", "be → isn't it?"],
+   ["Nadia", "Yes! It's very different. You were born in Montréal, weren't you?", "were → weren't you?"],
+   ["Ben", "Yes, I was. But I still don't like the cold!", "Short answer with was."],
+   ["Nadia", "The 24 bus goes to the university, doesn't it?", "Rising tag: a real question."],
+   ["Ben", "Yes, it does. Oh, here it comes. Let's get on, shall we?", "Let's → shall we?"],
+   ["Nadia", "Yes! It's warm inside, isn't it?", "Falling tag."]
+  ]
+ },
+ "mots": [
+  ["tag", "Add a tag at the end: isn't it?", "a short question at the end of a sentence"],
+  ["check", "I want to check the time.", "make sure that something is correct"],
+  ["agree", "I agree with you.", "have the same opinion"],
+  ["lovely", "What a lovely day!", "very nice, beautiful"],
+  ["freezing", "It's freezing outside!", "very, very cold"],
+  ["get on", "Let's get on the bus.", "enter a bus, train or plane"],
+  ["stranger", "She started talking to a stranger.", "a person you don't know"],
+  ["small talk", "We made small talk about the weather.", "polite, light conversation"],
+  ["be sure", "I'm sure he's right.", "know that something is true"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. The right tag (be and modals)",
+   "consigne": "Complete with the correct tag.",
+   "items": [
+    ["It's a nice restaurant, ___?", "isn't it"],
+    ["You aren't busy, ___?", "are you"],
+    ["They can speak English, ___?", "can't they"],
+    ["Marie was at the party, ___?", "wasn't she"],
+    ["We won't be late, ___?", "will we"],
+    ["Your brothers are students, ___?", "aren't they"]
+   ]
+  },
+  {
+   "titre": "2. Do, does or did?",
+   "consigne": "Complete with a tag with do, does or did.",
+   "items": [
+    ["You work in a bank, ___?", "don't you"],
+    ["Karim plays the guitar, ___?", "doesn't he"],
+    ["They didn't come, ___?", "did they"],
+    ["You enjoyed the trip, ___?", "didn't you"],
+    ["She doesn't eat meat, ___?", "does she"]
+   ]
+  },
+  {
+   "titre": "3. Special cases",
+   "consigne": "Complete with the correct tag.",
+   "items": [
+    ["I'm right, ___?", "aren't I"],
+    ["Let's go to the beach, ___?", "shall we"],
+    ["He never listens, ___?", "does he"],
+    ["Nobody called, ___?", "did they"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["You like coffee, isn't it?", "You like coffee, don't you?"],
+    ["Léa is your sister, isn't Léa?", "Léa is your sister, isn't she?"],
+    ["You can't swim, can't you?", "You can't swim, can you?"],
+    ["He went to Liège, wasn't he?", "He went to Liège, didn't he?"],
+    ["We're in the right street, isn't it?", "We're in the right street, aren't we?"]
+   ]
+  },
+  {
+   "titre": "5. What do you say?",
+   "consigne": "Write one sentence with a tag for each situation.",
+   "items": [
+    ["The sun is shining. You start a conversation with a neighbour.", "It's a nice day, isn't it? / The weather is nice, isn't it?"],
+    ["You think your new colleague lives in Brussels. You check.", "You live in Brussels, don't you?"],
+    ["Your friend invited Sara, but you didn't see her at the party.", "She didn't come, did she?"],
+    ["It's one o'clock. You suggest eating to your friends.", "Let's eat, shall we?"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "You are at a party and you don't know anyone. Write five sentences with a tag to start a conversation (about the weather, the music, the food, the host, the city). Use at least one tag with do / does and one after a negative sentence.",
+   "items": [
+    ["Example answer", "The music is great, isn't it? You know Julien, don't you? This cake is delicious, isn't it? You aren't from Lyon, are you? Julien cooks very well, doesn't he?"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Tag = auxiliary of the sentence + subject pronoun (isn't it?, can't she?, weren't they?).",
+  "Positive → negative tag; negative (or never, nothing, nobody) → positive tag.",
+  "No auxiliary → do / does / did: You live here, don't you?",
+  "I am → aren't I? · Let's → shall we?",
+  "Falling intonation = I'm checking; rising = a real question."
+ ],
+ "liens": [4, 67, 70, 142, 146],
+ "refs": ["bc-tags", "cam-sentences"]
+}

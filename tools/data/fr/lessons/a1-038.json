@@ -1,0 +1,204 @@
+{
+"n": 38,
+"niveau": "A1",
+"titre": "Faire des achats",
+"intro": "Dans un magasin, il faut savoir répondre au vendeur, demander une taille ou une couleur, essayer un vêtement, payer et, parfois, rapporter un article. Cette leçon rassemble les noms de magasins et les phrases toutes faites indispensables, côté client et côté vendeur.",
+"objectifs": [
+ "Nommer les principaux magasins (baker's, chemist's, supermarket…).",
+ "Répondre au vendeur et demander un article, une taille, une couleur.",
+ "Essayer, payer (by card, in cash) et comprendre le vendeur à la caisse.",
+ "Rapporter ou échanger un article avec un ticket de caisse."
+],
+"sections": [
+ {
+  "titre": "Les magasins",
+  "texte": [
+   "En anglais britannique, on nomme souvent un magasin d’après le commerçant + ’s : « the baker's » (chez le boulanger), « the butcher's », « the chemist's ». On peut aussi dire « the bakery », « the pharmacy ».",
+   "Attention au faux ami : « magazine » est un magazine (une revue). Un magasin se dit « a shop » (GB) ou « a store » (US)."
+  ],
+  "tableau": {
+   "entetes": ["Anglais (GB)", "Anglais (US)", "Français", "On y achète…"],
+   "lignes": [
+    ["the supermarket", "the supermarket / grocery store", "le supermarché", "food, drinks"],
+    ["the baker's / bakery", "the bakery", "la boulangerie", "bread, cakes"],
+    ["the butcher's", "the butcher shop", "la boucherie", "meat"],
+    ["the chemist's / pharmacy", "the drugstore / pharmacy", "la pharmacie", "medicine, soap"],
+    ["the newsagent's", "the newsstand", "le marchand de journaux", "newspapers, magazines"],
+    ["the bookshop", "the bookstore", "la librairie", "books"],
+    ["the clothes shop", "the clothing store", "le magasin de vêtements", "clothes"],
+    ["the market", "the market", "le marché", "fruit, vegetables, everything"],
+    ["the shopping centre", "the mall", "le centre commercial", "a lot of shops"]
+   ]
+  },
+  "note": "Autre faux ami : « library » est une bibliothèque (on emprunte des livres) ; une librairie (on achète) est « a bookshop »."
+ },
+ {
+  "titre": "Parler au vendeur",
+  "texte": [
+   "Le vendeur ou la vendeuse (« the shop assistant », US « salesclerk ») dit souvent : « Can I help you? » ou « Are you looking for anything in particular? »",
+   "Si vous regardez seulement : « No, thanks. I'm just looking. » Si vous cherchez quelque chose : « Yes, I'm looking for a jacket. » ou « Have you got any umbrellas? » / « Do you have any umbrellas? »",
+   "Pour une taille ou une couleur : « Have you got this in a medium? », « Do you have it in blue? », « What size are you? — I'm a medium / a size 40. »"
+  ],
+  "tableau": {
+   "entetes": ["Le vendeur dit…", "Le client répond…", "Français"],
+   "lignes": [
+    ["Can I help you?", "No, thanks. I'm just looking.", "Je peux vous aider ? — Non merci, je regarde."],
+    ["Can I help you?", "Yes, I'm looking for a black jacket.", "Oui, je cherche une veste noire."],
+    ["What size are you?", "I'm a medium. / I'm a size 38.", "Quelle taille faites-vous ? — Je fais du M / du 38."],
+    ["How about this one?", "Have you got it in a smaller size?", "Et celle-ci ? — Vous l’avez en plus petit ?"],
+    ["The fitting rooms are over there.", "Thank you.", "Les cabines d’essayage sont là-bas."]
+   ]
+  },
+  "exemples": [
+   ["Excuse me, have you got this shirt in white?", "Excusez-moi, vous avez cette chemise en blanc ?"],
+   ["Do you have these shoes in a size 42?", "Vous avez ces chaussures en 42 ?"]
+  ]
+ },
+ {
+  "titre": "Essayer et choisir",
+  "texte": [
+   "Pour essayer un vêtement : « Can I try it on? » / « Can I try them on? » (pour un pantalon, des chaussures). Les cabines d’essayage : « the fitting rooms » (US « dressing rooms »).",
+   "Pour donner son avis : « It's too big / too small / too long. » (trop grand, trop petit…) ; « It fits. » (c’est la bonne taille) ; « It suits you. » ou « It looks great on you. » (ça te va bien). La leçon 48 approfondit « too ».",
+   "Pour décider : « I'll take it. » (je le prends) ou « I'll leave it, thanks. » (je ne le prends pas) ; ce sont des expressions toutes faites."
+  ],
+  "exemples": [
+   ["Can I try these trousers on? — Of course. The fitting rooms are on the left.", "Je peux essayer ce pantalon ? — Bien sûr. Les cabines sont à gauche."],
+   ["This jacket is too small. Have you got a large?", "Cette veste est trop petite. Vous avez du L ?"],
+   ["That dress really suits you!", "Cette robe te va vraiment bien !"]
+  ]
+ },
+ {
+  "titre": "Payer",
+  "texte": [
+   "On demande le prix avec « How much is it? » / « How much are they? » (leçon 30). Le vendeur annonce : « That's 25 euros, please. » ou « That's 40 dollars altogether. »",
+   "On paie « by card » (par carte) ou « in cash » (en espèces). Questions utiles : « Can I pay by card? », « Do you take cards? », « Can I pay contactless? ». On paie à la caisse : « the till » / « the checkout » (GB), « the register » (US).",
+   "Le vendeur rend la monnaie : « Here's your change. » et donne le ticket : « Here's your receipt. » Il peut demander : « Would you like a bag? ». Les soldes : « the sales » ; un article soldé est « in the sale » (GB) ou « on sale » (US)."
+  ],
+  "exemples": [
+   ["Can I pay by card? — Yes, of course. Just tap here.", "Je peux payer par carte ? — Oui, bien sûr. Posez simplement la carte ici."],
+   ["That's 12 euros 50. — Here you are. — Thank you. Here's your change and your receipt.", "Ça fait 12,50 €. — Voilà. — Merci. Voici votre monnaie et votre ticket."],
+   ["These shoes are in the sale: 30% off!", "Ces chaussures sont en solde : moins 30 % !"]
+  ]
+ },
+ {
+  "titre": "Rapporter un article et les verbes utiles",
+  "texte": [
+   "Pour rapporter un article : « Can I return this, please? » / « Can I change this for a bigger size? ». On explique : « It doesn't work. », « It's broken. », « It's the wrong size. ». On présente le ticket : « I've got the receipt. » Pour un remboursement : « Can I have a refund? »",
+   "Les verbes : « buy » (acheter), « sell » (vendre), « pay for something » (payer quelque chose : avec « for »), « spend » (dépenser), « cost » (coûter).",
+   "« Do the shopping » = faire les courses (nourriture, besoins de la maison) ; « go shopping » = faire les magasins (pour le plaisir)."
+  ],
+  "exemples": [
+   ["Excuse me, I'd like to return this phone. It doesn't work.", "Excusez-moi, je voudrais rapporter ce téléphone. Il ne marche pas."],
+   ["I pay for my groceries by card.", "Je paie mes courses par carte (pay for)."],
+   ["I do the shopping on Saturday mornings, and sometimes I go shopping with friends in the afternoon.", "Je fais les courses le samedi matin, et parfois je fais les magasins avec des amis l’après-midi."]
+  ]
+ }
+],
+"formule": "Can I help you? — I'm just looking / I'm looking for… · Have you got it in…? · Can I try it on? · Can I pay by card?",
+"prononciation": [
+ "« receipt » se dit /rɪˈsiːt/ : le p ne se prononce pas (« ri-site »).",
+ "« Can I try it on? » se lie en une chaîne : /kən aɪ ˈtraɪ ɪt ˈɒn/ ≈ « kə-naï-traï-yi-ton ».",
+ "« chemist's » /ˈkemɪsts/ : le ch se prononce /k/. Le groupe final -sts demande un peu d’entraînement.",
+ "« size » /saɪz/ se termine par /z/ ; « fit » /fɪt/ a un i court, à ne pas confondre avec « feet » /fiːt/ (les pieds).",
+ "« I'm just looking » : l’accent tombe sur LOOKing ; « just » est rapide."
+],
+"erreurs": [
+ ["I pay the shoes.", "I pay for the shoes.", "On dit « pay for » + l’article acheté."],
+ ["Have you this in blue?", "Have you got this in blue? / Do you have this in blue?", "Question avec « have got » ou « do you have »."],
+ ["I'm going to the magazine.", "I'm going to the shop.", "Faux ami : magazine = revue ; magasin = shop / store."],
+ ["Can I pay with card?", "Can I pay by card?", "On dit « by card » et « in cash »."],
+ ["I'm only watching.", "I'm just looking.", "Formule fixe : « I'm just looking »."],
+ ["I make the shopping on Saturday.", "I do the shopping on Saturday.", "Faire les courses = do the shopping."],
+ ["It's too much expensive.", "It's too expensive.", "Too + adjectif, sans « much »."],
+ ["Can I try it? (un vêtement)", "Can I try it on?", "Essayer un vêtement = try on."]
+],
+"dialogue": {
+ "contexte": "À Montréal, en novembre, Fatima cherche un manteau d’hiver dans un magasin de vêtements.",
+ "lignes": [
+  ["Assistant", "Hi there! Can I help you?", "Bonjour ! Je peux vous aider ?"],
+  ["Fatima", "Yes, please. I'm looking for a warm winter coat.", "Oui, s’il vous plaît. Je cherche un manteau d’hiver chaud."],
+  ["Assistant", "These coats are very warm. What size are you?", "Ces manteaux sont très chauds. Quelle taille faites-vous ?"],
+  ["Fatima", "I'm a medium. Have you got this one in dark green?", "Je fais du M. Vous avez celui-ci en vert foncé ?"],
+  ["Assistant", "Yes, here you are. The fitting rooms are over there.", "Oui, voilà. Les cabines d’essayage sont là-bas."],
+  ["Fatima", "Hmm, it's a bit too big. Can I try a small?", "Hum, il est un peu trop grand. Je peux essayer un S ?"],
+  ["Assistant", "Sure. Oh, that looks great on you!", "Bien sûr. Oh, il vous va très bien !"],
+  ["Fatima", "Thanks! How much is it?", "Merci ! Combien coûte-t-il ?"],
+  ["Assistant", "It's 180 dollars, but it's on sale today: 20% off.", "Il coûte 180 dollars, mais il est en solde aujourd’hui : moins 20 %."],
+  ["Fatima", "Perfect, I'll take it. Can I pay by card?", "Parfait, je le prends. Je peux payer par carte ?"]
+ ]
+},
+"mots": [
+ ["shop assistant", "The shop assistant is very helpful.", "le vendeur, la vendeuse"],
+ ["size", "What size are you?", "la taille, la pointure"],
+ ["try on", "Can I try on these jeans?", "essayer (un vêtement)"],
+ ["fitting room", "Where's the fitting room?", "la cabine d’essayage (US : dressing room)"],
+ ["receipt", "Keep the receipt.", "le ticket de caisse, le reçu"],
+ ["cash", "Can I pay in cash?", "les espèces, le liquide"],
+ ["card", "Do you take cards?", "la carte (bancaire)"],
+ ["change", "Here's your change.", "la monnaie (rendue)"],
+ ["sale", "Everything is in the sale.", "les soldes ; la vente"],
+ ["refund", "Can I have a refund?", "un remboursement"]
+],
+"exercices": [
+ {
+  "titre": "1. Quel magasin ?",
+  "consigne": "Où achète-t-on ces articles ? Écris le nom du magasin (anglais britannique).",
+  "items": [
+   ["bread and croissants", "the baker's / the bakery"],
+   ["medicine", "the chemist's / the pharmacy"],
+   ["a novel", "the bookshop"],
+   ["meat", "the butcher's"],
+   ["a newspaper", "the newsagent's"],
+   ["a T-shirt", "a clothes shop"]
+  ]
+ },
+ {
+  "titre": "2. Client ou vendeur ?",
+  "consigne": "Qui dit cette phrase : le client (customer) ou le vendeur (shop assistant) ?",
+  "items": [
+   ["Can I help you?", "shop assistant"],
+   ["I'm just looking.", "customer"],
+   ["What size are you?", "shop assistant"],
+   ["Can I pay by card?", "customer"]
+  ]
+ },
+ {
+  "titre": "3. Compléter",
+  "consigne": "Complète avec le mot qui manque.",
+  "items": [
+   ["Can I try it ___?", "on"],
+   ["Can I pay ___ card?", "by"],
+   ["Have you got it ___ a medium?", "in"],
+   ["I'd like to pay ___ cash.", "in"],
+   ["Here's your ___. (la monnaie)", "change"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Non merci, je regarde seulement.", "No, thanks. I'm just looking."],
+   ["Vous l’avez en bleu ?", "Have you got it in blue? / Do you have it in blue?"],
+   ["Je peux l’essayer ?", "Can I try it on?"],
+   ["C’est trop cher.", "It's too expensive."],
+   ["Je voudrais rapporter ce pull. Voici le ticket.", "I'd like to return this jumper. Here's the receipt."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Écris un dialogue de six répliques dans un magasin de chaussures : le vendeur propose son aide, tu demandes une pointure et une couleur, tu essaies, tu demandes le prix et tu paies.",
+  "items": [
+   ["Exemple de réponse", "Assistant: Can I help you? Me: Yes, I'm looking for trainers. Have you got these in a size 41? Assistant: Yes. What colour would you like? Me: White, please. Can I try them on? … They fit! How much are they? Assistant: They're 65 euros. Me: OK, I'll take them. Can I pay by card?"]
+  ]
+ }
+],
+"a_retenir": [
+ "Magasins : the baker's, the butcher's, the chemist's, the bookshop, the supermarket ; magasin = shop / store, pas « magazine ».",
+ "Can I help you? — No, thanks. I'm just looking. / Yes, I'm looking for…",
+ "Have you got this in a medium / in blue? Can I try it on? It's too big. It suits you.",
+ "Payer : by card, in cash ; Here's your change and your receipt ; pay FOR something.",
+ "do the shopping (les courses) ≠ go shopping (faire les magasins)."
+],
+"liens": [25, 30, 34, 48],
+"refs": ["bc-a1a2", "cam-using"]
+}

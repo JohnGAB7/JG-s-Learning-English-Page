@@ -1,0 +1,207 @@
+{
+ "n": 167,
+ "niveau": "B2",
+ "titre": "State and action verbs",
+ "intro": "Why do we say “I know” and never “I'm knowing”, but “I'm thinking about it” next to “I think so”? Some verbs describe a state (an opinion, knowledge, possession, feelings) and normally do not take the continuous form; others change their meaning with the form. This is a constant source of mistakes.",
+ "objectifs": [
+  "Recognise the main groups of state verbs (thoughts, feelings, possession, senses, description).",
+  "Distinguish the two meanings of think, have, see, taste, smell, look, weigh, be…",
+  "Use “can see / can hear” and sense verbs followed by an adjective (It smells good).",
+  "Understand modern uses (“I'm loving it”, “I'm hoping…”) and the rule in other tenses."
+ ],
+ "sections": [
+  {
+   "titre": "State or action?",
+   "texte": [
+    "An action (dynamic) verb describes something that happens, that starts and finishes: run, eat, write, cook. It can take the continuous form: “I'm cooking.”",
+    "A state (stative) verb describes a situation, a thought, a feeling or possession: there is no activity in progress. We normally use the simple form, even for the present moment: “I know the answer”, “She owns two shops”, “This book belongs to me”.",
+    "Ask yourself: is something happening, or is something simply true?"
+   ],
+   "tableau": {
+    "entetes": ["Group", "Common state verbs", "Example"],
+    "lignes": [
+     ["Thoughts, opinions", "know, believe, understand, remember, forget, realise, suppose, mean, think (= have an opinion)", "I don't understand this word."],
+     ["Feelings, wishes", "like, love, hate, prefer, want, need, wish, mind", "I prefer tea to coffee."],
+     ["Possession", "have (= own), own, belong, possess", "This car belongs to my uncle."],
+     ["Senses", "see, hear, smell, taste, feel (involuntary)", "I hear music."],
+     ["Description, measurement", "be, seem, appear, look (= seem), consist, contain, cost, weigh, depend, matter, deserve", "It depends on the weather."]
+    ]
+   }
+  },
+  {
+   "titre": "Verbs with two meanings",
+   "texte": [
+    "Several verbs are state verbs with one meaning and action verbs with another. The meaning decides the form, not the verb itself.",
+    "The most common case is “think”: “I think it's a good idea” (opinion, state); “I'm thinking about changing jobs” (considering, a mental activity).",
+    "“Have” meaning possess or have a characteristic stays simple; in action expressions (have breakfast, have a shower, have a party, have fun, have a baby), it can be continuous."
+   ],
+   "tableau": {
+    "entetes": ["Verb", "State meaning (simple)", "Action meaning (continuous possible)"],
+    "lignes": [
+     ["think", "I think you're right. (opinion)", "I'm thinking about your offer. (considering)"],
+     ["have", "She has two brothers. (possess)", "She's having a shower. (taking)"],
+     ["see", "I see what you mean. (understand)", "I'm seeing the doctor at 3. (meeting) / She's seeing someone. (dating)"],
+     ["taste", "The soup tastes salty. (has a flavour)", "The chef is tasting the soup. (trying it)"],
+     ["smell", "The kitchen smells of garlic. (has a smell)", "Why are you smelling the milk? (sniffing)"],
+     ["look", "You look tired. (seem)", "I'm looking at the photos. (watching)"],
+     ["weigh", "The baby weighs 4 kg. (measurement)", "The nurse is weighing the baby. (action)"],
+     ["appear", "He appears to be lost. (seem)", "She's appearing in a new film. (acting)"]
+    ]
+   }
+  },
+  {
+   "titre": "The senses: “can see”, “It smells good”",
+   "texte": [
+    "For an involuntary perception at the present moment, British English very often uses “can”: “I can see the sea from my window”, “Can you hear that noise?”. “I'm seeing the sea” is wrong.",
+    "Look, sound, smell, taste and feel can be followed by an adjective (not an adverb), like “be”: “This cake smells delicious”, “Your idea sounds great”, “You look tired”. Say “it smells good”, not “well”.",
+    "You can also use “like” + noun: “It looks like rain”, “It sounds like a good plan”."
+   ],
+   "exemples": [
+    ["I can hear someone in the garden.", "Perception now."],
+    ["This fish smells strange. Don't eat it.", "smell + adjective."],
+    ["Your plan sounds interesting.", "sound + adjective."],
+    ["It looks like it's going to rain.", "look like + clause (informal)."]
+   ]
+  },
+  {
+   "titre": "“Be”, “feel” and physical sensations",
+   "texte": [
+    "“Be” is normally a state verb, but “be being + adjective” describes temporary, often unusual behaviour: “He's a kind person” (character); “You're being very rude today” (your behaviour now). Common adjectives: silly, rude, difficult, careful, kind, honest, lazy.",
+    "“Feel” for a sensation or physical state accepts both forms: “I feel tired / I'm feeling tired”. The -ing form stresses the moment. Meaning “have an opinion”, it stays simple: “I feel (that) we should wait.”",
+    "The same goes for “hurt” and “ache”: “My back hurts / My back is hurting”."
+   ],
+   "exemples": [
+    ["You're being silly. Calm down.", "Behaviour at the moment."],
+    ["How are you feeling today?", "Common question from a doctor or friend."],
+    ["I feel that we need more time.", "Opinion: simple."],
+    ["My knee is hurting again.", "Physical sensation: both forms."]
+   ]
+  },
+  {
+   "titre": "Modern uses and other tenses",
+   "texte": [
+    "In informal speech and advertising, you hear “I'm loving it”, “I'm liking this new job”: the -ing form shows enthusiasm or a current impression. It is accepted in speech, but avoid it in careful writing or exams.",
+    "“I'm hoping”, “I'm wondering” and “I was wondering” are very common polite phrases: “I was wondering if you could help me.” They soften a request.",
+    "The rule applies in all tenses: no continuous form with a state verb in the present perfect, the past or the future. “I've known her for years” (not “I've been knowing”), “I didn't understand” (not “I wasn't understanding”), “I'll need help” (not “I'll be needing”, except in some very polite uses)."
+   ],
+   "exemples": [
+    ["I was wondering if you could send me the file.", "Polite request."],
+    ["I'm hoping to finish by Friday.", "A careful way to express hope."],
+    ["I've always believed in hard work.", "State verb: present perfect simple."]
+   ]
+  }
+ ],
+ "formule": "State verb → simple form (I know, it belongs, it tastes good) · Action meaning → continuous possible (I'm thinking about it, she's having lunch)",
+ "prononciation": [
+  "“tastes” /teɪsts/ and “costs” /kɒsts/: pronounce the whole final consonant group, without adding a vowel.",
+  "“weigh” /weɪ/: the “gh” is silent; “weight” /weɪt/.",
+  "Contrastive stress: “You're BEING rude” highlights the temporary behaviour.",
+  "“I can see”: “can” is weak, /kən/; in the negative “can't” /kɑːnt/ is stressed.",
+  "“I was wondering”: a soft falling intonation, polite tone: /aɪ wəz ˈwʌndərɪŋ/."
+ ],
+ "erreurs": [
+  ["I'm knowing the answer.", "I know the answer.", "know = state verb: simple form."],
+  ["I'm not understanding the question.", "I don't understand the question.", "understand: simple form."],
+  ["This soup is tasting delicious.", "This soup tastes delicious.", "taste (= have a flavour): state."],
+  ["I'm thinking you're right.", "I think you're right.", "think (= have an opinion): simple form."],
+  ["She is having two brothers.", "She has two brothers.", "have (= possess): simple form."],
+  ["This cake smells deliciously.", "This cake smells delicious.", "After smell / taste / look / sound: adjective."],
+  ["I'm seeing the sea from my window.", "I can see the sea from my window.", "Involuntary perception: can see."]
+ ],
+ "dialogue": {
+  "contexte": "In Abidjan, during the filming of a cooking show. Chef Aya is preparing grilled fish with her assistant, Kévin.",
+  "lignes": [
+   ["Aya", "Kévin, what are you doing? Are you tasting my sauce already?", "taste: action (trying it)."],
+   ["Kévin", "Sorry, chef! But it smells amazing. I can smell the ginger from here.", "smell: state + adjective; can smell."],
+   ["Aya", "And how does it taste?", "taste: state (flavour)."],
+   ["Kévin", "It tastes perfect. I think it needs a little more salt, though.", "think: opinion; need: state."],
+   ["Aya", "You're being very honest today! OK, I'm thinking about it…", "be being: behaviour; think: considering."],
+   ["Kévin", "The fish weighs almost two kilos. Do you want me to cut it?", "weigh: measurement; want: state."],
+   ["Aya", "Yes, please. And the attiéké? Does it contain enough oil?", "contain: state."],
+   ["Kévin", "It looks good to me. Everyone in the studio is having a great time!", "look: seem; have a great time: action."]
+  ]
+ },
+ "mots": [
+  ["taste", "This sauce tastes a bit spicy.", "to have a particular flavour; to try food"],
+  ["smell", "The kitchen smells of fresh bread.", "to have a particular smell; a smell"],
+  ["weigh", "The suitcase weighs 23 kilos.", "to have a certain weight"],
+  ["own", "They own a small hotel in Kribi.", "to have something that is legally yours"],
+  ["belong", "Who does this phone belong to?", "to be the property of someone"],
+  ["contain", "This drink contains a lot of sugar.", "to have something inside"],
+  ["depend", "It depends on the price.", "to change according to something else"],
+  ["seem", "She seems happy in her new job.", "to appear to be"],
+  ["prefer", "I prefer walking to driving.", "to like one thing more than another"],
+  ["deserve", "You deserve a holiday.", "to have earned something because of your actions"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choose",
+   "consigne": "Choose the correct form.",
+   "items": [
+    ["I (know / am knowing) the answer.", "know"],
+    ["Shh! I (think / am thinking).", "am thinking"],
+    ["This coffee (tastes / is tasting) bitter.", "tastes"],
+    ["We (have / are having) dinner at the moment.", "are having"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb into the present simple or present continuous.",
+   "items": [
+    ["What ___ you ___ (think) of my new haircut?", "do you think"],
+    ["She ___ (see) a lawyer this afternoon about the contract.", "is seeing"],
+    ["This box ___ (contain) old photos.", "contains"],
+    ["Why ___ you ___ (be) so rude today? You're not usually like this.", "are you being"],
+    ["I ___ (not / understand) this sentence. Can you explain it?", "don't understand"],
+    ["The chef ___ (taste) the soup to check the salt.", "is tasting"]
+   ]
+  },
+  {
+   "titre": "3. Explain the difference",
+   "consigne": "Explain the difference in meaning between the two sentences.",
+   "items": [
+    ["I think it's a good idea. / I'm thinking about changing jobs.", "Opinion (state) / considering now (action)."],
+    ["She has a car. / She's having a shower.", "Possession / action (taking a shower)."],
+    ["I see what you mean. / I'm seeing my doctor tomorrow.", "Understand / have an appointment."],
+    ["He's a difficult person. / He's being difficult.", "Permanent character / temporary behaviour now."],
+    ["The baby weighs 4 kilos. / The nurse is weighing the baby.", "Measurement (state) / the action of weighing."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Each sentence has one mistake. Write it correctly.",
+   "items": [
+    ["I'm not understanding the question.", "I don't understand the question."],
+    ["This bag is belonging to my sister.", "This bag belongs to my sister."],
+    ["This cake smells deliciously.", "This cake smells delicious."],
+    ["I'm seeing the sea from my window.", "I can see the sea from my window."]
+   ]
+  },
+  {
+   "titre": "5. Sense verbs + adjective",
+   "consigne": "Make a sentence with the words given (sense verb + adjective).",
+   "items": [
+    ["your plan / sound / interesting", "Your plan sounds interesting."],
+    ["this milk / smell / bad", "This milk smells bad."],
+    ["you / look / tired / today", "You look tired today. (You're looking tired is also possible.)"],
+    ["this soup / taste / too salty", "This soup tastes too salty."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write 4–5 sentences about what you feel, think and do right now, using at least three verbs with two meanings (think, have, see, taste, look…) in both uses.",
+   "items": [
+    ["Example answer", "I'm having a quiet evening at home. I'm thinking about my holiday plans, but I think I'll stay in Belgium this year. My sister is seeing a new doctor, and she looks much better. The tea I'm drinking tastes of mint, and it smells wonderful."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "State verbs (know, believe, like, want, own, belong, seem, contain, cost…): simple form, even for now.",
+  "Verbs with two meanings: think, have, see, taste, smell, look, weigh, appear — the meaning decides.",
+  "Involuntary perception: I can see / I can hear; look / smell / taste / sound + adjective.",
+  "be being + adjective = temporary behaviour; feel / hurt: both forms possible.",
+  "“I'm loving it” is informal; “I was wondering if…” is a polite formula."
+ ],
+ "liens": [92, 139, 166],
+ "refs": ["bc-stative", "bc-adv-present"]
+}

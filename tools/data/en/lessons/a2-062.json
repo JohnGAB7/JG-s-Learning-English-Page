@@ -1,0 +1,206 @@
+{
+ "n": 62,
+ "niveau": "A2",
+ "titre": "Verbs + -ing or + to",
+ "intro": "When two verbs come together, the second one is either an -ing form (I enjoy cooking) or to + base verb (I want to cook). The first verb decides, so you need to learn the most common ones.",
+ "objectifs": [
+  "Use -ing after enjoy, finish, mind, avoid, suggest, keep, practise, can't stand…",
+  "Use to + verb after want, would like, decide, hope, plan, need, learn, forget…",
+  "Know that like, love, hate, start, begin can take both forms.",
+  "Use -ing after a preposition (good at cooking, before leaving) and build want / ask / tell + someone + to."
+ ],
+ "sections": [
+  {
+   "titre": "Verb + -ing",
+   "texte": [
+    "After these verbs, the second verb takes the -ing form. Many of them talk about likes, habits, or an action that is already happening or that you think about.",
+    "The most common is “enjoy”: I enjoy swimming. Never say “I enjoy to swim”. Other very useful verbs: finish, mind (be unhappy about: Do you mind waiting?), avoid, suggest, keep (continue, not stop), practise, miss (feel sad because something is not there), imagine, can't stand (hate), give up (stop)."
+   ],
+   "exemples": [
+    ["I enjoy reading in the evening.", "enjoy + -ing."],
+    ["Have you finished cleaning the kitchen?", "finish + -ing."],
+    ["Do you mind opening the window?", "A polite request."],
+    ["He keeps calling me!", "keep = not stop."],
+    ["I miss living near the sea.", "miss + -ing."]
+   ],
+   "note": "“Suggest” takes -ing (She suggested going to the cinema), never “to”: don't say “She suggested to go”."
+  },
+  {
+   "titre": "Verb + to + base verb",
+   "texte": [
+    "After these verbs, the second verb is the infinitive with “to”. Many of them talk about wishes, decisions, plans or efforts for the future.",
+    "The most common: want, would like (lesson 34), need, hope, plan, decide, learn, agree, promise, refuse, offer, forget, manage (succeed after trying), try, afford (have enough money for), seem."
+   ],
+   "tableau": {
+    "entetes": ["Verb", "Example", "Meaning"],
+    "lignes": [
+     ["want", "I want to learn Spanish.", "a wish"],
+     ["would like", "I'd like to book a table.", "a polite wish"],
+     ["decide", "We decided to stay at home.", "a decision"],
+     ["hope", "I hope to see you soon.", "a wish for the future"],
+     ["learn", "She's learning to drive.", "getting a new skill"],
+     ["forget", "Don't forget to call your mother.", "not remember to do it"],
+     ["manage", "Did you manage to find the hotel?", "succeed after trying"],
+     ["can't afford", "We can't afford to buy a car.", "not have enough money"]
+    ]
+   },
+   "note": "Put “not” before “to” for the negative: I decided not to go."
+  },
+  {
+   "titre": "Verbs with both forms",
+   "texte": [
+    "After like, love, hate, prefer, start, begin, continue, you can use -ing or to with almost no change in meaning: I like swimming / I like to swim. It started raining / It started to rain.",
+    "British nuance: “like + -ing” is more about enjoyment (I like dancing); “like + to” is more about a habit you choose because it is useful (I like to arrive early). In American English, “like to” is very common for both.",
+    "Be careful: “would like”, “would love”, “would hate”, “would prefer” ALWAYS take to: I'd love to come (not “I'd love coming”)."
+   ],
+   "exemples": [
+    ["I love cooking. / I love to cook.", "Both are correct."],
+    ["She began working here in 2020.", "begin + -ing (or to work)."],
+    ["Would you like to dance?", "would like → to."]
+   ]
+  },
+  {
+   "titre": "After a preposition: always -ing",
+   "texte": [
+    "After a preposition (in, at, of, about, for, without, before, after, by…), a verb is always in the -ing form.",
+    "Very common expressions: be good at, be interested in, be afraid of, be tired of, think about, look forward to (here “to” is a preposition!), thank you for, how about…? / what about…?"
+   ],
+   "exemples": [
+    ["She's good at drawing.", "at + -ing."],
+    ["I'm interested in learning Chinese.", "in + -ing."],
+    ["Wash your hands before eating.", "before + -ing."],
+    ["He left without saying goodbye.", "without + -ing."],
+    ["I'm looking forward to seeing you.", "to (preposition) + -ing."],
+    ["How about going to the beach?", "A suggestion."]
+   ]
+  },
+  {
+   "titre": "Want, ask, tell + someone + to",
+   "texte": [
+    "With want, would like, ask, tell, help, expect, you can put a person between the two verbs: verb + object + to + base verb. Say “I want you to come”. Never say “I want that you come”.",
+    "Negative: tell someone not to do something."
+   ],
+   "exemples": [
+    ["I want you to listen.", "want + you + to."],
+    ["My boss asked me to stay late.", "ask + me + to."],
+    ["The doctor told him not to smoke.", "tell + him + not to."]
+   ],
+   "note": "Some verbs (stop, remember, forget, try) change meaning with the form: stop smoking (not smoke any more) / stop to smoke (stop doing something else so you can smoke). You will study this in lesson 113 (B1)."
+  }
+ ],
+ "formule": "enjoy / finish / mind / avoid / suggest / keep + -ing · want / need / decide / hope / learn / forget + to + verb · preposition + -ing · want someone to…",
+ "prononciation": [
+  "“to” before a verb is weak: /tə/ (I want to go /aɪ ˈwɒnt tə ˈɡəʊ/). In informal speech: “wanna” (want to), “gonna” (going to). Understand them, but don't write them.",
+  "“I'd like to” sounds like /aɪd ˈlaɪk tə/: the d of “I'd” is light but present.",
+  "-ing is /ɪŋ/, with no hard g at the end.",
+  "“Do you mind…?”: stress MIND; the voice goes up at the end. A polite answer: “No, not at all” (= it's no problem).",
+  "“look forward to”: stress FOR-: /lʊk ˈfɔːwəd tə/."
+ ],
+ "erreurs": [
+  ["I enjoy to dance.", "I enjoy dancing.", "Enjoy + -ing."],
+  ["I want going home.", "I want to go home.", "Want + to."],
+  ["She suggested to take a taxi.", "She suggested taking a taxi.", "Suggest + -ing."],
+  ["I'm interested to learn English. (meaning: it interests me)", "I'm interested in learning English.", "After a preposition (in): -ing."],
+  ["Before to leave, close the door.", "Before leaving, close the door.", "Before + -ing."],
+  ["I want that you come.", "I want you to come.", "Want + person + to."],
+  ["I'm looking forward to see you.", "I'm looking forward to seeing you.", "In look forward to, “to” is a preposition: -ing."],
+  ["I'd love coming.", "I'd love to come.", "Would love / would like + to."]
+ ],
+ "dialogue": {
+  "contexte": "Two friends in Québec talk about their summer plans.",
+  "lignes": [
+   ["Maya", "Have you decided to go anywhere this summer?", "decide + to."],
+   ["Zoé", "Yes! I want to visit Vancouver. I enjoy travelling by train, so I'm planning to take the train across Canada.", "want + to; enjoy + -ing; plan + to."],
+   ["Maya", "Wow! Isn't it expensive?", "A negative question."],
+   ["Zoé", "A bit. I can't afford to stay in hotels, so I'm thinking about staying with friends.", "afford + to; about + -ing."],
+   ["Maya", "Good idea. I'd love to come with you, but I need to work in July.", "would love + to; need + to."],
+   ["Zoé", "What about meeting me there in August?", "What about + -ing: a suggestion."],
+   ["Maya", "Maybe! I don't mind flying. I'll ask my boss to give me a week off.", "mind + -ing; ask + someone + to."],
+   ["Zoé", "Great! Don't forget to tell me. I'm really looking forward to seeing the mountains!", "forget + to; look forward to + -ing."]
+  ]
+ },
+ "mots": [
+  ["enjoy", "I enjoy walking in the forest.", "like doing something"],
+  ["avoid", "Try to avoid eating late.", "stay away from doing something"],
+  ["mind", "Do you mind waiting?", "be unhappy or annoyed about something"],
+  ["suggest", "She suggested going by bus.", "give an idea for others to think about"],
+  ["decide", "They decided to move to Ghent.", "choose after thinking"],
+  ["hope", "I hope to pass the exam.", "want something to happen"],
+  ["manage", "I managed to fix my bike.", "succeed in doing something difficult"],
+  ["afford", "We can't afford to travel this year.", "have enough money for something"],
+  ["promise", "He promised to help me.", "say that you will certainly do something"],
+  ["look forward to", "I'm looking forward to the holidays.", "feel happy about something that will happen"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. -ing or to?",
+   "consigne": "Choose the right form.",
+   "items": [
+    ["I enjoy (to cook / cooking).", "cooking"],
+    ["She wants (to buy / buying) a new phone.", "to buy"],
+    ["We decided (to leave / leaving) early.", "to leave"],
+    ["Have you finished (to eat / eating)?", "eating"],
+    ["He hopes (to find / finding) a job soon.", "to find"],
+    ["Do you mind (to close / closing) the door?", "closing"]
+   ]
+  },
+  {
+   "titre": "2. Complete",
+   "consigne": "Put the verb in brackets in the right form (-ing or to + verb).",
+   "items": [
+    ["Don't forget ___ (buy) some bread.", "to buy"],
+    ["I'm tired of ___ (wait).", "waiting"],
+    ["She's good at ___ (sing).", "singing"],
+    ["They suggested ___ (go) to a museum.", "going"],
+    ["I'd like ___ (speak) to the manager.", "to speak"]
+   ]
+  },
+  {
+   "titre": "3. Verb + person + to",
+   "consigne": "Rewrite the sentence with want / ask / tell + person + to.",
+   "items": [
+    ["My mother says: “Paul, clean your room.” (tell)", "My mother tells Paul to clean his room."],
+    ["I say to you: “Please help me.” (ask)", "I'm asking you to help me."],
+    ["The teacher says: “Don't talk!” (tell … not)", "The teacher tells us not to talk."],
+    ["I wish you would stay. (want)", "I want you to stay."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["I want that you call me.", "I want you to call me."],
+    ["He avoided to answer.", "He avoided answering."],
+    ["Thank you for help me.", "Thank you for helping me."],
+    ["I'm looking forward to meet you.", "I'm looking forward to meeting you."],
+    ["We can't afford going on holiday.", "We can't afford to go on holiday."]
+   ]
+  },
+  {
+   "titre": "5. Write the sentence",
+   "consigne": "Use the words to write a correct sentence.",
+   "items": [
+    ["I / enjoy / swim", "I enjoy swimming."],
+    ["she / learn / drive / last year", "She learnt to drive last year. / She learned to drive last year."],
+    ["he / leave / without / pay", "He left without paying."],
+    ["I / would like / you / come / with me", "I'd like you to come with me."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write five true sentences: something you enjoy doing, something you want to do, something you avoid, something you are good at, and a plan (plan / hope).",
+   "items": [
+    ["Example answer", "I enjoy cooking for my friends. I want to learn the guitar. I avoid driving in Brussels at rush hour. I'm quite good at drawing. I'm planning to visit my cousins in Douala next year."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "+ -ing: enjoy, finish, mind, avoid, suggest, keep, practise, miss, can't stand.",
+  "+ to: want, would like, need, hope, plan, decide, learn, forget, manage, afford, promise.",
+  "Both: like, love, hate, start, begin (but would like / would love + to).",
+  "Preposition + -ing: good at cooking, before leaving, look forward to seeing.",
+  "want / ask / tell + person + to: I want you to come (never “want that”)."
+ ],
+ "liens": [33, 34, 45, 113],
+ "refs": ["bc-ing-inf", "cam-verbs"]
+}

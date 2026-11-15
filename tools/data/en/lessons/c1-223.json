@@ -1,0 +1,230 @@
+{
+ "n": 223,
+ "niveau": "C1",
+ "titre": "Idioms for negotiation",
+ "intro": "Negotiating in English also means decoding the images the other side uses: “play hardball”, “meet halfway”, “a deal-breaker”. This lesson organises these idioms by the stages of a negotiation, from the opening to the signature.",
+ "objectifs": [
+  "Understand and use the key idioms of each phase: opening, pressure, compromise and closing.",
+  "Use them with their exact collocations (strike a deal, find common ground, split the difference).",
+  "Recognise the tone of an idiom (cooperative, aggressive, cautious) and respond appropriately.",
+  "Avoid literal translations from other languages (cut the pear in two, take it or let it)."
+ ],
+ "sections": [
+  {
+   "titre": "Opening: stating your position",
+   "texte": [
+    "At the start of a negotiation, each side says what is possible and what is not. The idioms of this phase are about cards (openness or secrecy) and lines that must not be crossed.",
+    "“Lay / put your cards on the table” means being completely open. Its opposite is “play your cards close to your chest” (BrE) or “close to the vest” (AmE): not revealing your strategy."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["put / lay your cards on the table", "say honestly what you want", "Let me put my cards on the table: we need delivery by May."],
+     ["play your cards close to your chest", "keep your plans secret", "Their CEO is playing her cards close to her chest."],
+     ["a red line", "an absolute limit", "Job cuts are a red line for the union."],
+     ["a deal-breaker", "a point that would make the deal fail", "Exclusivity is a deal-breaker for us."],
+     ["a bargaining chip", "something you can trade", "They're using the delivery date as a bargaining chip."],
+     ["non-negotiable", "not open to discussion", "The safety clause is non-negotiable."]
+    ]
+   },
+   "exemples": [
+    ["Let me lay my cards on the table: our budget is fixed.", "A frank opening line."],
+    ["A three-year contract would be a deal-breaker for us.", "“Deal-breaker” is a compound noun with a hyphen."]
+   ]
+  },
+  {
+   "titre": "Applying pressure: hard tactics",
+   "texte": [
+    "These idioms describe a tense negotiation. You will often hear them used to comment on the other side's behaviour; using them about yourself can sound aggressive."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["play hardball", "be tough and uncompromising", "If they play hardball, we'll look elsewhere."],
+     ["drive a hard bargain", "be a tough negotiator", "You drive a hard bargain, but we accept."],
+     ["take it or leave it", "this offer will not change", "This is our final offer, take it or leave it."],
+     ["have the upper hand", "be in the stronger position", "With two other bidders, they have the upper hand."],
+     ["call sb's bluff", "test whether a threat is real", "They threatened to walk away, so we called their bluff."],
+     ["move the goalposts", "change the rules or demands during the process", "They keep moving the goalposts on the price."],
+     ["up the ante", "increase the stakes or demands", "The rival bid has upped the ante."],
+     ["walk away (from the table)", "end the negotiation", "We're prepared to walk away if necessary."]
+    ]
+   },
+   "exemples": [
+    ["They upped the ante by threatening legal action.", "“Ante” /ˈænti/ is the money players put in at the start of a poker game."],
+    ["Every time we agree, they move the goalposts.", "A common complaint: the other side keeps changing its demands."]
+   ]
+  },
+  {
+   "titre": "Reaching a compromise",
+   "texte": [
+    "This is the heart of a cooperative negotiation. Note the collocations: you “find / look for common ground” (no article), you “meet someone halfway”, you “split the difference”."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["meet sb halfway", "both sides make a concession", "Could you meet us halfway on the price?"],
+     ["split the difference", "agree on the mid-point between two figures", "You say 40, we say 50; let's split the difference at 45."],
+     ["find common ground", "find points both sides agree on", "We need to find common ground on payment terms."],
+     ["give and take", "mutual concessions", "Any agreement involves some give and take."],
+     ["a sticking point", "an issue that blocks progress", "The main sticking point is the warranty."],
+     ["sweeten the deal", "make an offer more attractive", "We could sweeten the deal with free delivery."],
+     ["iron out", "solve (small problems, details)", "We still need to iron out a few details."]
+    ]
+   },
+   "exemples": [
+    ["If you can meet us halfway on volume, we can be flexible on price.", "A typical conditional for trading concessions."],
+    ["The only sticking point now is the length of the contract.", "Isolating the last obstacle."]
+   ]
+  },
+  {
+   "titre": "Closing",
+   "texte": [
+    "For the final agreement, English likes strong verbs: strike, hammer out, seal, clinch. “Hammer out” stresses the hard work (beating metal into shape); “seal / clinch” stresses the decisive moment.",
+    "If you cannot agree on a minor point, you can “agree to disagree”: accept the disagreement without damaging the relationship."
+   ],
+   "tableau": {
+    "entetes": ["Idiom", "Meaning", "Example"],
+    "lignes": [
+     ["strike / reach a deal", "make an agreement", "We struck a deal after six hours of talks."],
+     ["hammer out (an agreement)", "reach an agreement after long discussion", "Both sides hammered out a compromise overnight."],
+     ["seal / clinch the deal", "make the agreement final; win it", "Free training clinched the deal."],
+     ["a done deal", "something agreed that cannot change", "It's not a done deal until it's signed."],
+     ["shake on it", "confirm an agreement by shaking hands", "Shall we shake on it?"],
+     ["agree to disagree", "accept that you have different opinions", "On that point, let's agree to disagree."],
+     ["the devil is in the detail(s)", "the small details cause the problems", "We agree in principle, but the devil is in the detail."]
+    ]
+   },
+   "note": "British: “the devil is in the detail”; American: “the devil is in the details”."
+  },
+  {
+   "titre": "Tone, register and response",
+   "texte": [
+    "Every idiom carries a tone. “Meet halfway”, “common ground” and “give and take” signal a wish to cooperate. “Play hardball”, “take it or leave it” and “move the goalposts” signal a power struggle or a complaint. Recognising the tone helps you respond at the right level.",
+    "In written minutes or an official letter, prefer neutral equivalents: reach an agreement, make concessions, a key point of disagreement, a final offer."
+   ],
+   "tableau": {
+    "entetes": ["Idiom (spoken)", "Neutral equivalent (written)"],
+    "lignes": [
+     ["We struck a deal.", "We reached an agreement."],
+     ["The sticking point is the warranty.", "The main point of disagreement is the warranty."],
+     ["Take it or leave it.", "This is our final offer."],
+     ["Let's split the difference.", "We propose a compromise at the mid-point."]
+    ]
+   },
+   "exemples": [
+    ["I appreciate you meeting us halfway.", "A cooperative response to a concession."],
+    ["With respect, you're moving the goalposts here.", "A polite complaint: “with respect” softens the criticism."]
+   ]
+  }
+ ],
+ "formule": "Open (cards on the table, red line) → apply pressure (play hardball, upper hand) → compromise (meet halfway, split the difference, common ground) → close (strike / seal a deal)",
+ "prononciation": [
+  "“halfway” is /ˌhɑːfˈweɪ/ (BrE): the l is silent and the stress is on “way”.",
+  "“ante” is /ˈænti/ (two syllables); in British English it sounds the same as the prefix “anti-”.",
+  "In “deal-breaker”, the main stress is on “deal”: /ˈdiːl ˌbreɪkə/.",
+  "“take it or leave it” is linked into one group: /ˈteɪk ɪt ə ˈliːv ɪt/, with “or” reduced to /ə/.",
+  "For a firm position, use a clear falling tone on the key word: “That's non-negoTIable.”"
+ ],
+ "erreurs": [
+  ["Let's cut the pear in two.", "Let's split the difference.", "A word-for-word translation from French; the English idiom is “split the difference”."],
+  ["We found a common ground.", "We found common ground.", "“Common ground” is uncountable in this idiom: no article."],
+  ["Take it or let it.", "Take it or leave it.", "The verb is “leave”."],
+  ["That clause is a breaking deal.", "That clause is a deal-breaker.", "The compound noun is “deal-breaker”."],
+  ["They keep changing the goals.", "They keep moving the goalposts.", "Fixed idiom: “move the goalposts”."],
+  ["Can you meet us at the half?", "Can you meet us halfway?", "The word is “halfway”."],
+  ["They raised the auctions.", "They upped the ante. / They raised the stakes.", "For “increase the pressure or demands”, use “up the ante” or “raise the stakes”."]
+ ],
+ "dialogue": {
+  "contexte": "A cocoa cooperative from Kumba (Cameroon) negotiates by video call with a chocolate maker in Antwerp.",
+  "lignes": [
+   ["Pieter", "Let me put my cards on the table: we can't go above 2,600 dollars a tonne.", "He opens frankly with his limit."],
+   ["Grace", "I appreciate the honesty. But with our organic certification, 2,900 is already a fair price.", "She defends her position politely."],
+   ["Pieter", "You drive a hard bargain. Is there any room for manoeuvre?", "“Room for manoeuvre” = flexibility (AmE: maneuver)."],
+   ["Grace", "If you commit to three years, we could meet you halfway.", "A conditional concession."],
+   ["Pieter", "Three years is a sticking point for our board. Two years, and we split the difference at 2,750?", "He names the obstacle and proposes the mid-point."],
+   ["Grace", "Two years is fine, but only if you pay within thirty days. That's a red line for us.", "An absolute limit."],
+   ["Pieter", "Thirty days… All right. And we'll sweeten the deal with a quality bonus.", "He makes the offer more attractive."],
+   ["Grace", "Then I think we've found common ground. Our lawyers can iron out the details.", "Agreement in principle; details later."],
+   ["Pieter", "Great. It's not a done deal until it's signed, but I'm optimistic.", "A cautious close."]
+  ]
+ },
+ "mots": [
+  ["deal-breaker", "Late payment is a deal-breaker for us.", "something that makes an agreement impossible"],
+  ["sticking point", "Price remains the main sticking point.", "an issue that blocks agreement"],
+  ["halfway", "Can you meet us halfway?", "in the middle between two points"],
+  ["common ground", "Both sides found common ground on training.", "shared opinions or interests"],
+  ["hardball", "The supplier decided to play hardball.", "a tough, uncompromising approach"],
+  ["bargain", "She always drives a hard bargain.", "an agreement; to negotiate (verb)"],
+  ["leverage", "Our market share gives us leverage.", "power to influence the other side"],
+  ["concession", "We made a small concession on delivery.", "something you give up to reach agreement"],
+  ["clinch", "The warranty clinched the deal.", "finally win or settle (a deal)"],
+  ["upper hand", "The buyer has the upper hand this year.", "an advantage, the stronger position"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Cooperative or aggressive?",
+   "consigne": "Say whether the idiom is mainly cooperative or tough / aggressive.",
+   "items": [
+    ["Let's find common ground.", "cooperative"],
+    ["Take it or leave it.", "tough / aggressive"],
+    ["We could meet you halfway.", "cooperative"],
+    ["They're playing hardball.", "tough / aggressive"]
+   ]
+  },
+  {
+   "titre": "2. Complete the idiom",
+   "consigne": "Write the missing word.",
+   "items": [
+    ["You say 100, I say 80: let's split the ___ at 90.", "difference"],
+    ["Let me put my cards on the ___.", "table"],
+    ["Free installation might ___ the deal.", "sweeten"],
+    ["Our lawyers will iron ___ the details.", "out"],
+    ["They keep moving the ___, so we never know what they want.", "goalposts"],
+    ["After ten hours, they finally ___ a deal.", "struck / reached"]
+   ]
+  },
+  {
+   "titre": "3. Find the idiom",
+   "consigne": "Replace the words in brackets with an idiom from the lesson.",
+   "items": [
+    ["The warranty is [the point we cannot agree on].", "the sticking point"],
+    ["The rival offer has [made the stakes higher].", "upped the ante"],
+    ["She [keeps her strategy secret].", "plays her cards close to her chest"],
+    ["We can't agree on this point, so let's [accept that we disagree].", "agree to disagree"]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Correct the mistake in each sentence.",
+   "items": [
+    ["We finally found a common ground.", "We finally found common ground."],
+    ["This is our last offer: take it or let it.", "This is our last offer: take it or leave it."],
+    ["Exclusivity is a breaking deal for us.", "Exclusivity is a deal-breaker for us."]
+   ]
+  },
+  {
+   "titre": "5. Say it with an idiom",
+   "consigne": "Rewrite the sentence with an idiom.",
+   "items": [
+    ["Let's agree on the figure in the middle.", "Let's split the difference."],
+    ["Nothing is final until it's signed.", "It's not a done deal until it's signed."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write 4–5 lines you could say to propose a compromise to a supplier. Use at least three idioms from the lesson.",
+   "items": [
+    ["Example answer", "Let me put my cards on the table: our budget for this year is fixed. The delivery date is non-negotiable, but we have some flexibility on volume. If you can meet us halfway on price, we could sign for two years instead of one. That way, I think we can find common ground and leave the lawyers to iron out the details."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Four phases, four families: open (cards on the table, red line), apply pressure (play hardball, upper hand), compromise (meet halfway, split the difference), close (strike / seal a deal).",
+  "Fixed collocations: find common ground (no article), meet sb halfway, iron out the details, move the goalposts.",
+  "Recognise the tone, cooperative (give and take) or tough (take it or leave it), and respond at the same level.",
+  "In formal writing, use neutral equivalents: reach an agreement, a final offer, a point of disagreement."
+ ],
+ "liens": [195, 221, 208, 259, 258],
+ "refs": ["bc-c1", "cam-using"]
+}

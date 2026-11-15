@@ -1,0 +1,575 @@
+{
+ "n": 226,
+ "niveau": "C1",
+ "titre": "Les collocations académiques",
+ "intro": "Dans un mémoire, un article ou un rapport d'étude, ce sont les associations de mots (« conduct research », « draw a conclusion », « a significant difference ») qui font qu'un texte sonne juste. Une grammaire parfaite ne suffit pas si les collocations sont calquées sur le français.",
+ "objectifs": [
+  "Utiliser les principales collocations verbe + nom de la recherche (conduct a study, collect data, draw a conclusion, address an issue).",
+  "Choisir l'adjectif et l'adverbe attendus (a significant difference, closely related, widely accepted).",
+  "Employer la bonne préposition après les noms clés (an increase in, an impact on, research into).",
+  "Éviter les calques typiques des francophones (make a research, an important number of, realise a study)."
+ ],
+ "sections": [
+  {
+   "titre": "Pourquoi les collocations comptent",
+   "texte": [
+    "Une collocation est une association de mots que les locuteurs natifs utilisent de façon habituelle. Rien n'interdit logiquement de dire « make a conclusion », mais l'anglais dit « draw / reach a conclusion ». Le lecteur repère immédiatement l'écart, et le texte perd en crédibilité.",
+    "En anglais académique, quatre types dominent : verbe + nom (conduct research), adjectif + nom (compelling evidence), adverbe + adjectif ou verbe (closely linked, clearly demonstrate), nom + préposition (an increase in). Apprenez-les comme des blocs, avec un exemple."
+   ],
+   "exemples": [
+    [
+     "We conducted a survey of 500 households.",
+     "« Conduct » : le verbe neutre et formel pour une enquête ou une étude."
+    ],
+    [
+     "The study draws three main conclusions.",
+     "On « tire » une conclusion : draw, jamais make."
+    ]
+   ]
+  },
+  {
+   "titre": "Verbe + nom : mener une recherche, argumenter",
+   "texte": [
+    "Ces collocations décrivent les étapes du travail de recherche : concevoir, collecter, analyser, conclure, discuter. Le verbe « do » est possible à l'oral (do research), mais « conduct » ou « carry out » sont préférés à l'écrit."
+   ],
+   "tableau": {
+    "entetes": [
+     "Étape",
+     "Collocations",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Mener l'étude",
+      "conduct / carry out research, a study, an experiment, a survey",
+      "The team carried out a series of experiments."
+     ],
+     [
+      "Les données",
+      "collect / gather / analyse data",
+      "Data were collected over six months."
+     ],
+     [
+      "L'hypothèse",
+      "put forward / test / support / reject a hypothesis",
+      "The results support our initial hypothesis."
+     ],
+     [
+      "Les preuves",
+      "provide / present / find evidence",
+      "The study provides strong evidence of a link."
+     ],
+     [
+      "Les problèmes",
+      "raise / address / tackle an issue; pose a problem / a threat",
+      "This chapter addresses the issue of access."
+     ],
+     [
+      "Le rôle",
+      "play a (key / crucial) role in",
+      "Education plays a crucial role in mobility."
+     ],
+     [
+      "La conclusion",
+      "draw / reach / come to a conclusion",
+      "It is too early to draw firm conclusions."
+     ],
+     [
+      "L'apport",
+      "shed / throw light on; fill / bridge a gap (in the literature)",
+      "This paper fills a gap in the literature."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Several questions are raised by these findings.",
+     "« Raise a question » : soulever une question (pas « rise »)."
+    ],
+    [
+     "The report fails to address the issue of cost.",
+     "« Address an issue » : traiter une question (sens académique de address)."
+    ]
+   ]
+  },
+  {
+   "titre": "Adjectif + nom : qualifier avec précision",
+   "texte": [
+    "L'adjectif académique est choisi pour sa précision, pas pour son intensité. « A big difference » est familier ; « a significant difference » est attendu (et, en statistique, signifie que la différence n'est pas due au hasard).",
+    "Les mots « evidence », « research » et « data » ont leurs adjectifs habituels : compelling / conclusive / limited evidence, extensive / recent research, reliable / limited data."
+   ],
+   "tableau": {
+    "entetes": [
+     "Nom",
+     "Adjectifs fréquents",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "evidence",
+      "strong, compelling, conclusive, limited, conflicting",
+      "There is conflicting evidence on this point."
+     ],
+     [
+      "difference",
+      "significant, marked, slight, considerable",
+      "We found a marked difference between groups."
+     ],
+     [
+      "increase / decline",
+      "sharp, steady, substantial, gradual",
+      "There was a sharp decline in enrolment."
+     ],
+     [
+      "role / factor",
+      "key, crucial, major, contributing",
+      "Price is a key factor in consumer choice."
+     ],
+     [
+      "research",
+      "extensive, recent, further, empirical",
+      "Further research is needed."
+     ],
+     [
+      "consensus / belief",
+      "broad, general / widespread, common",
+      "There is a broad consensus among economists."
+     ],
+     [
+      "body",
+      "a growing / large body of research / evidence",
+      "A growing body of research links sleep and memory."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "A growing body of evidence suggests that the policy is effective.",
+     "« A body of evidence » : un ensemble de preuves ; le verbe s'accorde avec « body » (suggests)."
+    ]
+   ]
+  },
+  {
+   "titre": "Adverbe + adjectif ou verbe",
+   "texte": [
+    "Les adverbes « collent » à certains adjectifs et verbes. On dit « closely related », « widely used », « highly significant », mais pas « strongly related » dans tous les contextes, ni « highly used »."
+   ],
+   "tableau": {
+    "entetes": [
+     "Collocation",
+     "Sens",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "closely related / linked",
+      "étroitement lié",
+      "Income is closely linked to education."
+     ],
+     [
+      "widely accepted / used",
+      "largement accepté / utilisé",
+      "This model is widely used in finance."
+     ],
+     [
+      "highly significant / effective",
+      "très significatif / efficace",
+      "The effect was highly significant."
+     ],
+     [
+      "statistically significant",
+      "statistiquement significatif",
+      "The difference is not statistically significant."
+     ],
+     [
+      "largely due to",
+      "en grande partie dû à",
+      "The rise is largely due to inflation."
+     ],
+     [
+      "heavily dependent on",
+      "fortement dépendant de",
+      "The region is heavily dependent on tourism."
+     ],
+     [
+      "clearly demonstrate / critically examine / briefly outline",
+      "démontrer clairement / examiner de façon critique / exposer brièvement",
+      "This section briefly outlines the method."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Unemployment is closely linked to the level of qualification.",
+     "« Closely linked to » : collocation adverbe + participe + préposition."
+    ]
+   ]
+  },
+  {
+   "titre": "Nom + préposition et expressions figées",
+   "texte": [
+    "La préposition après un nom académique est rarement celle du français. « Une augmentation de 5 % » = an increase of 5 % ; « une augmentation des prix » = an increase in prices. « L'impact sur » = the impact on, « une recherche sur » = research into / on."
+   ],
+   "tableau": {
+    "entetes": [
+     "Nom",
+     "Préposition",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "increase / decrease / rise / decline",
+      "in (ce qui change) / of (la quantité)",
+      "a rise in prices of 4 %"
+     ],
+     [
+      "impact / effect / influence",
+      "on",
+      "the effect of stress on memory"
+     ],
+     [
+      "research",
+      "into / on",
+      "research into renewable energy"
+     ],
+     [
+      "approach",
+      "to",
+      "a new approach to teaching"
+     ],
+     [
+      "evidence",
+      "of / for",
+      "evidence of fraud / evidence for a theory"
+     ],
+     [
+      "the extent",
+      "to which",
+      "We examine the extent to which age matters."
+     ],
+     [
+      "expressions",
+      "in terms of, with respect to, on the basis of, in contrast to",
+      "On the basis of these results, we recommend…"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The report measures the impact of the reform on small businesses.",
+     "impact OF la réforme ON les petites entreprises."
+    ]
+   ]
+  },
+  {
+   "titre": "Les calques à éviter",
+   "texte": [
+    "« Research », « evidence », « information » et « advice » sont indénombrables : pas de « researches », « evidences », « informations ». Pour compter, on dit « a study », « studies », « a piece of evidence ».",
+    "« Data » est un pluriel latin : « the data show » est la norme dans beaucoup de revues scientifiques, mais « the data shows » (indénombrable) est désormais très courant et accepté. Restez cohérent dans tout le texte.",
+    "Faux amis : « realise » = se rendre compte (pas réaliser une étude : conduct) ; « an experience » = un vécu (une expérience scientifique = an experiment) ; « important » ne qualifie pas une quantité (an important number → a large number)."
+   ],
+   "exemples": [
+    [
+     "Two recent studies confirm this result.",
+     "Pour compter des recherches : « studies », pas « researches »."
+    ],
+    [
+     "The data show / The data shows a clear trend.",
+     "Les deux accords existent ; choisissez-en un et gardez-le dans tout le texte."
+    ]
+   ]
+  }
+ ],
+ "formule": "Verbe + nom (conduct a study, draw a conclusion) · adjectif + nom (a significant difference) · adverbe + adjectif (closely linked) · nom + préposition (an increase in, an impact on)",
+ "prononciation": [
+  "« conduct » change d'accent selon sa nature : verbe /kənˈdʌkt/ (accent sur la 2e syllabe), nom /ˈkɒndʌkt/ (sur la 1re).",
+  "« research » : /rɪˈsɜːtʃ/ (BrE, accent sur la 2e syllabe) ; en américain, on entend aussi /ˈriːsɜːrtʃ/ pour le nom.",
+  "« data » : /ˈdeɪtə/ (le plus courant) ou /ˈdɑːtə/ ; les deux sont corrects.",
+  "« hypothesis » /haɪˈpɒθəsɪs/, pluriel « hypotheses » /haɪˈpɒθəsiːz/ : la fin passe à /iːz/.",
+  "« analyse » (BrE) / « analyze » (AmE) se prononce /ˈænəlaɪz/ ; le nom « analysis » /əˈnæləsɪs/ déplace l'accent."
+ ],
+ "erreurs": [
+  [
+   "We made a research on migration.",
+   "We conducted research into / on migration.",
+   "« Research » est indénombrable et se construit avec conduct / carry out."
+  ],
+  [
+   "An important number of students failed.",
+   "A large / significant number of students failed.",
+   "« Important » ne mesure pas une quantité en anglais."
+  ],
+  [
+   "We realised a study in 2024.",
+   "We conducted / carried out a study in 2024.",
+   "« Realise » = se rendre compte."
+  ],
+  [
+   "They did an experience in the lab.",
+   "They carried out an experiment in the lab.",
+   "Expérience scientifique = experiment."
+  ],
+  [
+   "We can make the conclusion that…",
+   "We can draw the conclusion that… / We can conclude that…",
+   "On « draws » une conclusion."
+  ],
+  [
+   "There are many evidences of a link.",
+   "There is a great deal of evidence of a link.",
+   "« Evidence » est indénombrable."
+  ],
+  [
+   "The increase of prices was sharp.",
+   "The increase in prices was sharp.",
+   "« Increase in » + ce qui augmente ; « of » + le montant."
+  ],
+  [
+   "This rises an important question.",
+   "This raises an important question.",
+   "« Raise » (transitif) ≠ « rise » (intransitif)."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "À l'Université de Buea, une doctorante relit avec sa directrice l'introduction de son article.",
+  "lignes": [
+   [
+    "Dr Mbah",
+    "Your first sentence says “We made a research on mobile banking.” Let's fix that.",
+    "Ta première phrase dit « We made a research… ». Corrigeons-la."
+   ],
+   [
+    "Esther",
+    "“We conducted research into mobile banking”?",
+    "« We conducted research into mobile banking » ?"
+   ],
+   [
+    "Dr Mbah",
+    "Perfect. And “an important number of users”?",
+    "Parfait. Et « an important number of users » ?"
+   ],
+   [
+    "Esther",
+    "“A significant number of users”… or “a large number”, since it's not a statistical test.",
+    "« Un nombre important » : « a large number », puisque ce n'est pas un test statistique."
+   ],
+   [
+    "Dr Mbah",
+    "Good thinking. Then you write that mobile money “has a big role”.",
+    "Bonne réflexion. Ensuite tu écris que l'argent mobile « a un grand rôle »."
+   ],
+   [
+    "Esther",
+    "It “plays a crucial role in financial inclusion”.",
+    "Il « joue un rôle crucial dans l'inclusion financière »."
+   ],
+   [
+    "Dr Mbah",
+    "Exactly. And how would you describe your contribution?",
+    "Exactement. Et comment décrirais-tu ton apport ?"
+   ],
+   [
+    "Esther",
+    "“This paper fills a gap in the literature and sheds light on rural users.”",
+    "« Cet article comble une lacune dans la littérature et éclaire le cas des usagers ruraux. »"
+   ],
+   [
+    "Dr Mbah",
+    "Excellent. Now it sounds like a real journal article.",
+    "Excellent. Maintenant, ça ressemble à un vrai article de revue."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "conduct",
+   "The survey was conducted online.",
+   "mener, réaliser (une étude)"
+  ],
+  [
+   "evidence",
+   "The evidence is still limited.",
+   "preuves, données probantes (indénombrable)"
+  ],
+  [
+   "significant",
+   "There was no significant change.",
+   "notable ; (statistique) significatif"
+  ],
+  [
+   "hypothesis",
+   "The data support the hypothesis.",
+   "hypothèse"
+  ],
+  [
+   "findings",
+   "Our findings confirm earlier studies.",
+   "résultats (d'une recherche)"
+  ],
+  [
+   "address",
+   "The paper addresses three questions.",
+   "traiter, aborder (une question)"
+  ],
+  [
+   "consensus",
+   "There is no consensus on this issue.",
+   "consensus"
+  ],
+  [
+   "correlation",
+   "We found a strong correlation between the variables.",
+   "corrélation"
+  ],
+  [
+   "extent",
+   "We measure the extent to which prices changed.",
+   "mesure, degré"
+  ],
+  [
+   "empirical",
+   "The study is based on empirical data.",
+   "empirique, fondé sur l'observation"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Choisir le verbe",
+   "consigne": "Choisis le verbe qui forme la bonne collocation.",
+   "items": [
+    [
+     "to ___ a conclusion (make / draw)",
+     "draw"
+    ],
+    [
+     "to ___ a survey (conduct / realise)",
+     "conduct"
+    ],
+    [
+     "to ___ a question (raise / rise)",
+     "raise"
+    ],
+    [
+     "to ___ a crucial role (have / play)",
+     "play"
+    ],
+    [
+     "to ___ light on a problem (throw / give)",
+     "throw (ou shed)"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Compléter avec l'adjectif ou l'adverbe",
+   "consigne": "Complète avec : growing, closely, widely, sharp, conflicting, significant.",
+   "items": [
+    [
+     "There was a ___ decline in sales in March.",
+     "sharp"
+    ],
+    [
+     "Income is ___ linked to education.",
+     "closely"
+    ],
+    [
+     "This method is ___ used in medicine.",
+     "widely"
+    ],
+    [
+     "A ___ body of research supports this view.",
+     "growing"
+    ],
+    [
+     "Studies have produced ___ evidence on this point.",
+     "conflicting"
+    ],
+    [
+     "The difference between the two groups was not statistically ___.",
+     "significant"
+    ]
+   ]
+  },
+  {
+   "titre": "3. La bonne préposition",
+   "consigne": "Complète avec la préposition correcte.",
+   "items": [
+    [
+     "an increase ___ unemployment",
+     "in"
+    ],
+    [
+     "the impact of social media ___ teenagers",
+     "on"
+    ],
+    [
+     "research ___ climate change",
+     "into (ou on)"
+    ],
+    [
+     "a new approach ___ the problem",
+     "to"
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger le calque",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "We made a research on rural schools.",
+     "We conducted research into / on rural schools."
+    ],
+    [
+     "An important number of patients improved.",
+     "A large / significant number of patients improved."
+    ],
+    [
+     "The researchers did an experience on mice.",
+     "The researchers carried out an experiment on mice."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais académique.",
+   "items": [
+    [
+     "Il est trop tôt pour tirer des conclusions définitives.",
+     "It is too early to draw firm / definitive conclusions."
+    ],
+    [
+     "Cette hausse est en grande partie due à l'inflation.",
+     "This increase is largely due to inflation."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court paragraphe (4 phrases) qui présente une étude réelle ou imaginaire. Utilise au moins cinq collocations de la leçon.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "We conducted a survey of 800 small farmers in the West Region in order to examine the impact of mobile money on savings. Data were collected through face-to-face interviews and analysed using regression models. The findings show a significant increase in savings among users, which is largely due to lower transaction costs. These results shed light on an area that has received little attention, although further research is needed."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Apprenez les collocations en blocs : conduct a study, collect data, draw a conclusion, address an issue, play a role.",
+  "Adjectifs précis plutôt qu'intenses : a significant difference, a sharp decline, compelling evidence, a growing body of research.",
+  "Prépositions : an increase in, an impact on, research into, an approach to, the extent to which.",
+  "Indénombrables : research, evidence, information ; faux amis : realise, experience, important (pour une quantité)."
+ ],
+ "liens": [
+  175,
+  176,
+  225,
+  227,
+  238
+ ],
+ "refs": [
+  "bc-c1",
+  "cam-mistakes",
+  "cam-nouns"
+ ]
+}

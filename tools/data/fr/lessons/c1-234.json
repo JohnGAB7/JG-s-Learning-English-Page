@@ -1,0 +1,435 @@
+{
+ "n": 234,
+ "niveau": "C1",
+ "titre": "Les temps et l’aspect : nuances fines",
+ "intro": "Au niveau C1, vous connaissez les temps ; il s'agit maintenant de choisir entre deux formes correctes selon la nuance voulue : agacement (He's always interrupting), politesse (I was wondering…), résultat visible (You've been crying), neutralité (Will you be using the car?). C'est là que l'anglais d'un francophone devient vraiment précis.",
+ "objectifs": [
+  "Comprendre la logique de l'aspect : simple (fait, ensemble, permanent), continu (en cours, temporaire, coloré), parfait (lien avec un moment ultérieur).",
+  "Utiliser les formes continues pour l'agacement, le temporaire, le changement et la politesse.",
+  "Choisir finement entre present perfect simple et continu, prétérit et present perfect, past perfect simple et continu.",
+  "Employer le présent de narration et les futurs nuancés (will be + -ing, future perfect)."
+ ],
+ "sections": [
+  {
+   "titre": "Temps et aspect : la logique",
+   "texte": [
+    "Le temps situe l'action (présent, passé) ; l'aspect indique comment on la regarde. L'aspect simple présente l'action comme un fait complet ou permanent. L'aspect continu la présente de l'intérieur : en cours, limitée dans le temps, inachevée, souvent avec une coloration émotionnelle. L'aspect parfait relie l'action à un moment de référence ultérieur (maintenant, un moment passé, un moment futur).",
+    "Deux phrases correctes peuvent donc dire des choses différentes : « I live in Lille » (ma résidence) / « I'm living in Lille » (pour l'instant) ; « I've read your report » (c'est fini) / « I've been reading your report » (j'y ai passé du temps, pas forcément fini)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Aspect",
+     "Vision de l'action",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Simple",
+      "fait global, permanent, achevé",
+      "She works for a bank."
+     ],
+     [
+      "Continu",
+      "en cours, temporaire, inachevé, émotion",
+      "She's working from home this month."
+     ],
+     [
+      "Parfait",
+      "lien avec un moment ultérieur",
+      "She has worked there since 2020."
+     ],
+     [
+      "Parfait continu",
+      "durée ou activité menant à un moment",
+      "She's been working all night; she's exhausted."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Les formes continues : agacement, temporaire, changement",
+   "texte": [
+    "Avec « always », « constantly », « forever », le présent ou le passé continu exprime une habitude qui agace (ou, plus rarement, qui étonne) : « He's always leaving his dishes in the sink. » Le présent simple « He always leaves… » serait un simple constat.",
+    "Le continu marque aussi une situation temporaire (« I'm staying with friends until I find a flat ») et une évolution en cours (« Prices are rising », « The climate is getting warmer »).",
+    "Certains verbes d'état prennent le continu quand leur sens change ou devient actif : « I think it's true » (opinion) / « I'm thinking about it » (réflexion) ; « She's difficult » (caractère) / « She's being difficult » (comportement du moment)."
+   ],
+   "exemples": [
+    [
+     "She's always complaining about her colleagues.",
+     "Agacement : présent continu + always."
+    ],
+    [
+     "You're being very quiet today. Is anything wrong?",
+     "« be » au continu : comportement inhabituel du moment."
+    ],
+    [
+     "More and more people are working remotely.",
+     "Évolution en cours."
+    ]
+   ]
+  },
+  {
+   "titre": "Le passé pour la politesse et la distance",
+   "texte": [
+    "En anglais, le passé (et surtout le passé continu) crée une distance polie, même quand on parle du présent : « I was wondering if you could help me » est plus délicat que « I wonder if… », lui-même plus doux que « Can you help me? ».",
+    "Même logique avec « I was hoping… », « I wanted to ask… », « Did you want something? » (commerçant), « I'd been meaning to call you » (je voulais t'appeler depuis un moment)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Direct",
+     "Plus poli (distance)"
+    ],
+    "lignes": [
+     [
+      "Can you lend me your notes?",
+      "I was wondering if you could lend me your notes."
+     ],
+     [
+      "I hope you can come.",
+      "I was hoping you could come."
+     ],
+     [
+      "Do you want anything else?",
+      "Did you want anything else?"
+     ],
+     [
+      "I want to ask you something.",
+      "I wanted to ask you something."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "I was hoping we could discuss my contract.",
+     "Demande délicate à un supérieur."
+    ]
+   ]
+  },
+  {
+   "titre": "Present perfect : simple ou continu, ou prétérit ?",
+   "texte": [
+    "Present perfect simple : résultat, quantité, action terminée (« I've written three emails »). Present perfect continu : activité, durée, résultat visible d'une activité, éventuellement inachevée (« I've been writing emails all morning », « Your eyes are red — have you been crying? »).",
+    "Une nouvelle s'annonce au present perfect, puis les détails passent au prétérit : « The minister has resigned. She announced her decision at 10 a.m. »",
+    "Anglais américain : le prétérit est fréquent avec just, already, yet (« Did you eat yet? ») là où le britannique exige le present perfect (« Have you eaten yet? »). Les deux sont corrects dans leur variété."
+   ],
+   "exemples": [
+    [
+     "I've been painting the kitchen, which is why I'm covered in paint.",
+     "Continu : résultat visible de l'activité."
+    ],
+    [
+     "I've painted the kitchen. Come and see!",
+     "Simple : le travail est terminé, on montre le résultat."
+    ],
+    [
+     "A fire has broken out in Kumasi. It started in the market at dawn.",
+     "Nouvelle au present perfect, détails au prétérit."
+    ]
+   ]
+  },
+  {
+   "titre": "Récit et futur : présent de narration, will be + -ing, future perfect",
+   "texte": [
+    "Dans un récit oral, une blague ou un résumé de film, l'anglais utilise volontiers le présent pour rendre l'histoire vivante : « So I walk into the office, and my boss says… ». Les titres de presse aussi : « President visits Yaoundé ».",
+    "« Will be + -ing » présente une action future comme allant de soi, sans intention ni demande : « Will you be using the car tonight? » (simple question d'organisation) est plus poli que « Will you use…? », qui peut sonner comme une demande. « I'll be seeing her tomorrow anyway » = cela fait partie du programme.",
+    "Le future perfect regarde en arrière depuis un moment futur : « By June, we'll have finished the project. » Au continu, il mesure une durée : « In May, I'll have been working here for ten years. »"
+   ],
+   "exemples": [
+    [
+     "Will you be needing a taxi after the conference?",
+     "Question neutre et polie d'un hôtel."
+    ],
+    [
+     "By the time you arrive, we'll have eaten.",
+     "Future perfect : action achevée avant un moment futur."
+    ]
+   ]
+  },
+  {
+   "titre": "Les pièges des francophones",
+   "texte": [
+    "« Depuis » + présent en français correspond au present perfect (simple ou continu) en anglais : « J'habite ici depuis 2018 » = I've lived / I've been living here since 2018.",
+    "« Être en train de » ne doit pas être traduit systématiquement : le continu anglais suffit (« I'm cooking »). « Venir de » = just + present perfect (BrE) : « Je viens de finir » = I've just finished.",
+    "Le passé composé français couvre à la fois le prétérit et le present perfect anglais : avec un moment passé précis (hier, en 2019, il y a deux jours), seul le prétérit est possible."
+   ]
+  }
+ ],
+ "formule": "Simple = fait global · Continu = en cours / temporaire / émotion / politesse · Parfait = lien avec un moment ultérieur ; choisir la forme selon la nuance, pas seulement selon le temps",
+ "prononciation": [
+  "Dans « He's ALWAYS interrupting », « always » porte un accent fort et une intonation marquée qui traduit l'agacement.",
+  "« I was wondering » se réduit : /aɪ wəz ˈwʌndərɪŋ/ ; « was » faible /wəz/.",
+  "Present perfect continu : « I've been » /aɪv bɪn/ ; « been » est réduit à /bɪn/ en BrE (/bɪn/ ou /bɛn/ en AmE).",
+  "Future perfect : « we'll have finished » /wiːl əv ˈfɪnɪʃt/ ; « have » réduit à /əv/.",
+  "Le -ed de « finished » se prononce /t/ après le son /ʃ/."
+ ],
+ "erreurs": [
+  [
+   "I live in Toronto since 2018.",
+   "I've lived / I've been living in Toronto since 2018.",
+   "« Depuis » + présent français = present perfect anglais."
+  ],
+  [
+   "I've seen him yesterday.",
+   "I saw him yesterday.",
+   "Moment passé précis : prétérit."
+  ],
+  [
+   "I'm just coming to finish the report.",
+   "I've just finished the report.",
+   "« Je viens de » = have just + participe passé."
+  ],
+  [
+   "He always interrupts me! It's so annoying.",
+   "He's always interrupting me! It's so annoying.",
+   "Pour exprimer l'agacement, présent continu + always."
+  ],
+  [
+   "I'm knowing the answer.",
+   "I know the answer.",
+   "« Know » est un verbe d'état : pas de continu."
+  ],
+  [
+   "Will you use the printer this afternoon? (question neutre)",
+   "Will you be using the printer this afternoon?",
+   "« Will be + -ing » évite l'impression de demande ou de reproche."
+  ],
+  [
+   "By next year I will finish my degree.",
+   "By next year I will have finished my degree.",
+   "Avec « by + moment futur », future perfect."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "À Lille, Mathilde va voir sa responsable, Joanne, pour parler d'une possible formation.",
+  "lignes": [
+   [
+    "Mathilde",
+    "Hi Joanne. I was wondering if you had a minute.",
+    "Bonjour Joanne. Je me demandais si tu avais une minute."
+   ],
+   [
+    "Joanne",
+    "Of course. You've been looking a bit stressed lately. Is everything OK?",
+    "Bien sûr. Tu as l'air un peu stressée ces temps-ci. Tout va bien ?"
+   ],
+   [
+    "Mathilde",
+    "Yes, it's just that I've been thinking about my future here.",
+    "Oui, c'est juste que je réfléchis à mon avenir ici."
+   ],
+   [
+    "Joanne",
+    "I see. How long have you been working with us now?",
+    "Je vois. Ça fait combien de temps que tu travailles avec nous ?"
+   ],
+   [
+    "Mathilde",
+    "Four years in March. I was hoping I could do the data analysis course.",
+    "Quatre ans en mars. J'espérais pouvoir suivre la formation en analyse de données."
+   ],
+   [
+    "Joanne",
+    "That makes sense. The team is growing, and we're getting more data projects.",
+    "C'est logique. L'équipe s'agrandit et nous avons de plus en plus de projets de données."
+   ],
+   [
+    "Mathilde",
+    "Exactly. And if I start in January, I'll have finished by June.",
+    "Exactement. Et si je commence en janvier, j'aurai fini en juin."
+   ],
+   [
+    "Joanne",
+    "Let me check the budget. I'll be seeing the director on Thursday anyway.",
+    "Je vérifie le budget. De toute façon, je vois la directrice jeudi."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "aspect",
+   "The continuous aspect shows an action in progress.",
+   "aspect (grammatical)"
+  ],
+  [
+   "temporary",
+   "I'm living with my aunt — it's only temporary.",
+   "temporaire"
+  ],
+  [
+   "annoying",
+   "It's annoying that he's always late.",
+   "agaçant"
+  ],
+  [
+   "wonder",
+   "I was wondering if you could help me.",
+   "se demander"
+  ],
+  [
+   "lately",
+   "Have you been sleeping well lately?",
+   "ces derniers temps"
+  ],
+  [
+   "anyway",
+   "I'll be seeing him tomorrow anyway.",
+   "de toute façon"
+  ],
+  [
+   "by the time",
+   "By the time we arrived, the film had started.",
+   "le temps que, au moment où"
+  ],
+  [
+   "break out",
+   "A fire has broken out in the market.",
+   "éclater, se déclarer"
+  ],
+  [
+   "meaning to",
+   "I've been meaning to call you for weeks.",
+   "avoir l'intention de (depuis un moment)"
+  ],
+  [
+   "ongoing",
+   "The investigation is ongoing.",
+   "en cours"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quelle nuance ?",
+   "consigne": "Indique la nuance exprimée : agacement, temporaire, politesse ou résultat visible.",
+   "items": [
+    [
+     "He's always borrowing my charger without asking.",
+     "agacement"
+    ],
+    [
+     "I'm staying at a hotel until my flat is ready.",
+     "temporaire"
+    ],
+    [
+     "I was wondering if you could send me the file.",
+     "politesse"
+    ],
+    [
+     "Your hands are dirty. Have you been gardening?",
+     "résultat visible"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Choisir la forme",
+   "consigne": "Choisis la forme qui convient.",
+   "items": [
+    [
+     "I (have read / have been reading) three of her novels.",
+     "have read"
+    ],
+    [
+     "I'm tired because I (have driven / have been driving) all day.",
+     "have been driving"
+    ],
+    [
+     "The president (has arrived / arrived) in Ottawa. He (has landed / landed) at 9 a.m.",
+     "has arrived ; landed"
+    ],
+    [
+     "(Will you use / Will you be using) the meeting room this afternoon? I'd like to book it.",
+     "Will you be using"
+    ],
+    [
+     "By 2030, the city (will build / will have built) a new metro line.",
+     "will have built"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Rendre plus poli",
+   "consigne": "Réécris la demande avec une forme au passé plus polie.",
+   "items": [
+    [
+     "Can you check my report?",
+     "I was wondering if you could check my report."
+    ],
+    [
+     "I hope you can give me a day off.",
+     "I was hoping you could give me a day off."
+    ],
+    [
+     "Do you want to pay by card?",
+     "Did you want to pay by card?"
+    ],
+    [
+     "I want to ask you about the deadline.",
+     "I wanted to ask you about the deadline."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "We know each other since primary school.",
+     "We've known each other since primary school."
+    ],
+    [
+     "I've met her in Brussels in 2019.",
+     "I met her in Brussels in 2019."
+    ],
+    [
+     "She's knowing a lot about tax law.",
+     "She knows a lot about tax law."
+    ],
+    [
+     "By Friday I will finish all the tests.",
+     "By Friday I will have finished all the tests."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais en choisissant la nuance juste.",
+   "items": [
+    [
+     "Je viens de recevoir ton message.",
+     "I've just received / got your message."
+    ],
+    [
+     "Il est toujours en train de se plaindre !",
+     "He's always complaining!"
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris un court message (4 à 5 phrases) à un collègue pour lui demander poliment un service, en expliquant ta situation actuelle. Utilise au moins quatre nuances de la leçon.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "Hi Ana, I was wondering if you could cover my shift on Saturday. I've been working on the annual report all week and I'm still not finished. My sister is staying with me at the moment, and she's always asking when I'll have some free time. By Monday I'll have sent the report, so I could take your Wednesday shift in return."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Simple = fait global ou permanent ; continu = en cours, temporaire, évolution, émotion ; parfait = lien avec un moment ultérieur.",
+  "Always + continu = agacement ; passé continu = politesse (I was wondering…) ; « be » au continu = comportement du moment.",
+  "PP simple = résultat ou quantité ; PP continu = activité, durée, résultat visible ; nouvelle au PP, détails au prétérit.",
+  "Will be + -ing = futur neutre et poli ; by + futur → future perfect ; depuis + présent → present perfect."
+ ],
+ "liens": [
+  166,
+  167,
+  165,
+  235,
+  288
+ ],
+ "refs": [
+  "bc-adv-present",
+  "bc-pp-cont",
+  "bc-future-cont-perf"
+ ]
+}

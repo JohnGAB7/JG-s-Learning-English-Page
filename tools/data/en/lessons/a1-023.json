@@ -1,0 +1,199 @@
+{
+"n": 23,
+"niveau": "A1",
+"titre": "Family",
+"intro": "Family is one of the first things people talk about. This lesson gives you the words for your close family, your wider family and your family by marriage, and the sentences to present them.",
+"objectifs": [
+ "Name the people in your close and wider family (parents, brothers and sisters, uncles, cousins…).",
+ "Use words for family by marriage and new families (in-laws, stepfather, half-sister).",
+ "Present your family with “have got”, the possessive ’s and possessive adjectives.",
+ "Avoid common traps: “parents” vs “relatives”, and irregular plurals (children)."
+],
+"sections": [
+ {
+  "titre": "Close family",
+  "texte": [
+   "Many words come in male / female pairs. At home, people often say “mum” and “dad” (American English: “mom” and “dad”).",
+   "“Child” has an irregular plural: “children”. “Siblings” (brothers and sisters) is a little formal; in conversation, people usually say “brothers and sisters”."
+  ],
+  "tableau": {
+   "entetes": ["Male", "Female", "Both / plural", "Informal"],
+   "lignes": [
+    ["father", "mother", "parents", "dad, mum (US mom)"],
+    ["son", "daughter", "children (one child)", "kids"],
+    ["brother", "sister", "siblings", "bro, sis (very informal)"],
+    ["husband", "wife (plural: wives)", "partner", "—"]
+   ]
+  },
+  "exemples": [
+   ["My mum is a teacher and my dad is a taxi driver.", "Informal words for parents."],
+   ["They have two children: a son and a daughter.", "children = plural of child."],
+   ["This is my wife, Aïcha.", "Introducing a family member."]
+  ],
+  "note": "“Wife” means a married woman (someone's partner). For any female adult, say “a woman”."
+ },
+ {
+  "titre": "The wider family",
+  "texte": [
+   "Add “grand-” for the generation of your grandparents and your grandchildren: grandmother (grandma, granny), grandfather (grandpa), grandson, granddaughter.",
+   "“Cousin” is the same word for a man and a woman. For the generation before your grandparents, add “great-”: great-grandmother."
+  ],
+  "tableau": {
+   "entetes": ["Male", "Female", "Plural", "Who?"],
+   "lignes": [
+    ["grandfather", "grandmother", "grandparents", "your parents' parents"],
+    ["grandson", "granddaughter", "grandchildren", "your children's children"],
+    ["uncle", "aunt", "uncles and aunts", "your parents' brothers and sisters"],
+    ["nephew", "niece", "nephews and nieces", "your brothers' and sisters' children"],
+    ["cousin", "cousin", "cousins", "your uncles' and aunts' children"]
+   ]
+  },
+  "exemples": [
+   ["My grandparents live in a village near Bafoussam.", "grandparents = grandmother + grandfather."],
+   ["I've got ten cousins!", "cousin: male or female."]
+  ]
+ },
+ {
+  "titre": "Family by marriage and new families",
+  "texte": [
+   "For your husband's or wife's family, add “-in-law”: mother-in-law, brother-in-law. In the plural, the first word takes the s: sisters-in-law. All of them together: “my in-laws”.",
+   "In a new family, “step-” is for your parent's new partner or their children: stepfather (your mother's husband, not your father), stepsister. “Half-” is for a brother or sister with only one parent the same as you: half-brother.",
+   "Careful: “mother-in-law” is your partner's mother; “stepmother” is your father's wife. They are two different people."
+  ],
+  "exemples": [
+   ["My mother-in-law makes the best ndolé.", "My husband's or wife's mother."],
+   ["My stepfather is from Ghent.", "My mother's husband."],
+   ["Leo is my half-brother: we have the same dad.", "One parent in common."]
+  ]
+ },
+ {
+  "titre": "“Parents” and “relatives”",
+  "texte": [
+   "In English, “parents” means only your mother and father. For other people in your family (uncles, cousins…), say “relatives” or “relations”.",
+   "“Family” is a singular noun: “My family is big.” In British English you also hear “My family are all tall” when you think of the people one by one."
+  ],
+  "exemples": [
+   ["My parents live in Montreal.", "My mother and father."],
+   ["We have relatives in France and Belgium.", "Other people in our family."]
+  ]
+ },
+ {
+  "titre": "Presenting your family",
+  "texte": [
+   "To say how many brothers, sisters or children you have, use “have got” (lesson 5) or “have”: “I've got two sisters.” / “I have two sisters.” The question: “Have you got any brothers or sisters?” or “Do you have any brothers or sisters?”.",
+   "For family links, use the possessive ’s (lesson 15): “my sister's husband”, “my parents' house”.",
+   "Useful phrases: “I'm an only child” (no brothers or sisters), “He's my older brother”, “She's my younger sister”, “We're twins”, “I'm married / single / divorced”."
+  ],
+  "exemples": [
+   ["Have you got any brothers or sisters? — Yes, I've got one brother.", "Question and answer with have got."],
+   ["No, I haven't. I'm an only child.", "Use “an” before “only child”."],
+   ["My sister's husband is a nurse.", "Possessive ’s for family links."]
+  ]
+ }
+],
+"formule": "I've got + number + family word · my sister's husband · my parents' house",
+"prononciation": [
+ "“mother”, “brother”, “other”: the o is /ʌ/ (like in “but”) and the th is /ð/: /ˈmʌðə/, /ˈbrʌðə/.",
+ "“daughter” /ˈdɔːtə/: you don't say the gh. The same in “granddaughter” /ˈɡrændɔːtə/.",
+ "“aunt” is /ɑːnt/ in British English and /ænt/ in American English (like “ant”, the insect).",
+ "“cousin” /ˈkʌzn/ and “husband” /ˈhʌzbənd/: the s sounds like /z/.",
+ "“niece” /niːs/ rhymes with “piece”; “nephew” /ˈnefjuː/ has the stress on the first syllable."
+],
+"erreurs": [
+ ["I have three childs.", "I have three children.", "Irregular plural: child → children."],
+ ["My parents are all at the wedding: my uncles, my cousins…", "My relatives are all at the wedding.", "“Parents” = mother and father only; the wider family = relatives."],
+ ["She is my cousine.", "She's my cousin.", "“Cousin” is the same for male and female."],
+ ["the brother of my mother", "my mother's brother / my uncle", "Use the possessive ’s for family links."],
+ ["I am only child.", "I'm an only child.", "You need the article “an”."],
+ ["He's my niece.", "He's my nephew.", "nephew = male; niece = female."],
+ ["How many brothers do you have got?", "How many brothers have you got? / How many brothers do you have?", "Don't mix “do” and “have got”."],
+ ["my grandparents's house", "my grandparents' house", "After a plural in -s, add only the apostrophe."]
+],
+"dialogue": {
+ "contexte": "In Brussels, Inès shows family photos to her colleague Kofi.",
+ "lignes": [
+  ["Kofi", "Is this your family?", "A simple question with “to be”."],
+  ["Inès", "Yes! These are my parents, and this is my younger brother, Sami.", "“younger brother” = little brother."],
+  ["Kofi", "And who's the woman with the baby?", "“who's” = who is."],
+  ["Inès", "That's my aunt, my mum's sister. The baby is her granddaughter.", "Possessive ’s for family links."],
+  ["Kofi", "So the baby is your cousin's daughter?", "He checks the family link."],
+  ["Inès", "Exactly. Have you got a big family?", "Question with have got."],
+  ["Kofi", "Very big! I've got four sisters and about thirty cousins in Ghana.", "about = more or less."],
+  ["Inès", "Thirty cousins! I'm jealous. I've only got two.", "“only” = not more than."]
+ ]
+},
+"mots": [
+ ["relative", "We have relatives in Canada.", "a person in your family"],
+ ["parents", "My parents are retired.", "your mother and father"],
+ ["sibling", "Have you got any siblings?", "a brother or a sister"],
+ ["only child", "I'm an only child.", "a child with no brothers or sisters"],
+ ["married", "My sister is married.", "having a husband or a wife"],
+ ["single", "Are you single or married?", "not married, not in a relationship"],
+ ["twin", "Paul and Pierre are twins.", "one of two children born at the same time to the same mother"],
+ ["grandchild", "She has six grandchildren.", "the child of your son or daughter"],
+ ["in-laws", "We visit my in-laws every Sunday.", "the family of your husband or wife"],
+ ["cousin", "My cousin lives in Lyon.", "the child of your aunt or uncle"]
+],
+"exercices": [
+ {
+  "titre": "1. Male and female",
+  "consigne": "Give the female word.",
+  "items": [
+   ["father", "mother"],
+   ["son", "daughter"],
+   ["brother", "sister"],
+   ["husband", "wife"],
+   ["uncle", "aunt"],
+   ["nephew", "niece"]
+  ]
+ },
+ {
+  "titre": "2. Who is it?",
+  "consigne": "Complete with the right family word.",
+  "items": [
+   ["My mother's mother is my ___.", "grandmother"],
+   ["My aunt's son is my ___.", "cousin"],
+   ["My brother's daughter is my ___.", "niece"],
+   ["My father's brother is my ___.", "uncle"],
+   ["My wife's mother is my ___.", "mother-in-law"]
+  ]
+ },
+ {
+  "titre": "3. The possessive ’s",
+  "consigne": "Rewrite with ’s or ’.",
+  "items": [
+   ["the husband of my sister", "my sister's husband"],
+   ["the children of my brother", "my brother's children"],
+   ["the house of my grandparents", "my grandparents' house"],
+   ["the wife of Paul", "Paul's wife"]
+  ]
+ },
+ {
+  "titre": "4. Correct the mistake",
+  "consigne": "Each sentence has one mistake. Write it correctly.",
+  "items": [
+   ["I've got three childs.", "I've got three children."],
+   ["We have parents in Douala: two uncles and a cousin.", "We have relatives in Douala."],
+   ["I'm only child.", "I'm an only child."],
+   ["My mother-in-law is my father's new wife.", "My stepmother is my father's new wife."],
+   ["Do you have got any brothers or sisters?", "Have you got any brothers or sisters? / Do you have any brothers or sisters?"]
+  ]
+ },
+ {
+  "titre": "5. Your turn",
+  "consigne": "Present your family in four or five sentences: your parents, your brothers and sisters, your wider family.",
+  "items": [
+   ["Model answer", "I've got a small family. My parents live in Liège. I've got one older sister, Clara. Her husband is from Canada and they've got two children, so I've got a nephew and a niece. My grandparents live in a village near Namur."]
+  ]
+ }
+],
+"a_retenir": [
+ "parents = mother and father only; the wider family = relatives.",
+ "child → children; wife → wives; cousin is male and female.",
+ "-in-law for family by marriage (mother-in-law), step- for a new family (stepfather), half- for a half-brother.",
+ "Family links with ’s: my sister's husband, my parents' house.",
+ "I've got two brothers. / I'm an only child. / Have you got any brothers or sisters?"
+],
+"liens": [5, 14, 15, 24],
+"refs": ["bc-possessive-s", "cam-nouns"]
+}

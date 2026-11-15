@@ -1,0 +1,221 @@
+{
+ "n": 3,
+ "niveau": "A1",
+ "titre": "Numbers from 0 to 20",
+ "intro": "You use numbers from 0 to 20 every day: to give your age, a phone number, a room number, a quantity or a simple price. They are the base of all other numbers.",
+ "objectifs": [
+  "Say, write and spell the numbers from 0 to 20 easily.",
+  "Hear and say the -teen numbers with the right stress.",
+  "Say a phone number digit by digit, with “oh” and “double”.",
+  "Use numbers with plural nouns and do small sums out loud."
+ ],
+ "sections": [
+  {
+   "titre": "0 to 12: words to learn by heart",
+   "texte": [
+    "The numbers from 0 to 12 have no rule: each one is a different word. Learn the spelling too, because some are not written the way they sound (eight, two, one).",
+    "“One” sounds like /wʌn/, the same as “won”, with a w sound at the start. “Two” sounds like /tuː/, the same as “too” and “to”: the w is silent."
+   ],
+   "tableau": {
+    "entetes": ["Digit", "Word", "Sound", "Note"],
+    "lignes": [
+     ["0", "zero", "/ˈzɪərəʊ/", "also “oh” or “nought” in some situations"],
+     ["1", "one", "/wʌn/", "w sound at the start"],
+     ["2", "two", "/tuː/", "silent w"],
+     ["3", "three", "/θriː/", "tongue between the teeth, breathe out"],
+     ["4", "four", "/fɔː/", "sounds like “for”"],
+     ["5", "five", "/faɪv/", "clear v at the end"],
+     ["6", "six", "/sɪks/", "short i"],
+     ["7", "seven", "/ˈsevn/", "stress on SE-"],
+     ["8", "eight", "/eɪt/", "silent gh"],
+     ["9", "nine", "/naɪn/", "rhymes with “fine”"],
+     ["10", "ten", "/ten/", ""],
+     ["11", "eleven", "/ɪˈlevn/", "stress on -LE-"],
+     ["12", "twelve", "/twelv/", "the w is pronounced here"]
+    ]
+   }
+  },
+  {
+   "titre": "13 to 19: the -teen ending",
+   "texte": [
+    "From 13 to 19, add -teen to the number. Three numbers change: three → thirteen, five → fifteen, eight → eighteen (only one t, not “eightteen”). Four keeps its u: fourteen.",
+    "When you say the number alone, stress -TEEN: thirTEEN, fourTEEN. This helps people hear the difference from thirty and forty (30, 40), which are stressed at the start (THIRty). You will see them in lesson 20.",
+    "20 is “twenty” /ˈtwenti/. The word “teenager” comes from these numbers: a person from 13 to 19 years old."
+   ],
+   "tableau": {
+    "entetes": ["Digit", "Word", "Trap"],
+    "lignes": [
+     ["13", "thirteen", "thir-, not “threeteen”"],
+     ["14", "fourteen", "keeps the u of four"],
+     ["15", "fifteen", "fif-, not “fiveteen”"],
+     ["16", "sixteen", ""],
+     ["17", "seventeen", ""],
+     ["18", "eighteen", "only one t"],
+     ["19", "nineteen", "keeps the e of nine"],
+     ["20", "twenty", "stress on TWEN-"]
+    ]
+   },
+   "exemples": [
+    ["My son is fifteen.", "Age with “to be”."],
+    ["Room thirteen is on the first floor.", "A room number."]
+   ]
+  },
+  {
+   "titre": "Zero: zero, oh or nil?",
+   "texte": [
+    "There are several ways to say 0. “Zero” is the general word (temperatures, maths, and almost everywhere in American English).",
+    "In a phone number, a room number or a bus number, British people often say “oh”, like the letter O. In football, British English says “nil”: two-nil (2-0). In tennis, 0 is “love”."
+   ],
+   "exemples": [
+    ["It's zero degrees today.", "Temperature: zero."],
+    ["My room is two-oh-five (205).", "British: digit by digit, 0 = oh."],
+    ["Cameroon won two-nil.", "Football score (British)."]
+   ]
+  },
+  {
+   "titre": "Phone numbers",
+   "texte": [
+    "In English, say a phone number digit by digit: 06 12 = “oh six, one two”. Make a small pause between the groups.",
+    "When two digits are the same, British people often say “double”: 77 = “double seven”. Americans usually say “seven seven”. For three of the same digit, say “triple” or each digit.",
+    "To ask: “What's your phone number?”. To check: “Can you repeat that, please?”."
+   ],
+   "exemples": [
+    ["My number is oh-seven-nine, double four, one-six.", "079 44 16 (British style)."],
+    ["Call me on 0472 15 88 30.", "Say: oh-four-seven-two, one-five, double eight, three-oh."]
+   ],
+   "note": "American English says “call me at…”; British English says “call me on…”."
+  },
+  {
+   "titre": "Numbers with nouns and small sums",
+   "texte": [
+    "After a number bigger than 1, the noun takes -s: one book, two books, twelve students. After “one”, the noun stays singular. The number itself never takes -s: “three apples”, never “threes apples”.",
+    "“A” and “one” both mean 1, but “one” makes the number important: I have one brother (only one, not two).",
+    "For sums: + plus, − minus, × times, ÷ divided by, = is / equals. The verb is singular: Two plus two is four."
+   ],
+   "tableau": {
+    "entetes": ["Sum", "In English"],
+    "lignes": [
+     ["3 + 4 = 7", "Three plus four is seven."],
+     ["10 − 6 = 4", "Ten minus six is four."],
+     ["5 × 3 = 15", "Five times three is fifteen."],
+     ["20 ÷ 2 = 10", "Twenty divided by two is ten."]
+    ]
+   },
+   "exemples": [
+    ["I have two sisters and one brother.", "Plural noun after two."],
+    ["There are eighteen students in the class.", "A quantity."]
+   ]
+  }
+ ],
+ "formule": "0 zero · 1 one · 2 two … 12 twelve · 13–19: number + -teen (thirteen, fifteen, eighteen) · 20 twenty",
+ "prononciation": [
+  "Alone, a -teen number is stressed at the end: thirTEEN /θɜːˈtiːn/. Before a noun the stress can move (THIRteen students), but the long /iː/ of -teen is always clear.",
+  "“Three” /θriː/: put your tongue between your teeth and breathe out. Don't say “tree” or “free”.",
+  "“Eight” /eɪt/ sounds like “ate”: the gh is silent.",
+  "“Twelve” /twelv/ and “twenty” /ˈtwenti/: say the w after the t. In American English, “twenty” often sounds like /ˈtweni/.",
+  "In a phone number, your voice goes up a little at the end of each group and down at the end of the number."
+ ],
+ "erreurs": [
+  ["fiveteen", "fifteen", "five changes to fif-."],
+  ["eightteen", "eighteen", "Only one t."],
+  ["threeteen", "thirteen", "three changes to thir-."],
+  ["two book", "two books", "After a number bigger than 1, the noun takes -s."],
+  ["My number is zero six, twelve, thirty-four…", "My number is oh six, one two, three four…", "Say phone numbers digit by digit."],
+  ["Two plus two are four.", "Two plus two is four.", "In sums, the verb is singular (is / equals)."]
+ ],
+ "dialogue": {
+  "contexte": "At the reception of a hotel in Brussels, a guest arrives and gives her details.",
+  "lignes": [
+   ["Receptionist", "Good evening. Can I have your name, please?", "A polite way to ask a name."],
+   ["Mrs Owona", "Yes, it's Grace Owona. I have a reservation for two nights.", "two + plural noun."],
+   ["Receptionist", "Thank you. And what's your phone number?", "The usual question."],
+   ["Mrs Owona", "It's oh-six, double seven, one-three, one-four, one-nine.", "Digit by digit, with “oh” and “double”."],
+   ["Receptionist", "Sorry, is that thirteen or thirty?", "Checking a -teen number."],
+   ["Mrs Owona", "Thirteen: one-three.", "She repeats it digit by digit."],
+   ["Receptionist", "Perfect. You're in room eleven, on the second floor. Here's your key.", "A room number."],
+   ["Mrs Owona", "Thank you. And what time is breakfast?", "A question about time."],
+   ["Receptionist", "From seven to ten.", "from … to … for times."]
+  ]
+ },
+ "mots": [
+  ["number", "What's your phone number?", "a word or sign like 1, 2 or 3"],
+  ["zero", "It's zero degrees outside.", "the number 0"],
+  ["double", "My number has double five in it.", "two of the same digit, one after the other"],
+  ["plus", "Two plus three is five.", "and (in a sum, +)"],
+  ["minus", "Ten minus four is six.", "take away (in a sum, −)"],
+  ["count", "Can you count to twenty in English?", "say numbers in order"],
+  ["teenager", "My daughter is a teenager.", "a person from 13 to 19 years old"],
+  ["dozen", "I'd like a dozen eggs.", "twelve"],
+  ["half", "Half of ten is five.", "one of two equal parts"],
+  ["repeat", "Can you repeat that, please?", "say something again"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Write the word",
+   "consigne": "Write the number in letters.",
+   "items": [
+    ["8", "eight"],
+    ["12", "twelve"],
+    ["15", "fifteen"],
+    ["3", "three"],
+    ["18", "eighteen"],
+    ["20", "twenty"]
+   ]
+  },
+  {
+   "titre": "2. Correct the spelling",
+   "consigne": "Each word has a mistake. Write it correctly.",
+   "items": [
+    ["fiveteen", "fifteen"],
+    ["threeteen", "thirteen"],
+    ["twelf", "twelve"],
+    ["eightteen", "eighteen"]
+   ]
+  },
+  {
+   "titre": "3. Say the sum",
+   "consigne": "Write the sum and the answer in English.",
+   "items": [
+    ["7 + 6 = ?", "Seven plus six is thirteen."],
+    ["20 − 9 = ?", "Twenty minus nine is eleven."],
+    ["4 × 4 = ?", "Four times four is sixteen."],
+    ["18 ÷ 3 = ?", "Eighteen divided by three is six."]
+   ]
+  },
+  {
+   "titre": "4. Read a phone number",
+   "consigne": "Write how a British speaker says this number (digit by digit, with “oh” and “double”).",
+   "items": [
+    ["0 44 17", "oh, double four, one seven"],
+    ["06 12 55 09", "oh six, one two, double five, oh nine"],
+    ["07 98 30 11", "oh seven, nine eight, three oh, double one"]
+   ]
+  },
+  {
+   "titre": "5. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Write it correctly (numbers in letters).",
+   "items": [
+    ["I have two brother.", "I have two brothers."],
+    ["She has fourteen years.", "She's fourteen."],
+    ["Room seventeens, please.", "Room seventeen, please."],
+    ["There are eleven player in a football team.", "There are eleven players in a football team."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write three true sentences with numbers from 0 to 20: your age or a relative's age, the number of people in your family, a number (bus, room, floor…).",
+   "items": [
+    ["Example answer", "My niece is nine. There are five people in my family. I take bus number twelve to work."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "0 to 12: different words to learn (one /wʌn/, two /tuː/, eight /eɪt/, twelve).",
+  "13 to 19: number + -teen, with thirteen, fifteen, eighteen (one t).",
+  "Zero: zero (general), oh (phone, room), nil (British football).",
+  "Phone numbers: digit by digit, “double” for two of the same digit.",
+  "Number > 1 + plural noun: two books. Sums use “is”: Two plus two is four."
+ ],
+ "liens": [1, 2, 19, 20, 21],
+ "refs": ["bc-a1a2", "cam-nouns"]
+}

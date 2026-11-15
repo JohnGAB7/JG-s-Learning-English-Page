@@ -1,0 +1,194 @@
+{
+ "n": 13,
+ "niveau": "A1",
+ "titre": "This, that, these, those",
+ "intro": "This, that, these and those help you point at things: this book, that house, these shoes. English shows if the thing is near or far, and singular or plural: four words to learn.",
+ "objectifs": [
+  "Choose between this, that, these and those by distance and number.",
+  "Use them before a noun (this car) or alone, as pronouns (This is my car).",
+  "Use “this one / that one” so you don't repeat a noun.",
+  "Know the practical uses: introducing people, phoning, talking about time (this morning, that day), reacting (That's great!)."
+ ],
+ "sections": [
+  {
+   "titre": "Near or far, singular or plural",
+   "texte": [
+    "“This” (singular) and “these” (plural) are for things near the speaker: things you hold, things here. “That” (singular) and “those” (plural) are for things further away: over there, on the other side of the room.",
+    "The word must agree with the noun: this book / these books; that house / those houses. The verb too: This is…, These are…"
+   ],
+   "tableau": {
+    "entetes": ["", "Near (here)", "Far (there)"],
+    "lignes": [
+     ["Singular", "this: this phone", "that: that phone"],
+     ["Plural", "these: these shoes", "those: those shoes"]
+    ]
+   },
+   "exemples": [
+    ["This bag is heavy.", "The bag I'm holding."],
+    ["Look at that bird on the roof!", "Far away."],
+    ["These apples are delicious.", "Plural, near."],
+    ["Who are those people over there?", "Plural, far."]
+   ]
+  },
+  {
+   "titre": "Before a noun or alone",
+   "texte": [
+    "These words can go before a noun (determiner): this car, those flowers. They can also stand alone, as pronouns: “This is my car”, “Are those yours?”.",
+    "Alone, “this / that” normally means a thing. You can also use it to introduce a person: “This is my sister” (lesson 2). But to continue talking about the person, use he / she: “This is Marc. He's my colleague.”"
+   ],
+   "exemples": [
+    ["What's this? — It's a mango.", "Pronoun for a thing."],
+    ["Is that your car? — Yes, it is.", "A thing further away."],
+    ["These are my children, Léa and Tom.", "Introducing people."]
+   ],
+   "note": "In the answer, replace this / that with it, and these / those with they: What's that? — It's a church. What are those? — They're bats."
+  },
+  {
+   "titre": "This one, that one",
+   "texte": [
+    "To avoid repeating a countable noun, say “this one” or “that one”. In the plural, just say “these” or “those” (“these ones” is heard in informal British English).",
+    "This is very useful in shops, when you choose."
+   ],
+   "exemples": [
+    ["Which T-shirt do you want? — This one, please.", "one = T-shirt."],
+    ["I don't like these shoes. I prefer those.", "those = those shoes."]
+   ]
+  },
+  {
+   "titre": "Practical uses: phone, time, reactions",
+   "texte": [
+    "On the phone: give your name with “This is…” or “It's…” (Hello, this is Karim). To ask who is calling, British people say “Who's that?” or, more politely, “Who's calling, please?”. Americans often say “Who is this?”. To check: “Is that Anna?” (UK) / “Is this Anna?” (US).",
+    "With time: “this” is for the present or very near period (this morning, this week, this year). “That” is for a past or more distant time that you already talked about (that day, that summer, at that time).",
+    "To react to what someone just said, use “that”: That's great! That's true. That's a good idea. “This” is more for what comes next: Listen to this!"
+   ],
+   "exemples": [
+    ["Hello, this is Karim from the bank.", "Giving your name on the phone."],
+    ["I'm very busy this week.", "The present week."],
+    ["I've got a new job! — That's fantastic!", "Reacting with that."]
+   ]
+  },
+  {
+   "titre": "Agreement traps",
+   "texte": [
+    "Learners often mix “this” and “these”, because the only difference is the vowel: short /ɪ/ in this, long /iː/ in these. A pronunciation mistake quickly becomes a meaning mistake.",
+    "Be careful with nouns that are always plural (lesson 12): these trousers, those glasses, these jeans. And with uncountable nouns, always singular: this information, that advice, this news."
+   ],
+   "exemples": [
+    ["These jeans are too small.", "jeans = plural."],
+    ["This information is very useful.", "information = uncountable."]
+   ]
+  }
+ ],
+ "formule": "this + singular / these + plural (near) · that + singular / those + plural (far) · this one / that one",
+ "prononciation": [
+  "“this” /ðɪs/ (short i, unvoiced s) and “these” /ðiːz/ (long i, voiced z): make the difference big at first so people understand you.",
+  "“that” /ðæt/: open your mouth wide. “those” /ðəʊz/ rhymes with “nose”.",
+  "All four words start with /ð/: tongue between the teeth, voice on.",
+  "Before a noun, these words are often stressed to point or contrast: I want THIS one, not THAT one.",
+  "“That's” /ðæts/ is one syllable."
+ ],
+ "erreurs": [
+  ["this books", "these books", "Plural: these."],
+  ["These is my brother.", "This is my brother.", "Singular: this is; plural: these are."],
+  ["Those shoe is nice.", "That shoe is nice. / Those shoes are nice.", "Singular / plural agreement."],
+  ["I prefer this.", "I prefer this one.", "For a countable noun, “this one” is more natural when you choose."],
+  ["This jeans is too big.", "These jeans are too big.", "Jeans is always plural."],
+  ["These informations are useful.", "This information is useful.", "Information is uncountable: singular."],
+  ["I've got a new car! — This is great!", "That's great!", "To react to what someone said, use “that”."]
+ ],
+ "dialogue": {
+  "contexte": "At a market in Yaoundé, a customer buys fruit and fabric.",
+  "lignes": [
+   ["Customer", "Good morning! How much are these mangoes?", "these: plural, near."],
+   ["Seller", "These ones are 500 francs a kilo. Those over there are sweeter, but more expensive.", "these ones / those: choosing."],
+   ["Customer", "I'll take a kilo of these, please. And what's that?", "what's that: a thing further away."],
+   ["Seller", "That's a soursop. It's delicious in juice.", "Answer with it."],
+   ["Customer", "Great. And this fabric? Is this cotton?", "this: singular, near."],
+   ["Seller", "Yes, it is. This one is from Ghana, and that one is from Cameroon.", "this one / that one."],
+   ["Customer", "I love that one! The colours are beautiful.", "colours: British spelling."],
+   ["Seller", "That's a good choice. It's our best fabric this year.", "That's… to react; this year."]
+  ]
+ },
+ "mots": [
+  ["here", "Come here, please.", "in this place"],
+  ["there", "My car is over there.", "in that place"],
+  ["over there", "Who's that man over there?", "in that place, a little far"],
+  ["which", "Which one do you want?", "used to ask someone to choose"],
+  ["one", "I like this one.", "used instead of a noun you don't want to repeat"],
+  ["price", "What's the price of that bag?", "how much money something costs"],
+  ["heavy", "This box is heavy.", "difficult to carry"],
+  ["choose", "Choose one of these.", "decide which one you want"],
+  ["fabric", "This fabric is soft.", "material for making clothes"],
+  ["delicious", "These mangoes are delicious.", "very good to eat"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. This, that, these or those?",
+   "consigne": "Complete as shown (near / far).",
+   "items": [
+    ["___ book (near) is very interesting.", "This"],
+    ["___ houses (far) are very old.", "Those"],
+    ["___ glasses (near) are mine.", "These"],
+    ["Look at ___ mountain (far)!", "that"],
+    ["___ cookies (near) are delicious.", "These"],
+    ["Is ___ man (far) your teacher?", "that"]
+   ]
+  },
+  {
+   "titre": "2. Singular → plural",
+   "consigne": "Write the sentence in the plural.",
+   "items": [
+    ["This is my friend.", "These are my friends."],
+    ["That car is red.", "Those cars are red."],
+    ["Is this your key?", "Are these your keys?"],
+    ["That child is noisy.", "Those children are noisy."]
+   ]
+  },
+  {
+   "titre": "3. Answer with it or they",
+   "consigne": "Answer the question with it's or they're and the words in brackets.",
+   "items": [
+    ["What's that? (a museum)", "It's a museum."],
+    ["What are those? (my new boots)", "They're my new boots."],
+    ["What's this? (a present for you)", "It's a present for you."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistake",
+   "consigne": "Each sentence has one mistake. Correct it.",
+   "items": [
+    ["This shoes are too small.", "These shoes are too small."],
+    ["These is my sister, Awa.", "This is my sister, Awa."],
+    ["Those trousers is expensive.", "Those trousers are expensive."],
+    ["My sister is getting married! — This is great!", "That's great!"],
+    ["These informations are wrong.", "This information is wrong."]
+   ]
+  },
+  {
+   "titre": "5. What do you say?",
+   "consigne": "Write a sentence with this, that, these, those or this one / that one for each situation.",
+   "items": [
+    ["In a shop, you choose the shirt in your hand.", "I prefer this one. / I'll take this one."],
+    ["You ask about some people on the other side of the street.", "Who are those people over there?"],
+    ["You answer the phone and give your name (Pierre).", "Hello, this is Pierre. / Hello, it's Pierre."],
+    ["You say you have a lot of work in the present week.", "I'm working a lot this week. / I'm very busy this week."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Imagine you are showing a friend around your home or office. Write four sentences with this, that, these and those.",
+   "items": [
+    ["Example answer", "This is my office. These are my books about history. That door is the bathroom. Those photos on the wall are from my trip to Canada."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "this / these = near; that / those = far.",
+  "this, that + singular (is); these, those + plural (are).",
+  "this one / that one to choose without repeating the noun.",
+  "Phone: This is Karim. Reaction: That's great! Time: this week (now), that day (past).",
+  "Careful: these jeans (always plural), this information (uncountable)."
+ ],
+ "liens": [2, 11, 12, 14, 38],
+ "refs": ["cam-nouns", "bc-a1a2"]
+}

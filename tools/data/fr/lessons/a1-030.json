@@ -1,0 +1,202 @@
+{
+"n": 30,
+"niveau": "A1",
+"titre": "How much / how many",
+"intro": "« Combien » se dit de deux façons en anglais : « how many » pour ce qu’on peut compter (des œufs, des personnes) et « how much » pour ce qu’on ne compte pas (de l’eau, de l’argent) et pour les prix. Choisir le bon mot dépend du nom qui suit.",
+"objectifs": [
+ "Distinguer les noms dénombrables et indénombrables les plus courants.",
+ "Poser des questions avec how many + pluriel et how much + indénombrable.",
+ "Demander et donner un prix : How much is it? How much does it cost?",
+ "Répondre avec a lot, not many, not much, a few, a little, none."
+],
+"sections": [
+ {
+  "titre": "Dénombrable ou indénombrable ?",
+  "texte": [
+   "Un nom dénombrable (countable) se compte : one egg, two eggs, three people. Il a un singulier et un pluriel.",
+   "Un nom indénombrable (uncountable) ne se compte pas directement : water, rice, money, time, information. Il n’a pas de pluriel et ne prend pas « a / an ». On le compte avec une unité : a glass of water, a kilo of rice (leçon 26).",
+   "Attention : certains mots sont indénombrables en anglais alors qu’ils sont dénombrables en français : information, advice (des conseils), news (les nouvelles), furniture (des meubles), luggage (des bagages), homework (des devoirs), bread."
+  ],
+  "tableau": {
+   "entetes": ["Dénombrables (how many)", "Indénombrables (how much)"],
+   "lignes": [
+    ["eggs, apples, tomatoes", "rice, bread, sugar, milk, water"],
+    ["people, children, friends", "money, time, work"],
+    ["euros, dollars, coins", "information, advice, news"],
+    ["chairs, rooms, bags", "furniture, luggage, homework"],
+    ["times (fois)", "time (temps)"]
+   ]
+  }
+ },
+ {
+  "titre": "How many + nom au pluriel",
+  "texte": [
+   "« How many » s’utilise avec un nom dénombrable au pluriel. Ensuite, on suit l’ordre normal de la question (leçon 29) : how many + nom + auxiliaire + sujet + verbe.",
+   "Formules très fréquentes : « How many … are there? » (Combien de … y a-t-il ?), « How many … have you got? / do you have? »."
+  ],
+  "exemples": [
+   ["How many students are there in your class? — Twenty-two.", "Combien d’élèves y a-t-il dans ta classe ? — Vingt-deux."],
+   ["How many brothers and sisters have you got?", "Combien de frères et sœurs as-tu ?"],
+   ["How many times a week do you go running? — Three times.", "Combien de fois par semaine vas-tu courir ? — Trois fois."]
+  ]
+ },
+ {
+  "titre": "How much + nom indénombrable",
+  "texte": [
+   "« How much » s’utilise avec un nom indénombrable, qui reste au singulier. Le verbe est donc au singulier : « How much water is there? ».",
+   "Quand le nom est évident, on peut l’omettre : « I need some sugar. — How much (sugar) do you need? »."
+  ],
+  "exemples": [
+   ["How much water do you drink a day? — About two litres.", "Combien d’eau bois-tu par jour ? — Environ deux litres."],
+   ["How much time have we got? — Ten minutes.", "Combien de temps avons-nous ? — Dix minutes."],
+   ["How much money do you need?", "De combien d’argent as-tu besoin ?"]
+  ]
+ },
+ {
+  "titre": "Demander un prix",
+  "texte": [
+   "Pour un prix, on utilise toujours « how much », car on pense à l’argent : « How much is it? » (C’est combien ?). Pour un pluriel : « How much are they? » / « How much are these shoes? ».",
+   "Avec le verbe « cost » (coûter) : « How much does it cost? » / « How much do they cost? ». Attention à l’ordre : on ne dit pas « How much costs it? ».",
+   "Pour répondre : « It's five euros. » / « They're two dollars each. » (chacun). « Cheap » = bon marché ; « expensive » = cher."
+  ],
+  "tableau": {
+   "entetes": ["Question", "Réponse"],
+   "lignes": [
+    ["How much is this bag?", "It's 30 euros."],
+    ["How much are the mangoes?", "They're 500 francs each."],
+    ["How much does the ticket cost?", "It costs £12."],
+    ["How much do these shoes cost?", "They cost $80."]
+   ]
+  },
+  "exemples": [
+   ["Excuse me, how much is this jacket? — It's 45 euros.", "Excusez-moi, combien coûte cette veste ? — 45 euros."],
+   ["Wow, that's expensive!", "Ouah, c’est cher !"]
+  ]
+ },
+ {
+  "titre": "Répondre : a lot, not many, not much…",
+  "texte": [
+   "On peut répondre par un nombre ou par une expression de quantité. « A lot » (beaucoup) marche avec les deux types de noms. « Not many » s’utilise avec les dénombrables, « not much » avec les indénombrables.",
+   "« A few » (quelques-uns) et « a little » (un peu) seront approfondis à la leçon 58. « None » veut dire « aucun »."
+  ],
+  "tableau": {
+   "entetes": ["Quantité", "Avec how many", "Avec how much"],
+   "lignes": [
+    ["beaucoup", "a lot / lots", "a lot / lots"],
+    ["pas beaucoup", "not many", "not much"],
+    ["un peu, quelques-uns", "a few", "a little"],
+    ["aucun, rien", "none", "none"]
+   ]
+  },
+  "exemples": [
+   ["How many friends have you got in Lyon? — Not many. Just two.", "Combien d’amis as-tu à Lyon ? — Pas beaucoup. Juste deux."],
+   ["How much homework have you got? — A lot!", "Combien de devoirs as-tu ? — Beaucoup !"]
+  ]
+ }
+],
+"formule": "How many + nom pluriel…? · How much + nom indénombrable…? · How much is it? / How much does it cost?",
+"prononciation": [
+ "Dans « How many », l’accent tombe sur « many » : /haʊ ˈmeni/. « Many » se prononce « méni », pas « mani ».",
+ "« How much is it? » se lie en une seule chaîne : /haʊ ˈmʌtʃ ɪz ɪt/ ≈ « hao-meut-chi-zit ».",
+ "« a lot of » se prononce /ə ˈlɒt əv/ et se lie souvent en « a lotta » à l’oral familier.",
+ "« cost » /kɒst/ et « costs » /kɒsts/ : prononcez bien le groupe final -sts.",
+ "Pour les prix, on dit le symbole après le nombre : £5 = « five pounds », $20 = « twenty dollars », 3,50 € = « three euros fifty »."
+],
+"erreurs": [
+ ["How much brothers have you got?", "How many brothers have you got?", "« Brothers » est dénombrable : how many."],
+ ["How many money do you need?", "How much money do you need?", "« Money » est indénombrable : how much."],
+ ["How much people are there?", "How many people are there?", "« People » est un pluriel dénombrable."],
+ ["How much costs it?", "How much is it? / How much does it cost?", "Avec « cost », il faut « does » dans la question."],
+ ["How many informations do you need?", "How much information do you need?", "« Information » est indénombrable, sans s."],
+ ["How many time have we got?", "How much time have we got?", "time (temps) est indénombrable ; times (fois) est dénombrable."],
+ ["How much are the bread?", "How much is the bread?", "Un indénombrable prend un verbe au singulier."]
+],
+"dialogue": {
+ "contexte": "Au marché Mokolo, à Yaoundé, Claire fait ses courses chez Mama Ngo.",
+ "lignes": [
+  ["Claire", "Good morning! How much are the mangoes?", "Bonjour ! Combien coûtent les mangues ?"],
+  ["Mama Ngo", "They're two hundred francs each.", "Elles sont à deux cents francs pièce."],
+  ["Claire", "OK. I'd like six, please. And how much is a kilo of tomatoes?", "D’accord. J’en voudrais six, s’il vous plaît. Et combien coûte un kilo de tomates ?"],
+  ["Mama Ngo", "A kilo is one thousand francs. How many kilos do you want?", "Le kilo est à mille francs. Combien de kilos voulez-vous ?"],
+  ["Claire", "Just one. And some rice, please.", "Juste un. Et du riz, s’il vous plaît."],
+  ["Mama Ngo", "How much rice do you need?", "De combien de riz avez-vous besoin ?"],
+  ["Claire", "Two kilos. So, how much is that altogether?", "Deux kilos. Alors, ça fait combien en tout ?"],
+  ["Mama Ngo", "Four thousand two hundred francs.", "Quatre mille deux cents francs."],
+  ["Claire", "Here you are. Thank you!", "Voilà. Merci !"]
+ ]
+},
+"mots": [
+ ["price", "The price is on the label.", "le prix"],
+ ["cost", "How much does it cost?", "coûter"],
+ ["money", "I haven't got much money.", "l’argent (indénombrable)"],
+ ["cheap", "Bananas are cheap here.", "bon marché, pas cher"],
+ ["expensive", "This hotel is very expensive.", "cher, coûteux"],
+ ["each", "They're one euro each.", "chacun, pièce"],
+ ["kilo", "A kilo of rice, please.", "un kilo"],
+ ["people", "How many people are there?", "les gens, les personnes"],
+ ["altogether", "That's ten euros altogether.", "en tout, au total"],
+ ["a lot of", "I drink a lot of water.", "beaucoup de"]
+],
+"exercices": [
+ {
+  "titre": "1. Much ou many ?",
+  "consigne": "Complète avec much ou many.",
+  "items": [
+   ["How ___ eggs do you need?", "many"],
+   ["How ___ milk is there in the fridge?", "much"],
+   ["How ___ people work here?", "many"],
+   ["How ___ money have you got?", "much"],
+   ["How ___ is this T-shirt?", "much"],
+   ["How ___ times a day do you eat?", "many"]
+  ]
+ },
+ {
+  "titre": "2. Dénombrable ou indénombrable ?",
+  "consigne": "Écris C (countable) ou U (uncountable).",
+  "items": [
+   ["water", "U"],
+   ["egg", "C"],
+   ["money", "U"],
+   ["child", "C"],
+   ["information", "U"]
+  ]
+ },
+ {
+  "titre": "3. Poser la question",
+  "consigne": "Écris la question avec how much ou how many.",
+  "items": [
+   ["I've got three cousins.", "How many cousins have you got?"],
+   ["This T-shirt is 12 euros.", "How much is this T-shirt?"],
+   ["There are 25 students in the class.", "How many students are there in the class?"],
+   ["I drink two litres of water a day.", "How much water do you drink a day?"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Combien de personnes y a-t-il ?", "How many people are there?"],
+   ["Combien coûtent ces chaussures ?", "How much are these shoes? / How much do these shoes cost?"],
+   ["Combien de temps avons-nous ?", "How much time have we got? / How much time do we have?"],
+   ["Combien de fois par semaine ?", "How many times a week?"],
+   ["De combien d’argent as-tu besoin ?", "How much money do you need?"]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Tu es au marché ou dans un magasin. Écris un petit dialogue de quatre répliques avec au moins une question avec how much et une avec how many.",
+  "items": [
+   ["Exemple de réponse", "A: How much are the oranges? B: They're 50 cents each. A: OK, I'd like ten, please. How many bananas are there in a bag? B: There are six. They're two euros a bag."]
+  ]
+ }
+],
+"a_retenir": [
+ "how many + nom dénombrable au pluriel : How many children have you got?",
+ "how much + nom indénombrable au singulier : How much water do you drink?",
+ "Prix : How much is it? / How much are they? / How much does it cost? (jamais « How much costs it? »).",
+ "Indénombrables pièges : money, time, information, advice, news, furniture, luggage, homework, bread.",
+ "Réponses : a lot, not many / not much, a few / a little, none."
+],
+"liens": [26, 29, 31, 38, 58],
+"refs": ["bc-countable", "cam-nouns"]
+}

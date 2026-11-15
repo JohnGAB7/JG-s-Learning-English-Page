@@ -1,0 +1,193 @@
+{
+"n": 48,
+"niveau": "A2",
+"titre": "“Too” and “enough”",
+"intro": "“Too” means more than necessary or more than we want; “enough” means the right amount or degree. With these two words you can explain why something is possible or not: “too expensive for me”, “not big enough for us”.",
+"objectifs": [
+"Put too (before the adjective) and enough (after the adjective, before the noun) in the right place.",
+"Use too much / too many with uncountable and countable nouns.",
+"Make too … to and (not) … enough to to show a result.",
+"Tell the difference between too (more than OK), very (a lot) and too (also)."
+],
+"sections": [
+{
+"titre": "Too + adjective / adverb: more than OK",
+"texte": [
+"“Too” goes before an adjective or an adverb. It means “more than necessary or more than we want”, so it almost always shows a problem.",
+"Do not confuse it with “very”, which only means “a lot”, with no problem. “This bag is very expensive” (but I can buy it); “This bag is too expensive” (so I won't buy it)."
+],
+"exemples": [
+["This coffee is too hot. I can't drink it.", "too hot = a problem."],
+["You're driving too fast!", "too + adverb."],
+["It's very cold, but it's not too cold for a walk.", "very cold = a lot; not too cold = still OK."]
+]
+},
+{
+"titre": "Too much / too many + noun",
+"texte": [
+"Before a noun, we don't use “too” alone: we say “too much” with an uncountable noun and “too many” with a plural countable noun (quantities: lessons 58 and 59).",
+"“Too much” can also come after a verb: “You work too much”."
+],
+"tableau": {
+"entetes": ["Pattern", "Nouns", "Example"],
+"lignes": [
+["too much + uncountable", "sugar, money, time, noise, traffic", "There's too much traffic in Lagos."],
+["too many + plural", "people, cars, mistakes, questions", "There are too many people on this bus."],
+["verb + too much", "—", "He talks too much."],
+["too little / too few", "(not enough)", "too little time, too few chairs"]
+]
+}
+},
+{
+"titre": "Enough: the right position",
+"texte": [
+"“Enough” changes position: it goes AFTER an adjective or adverb, but BEFORE a noun.",
+"In the negative, “not … enough” means “less than necessary”: it is often the opposite of too. “The room isn't big enough” = “The room is too small”."
+],
+"tableau": {
+"entetes": ["Pattern", "Example", "Note"],
+"lignes": [
+["adjective + enough", "Are you warm enough?", "after the adjective"],
+["adverb + enough", "She didn't run fast enough.", "after the adverb"],
+["enough + noun", "We have enough chairs.", "before a plural noun"],
+["enough + uncountable noun", "I don't have enough money.", "before an uncountable noun"],
+["verb + enough", "Did you sleep enough?", "after the verb"]
+]
+}
+},
+{
+"titre": "Too … to / enough … to: the result",
+"texte": [
+"Add “to + base verb” to show the result: “too + adjective + to” and “adjective + enough + to”.",
+"To say who, add “for + noun / pronoun” before to: “too difficult for me to understand”.",
+"Be careful: do not repeat the object at the end. Say “The box is too heavy to carry”, not “too heavy to carry it”."
+],
+"exemples": [
+["He's too young to drive.", "too + adjective + to."],
+["She's old enough to vote.", "adjective + enough + to."],
+["The text was too difficult for me to understand.", "for + person + to."],
+["We don't have enough time to visit Ghent.", "enough + noun + to."]
+]
+},
+{
+"titre": "Too = also: another meaning",
+"texte": [
+"At the end of a positive sentence, “too” means “also”: “I like jazz too”. Its position and the context show which meaning it has.",
+"In a negative sentence, use “either” instead: “I don't like jazz either”."
+],
+"exemples": [
+["I'm hungry. — Me too!", "too = also."],
+["She speaks Ewe and French too.", "too = also, at the end."]
+]
+}
+],
+"formule": "too + adjective (+ to + base) · too much / too many + noun · adjective + enough (+ to + base) · enough + noun",
+"prononciation": [
+"“too” is /tuː/, the same sound as “two” and strong “to”. It is never weak and is often stressed: It's TOO expensive.",
+"“enough” is /ɪˈnʌf/: the final gh sounds /f/, and the stress is on the second syllable.",
+"In “enough to”, the f and t come together with no vowel between: /ɪˈnʌf tə/.",
+"To show annoyance, people often make “too” longer: “It's toooo hot!”."
+],
+"erreurs": [
+["This shirt is enough big.", "This shirt is big enough.", "enough goes after the adjective."],
+["We don't have money enough.", "We don't have enough money.", "enough goes before the noun."],
+["There is too many traffic.", "There is too much traffic.", "traffic is uncountable: too much."],
+["It's too much expensive.", "It's too expensive.", "Before an adjective: too alone."],
+["The film was too good!", "The film was very good! / The film was really good!", "too shows a problem; for a compliment use very / really."],
+["The suitcase is too heavy to carry it.", "The suitcase is too heavy to carry.", "Do not repeat the object after too … to."],
+["I don't like it too.", "I don't like it either.", "In negative sentences, use either."]
+],
+"dialogue": {
+"contexte": "Kevin and Aïssatou are looking for a room for their mother's birthday party in Yaoundé.",
+"lignes": [
+["Kevin", "What do you think of this room?", "Asking for an opinion."],
+["Aïssatou", "It's nice, but it's too small. We invited eighty people.", "too small = a problem."],
+["Kevin", "Right, it isn't big enough. And the garden one?", "not big enough = too small."],
+["Aïssatou", "That one is big enough, but it's too expensive for us.", "too + adjective + for us."],
+["Kevin", "Do we have enough money if we share with our cousins?", "enough + noun."],
+["Aïssatou", "Maybe. But there are too many steps — Mum's knees are too weak to climb them.", "too many + plural; too … to."],
+["Kevin", "Good point. Let's look for a place on the ground floor.", "A suggestion with let's."],
+["Aïssatou", "Yes, and not too far from her house.", "not too far = OK distance."]
+]
+},
+"mots": [
+["enough", "Is there enough food for everyone?", "as much as is needed"],
+["too", "It's too late to call him.", "more than is good or needed; also (at the end of a sentence)"],
+["heavy", "This box is too heavy for me.", "weighing a lot"],
+["tight", "These shoes are too tight.", "fitting the body very closely"],
+["loose", "The trousers are too loose.", "not tight; too big"],
+["spicy", "The soup is too spicy for the children.", "with a hot, strong taste"],
+["afford", "We can't afford a new car.", "to have enough money to buy something"],
+["space", "There isn't enough space in the car.", "an empty area you can use"],
+["strong", "He isn't strong enough to lift it.", "physically powerful"],
+["weak", "She was too weak to walk.", "not strong"]
+],
+"exercices": [
+{
+"titre": "1. Too or enough?",
+"consigne": "Complete with too or enough.",
+"items": [
+["I can't reach the shelf. I'm not tall ___.", "enough"],
+["The music is ___ loud. Please turn it down.", "too"],
+["Do you have ___ time to help me?", "enough"],
+["It's ___ cold to go swimming.", "too"],
+["Is the water warm ___ for a bath?", "enough"]
+]
+},
+{
+"titre": "2. Too much or too many?",
+"consigne": "Complete with too much or too many.",
+"items": [
+["There are ___ cars in the city centre.", "too many"],
+["You put ___ salt in the soup.", "too much"],
+["She drinks ___ coffee.", "too much"],
+["I made ___ mistakes in the test.", "too many"]
+]
+},
+{
+"titre": "3. Where does enough go?",
+"consigne": "Add enough in the right place.",
+"items": [
+["The room isn't big.", "The room isn't big enough."],
+["We don't have plates.", "We don't have enough plates."],
+["He didn't study.", "He didn't study enough."],
+["Are you old to drive?", "Are you old enough to drive?"]
+]
+},
+{
+"titre": "4. Transform",
+"consigne": "Rewrite the sentence with the words in brackets. Keep the same meaning.",
+"items": [
+["The bag is too small. (big enough)", "The bag isn't big enough."],
+["She isn't old enough to vote. (too young)", "She's too young to vote."],
+["The tea is too hot. I can't drink it. (too … to)", "The tea is too hot to drink."],
+["The car is too expensive. We can't buy it. (enough money)", "We don't have enough money to buy the car."]
+]
+},
+{
+"titre": "5. Describe the problem",
+"consigne": "Write one sentence with too or enough for each situation.",
+"items": [
+["Your trousers are small around your waist. (tight)", "These trousers are too tight."],
+["There are ten guests and six chairs. (chairs)", "There aren't enough chairs."],
+["You are very tired and can't go out. (too … to)", "I'm too tired to go out."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Describe a home, a town or a job that is not right for you, in four or five sentences with too, too much / many and (not) enough.",
+"items": [
+["Model answer", "My first flat in Paris was terrible. It was too small for two people and the kitchen wasn't big enough to cook properly. There was too much noise from the street and too many stairs. And the rent was too high, so I didn't have enough money to go out."]
+]
+}
+],
+"a_retenir": [
+"too + adjective / adverb = more than OK (a problem); very = a lot (no problem).",
+"too much + uncountable, too many + plural.",
+"adjective + enough, but enough + noun.",
+"too … to / … enough to + base verb (do not repeat the object at the end).",
+"too at the end of a sentence = also; in negative sentences: either."
+],
+"liens": [46, 58, 59, 35],
+"refs": ["bc-enough", "cam-adj"]
+}

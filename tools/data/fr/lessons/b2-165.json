@@ -1,0 +1,211 @@
+{
+ "n": 165,
+ "niveau": "B2",
+ "titre": "Les temps du futur dans le passé (was going to, would)",
+ "intro": "« J'allais t'appeler, mais j'ai oublié », « Je savais qu'il viendrait », « Nous étions sur le point de partir » : pour parler d'un futur vu depuis un moment du passé, l'anglais utilise was going to, would, was about to, was + -ing et was to. Ces formes sont indispensables pour raconter une histoire, s'excuser d'un projet abandonné ou rapporter des paroles.",
+ "objectifs": [
+  "Exprimer une intention ou une prévision passée avec was / were going to, souvent non réalisée.",
+  "Employer would pour un futur vu du passé dans un récit ou au discours indirect.",
+  "Utiliser was about to, was + -ing, was due to et was to selon le sens.",
+  "Éviter « would » après when / as soon as et les calques du conditionnel français."
+ ],
+ "sections": [
+  {
+   "titre": "Le principe : déplacer le point de vue dans le passé",
+   "texte": [
+    "Chaque façon de parler du futur a son équivalent « dans le passé » : on recule simplement l'auxiliaire. will → would ; am going to → was going to ; am meeting → was meeting ; am about to → was about to.",
+    "Le point de référence est un moment passé ; l'action est future par rapport à ce moment. Elle a pu se réaliser ou non : c'est le contexte qui le dit."
+   ],
+   "tableau": {
+    "entetes": ["Futur (depuis maintenant)", "Futur dans le passé", "Exemple"],
+    "lignes": [
+     ["will", "would", "I knew she would win."],
+     ["be going to", "was / were going to", "I was going to call you, but I forgot."],
+     ["présent en be + -ing (arrangement)", "was / were + -ing", "We were leaving the next day, so we packed."],
+     ["be about to", "was / were about to", "The train was about to leave."],
+     ["be due to", "was / were due to", "The meeting was due to start at nine."],
+     ["be to (formel)", "was / were to", "He was to become president ten years later."]
+    ]
+   }
+  },
+  {
+   "titre": "Was / were going to : l'intention ou la prévision passée",
+   "texte": [
+    "« Was going to » exprime une intention que l'on avait dans le passé. Très souvent, elle ne s'est pas réalisée, et on ajoute « but… » : « I was going to call you, but I forgot. » C'est la traduction naturelle du français « j'allais… », « je comptais… ».",
+    "Il exprime aussi une prévision fondée sur des indices dans le passé : « The sky was black. It was obviously going to rain. »",
+    "À l'oral, « was going to » se dit souvent « was gonna » ; on ne l'écrit ainsi que dans un message très familier."
+   ],
+   "exemples": [
+    ["I was going to buy a new phone, but the price went up.", "J'allais acheter un téléphone, mais…"],
+    ["We were going to visit Kribi, but it rained all week.", "Nous comptions visiter Kribi."],
+    ["I could see she was going to cry.", "Je voyais qu'elle allait pleurer (prévision)."],
+    ["Sorry, I wasn't going to say anything, but…", "Désolé, je ne comptais rien dire, mais…"]
+   ]
+  },
+  {
+   "titre": "Would : le futur vu du passé",
+   "texte": [
+    "« Would » est le futur de « will » transposé dans le passé. On le rencontre dans le discours indirect (« She said she would call ») et dans les récits, pour annoncer ce qui allait arriver : « In 1995, she met the man she would marry two years later. »",
+    "C'est l'équivalent du conditionnel français dans « Je savais qu'il viendrait ». Mais attention : on ne peut pas employer « would » pour une intention personnelle non réalisée. « I would call you yesterday » est faux ; il faut « I was going to call you yesterday »."
+   ],
+   "exemples": [
+    ["I knew she would win.", "Je savais qu'elle gagnerait."],
+    ["He promised he would help us the next day.", "Il a promis qu'il nous aiderait le lendemain."],
+    ["Nobody thought the project would succeed.", "Personne ne pensait que le projet réussirait."],
+    ["Little by little, the village would become a town.", "Récit : ce qui allait se produire."]
+   ]
+  },
+  {
+   "titre": "Was about to, was + -ing, was due to",
+   "texte": [
+    "« Was about to + base verbale » : une action imminente dans le passé (être sur le point de). On ajoute souvent « when » pour l'interruption : « We were about to leave when the phone rang. » On peut renforcer avec « just » : « I was just about to call you! »",
+    "« Was + -ing » : un arrangement prévu dans le passé, comme le présent progressif pour le futur : « I was flying to Montréal the next morning, so I went to bed early. »",
+    "« Was due to + base verbale » : un horaire ou un événement prévu officiellement : « The flight was due to land at 6, but it was delayed. »"
+   ],
+   "exemples": [
+    ["The film was about to start when she arrived.", "Le film allait commencer."],
+    ["I was just about to call you!", "J'allais justement t'appeler !"],
+    ["She was meeting her parents that evening, so she couldn't stay.", "Arrangement prévu."],
+    ["The new bridge was due to open in May.", "Ouverture prévue en mai."]
+   ]
+  },
+  {
+   "titre": "Was to : le destin et l'arrangement formel",
+   "texte": [
+    "« Was / were to + base verbale » est plus littéraire. Il annonce un événement réellement arrivé plus tard (le destin) : « He was to become one of the greatest writers of his generation. »",
+    "Au passé composé de cette forme, « was to have + participe » signifie que l'arrangement prévu n'a pas eu lieu : « The wedding was to have taken place in June » (le mariage devait avoir lieu en juin, mais…). Cette forme est formelle et rare à l'oral.",
+    "« Was supposed to » est l'équivalent courant pour un projet ou une obligation non respectés : « We were supposed to meet at eight, but he never came. »"
+   ],
+   "exemples": [
+    ["Nelson Mandela was to spend 27 years in prison.", "Il allait passer 27 ans en prison (fait historique)."],
+    ["The concert was to have taken place in Liège.", "Le concert devait avoir lieu à Liège (mais ne l'a pas eu)."],
+    ["We were supposed to meet at eight.", "Nous étions censés nous retrouver à huit heures."]
+   ]
+  },
+  {
+   "titre": "Les subordonnées de temps et les calques",
+   "texte": [
+    "Comme avec « will », on n'emploie pas « would » après when, as soon as, before, after, until. On met le prétérit : « He said he would phone when he arrived » (et non « when he would arrive »).",
+    "Le français utilise le conditionnel (« je savais qu'il viendrait ») et l'imparfait d'« aller » (« j'allais partir »). Retenez : « viendrait » → would come ; « allait partir » → was going to leave / was about to leave.",
+    "Dans un récit au passé, ne mélangez pas avec le futur : « I thought it is going to rain » est faux ; « I thought it was going to rain »."
+   ],
+   "exemples": [
+    ["She told me she would call as soon as she got home.", "« got », pas « would get »."],
+    ["I thought it was going to rain, so I took an umbrella.", "Concordance des temps."]
+   ]
+  }
+ ],
+ "formule": "was / were going to · would · was / were + -ing · was / were about to · was / were due to · was / were to + base verbale",
+ "prononciation": [
+  "« was going to » se réduit souvent à /wəz ˈɡʌnə/ (« was gonna ») à l'oral rapide.",
+  "« would » se contracte en 'd : « I knew she'd win » /aɪ njuː ʃiːd ˈwɪn/.",
+  "« were about to » : /wər əˈbaʊt tə/, avec un r de liaison en anglais britannique.",
+  "Dans « I was going to call you, but… », la voix monte sur « call » puis descend : l'intonation annonce que le projet n'a pas abouti.",
+  "« due » se prononce /djuː/ en britannique, /duː/ en américain."
+ ],
+ "erreurs": [
+  ["I knew she will be late.", "I knew she would be late.", "Futur vu du passé : would."],
+  ["I would call you yesterday, but I forgot.", "I was going to call you yesterday, but I forgot.", "Intention passée non réalisée : was going to."],
+  ["He said he would phone when he would arrive.", "He said he would phone when he arrived.", "Pas de « would » après when."],
+  ["We were about leaving when it started to rain.", "We were about to leave when it started to rain.", "be about to + base verbale."],
+  ["She was to became famous.", "She was to become famous.", "was to + base verbale."],
+  ["I thought it is going to rain.", "I thought it was going to rain.", "Récit au passé : was going to."],
+  ["I was going to went to the gym.", "I was going to go to the gym.", "going to + base verbale."]
+ ],
+ "dialogue": {
+  "contexte": "À Nairobi, Wanjiru et son collègue belge Thomas, de retour au bureau après un long week-end.",
+  "lignes": [
+   ["Wanjiru", "So, did you go to the Maasai Mara in the end?", "Alors, finalement, tu es allé au Maasai Mara ?"],
+   ["Thomas", "No! We were going to leave on Friday morning, but the car broke down.", "Non ! On devait partir vendredi matin, mais la voiture est tombée en panne."],
+   ["Wanjiru", "Oh no. I knew that old car would cause problems one day.", "Oh non. Je savais que cette vieille voiture finirait par poser des problèmes."],
+   ["Thomas", "We were just about to get on the road when the engine started smoking.", "On était sur le point de prendre la route quand le moteur s'est mis à fumer."],
+   ["Wanjiru", "And the mechanic?", "Et le garagiste ?"],
+   ["Thomas", "He promised he would fix it by Saturday, but he didn't have the part.", "Il a promis qu'il la réparerait pour samedi, mais il n'avait pas la pièce."],
+   ["Wanjiru", "Too bad. Our flight to Mombasa was due to leave on Sunday, so we had the same stress!", "Dommage. Notre vol pour Mombasa devait partir dimanche, donc on a eu le même stress !"],
+   ["Thomas", "Well, I was going to call you to ask for a lift, but I didn't want to ruin your weekend.", "Bon, j'allais t'appeler pour te demander de m'emmener, mais je ne voulais pas gâcher ton week-end."]
+  ]
+ },
+ "mots": [
+  ["intend", "I intended to call you, but I forgot.", "avoir l'intention de"],
+  ["originally", "We originally planned to leave on Friday.", "au départ, initialement"],
+  ["eventually", "We eventually arrived at midnight.", "finalement, au bout du compte (faux ami : pas « éventuellement »)"],
+  ["turn out", "The trip turned out to be a disaster.", "se révéler, s'avérer"],
+  ["last-minute", "There was a last-minute change of plan.", "de dernière minute"],
+  ["due", "The train is due at 6.15.", "prévu (à une heure donnée)"],
+  ["fate", "Fate brought them together again.", "le destin, le sort"],
+  ["expect", "I didn't expect him to come.", "s'attendre à"],
+  ["promise", "She promised she would write.", "promettre ; une promesse"],
+  ["lift", "Can you give me a lift to the airport?", "emmener quelqu'un en voiture (US : ride)"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quel sens ?",
+   "consigne": "Explique le sens de chaque phrase.",
+   "items": [
+    ["I was going to call you, but I forgot.", "Intention passée non réalisée."],
+    ["She knew she would never see him again.", "Futur vu du passé (et cela s'est réalisé)."],
+    ["We were leaving the next morning, so we packed our bags.", "Arrangement prévu dans le passé."],
+    ["The train was about to leave when I arrived.", "Futur immédiat dans le passé (sur le point de)."]
+   ]
+  },
+  {
+   "titre": "2. Compléter",
+   "consigne": "Complète avec la forme qui convient (was going to, would, was about to, was due to).",
+   "items": [
+    ["I ___ (go) to the gym yesterday, but it was closed.", "was going to go"],
+    ["When I met Paul in 2015, I didn't know he ___ (become) my husband.", "would become"],
+    ["We ___ (just / leave) when the phone rang. (sur le point de)", "were just about to leave"],
+    ["He promised he ___ (help) us the next day.", "would help"],
+    ["The meeting ___ (start) at nine, but it began at ten. (horaire prévu)", "was due to start"],
+    ["Look at those clouds! I knew it ___ (rain).", "was going to rain (ou would rain)"]
+   ]
+  },
+  {
+   "titre": "3. Réécrire",
+   "consigne": "Réécris chaque phrase avec la forme indiquée.",
+   "items": [
+    ["I planned to visit my aunt, but I didn't have time. (was going to)", "I was going to visit my aunt, but I didn't have time."],
+    ["She said: “I will send the report tomorrow.” (discours indirect)", "She said (that) she would send the report the next day."],
+    ["We had arranged to meet at eight. (was / were + -ing)", "We were meeting at eight."],
+    ["The plane was going to take off in a few seconds. (about to)", "The plane was about to take off."],
+    ["Later he became a famous writer. (was to)", "He was (later) to become a famous writer."]
+   ]
+  },
+  {
+   "titre": "4. Corriger les erreurs",
+   "consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+   "items": [
+    ["I knew she will be late.", "I knew she would be late."],
+    ["I would call you yesterday, but I forgot.", "I was going to call you yesterday, but I forgot."],
+    ["He said he would phone when he would arrive.", "He said he would phone when he arrived."],
+    ["We were about leaving when it started to rain.", "We were about to leave when it started to rain."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["J'allais t'appeler, mais j'ai oublié.", "I was going to call you, but I forgot."],
+    ["Je savais qu'il viendrait.", "I knew he would come."],
+    ["Nous étions sur le point de partir quand elle est arrivée.", "We were (just) about to leave when she arrived."],
+    ["Il ne savait pas encore qu'il deviendrait président.", "He didn't know yet that he would become (was to become) president."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Raconte en 4 ou 5 phrases un projet qui ne s'est pas passé comme prévu, avec au moins quatre formes de futur dans le passé.",
+   "items": [
+    ["Exemple de réponse", "Last summer, I was going to spend two weeks in Canada with my cousin. My flight was due to leave Brussels on 2 July. I was just about to go to the airport when I realised my passport had expired. I had promised my cousin I would arrive on time, so I felt terrible. In the end, I flew a week later, and it turned out to be the best holiday of my life."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Futur dans le passé = on recule l'auxiliaire : will → would, am going to → was going to, am about to → was about to.",
+  "was going to = intention passée, souvent non réalisée (« j'allais… mais »). Jamais « I would call you yesterday ».",
+  "would = futur vu du passé dans un récit ou au discours indirect (« je savais qu'il viendrait »).",
+  "was about to (imminent), was + -ing (arrangement), was due to (horaire), was to (destin, formel).",
+  "Pas de « would » après when / as soon as : « when he arrived »."
+ ],
+ "liens": [45, 49, 154, 94, 109],
+ "refs": ["bc-future-forms", "cam-verbs"]
+}

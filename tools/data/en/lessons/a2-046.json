@@ -1,0 +1,203 @@
+{
+"n": 46,
+"niveau": "A2",
+"titre": "Comparatives",
+"intro": "We use comparatives to compare two people, things or situations: “bigger than”, “more expensive than”. The form depends on the length of the adjective: -er for short words, more for long words.",
+"objectifs": [
+"Form comparatives of short adjectives (-er) and long adjectives (more).",
+"Use the spelling rules and know the irregular forms (better, worse, further).",
+"Use than and less … than, and modify comparatives with much, a lot, a bit, far.",
+"Avoid typical mistakes: “more bigger”, “more good”, “that” instead of “than”."
+],
+"sections": [
+{
+"titre": "Short adjectives: -er + than",
+"texte": [
+"For a one-syllable adjective, add -er, then “than” before the thing you compare: cheap → cheaper than, old → older than, fast → faster than.",
+"Two-syllable adjectives ending in -y follow the same rule, but y changes to i: easy → easier, happy → happier, busy → busier."
+],
+"tableau": {
+"entetes": ["Rule", "Adjective", "Comparative"],
+"lignes": [
+["1 syllable: + -er", "small, cheap, tall", "smaller, cheaper, taller"],
+["ends in -e: + -r", "nice, large, safe", "nicer, larger, safer"],
+["1 vowel + 1 consonant: double it", "big, hot, thin, wet", "bigger, hotter, thinner, wetter"],
+["consonant + -y: y → ier", "easy, heavy, funny, early", "easier, heavier, funnier, earlier"],
+["ends in -w, -x, or -y after a vowel: no doubling", "new, slow, grey", "newer, slower, greyer"]
+]
+},
+"exemples": [
+["Lagos is bigger than Accra.", "big → bigger (double g)."],
+["This bag is cheaper than that one.", "cheap → cheaper."]
+]
+},
+{
+"titre": "Long adjectives: more + adjective + than",
+"texte": [
+"For two-syllable adjectives that do not end in -y, and for all adjectives with three or more syllables, put “more” before the adjective. The adjective does not change.",
+"A few two-syllable adjectives can take both forms: quiet (quieter / more quiet), simple, narrow, clever, polite. With these words, “more” is rarely wrong, but the -er form often sounds more natural for quiet, simple, narrow and clever."
+],
+"exemples": [
+["English is more useful than Latin for my job.", "useful: 2 syllables, no -y → more."],
+["The train is more comfortable than the bus.", "comfortable: long adjective."],
+["This exercise is more difficult than the first one.", "difficult: 3 syllables."]
+]
+},
+{
+"titre": "Irregular comparatives",
+"texte": [
+"Some very common adjectives (and adverbs) are irregular. Learn them by heart: you will use them all the time.",
+"“Further” and “farther” both mean “more far” for distance; “further” is more common in British English, and only “further” also means “more, extra” (further information)."
+],
+"tableau": {
+"entetes": ["Adjective / adverb", "Comparative", "Example"],
+"lignes": [
+["good / well", "better", "Your English is better than mine."],
+["bad / badly", "worse", "The traffic is worse today."],
+["far", "further / farther", "Kribi is further than Limbé from Douala."],
+["much / many", "more", "I have more work this week."],
+["little (amount)", "less", "I want less sugar, please."]
+]
+}
+},
+{
+"titre": "Than, less and pronouns",
+"texte": [
+"“Than” introduces the second part of the comparison. Do not confuse it with “that” or with “then” (after that).",
+"After than, we usually use an object pronoun: “She's taller than me”. “Taller than I am” is more careful; “taller than I” alone sounds very formal.",
+"For the opposite idea, use “less + adjective + than”, especially with long adjectives: less expensive, less important. With short adjectives, “not as … as” (lesson 66) is more natural: “not as old as” rather than “less old than”."
+],
+"exemples": [
+["My brother is older than me.", "than + object pronoun."],
+["This hotel is less expensive than the one in Brussels.", "less + long adjective."],
+["You work harder than I do.", "than + subject + helper verb."]
+]
+},
+{
+"titre": "Making a comparison stronger or weaker",
+"texte": [
+"For a big difference, put much, a lot or far before the comparative. For a small difference, use a bit, a little or slightly. Never say “very bigger”.",
+"To show a change over time, repeat the comparative with and: “bigger and bigger”, “more and more expensive”."
+],
+"exemples": [
+["Montreal is much colder than Paris in winter.", "much = a big difference."],
+["The new phone is a bit more expensive.", "a bit = a small difference."],
+["Rent is getting more and more expensive.", "A continuing change."]
+]
+}
+],
+"formule": "short adjective + -er + than · more + long adjective + than · (much / a bit) + comparative",
+"prononciation": [
+"The -er ending is /ə/ in British English: bigger /ˈbɪɡə/, cheaper /ˈtʃiːpə/; in American English the final r is pronounced /ər/.",
+"“than” is almost always weak: /ðən/: taller than me /ˈtɔːlə ðən miː/.",
+"The th in “than” is voiced /ð/, with your tongue between your teeth: not “zan” or “dan”.",
+"“better” is /ˈbetə/ (UK); in American English the tt sounds like a quick d /ˈbedər/.",
+"To emphasise, stress “much”: “It's MUCH better”."
+],
+"erreurs": [
+["She is more tall than me.", "She is taller than me.", "One-syllable adjective: -er, not more."],
+["This is more better.", "This is better.", "Never more + -er: use only one."],
+["My car is more good than yours.", "My car is better than yours.", "good → better (irregular)."],
+["He is older that me.", "He is older than me.", "In comparisons, use than, not that."],
+["The weather is badder today.", "The weather is worse today.", "bad → worse."],
+["It's very cheaper here.", "It's much cheaper here.", "Before a comparative: much / a lot / far, not very."],
+["This road is more busy.", "This road is busier.", "Two syllables ending in -y: -ier."]
+],
+"dialogue": {
+"contexte": "Nadia can't choose between two flats in Montreal. She talks to her friend Thomas.",
+"lignes": [
+["Thomas", "So, which flat do you prefer?", "A question about preference."],
+["Nadia", "The one on Rue Saint-Denis is bigger and brighter than the other one.", "Two short comparatives."],
+["Thomas", "Is it more expensive?", "Long adjective: more."],
+["Nadia", "Yes, a bit. It's 100 dollars more a month.", "a bit = a small difference."],
+["Thomas", "And the other one?", "A short question."],
+["Nadia", "It's cheaper and closer to my office, but it's much smaller and noisier.", "much + comparative; noisy → noisier."],
+["Thomas", "Hmm. A quieter flat is better for your sleep.", "quiet → quieter; good → better."],
+["Nadia", "You're right. Sleep is more important than money!", "more + long adjective + than."]
+]
+},
+"mots": [
+["cheap", "Buses are cheaper than taxis.", "costing little money"],
+["expensive", "Rent is more expensive in Paris.", "costing a lot of money"],
+["comfortable", "This chair is more comfortable.", "making you feel relaxed and pleasant"],
+["quiet", "The village is quieter than the city.", "with little noise"],
+["noisy", "Our street is noisier at night.", "making a lot of noise"],
+["safe", "It's safer to take a taxi at night.", "not dangerous"],
+["crowded", "The metro is more crowded in the morning.", "full of people"],
+["close", "My office is closer to the station.", "near (close to = near)"],
+["bright", "This room is brighter than the kitchen.", "full of light; strong (colour)"],
+["compare", "Let's compare the prices.", "to look at how things are similar or different"]
+],
+"exercices": [
+{
+"titre": "1. Make the comparative",
+"consigne": "Write the comparative form.",
+"items": [
+["small", "smaller"],
+["hot", "hotter"],
+["easy", "easier"],
+["beautiful", "more beautiful"],
+["good", "better"],
+["bad", "worse"],
+["large", "larger"],
+["modern", "more modern"]
+]
+},
+{
+"titre": "2. Complete the sentence",
+"consigne": "Complete with the comparative of the adjective and than.",
+"items": [
+["A plane is ___ (fast) a train.", "faster than"],
+["Science is ___ (interesting) history for me.", "more interesting than"],
+["My new job is ___ (good) my old one.", "better than"],
+["Winter in Canada is ___ (cold) winter in Belgium.", "colder than"],
+["This sofa is ___ (comfortable) that chair.", "more comfortable than"]
+]
+},
+{
+"titre": "3. Stronger or weaker",
+"consigne": "Rewrite the sentence with the word in brackets in the right place.",
+"items": [
+["Paris is bigger than Lyon. (much)", "Paris is much bigger than Lyon."],
+["This test was easier. (a bit)", "This test was a bit easier."],
+["Prices are getting high. (a change over time)", "Prices are getting higher and higher."]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["My sister is more young than me.", "My sister is younger than me."],
+["This film is more better than the book.", "This film is better than the book."],
+["He's taller that his father.", "He's taller than his father."],
+["The traffic is very worse today.", "The traffic is much worse today."],
+["Your phone is more cheap.", "Your phone is cheaper."]
+]
+},
+{
+"titre": "5. Write the comparison",
+"consigne": "Use the words to write a full sentence.",
+"items": [
+["my house / small / yours", "My house is smaller than yours."],
+["French / difficult / English? (question)", "Is French more difficult than English?"],
+["this hotel / less / expensive / the other one", "This hotel is less expensive than the other one."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Compare two cities you know in five sentences (size, prices, weather, atmosphere…).",
+"items": [
+["Model answer", "Douala is bigger and busier than Buea. Buea is much cooler because it's near Mount Cameroon. Life is a bit cheaper in Buea. Douala is noisier, but the nightlife is more exciting. For me, Buea is more relaxing."]
+]
+}
+],
+"a_retenir": [
+"Short adjective: -er + than (cheaper than); long adjective: more + adjective + than.",
+"Spelling: big → bigger, easy → easier, nice → nicer.",
+"Irregular: good → better, bad → worse, far → further / farther.",
+"Never “more better”, never “very + comparative”: much / a lot / a bit + comparative.",
+"Use than (not that); after than: me, him, her… or subject + helper verb (than I do)."
+],
+"liens": [24, 35, 47, 48, 66],
+"refs": ["bc-comparatives", "bc-mod-comparatives"]
+}

@@ -1,0 +1,197 @@
+{
+"n": 28,
+"niveau": "A1",
+"titre": "Can / can’t (capacité, permission)",
+"intro": "« Can » est un verbe modal très fréquent : il sert à dire ce qu’on sait faire, à demander ou donner une permission, et à faire une demande. Sa forme est très simple, mais les francophones ajoutent souvent « to », « do » ou un s qui n’existent pas.",
+"objectifs": [
+ "Construire des phrases avec can et can't à toutes les personnes, sans « to » ni « -s ».",
+ "Poser des questions avec Can…? et y répondre (Yes, I can / No, I can't).",
+ "Parler de ses capacités (I can swim) et nuancer (well, a little, not at all).",
+ "Demander, donner ou refuser une permission (Can I…? You can't…)."
+],
+"sections": [
+ {
+  "titre": "La forme : can + verbe à la base",
+  "texte": [
+   "« Can » est un modal : il ne change jamais. Pas de s à la 3e personne (« she can », jamais « she cans »), et le verbe qui suit est à la base, sans « to » : « I can swim », jamais « I can to swim ».",
+   "Négation : « cannot » (en un seul mot à l’écrit soigné) ou « can't » (forme courte, la plus fréquente). Question : on inverse « can » et le sujet, sans « do » : « Can you swim? »",
+   "Réponses courtes : « Yes, I can. » / « No, I can't. » On ne répète pas le verbe principal."
+  ],
+  "tableau": {
+   "entetes": ["Forme", "Structure", "Exemple"],
+   "lignes": [
+    ["Affirmative", "sujet + can + verbe", "She can drive."],
+    ["Négative", "sujet + can't / cannot + verbe", "She can't drive."],
+    ["Question", "Can + sujet + verbe…?", "Can she drive?"],
+    ["Réponse courte", "Yes, sujet + can. / No, sujet + can't.", "Yes, she can. / No, she can't."],
+    ["Question en Wh-", "Wh- + can + sujet + verbe…?", "What can she do?"]
+   ]
+  },
+  "exemples": [
+   ["My son can read and write.", "Mon fils sait lire et écrire."],
+   ["I can't find my keys!", "Je ne trouve pas mes clés ! (can't = je n’arrive pas à)"],
+   ["Can you speak Spanish? — No, I can't.", "Tu parles espagnol ? — Non."]
+  ]
+ },
+ {
+  "titre": "La capacité : ce qu’on sait faire",
+  "texte": [
+   "« Can » traduit à la fois « savoir » (une compétence apprise) et « pouvoir » (une capacité physique). Le français dit « je sais nager » : l’anglais dit « I can swim », pas « I know swim ».",
+   "Pour nuancer : « very well » (très bien), « well » (bien), « a little » (un peu), « not very well » (pas très bien), « can't… at all » (pas du tout). Attention : on dit « well » (adverbe), pas « good ».",
+   "Avec les langues, on dit « I can speak English » ou simplement « I speak English »."
+  ],
+  "exemples": [
+   ["I can swim, but not very well.", "Je sais nager, mais pas très bien."],
+   ["My grandmother can't use a computer at all.", "Ma grand-mère ne sait pas du tout utiliser un ordinateur."],
+   ["Can you play the piano? — Yes, a little.", "Tu sais jouer du piano ? — Oui, un peu."]
+  ],
+  "note": "Au passé, « can » devient « could » (I could swim at five = je savais nager à cinq ans). Pour les autres temps, on utilise « be able to » (leçon 108)."
+ },
+ {
+  "titre": "La permission : Can I…? You can / can't",
+  "texte": [
+   "Pour demander la permission : « Can I…? » (Je peux… ?). Pour être plus poli, on dit « Could I…? » (leçon 57), et en registre formel « May I…? ».",
+   "Pour donner ou refuser la permission, ou parler d’une règle : « You can… » (vous pouvez, c’est autorisé), « You can't… » (c’est interdit).",
+   "Réponses naturelles à une demande : « Yes, of course. », « Sure. », « Go ahead. » ; pour refuser poliment : « Sorry, you can't. » ou « I'm afraid not. »"
+  ],
+  "exemples": [
+   ["Can I open the window? — Yes, of course.", "Je peux ouvrir la fenêtre ? — Oui, bien sûr."],
+   ["You can't park here. It's for buses.", "Vous ne pouvez pas vous garer ici. C’est pour les bus."],
+   ["You can use my phone.", "Tu peux utiliser mon téléphone."]
+  ]
+ },
+ {
+  "titre": "Demandes, offres et possibilités",
+  "texte": [
+   "« Can you…? » sert à demander un service : « Can you help me? » (Tu peux m’aider ?). « Can I…? » sert aussi à proposer son aide : « Can I help you? » (Je peux vous aider ?).",
+   "« Can » exprime aussi ce qui est possible : « You can buy tickets online. » (On peut acheter les billets en ligne.) Le « on » français se traduit souvent par « you »."
+  ],
+  "exemples": [
+   ["Can you close the door, please?", "Tu peux fermer la porte, s’il te plaît ?"],
+   ["Can I help you? — Yes, I'm looking for the station.", "Je peux vous aider ? — Oui, je cherche la gare."],
+   ["You can see the sea from my window.", "On voit la mer de ma fenêtre."]
+  ]
+ },
+ {
+  "titre": "Les pièges des francophones",
+  "texte": [
+   "Ne jamais ajouter « do » : « Do you can…? » et « I don't can… » sont faux. « Can » se débrouille seul pour la question et la négation.",
+   "À l’oral, « can » et « can't » se ressemblent. La différence se fait surtout par le son de la voyelle et l’accent (voir la prononciation). Dans le doute, écoutez la réponse courte, toujours claire : « Yes, I can » / « No, I can't »."
+  ],
+  "tableau": {
+   "entetes": ["Faux", "Correct", "Pourquoi"],
+   "lignes": [
+    ["I can to swim.", "I can swim.", "pas de « to » après can"],
+    ["He cans swim.", "He can swim.", "pas de s"],
+    ["Do you can swim?", "Can you swim?", "pas de « do »"],
+    ["I don't can swim.", "I can't swim.", "pas de « do »"]
+   ]
+  }
+ }
+],
+"formule": "sujet + can / can't + verbe (sans to) · Can + sujet + verbe…? · Yes, I can. / No, I can't.",
+"prononciation": [
+ "Dans une phrase affirmative, « can » est faible et rapide : « I can swim » = /aɪ kən ˈswɪm/. L’accent tombe sur le verbe principal.",
+ "« can't » n’est jamais faible : /kɑːnt/ en anglais britannique (comme « aunt » avec un k), /kænt/ en américain. L’accent tombe sur can't ET sur le verbe : « I CAN'T SWIM ».",
+ "Dans une réponse courte, « can » est fort : « Yes, I CAN » /kæn/.",
+ "En anglais américain, le t de « can't » s’entend à peine ; écoutez la longueur et la force de la voyelle pour faire la différence.",
+ "« Can I…? » se lie : « Can I » = /kənaɪ/. La question monte à la fin."
+],
+"erreurs": [
+ ["I can to swim.", "I can swim.", "Après un modal, le verbe est à la base, sans « to »."],
+ ["She cans drive.", "She can drive.", "Un modal ne prend jamais de s."],
+ ["Do you can help me?", "Can you help me?", "Pas de « do » : on inverse can et le sujet."],
+ ["I don't can come tomorrow.", "I can't come tomorrow.", "Négation : can't / cannot."],
+ ["I know swim.", "I can swim.", "« Savoir faire » se dit avec can."],
+ ["She can speak English very good.", "She can speak English very well.", "Après un verbe, on utilise l’adverbe « well »."],
+ ["Can I to open the window?", "Can I open the window?", "Pas de « to » dans la question non plus."]
+],
+"dialogue": {
+ "contexte": "À Québec, Moussa passe un entretien pour un emploi d’été dans un hôtel. Mme Tremblay lui pose des questions.",
+ "lignes": [
+  ["Mrs Tremblay", "So, Moussa, can you speak English and French?", "Alors, Moussa, vous parlez anglais et français ?"],
+  ["Moussa", "Yes, I can. And I can speak a little Spanish too.", "Oui. Et je parle aussi un peu espagnol."],
+  ["Mrs Tremblay", "Very good. Can you drive?", "Très bien. Vous savez conduire ?"],
+  ["Moussa", "No, I can't. But I can ride a bike!", "Non. Mais je sais faire du vélo !"],
+  ["Mrs Tremblay", "That's OK. Can you work at the weekend?", "Ce n’est pas grave. Vous pouvez travailler le week-end ?"],
+  ["Moussa", "Yes, I can work on Saturdays and Sundays. Can I ask a question?", "Oui, je peux travailler le samedi et le dimanche. Je peux poser une question ?"],
+  ["Mrs Tremblay", "Of course. Go ahead.", "Bien sûr. Allez-y."],
+  ["Moussa", "Can staff eat at the hotel restaurant?", "Le personnel peut-il manger au restaurant de l’hôtel ?"],
+  ["Mrs Tremblay", "Yes, you can have lunch there for free. But you can't use your phone at reception.", "Oui, vous pouvez y déjeuner gratuitement. Mais vous ne pouvez pas utiliser votre téléphone à l’accueil."]
+ ]
+},
+"mots": [
+ ["swim", "Can you swim?", "nager"],
+ ["drive", "My sister can drive a bus.", "conduire"],
+ ["speak", "I can speak three languages.", "parler (une langue)"],
+ ["play", "He can play the guitar.", "jouer (d’un instrument, à un sport)"],
+ ["help", "Can you help me, please?", "aider"],
+ ["borrow", "Can I borrow your pen?", "emprunter"],
+ ["use", "You can use my computer.", "utiliser"],
+ ["park", "You can't park here.", "se garer, stationner"],
+ ["well", "She can sing very well.", "bien (adverbe)"],
+ ["at all", "I can't cook at all.", "pas du tout (avec une négation)"]
+],
+"exercices": [
+ {
+  "titre": "1. Can ou can't ?",
+  "consigne": "Complète avec can ou can't selon le sens.",
+  "items": [
+   ["Fish ___ swim.", "can"],
+   ["A baby ___ drive a car.", "can't"],
+   ["Birds ___ fly.", "can"],
+   ["I'm sorry, I ___ come to your party. I'm at work.", "can't"],
+   ["You ___ smoke in the hospital. It's forbidden.", "can't"],
+   ["You ___ pay by card here. We accept all cards.", "can"]
+  ]
+ },
+ {
+  "titre": "2. Questions et réponses courtes",
+  "consigne": "Écris la question avec can, puis la réponse courte indiquée.",
+  "items": [
+   ["you / swim? (oui)", "Can you swim? — Yes, I can."],
+   ["she / cook? (non)", "Can she cook? — No, she can't."],
+   ["they / speak French? (oui)", "Can they speak French? — Yes, they can."],
+   ["I / sit here? (oui)", "Can I sit here? — Yes, you can."],
+   ["he / play the piano? (non)", "Can he play the piano? — No, he can't."]
+  ]
+ },
+ {
+  "titre": "3. Capacité ou permission ?",
+  "consigne": "Dis si « can » exprime une capacité (ability) ou une permission.",
+  "items": [
+   ["Can I sit here?", "permission"],
+   ["She can speak four languages.", "capacité (ability)"],
+   ["You can't take photos in the museum.", "permission (une règle, une interdiction)"],
+   ["Can you play the guitar?", "capacité (ability)"]
+  ]
+ },
+ {
+  "titre": "4. Traduire (attention aux pièges)",
+  "consigne": "Traduis en anglais.",
+  "items": [
+   ["Je sais nager.", "I can swim."],
+   ["Est-ce que tu peux m’aider ?", "Can you help me?"],
+   ["Il ne sait pas du tout cuisiner.", "He can't cook at all."],
+   ["Je peux emprunter ton stylo ?", "Can I borrow your pen?"],
+   ["On ne peut pas se garer ici.", "You can't park here."]
+  ]
+ },
+ {
+  "titre": "5. À toi",
+  "consigne": "Écris quatre phrases : deux choses que tu sais faire (avec well ou a little) et deux choses que tu ne sais pas faire.",
+  "items": [
+   ["Exemple de réponse", "I can speak French very well and I can speak a little English. I can cook a good ndolé. I can't drive, and I can't play any musical instrument at all."]
+  ]
+ }
+],
+"a_retenir": [
+ "can + verbe à la base, sans « to », sans s, sans « do » : She can swim. Can she swim? She can't swim.",
+ "Réponses courtes : Yes, I can. / No, I can't.",
+ "Capacité : I can swim (je sais nager) ; nuancer avec well, a little, not at all.",
+ "Permission et règles : Can I…? You can / You can't… ; plus poli : Could I…?",
+ "Prononciation : can faible /kən/, can't toujours fort /kɑːnt/."
+],
+"liens": [6, 32, 34, 57, 108],
+"refs": ["cam-verbs", "bc-a1a2"]
+}

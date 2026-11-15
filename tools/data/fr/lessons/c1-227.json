@@ -1,0 +1,484 @@
+{
+ "n": 227,
+ "niveau": "C1",
+ "titre": "La phraséologie des articles scientifiques",
+ "intro": "Un article scientifique en anglais suit une structure et des formules très codifiées : chaque partie (introduction, méthode, résultats, discussion) a ses verbes, ses temps et ses tournures. Les connaître permet de lire plus vite et d'écrire un article qui sonne comme ceux des revues internationales.",
+ "objectifs": [
+  "Connaître la structure IMRaD et les formules typiques de chaque partie.",
+  "Choisir le bon temps selon la partie : présent pour les faits établis, present perfect pour l'état de la recherche, prétérit pour sa propre méthode et ses résultats.",
+  "Présenter des résultats, renvoyer à un tableau ou une figure, signaler les limites de l'étude.",
+  "Utiliser correctement les abréviations (e.g., i.e., et al.) et éviter les calques fréquents."
+ ],
+ "sections": [
+  {
+   "titre": "La structure IMRaD et ses formules",
+   "texte": [
+    "La plupart des articles empiriques suivent le plan IMRaD : Introduction, Methods, Results and Discussion, précédé d'un résumé (abstract, voir la leçon 254) et suivi d'une conclusion. Chaque partie répond à une question : pourquoi ? comment ? qu'a-t-on trouvé ? qu'est-ce que cela signifie ?",
+    "L'introduction progresse du général au particulier : le domaine, ce que l'on sait, ce qu'on ignore encore (the gap), puis l'objectif de l'article."
+   ],
+   "tableau": {
+    "entetes": [
+     "Partie",
+     "Fonction",
+     "Formules typiques"
+    ],
+    "lignes": [
+     [
+      "Introduction",
+      "situer, montrer la lacune, annoncer l'objectif",
+      "Recent years have seen a growing interest in… / However, little is known about… / This paper aims to…"
+     ],
+     [
+      "Methods",
+      "décrire ce qui a été fait",
+      "Participants were recruited from… / Data were analysed using… / A total of 312 responses were obtained."
+     ],
+     [
+      "Results",
+      "présenter sans interpréter",
+      "Table 2 presents… / As shown in Figure 1,… / X was significantly higher than Y."
+     ],
+     [
+      "Discussion",
+      "interpréter, comparer, nuancer",
+      "These findings are consistent with… / One possible explanation is that… / This study has several limitations."
+     ],
+     [
+      "Conclusion",
+      "résumer l'apport, ouvrir",
+      "This study has shown that… / Future research should…"
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "However, little is known about the long-term effects of remote learning.",
+     "Formule classique pour signaler la lacune dans la recherche."
+    ],
+    [
+     "This paper aims to examine how small firms in Cameroon use mobile payments.",
+     "Annonce de l'objectif : aim to + verbe."
+    ]
+   ]
+  },
+  {
+   "titre": "Les temps selon la partie",
+   "texte": [
+    "Le choix du temps n'est pas libre : il indique au lecteur le statut de l'information.",
+    "Présent simple : vérités générales et faits établis, ce que montrent les tableaux, ce que fait l'article (« This paper argues… », « Table 3 shows… »). Present perfect : l'état de la recherche jusqu'à aujourd'hui (« Several studies have examined… »). Prétérit : ce que vous avez fait et trouvé (méthode, résultats), et une étude précise datée (« Smith (2019) found that… »)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Temps",
+     "Usage",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Présent simple",
+      "faits établis, ce que dit le texte ou la figure",
+      "Sleep plays a key role in memory. / Figure 2 shows the distribution."
+     ],
+     [
+      "Present perfect",
+      "bilan de la recherche, période jusqu'à maintenant",
+      "Few studies have addressed this question."
+     ],
+     [
+      "Prétérit",
+      "votre méthode et vos résultats ; une étude précise",
+      "We interviewed 40 teachers. / Ngo (2021) found a similar effect."
+     ],
+     [
+      "Modaux",
+      "interprétation prudente (discussion)",
+      "This may reflect differences in income."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "Previous research has focused mainly on urban areas.",
+     "Present perfect : l'état de la recherche jusqu'à aujourd'hui."
+    ],
+    [
+     "The questionnaire was distributed in March 2025.",
+     "Prétérit passif : un fait précis de la méthode."
+    ]
+   ]
+  },
+  {
+   "titre": "Voix passive ou « we » ?",
+   "texte": [
+    "La partie Methods utilise traditionnellement le passif, car c'est l'action qui compte, pas l'acteur : « Samples were collected… ». Mais beaucoup de revues acceptent ou encouragent aujourd'hui « we » pour une prose plus directe : « We collected samples… ». Suivez les consignes de la revue (author guidelines) et restez cohérent.",
+    "« I » est rare dans les sciences expérimentales mais courant en sciences humaines quand l'auteur est seul. On évite en revanche « one » (« one can observe »), qui sonne vieilli."
+   ],
+   "exemples": [
+    [
+     "All interviews were recorded and transcribed.",
+     "Passif : l'accent sur la procédure."
+    ],
+    [
+     "We hypothesised that older users would trust the app less.",
+     "« We » : style actif accepté par de nombreuses revues (AmE : hypothesized)."
+    ]
+   ]
+  },
+  {
+   "titre": "Présenter et commenter les résultats",
+   "texte": [
+    "Dans Results, on décrit sans interpréter : on renvoie au tableau, on donne les chiffres et on signale ce qui est significatif. L'interprétation est réservée à la Discussion.",
+    "Les renvois : « as shown in Table 1 », « (see Figure 3) », « Table 1 summarises… ». Les comparaisons : « significantly higher than », « no significant difference was found between… », « a positive correlation between X and Y »."
+   ],
+   "tableau": {
+    "entetes": [
+     "Fonction",
+     "Formules"
+    ],
+    "lignes": [
+     [
+      "Renvoyer",
+      "As shown in Table 1, … / Figure 2 illustrates… / (see Appendix A)"
+     ],
+     [
+      "Comparer",
+      "X was significantly higher / lower than Y. / No significant difference was found between…"
+     ],
+     [
+      "Relier",
+      "There was a strong positive correlation between X and Y."
+     ],
+     [
+      "Interpréter (discussion)",
+      "This suggests that… / One possible explanation is… / These results are in line with…"
+     ],
+     [
+      "Comparer à la littérature",
+      "This finding is consistent with / contrasts with earlier work by…"
+     ],
+     [
+      "Limites",
+      "This study has several limitations. First, the sample was small. / The results should be interpreted with caution."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "As shown in Table 2, satisfaction was significantly higher in the rural group.",
+     "Renvoi + comparaison chiffrée, sans interprétation."
+    ],
+    [
+     "These results should be interpreted with caution, given the small sample size.",
+     "Formule standard de limite."
+    ]
+   ]
+  },
+  {
+   "titre": "Citer et renvoyer aux autres travaux",
+   "texte": [
+    "Deux façons de citer : centrée sur l'auteur (« Diallo (2020) argues that… ») ou centrée sur l'information (« Mobile money has reduced transaction costs (Diallo, 2020) »). La leçon 236 détaille les verbes introducteurs (argue, claim, suggest…).",
+    "« et al. » (« et alii », et d'autres) s'utilise pour trois auteurs ou plus selon la plupart des normes : « Chen et al. (2022) ». Il prend un point et le verbe est au pluriel : « Chen et al. report… »."
+   ],
+   "exemples": [
+    [
+     "Chen et al. (2022) report similar results in Kenya.",
+     "« et al. » + verbe au pluriel (report)."
+    ],
+    [
+     "This pattern has been observed in other regions (e.g., Asogwa, 2019; Petit, 2023).",
+     "« e.g. » = for example, devant une liste non exhaustive."
+    ]
+   ],
+   "note": "« e.g. » (exempli gratia) = par exemple ; « i.e. » (id est) = c'est-à-dire. En anglais américain, on met une virgule après : « e.g., » ; en britannique, elle est souvent omise."
+  },
+  {
+   "titre": "Calques et maladresses à éviter",
+   "texte": [
+    "Le français académique aime les phrases longues et les annonces (« Dans un premier temps, nous verrons… »). L'anglais scientifique préfère des phrases plus courtes, une idée principale par phrase, et des annonces brèves : « Section 2 reviews the literature; Section 3 describes the method. »",
+    "Attention aussi à « actual » (= réel, pas actuel), « precise » utilisé comme verbe (« we precise that » est incorrect : « we specify / clarify that »), et à « the present study » qui signifie « cette étude-ci » (correct et fréquent)."
+   ]
+  }
+ ],
+ "formule": "Introduction (présent / present perfect → gap → aim) · Methods (prétérit, souvent passif) · Results (prétérit + renvois aux tableaux) · Discussion (présent + modaux, comparaison, limites)",
+ "prononciation": [
+  "« et al. » se lit /et ˈæl/ ; « e.g. » se lit /ˌiː ˈdʒiː/ ou « for example » ; « i.e. » /ˌaɪ ˈiː/ ou « that is ».",
+  "« analysed / analyzed » /ˈænəlaɪzd/ : le -ed final est /d/ ; « hypothesised » /haɪˈpɒθəsaɪzd/.",
+  "« significantly » /sɪɡˈnɪfɪkəntli/ : accent sur la deuxième syllabe.",
+  "« methodology » /ˌmeθəˈdɒlədʒi/ : accent principal sur « dol », comme dans toutes les finales en -ology.",
+  "En conférence, on lit « Table 2 » /ˈteɪbl ˈtuː/ et « Figure 3 » /ˈfɪɡə ˈθriː/ (BrE) ; en américain /ˈfɪɡjər/."
+ ],
+ "erreurs": [
+  [
+   "In a first time, we will present the literature.",
+   "Section 2 reviews the literature. / First, we review the literature.",
+   "« Dans un premier temps » ne se traduit pas mot à mot."
+  ],
+  [
+   "We precise that the sample was small.",
+   "We should point out that the sample was small. / It should be noted that the sample was small.",
+   "« Precise » est un adjectif, pas un verbe."
+  ],
+  [
+   "Many studies showed this effect since 2010.",
+   "Many studies have shown this effect since 2010.",
+   "État de la recherche jusqu'à aujourd'hui (since) : present perfect."
+  ],
+  [
+   "We have interviewed 40 teachers in May 2024.",
+   "We interviewed 40 teachers in May 2024.",
+   "Méthode datée : prétérit."
+  ],
+  [
+   "Chen et al. reports similar results.",
+   "Chen et al. report similar results.",
+   "« et al. » = plusieurs auteurs : verbe au pluriel."
+  ],
+  [
+   "The actual situation of research is limited.",
+   "The current state of research is limited.",
+   "« Actual » = réel ; « actuel » = current."
+  ],
+  [
+   "The results prove clearly our hypothesis.",
+   "The results clearly support our hypothesis.",
+   "Place de l'adverbe (avant le verbe) et verbe trop fort (prove)."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "À Louvain-la-Neuve, deux chercheurs relisent ensemble le brouillon d'un article avant soumission.",
+  "lignes": [
+   [
+    "Sophie",
+    "Your introduction starts with “In a first time, we will see the context.” Reviewers will notice that.",
+    "Ton introduction commence par « Dans un premier temps… ». Les relecteurs vont le remarquer."
+   ],
+   [
+    "Ibrahim",
+    "Right. What about “Recent years have seen a growing interest in urban farming”?",
+    "D'accord. Et « Ces dernières années ont vu un intérêt croissant pour l'agriculture urbaine » ?"
+   ],
+   [
+    "Sophie",
+    "Perfect. Then show the gap: “However, little is known about its economic impact.”",
+    "Parfait. Ensuite, montre la lacune : « Cependant, on sait peu de chose de son impact économique. »"
+   ],
+   [
+    "Ibrahim",
+    "In the methods, I wrote “We have collected data in 2024.”",
+    "Dans la méthode, j'ai écrit « We have collected data in 2024 »."
+   ],
+   [
+    "Sophie",
+    "With a date, it's the past simple: “Data were collected in 2024”, or “We collected data”.",
+    "Avec une date, c'est le prétérit : « Data were collected… » ou « We collected… »."
+   ],
+   [
+    "Ibrahim",
+    "And in the results, can I say the yields are higher because of the soil?",
+    "Et dans les résultats, je peux dire que les rendements sont plus élevés à cause du sol ?"
+   ],
+   [
+    "Sophie",
+    "Keep that for the discussion. In the results, just write “Yields were significantly higher in Plot B (see Table 3).”",
+    "Garde ça pour la discussion. Dans les résultats, écris juste « Les rendements étaient significativement plus élevés… »."
+   ],
+   [
+    "Ibrahim",
+    "And then in the discussion: “One possible explanation is the soil quality.”",
+    "Et dans la discussion : « Une explication possible est la qualité du sol. »"
+   ],
+   [
+    "Sophie",
+    "Exactly. And add a sentence on limitations: the sample is small.",
+    "Exactement. Et ajoute une phrase sur les limites : l'échantillon est petit."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "literature",
+   "The literature on this topic is limited.",
+   "la littérature scientifique, les travaux publiés"
+  ],
+  [
+   "gap",
+   "This study addresses a gap in current research.",
+   "une lacune"
+  ],
+  [
+   "sample",
+   "The sample included 300 students.",
+   "échantillon"
+  ],
+  [
+   "participant",
+   "Participants completed an online survey.",
+   "participant (à une étude)"
+  ],
+  [
+   "findings",
+   "These findings are consistent with earlier work.",
+   "résultats"
+  ],
+  [
+   "consistent with",
+   "The results are consistent with our hypothesis.",
+   "cohérent avec, conforme à"
+  ],
+  [
+   "limitation",
+   "One limitation of this study is its size.",
+   "limite (d'une étude)"
+  ],
+  [
+   "outline",
+   "Section 2 outlines the method.",
+   "exposer dans les grandes lignes"
+  ],
+  [
+   "peer review",
+   "The article is currently under peer review.",
+   "évaluation par les pairs"
+  ],
+  [
+   "appendix",
+   "The questionnaire is given in Appendix A.",
+   "annexe"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Quelle partie de l'article ?",
+   "consigne": "Indique dans quelle partie (Introduction, Methods, Results, Discussion) on trouve la phrase.",
+   "items": [
+    [
+     "However, little is known about the role of grandparents in childcare.",
+     "Introduction"
+    ],
+    [
+     "Participants were recruited through three local schools.",
+     "Methods"
+    ],
+    [
+     "As shown in Table 4, response times were significantly shorter in Group B.",
+     "Results"
+    ],
+    [
+     "One possible explanation for this difference is the training received.",
+     "Discussion"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Le bon temps",
+   "consigne": "Mets le verbe entre parenthèses au temps qui convient.",
+   "items": [
+    [
+     "Several studies ___ (examine) this issue since 2015.",
+     "have examined"
+    ],
+    [
+     "We ___ (interview) 25 nurses in June 2024.",
+     "interviewed"
+    ],
+    [
+     "Table 1 ___ (show) the characteristics of the sample.",
+     "shows"
+    ],
+    [
+     "Diallo (2019) ___ (find) a similar effect in Senegal.",
+     "found"
+    ],
+    [
+     "Water ___ (boil) at 100 °C at sea level.",
+     "boils"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Compléter la formule",
+   "consigne": "Complète avec le mot manquant.",
+   "items": [
+    [
+     "These findings are consistent ___ previous research.",
+     "with"
+    ],
+    [
+     "___ shown in Figure 2, the trend is upward.",
+     "As"
+    ],
+    [
+     "This paper ___ to examine the effects of the reform.",
+     "aims"
+    ],
+    [
+     "The results should be interpreted with ___.",
+     "caution"
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "We precise that all participants were volunteers.",
+     "It should be noted that all participants were volunteers."
+    ],
+    [
+     "Lopez et al. argues that the policy failed.",
+     "Lopez et al. argue that the policy failed."
+    ],
+    [
+     "We have collected the data in 2023.",
+     "We collected the data in 2023. / The data were collected in 2023."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais académique.",
+   "items": [
+    [
+     "Cette étude présente plusieurs limites.",
+     "This study has several limitations."
+    ],
+    [
+     "Peu d'études se sont intéressées à cette question.",
+     "Few studies have addressed / examined this question."
+    ],
+    [
+     "Les résultats doivent être interprétés avec prudence.",
+     "The results should be interpreted with caution."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Écris une courte introduction d'article (4 phrases) : le contexte, ce qu'on sait, la lacune, l'objectif.",
+   "items": [
+    [
+     "Exemple de réponse",
+     "Recent years have seen a growing interest in online learning in sub-Saharan Africa. Several studies have shown that it can widen access to higher education. However, little is known about how students in rural areas cope with unstable internet connections. This paper aims to examine the strategies used by 120 students in the North-West Region of Cameroon."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "IMRaD : Introduction (contexte → lacune → objectif), Methods, Results (décrire), Discussion (interpréter, comparer, limiter).",
+  "Présent pour les faits établis et ce que montre le texte ; present perfect pour l'état de la recherche ; prétérit pour votre méthode, vos résultats et une étude datée.",
+  "Formules clés : little is known about, this paper aims to, as shown in Table 1, consistent with, should be interpreted with caution.",
+  "« et al. » + verbe au pluriel ; e.g. = par exemple, i.e. = c'est-à-dire ; pas de « in a first time » ni de « we precise »."
+ ],
+ "liens": [
+  226,
+  222,
+  236,
+  238,
+  254
+ ],
+ "refs": [
+  "bc-c1",
+  "cam-using"
+ ]
+}

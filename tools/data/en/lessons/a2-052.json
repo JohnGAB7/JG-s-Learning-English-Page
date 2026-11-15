@@ -1,0 +1,185 @@
+{
+"n": 52,
+"niveau": "A2",
+"titre": "Ever / never",
+"intro": "“Ever” (at any time in your life) and “never” (at no time) are very often used with the present perfect to talk about experiences: “Have you ever been to Canada?”, “I've never eaten snails”. They are the key words for talking about what you have done in your life.",
+"objectifs": [
+"Ask about experiences with “Have you ever + past participle?”.",
+"Answer with never, without a double negative.",
+"Put ever and never in the right place in the sentence.",
+"Use “the first time”, “before” and “superlative + I've ever” to give richer answers."
+],
+"sections": [
+{
+"titre": "Have you ever…?: the experience question",
+"texte": [
+"“Ever” means “at any time in your life until now”. Put it between have / has and the past participle: Have you ever + past participle?",
+"Do not use “already” for this kind of question. “Already” has a different meaning (lesson 53). For life experience, use “ever”."
+],
+"exemples": [
+["Have you ever been to Canada?", "At any time in your life."],
+["Has she ever worked abroad?", "has + she + ever + participle."],
+["Have your parents ever seen snow?", "A question about experience."]
+]
+},
+{
+"titre": "Answers",
+"texte": [
+"Answer with a short answer (Yes, I have. / No, I haven't.), or with “No, never.” If the answer is yes, we often add details in the past simple (lesson 51).",
+"In a full negative answer, “never” replaces “not”: I've never + past participle. Never use never and not together (no double negative)."
+],
+"tableau": {
+"entetes": ["Question", "Positive answer", "Negative answer"],
+"lignes": [
+["Have you ever eaten ndolé?", "Yes, I have. I ate it in Douala last year.", "No, I haven't. / No, never."],
+["Has he ever ridden a horse?", "Yes, he has. Twice!", "No, he's never ridden a horse."],
+["Have they ever met your boss?", "Yes, they have.", "No, they've never met her."]
+]
+}
+},
+{
+"titre": "Never: position and meaning",
+"texte": [
+"“Never” goes between have / has and the past participle: “I have never seen”, “She's never been”. It is already negative, so the verb stays positive.",
+"“I haven't ever…” exists, but it is much less common; prefer “I've never…”. To stress that an experience is new, add “before” at the end: “I've never done this before”."
+],
+"exemples": [
+["I've never been to Belgium.", "never = not at any time."],
+["My grandmother has never used a computer.", "has + never + participle."],
+["We've never tried Ethiopian food before.", "before at the end = until now."]
+]
+},
+{
+"titre": "Ever with a superlative and “the first time”",
+"texte": [
+"“Superlative + noun + I've ever + past participle” describes an exceptional experience: “the best … I've ever …”.",
+"“It's the first time + I've + past participle” says something is happening for the first time. English uses the present perfect here, not the present simple."
+],
+"exemples": [
+["It's the most beautiful place I've ever seen.", "Superlative + I've ever."],
+["This is the best coffee I've ever had.", "the best … I've ever …"],
+["It's the first time I've flown.", "Not “the first time I fly”."]
+]
+},
+{
+"titre": "Ever and never with other tenses",
+"texte": [
+"“Never” is also used with the present simple for habits (I never drink coffee, lesson 7) and with the past simple for a finished period: “My father never learned to swim” (the period of his life we are talking about is over).",
+"In American English, people often say “Did you ever…?” where British English says “Have you ever…?”. For now, use “Have you ever…?” for life experience."
+],
+"exemples": [
+["I never eat meat on Fridays.", "Habit: present simple."],
+["I never met my grandfather. He died before I was born.", "Finished period: past simple."]
+]
+}
+],
+"formule": "Have / Has + subject + ever + past participle? · subject + have / has + never + past participle",
+"prononciation": [
+"“ever” is /ˈevə/ (UK) / /ˈevər/ (US); “never” is /ˈnevə/: a short e as in “pet”.",
+"In “Have you ever…?”, the words link: /həv juː ˈevə/; “you ever” sounds almost like /juˈwevə/.",
+"In negative sentences, stress “never”: I've NEVER been there.",
+"“Have you ever…?” goes up at the end (yes / no question); the answer “No, never” goes down."
+],
+"erreurs": [
+["Did you ever go to Paris?", "Have you ever been to Paris?", "For life experience (standard British English): present perfect."],
+["I haven't never seen it.", "I've never seen it.", "No double negative: never is enough."],
+["I've ever been to London.", "I've been to London.", "ever is not used in a simple positive sentence."],
+["Have you already been to Canada?", "Have you ever been to Canada?", "Life experience: ever, not already."],
+["I never have seen snow.", "I've never seen snow.", "never goes between have and the participle."],
+["It's the first time I see the sea.", "It's the first time I've seen the sea.", "After “the first time”: present perfect."],
+["Have you ever went to Lomé?", "Have you ever been to Lomé?", "After have: past participle (been / gone), not the past simple."]
+],
+"dialogue": {
+"contexte": "During a lunch break in Montreal, some colleagues play “Have you ever…?”.",
+"lignes": [
+["Chloé", "OK, my turn. Have you ever eaten poutine, Kwame?", "The experience question."],
+["Kwame", "Yes, I have! I had it on my first day here. It's the best snack I've ever eaten.", "Detail in the past simple; superlative + I've ever."],
+["Chloé", "Ha! And have you ever been skiing?", "been + -ing activity: been skiing."],
+["Kwame", "No, never. I've never even seen a ski slope!", "No, never + I've never."],
+["Marie", "Have you ever tried, Chloé?", "Another ever question."],
+["Chloé", "Yes, lots of times. I went to Mont-Tremblant last winter.", "Finished time → past simple."],
+["Kwame", "Can you teach me? It'll be the first time I've tried a winter sport!", "the first time + present perfect."],
+["Marie", "Great idea. Let's all go next Saturday!", "A suggestion."]
+]
+},
+"mots": [
+["ever", "Have you ever met a famous person?", "at any time"],
+["never", "I've never seen the sea.", "not at any time"],
+["before", "I've never done this before.", "at an earlier time; until now"],
+["try", "Have you ever tried sushi?", "to test something to see if you like it"],
+["once", "I've been to Ghana once.", "one time"],
+["times", "She's visited Paris three times.", "how often something happens (three times)"],
+["snow", "Have you ever seen snow?", "soft white frozen water that falls from the sky"],
+["ride", "I've never ridden a motorbike.", "to travel on a bike, motorbike or horse (ride – rode – ridden)"],
+["amazing", "It was an amazing experience.", "very surprising, wonderful"],
+["first", "It's the first time I've cooked for ten people.", "coming before all others"]
+],
+"exercices": [
+{
+"titre": "1. Ever or never?",
+"consigne": "Complete with ever or never.",
+"items": [
+["Have you ___ been to Ghana?", "ever"],
+["I've ___ eaten frogs' legs.", "never"],
+["Has your brother ___ worked in a restaurant?", "ever"],
+["She's ___ flown in a plane. She's a bit nervous.", "never"],
+["It's the best film I've ___ seen.", "ever"]
+]
+},
+{
+"titre": "2. Ask the question",
+"consigne": "Write the question with Have / Has … ever …?",
+"items": [
+["you / climb / a mountain", "Have you ever climbed a mountain?"],
+["she / lose / her passport", "Has she ever lost her passport?"],
+["they / see / a lion", "Have they ever seen a lion?"],
+["he / write / a poem", "Has he ever written a poem?"]
+]
+},
+{
+"titre": "3. Answer",
+"consigne": "Answer the question (✓ = yes, with a detail in the past simple; ✗ = no, with never).",
+"items": [
+["Have you ever been to Brussels? (✓ last year)", "Yes, I have. I went there last year."],
+["Have you ever played golf? (✗)", "No, I've never played golf."],
+["Has Ana ever driven a truck? (✗)", "No, she's never driven a truck."],
+["Have you ever met a celebrity? (✓ in 2020)", "Yes, I have. I met one in 2020."]
+]
+},
+{
+"titre": "4. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["I haven't never been to Spain.", "I've never been to Spain."],
+["Have you ever saw a ghost?", "Have you ever seen a ghost?"],
+["It's the first time I eat cassava.", "It's the first time I've eaten cassava."],
+["I've ever visited Rome.", "I've visited Rome."]
+]
+},
+{
+"titre": "5. Rewrite",
+"consigne": "Rewrite the sentence with the word or pattern in brackets.",
+"items": [
+["Is snow something you have seen in your life? (ever)", "Have you ever seen snow?"],
+["We haven't been to South Africa at any time. (never)", "We've never been to South Africa."],
+["I have received many presents. This one is the best. (the best … ever)", "It's the best present I've ever received."]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "Write three “Have you ever…?” questions for a friend, then answer them for yourself (yes with a detail in the past simple, or no with never).",
+"items": [
+["Model answer", "Have you ever slept in a tent? — Yes, I have. I slept in a tent near Kribi in 2019. Have you ever run a marathon? — No, I've never run a marathon. Have you ever cooked for a big party? — Yes, I have. I cooked for my sister's wedding last year."]
+]
+}
+],
+"a_retenir": [
+"Have you ever + past participle? = life experience (ever = at any time in your life).",
+"I've never + past participle: never is already negative, no not.",
+"ever and never go between have / has and the participle.",
+"If yes, give the details (when, where) in the past simple.",
+"the best … I've ever …; It's the first time I've + past participle."
+],
+"liens": [7, 47, 51, 53],
+"refs": ["bc-present-perfect", "cam-verbs"]
+}

@@ -1,0 +1,190 @@
+{
+"n": 57,
+"niveau": "A2",
+"titre": "Could / would you…? (polite requests)",
+"intro": "To ask for something politely, English uses questions with could or would rather than the imperative: “Could you help me?”. Choosing the right level of politeness is essential at work, in shops and with people you don't know.",
+"objectifs": [
+"Ask someone to do something with Can / Could / Would you + base verb.",
+"Ask for permission for yourself with Can / Could / May I…?",
+"Use “Would you mind + -ing?” and understand the answers.",
+"Accept or refuse a request politely."
+],
+"sections": [
+{
+"titre": "Asking someone to do something: Can / Could / Would you…?",
+"texte": [
+"To ask someone to do something, ask a question with a modal + you + base verb. The more “distant” the form, the more polite it sounds.",
+"Here, “could” is not a past form: it is simply more polite. Put “please” after you or at the end of the sentence."
+],
+"tableau": {
+"entetes": ["Form", "Politeness", "Example", "When"],
+"lignes": [
+["Can you + base?", "informal", "Can you pass the salt?", "with friends and family"],
+["Could you + base?", "polite — the most useful form", "Could you close the window, please?", "almost always OK"],
+["Would you + base?", "polite", "Would you sign here, please?", "service situations"],
+["Would you mind + -ing?", "very polite", "Would you mind waiting a moment?", "strangers, work"],
+["Could you possibly + base?", "very polite, for a big favour", "Could you possibly lend me your car?", "when you ask a lot"]
+]
+}
+},
+{
+"titre": "Asking for permission: Can / Could / May I…?",
+"texte": [
+"When you ask for something for yourself (permission to do something), the subject is I: Can I…?, Could I…?, May I…? (more formal).",
+"“Could I have…?” is the perfect phrase to order or ask for something: “Could I have the bill, please?”. “Can I get…?” is common in American English in cafés, but it is more informal."
+],
+"exemples": [
+["Can I use your phone?", "Informal permission."],
+["Could I have a glass of water, please?", "Polite request for a thing."],
+["May I come in?", "Formal permission."]
+]
+},
+{
+"titre": "Would you mind…?: be careful with the answers",
+"texte": [
+"“Would you mind + verb-ing?” means “Is it a problem for you to…?”. The verb after mind is always in the -ing form.",
+"Trap: to say yes (to agree to help), you answer with a negative: “No, not at all.” / “Of course not.” (= it's no problem for me). Answering “Yes” would mean “yes, it is a problem”."
+],
+"exemples": [
+["Would you mind opening the door? — No, not at all.", "“No” here = I'm happy to do it."],
+["Would you mind speaking more slowly?", "mind + -ing."],
+["Would you mind if I sat here? — Of course not. Go ahead.", "Asking permission with mind if."]
+]
+},
+{
+"titre": "Accepting and refusing politely",
+"texte": [
+"To accept, use short, friendly answers: Sure. / Of course. / Yes, no problem. / Certainly (more formal). We don't usually answer a request with “Yes, I could”.",
+"To refuse, say sorry and give a reason: “I'm sorry, but…”, “I'm afraid I can't…”. “I'm afraid” here means “I'm sorry to say”, not “I'm scared”."
+],
+"tableau": {
+"entetes": ["Accepting", "Refusing"],
+"lignes": [
+["Sure! / Of course.", "I'm sorry, I can't. I'm in a hurry."],
+["Yes, no problem.", "I'm afraid I can't. I'm using it right now."],
+["Certainly. (formal)", "I'd love to, but I'm busy tonight."]
+]
+}
+},
+{
+"titre": "Don't confuse",
+"texte": [
+"“Would you like…?” (lesson 34) is an offer or invitation: you offer something to someone. “Would you…?” is a request: you ask someone to do something.",
+"An imperative alone (“Close the door.”) can sound rude in English, especially with a stranger. “Please” helps, but a question with could is much more natural."
+],
+"exemples": [
+["Would you like a coffee?", "An offer."],
+["Would you make some coffee?", "A request."]
+]
+}
+],
+"formule": "Can / Could / Would you + base …? · Would you mind + verb-ing …? · Can / Could / May I + base …?",
+"prononciation": [
+"“Could you” often sounds like /ˈkʊdʒuː/: d + y join to make /dʒ/; the same with “Would you” /ˈwʊdʒuː/.",
+"“could” /kʊd/ and “would” /wʊd/: the l is silent; “would” sounds like “wood”.",
+"Intonation makes you polite: a voice that rises gently at the end sounds polite; a flat or falling voice can sound like an order.",
+"“please” is /pliːz/, with a z sound at the end; it is often stressed at the end of the sentence."
+],
+"erreurs": [
+["Could you to help me?", "Could you help me?", "No to after could / would."],
+["Would you mind to open the window?", "Would you mind opening the window?", "After mind: verb-ing."],
+["Would you mind helping me? — Yes, of course!", "Would you mind helping me? — No, not at all! / Of course not!", "To agree to “Would you mind…?”, answer with a negative."],
+["Can you give me the bill?", "Could I have the bill, please?", "More polite and natural in a restaurant: Could I have…?"],
+["Please, could you repeat?", "Could you repeat that, please?", "please usually goes at the end or after you; repeat usually needs an object (that)."],
+["Could you help me? — Yes, I could.", "Could you help me? — Sure. / Of course.", "Don't answer a request with “I could”."],
+["I have fear I can't come.", "I'm afraid I can't come.", "“I'm sorry to say” = I'm afraid."]
+],
+"dialogue": {
+"contexte": "At a hotel reception desk in Quebec City. Mr Ndiaye has just arrived after a long trip from Dakar.",
+"lignes": [
+["Receptionist", "Good evening, sir. How can I help you?", "A standard polite question."],
+["Mr Ndiaye", "Good evening. I have a reservation. Could you check it, please? The name is Ndiaye.", "Could you + base + please."],
+["Receptionist", "Of course. Would you mind spelling your name?", "Very polite: Would you mind + -ing."],
+["Mr Ndiaye", "Not at all. N-D-I-A-Y-E.", "“Not at all” = yes, happy to."],
+["Receptionist", "Thank you. Here's your key. Room 412.", "Here's… = giving something."],
+["Mr Ndiaye", "Thanks. Could I have a wake-up call at six, please?", "Could I have…? for a service."],
+["Receptionist", "Certainly. Would you like some help with your bags?", "Certainly = formal yes; Would you like = an offer."],
+["Mr Ndiaye", "That would be great. Could you also tell me where I can eat tonight?", "Accepting an offer, then a request."],
+["Receptionist", "I'm afraid the restaurant is closed, but there's a nice café across the street.", "I'm afraid = I'm sorry to say."]
+]
+},
+"mots": [
+["favour", "Could you do me a favour?", "something kind you do to help someone (US: favor)"],
+["mind", "Would you mind waiting?", "to feel annoyed or worried about something"],
+["lend", "Could you lend me a pen?", "to give something to someone for a short time"],
+["borrow", "Could I borrow your charger?", "to take something from someone for a short time"],
+["repeat", "Could you repeat that, please?", "to say something again"],
+["spell", "Could you spell your name?", "to say the letters of a word in order"],
+["certainly", "Certainly, madam.", "yes, of course (formal)"],
+["afraid", "I'm afraid I can't help you.", "sorry to say (I'm afraid…); frightened"],
+["polite", "It's more polite to say “could you”.", "showing good manners and respect"],
+["request", "I have a small request.", "the act of asking for something politely"]
+],
+"exercices": [
+{
+"titre": "1. From informal to polite",
+"consigne": "Write the best request for each situation: Can you…? (friend) or Could you…? / Would you mind…? (stranger, work).",
+"items": [
+["To your brother: pass you the remote control.", "Can you pass me the remote?"],
+["To a stranger on the train: turn their music down.", "Could you turn your music down, please? / Would you mind turning your music down?"],
+["To your manager: read your report.", "Could you read my report, please? / Would you mind reading my report?"],
+["To a friend: wait for you for five minutes.", "Can you wait for me for five minutes?"]
+]
+},
+{
+"titre": "2. Would you mind + -ing",
+"consigne": "Change the request to Would you mind…?",
+"items": [
+["Could you close the door?", "Would you mind closing the door?"],
+["Could you speak more slowly?", "Would you mind speaking more slowly?"],
+["Could you send me the file?", "Would you mind sending me the file?"],
+["Could you move your car?", "Would you mind moving your car?"]
+]
+},
+{
+"titre": "3. Asking for yourself",
+"consigne": "Write a polite request with Could I…? or May I…?",
+"items": [
+["You want the bill in a restaurant.", "Could I have the bill, please?"],
+["You want to use the toilet at someone's house.", "Could I use your bathroom, please? / May I use your toilet?"],
+["You want to borrow a colleague's pen.", "Could I borrow your pen?"],
+["You want to enter your teacher's office.", "May I come in?"]
+]
+},
+{
+"titre": "4. Accept or refuse",
+"consigne": "Answer politely (✓ accept, ✗ refuse with a reason).",
+"items": [
+["Would you mind opening the window? (✓)", "No, not at all. / Of course not."],
+["Could you help me with my bags? (✓)", "Sure! / Of course."],
+["Could you lend me your car tonight? (✗)", "I'm sorry, I can't. I need it tonight. / I'm afraid I can't. I'm using it."]
+]
+},
+{
+"titre": "5. Correct the mistake",
+"consigne": "Each sentence has one mistake. Write it correctly.",
+"items": [
+["Could you to call me back?", "Could you call me back?"],
+["Would you mind to wait here?", "Would you mind waiting here?"],
+["Can I to sit here?", "Can I sit here?"],
+["Would you mind helping me? — Yes, sure!", "Would you mind helping me? — No, not at all! / Of course not!"]
+]
+},
+{
+"titre": "6. Your turn",
+"consigne": "You are at an office reception or in a shop. Write a short exchange of four or five lines with at least three different polite requests.",
+"items": [
+["Model answer", "Me: Good morning. Could you tell me where the passport office is, please? — Clerk: Of course. It's on the second floor. — Me: Thank you. Would you mind giving me a form? — Clerk: Not at all. Here you are. — Me: Could I borrow a pen too? — Clerk: Certainly."]
+]
+}
+],
+"a_retenir": [
+"Asking someone: Can you…? (informal) → Could / Would you…? (polite) → Would you mind + -ing? (very polite).",
+"Asking for yourself: Can / Could / May I…?; Could I have…, please?",
+"Would you mind…? → to agree: No, not at all / Of course not.",
+"Refusing politely: I'm sorry, but… / I'm afraid I can't…",
+"Here, could is not past; and Would you like…? is an offer, not a request."
+],
+"liens": [28, 32, 34, 56, 78],
+"refs": ["bc-a1a2", "cam-using"]
+}

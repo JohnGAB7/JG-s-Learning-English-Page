@@ -1,0 +1,490 @@
+{
+ "n": 233,
+ "niveau": "C1",
+ "titre": "La subjonctive (I suggest he be…)",
+ "intro": "« The committee recommends that she be promoted », « It is essential that every applicant sign the form » : l'anglais a un subjonctif, discret mais très présent dans l'écrit formel, juridique et américain. Il est beaucoup plus restreint que le subjonctif français, ce qui crée des pièges dans les deux sens.",
+ "objectifs": [
+  "Former le subjonctif « mandatif » : base verbale identique à toutes les personnes (he be, she sign, they not leave).",
+  "L'employer après les verbes, adjectifs et noms de demande ou de nécessité (suggest, insist, essential, recommendation).",
+  "Connaître les alternatives : should + base verbale (britannique) et indicatif (britannique familier).",
+  "Reconnaître les subjonctifs figés (Be that as it may, If need be, Long live…) et ne pas calquer le subjonctif français (il faut que, bien que, je veux que)."
+ ],
+ "sections": [
+  {
+   "titre": "La forme : la base verbale, sans -s",
+   "texte": [
+    "Le subjonctif présent anglais est simplement la base verbale (l'infinitif sans to), à toutes les personnes. On ne le voit donc qu'à la 3e personne du singulier (he sign, et non he signs) et avec be (I be, he be, they be).",
+    "La négation se fait avec « not » devant la base, sans do : « that he not be informed », « that they not leave ». Le passif : « be + participe passé » (that she be promoted).",
+    "Le temps de la principale n'a pas d'importance : « They insist / insisted that he leave. »"
+   ],
+   "tableau": {
+    "entetes": [
+     "Indicatif",
+     "Subjonctif",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "he signs",
+      "he sign",
+      "We ask that each member sign the register."
+     ],
+     [
+      "she is",
+      "she be",
+      "They recommend that she be appointed."
+     ],
+     [
+      "he doesn't attend",
+      "he not attend",
+      "The judge ordered that he not attend the hearing."
+     ],
+     [
+      "it is approved",
+      "it be approved",
+      "The board requires that the budget be approved by March."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The doctor recommended that he take a week off.",
+     "« take » sans -s : subjonctif."
+    ],
+    [
+     "It is vital that the data not be shared with third parties.",
+     "Négation : not + be, sans do."
+    ]
+   ]
+  },
+  {
+   "titre": "Après quels mots ?",
+   "texte": [
+    "Le subjonctif mandatif apparaît dans une proposition en « that » qui exprime une demande, une recommandation ou une nécessité. « That » peut être omis à l'oral, mais il est presque toujours présent à l'écrit formel."
+   ],
+   "tableau": {
+    "entetes": [
+     "Catégorie",
+     "Mots déclencheurs",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Verbes",
+      "suggest, recommend, propose, insist, demand, request, require, ask, urge, advise",
+      "I propose that the meeting be postponed."
+     ],
+     [
+      "Adjectifs",
+      "essential, vital, crucial, important, necessary, imperative, advisable",
+      "It is imperative that she arrive on time."
+     ],
+     [
+      "Noms",
+      "suggestion, recommendation, proposal, requirement, demand, insistence",
+      "His suggestion that we hire more staff was rejected."
+     ]
+    ]
+   },
+   "exemples": [
+    [
+     "The union demands that the decision be reversed.",
+     "Verbe de demande + be + participe passé."
+    ],
+    [
+     "It is essential that every passenger have a valid ticket.",
+     "« have » sans -s après essential."
+    ]
+   ]
+  },
+  {
+   "titre": "Les alternatives : should et l'indicatif",
+   "texte": [
+    "En anglais britannique, on remplace souvent le subjonctif par « should + base verbale » : « They recommended that she should be promoted. » C'est un peu moins formel, mais tout à fait correct.",
+    "Dans l'anglais britannique courant, on entend aussi l'indicatif : « I suggest he calls them tomorrow. » C'est accepté à l'oral et dans les écrits informels, moins dans les textes juridiques ou académiques.",
+    "En anglais américain, le subjonctif est la norme, même dans un registre assez neutre : « I suggest he call them. » C'est pourquoi on le rencontre beaucoup dans la presse américaine."
+   ],
+   "tableau": {
+    "entetes": [
+     "Forme",
+     "Registre / variété",
+     "Exemple"
+    ],
+    "lignes": [
+     [
+      "Subjonctif",
+      "formel (partout), courant (US)",
+      "I suggest that he call them."
+     ],
+     [
+      "should + base",
+      "formel ou neutre (surtout BrE)",
+      "I suggest that he should call them."
+     ],
+     [
+      "Indicatif",
+      "informel (surtout BrE)",
+      "I suggest he calls them."
+     ],
+     [
+      "-ing",
+      "neutre, sans sujet précis",
+      "I suggest calling them."
+     ]
+    ]
+   }
+  },
+  {
+   "titre": "Attention au double sens : insist, suggest",
+   "texte": [
+    "« Insist » et « suggest » ont deux sens. Avec un subjonctif (ou should), ils expriment une demande ; avec un indicatif au temps normal, ils rapportent une affirmation.",
+    "« She insisted that he leave » = elle a exigé qu'il parte. « She insisted that he left » = elle a affirmé avec force qu'il était parti. De même : « The report suggests that the policy be changed » (recommande) / « The report suggests that the policy has failed » (laisse penser)."
+   ],
+   "exemples": [
+    [
+     "The manager insisted that the invoice be paid immediately.",
+     "Demande : subjonctif."
+    ],
+    [
+     "The manager insisted that the invoice had been paid.",
+     "Affirmation : indicatif (past perfect)."
+    ]
+   ]
+  },
+  {
+   "titre": "Subjonctifs figés et « were »",
+   "texte": [
+    "Quelques expressions conservent un ancien subjonctif ; elles sont figées et soutenues : « Be that as it may » (quoi qu'il en soit), « If need be » (si nécessaire), « Come what may » (quoi qu'il arrive), « Suffice it to say » (il suffit de dire), « So be it » (soit), « God save the King », « Long live… » (vive…), « Heaven forbid » (Dieu nous en garde).",
+    "Le subjonctif passé « were » (If I were you, I wish it were, as if he were) relève de l'irréel (leçons 159 et 160). À l'oral britannique, « was » est fréquent (If I was you), mais « were » reste la forme recommandée à l'écrit et obligatoire dans « If I were you » à l'écrit soigné."
+   ],
+   "exemples": [
+    [
+     "Be that as it may, we still need a decision by Friday.",
+     "« Quoi qu'il en soit » : expression figée."
+    ],
+    [
+     "We'll work through the weekend if need be.",
+     "« Si nécessaire » : jamais « if need is »."
+    ]
+   ]
+  },
+  {
+   "titre": "Ne pas calquer le subjonctif français",
+   "texte": [
+    "Le français utilise le subjonctif après « il faut que », « je veux que », « bien que », « avant que », « pour que »… L'anglais ne le fait pas : il utilise d'autres structures, le plus souvent l'infinitif ou l'indicatif.",
+    "Le subjonctif anglais est donc beaucoup plus rare que le français : réservez-le aux demandes et nécessités formelles (suggest, require, essential…)."
+   ],
+   "tableau": {
+    "entetes": [
+     "Français",
+     "Calque à éviter",
+     "Anglais correct"
+    ],
+    "lignes": [
+     [
+      "Je veux que tu viennes.",
+      "I want that you come.",
+      "I want you to come."
+     ],
+     [
+      "Il faut que tu partes.",
+      "It's necessary that you leave. (lourd)",
+      "You have to leave. / You need to leave."
+     ],
+     [
+      "Bien qu'il soit riche…",
+      "Although he be rich…",
+      "Although he is rich…"
+     ],
+     [
+      "Avant qu'il parte…",
+      "Before he leave…",
+      "Before he leaves…"
+     ],
+     [
+      "Je doute qu'il vienne.",
+      "I doubt that he come.",
+      "I doubt (that) he will come."
+     ]
+    ]
+   }
+  }
+ ],
+ "formule": "Verbe / adjectif / nom de demande ou de nécessité + that + sujet + BASE VERBALE (be, sign, not leave), quel que soit le temps de la principale",
+ "prononciation": [
+  "La 3e personne sans -s s'entend clairement : « that he take » /teɪk/, et non « takes » /teɪks/ ; articulez la fin du verbe pour ne pas paraître fautif.",
+  "Dans « that she be promoted », « be » est inaccentué /bi/ ; l'accent tombe sur « promoted ».",
+  "« insist » /ɪnˈsɪst/ et « require » /rɪˈkwaɪə/ sont accentués sur la deuxième syllabe.",
+  "« imperative » /ɪmˈperətɪv/ : accent sur la deuxième syllabe.",
+  "« If need be » se dit d'un seul souffle : /ɪf ˈniːd bi/."
+ ],
+ "erreurs": [
+  [
+   "I suggest him to call the bank.",
+   "I suggest (that) he call / should call the bank. / I suggest calling the bank.",
+   "« Suggest » ne se construit pas avec objet + to."
+  ],
+  [
+   "The doctor recommended that she doesn't drive.",
+   "The doctor recommended that she not drive / should not drive.",
+   "Négation du subjonctif : not + base, sans do."
+  ],
+  [
+   "It is essential that every student signs. (texte juridique)",
+   "It is essential that every student sign.",
+   "Dans un registre formel, subjonctif (ou should sign)."
+  ],
+  [
+   "I want that you come with me.",
+   "I want you to come with me.",
+   "« Want » + objet + to : jamais want that."
+  ],
+  [
+   "Although he be tired, he works.",
+   "Although he is tired, he works.",
+   "Pas de subjonctif après although."
+  ],
+  [
+   "It's necessary that you will sign here.",
+   "It's necessary that you sign here. / You need to sign here.",
+   "Pas de will dans la proposition au subjonctif."
+  ],
+  [
+   "We can stay longer if need is.",
+   "We can stay longer if need be.",
+   "Expression figée : if need be."
+  ]
+ ],
+ "dialogue": {
+  "contexte": "À Ottawa, deux membres d'un conseil d'administration rédigent les recommandations d'un rapport annuel.",
+  "lignes": [
+   [
+    "Grace",
+    "For point one, I'd write: “The board recommends that the director's contract be renewed.”",
+    "Pour le point un, j'écrirais : « Le conseil recommande que le contrat de la directrice soit renouvelé. »"
+   ],
+   [
+    "Paul",
+    "Agreed. And for the audit, “It is essential that all accounts be checked by an external firm.”",
+    "D'accord. Et pour l'audit : « Il est essentiel que tous les comptes soient vérifiés par un cabinet externe. »"
+   ],
+   [
+    "Grace",
+    "Should we say “should be checked”? It sounds less American.",
+    "On dit « should be checked » ? Ça sonne moins américain."
+   ],
+   [
+    "Paul",
+    "Both are fine, but let's be consistent. The rest of the report uses the subjunctive.",
+    "Les deux vont, mais soyons cohérents. Le reste du rapport utilise le subjonctif."
+   ],
+   [
+    "Grace",
+    "Fine. Then point three: “We request that each member not discuss the results before publication.”",
+    "Bien. Point trois : « Nous demandons que chaque membre ne discute pas des résultats avant publication. »"
+   ],
+   [
+    "Paul",
+    "Good. Some members insisted that the results had leaked last year, by the way.",
+    "Bien. D'ailleurs, certains membres ont affirmé que les résultats avaient fuité l'an dernier."
+   ],
+   [
+    "Grace",
+    "Be that as it may, the rule is clear. If need be, we'll add a confidentiality clause.",
+    "Quoi qu'il en soit, la règle est claire. Si nécessaire, on ajoutera une clause de confidentialité."
+   ],
+   [
+    "Paul",
+    "Perfect. I'll propose that the clause be voted on in January.",
+    "Parfait. Je proposerai que la clause soit votée en janvier."
+   ]
+  ]
+ },
+ "mots": [
+  [
+   "subjunctive",
+   "The subjunctive is common in American English.",
+   "subjonctif"
+  ],
+  [
+   "recommend",
+   "We recommend that he apply early.",
+   "recommander"
+  ],
+  [
+   "insist",
+   "She insisted that we stay for dinner.",
+   "insister, exiger ; affirmer avec force"
+  ],
+  [
+   "require",
+   "The law requires that each driver be insured.",
+   "exiger, imposer"
+  ],
+  [
+   "imperative",
+   "It is imperative that we act now.",
+   "impératif, indispensable"
+  ],
+  [
+   "urge",
+   "Experts urge that the plan be revised.",
+   "exhorter, presser"
+  ],
+  [
+   "advisable",
+   "It is advisable that you book in advance.",
+   "conseillé, recommandé"
+  ],
+  [
+   "requirement",
+   "It's a requirement that all staff be trained.",
+   "exigence, obligation"
+  ],
+  [
+   "if need be",
+   "We can work late if need be.",
+   "si nécessaire"
+  ],
+  [
+   "be that as it may",
+   "Be that as it may, we must decide today.",
+   "quoi qu'il en soit"
+  ]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Repérer le subjonctif",
+   "consigne": "Indique si le verbe entre crochets est au subjonctif ou à l'indicatif.",
+   "items": [
+    [
+     "They demanded that he [resign].",
+     "subjonctif"
+    ],
+    [
+     "She insisted that he [was] innocent.",
+     "indicatif"
+    ],
+    [
+     "It is vital that the patient [rest].",
+     "subjonctif"
+    ],
+    [
+     "The report suggests that sales [are] falling.",
+     "indicatif"
+    ]
+   ]
+  },
+  {
+   "titre": "2. Compléter au subjonctif",
+   "consigne": "Mets le verbe entre parenthèses au subjonctif.",
+   "items": [
+    [
+     "The committee recommends that she ___ (be) promoted.",
+     "be"
+    ],
+    [
+     "It is essential that each candidate ___ (bring) an ID card.",
+     "bring"
+    ],
+    [
+     "We request that the payment ___ (not / be) delayed.",
+     "not be"
+    ],
+    [
+     "The judge ordered that he ___ (pay) a fine.",
+     "pay"
+    ],
+    [
+     "I propose that the meeting ___ (start) at nine.",
+     "start"
+    ]
+   ]
+  },
+  {
+   "titre": "3. Transformer",
+   "consigne": "Réécris la phrase avec la structure donnée.",
+   "items": [
+    [
+     "“You should take a holiday,” the doctor told him. (recommended that)",
+     "The doctor recommended that he take a holiday."
+    ],
+    [
+     "Every visitor must wear a badge. (It is essential that)",
+     "It is essential that every visitor wear a badge."
+    ],
+    [
+     "I suggest that he should call them. (subjonctif sans should)",
+     "I suggest that he call them."
+    ],
+    [
+     "They want the decision to be reversed. (demand that)",
+     "They demand that the decision be reversed."
+    ]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Corrige chaque phrase.",
+   "items": [
+    [
+     "I suggest her to apply for the job.",
+     "I suggest (that) she apply / should apply for the job."
+    ],
+    [
+     "I want that you call me tonight.",
+     "I want you to call me tonight."
+    ],
+    [
+     "Although she be young, she is very experienced.",
+     "Although she is young, she is very experienced."
+    ],
+    [
+     "The rules require that every member pays on time. (registre juridique)",
+     "The rules require that every member pay on time."
+    ]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais formel.",
+   "items": [
+    [
+     "Il est indispensable que chaque employé suive la formation.",
+     "It is essential / imperative that every employee attend / complete the training."
+    ],
+    [
+     "Quoi qu'il en soit, nous devons décider aujourd'hui.",
+     "Be that as it may, we must decide today."
+    ]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Rédige trois recommandations formelles pour une association ou une entreprise, avec trois déclencheurs différents (verbe, adjectif, nom).",
+   "items": [
+    [
+     "Exemple de réponse",
+     "The committee recommends that the annual fee be reduced for students. It is essential that every new member receive a welcome pack within a week. Our main proposal is that the general meeting be held online as well as in person."
+    ]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Subjonctif = base verbale à toutes les personnes (he be, she sign, they not leave), après une demande ou une nécessité.",
+  "Déclencheurs : suggest, recommend, insist, demand, require ; essential, vital, imperative ; suggestion, requirement…",
+  "Alternatives : should + base (BrE formel ou neutre), indicatif (BrE informel), -ing après suggest / recommend.",
+  "Pas de subjonctif après want, although, before : I want you to come ; Although he is… ; expressions figées : if need be, be that as it may."
+ ],
+ "liens": [
+  159,
+  160,
+  186,
+  225,
+  235
+ ],
+ "refs": [
+  "bc-c1",
+  "cam-verbs"
+ ]
+}

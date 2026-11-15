@@ -1,0 +1,212 @@
+{
+"n": 41,
+"niveau": "A2",
+"titre": "Le prétérit des verbes réguliers",
+"intro": "Le prétérit (past simple) sert à raconter ce qui s'est passé et qui est terminé : hier, la semaine dernière, en 2015. Pour les verbes réguliers, on ajoute simplement -ed, à toutes les personnes.",
+"objectifs": [
+"Former le prétérit des verbes réguliers en appliquant les règles d'orthographe de -ed.",
+"Prononcer correctement la terminaison -ed : /t/, /d/ ou /ɪd/.",
+"Construire la négation et la question avec did / didn't + base verbale.",
+"Raconter des actions terminées avec les bons repères de temps (yesterday, last week, ago, in 2020)."
+],
+"sections": [
+{
+"titre": "Quand utiliser le prétérit ?",
+"texte": [
+"Le prétérit exprime une action terminée dans le passé, à un moment précis ou connu. Il traduit à la fois le passé composé (j'ai travaillé) et le passé simple (je travaillai) du français, et souvent l'imparfait quand il s'agit d'une action ponctuelle.",
+"Le moment est souvent indiqué par un repère de temps : yesterday (hier), last night / last week / last year (hier soir, la semaine dernière, l'année dernière), two days ago (il y a deux jours), in 2019, on Monday, when I was a child.",
+"Attention : « ago » se place après la durée (three years ago), jamais devant comme « il y a »."
+],
+"exemples": [
+["I worked in Douala last year.", "J'ai travaillé à Douala l'année dernière."],
+["She called me yesterday evening.", "Elle m'a appelé hier soir."],
+["We visited Bruges two weeks ago.", "Nous avons visité Bruges il y a deux semaines."],
+["They moved to Montreal in 2021.", "Ils ont déménagé à Montréal en 2021."]
+],
+"note": "Le prétérit a la même forme à toutes les personnes : I worked, you worked, he worked, we worked, they worked. Pas de -s à la 3e personne !"
+},
+{
+"titre": "La forme affirmative et l'orthographe de -ed",
+"texte": [
+"Règle générale : base verbale + -ed (work → worked, play → played, open → opened).",
+"Plusieurs règles d'orthographe s'appliquent selon la fin du verbe. Elles sont les mêmes que pour d'autres terminaisons (-er, -est), donc elles servent plus tard aussi."
+],
+"tableau": {
+"entetes": ["Fin du verbe", "Règle", "Exemples"],
+"lignes": [
+["cas général", "+ -ed", "work → worked, watch → watched, clean → cleaned"],
+["-e muet", "+ -d seulement", "live → lived, like → liked, dance → danced"],
+["consonne + y", "y → i + -ed", "study → studied, try → tried, carry → carried"],
+["voyelle + y", "+ -ed (le y reste)", "play → played, enjoy → enjoyed, stay → stayed"],
+["une voyelle + une consonne, syllabe accentuée", "on double la consonne", "stop → stopped, plan → planned, prefer → preferred"],
+["syllabe finale non accentuée", "pas de doublement", "visit → visited, open → opened, listen → listened"],
+["-w, -x, -y finals", "jamais doublés", "show → showed, fix → fixed, snow → snowed"]
+]
+},
+"note": "Anglais britannique et américain : travel → travelled (GB) / traveled (US), cancel → cancelled (GB) / canceled (US). En GB, on double le -l final même si la syllabe n'est pas accentuée."
+},
+{
+"titre": "La négation : didn't + base verbale",
+"texte": [
+"À la forme négative, on utilise l'auxiliaire did + not (forme courte didn't), suivi de la base verbale, sans -ed. C'est « did » qui porte la marque du passé : le verbe principal revient à sa forme de base.",
+"La forme pleine « did not » s'utilise à l'écrit soigné ou pour insister."
+],
+"exemples": [
+["I didn't watch the match.", "Je n'ai pas regardé le match (pas « didn't watched »)."],
+["He didn't answer my email.", "Il n'a pas répondu à mon e-mail."],
+["We did not receive the parcel.", "Nous n'avons pas reçu le colis (écrit formel)."]
+]
+},
+{
+"titre": "La question et les réponses courtes",
+"texte": [
+"Pour poser une question : Did + sujet + base verbale ? On répond brièvement avec « Yes, I did. » ou « No, I didn't. », sans reprendre le verbe principal.",
+"Avec un mot interrogatif, il se place devant : What did you cook? Where did they stay? Les questions au passé seront approfondies dans la leçon 67."
+],
+"tableau": {
+"entetes": ["Forme", "Structure", "Exemple"],
+"lignes": [
+["affirmative", "sujet + verbe-ed", "You cooked dinner."],
+["négative", "sujet + didn't + base", "You didn't cook dinner."],
+["question", "Did + sujet + base ?", "Did you cook dinner?"],
+["réponse courte", "Yes, sujet + did. / No, sujet + didn't.", "Yes, I did. / No, I didn't."],
+["question en Wh-", "Wh- + did + sujet + base ?", "What did you cook?"]
+]
+},
+"exemples": [
+["Did you enjoy the film? — Yes, I did.", "Le film t'a plu ? — Oui."],
+["Where did you stay in Brussels?", "Où as-tu logé à Bruxelles ?"]
+]
+},
+{
+"titre": "Prétérit ou present perfect ? Un premier repère",
+"texte": [
+"Un francophone a tendance à traduire « j'ai travaillé » mot à mot par « I have worked ». Or, dès qu'un moment passé terminé est mentionné ou compris (hier, en 2020, la semaine dernière), l'anglais exige le prétérit.",
+"Le present perfect (leçon 51) relie le passé au présent sans date précise. Retiens pour l'instant : un repère de temps passé terminé = prétérit."
+],
+"exemples": [
+["I finished the report yesterday.", "J'ai fini le rapport hier (et non « I have finished… yesterday »)."],
+["When did you arrive?", "Quand es-tu arrivé ? (question sur le moment → prétérit)"]
+]
+}
+],
+"formule": "sujet + verbe-ed · sujet + didn't + base · Did + sujet + base … ?",
+"prononciation": [
+"Après un son sourd /p/, /k/, /f/, /s/, /ʃ/, /tʃ/ : -ed se prononce /t/ : worked /wɜːkt/, stopped /stɒpt/, watched /wɒtʃt/.",
+"Après un son sonore (voyelle, /b/, /g/, /v/, /z/, /m/, /n/, /l/…) : -ed se prononce /d/ : played /pleɪd/, lived /lɪvd/, opened /ˈəʊpənd/.",
+"Après /t/ ou /d/ seulement, on ajoute une syllabe /ɪd/ : wanted /ˈwɒntɪd/, needed /ˈniːdɪd/, visited /ˈvɪzɪtɪd/.",
+"Erreur fréquente : prononcer « worked » en deux syllabes (« work-ed »). Seuls les verbes en -t ou -d gagnent une syllabe.",
+"« didn't » se prononce /ˈdɪdnt/ ; le t final est très léger, parfois presque inaudible devant une consonne (I didn't know)."
+],
+"erreurs": [
+["I didn't worked yesterday.", "I didn't work yesterday.", "Après did / didn't, le verbe reste à la base : did porte déjà le passé."],
+["Did you visited Paris?", "Did you visit Paris?", "Même règle dans les questions : Did + base verbale."],
+["I have watched the match last night.", "I watched the match last night.", "Avec un moment passé terminé (last night), on utilise le prétérit."],
+["He studyed English.", "He studied English.", "Consonne + y → ied."],
+["We stoped the car.", "We stopped the car.", "Verbe court accentué en voyelle + consonne : on double la consonne."],
+["Before two years, I lived in Lille.", "Two years ago, I lived in Lille.", "« Il y a » + durée = durée + ago."],
+["She worked-ed /ˈwɜːkɪd/ late.", "She worked /wɜːkt/ late.", "On ne prononce pas de syllabe en plus après /k/ : -ed = /t/."]
+],
+"dialogue": {
+"contexte": "Lundi matin au bureau, à Bruxelles. Deux collègues parlent de leur week-end.",
+"lignes": [
+["Sophie", "Hi Daniel! Did you enjoy your weekend?", "Salut Daniel ! Ton week-end s'est bien passé ?"],
+["Daniel", "Yes, I did, thanks. My cousin visited us from Yaoundé.", "Oui, merci. Mon cousin est venu nous voir de Yaoundé."],
+["Sophie", "Oh, nice! What did you do?", "Oh, sympa ! Qu'est-ce que vous avez fait ?"],
+["Daniel", "On Saturday we walked around the Grand-Place and we tried some Belgian waffles.", "Samedi, on s'est promenés autour de la Grand-Place et on a goûté des gaufres belges."],
+["Sophie", "Did he like them?", "Il les a aimées ?"],
+["Daniel", "He loved them! But it rained on Sunday, so we stayed at home and watched a film.", "Il a adoré ! Mais il a plu dimanche, alors on est restés à la maison et on a regardé un film."],
+["Sophie", "I didn't do much. I just cleaned my flat and called my parents.", "Moi, je n'ai pas fait grand-chose. J'ai juste nettoyé mon appartement et appelé mes parents."],
+["Daniel", "That sounds relaxing!", "Ça a l'air reposant !"]
+]
+},
+"mots": [
+["yesterday", "I called my sister yesterday.", "hier"],
+["ago", "We moved here three years ago.", "il y a (placé après la durée)"],
+["last", "I travelled a lot last year.", "dernier (last week = la semaine dernière)"],
+["arrive", "The train arrived late.", "arriver"],
+["decide", "She decided to learn English.", "décider"],
+["move", "They moved to Canada in 2020.", "déménager ; bouger"],
+["finish", "I finished work at six.", "finir, terminer"],
+["stay", "We stayed in a small hotel.", "rester ; séjourner"],
+["travel", "He travelled to Kribi by bus.", "voyager"],
+["happen", "What happened last night?", "se passer, arriver (un événement)"]
+],
+"exercices": [
+{
+"titre": "1. Écrire la forme en -ed",
+"consigne": "Écris le prétérit de chaque verbe en respectant l'orthographe.",
+"items": [
+["play", "played"],
+["study", "studied"],
+["live", "lived"],
+["stop", "stopped"],
+["visit", "visited"],
+["carry", "carried"],
+["plan", "planned"],
+["enjoy", "enjoyed"]
+]
+},
+{
+"titre": "2. Classer selon la prononciation",
+"consigne": "Indique si -ed se prononce /t/, /d/ ou /ɪd/.",
+"items": [
+["watched", "/t/"],
+["wanted", "/ɪd/"],
+["cleaned", "/d/"],
+["needed", "/ɪd/"],
+["laughed", "/t/"],
+["called", "/d/"]
+]
+},
+{
+"titre": "3. Compléter au prétérit",
+"consigne": "Mets le verbe entre parenthèses au prétérit (affirmatif, négatif ou question).",
+"items": [
+["Last summer we ___ (travel) to Senegal.", "travelled (US : traveled)"],
+["I ___ (not / like) the film. It was boring.", "didn't like"],
+["___ you ___ (call) the doctor this morning?", "Did … call"],
+["She ___ (arrive) in Quebec two days ago.", "arrived"],
+["They ___ (not / finish) the project on time.", "didn't finish"],
+["Where ___ you ___ (stay) in Antwerp?", "did … stay"]
+]
+},
+{
+"titre": "4. Corriger l'erreur",
+"consigne": "Chaque phrase contient une erreur. Réécris-la correctement.",
+"items": [
+["He didn't answered the phone.", "He didn't answer the phone."],
+["Did you watched the news?", "Did you watch the news?"],
+["I have visited Lyon last month.", "I visited Lyon last month."],
+["We tryed to call you.", "We tried to call you."],
+["She moved here before five years.", "She moved here five years ago."]
+]
+},
+{
+"titre": "5. Traduire",
+"consigne": "Traduis en anglais avec le prétérit.",
+"items": [
+["J'ai travaillé jusqu'à 20 heures hier.", "I worked until 8 p.m. yesterday."],
+["Ils n'ont pas regardé le match.", "They didn't watch the match."],
+["Tu as appelé ta mère ? — Oui.", "Did you call your mother? — Yes, I did."],
+["Nous avons déménagé il y a deux ans.", "We moved two years ago."]
+]
+},
+{
+"titre": "6. À toi",
+"consigne": "Raconte ton week-end dernier en cinq phrases avec des verbes réguliers (dont au moins une négative).",
+"items": [
+["Exemple de réponse", "Last Saturday I stayed at home in the morning and cleaned my flat. In the afternoon I visited my friend Aïcha. We walked to the market and cooked a big dinner. On Sunday it rained, so I watched two films. I didn't study at all!"]
+]
+}
+],
+"a_retenir": [
+"Prétérit régulier = base + -ed, identique à toutes les personnes (pas de -s).",
+"Orthographe : live → lived, study → studied, play → played, stop → stopped.",
+"Négation et question : didn't / Did + base verbale (jamais didn't worked).",
+"Prononciation de -ed : /t/, /d/, et /ɪd/ seulement après t ou d.",
+"Moment passé terminé (yesterday, last…, … ago, in 2020) = prétérit, pas present perfect."
+],
+"liens": [39, 42, 43, 51, 67],
+"refs": ["bc-a1a2", "cam-verbs"]
+}

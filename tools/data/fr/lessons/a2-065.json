@@ -1,0 +1,201 @@
+{
+ "n": 65,
+ "niveau": "A2",
+ "titre": "Both, either, neither",
+ "intro": "Both, either et neither servent à parler de deux choses ou de deux personnes : « les deux », « l'un ou l'autre », « aucun des deux ». Ils posent deux pièges aux francophones : on ne dit jamais « the both », et neither porte déjà la négation, donc on ne l'utilise pas avec not.",
+ "objectifs": [
+  "Employer both, either et neither avec un nom singulier ou pluriel, ou avec of + the/my/them.",
+  "Construire both … and, either … or et neither … nor pour relier deux éléments.",
+  "Placer both correctement dans la phrase (We both like… / They are both…).",
+  "Éviter la double négation avec neither et choisir entre « Both of them don't… » et « Neither of them… »."
+ ],
+ "sections": [
+  {
+   "titre": "Trois mots pour parler de deux",
+   "texte": [
+    "Both = les deux (l'un ET l'autre). Either = l'un ou l'autre, n'importe lequel des deux. Neither = ni l'un ni l'autre, aucun des deux.",
+    "Ces trois mots ne s'emploient que pour DEUX éléments. Pour trois ou plus, on utilise all, any et none (« none of my friends »).",
+    "Attention à la forme du nom : both est suivi d'un nom pluriel (both hands), mais either et neither sont suivis d'un nom singulier (either hand, neither hand)."
+   ],
+   "tableau": {
+    "entetes": ["Mot", "Sens", "+ nom", "Exemple"],
+    "lignes": [
+     ["both", "les deux", "nom pluriel", "Both hotels are near the beach."],
+     ["either", "l'un ou l'autre", "nom singulier", "You can sit at either table."],
+     ["neither", "aucun des deux", "nom singulier", "Neither answer is correct."]
+    ]
+   },
+   "exemples": [
+    ["Both my parents are teachers.", "Mon père ET ma mère."],
+    ["You can pay by card or in cash. Either way is fine.", "Les deux solutions conviennent."],
+    ["Neither bus goes to the airport.", "Aucun des deux bus ; nom singulier."]
+   ]
+  },
+  {
+   "titre": "Avec of : both of, either of, neither of",
+   "texte": [
+    "Devant un déterminant (the, my, these…) ou un pronom (us, you, them), on emploie of : both of the films, either of my sisters, neither of them. Le nom après of est toujours au pluriel.",
+    "Avec both, le of est facultatif devant un nom : both my brothers = both of my brothers. Mais il est obligatoire devant un pronom : both of them (jamais « both them »).",
+    "Après neither of / either of, le verbe est au singulier en anglais soigné (Neither of them is ready) ; le pluriel (Neither of them are ready) est très courant à l'oral."
+   ],
+   "exemples": [
+    ["Both of us were tired after the trip.", "of obligatoire devant us."],
+    ["Do either of you speak Spanish?", "L'un de vous deux, n'importe lequel."],
+    ["Neither of my brothers lives in Douala.", "Verbe au singulier (soigné)."]
+   ]
+  },
+  {
+   "titre": "La place de both",
+   "texte": [
+    "Both peut aussi se placer après le sujet, comme un adverbe : We both like jazz. Il se met avant le verbe principal, mais après be et après un auxiliaire : They are both students. We can both come.",
+    "En fin de phrase, après un pronom complément : I love them both (= I love both of them).",
+    "On ne dit jamais « the both » ni « the two of them both ». En français on dit « les deux », mais en anglais il n'y a pas d'article : both cities, pas « the both cities »."
+   ],
+   "exemples": [
+    ["My sister and I both work in a bank.", "Avant le verbe principal."],
+    ["The flats are both very expensive.", "Après be."],
+    ["Here are two T-shirts. You can have them both.", "Après le pronom complément."]
+   ]
+  },
+  {
+   "titre": "Both … and, either … or, neither … nor",
+   "texte": [
+    "Pour relier deux éléments : both A and B (A et B à la fois), either A or B (soit A soit B), neither A nor B (ni A ni B).",
+    "Neither … nor est déjà négatif : le verbe reste à la forme affirmative. Neither Paul nor Ana eats meat (et non « doesn't eat »). Avec un verbe à la forme négative, on utilise either … or : He doesn't eat either meat or fish (= He eats neither meat nor fish).",
+    "Le verbe s'accorde en général avec l'élément le plus proche : Either my brother or my parents are coming."
+   ],
+   "exemples": [
+    ["She speaks both French and English.", "Les deux langues."],
+    ["We can meet either on Saturday or on Sunday.", "Un des deux jours."],
+    ["Neither Marc nor Sophie was at the meeting.", "Ni Marc ni Sophie ; verbe affirmatif."]
+   ]
+  },
+  {
+   "titre": "Les phrases négatives et les réponses courtes",
+   "texte": [
+    "Pour dire « aucun des deux », on préfère neither : Neither of them came. « Both of them didn't come » est maladroit et ambigu. De même, avec une négation, on utilise either : I don't like either of them (= I like neither of them).",
+    "En réponse courte, neither / either s'emploient seuls : Tea or coffee? — Either, thanks. (n'importe lequel) / Neither, thanks. (aucun des deux).",
+    "Pour être d'accord avec une phrase négative, on dit « Me neither » à l'oral (Moi non plus). La structure complète « Neither do I » sera vue à la leçon 70."
+   ],
+   "exemples": [
+    ["Which one do you want, the red or the blue? — I don't mind. Either.", "N'importe lequel des deux."],
+    ["I don't like horror films. — Me neither.", "Moi non plus."]
+   ]
+  }
+ ],
+ "formule": "both + nom pluriel · either / neither + nom singulier · both / either / neither of + the/my/them · both A and B · either A or B · neither A nor B (verbe affirmatif)",
+ "prononciation": [
+  "both /bəʊθ/ : le « th » final est sourd /θ/, comme dans « think ». Ne dis pas « bot ».",
+  "either : /ˈaɪðə/ (britannique courant) ou /ˈiːðə/ (américain courant). Les deux sont corrects.",
+  "neither : /ˈnaɪðə/ ou /ˈniːðə/, avec le /ð/ sonore de « the ».",
+  "nor /nɔː/ se prononce comme « nore », sans r final en anglais britannique.",
+  "Dans « neither … nor », les deux noms reliés sont accentués : NEIther MARC nor soPHIE."
+ ],
+ "erreurs": [
+  ["The both hotels are full.", "Both hotels are full. / Both of the hotels are full.", "Pas d'article devant both."],
+  ["Both them are from Yaoundé.", "Both of them are from Yaoundé. / They are both from Yaoundé.", "Devant un pronom, of est obligatoire."],
+  ["Neither of them didn't call.", "Neither of them called.", "Neither est déjà négatif : pas de double négation."],
+  ["Neither Léa nor Tom don't drive.", "Neither Léa nor Tom drives.", "Avec neither … nor, le verbe reste affirmatif."],
+  ["Both of my brothers don't smoke.", "Neither of my brothers smokes.", "Pour « aucun des deux », on utilise neither."],
+  ["Neither restaurants is open.", "Neither restaurant is open.", "Neither + nom singulier."],
+  ["We like both pizza.", "We both like pizza.", "Both se place avant le verbe principal."],
+  ["I don't like neither of them.", "I don't like either of them. / I like neither of them.", "Avec not, on emploie either."]
+ ],
+ "dialogue": {
+  "contexte": "Dans une agence de voyages à Liège, Chloé et son mari hésitent entre deux voyages.",
+  "lignes": [
+   ["Agent", "So, you can choose either Lisbon or Prague. Both trips are five days long.", "Donc, vous pouvez choisir soit Lisbonne soit Prague. Les deux voyages durent cinq jours."],
+   ["Chloé", "We both love old cities. What's the difference?", "Nous adorons tous les deux les vieilles villes. Quelle est la différence ?"],
+   ["Agent", "Lisbon is by the sea, and Prague has beautiful bridges. Both of them are lovely in May.", "Lisbonne est au bord de la mer et Prague a de très beaux ponts. Les deux sont magnifiques en mai."],
+   ["Hugo", "Are the hotels in the centre?", "Les hôtels sont-ils dans le centre ?"],
+   ["Agent", "Yes, both hotels are in the old town, and neither hotel is expensive.", "Oui, les deux hôtels sont dans la vieille ville, et aucun des deux n'est cher."],
+   ["Chloé", "I don't speak Portuguese or Czech.", "Je ne parle ni portugais ni tchèque."],
+   ["Hugo", "Me neither! But neither language is a problem. People speak English in both cities.", "Moi non plus ! Mais aucune des deux langues n'est un problème. On parle anglais dans les deux villes."],
+   ["Agent", "That's right. Either city is a good choice.", "C'est vrai. L'une ou l'autre ville est un bon choix."],
+   ["Chloé", "OK… Let's go to Lisbon this year and Prague next year!", "D'accord… Allons à Lisbonne cette année et à Prague l'année prochaine !"]
+  ]
+ },
+ "mots": [
+  ["both", "Both my sisters live in Montréal.", "les deux"],
+  ["either", "You can take either road.", "l'un ou l'autre"],
+  ["neither", "Neither answer is right.", "aucun des deux"],
+  ["nor", "He drinks neither tea nor coffee.", "ni (après neither)"],
+  ["choice", "That's a difficult choice.", "un choix"],
+  ["trip", "We're planning a trip to Kribi.", "un voyage, une excursion"],
+  ["twins", "The twins both have curly hair.", "des jumeaux, des jumelles"],
+  ["I don't mind", "Tea or coffee? — I don't mind.", "ça m'est égal"],
+  ["way", "You can go either way.", "un chemin ; une façon"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Both, either ou neither ?",
+   "consigne": "Complète avec both, either ou neither.",
+   "items": [
+    ["___ my parents are from Bafoussam. (mon père et ma mère)", "Both"],
+    ["You can come on Friday or Saturday. ___ day is OK for me.", "Either"],
+    ["___ shop was open, so we went home. (aucune des deux)", "Neither"],
+    ["I have two brothers. ___ of them are doctors. (les deux)", "Both"],
+    ["The red bag or the black one? — ___. I don't like them. (aucun des deux)", "Neither"],
+    ["There are two buses to the station. You can take ___ of them.", "either"]
+   ]
+  },
+  {
+   "titre": "2. Avec ou sans of ?",
+   "consigne": "Complète avec of ou Ø (rien). Parfois, les deux sont possibles.",
+   "items": [
+    ["Both ___ them like football.", "of"],
+    ["Neither ___ bike is new.", "Ø"],
+    ["Either ___ my friends can help you.", "of"],
+    ["Both ___ my cousins work in Lyon.", "of ou Ø (Both my cousins / Both of my cousins)"]
+   ]
+  },
+  {
+   "titre": "3. Relier deux idées",
+   "consigne": "Réécris avec both … and, either … or ou neither … nor.",
+   "items": [
+    ["Léa plays the guitar. Léa plays the piano.", "Léa plays both the guitar and the piano."],
+    ["Marc isn't at home. Sophie isn't at home.", "Neither Marc nor Sophie is at home."],
+    ["We can take the train, or we can take the car.", "We can take either the train or the car."],
+    ["The hotel is cheap. The hotel is comfortable.", "The hotel is both cheap and comfortable."],
+    ["He doesn't eat meat. He doesn't eat fish.", "He eats neither meat nor fish."]
+   ]
+  },
+  {
+   "titre": "4. Corriger l'erreur",
+   "consigne": "Chaque phrase contient une erreur. Corrige-la.",
+   "items": [
+    ["The both girls are tall.", "Both girls are tall. / Both of the girls are tall."],
+    ["Neither of us didn't understand.", "Neither of us understood."],
+    ["They like both rice.", "They both like rice."],
+    ["Neither Paul nor Ana doesn't smoke.", "Neither Paul nor Ana smokes."],
+    ["Either answers is correct.", "Either answer is correct."]
+   ]
+  },
+  {
+   "titre": "5. Traduire",
+   "consigne": "Traduis en anglais.",
+   "items": [
+    ["Nous sommes tous les deux fatigués.", "We are both tired. / Both of us are tired."],
+    ["Aucun de mes deux frères ne parle allemand.", "Neither of my brothers speaks German."],
+    ["Thé ou café ? — Ça m'est égal, l'un ou l'autre.", "Tea or coffee? — I don't mind. Either."],
+    ["Elle parle à la fois anglais et espagnol.", "She speaks both English and Spanish."]
+   ]
+  },
+  {
+   "titre": "6. À toi",
+   "consigne": "Pense à deux personnes de ta famille ou à deux amis. Écris quatre phrases : une avec both, une avec neither, une avec either, et une avec neither … nor.",
+   "items": [
+    ["Exemple de réponse", "My two best friends are Awa and Kevin. They both live in Brussels. Neither of them has a car. I can call either of them when I need help. Neither Awa nor Kevin likes cold weather!"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Both, either, neither : uniquement pour deux éléments (sinon all, any, none).",
+  "Both + nom pluriel ; either / neither + nom singulier ; avec of + the/my/them, nom pluriel.",
+  "Jamais « the both » ; both of + pronom (both of them) ; place : We both like… / They are both…",
+  "Neither est négatif : pas de not avec lui. Avec not, on utilise either.",
+  "Both A and B · either A or B · neither A nor B · Me neither = moi non plus."
+ ],
+ "liens": [10, 31, 58, 70],
+ "refs": ["bc-quantifiers", "cam-grammar"]
+}

@@ -1,0 +1,232 @@
+{
+ "n": 225,
+ "niveau": "C1",
+ "titre": "Formal register in writing",
+ "intro": "Reports, official letters, applications and articles: formal English follows precise rules of vocabulary, grammar and tone. Mastering them lets you write a serious text without sounding heavy or translated from another language's administrative style.",
+ "objectifs": [
+  "Identify the features of formal writing: vocabulary, impersonal structures, no contractions, linkers.",
+  "Turn a neutral text into a formal one (and back) while keeping the English clear.",
+  "Punctuate and place formal linkers correctly (however, moreover, consequently).",
+  "Avoid translated administrative formulas (“I remain at your disposal”, “actually” for “currently”, “In this report we will see”)."
+ ],
+ "sections": [
+  {
+   "titre": "What makes a text formal?",
+   "texte": [
+    "Formal register is not about complicated words but about a set of consistent choices: precise vocabulary, often of Latin origin; complete sentences without contractions; an impersonal, objective tone; and explicit logical links.",
+    "The goal is still clarity. Modern English, influenced by the Plain English movement in the UK and the US, penalises pomposity: “utilise” instead of “use” or “commence” instead of “start” often sounds pretentious. Formal does not mean obscure."
+   ],
+   "tableau": {
+    "entetes": ["Feature", "Neutral / informal", "Formal"],
+    "lignes": [
+     ["Contractions", "We can't confirm it.", "We cannot confirm this."],
+     ["Phrasal verbs", "We'll look into the problem.", "We will investigate the problem."],
+     ["Personal subject", "We found that costs went up.", "Costs were found to have increased."],
+     ["Quantity", "a lot of complaints", "a considerable number of complaints"],
+     ["Intensity", "a really big problem", "a significant / serious problem"],
+     ["Links", "So we stopped the project.", "Consequently, the project was discontinued."]
+    ]
+   }
+  },
+  {
+   "titre": "Choosing words",
+   "texte": [
+    "Formal English often prefers a single, Latin-based verb to a phrasal verb or to “get”. Lesson 243 explores these pairs in depth; learn the most frequent ones here.",
+    "Avoid vague words (thing, stuff, nice, big, a lot) and emotional intensifiers (really, totally, awful). Replace them with an exact term: “a major obstacle”, “a substantial increase”, “a serious concern”."
+   ],
+   "tableau": {
+    "entetes": ["Neutral", "Formal", "Formal example"],
+    "lignes": [
+     ["get", "obtain, receive, become", "Applicants must obtain a visa before arrival."],
+     ["need", "require", "Further information is required."],
+     ["ask for", "request", "We request a copy of the invoice."],
+     ["find out", "establish, determine, discover", "The audit aims to establish the cause."],
+     ["help", "assist", "Our staff will assist you."],
+     ["enough", "sufficient", "There is insufficient evidence."],
+     ["about", "approximately, regarding", "Approximately 300 people attended."],
+     ["before / after", "prior to / following", "Following the meeting, a report was issued."]
+    ]
+   },
+   "exemples": [
+    ["We need to find out why sales went down.", "Neutral: need, find out, went down."],
+    ["It is necessary to determine the causes of the decline in sales.", "Formal: impersonal structure, Latin-based verb, noun (decline)."]
+   ],
+   "note": "Don't change everything: “use”, “start” and “show” are perfectly acceptable in a report. Keep “utilise” and “commence” for technical or very ceremonial contexts."
+  },
+  {
+   "titre": "The grammar of formality",
+   "texte": [
+    "No contractions: cannot, do not, it is. For negatives, the clearest forms are preferred: “There is no evidence” rather than “There isn't any evidence”.",
+    "Impersonal structures and the passive put the focus on the action rather than the person: “It has been decided that…”, “Applications must be submitted by 1 May.”",
+    "In relative clauses, use “whom” after a preposition and put the preposition before the pronoun: “the committee to which the report was sent” (neutral: “the committee the report was sent to”).",
+    "Some conditional inversions belong to formal letters: “Should you require further information, please contact…” (= If you require…)."
+   ],
+   "exemples": [
+    ["The candidates to whom the offer was made have all accepted.", "Preposition + whom: a strong marker of formality."],
+    ["Should you have any questions, please contact the HR department.", "A typical inversion in letters."],
+    ["It is recommended that all staff complete the training.", "Impersonal: the recommendation is not attributed to anyone."]
+   ]
+  },
+  {
+   "titre": "Linkers and sentence construction",
+   "texte": [
+    "Formal linkers connect two complete sentences. “However”, “moreover”, “consequently” and “nevertheless” cannot join two clauses with just a comma: use a full stop or a semicolon before them, and a comma after.",
+    "Avoid starting a sentence with “And”, “But” or “So” in very formal writing; prefer “In addition”, “However”, “Therefore”. Inside a sentence, “but” and “so” are still fine.",
+    "Subordination (although, whereas, provided that, in order to) gives a denser style than a series of short sentences joined with “and”."
+   ],
+   "tableau": {
+    "entetes": ["Function", "Formal linkers"],
+    "lignes": [
+     ["Addition", "moreover, furthermore, in addition"],
+     ["Contrast", "however, nevertheless, whereas, by contrast"],
+     ["Result", "consequently, therefore, as a result, thus"],
+     ["Condition", "provided that, in the event that, unless"],
+     ["Purpose", "in order to, so as to, with a view to (+ -ing)"]
+    ]
+   },
+   "exemples": [
+    ["The budget was approved; however, the timeline remains uncertain.", "Semicolon before however, comma after."],
+    ["The project was delayed. Consequently, costs increased by 10 %.", "Two separate sentences: the linker begins the second."],
+    ["Funding will continue provided that the targets are met.", "“Provided that” = only if."]
+   ]
+  },
+  {
+   "titre": "Tone: objective and impersonal",
+   "texte": [
+    "Formal writing avoids generic “you” (“You can see that…”): write “It can be seen that…” or “As Table 2 shows…”. It also avoids rhetorical questions (“So what does this mean?”) and exclamation marks.",
+    "In a report or article, “I” and “we” are not forbidden, especially in science, but they are used sparingly: “We propose…”, “This report argues…”. An inanimate subject can take an action verb: “This report examines…”, “The data show…”.",
+    "Judgements are expressed with restraint: “This approach has significant limitations” rather than “This approach is terrible”."
+   ],
+   "exemples": [
+    ["As Figure 3 shows, demand fell sharply in 2024.", "Instead of “You can see in Figure 3 that…”."],
+    ["This report examines the impact of the new tax.", "Instead of “In this report, we will see…”."]
+   ]
+  },
+  {
+   "titre": "Translated formulas to avoid",
+   "texte": [
+    "Administrative styles in other languages have set phrases that do not translate word for word. English writers are shorter and more direct, even in formal register.",
+    "“Actually” means “in fact”, never “at present” (= currently). “Eventually” means “in the end”. “Sensible” means “reasonable”, not “sensitive”."
+   ],
+   "tableau": {
+    "entetes": ["Translated phrase to avoid", "Natural English"],
+    "lignes": [
+     ["I remain at your disposal for any further information.", "Please do not hesitate to contact me if you require further information."],
+     ["In this report, we will see the causes of…", "This report examines the causes of…"],
+     ["Actually, the company employs 200 people.", "The company currently employs 200 people."],
+     ["I would be grateful if you could send me it.", "I would be grateful if you could send it to me."],
+     ["Please accept, Sir, my distinguished salutations.", "Yours faithfully, (Dear Sir or Madam) / Yours sincerely, (Dear Ms Lee)"]
+    ]
+   }
+  }
+ ],
+ "formule": "Formal = precise (often Latin-based) words + full sentences without contractions + impersonal / passive + explicit linkers + restrained tone, without pomposity",
+ "prononciation": [
+  "When reading a formal text aloud, full forms are pronounced but stay natural: “cannot” /ˈkænɒt/ (BrE), stressed on the first syllable.",
+  "A linker at the start of a sentence forms its own group, followed by a pause: “However, | the results…”, “Consequently, | the project…”.",
+  "“furthermore” is /ˌfɜːðəˈmɔː/, main stress on “more”; “moreover” is /mɔːrˈəʊvə/, stress on “o”.",
+  "“require” /rɪˈkwaɪə/ and “sufficient” /səˈfɪʃənt/ are stressed on the second syllable.",
+  "“whom” is /huːm/: the w is silent."
+ ],
+ "erreurs": [
+  ["I remain at your disposal.", "Please do not hesitate to contact me.", "A translated formula that sounds unnatural in English."],
+  ["Actually, unemployment is at 7 %.", "Currently / At present, unemployment is at 7 %.", "“Actually” = in fact; for “now”, use currently."],
+  ["The results are good, however the costs are high.", "The results are good; however, the costs are high.", "“However” cannot join two sentences with only a comma."],
+  ["We can't accept your proposal.", "We cannot accept your proposal.", "No contractions in formal writing."],
+  ["You can see that prices have risen.", "It can be seen that prices have risen. / As the data show, prices have risen.", "Generic “you” is too informal."],
+  ["We need to look into the thing about the delays.", "The causes of the delays need to be investigated.", "A phrasal verb and a vague word replaced by precise terms."],
+  ["In this essay, we will see why…", "This essay examines why…", "A translated structure; make the text the subject of the verb."]
+ ],
+ "dialogue": {
+  "contexte": "In Ottawa, a manager checks the email a new colleague wants to send to a government department.",
+  "lignes": [
+   ["Hélène", "Your email starts with “Hi guys, we got your letter”. That's too casual for a ministry.", "The register is wrong for the reader."],
+   ["David", "OK. “Dear Sir or Madam, we have received your letter of 3 March”?", "A formal greeting and a precise reference."],
+   ["Hélène", "Much better. And here, “we need to look into it” could be “we will investigate the matter”.", "Phrasal verb → single formal verb."],
+   ["David", "Should I also change “a lot of applications”?", "He spots a vague quantity."],
+   ["Hélène", "Yes: “a considerable number of applications”. And remove the contractions, “can't” and “won't”.", "Two more formal features."],
+   ["David", "I ended with “I remain at your disposal”. Is that all right?", "A translated formula."],
+   ["Hélène", "It sounds translated. Try “Should you require any further information, please do not hesitate to contact me.”", "Inversion + standard closing sentence."],
+   ["David", "And then “Yours faithfully”, since I don't know their name.", "Correct British closing after “Dear Sir or Madam”."],
+   ["Hélène", "Exactly. Formal, but still clear and short.", "The key principle."]
+  ]
+ },
+ "mots": [
+  ["require", "Two forms of identification are required.", "need (formal)"],
+  ["obtain", "Permission must be obtained in advance.", "get (formal)"],
+  ["regarding", "I am writing regarding your application.", "about, concerning"],
+  ["prior to", "Please arrive prior to 9 a.m.", "before (formal)"],
+  ["sufficient", "There is insufficient data to conclude.", "enough"],
+  ["consequently", "Consequently, the event was cancelled.", "as a result"],
+  ["whereas", "Sales rose in Quebec, whereas they fell in Ontario.", "while, in contrast"],
+  ["assist", "We will be happy to assist you.", "help (formal)"],
+  ["currently", "The office is currently closed.", "at present, now"],
+  ["hesitate", "Please do not hesitate to contact us.", "pause before acting because you are unsure"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Formal or neutral?",
+   "consigne": "Say whether the sentence is formal or neutral / informal.",
+   "items": [
+    ["We'll sort it out next week.", "neutral / informal"],
+    ["The matter will be resolved next week.", "formal"],
+    ["Should you wish to attend, please register online.", "formal"],
+    ["Loads of people turned up.", "neutral / informal"]
+   ]
+  },
+  {
+   "titre": "2. The formal word",
+   "consigne": "Replace the word or phrase in brackets with a formal equivalent.",
+   "items": [
+    ["Applicants [need] a valid passport.", "require"],
+    ["We [asked for] a refund.", "requested"],
+    ["The study aims to [find out] the causes.", "determine / establish"],
+    ["[Before] the meeting, please read the report.", "Prior to"],
+    ["There is not [enough] evidence.", "sufficient"],
+    ["Our team will [help] you.", "assist"]
+   ]
+  },
+  {
+   "titre": "3. Rewrite in formal register",
+   "consigne": "Rewrite each sentence in formal English.",
+   "items": [
+    ["We can't give you the money back.", "We are unable to issue a refund. / We cannot refund the payment."],
+    ["You can see that prices went up a lot.", "It can be seen that prices increased considerably."],
+    ["So we stopped the project.", "Consequently, the project was discontinued."],
+    ["If you have any questions, just get in touch.", "Should you have any questions, please do not hesitate to contact us."]
+   ]
+  },
+  {
+   "titre": "4. Correct the mistakes",
+   "consigne": "Correct each sentence.",
+   "items": [
+    ["Actually, the firm has 50 employees. (meaning: at present)", "Currently, the firm has 50 employees."],
+    ["In this report, we will see the main risks.", "This report examines the main risks."],
+    ["The plan is ambitious, however it is costly.", "The plan is ambitious; however, it is costly."]
+   ]
+  },
+  {
+   "titre": "5. Formal closing and opening sentences",
+   "consigne": "Write the formal sentence that expresses the idea.",
+   "items": [
+    ["Offer more help at the end of a letter.", "Please do not hesitate to contact me should you require any further information."],
+    ["Say that you have received a request sent on 12 May.", "We acknowledge receipt of your request of 12 May. / We have received your request of 12 May."]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Rewrite this message in formal register (a letter to a public office): “Hi, I sent you my papers a month ago and I still haven't heard anything. Can you check what's going on? Thanks!”",
+   "items": [
+    ["Example answer", "Dear Sir or Madam, I am writing regarding the documents I submitted on 4 March in support of my application. As I have not yet received a response, I would be grateful if you could inform me of the current status of my file. Should any further documents be required, please do not hesitate to contact me. Yours faithfully, Amina Bello"]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Formal = a set of consistent choices: precise vocabulary, no contractions, impersonal structures, explicit linkers, restrained tone.",
+  "Prefer require, obtain, request, assist, prior to, sufficient… but avoid pomposity: “use” and “start” are fine.",
+  "However / moreover / consequently: full stop or semicolon before, comma after.",
+  "Avoid translated formulas: actually ≠ currently; not “I remain at your disposal”; “This report examines…”, not “we will see”."
+ ],
+ "liens": [207, 203, 226, 238, 243],
+ "refs": ["bc-c1", "cam-using", "cam-confused"]
+}

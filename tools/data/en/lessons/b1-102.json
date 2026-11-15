@@ -1,0 +1,195 @@
+{
+ "n": 102,
+ "niveau": "B1",
+ "titre": "Relative clauses without a pronoun, and whose",
+ "intro": "In everyday English, we very often leave out the relative pronoun: “the film I saw”, “the man you met”. You need to know when this is possible, and how to use whose to show possession in a relative clause.",
+ "objectifs": [
+  "Know when you can leave out who, which or that (object pronoun) and when you can't (subject pronoun, non-defining clause).",
+  "Understand and use “hidden” relative clauses with a preposition at the end (the person I spoke to).",
+  "Use whose + noun to show possession, for people and things.",
+  "Tell whose and who's apart in speech and writing."
+ ],
+ "sections": [
+  {
+   "titre": "Leaving out the object pronoun",
+   "texte": [
+    "In a defining relative clause, when who, which or that is the object (followed by a subject and a verb), we can leave it out. This is the most natural form in speech: “The film (that) we watched was great.”",
+    "The method: look at the word after the pronoun. If it is a subject (I, you, my sister, the children…), the pronoun can go. If it is a verb, the pronoun is the subject and must stay.",
+    "These clauses can be hard to hear because there is no signal word: “The man I met…” = the man that I met. Listen for the second subject."
+   ],
+   "tableau": {
+    "entetes": ["With pronoun", "Without pronoun (everyday)", "Possible?"],
+    "lignes": [
+     ["The book that I bought is good.", "The book I bought is good.", "yes (that = object)"],
+     ["The woman who you saw is my aunt.", "The woman you saw is my aunt.", "yes (who = object)"],
+     ["The man who lives here is kind.", "—", "no (who = subject of lives)"],
+     ["The bus that goes to Kribi is full.", "—", "no (that = subject of goes)"],
+     ["My car, which I bought in 2020, is red.", "—", "no (non-defining clause)"]
+    ]
+   }
+  },
+  {
+   "titre": "Clauses without a pronoun and with a preposition",
+   "texte": [
+    "When the preposition is at the end of the clause, we almost always leave out the pronoun: “the person I spoke to”, “the music she listens to”, “the problem we talked about”. This is the most natural structure in spoken English.",
+    "Don't forget the final preposition: “the house I live” is wrong; you need “the house I live in”."
+   ],
+   "exemples": [
+    ["That's the man I told you about.", "tell someone about + preposition at the end."],
+    ["Is this the key you were looking for?", "look for."],
+    ["The company she works for is based in Ottawa.", "work for."],
+    ["The friends I went on holiday with are from Ghent.", "go with."]
+   ]
+  },
+  {
+   "titre": "Whose: possession",
+   "texte": [
+    "Whose replaces a possessive (his, her, their, its) in a relative clause. It is always followed by a noun, with no article: “the man whose car was stolen” (his car was stolen).",
+    "Whose is used for people, but also for things, countries and companies: “a company whose profits are rising”, “a city whose streets are clean”. In very formal style you may also see “of which” for things (the house, the roof of which…), but whose is simpler and more common.",
+    "Whose can be used in a non-defining clause: “My neighbour, whose son plays for the national team, is very proud.” Don't confuse it with who's (= who is / who has), which sounds the same."
+   ],
+   "exemples": [
+    ["I have a friend whose father is a pilot.", "His father is a pilot."],
+    ["That's the girl whose phone I found.", "I found her phone."],
+    ["We stayed in a village whose name I can't remember.", "Whose for a place."],
+    ["Who's the woman whose bag is on my chair?", "Who's = who is; whose = possession."]
+   ]
+  },
+  {
+   "titre": "Common verbs with prepositions in relative clauses",
+   "texte": [
+    "Many everyday verbs and adjectives take a preposition, and it goes to the end of the relative clause. Learn them as blocks: talk about, look for, listen to, rely on, be proud of, be interested in, be afraid of.",
+    "Some verbs take no preposition in English: need, discuss, enter, answer. So “the tools I need”, not “the tools I need of”."
+   ],
+   "tableau": {
+    "entetes": ["Verb / adjective", "Relative clause", "Note"],
+    "lignes": [
+     ["talk about", "the book I told you about", "preposition at the end"],
+     ["need", "the tools I need", "no preposition"],
+     ["be proud of", "the project she's proud of", "preposition at the end"],
+     ["discuss", "the problem we discussed", "no preposition (not discuss about)"],
+     ["the way", "the way he speaks", "no pronoun, no preposition"]
+    ]
+   }
+  },
+  {
+   "titre": "Reduced forms with -ing and past participles",
+   "texte": [
+    "A subject relative clause can sometimes be reduced: we drop the pronoun and be, and keep the -ing form or the past participle. “The man (who is) sitting by the window” → “the man sitting by the window”. “The cars (which were) made in this factory” → “the cars made in this factory”.",
+    "These forms are very common in writing, in articles and instructions. They are studied further at C1 (participle clauses)."
+   ],
+   "exemples": [
+    ["Who's the woman talking to Marc?", "= the woman who is talking to Marc."],
+    ["The photos taken at the wedding are beautiful.", "= the photos that were taken at the wedding."]
+   ]
+  }
+ ],
+ "formule": "noun + (that / who / which) + subject + verb → noun + subject + verb · noun + whose + noun + verb",
+ "prononciation": [
+  "When the pronoun is left out, say the phrase in one breath: “the film I saw” /ðə ˈfɪlm aɪ ˈsɔː/. Listen for the second subject (I) to understand the structure.",
+  "whose /huːz/ and who's /huːz/ sound exactly the same: only the context (or the spelling) tells them apart.",
+  "The final preposition must be heard: at the end of a sentence, it takes its full form. “the man I talked to” ends in /tuː/ (not /tə/), “the job she applied for” in /fɔː/.",
+  "In “the woman whose son…”, the stress falls on the noun after whose: “whose SON plays football”."
+ ],
+ "erreurs": [
+  ["The man lives next door is a doctor.", "The man who lives next door is a doctor.", "Subject pronoun: it can't be left out."],
+  ["The house I live is very old.", "The house I live in is very old.", "Keep the verb's preposition (live in) at the end."],
+  ["The man who his car was stolen called the police.", "The man whose car was stolen called the police.", "Possession: whose + noun, without his."],
+  ["The girl whose the bag is red is my cousin.", "The girl whose bag is red is my cousin.", "No article after whose."],
+  ["The problem we discussed about is serious.", "The problem we discussed is serious.", "Discuss takes no preposition."],
+  ["My sister, I live with, is a nurse.", "My sister, who I live with, is a nurse.", "Non-defining clause: the pronoun can't be left out."],
+  ["Who's car is this?", "Whose car is this?", "Possession = whose; who's = who is / who has."]
+ ],
+ "dialogue": {
+  "contexte": "A shared flat in Brussels. Léa is looking for lost things; her flatmate Samuel, from Buea, helps her.",
+  "lignes": [
+   ["Léa", "Have you seen the scarf I bought in Marrakech?", "No pronoun: the scarf (that) I bought."],
+   ["Samuel", "The blue one? Isn't it the one you lent to Inès?", "The one (that) you lent."],
+   ["Léa", "Oh, you're right! Inès is the friend whose brother works at the European Parliament.", "Whose = her brother."],
+   ["Samuel", "Yes, the guy we met at the concert last month.", "No pronoun: the guy (who) we met."],
+   ["Léa", "Exactly. And where are the keys I left on the table?", "No pronoun again."],
+   ["Samuel", "In the drawer you always forget about!", "Preposition at the end: forget about."],
+   ["Léa", "Ha! And whose jacket is this on the sofa?", "Whose in a direct question."],
+   ["Samuel", "That's the jacket my cousin was looking for. He's the one who's coming for dinner tonight.", "Who's = who is."]
+  ]
+ },
+ "mots": [
+  ["whose", "She's the colleague whose idea won the prize.", "used to show who something belongs to"],
+  ["look for", "Is this the book you were looking for?", "to try to find"],
+  ["talk about", "That's the problem we talked about.", "to discuss a subject"],
+  ["rely on", "He's the only person I can rely on.", "to trust someone to help you"],
+  ["proud of", "This is the project I'm most proud of.", "pleased about something you have done"],
+  ["lend", "The umbrella you lent me is broken.", "to give something to someone for a short time"],
+  ["drawer", "The keys are in the drawer I showed you.", "a box that slides in and out of a piece of furniture"],
+  ["owner", "The owner whose shop was robbed called the police.", "a person who owns something"]
+ ],
+ "exercices": [
+  {
+   "titre": "1. Can you leave out the pronoun?",
+   "consigne": "Say if the relative pronoun can be left out (yes / no).",
+   "items": [
+    ["The cake that you made was delicious.", "yes"],
+    ["The woman who called you is my boss.", "no (who is the subject)"],
+    ["The people who we met in Kribi were friendly.", "yes"],
+    ["My father, who you met last year, is retired.", "no (non-defining clause)"],
+    ["The train which leaves at 8 is always full.", "no (which is the subject)"]
+   ]
+  },
+  {
+   "titre": "2. Whose, who or who's?",
+   "consigne": "Complete with whose, who or who's.",
+   "items": [
+    ["I know a man ___ wife is a famous singer.", "whose"],
+    ["The student ___ asked the question is from Bafoussam.", "who"],
+    ["___ the woman in the photo?", "Who's"],
+    ["___ phone is ringing?", "Whose"]
+   ]
+  },
+  {
+   "titre": "3. Join without a pronoun",
+   "consigne": "Join the sentences with a relative clause without a pronoun (keep the preposition if needed).",
+   "items": [
+    ["This is the hotel. We stayed at it last summer.", "This is the hotel we stayed at last summer."],
+    ["The music is too loud. My neighbour listens to it.", "The music my neighbour listens to is too loud."],
+    ["I loved the meal. You cooked it.", "I loved the meal you cooked."],
+    ["She's the friend. I can always count on her.", "She's the friend I can always count on."]
+   ]
+  },
+  {
+   "titre": "4. Join with whose",
+   "consigne": "Join the sentences with whose.",
+   "items": [
+    ["I met a woman. Her son studies in Montreal.", "I met a woman whose son studies in Montreal."],
+    ["That's the company. Its products are sold all over Africa.", "That's the company whose products are sold all over Africa."],
+    ["The boy is crying. His bike was stolen.", "The boy whose bike was stolen is crying."],
+    ["We visited a town. I can't pronounce its name.", "We visited a town whose name I can't pronounce."]
+   ]
+  },
+  {
+   "titre": "5. Complete the relative clause",
+   "consigne": "Complete with a relative clause using the verb in brackets (whose or no pronoun).",
+   "items": [
+    ["It's the film everyone ___. (talk about)", "is talking about"],
+    ["I have a neighbour ___ is a pilot. (husband)", "whose husband"],
+    ["Here are the documents you ___. (need)", "need"],
+    ["It's the work I'm ___. (proud)", "proudest of / most proud of"]
+   ]
+  },
+  {
+   "titre": "6. Your turn",
+   "consigne": "Write 4 sentences about people and things in your life: two relative clauses without a pronoun (one with a final preposition) and two sentences with whose.",
+   "items": [
+    ["Example answer", "The city I live in is small but very green. My best friend is the person I talk to when I have a problem. I have a cousin whose restaurant is famous in Douala. I work for a company whose clients are mostly in Canada."]
+   ]
+  }
+ ],
+ "a_retenir": [
+  "Object pronoun (followed by a subject): you can leave it out — the film (that) I saw.",
+  "Subject pronoun (followed by a verb) or non-defining clause: never leave it out.",
+  "The preposition stays at the end: the person I spoke to, the house I live in.",
+  "Whose + noun (no article) = possession, for people and things; ≠ who's.",
+  "Some verbs take no preposition: need, discuss, enter, answer."
+ ],
+ "liens": [101, 15, 63, 151],
+ "refs": ["bc-relative-def", "bc-relative-nondef"]
+}
