@@ -58,3 +58,12 @@ This is a content coverage gap, not a broken build: the generator successfully p
 2. Audit the generated pages for keyboard operation, focus visibility, reduced-motion behaviour and mobile navigation.
 3. Build a transparent lesson-coverage dashboard from validated data, distinguishing published, draft, missing and needs-review states.
 4. Prioritise faithful source migration for the missing lesson slots before expanding the curriculum with new material.
+
+
+## Learner continuity enhancement — 15 November 2026
+
+- The **My learning** page now offers a direct resume link to the most recently opened lesson.
+- It stores only the lesson identifier, displayed title and same-site path in the learner's browser (jg-last-lesson-v1). No history of every page, external browsing data, account or server-side profile is created.
+- The stored path is checked to remain on the same origin and to match a valid A1–C1 lesson route before it is rendered as a link.
+- If no lesson has been opened yet, the dashboard directs the learner to the learning path.
+- Browser execution, storage-denied behaviour and real-device navigation have not yet been tested; this is a source-level implementation awaiting local build and browser verification.
