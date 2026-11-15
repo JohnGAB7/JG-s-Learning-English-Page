@@ -1,30 +1,70 @@
-name: Deploy JG's Learning English
-# Manual only: Pages currently deploys from the master branch (/docs) with GitHub's built-in run.
-# The push trigger was removed because this workflow failed on every push (Pages source is not "GitHub Actions").
+name: Build and deploy JG's Learning English
+
+# Requires Settings > Pages > Build and deployment > Source = GitHub Actions.
 on:
+  push:
+    branches: [master]
+    paths:
+      - "tools/**"
+      - ".github/workflows/pages.yml"
+  pull_request:
+    branches: [master]
+    paths:
+      - "tools/**"
+      - ".github/workflows/pages.yml"
   workflow_dispatch:
+
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
+
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: github-pages
+  cancel-in-progress: false
+
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Check out source
         uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build French and English editions
+        run: python3 tools/build.py
+      - name: Validate generated website
+        run: python3 tools/validate_site.py
       - name: Configure Pages
+        if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5
-      - name: Upload artifact
+      - name: Commit generated pages to master
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "Generated site is already up to date."
+          else
+            git commit -m "Build generated website"
+            git push origin HEAD:master
+          fi
+      - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: docs
-      - name: Deploy
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
