@@ -310,7 +310,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
 /* Resume support: remember only the most recently opened lesson on this device. */
 document.addEventListener("DOMContentLoaded",()=>{
-  const lessonMatch=window.location.pathname.match(/\\/(?:en\\/)?lessons\\/((?:a1|a2|b1|b2|c1)-\\d{3})\\/?$/i);
+  const lessonMatch=window.location.pathname.match(/\/(?:en\/)?lessons\/((?:a1|a2|b1|b2|c1)-\\d{3})\/?$/i);
   if(lessonMatch){
     const heading=document.querySelector("main h1")||document.querySelector("h1");
     const record={
@@ -331,7 +331,7 @@ document.addEventListener("DOMContentLoaded",()=>{
     const saved=JSON.parse(localStorage.getItem("jg-last-lesson-v1")||"null");
     if(saved&&typeof saved==="object"&&typeof saved.url==="string"){
       const target=new URL(saved.url,window.location.origin);
-      const match=target.pathname.match(/\\/(?:en\\/)?lessons\\/((?:a1|a2|b1|b2|c1)-\\d{3})\\/?$/i);
+      const match=target.pathname.match(/\/(?:en\/)?lessons\/((?:a1|a2|b1|b2|c1)-\\d{3})\/?$/i);
       if(target.origin===window.location.origin&&match){
         record={
           id:match[1].toLowerCase(),
