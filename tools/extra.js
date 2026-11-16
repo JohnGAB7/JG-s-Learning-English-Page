@@ -260,6 +260,48 @@ document.addEventListener("DOMContentLoaded",()=>{
 });
 
 
+/* Explicit lesson completion. Opening a page never marks it complete. */
+document.addEventListener("DOMContentLoaded",()=>{
+  const buttons=[...document.querySelectorAll("[data-complete-lesson]")];
+  const key="jg-lesson-progress-v1";
+  if(!buttons.length)return;
+  const fr=document.documentElement.lang==="fr";
+  let progress={};
+  try{
+    const parsed=JSON.parse(localStorage.getItem(key)||"{}");
+    if(parsed&&typeof parsed==="object"&&!Array.isArray(parsed))progress=parsed;
+  }catch(error){}
+  const render=button=>{
+    const id=button.dataset.completeLesson;
+    const done=progress[id]?.completed===true;
+    button.disabled=done;
+    button.textContent=done?button.dataset.completedLabel:button.dataset.completeLabel;
+    button.setAttribute("aria-pressed",String(done));
+    const feedback=document.querySelector('[data-lesson-complete-feedback="'+id+'"]');
+    if(feedback)feedback.textContent=done
+      ?(fr?"Progression enregistrée sur cet appareil.":"Progress saved on this device.")
+      :"";
+  };
+  buttons.forEach(button=>{
+    render(button);
+    button.addEventListener("click",()=>{
+      const id=button.dataset.completeLesson;
+      if(!/^(a1|a2|b1|b2|c1)-\\d{3}$/.test(id)||progress[id]?.completed)return;
+      progress[id]={completed:true,completedAt:new Date().toISOString()};
+      try{
+        localStorage.setItem(key,JSON.stringify(progress));
+        render(button);
+      }catch(error){
+        const feedback=document.querySelector('[data-lesson-complete-feedback="'+id+'"]');
+        if(feedback)feedback.textContent=fr
+          ?"Impossible d’enregistrer : vérifie les paramètres de stockage du navigateur."
+          :"Could not save. Check your browser storage settings.";
+      }
+    });
+  });
+});
+
+
 /* Browser-local learning overview. It reads existing stores; it creates no new profile. */
 document.addEventListener("DOMContentLoaded",()=>{
   const dashboard=document.querySelector("[data-learning-dashboard]");
@@ -280,8 +322,11 @@ document.addEventListener("DOMContentLoaded",()=>{
   const status=dashboard.parentElement.querySelector("[data-learning-storage-status]");
   try{
     const studioIds=JSON.parse(dashboard.dataset.studioIds||"[]");
+    const lessonIds=JSON.parse(dashboard.dataset.lessonIds||"[]");
     const speakingKeys=JSON.parse(dashboard.dataset.speakingKeys||"[]");
     const studio=readObject("jg-studio-progress-v1");
+    const lessons=readObject("jg-lesson-progress-v1");
+    const lessonsDone=lessonIds.filter(id=>lessons[id]?.completed===true).length;
     const studioDone=studioIds.filter(id=>studio[id]?.completed).length;
     const speakingDone=speakingKeys.filter(key=>localStorage.getItem("jg-speaking-complete-"+key)==="1").length;
     const notes=speakingKeys.filter(key=>(localStorage.getItem("jg-speaking-"+key)||"").trim().length>0).length;
@@ -290,7 +335,9 @@ document.addEventListener("DOMContentLoaded",()=>{
     const priorityCount=Object.values(review).filter(value=>Number(value)>=5).length;
     const drafts=Object.keys(localStorage).filter(key=>key.startsWith("jg-writing-")&&(localStorage.getItem(key)||"").trim().length>0).length;
     setValue("studios",studioDone+" / "+studioIds.length);
+    setValue("lessons",lessonsDone+" / "+lessonIds.length);
     setValue("speaking",speakingDone+" / "+speakingKeys.length);
+    setProgress("lessons",lessonsDone,lessonIds.length);
     setValue("review",reviewCount);
     setValue("review-priority",fr?priorityCount+" mot(s) à revoir en priorité":priorityCount+" word(s) marked for extra review");
     setValue("drafts",drafts);
