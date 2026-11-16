@@ -286,7 +286,7 @@ document.addEventListener("DOMContentLoaded",()=>{
     render(button);
     button.addEventListener("click",()=>{
       const id=button.dataset.completeLesson;
-      if(!/^(a1|a2|b1|b2|c1)-\\d{3}$/.test(id)||progress[id]?.completed)return;
+      if(!/^(a1|a2|b1|b2|c1)-\d{3}$/.test(id)||progress[id]?.completed)return;
       progress[id]={completed:true,completedAt:new Date().toISOString()};
       try{
         localStorage.setItem(key,JSON.stringify(progress));
