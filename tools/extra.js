@@ -260,8 +260,58 @@ document.addEventListener("DOMContentLoaded",()=>{
 });
 
 
-/* Browser-local learning overview. It reads existing stores; it creates no new profile. */
+/* Explicit lesson completion uses the same canonical store as future account sync. */
 document.addEventListener("DOMContentLoaded",()=>{
+  const buttons=[...document.querySelectorAll("[data-complete-lesson]")];
+  if(!buttons.length)return;
+  const fr=document.documentElement.lang==="fr";
+  let store=null,completed=new Set();
+  const feedbackFor=id=>document.querySelector('[data-lesson-complete-feedback="'+id+'"]');
+  const render=button=>{
+    const id=button.dataset.completeLesson,done=completed.has(id);
+    button.disabled=done;
+    button.textContent=done?button.dataset.completedLabel:button.dataset.completeLabel;
+    button.setAttribute("aria-pressed",String(done));
+    const feedback=feedbackFor(id);
+    if(feedback)feedback.textContent=done
+      ?(fr?"Progression enregistrée sur cet appareil.":"Progress saved on this device.")
+      :"";
+  };
+  buttons.forEach(button=>{button.disabled=true;});
+  import("./account/lesson-progress.mjs").then(async module=>{
+    store=await module.openLessonProgressStore(localStorage);
+    const records=await store.list();
+    completed=new Set(records.filter(row=>row.item_id.startsWith("lesson:")&&row.status==="completed").map(row=>row.item_id.slice(7)));
+    buttons.forEach(render);
+  }).catch(()=>{
+    buttons.forEach(button=>{
+      const feedback=feedbackFor(button.dataset.completeLesson);
+      if(feedback)feedback.textContent=fr
+        ?"Impossible de lire la progression locale. Tes données existantes n’ont pas été supprimées."
+        :"Could not read local progress. Existing data has not been deleted.";
+    });
+  });
+  buttons.forEach(button=>button.addEventListener("click",async()=>{
+    const id=button.dataset.completeLesson;
+    if(!/^(a1|a2|b1|b2|c1)-\d{3}$/.test(id)||completed.has(id)||!store)return;
+    button.disabled=true;
+    try{
+      await store.upsert({item_id:"lesson:"+id,status:"completed",updated_at:new Date().toISOString()});
+      completed.add(id);
+      render(button);
+    }catch(error){
+      button.disabled=false;
+      const feedback=feedbackFor(id);
+      if(feedback)feedback.textContent=fr
+        ?"Impossible d’enregistrer : vérifie les paramètres de stockage du navigateur."
+        :"Could not save. Check your browser storage settings.";
+    }
+  }));
+});
+
+
+/* Browser-local learning overview. It reads existing stores; it creates no new profile. */
+document.addEventListener("DOMContentLoaded",async()=>{
   const dashboard=document.querySelector("[data-learning-dashboard]");
   if(!dashboard)return;
   const fr=document.documentElement.lang==="fr";
@@ -280,8 +330,13 @@ document.addEventListener("DOMContentLoaded",()=>{
   const status=dashboard.parentElement.querySelector("[data-learning-storage-status]");
   try{
     const studioIds=JSON.parse(dashboard.dataset.studioIds||"[]");
+    const lessonIds=JSON.parse(dashboard.dataset.lessonIds||"[]");
     const speakingKeys=JSON.parse(dashboard.dataset.speakingKeys||"[]");
     const studio=readObject("jg-studio-progress-v1");
+    const lessonStore=await import("./account/lesson-progress.mjs").then(module=>module.openLessonProgressStore(localStorage));
+    const lessonRecords=await lessonStore.list();
+    const completedLessons=new Set(lessonRecords.filter(row=>row.item_id.startsWith("lesson:")&&row.status==="completed").map(row=>row.item_id.slice(7)));
+    const lessonsDone=lessonIds.filter(id=>completedLessons.has(id)).length;
     const studioDone=studioIds.filter(id=>studio[id]?.completed).length;
     const speakingDone=speakingKeys.filter(key=>localStorage.getItem("jg-speaking-complete-"+key)==="1").length;
     const notes=speakingKeys.filter(key=>(localStorage.getItem("jg-speaking-"+key)||"").trim().length>0).length;
@@ -290,7 +345,9 @@ document.addEventListener("DOMContentLoaded",()=>{
     const priorityCount=Object.values(review).filter(value=>Number(value)>=5).length;
     const drafts=Object.keys(localStorage).filter(key=>key.startsWith("jg-writing-")&&(localStorage.getItem(key)||"").trim().length>0).length;
     setValue("studios",studioDone+" / "+studioIds.length);
+    setValue("lessons",lessonsDone+" / "+lessonIds.length);
     setValue("speaking",speakingDone+" / "+speakingKeys.length);
+    setProgress("lessons",lessonsDone,lessonIds.length);
     setValue("review",reviewCount);
     setValue("review-priority",fr?priorityCount+" mot(s) à revoir en priorité":priorityCount+" word(s) marked for extra review");
     setValue("drafts",drafts);
@@ -378,4 +435,16 @@ document.addEventListener("DOMContentLoaded",()=>{
     :(fr?"Explorer le parcours →":"Explore the learning path →");
   card.append(copy,link);
   dashboard.insertAdjacentElement("afterend",card);
+});
+
+/* My Learning account preview: honest guest mode and an accessible future-account dialog. */
+document.addEventListener("DOMContentLoaded",()=>{
+  const dialog=document.querySelector("[data-account-dialog]");
+  const open=document.querySelector("[data-account-info]");
+  if(dialog&&open){
+    const closeButtons=dialog.querySelectorAll("[data-account-close]");
+    open.addEventListener("click",()=>{if(typeof dialog.showModal==="function")dialog.showModal();});
+    closeButtons.forEach(button=>button.addEventListener("click",()=>dialog.close()));
+    dialog.addEventListener("click",event=>{if(event.target===dialog)dialog.close();});
+  }
 });
