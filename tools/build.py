@@ -863,6 +863,8 @@ def build_assets():
     write("assets/css/palette.css", (ROOT / "palette.css").read_text(encoding="utf-8"))
     write("assets/css/jg.css", (ROOT / "extra.css").read_text(encoding="utf-8"))
     write("assets/js/site.js", clean((th / "site.js").read_text(encoding="utf-8")) + "\n" + (ROOT / "extra.js").read_text(encoding="utf-8"))
+    for module in sorted((ROOT / "account").glob("*.mjs")):
+        write(f"assets/js/account/{module.name}", module.read_text(encoding="utf-8"))
     for img in sorted((ROOT / "brand").iterdir()):
         write(f"assets/img/{img.name}", img.read_bytes())
     write(".nojekyll", "")
