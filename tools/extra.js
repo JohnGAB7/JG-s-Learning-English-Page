@@ -311,7 +311,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
 
 /* Browser-local learning overview. It reads existing stores; it creates no new profile. */
-document.addEventListener("DOMContentLoaded",()=>{
+document.addEventListener("DOMContentLoaded",async()=>{
   const dashboard=document.querySelector("[data-learning-dashboard]");
   if(!dashboard)return;
   const fr=document.documentElement.lang==="fr";
