@@ -6,7 +6,7 @@ import { createLocalProgressStore } from "./progress-store.mjs";
 
 const CANONICAL_KEY = "jg-learning-progress-v1";
 const LEGACY_LESSON_KEY = "jg-lesson-progress-v1";
-const LESSON_ID = /^(a1|a2|b1|b2|c1)-\\d{3}$/;
+const LESSON_ID = /^(a1|a2|b1|b2|c1)-\d{3}$/;
 
 export async function openLessonProgressStore(storage = globalThis.localStorage) {
   const store = createLocalProgressStore(storage, CANONICAL_KEY);
